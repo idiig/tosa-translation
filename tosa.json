@@ -1,0 +1,44 @@
+[
+  {
+    "title": "土佐日記",
+    "title_kana": "とさにき",
+    "title_roman": "Tosa Nikki",
+    "author": "紀貫之",
+    "author_kana": "きのつらゆき",
+    "author_roman": "Ki no Tsurayuki",
+    "paragraph": [
+      {
+        "date": "20241026",
+        "id": "1",
+        "text": "男もすなる日記といふものを、女もしてみむとてするなり。",
+        "kana": "をとこもすなるにきといふものを、をんなもしてみむとてするなり。",
+        "translation-ja": "漢字で書く日記とかいうものを、仮名でしてみようとしてするものである。",
+        "translation-en": "Making a diary is something written in the masculine style, but I will try to write it in the feminine style."
+      },
+      {
+        "date": "20241026",
+        "id": "2",
+        "text": "それの年のしはすの二十日あまり一日の、戌の時に門出す。",
+        "kana": "それのとしのしはすのはつかあまりついたちの、いぬのときにかどです。",
+        "translation-ja": "その年（承平四年）の師走の二十一日の、戌の時に出発しました。",
+        "translation-en": "On the twenty-first day of December in the 4th year of the Shohei era, we departed at the hour of the dog (around 8 to 10 PM)."
+      },
+      {
+        "date": "20241026",
+        "id": "3",
+        "text": "そのよしいさゝかものにかきつく。",
+        "kana": "そのよしいささかものにかきつく。",
+        "translation-ja": "その出来事を少し書きとめました。",
+        "translation-en": "I wrote down a little about the matter."
+      },
+      {
+        "date": "20241026",
+        "id": "4",
+        "text": "そのしるしをものかきつく。",
+        "kana": "そのしるしをものかきつく。",
+        "translation-ja": "その出来事を書きとめました。",
+        "translation-en": "I wrote down the matter."
+      }
+    ]
+  }
+]
