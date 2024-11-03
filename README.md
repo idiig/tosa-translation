@@ -86,7 +86,7 @@ $ jq '[. |
       + (if ."translation-en" != null then {"translation-en": ."translation-en"} else {} end)
     ]
   }
-]' tosanikki.json | lv
+]' tosa.json | lv
 ```
 
 ### **Reference**
