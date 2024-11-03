@@ -45,7 +45,7 @@
         "text": "ある人縣の四年五年はてゝ例のことゞも皆しをへて、解由など取りて住むたちより出でゝ船に乘るべき所へわたる。",
         "kana": "あるひとあがたのよとせいつとせはててれいのことどもみなしをへて、げゆなどとりてすむたちよりいでてふねにのるべきところへわたる。",
         "translation-ja": "ある人が国司として四年、五年の任期を終え、例の儀式なども全て済ませ、解由状などを受け取り、住まいを出て船に乗る所へ渡る。",
-        "translation-en": "A certain person, having finished his four or five years as governor, completed all customary matters, received the geyu document, and departed from his residence to cross over to the place where he was to board the ship."
+        "translation-en": "A certain person, having finished my four or five years as governor, completed all customary matters, received the geyu document, and departed from my residence to cross over to the place where I was to board the ship."
       },
       {
         "date": "20241103",
@@ -53,7 +53,7 @@
         "text": "かれこれ知る知らぬおくりす。",
         "kana": "かれこれしるしらぬおくりす。",
         "translation-ja": "かれこれ、知っている人、知らない人が見送りをする。",
-        "translation-en": "People who know him and people who don't know him all see him off."
+        "translation-en": "People who know me and people who don't know me all see me off."
       },
       {
         "date": "20241103",
@@ -62,6 +62,14 @@
         "kana": "としごろよくぐしつるひとびとなむわかれがたくおもひてそのひしきりにとかくしつつののしるうちによふけぬ。",
         "translation-ja": "長年親しく付き合ってきた人々が、別れがたいと感じて、毎日のようにあれこれと言いながら賑やかに過ごすうちに、夜が更けてしまった。",
         "translation-en": "People who had been close for many years, finding it hard to part, spent each day talking back and forth, and before they knew it, night had fallen."
+      },
+      {
+        "date": "20241103",
+        "id": "8",
+        "text": "廿二日（にイ有）、和泉の國までとたひらかにねがひたつ。",
+        "kana": "はつか（にあり）、いずみのくにまでとたひらかにねがひたつ。",
+        "translation-ja": "二十二日に、和泉の国までと無事を願いをたてた。",
+        "translation-en": "On the twenty-second day, I made a wish for a safe journey to the province of Izumi."
       }
     ]
   }
