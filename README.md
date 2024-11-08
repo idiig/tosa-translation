@@ -67,7 +67,7 @@ ound 8 to 10 PM)."
 
 This json file can be manipulated with the following command with jq:
 
-```sh
+````sh
 $ jq '[. |
   {
     title: .title,
@@ -87,7 +87,6 @@ $ jq '[. |
     ]
   }
 ]' tosa.json | lv
-```
 
 ### **Reference**
 
@@ -103,4 +102,4 @@ $ jq '[. |
   publisher = {Shogakukan},
   OPTnote = {},
 }
-```
+````
