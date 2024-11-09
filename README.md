@@ -65,7 +65,7 @@ It is written in json format as follows:
 
 This json file can be manipulated with the following command with jq:
 
-````sh
+```sh
 $ jq '[. |
   {
     title: .title,
@@ -86,6 +86,7 @@ $ jq '[. |
     ]
   }
 ]' tosa.json | lv
+```
 
 ### **Reference**
 
@@ -101,4 +102,4 @@ $ jq '[. |
   publisher = {Shogakukan},
   OPTnote = {},
 }
-````
+```
