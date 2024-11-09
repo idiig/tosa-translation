@@ -46,8 +46,7 @@ It is written in json format as follows:
         "text": "男もすなる日記といふものを、女もしてみむとてするなり。",
         "kana": "をとこもすなるにきといふものを、をんなもしてみむとてするなり。",
         "translation-ja": "漢字で書く日記とかいうものを、仮名でしてみようとしてするものである。",
-        "translation-en": "Making a diary is something written in the masculine style, but I will try to write it in the feminine style.
-"
+        "translation-en": "Making a diary is something written in the masculine style, but I will try to write it in the feminine style."
       },
       {
         "date": "20241026",
