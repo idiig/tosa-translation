@@ -55,8 +55,7 @@ It is written in json format as follows:
         "text": "それの年のしはすの二十日あまり一日の、戌の時に門出す。",
         "kana": "それのとしのしはすのはつかあまりついたちの、いぬのときにかどです。",
         "translation-ja": "その年（承平四年）の師走の二十一日の、戌の時に出発しました。",
-        "translation-en": "On the twenty-first day of December in the 4th year of the Shohei era, we departed at the hour of the dog (ar
-ound 8 to 10 PM)."
+        "translation-en": "On the twenty-first day of December in the 4th year of the Shohei era, we departed at the hour of the dog (around 8 to 10 PM)."
       }
     ]
   }
