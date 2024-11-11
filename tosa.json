@@ -8,79 +8,86 @@
     "author_roman": "Ki no Tsurayuki",
     "paragraph": [
       {
-        "date": "20241026",
-        "id": "1",
+        "date": "20241026,20241111",
+        "id": 1,
         "text": "男もすなる日記といふものを、女もしてみむとてするなり。",
         "kana": "をとこもすなるにきといふものを、をんなもしてみむとてするなり。",
-        "translation-ja": "漢字で書く日記とかいうものを、仮名でしてみようとしてするものである。",
-        "translation-en": "Making a diary is something written in the masculine style, but I will try to write it in the feminine style."
+        "translation-ja": "男手で書くという日記というものを、女手で書いてみようと思って書くのである。",
+        "translation-en": "A diary is something written in the masculine style, but I will try writing it in the feminine style.",
+        "translation-en-natural": "So, diaries are usually done up in this formal, masculine style... but here I am, giving it a go in a bit more of a feminine touch."
       },
       {
         "date": "20241026",
-        "id": "2",
+        "id": 2,
         "text": "それの年のしはすの二十日あまり一日の、戌の時に門出す。",
         "kana": "それのとしのしはすのはつかあまりついたちの、いぬのときにかどです。",
         "translation-ja": "その年（承平四年）の師走の二十一日の、戌の時に出発しました。",
-        "translation-en": "On the twenty-first day of December in the 4th year of the Shohei era, we departed at the hour of the dog (around 8 to 10 PM)."
+        "translation-en": "On the twenty-first day of December in the 4th year of the Shohei era, we departed at the hour of the dog (around 8 to 10 PM).",
+        "translation-en-natural": "December 21st, Shohei Era, Year 4. Set off around the hour of the dog (between 8 and 10 PM)."
       },
       {
-        "date": "20241026",
-        "id": "3",
+        "date": "20241026,20241111",
+        "id": 3,
         "text": "そのよしいさゝかものにかきつく。",
         "kana": "そのよしいささかものにかきつく。",
         "translation-ja": "その出来事を少し書きとめました。",
-        "translation-en": "I wrote down a little about the matter."
-      },
-      {
-        "date": "20241026",
-        "id": "4",
-        "text": "そのしるしをものかきつく。",
-        "kana": "そのしるしをものかきつく。",
-        "translation-ja": "その出来事を書きとめました。",
-        "translation-en": "I wrote down the matter."
+        "translation-en": "I wrote down a little about the matter.",
+        "translation-en-natural": "Jotted down a few notes about the whole situation."
       },
       {
         "date": "20241103,20241110",
-        "id": "5",
+        "id": 4,
         "text": "ある人縣の四年五年はてゝ例のことゞも皆しをへて、解由など取りて住むたちより出でゝ船に乘るべき所へわたる。",
         "kana": "あるひとあがたのよとせいつとせはててれいのことどもみなしをへて、げゆなどとりてすむたちよりいでてふねにのるべきところへわたる。",
         "translation-ja": "ある人が国司として四年、五年の任期を終え、儀式などもすべて済ませ、解由状を受け取って、住まいを出て船に乗る場所へ向かった。",
         "translation-en": "A certain person, having completed his four or five-year term as governor, performed all customary ceremonies, received the geyu document, and left his residence to head to the place where he was to board the ship.",
-        "translation-en-natural": "After finishing his four or five-year term as governor, he wrapped up all the formalities, received his release papers, and left his residence, heading to the spot where he’d be boarding the ship."
+        "translation-en-natural": "So, after wrapping up his four or five years as governor, doing all the formal ceremonies, and finally getting the geyu document, he packed up and headed off to the dock to catch his ship."
       },
       {
-        "date": "20241103",
-        "id": "6",
+        "date": "20241103,20241111",
+        "id": 5,
         "text": "かれこれ知る知らぬおくりす。",
         "kana": "かれこれしるしらぬおくりす。",
         "translation-ja": "かれこれ、知っている人、知らない人が見送りをする。",
-        "translation-en": "People who know me and people who don't know me all see me off."
+        "translation-en": "People who know him and people who don't know him all see him off.",
+        "translation-en-natural": "A mix of people he knows and people he doesn't even recognize have all gathered to see him off."
       },
       {
-        "date": "20241103",
-        "id": "7",
+        "date": "20241103,20241111",
+        "id": 6,
         "text": "年ごろよく具しつる人々（共イ）なむわかれ難く思ひてその日頻にとかくしつゝのゝしるうちに夜更けぬ。",
         "kana": "としごろよくぐしつるひとびとなむわかれがたくおもひてそのひしきりにとかくしつつののしるうちによふけぬ。",
         "translation-ja": "長年親しく付き合ってきた人々が、別れがたいと感じて、毎日のようにあれこれと言いながら賑やかに過ごすうちに、夜が更けてしまった。",
-        "translation-en": "People who had been close for many years, finding it hard to part, spent each day talking back and forth, and before they knew it, night had fallen."
+        "translation-en": "People who had been close for many years, finding it hard to part, spent each day talking back and forth, and before they knew it, night had fallen.",
+        "translation-en-natural": "People he'd been close to for ages, all finding it tough to say goodbye, spent their days chattering away, and somehow, before anyone noticed, it was nightfall again."
       },
       {
-        "date": "20241103",
-        "id": "8",
+        "date": "20241103,20241111",
+        "id": 7,
         "text": "廿二日（にイ有）、和泉の國までとたひらかにねがひたつ。",
         "kana": "はつか（にあり）、いずみのくにまでとたひらかにねがひたつ。",
         "translation-ja": "二十二日に、和泉の国までと無事を願いをたてた。",
         "translation-en": "On the twenty-second day, I prayed for a safe journey as far as the province of Izumi.",
-        "translation-en-natural": "On the twenty-second day, I offered a prayer for a safe journey all the way to Izumi Province."
+        "translation-en-natural": "On the twenty-second, made a little prayer for a safe trip, at least as far as Izumi Province."
       },
       {
-        "date": "20241109",
-        "id": "9",
+        "date": "20241109,20241111",
+        "id": 8,
         "text": "藤原の言實船路なれど馬の餞す。",
         "kana": "ふじわらのときざねふねじなれどうまのはなむけす。",
         "translation-ja": "藤原のときざねが、船路の旅なのに餞(うまのはなむけ)をする。",
-        "translation-en": "Fujiwara no Tokizane sent a farewell gift called 'Uma no Hanamuke'—despite it being a sea voyage.",
-        "translation-en-natural": "Even though it was a sea journey, Fujiwara no Tokizane sent a farewell gift known as 'Uma no Hanamuke'-a horse’s parting gift."
+        "translation-en": "Fujiwara no Tokizane sent a farewell gift called 'Uma no Hanamuke'--despite it being a sea voyage.",
+        "translation-en-natural": "Fujiwara no Tokizane sent off a farewell gift called 'Uma no Hanamuke' (horse nose heading)—even though it was a sea voyage. Go figure."
+      },
+      {
+        "date": "20241111",
+        "id": 9,
+        "text": "上中下ながら醉ひ過ぎていと怪しくしほ海のほとりにてあざれあへり。",
+        "kana": "かみなかしもゑひすぎていとあやしくしほうみのほとりにてあざれあへり。",
+        "translation-ja": "上も中も下も酔い過ぎて、非常に不思議に潮海のほとりでふざけ合った。",
+        "translation-ja-natural": "身分の上下に関係なく、みんな酔っ払って、とてもおかしなことに、腐るはずのない塩海のほとりで、ああ、戯れあっている。",
+        "translation-en": "The high, the middle, and the low all drank too much, behaving very strangely, and fooling around by the shore of the salt sea.",
+        "translation-en-natural": "Everyone—high, middle, and low—completely sloshed, acting all strange and silly by the salt sea. Honestly, just carrying on without a care!"
       }
     ]
   }
