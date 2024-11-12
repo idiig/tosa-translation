@@ -48,6 +48,7 @@ It is written in json format as follows:
         "text": "男もすなる日記といふものを、女もしてみむとてするなり。",
         "kana": "をとこもすなるにきといふものを、をんなもしてみむとてするなり。",
         "translation-ja": "漢字で書く日記とかいうものを、仮名でしてみようとしてするものである。",
+        "translation-ja-natural": "男の書き方で書くという日記を、女の書き方で書いてみようと思って書いているのです。",
         "translation-en": "A diary is something written in the masculine style, but I will try writing it in the feminine style.",
         "translation-en-natural": "So, diaries are usually done up in this formal, masculine style... but here I am, giving it a go in a bit more of a feminine touch."
       },
@@ -57,6 +58,7 @@ It is written in json format as follows:
         "text": "それの年のしはすの二十日あまり一日の、戌の時に門出す。",
         "kana": "それのとしのしはすのはつかあまりついたちの、いぬのときにかどです。",
         "translation-ja": "その年（承平四年）の師走の二十一日の、戌の時に出発しました。",
+        "translation-ja-natural": "その年（承平四年）の十二月二十一日、戌の刻に出発しました。",
         "translation-en": "On the twenty-first day of December in the 4th year of the Shohei era, we departed at the hour of the dog (around 8 to 10 PM).",
         "translation-en-natural": "December 21st, Shohei Era, Year 4. Set off around the hour of the dog (between 8 and 10 PM)."
       }
@@ -90,7 +92,7 @@ $ jq '[. |
       + (if ."translation-en-natural" != null then {"translation-en-natural": ."translation-en-natural"} else {} end)
     ]
   }
-]' tosa.json | lv
+]' tosa.json
 ```
 
 ### **Reference**
