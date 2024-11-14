@@ -116,6 +116,16 @@
         "translation-en": "This person was not necessarily someone who would be employed in the governor's office.",
         "translation-ja-natural": "この人は、国司庁でも必ずしも重用される人ではありませんでした。",
         "translation-en-natural": "Frankly, this fellow wasn't exactly the sort you'd see climbing the ranks at the governor's office—hardly the office favorite, shall we say."
+      },
+      {
+        "date": "20241113",
+        "id": 12,
+        "text": "これぞ正しきやうにて馬の餞したる。",
+        "kana": "これぞただしきやうにてうまのはなむけしたる。",
+        "translation-ja": "これこそが、正しいやり方で馬の餞をした。",
+        "translation-en": "And yet, this person gave a horse as a farewell gift in a proper manner.",
+        "translation-ja-natural": "これこそが、堂々とした態度で馬の餞別をしたのです。",
+        "translation-en-natural": "And yet, here he is, putting on this grand show, giving a horse as a farewell gift, of all things!"
       }
     ]
   }
