@@ -136,6 +136,16 @@
         "translation-en": "Could it be because of the governor's character? As is usual with the feelings of the provincial people, they think there is no longer any need to visit now, yet those with a sincere heart came without hesitation.",
         "translation-ja-natural": "守（国司）の人柄のせいなのでしょうか、任国の人々の心情としては、もう今さら会いに来ることもないのに、真心のある人は気兼ねせずにここに来てくれました。",
         "translation-en-natural": "Maybe it's the governor's charm or something? Honestly, most of the local folks are like, 'Oh, it's too late now, no point showing up.' But the truly decent ones? They just rock up, no fuss, no shame."
+      },
+      {
+        "date": "20241116",
+        "id": 14,
+        "text": "これは物によりて譽むるにしもあらず。",
+        "kana": "これはものによりてほむるにしもあらず。",
+        "translation-ja": "これは物によって褒められるに値することではない。",
+        "translation-en": "This is not about praising someone just because they gave you something.",
+        "translation-ja-natural": "これは、物をもらったから褒めるのではありません。",
+        "translation-en-natural": "It's not like I'm going to praise someone just because they gave me something, is it?"
       }
     ]
   }
