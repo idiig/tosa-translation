@@ -175,6 +175,16 @@
         "translation-en": "On the twenty-fifth, a messenger from the governor's residence brought a letter of invitation.",
         "translation-ja-natural": "二十五日、守の館から、使者が招待状を持ってきました。",
         "translation-en-natural": "So, on the twenty-fifth, a messenger turned up from the governor's residence with an invitation. Quite formal, really, but you have to wonder what's behind it."
+      },
+      {
+        "date": "20241119",
+        "id": 18,
+        "text": "呼ばれて至りて日ひとひ夜ひとよとかく遊ぶやうにて明けにけり。",
+        "kana": "よばれていたりてひとひよひとよとかくあそぶやうにてあけにけり。",
+        "translation-ja": "招待されて行き、一日一夜と遊ぶようにして、夜が明けました。",
+        "translation-en": "Having been invited and gone, he spent a day and a night playing in this way, and the dawn broke.",
+        "translation-ja-natural": "招かれて出向き、一日一夜をあれこれ楽しんでいるうちに、夜が明けました。",
+        "translation-en-natural": "So, got invited, showed up, and ended up spending the whole day and night just messing around. Before I knew it, dawn was breaking. Typical."
       }
     ]
   }
