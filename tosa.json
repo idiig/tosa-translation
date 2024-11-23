@@ -195,6 +195,26 @@
         "translation-en": "On the twenty-sixth, yet again, at the governor's residence, a feast was held, there was much commotion, and even the attendants were made to carry fine items.",
         "translation-ja-natural": "二十六日もまた、国司の館で盛大な宴が開かれ、大騒ぎの末、こなくてもよかった付き人にまで、気前よくおみやげを持たせてくれました。",
         "translation-en-natural": "On the 26th, yet another feast at the governor's place. The whole thing turned into a loud, chaotic mess: pandemonium, bananas, you name it. And guess what? Even the guys who didn't really need to be there walked away with some nice goodies. Typical."
+      },
+      {
+        "date": "20241123",
+        "id": 20,
+        "text": "からうた聲あげていひけり。",
+        "kana": "からうたこゑあけていひけり。",
+        "translation-ja": "漢詩は声を上げて詠みました。",
+        "translation-en": "They recited a Chinese poem, raising their voices.",
+        "translation-ja-natural": "漢詩は声を張り上げて詠みました。",
+        "translation-en-natural": "They recited a Chinese poem, raising their voices."
+      },
+      {
+        "date": "20241123",
+        "id": 21,
+        "text": "やまとうた、あるじもまらうどもこと人もいひあへりけり。",
+        "kana": "やまとうた、あるじもまらうどもことひともいひあへりけり。",
+        "translation-ja": "和歌を、主人も客人もこと人も、たがいに言い交わしました。",
+        "translation-en": "They exchanged Japanese poems, the host, the guests, and even others present.",
+        "translation-ja-natural": "和歌を、主人も客人も、その他の人たちも、みんなで和歌を詠み合いました。",
+        "translation-en-natural": "They all took turns reciting Japanese poems, the host, the guests, and even some other folks who were there."
       }
     ]
   }
