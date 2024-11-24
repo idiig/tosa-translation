@@ -215,6 +215,26 @@
         "translation-en": "They exchanged Japanese poems, the host, the guests, and even others present.",
         "translation-ja-natural": "和歌を、主人も客人も、その他の人たちも、みんなで和歌を詠み合いました。",
         "translation-en-natural": "They all took turns reciting Japanese poems, the host, the guests, and even some other folks who were there."
+      },
+      {
+        "date": "20241124",
+        "id": 22,
+        "text": "からうたはこれにえ書かず。",
+        "kana": "からうたはこれにえかかず。",
+        "translation-ja": "漢詩は、これには書きません。",
+        "translation-en": "I won't write down the Chinese poem here.",
+        "translation-ja-natural": "漢詩は、これには書きません。",
+        "translation-en-natural": "I won't write down the Chinese poem here."
+      },
+      {
+        "date": "20241124",
+        "id": 23,
+        "text": "やまとうたあるじの守のよめりける、",
+        "kana": "やまとうたあるじのかみのよめりける、",
+        "translation-ja": "主人である新国司が詠んだ和歌は、",
+        "translation-en": "The Japanese poem recited was composed by the host, the new governor.",
+        "translation-ja-natural": "主人である新国司が詠んだ和歌は、",
+        "translation-en-natural": "The Japanese poem recited was composed by the host, the new governor."
       }
     ]
   }
