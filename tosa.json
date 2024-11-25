@@ -235,6 +235,16 @@
         "translation-en": "The Japanese poem recited was composed by the host, the new governor.",
         "translation-ja-natural": "主人である新国司が詠んだ和歌は、",
         "translation-en-natural": "The Japanese poem recited was composed by the host, the new governor."
+      },
+      {
+        "date": "20241125",
+        "id": 24,
+        "poem": "都いでゝ/君に逢はむと/こしものを/こしかひもなく/別れぬるかな",
+        "kana": "みやこいでてきみにあはむとこしものをこしかひもなくわかれぬるかな",
+        "translation-ja": "都を出て、君に逢いたいと来たのに、来た甲斐もなく、別れてしまうのでしょうか。",
+        "translation-en": "Leaving the capital, to meet you I came, yet, though I came, we part, how regretful.",
+        "translation-ja-natural": "都を出発して、あなたに逢いたいと思って来たのに、すぐに別れてしまうのでしょうか。",
+        "translation-en-natural": "Leaving the capital, I came to meet you, but now, having come, we part. How sad."
       }
     ]
   }
