@@ -245,6 +245,26 @@
         "translation-en": "Leaving the capital, to meet you I came, yet, though I came, we part, how regretful.",
         "translation-ja-natural": "都を出発して、あなたに逢いたいと思って来たのに、すぐに別れてしまうのでしょうか。",
         "translation-en-natural": "Leaving the capital, I came to meet you, but now, having come, we part. How sad."
+      },
+      {
+        "date": "20241126",
+        "id": 25,
+        "text": "となむありければ、かへる前の守のよめりける、",
+        "kana": "となむありければ、かへるさきのかみのよめりける、",
+        "translation-ja": "ということであったので、帰京する前の国司が詠んだのは、",
+        "translation-en": "And so it was, the song sang by the governor before returning to the capital was,",
+        "translation-ja-natural": "そういうわけで、帰京する前の国司が詠んだのは、",
+        "translation-en-natural": "That's why the governor, before returning to the capital, sing the following song:"
+      },
+      {
+        "date": "20241126",
+        "id": 26,
+        "poem": "しろたへの/浪路を遠く/ゆきかひて/我に似べきは/たれならなくに",
+        "kana": "しろたへのなみぢをとほくゆきかひてわれににべきはたれならなくに",
+        "translation-ja": "白い布のような波の立つ海路を遠く行き交いして、私に似るべきは誰でもなく、あなたなのに",
+        "translation-en": "Along the distant sea routes of white cloth-like waves, going back and forth, the one who should resemble me is none other than you.",
+        "translation-ja-natural": "白い布のような波が立つ海路を遠く行き交いながら、私に似るべき人は、他でもないあなたなのに。",
+        "translation-en-natural": "Traveling along the distant sea routes with waves like white cloth, the one who truly resembles me is none other than you."
       }
     ]
   }
