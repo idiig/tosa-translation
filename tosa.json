@@ -297,7 +297,7 @@
         "translation-en-natural": "On the 27th, we set out from Otsu and rowed toward Urado."
       },
       {
-        "date": "20241205",
+        "date": "20241204",
         "id": 30,
         "text": "かくあるうちに京にて生れたりし女子（子イ無）こゝにて俄にうせにしかば、この頃の出立いそぎを見れど何事もえいはず。",
         "kana": "かくあるうちにきやうにてうまれたりしをむなごここにてにはかにうせにしかは、このころのいつたちいそぎをみれどなにこともえいはず。",
@@ -305,6 +305,36 @@
         "translation-en": "In the midst of all this, a girl who was born in Kyoto suddenly passed away in the province, and those seeing the preparations for departure at this time could not say anything.",
         "translation-ja-natural": "このような状況の中で、京都で生まれた女の子が突然亡くなったので、この頃の出発の準備を見ても、何も言えませんでした。",
         "translation-en-natural": "In the midst of all this, a girl born in Kyoto suddenly passed away in the province. Those who saw the preparations for departure at this time couldn't say a word."
+      },
+      {
+        "date": "20241204",
+        "id": 31,
+        "text": "京へ歸るに女子のなきのみぞ悲しび戀ふる。",
+        "kana": "きやうへかへるにをむなごのなきのみぞかなしびこふる。",
+        "translation-ja": "京へ帰る際に、女の子が亡くなったことだけが、悲しく、恋しく思う。",
+        "translation-en": "As I return to Kyoto, only the death of the girl makes me feel sad and full of longing.",
+        "translation-ja-natural": "京へ帰るとき、亡くなった女の子のことだけが、悲しくて恋しく思い出されます。",
+        "translation-en-natural": "As I return to Kyoto, I am filled with sadness and longing, thinking only of the girl who has passed away."
+      },
+      {
+        "date": "20241204",
+        "id": 32,
+        "text": "ある人々もえ堪へず。",
+        "kana": "あるひとびともえたへず。",
+        "translation-ja": "ある人々も、我慢できなかった。",
+        "translation-en": "Some people could not bear it.",
+        "translation-ja-natural": "居合わせた人々も、悲しみを堪えることができませんでした。",
+        "translation-en-natural": "The people there couldn't hold back their sorrow."
+      },
+      {
+        "date": "20241204",
+        "id": 33,
+        "text": "この間にある人のかきて出せる歌、",
+        "kana": "このあひだにあるひとのかきていだせるうた、",
+        "translation-ja": "この間に、ある人が書いて出せる歌は、",
+        "translation-en": "During this time, a certain person wrote and presented a poem.",
+        "translation-ja-natural": "その時に、ある人が書いて出した歌は、",
+        "translation-en-natural": "At that moment, a person wrote and presented a poem."
       }
     ]
   }
