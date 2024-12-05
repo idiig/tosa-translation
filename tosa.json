@@ -335,6 +335,36 @@
         "translation-en": "During this time, a certain person wrote and presented a poem.",
         "translation-ja-natural": "その時に、ある人が書いて出した歌は、",
         "translation-en-natural": "At that moment, a person wrote and presented a poem."
+      },
+      {
+        "date": "20241205",
+        "id": 34,
+        "poem": "都へと/おもふものゝ/かなしきは/かへらぬ人の/あればなりけり",
+        "kana": "みやこへとおもふもののかなしきはかへらぬひとのあればなりけり",
+        "translation-ja": "都へと思う者の悲しみは、帰らない人がいるからなのだ。",
+        "translation-en": "The sadness of those who think of returning to the capital is because there is a person who will not return.",
+        "translation-ja-natural": "都へ帰ろうと思っている人の悲しみは、一緒に帰るはずだった人を亡くしてしまったことなのです。",
+        "translation-en-natural": "For those thinking of returning to the capital, the sorrow lies in having lost someone who was meant to return with them."
+      },
+      {
+        "date": "20241205",
+        "id": 35,
+        "text": "又、或時には、",
+        "kana": "またあるときには、",
+        "translation-ja": "また、ある時には、",
+        "translation-en": "Also, at times,",
+        "translation-ja-natural": "また、ある時には、",
+        "translation-en-natural": "Also, at times,"
+      },
+      {
+        "date": "20241205",
+        "id": 36,
+        "poem": "あるものと/忘れつゝなほ/なき人を/いづらと問ふぞ/悲しかりける",
+        "kana": "あるものとわすれつつなほなきひとをいづらととふぞかなしかりける",
+        "translation-ja": "いるものと、忘れて、なお亡くなった人を「どこに」と尋ねてしまうことこそ悲しいことだ。",
+        "translation-en": "Thinking she is still here, I forget that and keep asking, 'Where is she?' That is what makes it so heartbreaking.",
+        "translation-ja-natural": "今もまだそこにいると思い込んで、いないことを忘れてしまい、どこにいるのかとつい尋ねてしまう。そのことこそ、悲しいことです。",
+        "translation-en-natural": "I keep thinking she's still here and forget she's gone, only to find myself asking, 'Where is she?' And that's what makes it so deeply sad."
       }
     ]
   }
