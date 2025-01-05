@@ -405,6 +405,26 @@
         "translation-en": "Will there be anyone who thinks of me dearly enough to stop me? Like the wild ducks gathering together, I have come here.",
         "translation-ja-natural": "誰か私を引き留めてくれる人がいるのだろうか。葦鴨が群れるように、私はここまで来てしまったんだなあ。",
         "translation-en-natural": "Is there anyone who would stop me, thinking I'm too precious to let go? Like the wild ducks flocking together, I somehow ended up here."
+      },
+      {
+        "date": "20241231",
+        "id": 41,
+        "text": "といひてありければ、いといたく愛でゝ行く人のよめりける、",
+        "kana": "といひてありければ、いといたくめでてゆくひとのよめりける、",
+        "translation-ja": "と言っていたので、とても褒めつつ、去り行く人が詠んだのは、",
+        "translation-en": "Since it was being said, the person who praised it greatly and was leaving composed it.",
+        "translation-ja-natural": "そう言っていたので、大いに褒めながら立ち去る人が詠んだのは、",
+        "translation-en-natural": "Because it was said, the person, praising it greatly, composed a poem as they left."
+      },
+      {
+        "date": "20250105",
+        "id": 42,
+        "poem": "棹させど/底ひも知らぬ/わたつみの/ふかきこゝろを/君に見るかな",
+        "kana": "さをさせど/そこひもしらぬ/わたつみの/ふかきこころを/きみにみるかな",
+        "translation-ja": "棹さしても底もわからぬ深い心をあなたに見たのです。",
+        "translation-en": "Even as I push the pole, I see in you a deep heart whose bottom cannot be known.",
+        "translation-ja-natural": "棹をさしても底が見えないほど深い心を、あなたの中に見つけました。",
+        "translation-en-natural": "Even as I push the pole, I find in you a heart so deep its bottom cannot be reached."
       }
     ]
   }
