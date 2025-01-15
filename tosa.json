@@ -445,6 +445,26 @@
         "translation-en": "At this time, certain people, in accordance with the occasion, recited Chinese poems that were suitable for the moment.",
         "translation-ja-natural": "この時に、ある人々が、その時々に合わせて、漢詩など、その時にふさわしいものを詠みました。",
         "translation-en-natural": "At this time, certain people recited Chinese poems that were appropriate for the occasion."
+      },
+      {
+        "date": "20250112",
+        "id": 45,
+        "text": "又ある人西國なれど甲斐歌などいふ。",
+        "kana": "またあるひとにしぐになれどかひうたなどいふ。",
+        "translation-ja": "また、ある人、西国であるが、甲斐の歌などという。",
+        "translation-en": "And a person, even if it is the western provinces, sings Kai songs.",
+        "translation-ja-natural": "また、ある人は、西国なのに、甲斐の歌などを歌っています。",
+        "translation-en-natural": "Meanwhile, someone was singing songs from Kai Province, even though we were in the western regions."
+      },
+      {
+        "date": "20250115",
+        "id": 46,
+        "text": "かくうたふに、ふなやかたの塵も散り、空ゆく雲もたゞよひぬとぞいふなる。",
+        "kana": "かくうたふに、ふなやかたのちりもちり、そらゆくくももただよひぬとそいふなる。",
+        "translation-ja": "このように歌うと、船屋の塵も散り、空を行く雲もただよったと言われる。",
+        "translation-en": "When sung in this way, the dust of the boatyard also scattered, and the clouds going in the sky also drifted, it is said.",
+        "translation-ja-natural": "このように歌うと、船屋の塵が舞い、空を流れる雲までも漂ったと言っているようです。",
+        "translation-en-natural": "When sung in this way, it is said that even the dust in the boatyard scattered, and the clouds drifting across the sky seemed to float aimlessly."
       }
     ]
   }
