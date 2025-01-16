@@ -465,6 +465,16 @@
         "translation-en": "When sung in this way, the dust of the boatyard also scattered, and the clouds going in the sky also drifted, it is said.",
         "translation-ja-natural": "このように歌うと、船屋の塵が舞い、空を流れる雲までも漂ったと言っているようです。",
         "translation-en-natural": "When sung in this way, it is said that even the dust in the boatyard scattered, and the clouds drifting across the sky seemed to float aimlessly."
+      },
+      {
+        "date": "20250116",
+        "id": 47,
+        "text": "今宵浦戸にとまる。",
+        "kana": "こよひうらとにとまる。",
+        "translation-ja": "今宵、浦戸に泊まる。",
+        "translation-en": "Tonight, we stay at Urado.",
+        "translation-ja-natural": "今夜は、浦戸に泊まります。",
+        "translation-en-natural": "Tonight, we will stay at Urado."
       }
     ]
   }
