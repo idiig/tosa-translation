@@ -475,6 +475,16 @@
         "translation-en": "Tonight, we stay at Urado.",
         "translation-ja-natural": "今夜は、浦戸に泊まります。",
         "translation-en-natural": "Tonight, we will stay at Urado."
+      },
+      {
+        "date": "20250117",
+        "id": 48,
+        "text": "藤原のとき實、橘の季衡、こと人々追ひきたり。",
+        "kana": "ふじわらのときざね、たちばなのときひら、ことひとびとおひきたり。",
+        "translation-ja": "藤原の時実、橘の季衡、その他の人々が追いかけてきた。",
+        "translation-en": "Fujiwara no Tokizane, Tachibana no Suehira, and others followed.",
+        "translation-ja-natural": "藤原の時実、橘の季衡、その他の人々が追いかけてきました。",
+        "translation-en-natural": "Fujiwara no Tokizane, Tachibana no Suehira, and others followed."
       }
     ]
   }
