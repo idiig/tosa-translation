@@ -495,6 +495,26 @@
         "translation-en": "On the twenty-eighth day, we set out from Urado and headed for Ominato.",
         "translation-ja-natural": "二十八日、浦戸を出発し、大湊に向かいました。",
         "translation-en-natural": "On the twenty-eighth day, we departed from Urado and made our way to Ominato."
+      },
+      {
+        "date": "20250119",
+        "id": 49,
+        "text": "この間にはやくの國の守の子山口の千岑、酒よき物どももてきて船に入れたり。",
+        "kana": "このあいだにはやくのくにのかみのこやまぐちのちみね、さけよきものどももてきてふねにいれたり。",
+        "translation-ja": "この間に、以前の国の守の子、山口の千岑、酒、よい物を持ってきて、船に入れた。",
+        "translation-en": "During this time, the son of the former governor of this country, Chisato Yamaguchi, brought sake and good things and put them on the boat.",
+        "translation-ja-natural": "この間に、先のこの国の国司の子、山口の千岑が、酒やけっこな品々を持ってきて、船に差し入れをしました。",
+        "translation-en-natural": "During this time, the son of the former governor of this country, Chisato Yamaguchi, brought sake and other good things and put them on the boat."
+      },
+      {
+        "date": "20250119",
+        "id": 50,
+        "text": "ゆくゆく飲み食ふ。",
+        "kana": "ゆくゆくのみくらふ。",
+        "translation-ja": "ゆくゆく飲み食う。",
+        "translation-en": "We will eat and drink as we go.",
+        "translation-ja-natural": "航行しながら、飲み食いをしていきました。",
+        "translation-en-natural": "We ate and drank as we sailed."
       }
     ]
   }
