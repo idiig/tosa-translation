@@ -515,6 +515,36 @@
         "translation-en": "We will eat and drink as we go.",
         "translation-ja-natural": "航行しながら、飲み食いをしていきました。",
         "translation-en-natural": "We ate and drank as we sailed."
+      },
+      {
+        "date": "20250120",
+        "id": 51,
+        "text": "廿九日、大湊にとまれり。",
+        "kana": "にじふくにち、おほみなとにとまれり。",
+        "translation-ja": "二十九日。大湊に泊っている。",
+        "translation-en": "On the twenty-ninth day, we stayed at Ominato.",
+        "translation-ja-natural": "二十九日、大湊に泊まっています。",
+        "translation-en-natural": "On the twenty-ninth day, we stayed at Ominato."
+      },
+      {
+        "date": "20250120",
+        "id": 52,
+        "text": "くす師ふりはへて屠蘇白散酒加へてもて來たり。",
+        "kana": "くすしふりはへてとうそびやくさんしゆくわへてもてきたり。",
+        "translation-ja": "薬師が、念を入れて屠蘇や白散に酒を加えて持ってきた。",
+        "translation-en": "The apothecary, taking special care, brought toso and hakusan, adding sake.",
+        "translation-ja-natural": "薬師が気を利かせて、屠蘇や白散に酒を混ぜて持ってきました。",
+        "translation-en-natural": "The apothecary thoughtfully prepared tosō and hakusan, mixing them with sake, and brought it over."
+      },
+      {
+        "date": "20250120",
+        "id": 53,
+        "text": "志あるに似たり。",
+        "kana": "こころざしあるににたり。",
+        "translation-ja": "志があるように見える。",
+        "translation-en": "It seems that there is sincerity.",
+        "translation-ja-natural": "誠意があるように思える。",
+        "translation-en-natural": "It seems like there is genuine sincerity."
       }
     ]
   }
