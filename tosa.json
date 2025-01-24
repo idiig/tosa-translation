@@ -545,6 +545,16 @@
         "translation-en": "It seems that there is sincerity.",
         "translation-ja-natural": "誠意があるように思える。",
         "translation-en-natural": "It seems like there is genuine sincerity."
+      },
+      {
+        "date": "20250124",
+        "id": 54,
+        "text": "元日、なほ同じとまりなり。",
+        "kana": "がんたん、なほおなじとまりなり。",
+        "translation-ja": "元日、まだ同じ停泊地にいる。",
+        "translation-en": "On New Year's Day, we are still staying in the same place.",
+        "translation-ja-natural": "元日も、まだ同じ場所に停泊しています。",
+        "translation-en-natural": "On New Year's Day, we are still staying in the same place."
       }
     ]
   }
