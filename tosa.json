@@ -555,6 +555,16 @@
         "translation-en": "On New Year's Day, we are still staying in the same place.",
         "translation-ja-natural": "元日も、まだ同じ場所に停泊しています。",
         "translation-en-natural": "On New Year's Day, we are still staying in the same place."
+      },
+      {
+        "date": "20250125",
+        "id": 55,
+        "text": "白散をあるもの夜のまとてふなやかたにさしはさめりければ、風に吹きならさせて海に入れてえ飮まずなりぬ。",
+        "kana": "はくさんをあるものよのまとてふなやかたにさしはさめりければ、かぜにふきならさせてうみにいれてえのまずなりぬ。",
+        "translation-ja": "白散を持っている人が、夜の間に船の屋形に差し挟んでいたところ、風に吹き鳴らされて海に入ってしまい、飲むことができなくなった。",
+        "translation-en": "A person who had hakusan, having wedged it into the boathouse overnight, had it blown noisily by the wind into the sea and was unable to drink it.",
+        "translation-ja-natural": "白散を持っていた人が、夜の間に船の屋形に置いておいたら、風に吹かれて海に落ちてしまい、飲めなくなりました。",
+        "translation-en-natural": "Someone who had hakusan left it overnight in the boathouse, but the wind blew it into the sea, so they couldn’t drink it."
       }
     ]
   }
