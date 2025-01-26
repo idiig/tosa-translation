@@ -575,6 +575,16 @@
         "translation-en": "No potatoes, no seaweed, no hagatame teeth hardener.",
         "translation-ja-natural": "芋も海藻荒布も祝物の歯固めもありません。",
         "translation-en-natural": "No potatoes, no seaweed, no festive \"Hagatame\" meat (a symbolic dish for celebrating longevity and resilience in Japanese tradition)."
+      },
+      {
+        "date": "20250127",
+        "id": 57,
+        "text": "かやうの物もなき國なり。",
+        "kana": "かやうのものもなきくになり。",
+        "translation-ja": "こういうものもない国である。",
+        "translation-en": "It is a country without such things.",
+        "translation-ja-natural": "こんなものもないところです。",
+        "translation-en-natural": "Here is a place without such things."
       }
     ]
   }
