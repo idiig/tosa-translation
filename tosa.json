@@ -625,6 +625,26 @@
         "translation-en": "Today, only the capital weighs on my mind.",
         "translation-ja-natural": "今日は都のことばかりが思いやられます。",
         "translation-en-natural": "Today, I can't help but worry about the capital."
+      },
+      {
+        "date": "20250131",
+        "id": 62,
+        "text": "「九重の門のしりくめ繩のなよしの頭ひゝら木らいかに」とぞいひあへる。",
+        "kana": "「こへのかどのしりくめなはのなよしのかしらひひらぎいかに」とぞいひあへる。",
+        "translation-ja": "「小家の門のしめ繩についた鯔の頭や柊はどうしているだろう」と言い合っている。",
+        "translation-en": "They are talking about how the heads of the zui on the cords of the gates of the commoners' houses are doing.",
+        "translation-ja-natural": "「民家の門のしめ繩についた鯔の頭や柊は、どうしているのだろう」と話しているようです。",
+        "translation-en-natural": "They are talking about how the heads of the zui on the cords of the gates of the commoners' houses are doing."
+      },
+      {
+        "date": "20250201",
+        "id": 63,
+        "text": "二日、なほ大湊にとまれり。",
+        "kana": "ふつか、なほおほみなとにとまれり。",
+        "translation-ja": "二日目も、まだ大湊に泊まっている。",
+        "translation-en": "On the second day, we are still staying at Ominato.",
+        "translation-ja-natural": "二日目も、まだ大湊に泊まっています。",
+        "translation-en-natural": "On the second day, we are still staying at Ominato."
       }
     ]
   }
