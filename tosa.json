@@ -645,6 +645,16 @@
         "translation-en": "On the second day, we are still staying at Ominato.",
         "translation-ja-natural": "二日目も、まだ大湊に泊まっています。",
         "translation-en-natural": "On the second day, we are still staying at Ominato."
+      },
+      {
+        "date": "20250202",
+        "id": 64,
+        "text": "講師、物、酒などおこせたり。",
+        "kana": "こうじ、もの、さけなどおこせたり。",
+        "translation-ja": "講師が、物や酒などを送ってきた。",
+        "translation-en": "The koshi sent things, sake, and other items.",
+        "translation-ja-natural": "講師が、食べ物やお酒などを差し入れてくれました。",
+        "translation-en-natural": "The official kindly brought over some food and sake."
       }
     ]
   }
