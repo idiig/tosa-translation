@@ -655,6 +655,16 @@
         "translation-en": "The koshi sent things, sake, and other items.",
         "translation-ja-natural": "講師が、食べ物やお酒などを差し入れてくれました。",
         "translation-en-natural": "The official kindly brought over some food and sake."
+      },
+      {
+        "date": "20250203",
+        "id": 65,
+        "text": "三日、同じ所なり。",
+        "kana": "みっか、おなじところなり。",
+        "translation-ja": "三日、同じ所にいる。",
+        "translation-en": "On the third, we are in the same place.",
+        "translation-ja-natural": "三日、まだ同じ場所にいます。",
+        "translation-en-natural": "On the third, we are still in the same place."
       }
     ]
   }
