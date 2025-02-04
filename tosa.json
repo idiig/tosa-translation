@@ -665,6 +665,16 @@
         "translation-en": "On the third, we are in the same place.",
         "translation-ja-natural": "三日、まだ同じ場所にいます。",
         "translation-en-natural": "On the third, we are still in the same place."
+      },
+      {
+        "date": "20250204",
+        "id": 66,
+        "text": "もし風浪のしばしと惜む心やあらむ、心もとなし。",
+        "kana": "もしかぜなみのしばしとをしむこころやあらむ、こころもとなし。",
+        "translation-ja": "風浪を少しの間惜しむ心があるのだろうか。不安でならない。",
+        "translation-en": "Is there a heart that feels reluctant to part with the brief calm amid the wind and waves? I feel uneasy.",
+        "translation-ja-natural": "この風と波を、少しでも惜しむ心があるのだろうか。不安で落ち着かない。",
+        "translation-en-natural": "I wonder if there's anyone who still feels attached to the brief calm amid these winds and waves. It makes me feel uneasy."
       }
     ]
   }
