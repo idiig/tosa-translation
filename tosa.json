@@ -675,6 +675,16 @@
         "translation-en": "Is there a heart that feels reluctant to part with the brief calm amid the wind and waves? I feel uneasy.",
         "translation-ja-natural": "この風と波を、少しでも惜しむ心があるのだろうか。不安で落ち着かない。",
         "translation-en-natural": "I wonder if there's anyone who still feels attached to the brief calm amid these winds and waves. It makes me feel uneasy."
+      },
+      {
+        "date": "20250205",
+        "id": 67,
+        "text": "四日、風吹けばえ出でたゝず。",
+        "kana": "よっか、かぜふけばえいでたたず。",
+        "translation-ja": "四日、風が吹くので、出ていけない。",
+        "translation-en": "On the fourth, because the wind blows, we can't go out.",
+        "translation-ja-natural": "四日、風が強く吹いて、港を出ることができません。",
+        "translation-en-natural": "On the fourth, we can't set sail because of the strong wind."
       }
     ]
   }
