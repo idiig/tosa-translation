@@ -685,6 +685,16 @@
         "translation-en": "On the fourth, because the wind blows, we can't go out.",
         "translation-ja-natural": "四日、風が強く吹いて、港を出ることができません。",
         "translation-en-natural": "On the fourth, we can't set sail because of the strong wind."
+      },
+      {
+        "date": "20250206",
+        "id": 68,
+        "text": "昌連酒よき物たてまつれり。",
+        "kana": "まさつらさけよきものたてまつれり。",
+        "translation-ja": "昌連が、酒や良い品を奉る。",
+        "translation-en": "Masatsura contributes sake and fine goods.",
+        "translation-ja-natural": "昌連が、航海の無事を祈って、酒や結構な品物をお供えしてくれました。",
+        "translation-en-natural": "Masatsura contributed sake and fine goods as an offering to pray for a safe voyage."
       }
     ]
   }
