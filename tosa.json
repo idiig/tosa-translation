@@ -695,6 +695,26 @@
         "translation-en": "Masatsura contributes sake and fine goods.",
         "translation-ja-natural": "昌連が、航海の無事を祈って、酒や結構な品物をお供えしてくれました。",
         "translation-en-natural": "Masatsura contributed sake and fine goods as an offering to pray for a safe voyage."
+      },
+      {
+        "date": "20250207",
+        "id": 69,
+        "text": "このかうやうの物もて來るひとになほしもえあらでいさゝげわざせさすものもなし。",
+        "kana": "このかうやうのものもてくるひとになほしもえあらでいささげわざせさすものもなし。",
+        "translation-ja": "このこのような物を持って来る人をそのままにしておけなくて、わずかな施しをさせる物もない。",
+        "translation-en": "This this kind of thing bringing person cannot leave as is, small bestow let thing even not.",
+        "translation-ja-natural": "このような物を持ってきてくれた人をそのままにしておくことができず、わずかなお返しをする物さえなかった。",
+        "translation-en-natural": "I couldn't just leave the person who brought such a gift without doing anything, and I didn't even have anything to offer as a small token."
+      },
+      {
+        "date": "20250208",
+        "id": 70,
+        "text": "にぎはゝしきやうなれどまくるこゝちす。",
+        "kana": "にぎははしきやうなれどまくるここちす。",
+        "translation-ja": "賑やかなようであるが、負ける気持ちがする。",
+        "translation-en": "Lively-like it is but, losing feeling does.",
+        "translation-ja-natural": "賑やかに見えるが、実のところ、うしろめたく、負い目を感じる。",
+        "translation-en-natural": "It looks lively, but deep down, I feel guilty and troubled by a sense of indebtedness."
       }
     ]
   }
