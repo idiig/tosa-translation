@@ -715,6 +715,16 @@
         "translation-en": "Lively-like it is but, losing feeling does.",
         "translation-ja-natural": "賑やかに見えるが、実のところ、うしろめたく、負い目を感じる。",
         "translation-en-natural": "It looks lively, but deep down, I feel guilty and troubled by a sense of indebtedness."
+      },
+      {
+        "date": "20250209",
+        "id": 71,
+        "text": "五日、風浪やまねば猶同じ所にあり。",
+        "kana": "いつか、かぜなみやまねばなほおなじところにあり。",
+        "translation-ja": "五日、風浪がやまないので、なお同じ所にいる。",
+        "translation-en": "On the fifth, because the wind and waves have not subsided, we are still in the same place.",
+        "translation-ja-natural": "五日、風も波もおさまらず、まだ同じ場所にとどまっています。",
+        "translation-en-natural": "On the fifth, with the wind and waves still raging, we’re stuck in the same place."
       }
     ]
   }
