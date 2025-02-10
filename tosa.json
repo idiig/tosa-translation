@@ -725,6 +725,16 @@
         "translation-en": "On the fifth, because the wind and waves have not subsided, we are still in the same place.",
         "translation-ja-natural": "五日、風も波もおさまらず、まだ同じ場所にとどまっています。",
         "translation-en-natural": "On the fifth, with the wind and waves still raging, we’re stuck in the same place."
+      },
+      {
+        "date": "20250210",
+        "id": 72,
+        "text": "人々絶えずとぶらひにく。",
+        "kana": "ひとびとたえずとぶらひにく。",
+        "translation-ja": "人々が絶えず訪れてくる。",
+        "translation-en": "People, without ceasing, visit and come.",
+        "translation-ja-natural": "人々がひっきりなしに訪ねてくる。",
+        "translation-en-natural": "People keep coming to visit without a break."
       }
     ]
   }
