@@ -735,6 +735,16 @@
         "translation-en": "People, without ceasing, visit and come.",
         "translation-ja-natural": "人々がひっきりなしに訪ねてくる。",
         "translation-en-natural": "People keep coming to visit without a break."
+      },
+      {
+        "date": "20250211",
+        "id": 73,
+        "text": "六日、きのふのごとし。",
+        "kana": "むいか、きのふのごとし。",
+        "translation-ja": "六日、昨日と同じようである。",
+        "translation-en": "On the sixth, it is like yesterday.",
+        "translation-ja-natural": "六日、昨日と同じようです。",
+        "translation-en-natural": "On the sixth, it is like yesterday."
       }
     ]
   }
