@@ -755,6 +755,25 @@
         "translation-en": "It has become the seventh.",
         "translation-ja-natural": "七日になりました。",
         "translation-en-natural": "It's the seventh."
+      },
+      {
+        "date": "20250211",
+        "id": 74,
+        "text": "同じ湊にあり。",
+        "kana": "おなじみなとにあり。",
+        "translation-ja": "同じ港にいる。",
+        "translation-en": "We are in the same port.",
+        "translation-ja-natural": "同じ港にいます。"
+      },
+      {
+        "date": "20250212",
+        "id": 75,
+        "text": "今日は白馬を思へどかひなし。",
+        "kana": "けふはあをむまをおもへどかひなし。",
+        "translation-ja": "今日は白馬を思うが、甲斐がない。",
+        "translation-en": "Today, I think of the white horse, but it is in vain.",
+        "translation-ja-natural": "今日は白馬の節会の日。でも、白馬の節会のことを思い出しても、ここにいるんじゃ意味がない。",
+        "translation-en-natural": "Today is the day of the White Horse Festival. But thinking about the festival while stuck here feels pointless."
       }
     ]
   }
