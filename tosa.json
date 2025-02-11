@@ -745,6 +745,16 @@
         "translation-en": "On the sixth, it is like yesterday.",
         "translation-ja-natural": "六日、昨日と同じようです。",
         "translation-en-natural": "On the sixth, it is like yesterday."
+      },
+      {
+        "date": "20250211",
+        "id": 73,
+        "text": "七日になりぬ。",
+        "kana": "なぬかになりぬ。",
+        "translation-ja": "七日になった。",
+        "translation-en": "It has become the seventh.",
+        "translation-ja-natural": "七日になりました。",
+        "translation-en-natural": "It's the seventh."
       }
     ]
   }
