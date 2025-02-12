@@ -774,6 +774,16 @@
         "translation-en": "Today, I think of the white horse, but it is in vain.",
         "translation-ja-natural": "今日は白馬の節会の日。でも、白馬の節会のことを思い出しても、ここにいるんじゃ意味がない。",
         "translation-en-natural": "Today is the day of the White Horse Festival. But thinking about the festival while stuck here feels pointless."
+      },
+      {
+        "date": "20250213",
+        "id": 76,
+        "text": "たゞ浪の白きのみぞ見ゆる。",
+        "kana": "ただなみのしろきのみそみゆる。",
+        "translation-ja": "ただ、波の白いのだけが見える。",
+        "translation-en": "Only the whiteness of the waves is visible.",
+        "translation-ja-natural": "ただ、白く泡立つ波が見えるだけでした。",
+        "translation-en-natural": "All I can see are the white, foaming waves."
       }
     ]
   }
