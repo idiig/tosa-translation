@@ -824,6 +824,16 @@
         "translation-en": "There is a song. That song,",
         "translation-ja-natural": "一首の歌が添えられている。その歌は、",
         "translation-en-natural": "A poem has been included. That poem is,"
+      },
+      {
+        "date": "20250215",
+        "id": 81,
+        "poem": "淺茅生の/野邊にしあれば/水もなき/池につみつる/わかななりけり",
+        "kana": "あさちふののべにしあればみづもなきいけにつみつるわかななりけり",
+        "translation-ja": "浅茅が生い茂る野原にあるので、水もない池で摘んだ若菜であった。",
+        "translation-en": "Since it is in a field where short grasses grow, it was young greens picked from a pond without water.",
+        "translation-ja-natural": "浅茅が生い茂る野のほとりで摘んだ若菜は、水のない池にあったものでした。",
+        "translation-en-natural": "The young greens picked near a field where short grasses grow had come from a pond without water."
       }
     ]
   }
