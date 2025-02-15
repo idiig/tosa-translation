@@ -814,6 +814,16 @@
         "translation-en": "The young greens are announcing today.",
         "translation-ja-natural": "若菜を見て、今日は七草の日だと気づいた。",
         "translation-en-natural": "Seeing the young greens, I realized that today is the Festival of Seven Herbs."
+      },
+      {
+        "date": "20250215",
+        "id": 80,
+        "text": "歌あり。そのうた、",
+        "kana": "うたあり。そのうた、",
+        "translation-ja": "歌がある。その歌、",
+        "translation-en": "There is a song. That song,",
+        "translation-ja-natural": "一首の歌が添えられている。その歌は、",
+        "translation-en-natural": "A poem has been included. That poem is,"
       }
     ]
   }
