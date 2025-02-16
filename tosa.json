@@ -834,6 +834,16 @@
         "translation-en": "Since it is in a field where short grasses grow, it was young greens picked from a pond without water.",
         "translation-ja-natural": "浅茅が生い茂る野のほとりで摘んだ若菜は、水のない池にあったものでした。",
         "translation-en-natural": "The young greens picked near a field where short grasses grow had come from a pond without water."
+      },
+      {
+        "date": "20250216",
+        "id": 82,
+        "text": "いとをかしかし。",
+        "kana": "いとをかしかし。",
+        "translation-ja": "とても趣きのあることだ。",
+        "translation-en": "It is a very interesting thing.",
+        "translation-ja-natural": "なんと趣のあることでしょう。",
+        "translation-en-natural": "What an interesting thing."
       }
     ]
   }
