@@ -874,6 +874,16 @@
         "translation-en": "The items in this long chest were given to everyone, from adults to children, so they were fully satisfied, and the boatmen beat their bellies like drums, even startling the sea and surely raising waves.",
         "translation-ja-natural": "この長櫃いっぱいの品物は、大人から子供まで皆に惜しげもなく振る舞われ、誰もが満腹になってしまいました。船乗りたちは腹いっぱいに食べて、自分の腹をポンポン叩いて喜び、その音があまりに大きく、海までも驚いて波を立ててしまいました。",
         "translation-en-natural": "The long chest was packed with goods and generously handed out to everyone, from adults to children, until they were completely full. The sailors, having eaten their fill, joyfully drummed on their bellies with such thunderous noise that even the sea itself seemed to shudder and stir up waves."
+      },
+      {
+        "date": "20250218",
+        "id": 86,
+        "text": "かくてこの間に事おほかり。",
+        "kana": "かくてこのあひだにことおほかり。",
+        "translation-ja": "こうして、この間に出来事が多かった。",
+        "translation-en": "Thus, during this time, there were many events.",
+        "translation-ja-natural": "こうしているうちに、さまざまな出来事がありました。",
+        "translation-en-natural": "During this time, various things happened."
       }
     ]
   }
