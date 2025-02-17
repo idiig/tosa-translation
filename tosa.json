@@ -786,23 +786,23 @@
         "translation-en-natural": "All I can see are the white, foaming waves."
       },
       {
-        "date": "20250214",
+        "date": "20250214,20250217",
         "id": 77,
         "text": "かゝる間に人の家（野イ）の池と名ある所より鯉はなくて鮒よりはじめて川のも、海のも、ことものども、ながびつにになひつゞけておこせたり。",
         "kana": "かかるあひだにひとのいへのいけとなあるところよりこひはなくてふなりよりはじめてかはのも、うみのも、ことものども、ながびつにになひつづけておこせたり。",
-        "translation-ja": "こうしているうちに、ある人の家の池と名のある所から、鯉はいなくて、鮒をはじめとして、川の魚も海の魚も、その他のものも、長櫃に担いで運び続けて送った。",
-        "translation-en": "During this time, from a place known as 'the pond of a person's house,' there were no carp, but starting with crucian carp, river fish, sea fish, and other food items were continuously packed and carried in a long chest and sent over.",
-        "translation-ja-natural": "こうしているうちに、ある人の屋敷にある名高い池から、鯉はいなかったものの、鮒をはじめ、川魚や海の魚、その他の食べ物が、長櫃に詰められて次々と届けられた。",
-        "translation-en-natural": "Meanwhile, from a well-known pond in someone's estate, there were no carp, but starting with crucian carp, various river and sea fish, along with other food items, were packed into a long chest and sent over one after another."
+        "translation-ja": "こうしているうちに、『池』という名前の場所や、他の名のある場所から、鯉はいなくて、鮒をはじめとして、川の魚も海の魚も、その他のものも、長櫃に担いで運び続けて送った。",
+        "translation-en": "While this was happening, from a place called 'Ike' and other well-known locations, there were no carp, but starting with crucian carp, river fish, sea fish, and other things were continuously carried in long chests and sent over.",
+        "translation-ja-natural": "こうしているうちに、『池』という名の場所から、鯉はないが、鮒をはじめ、川の魚や海の魚、その他の食べ物が長櫃に詰められて次々と送られてきた。",
+        "translation-en-natural": "Meanwhile, from a place called 'Ike,' there were no carp, but starting with crucian carp, river fish, sea fish, and other foods were packed into a long chest and sent over one after another."
       },
       {
-        "date": "20250215",
+        "date": "20250215,20250217",
         "id": 78,
         "text": "わかなこに入れて雉など花につけたり（十七字イ無）。",
         "kana": "わかなこにいれてきじなどはなにつけたり。",
         "translation-ja": "若菜籠に入れて、雉などを花につけた。",
         "translation-en": "Placed in a basket for young greens, pheasants and such were added along with flowers.",
-        "translation-ja-natural": "若菜を入れた籠に、雉などを添え、花とともに美しく飾った。",
+        "translation-ja-natural": "若菜を入れた籠に、雉などを添え、花とともに美しく飾りました。",
         "translation-en-natural": "They placed young greens in a basket, added pheasants, and beautifully arranged them with flowers."
       },
       {
@@ -832,8 +832,8 @@
         "kana": "あさちふののべにしあればみづもなきいけにつみつるわかななりけり",
         "translation-ja": "浅茅が生い茂る野原にあるので、水もない池で摘んだ若菜であった。",
         "translation-en": "Since it is in a field where short grasses grow, it was young greens picked from a pond without water.",
-        "translation-ja-natural": "浅茅が生い茂る野のほとりで摘んだ若菜は、水のない池にあったものでした。",
-        "translation-en-natural": "The young greens picked near a field where short grasses grow had come from a pond without water."
+        "translation-ja-natural": "浅茅が生い茂る野原にある『池』ですが、水がないので、鯉（恋）はありません。『鯉（こい）』も『恋（こい）』もない、そんなところで摘んだ若菜（我が名）です。",
+        "translation-en-natural": "This place is called 'Pond,' but with no water, there are no carp and no love. No koi, no koi. In such a place, I picked these greens, and that is my name."
       },
       {
         "date": "20250216",
@@ -854,6 +854,26 @@
         "translation-en": "This 'pond' is the name of this place.",
         "translation-ja-natural": "この「池」というのは、この地名です。",
         "translation-en-natural": "This 'pond' is the name of this place."
+      },
+      {
+        "date": "20250217",
+        "id": 84,
+        "text": "よき人の男につきて下りて住みけるなり。",
+        "kana": "よきひとのをのにつきておりてすみけるなり。",
+        "translation-ja": "よき人が、男に付き従って都から下って、そこに住んでいたのである。",
+        "translation-en": "A fine person followed a man down from the capital and lived there.",
+        "translation-ja-natural": "誰もが好きになりそうな気立てのよい女性が、男と共に都を離れ、そこで暮らすことになりました。",
+        "translation-en-natural": "A woman with a lovely personality, whom anyone would find charming, left the capital with a man and ended up living there."
+      },
+      {
+        "date": "20250217",
+        "id": 85,
+        "text": "この長櫃の物は皆人童までにくれたれば、飽き滿ちて舟子どもは腹皷をうちて海をさへおどろかして浪たてつべし。",
+        "kana": "このながひつのものはみなひとわらはまでにくれたれば、あきみちてふなこどもははらつづみをうちてうみをさへおどろかしてなみたてつべし。",
+        "translation-ja": "この長櫃の物は、すべての人から童に至るまでに与えられたので、満ち足りて、舟子たちは腹鼓を打ち、海までも驚かせて波を立てるに違いない。",
+        "translation-en": "The items in this long chest were given to everyone, from adults to children, so they were fully satisfied, and the boatmen beat their bellies like drums, even startling the sea and surely raising waves.",
+        "translation-ja-natural": "この長櫃いっぱいの品物は、大人から子供まで皆に惜しげもなく振る舞われ、誰もが満腹になってしまいました。船乗りたちは腹いっぱいに食べて、自分の腹をポンポン叩いて喜び、その音があまりに大きく、海までも驚いて波を立ててしまいました。",
+        "translation-en-natural": "The long chest was packed with goods and generously handed out to everyone, from adults to children, until they were completely full. The sailors, having eaten their fill, joyfully drummed on their bellies with such thunderous noise that even the sea itself seemed to shudder and stir up waves."
       }
     ]
   }
