@@ -844,6 +844,16 @@
         "translation-en": "It is a very interesting thing.",
         "translation-ja-natural": "なんと趣のあることでしょう。",
         "translation-en-natural": "What an interesting thing."
+      },
+      {
+        "date": "20250217",
+        "id": 83,
+        "text": "この池といふは所の名なり。",
+        "kana": "このいけといふはところのななり。",
+        "translation-ja": "この「池」というのは、この所の名前である。",
+        "translation-en": "This 'pond' is the name of this place.",
+        "translation-ja-natural": "この「池」というのは、この地名です。",
+        "translation-en-natural": "This 'pond' is the name of this place."
       }
     ]
   }
