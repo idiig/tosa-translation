@@ -894,6 +894,16 @@
         "translation-en": "Today, the name and such of the person who had someone bring the wrapping cloth, what was it? I shall remember it now.",
         "translation-ja-natural": "今日、包みを誰かに持たせて届けさせた人の名前は、何だったかな。そのうち思い出すだろう。",
         "translation-en-natural": "What was the name of the person who had someone bring the bundle today? I will remember it eventually."
+      },
+      {
+        "date": "20250220",
+        "id": 88,
+        "text": "この人歌よまむと思ふ心ありてなりけり。",
+        "kana": "このひとうたよまむとおもふこころありてなりけり。",
+        "translation-ja": "この人、歌を詠もうと思う心があってのことだった。",
+        "translation-en": "This person, having a heart to compose a poem, that was the reason.",
+        "translation-ja-natural": "この人は、歌を詠みたいという思いがあったのだ。",
+        "translation-en-natural": "This person had a desire to compose a poem."
       }
     ]
   }
