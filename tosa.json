@@ -924,6 +924,46 @@
         "translation-en": "Ahead on the path, rising white waves' sound rather than, belatedly shall cry, my voice will surpass?",
         "translation-ja-natural": "行く先に立つ白波の音よりも、遅れて泣く私の声のほうが大きくなるのだろうか。",
         "translation-en-natural": "Will my belated cries be louder than the sound of the white waves rising ahead on my path?"
+      },
+      {
+        "date": "20250223",
+        "id": 91,
+        "text": "とぞ（ぞイ無）詠める。",
+        "kana": "とぞよめる。",
+        "translation-ja": "と詠んだ。",
+        "translation-en": "And so it was composed.",
+        "translation-ja-natural": "と詠みました。",
+        "translation-en-natural": "And so it was composed."
+      },
+      {
+        "date": "20250223",
+        "id": 92,
+        "text": "いと大聲なるべし。",
+        "kana": "いとおほごへなるべし。",
+        "translation-ja": "とても大きな声で詠まれたに違いない。",
+        "translation-en": "It was surely composed with a very loud voice.",
+        "translation-ja-natural": "きっとものすごく大きな声だったことだろう。",
+        "translation-en-natural": "It must have been an incredibly loud voice."
+      },
+      {
+        "date": "20250223",
+        "id": 93,
+        "text": "持てきたる物より歌はいかゞあらむ。",
+        "kana": "もてきたるものよりうたはいかがあらむ。",
+        "translation-ja": "持ってきた物と比べて、歌はどうであろうか。",
+        "translation-en": "Compared to the things brought, how is the song?",
+        "translation-ja-natural": "持ってきた物に比べて、この歌はどうでしょうか。",
+        "translation-en-natural": "How does this song compare to the things that were brought?"
+      },
+      {
+        "date": "20250223",
+        "id": 94,
+        "text": "この歌を此彼あはれがれども一人も返しせず。",
+        "kana": "このうたをこのかれあはれがれどもひとりもかへしせず。",
+        "translation-ja": "この歌を、あの人もこの人も褒めたが、一人も返歌をしなかった。",
+        "translation-en": "Though both this person and that person praised this song, not one composed a reply.",
+        "translation-ja-natural": "この歌をみんなが褒めはしましたが、誰ひとり返歌をしませんでした。",
+        "translation-en-natural": "Everyone praised the song, but no one composed a reply."
       }
     ]
   }
