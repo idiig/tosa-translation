@@ -964,6 +964,26 @@
         "translation-en": "Though both this person and that person praised this song, not one composed a reply.",
         "translation-ja-natural": "この歌をみんなが褒めはしましたが、誰ひとり返歌をしませんでした。",
         "translation-en-natural": "Everyone praised the song, but no one composed a reply."
+      },
+      {
+        "date": "20250224",
+        "id": 95,
+        "text": "しつべき人も交れゝどこれをのみいたがり物をのみくひて夜更けぬ。",
+        "kana": "しつべきひともまじれれどこれをのみいたがりものをのみくひてよふけぬ。",
+        "translation-ja": "然るべき人も交じっていたが、その人もこの歌をほめるばかりで、食べ物ばかり食べて、夜が更けてしまった。",
+        "translation-en": "Even the appropriate person was present, but that person only praised this song, ate only food, and the night grew late.",
+        "translation-ja-natural": "当然、返歌をすべき人もいたが、その人もこの歌をただほめるばかりで、食べてばかりいるうちに夜が更けてしまった。",
+        "translation-en-natural": "Naturally, there were also those who should have composed a response, but they only kept praising the song, eating all the while, until the night grew late."
+      },
+      {
+        "date": "20250224",
+        "id": 96,
+        "text": "この歌ぬしなむ「またまからず」といひてたちぬ。",
+        "kana": "このうたぬしなむまたまからずといひてたちぬ。",
+        "translation-ja": "この歌の詠み手は、「まだ帰らない」と言って立ちあがった。",
+        "translation-en": "The composer of this poem said, 'I am not going back yet,' and stood up.",
+        "translation-ja-natural": "歌の詠み手は、「まだ帰らないよ」と言って立ちあがった。",
+        "translation-en-natural": "The poet said, 'I'm not leaving yet,' and stood up."
       }
     ]
   }
