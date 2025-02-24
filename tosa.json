@@ -984,6 +984,56 @@
         "translation-en": "The composer of this poem said, 'I am not going back yet,' and stood up.",
         "translation-ja-natural": "歌の詠み手は、「まだ帰らないよ」と言って立ちあがった。",
         "translation-en-natural": "The poet said, 'I'm not leaving yet,' and stood up."
+      },
+      {
+        "date": "20250225",
+        "id": 97,
+        "text": "ある人の子の童なる密にいふ。",
+        "kana": "あるひとのこのわらわなるひそかにいふ",
+        "translation-ja": "ある人の子供が、こっそり言う。",
+        "translation-en": "A child of a certain person says secretly.",
+        "translation-ja-natural": "ある人の子供が、こっそり言いました。",
+        "translation-en-natural": "A child of a certain person said secretly."
+      },
+      {
+        "date": "20250225",
+        "id": 98,
+        "text": "「まろこの歌の返しせむ」といふ。",
+        "kana": "「まろこのうたのかへしせむ」といふ。",
+        "translation-ja": "「まろ、この歌に返歌しよう」と言う。",
+        "translation-en": "Maro says, \"I will compose a reply to this song.\"",
+        "translation-ja-natural": "「あたしがこの返歌、しちゃだめ」と言いました。",
+        "translation-en-natural": "Maro said, \"I will compose a reply to this song.\""
+      },
+      {
+        "date": "20250225",
+        "id": 99,
+        "text": "驚きて「いとをかしきことかな。",
+        "kana": "おどろきて「いとをかしきことかな。",
+        "translation-ja": "驚いて、「とても素晴らしいことだな。",
+        "translation-en": "Surprised, \"That is a very wonderful thing.'",
+        "translation-ja-natural": "みんな驚いて、「それはすごい。",
+        "translation-en-natural": "Everyone was surprised, \"That's amazing."
+      },
+      {
+        "date": "20250225",
+        "id": 100,
+        "text": "よみてむやは。",
+        "kana": "よみてむやは。",
+        "translation-ja": "詠んでみようか。",
+        "translation-en": "Will you try reciting?",
+        "translation-ja-natural": "詠んでみようか。",
+        "translation-en-natural": "Will you try reciting?"
+      },
+      {
+        "date": "20250225",
+        "id": 101,
+        "text": "詠みつべくばはやいへかし」といふ（にイ有）。",
+        "kana": "よみつべくばはやいへかし」といふ。",
+        "translation-ja": "「詠むのなら、早く言いなさい」と言う。",
+        "translation-en": "He says, \"If you are going to recite, say it quickly.\"",
+        "translation-ja-natural": "詠むなら、早く言ってごらん」と促しました。",
+        "translation-en-natural": "He encouraged, \"If you're going to recite, go ahead and say it.\""
       }
     ]
   }
