@@ -1054,6 +1054,16 @@
         "translation-en": "They ask in doubt, 'How did you compose it in the first place?'",
         "translation-ja-natural": "「そもそもどのように詠んだの？」と、みんな不思議そうに聞きました。",
         "translation-en-natural": "Everyone curiously asked, 'How did you even come up with that?'"
+      },
+      {
+        "date": "20250225",
+        "id": 104,
+        "text": "この童さすがに耻ぢていはず。",
+        "kana": "このわらわさすがにはじていはず。",
+        "translation-ja": "この子供は、さすがに恥ずかしがって言わず。",
+        "translation-en": "This child, as expected, was too embarrassed to say anything.",
+        "translation-ja-natural": "この子供は、さすがに恥ずかしくて言えませんでした。",
+        "translation-en-natural": "This kid, as expected, was too embarrassed to say anything."
       }
     ]
   }
