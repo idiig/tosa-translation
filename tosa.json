@@ -1094,6 +1094,16 @@
         "translation-en": "And so it was composed.",
         "translation-ja-natural": "と詠みました。",
         "translation-en-natural": "And so it was composed."
+      },
+      {
+        "date": "20250228",
+        "id": 108,
+        "text": "かくはいふものか、うつくしければにやあらむ、いと思はずなり。",
+        "kana": "かくはいふものか、うつくしければにやあらむ、いとおもはずなり。",
+        "translation-ja": "このように言うものなのだろうか。かわいらしいからなのだろうか。たいへんこう思ってはいなかった。",
+        "translation-en": "Is this how one is supposed to say it? Perhaps because the child is adorable? I had not thought so at all.",
+        "translation-ja-natural": "こういうふうに歌を詠むものなのでしょうか。かわいらしいからでしょうか。まったくこのように上手く詠むとは思ってもみませんでした。",
+        "translation-en-natural": "Is this really how one is supposed to compose a poem? Maybe it's just because the kid is adorable. I never expected them to compose so skillfully."
       }
     ]
   }
