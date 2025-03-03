@@ -1134,6 +1134,16 @@
         "translation-en": "Tonight, the moon has entered the sea.",
         "translation-ja-natural": "今夜の月は、海に沈んでいきました。",
         "translation-en-natural": "Tonight's moon has set into the sea."
+      },
+      {
+        "date": "20250303",
+        "id": 112,
+        "text": "これを見て業平の君の「山のはにげて入れずもあらなむ」といふ歌なむおもほゆる。",
+        "kana": "これをみてなりひらのきみのやまのはにげていれずもあらなむ」といふうたなむおもほゆる。",
+        "translation-ja": "これを見て、業平の君の「山の端に逃げて入らないでほしい」という歌が思い出される。",
+        "translation-en": "Seeing this, I am reminded of Lord Narihira's poem, 'Even if the mountain's edge flees, may it not dissappear.'",
+        "translation-ja-natural": "これを見て、業平の君の「山の端に逃げて、沈まずにいてほしい」という歌が思い出されました。",
+        "translation-en-natural": "Seeing this, I was reminded of Lord Narihira's poem, 'May the moon flee to the mountain's edge and not dissappear.'"
       }
     ]
   }
