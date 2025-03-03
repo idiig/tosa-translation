@@ -1124,6 +1124,16 @@
         "translation-en": "On the eighth day, various things happened, and I am still in the same place.",
         "translation-ja-natural": "八日。まあ、いろいろあって、まだここにいる。",
         "translation-en-natural": "The eighth day. Well, for one reason or another, I'm still here."
+      },
+      {
+        "date": "20250303",
+        "id": 111,
+        "text": "今宵の月は海にぞ入る。",
+        "kana": "こよいのつきはうみにそいる。",
+        "translation-ja": "今宵の月は、海に入った。",
+        "translation-en": "Tonight, the moon has entered the sea.",
+        "translation-ja-natural": "今夜の月は、海に沈んでいきました。",
+        "translation-en-natural": "Tonight's moon has set into the sea."
       }
     ]
   }
