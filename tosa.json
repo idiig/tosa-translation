@@ -1144,6 +1144,26 @@
         "translation-en": "Seeing this, I am reminded of Lord Narihira's poem, 'Even if the mountain's edge flees, may it not dissappear.'",
         "translation-ja-natural": "これを見て、業平の君の「山の端に逃げて、沈まずにいてほしい」という歌が思い出されました。",
         "translation-en-natural": "Seeing this, I was reminded of Lord Narihira's poem, 'May the moon flee to the mountain's edge and not dissappear.'"
+      },
+      {
+        "date": "20250304",
+        "id": 113,
+        "text": "もし海邊にてよまゝしかば「浪たちさへて入れずもあらなむ」と詠みてましや。",
+        "kana": "もしうみべにてよまましかば「なみたちさへていれずもあらなむ」とよみてましや。",
+        "translation-ja": "もし海辺で詠んだならば、「波が立ちさえして、入らないでほしい」と詠んだだろうか。",
+        "translation-en": "If I had composed a poem by the seaside, would I have composed, 'If only the waves rose and kept everything out'?",
+        "translation-ja-natural": "もし海辺で詠んだなら、「波が高く立って、何も入らないでほしい」と詠んだでしょうか。",
+        "translation-en-natural": "If I had composed a poem by the seaside, would I have written, 'May the waves rise high and keep everything away'?"
+      },
+      {
+        "date": "20250304",
+        "id": 114,
+        "text": "今この歌を思ひ出でゝある人のよめりける、",
+        "kana": "いまこのうたをおもいいでてあるひとのよめりける、",
+        "translation-ja": "今、この歌を思い出して、ある人が詠んだらしい歌は、",
+        "translation-en": "Now, recalling this poem, a poem which a certain person seems to have composed is...",
+        "translation-ja-natural": "今、この歌を思い出して、ある人が詠んだ歌は、",
+        "translation-en-natural": "Now, recalling this poem, a poem that a certain person has composed is..."
       }
     ]
   }
