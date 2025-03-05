@@ -1164,6 +1164,16 @@
         "translation-en": "Now, recalling this poem, a poem which a certain person seems to have composed is...",
         "translation-ja-natural": "今、この歌を思い出して、ある人が詠んだ歌は、",
         "translation-en-natural": "Now, recalling this poem, a poem that a certain person has composed is..."
+      },
+      {
+        "date": "20250305",
+        "id": 115,
+        "poem": "てる月の/ながるゝ見れば/あまの川/いづるみなとは/海にざ（ぞあイ）りける",
+        "kana": "てるつきのながるるみればあまのがわいづるみなとはうみにざりける",
+        "translation-ja": "照る月が流れるのを見ると、天の川が出る港は、海にあった。",
+        "translation-en": "Seeing the shining moon flow, the harbor where the Milky Way emerges was in the sea.",
+        "translation-ja-natural": "照る月が流れていくのを見ていると、天の川が生まれる港は、海にあったのですね。",
+        "translation-en-natural": "Watching the shining moon drift along, I realize that the harbor where the Milky Way begins was in the sea."
       }
     ]
   }
