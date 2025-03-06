@@ -1174,6 +1174,26 @@
         "translation-en": "Seeing the shining moon flow, the harbor where the Milky Way emerges was in the sea.",
         "translation-ja-natural": "照る月が流れていくのを見ていると、天の川が生まれる港は、海にあったのですね。",
         "translation-en-natural": "Watching the shining moon drift along, I realize that the harbor where the Milky Way begins was in the sea."
+      },
+      {
+        "date": "20250306",
+        "id": 116,
+        "text": "とや。",
+        "kana": "とや。",
+        "translation-ja": "ということである。",
+        "translation-en": "That is what it means.",
+        "translation-ja-natural": "というわけです。",
+        "translation-en-natural": "So, that's how it is."
+      },
+      {
+        "date": "20250306",
+        "id": 117,
+        "text": "九日、つとめて大湊より那波の泊をおはむとて漕ぎ出でにけり。",
+        "kana": "ここのか、つとめておおみなとよりなばのとまりをおはむとてこぎいでにけり。",
+        "translation-ja": "九日の朝早く、大湊から那波の泊へ着こうとして、漕ぎ出した。",
+        "translation-en": "On the ninth day, early in the morning, they rowed out from Ominato, intending to arrive at Naba Anchorage.",
+        "translation-ja-natural": "九日の朝早く、大湊を出発して、那波の泊を目指して船を漕ぎ出しました。",
+        "translation-en-natural": "Early in the morning on the ninth day, they set sail from Ominato, heading toward Naba Anchorage."
       }
     ]
   }
