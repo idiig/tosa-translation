@@ -1194,6 +1194,36 @@
         "translation-en": "On the ninth day, early in the morning, they rowed out from Ominato, intending to arrive at Naba Anchorage.",
         "translation-ja-natural": "九日の朝早く、大湊を出発して、那波の泊を目指して船を漕ぎ出しました。",
         "translation-en-natural": "Early in the morning on the ninth day, they set sail from Ominato, heading toward Naba Anchorage."
+      },
+      {
+        "date": "20250307",
+        "id": 118,
+        "text": "これかれ互に國の境の内はとて見おくりにくる人數多が中に藤原のときざね、橘の季衡、長谷部の行政等なむみたちより出でたうびし日より此所彼所におひくる。",
+        "kana": "これかれたがひにくにのさかひのうちはとてみおくりにくるひとあまたがなかにふぢはらのときざね、たちばなのすゑひら、はせべのゆきまさらなむみたちよりいでたうびしひよりここかしこにおひくる。",
+        "translation-ja": "この人あの人互いに、国の境の内はと言って見送りに来る人、その多くの人々の中には、藤原のときざね、橘の季衡、長谷部の行政らがいたが、彼らは国司の館を出発した日からあちらこちらへと追ってくる。",
+        "translation-en": "These people, saying that as long as it was within the borders of the province, came to see them off. Among the many people, there were Fujiwara no Tokizane, Tachibana no Suehira, and Hasebe no Yukinari, who had been following them from place to place since the day they departed from the provincial governor's residence.",
+        "translation-ja-natural": "あの人もこの人も、かわるがわる、国の境の内にいるうちはと言って見送りに来る多くの人の中でも、藤原のときざね、橘の季衡、長谷部の行政らは、国司の館を出発した日以来、ずっとあちらこちらへと追いかけてきています。",
+        "translation-en-natural": "One person after another came to see them off, saying that as long as they were still within the provincial borders, they would do so. Among the many people who came to see them off, Fujiwara no Tokizane, Tachibana no Suehira, and Hasebe no Yukinari had been following them from place to place ever since they departed from the provincial governor's residence."
+      },
+      {
+        "date": "20250308",
+        "id": 119,
+        "text": "この人々ぞ志ある人なりける。",
+        "kana": "このひとびとそころひあるひとなりける。",
+        "translation-ja": "この人々は志のある人であった。",
+        "translation-en": "These were people of true devotion.",
+        "translation-ja-natural": "この人たちは、本当に心のこもった人々でした。",
+        "translation-en-natural": "These people were truly sincere and devoted."
+      },
+      {
+        "date": "20250308",
+        "id": 120,
+        "text": "この人々の深き志はこの海には劣らざるべし。",
+        "kana": "このひとびとのふかきこころざしはこのうみにはおとらざるべし。",
+        "translation-ja": "この人々の深い志は、この海にも劣らないだろう。",
+        "translation-en": "The deep devotion of these people should be no less than the depth of this sea.",
+        "translation-ja-natural": "この人々の深い信念は、この海の深さにも劣らないでしょう。",
+        "translation-en-natural": "The deep devotion of these people is no less than the depth of the sea."
       }
     ]
   }
