@@ -1234,6 +1234,16 @@
         "translation-en": "From here, now, row away and go.",
         "translation-ja-natural": "ここから今、船を漕ぎ出して陸から離れていきます。",
         "translation-en-natural": "Now, they row away from here and leave the shore."
+      },
+      {
+        "date": "20250310",
+        "id": 122,
+        "text": "これを見送らむとてぞこの人どもは追ひきける。",
+        "kana": "これをみおくらむとてそこのひとどもはおひきける。",
+        "translation-ja": "これを見送ろうとして、この人どもは追ってきたのだ。",
+        "translation-en": "Intending to see this off, these people chased after.",
+        "translation-ja-natural": "これを見送ろうとして、人々はあとを追いかけてきました。",
+        "translation-en-natural": "Wishing to see them off, the people hurried after them."
       }
     ]
   }
