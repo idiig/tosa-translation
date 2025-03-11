@@ -1254,6 +1254,16 @@
         "translation-en": "Thus, while rowing, even those who had stayed by the sea became distant.",
         "translation-ja-natural": "こうして船を漕ぎ進むうちに、海辺にとどまっていた人たちの姿も次第に遠ざかってしまいました。",
         "translation-en-natural": "As the boat moved forward, the people who had remained by the shore gradually disappeared from sight."
+      },
+      {
+        "date": "20250311",
+        "id": 124,
+        "text": "船の人も見えずなりぬ。",
+        "kana": "ふねのひともみえずなりぬ。",
+        "translation-ja": "船の人も見えなくなってしまった。",
+        "translation-en": "The people on the boat also disappeared from view.",
+        "translation-ja-natural": "船の人々も見えなくなってしまいました。",
+        "translation-en-natural": "The people on the boat were no longer visible."
       }
     ]
   }
