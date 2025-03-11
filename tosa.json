@@ -1244,6 +1244,16 @@
         "translation-en": "Intending to see this off, these people chased after.",
         "translation-ja-natural": "これを見送ろうとして、人々はあとを追いかけてきました。",
         "translation-en-natural": "Wishing to see them off, the people hurried after them."
+      },
+      {
+        "date": "20250311",
+        "id": 123,
+        "text": "かくて漕ぎ行くまにまに海の邊にとまれる人も遠くなりぬ。",
+        "kana": "かくてこぎゆくまにまにうみのほとりにとまれるひともとほくなりぬ。",
+        "translation-ja": "こうして漕ぎ行くうちに、海辺に泊まっていた人も遠くなった。",
+        "translation-en": "Thus, while rowing, even those who had stayed by the sea became distant.",
+        "translation-ja-natural": "こうして船を漕ぎ進むうちに、海辺にとどまっていた人たちの姿も次第に遠ざかってしまいました。",
+        "translation-en-natural": "As the boat moved forward, the people who had remained by the shore gradually disappeared from sight."
       }
     ]
   }
