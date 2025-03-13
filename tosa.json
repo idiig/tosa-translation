@@ -1272,8 +1272,15 @@
         "kana": "きしにもいふことあるべし、ふねにもおもふことあれどかひなし。",
         "translation-ja": "岸にも言うことがあるだろうし、船にも思うことはあるけれど、無駄である。",
         "translation-en": "There may be things to say on the shore, and things to think on the boat, though it is in vain.",
-        "translation-ja-natural": "岸にいる人たちにも言いたいことはあるだろうし、船にいる人たちにも思うことはあるけれど、どうにもならない。",
+        "translation-ja-natural": "岸にいる人たちにも言いたいことはあるだろうし、船にいる人たちにも思うことはあるけれど、どうにもなりません。",
         "translation-en-natural": "Those on the shore may have things to say, and those on the boat may have thoughts of their own, but nothing can be done."
+      },
+      {
+        "date": "20250313",
+        "id": 126,
+        "text": "かゝれどこの歌を獨言にしてやみぬ。",
+        "kana": "かかれどこのうたをひとりごとにしてやみぬ。",
+        "translation-ja": "こういうわけだが、この歌を独り言で口ずさんでやめた。"
       }
     ]
   }
