@@ -1264,6 +1264,16 @@
         "translation-en": "The people on the boat also disappeared from view.",
         "translation-ja-natural": "船の人々も見えなくなってしまいました。",
         "translation-en-natural": "The people on the boat were no longer visible."
+      },
+      {
+        "date": "20250312",
+        "id": 125,
+        "text": "岸にもいふ事あるべし、船にも思ふことあれどかひなし。",
+        "kana": "きしにもいふことあるべし、ふねにもおもふことあれどかひなし。",
+        "translation-ja": "岸にも言うことがあるだろうし、船にも思うことはあるけれど、無駄である。",
+        "translation-en": "There may be things to say on the shore, and things to think on the boat, though it is in vain.",
+        "translation-ja-natural": "岸にいる人たちにも言いたいことはあるだろうし、船にいる人たちにも思うことはあるけれど、どうにもならない。",
+        "translation-en-natural": "Those on the shore may have things to say, and those on the boat may have thoughts of their own, but nothing can be done."
       }
     ]
   }
