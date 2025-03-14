@@ -1286,7 +1286,7 @@
         "translation-en-natural": "Even so, with this song, a soliloquy meant for no one, as its last, the words from the shore and the thoughts on the boat gradually faded away with the waves and the wind."
       },
       {
-        "date": "20250314",
+        "date": "20250313",
         "id": 127,
         "poem": "おもひやる/心は海を/渡れども/ふみしなければ/［＃「なければ」は底本では「なれば」］知らずやあるらむ。",
         "kana": "おもひやるこころはうみをわたれどもふみしなければしらずやあるらむ。",
@@ -1296,7 +1296,7 @@
         "translation-en-natural": "The heart that longs for another may cross the sea, but just because it is not a letter, does it mean they cannot understand each other's hearts?"
       },
       {
-        "date": "20250315",
+        "date": "20250314",
         "id": 128,
         "text": "かくて宇多の松原を行き過ぐ。",
         "kana": "かくてうたのまつばらをゆきすぐ。",
@@ -1306,7 +1306,7 @@
         "translation-en-natural": "And so, we pass by the pine grove of Uda."
       },
       {
-        "date": "20250315",
+        "date": "20250314",
         "id": 129,
         "text": "松の數幾そばく、幾千年へたりと知らず。",
         "kana": "まつのかずいくそばく、いくせんねんへたりとしらず。",
@@ -1316,7 +1316,7 @@
         "translation-en-natural": "I do not know how great the number of pine trees is, nor how many thousands of years have passed."
       },
       {
-        "date": "20250316",
+        "date": "20250314",
         "id": 130,
         "text": "かくて宇多の松原を行き過ぐ。",
         "kana": "かくてうたのまつばらをゆきすぐ。",
@@ -1326,7 +1326,7 @@
         "translation-en-natural": "And so, we pass by the pine grove of Uda."
       },
       {
-        "date": "20250315",
+        "date": "20250314",
         "id": 131,
         "text": "もとごとに浪うちよせ枝ごとに鶴ぞ飛びかふ。",
         "kana": "もとごとになみうちよせえごとにつるぞとびかふ。",
@@ -1336,7 +1336,7 @@
         "translation-en-natural": "Waves lap against the base of the pines, and cranes flutter among the branches."
       },
       {
-        "date": "20250316",
+        "date": "20250314",
         "id": 132,
         "text": "かくて宇多の松原を行き過ぐ。",
         "kana": "かくてうたのまつばらをゆきすぐ。",
@@ -1346,7 +1346,7 @@
         "translation-en-natural": "And so, we pass by the pine grove of Uda."
       },
       {
-        "date": "20250315",
+        "date": "20250314",
         "id": 133,
         "text": "おもしろしと見るに堪へずして船人のよめる歌、",
         "kana": "おもしろしとみるにたへずしてふなびとのよめるうた、",
@@ -1356,7 +1356,7 @@
         "translation-en-natural": "Overwhelmed by its beauty, a passenger composed the following poem..."
       },
       {
-        "date": "20250316",
+        "date": "20250314",
         "id": 134,
         "text": "かくて宇多の松原を行き過ぐ。",
         "kana": "かくてうたのまつばらをゆきすぐ。",
@@ -1366,7 +1366,7 @@
         "translation-en-natural": "And so, we pass by the pine grove of Uda."
       },
       {
-        "date": "20250315",
+        "date": "20250314",
         "id": 135,
         "poem": "見渡せば/松のうれごとに/すむ鶴は/千代のどちとぞ/思ふべらなる",
         "kana": "みわたせばまつのうれごとにすむつるはちよのどちとぞおもふべらなる",
@@ -1376,7 +1376,7 @@
         "translation-en-natural": "Looking out, the cranes perched on the pine treetops seem to think of the pines as their lifelong friends across a thousand years."
       },
       {
-        "date": "20250315",
+        "date": "20250314",
         "id": 136,
         "text": "とや。",
         "kana": "とや。",
@@ -1386,7 +1386,7 @@
         "translation-en-natural": "."
       },
       {
-        "date": "20250315",
+        "date": "20250314",
         "id": 137,
         "text": "かくて宇多の松原を行き過ぐ。",
         "kana": "かくてうたのまつばらをゆきすぐ。",
@@ -1396,7 +1396,7 @@
         "translation-en-natural": "And so, we pass by the pine grove of Uda."
       },
       {
-        "date": "20250315",
+        "date": "20250314",
         "id": 138,
         "text": "この歌は所を見るにえまさらず。",
         "kana": "このうたはところをみるにえまさらず。",
@@ -1404,6 +1404,26 @@
         "translation-en": "This poem cannot surpass the view when looking at the place.",
         "translation-ja-natural": "この歌は、実際の場所を見ると、そのすばらしさにはかなわない。",
         "translation-en-natural": "This poem, when seeing the actual place, cannot quite rival its beauty."
+      },
+      {
+        "date": "20250314",
+        "id": 139,
+        "text": "かくて宇多の松原を行き過ぐ。",
+        "kana": "かくてうたのまつばらをゆきすぐ。",
+        "translation-ja": "こうして、宇多の松原を行き過ぎる。",
+        "translation-en": "Thus, they go past the pine grove of Uda.",
+        "translation-ja-natural": "こうして、宇多の松原を通り過ぎる。",
+        "translation-en-natural": "And so, we pass by the pine grove of Uda."
+      },
+      {
+        "date": "20250314",
+        "id": 140,
+        "text": "かくあるを見つゝ漕ぎ行くまにまに、山も海もみなくれ、夜更けて、西ひんがしも見えずして、てけのこと楫取の心にまかせつ。",
+        "kana": "かくあるをみつつこぎゆくまにまに、やまもうみもみなくれ、よふけて、にしひんがしもみえずして、てけのことかぢとりのこころにまかせつ。",
+        "translation-ja": "このようにあるものを見ながら漕いでいくうちに、山も海もすべて暮れ、夜が更け、西も東も見えなくなり、天気のことは楫取の心に任せてしまった。",
+        "translation-en": "As the boat was rowed while looking at things as they were, the mountains and the sea all darkened, night fell, and neither west nor east was visible, and the weather was left to the oarsman's judgment.",
+        "translation-ja-natural": "こうして船を漕ぎ進めるうちに、山も海もすっかり暮れて、夜が更けて、西も東も見えなくなり、天気のことは船頭に委ねるほかありませんでした。",
+        "translation-en-natural": "As the boat moved forward, the mountains and sea faded into darkness, night deepened, and both west and east disappeared from view, leaving the weather in the hands of the oarsman."
       }
     ]
   }
