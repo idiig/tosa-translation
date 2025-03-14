@@ -1284,6 +1284,16 @@
         "translation-en": "Even so, regarding this song as a soliloquy, it ended.",
         "translation-ja-natural": "それでも、この歌、誰に贈るでもない独り言を最後に、海辺のことば、船の思いは、止んでいきました。",
         "translation-en-natural": "Even so, with this song, a soliloquy meant for no one, as its last, the words from the shore and the thoughts on the boat gradually faded away with the waves and the wind."
+      },
+      {
+        "date": "20250314",
+        "id": 127,
+        "poem": "おもひやる/心は海を/渡れども/ふみしなければ/［＃「なければ」は底本では「なれば」］知らずやあるらむ。",
+        "kana": "おもひやるこころはうみをわたれどもふみしなければしらずやあるらむ。",
+        "translation-ja": "思いやる心は、海を渡るけれども、文がないので、知らないことがあるのだろうか。",
+        "translation-en": "The heart that sends thoughts afar crosses the sea, but since there is no letter, is there something they do not know?",
+        "translation-ja-natural": "思いやる心は海を渡るけれども、手紙ではないからといって、お互いの心がわからないということがあるのでしょうか。",
+        "translation-en-natural": "The heart that longs for another may cross the sea, but just because it is not a letter, does it mean they cannot understand each other's hearts?"
       }
     ]
   }
