@@ -1424,6 +1424,36 @@
         "translation-en": "As the boat was rowed while looking at things as they were, the mountains and the sea all darkened, night fell, and neither west nor east was visible, and the weather was left to the oarsman's judgment.",
         "translation-ja-natural": "こうして船を漕ぎ進めるうちに、山も海もすっかり暮れて、夜が更けて、西も東も見えなくなり、天気のことは船頭に委ねるほかありませんでした。",
         "translation-en-natural": "As the boat moved forward, the mountains and sea faded into darkness, night deepened, and both west and east disappeared from view, leaving the weather in the hands of the oarsman."
+      },
+      {
+        "date": "20250315",
+        "id": 141,
+        "text": "男もならはねば（二字ぬはイ）いとも心細し。",
+        "kana": "をとこもならはねばいともこころぼしし。",
+        "translation-ja": "男も慣れていないので、とても心細い。",
+        "translation-en": "Since the men are not accustomed to it, they feel very uneasy.",
+        "translation-ja-natural": "男たちもまだ船旅に慣れておらず、とても心細く感じていました。",
+        "translation-en-natural": "Even the men were still unaccustomed to the voyage and felt very uneasy."
+      },
+      {
+        "date": "20250315",
+        "id": 142,
+        "text": "まして女は船底に頭をつきあてゝねをのみぞなく。",
+        "kana": "ましてをんなはふなぞこにかしらをつきあててねをのみそなく。",
+        "translation-ja": "まして女は、船底に頭を突き当てて、ただ泣くばかりだ。",
+        "translation-en": "Moreover, the women, with their heads pressed against the bottom of the boat, do nothing but cry.",
+        "translation-ja-natural": "まして女たちは船底に頭をつけて、ただ泣くばかりでした。",
+        "translation-en-natural": "Moreover, the women, with their heads against the bottom of the boat, did nothing but cry."
+      },
+      {
+        "date": "20250315",
+        "id": 143,
+        "text": "かく思へば舟子楫取は船歌うたひて何とも思へらず。",
+        "kana": "かくおもへばふなこかぢとりはふなうたうたひてなにともおもへらず。",
+        "translation-ja": "こう思うに、水夫や船頭は船歌を歌い、何とも思わない。",
+        "translation-en": "Thinking thus, the boatmen and the helmsman sing boat songs and think nothing of it.",
+        "translation-ja-natural": "こう思っていると、水夫や船頭はのんびりと船歌を口ずさみ、まるで気にも留めていないようです。",
+        "translation-en-natural": "As I ponder this, the boatmen and the helmsman leisurely hum a tune, seeming completely unbothered."
       }
     ]
   }
