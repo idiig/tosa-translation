@@ -1454,6 +1454,156 @@
         "translation-en": "Thinking thus, the boatmen and the helmsman sing boat songs and think nothing of it.",
         "translation-ja-natural": "こう思っていると、水夫や船頭はのんびりと船歌を口ずさみ、まるで気にも留めていないようです。",
         "translation-en-natural": "As I ponder this, the boatmen and the helmsman leisurely hum a tune, seeming completely unbothered."
+      },
+      {
+        "date": "20250315",
+        "id": 144,
+        "text": "そのうたふうたは、",
+        "kana": "そのうたふうたは、",
+        "translation-ja": "その歌う歌は、",
+        "translation-en": "The song they sing is...",
+        "translation-ja-natural": "船人が歌う歌は、",
+        "translation-en-natural": "The song they sing is..."
+      },
+      {
+        "date": "20250315",
+        "id": 145,
+        "poem": "春の野にてぞ",
+        "kana": "はるののにて",
+        "translation-ja": "春の野でさ",
+        "translation-en": "In the spring fields...",
+        "translation-ja-natural": "春の野でさ",
+        "translation-en-natural": "In the spring fields..."
+      },
+      {
+        "date": "20250315",
+        "id": 146,
+        "poem": "音をばなく",
+        "kana": "ねをばなく",
+        "translation-ja": "声を出して泣く",
+        "translation-en": "Crying out loud...",
+        "translation-ja-natural": "声を出して泣く",
+        "translation-en-natural": "Crying out loud..."
+      },
+      {
+        "date": "20250315",
+        "id": 147,
+        "poem": "わが薄にて",
+        "kana": "わがすすきにて",
+        "translation-ja": "若薄にさ",
+        "translation-en": "with young silver grasses",
+        "translation-ja-natural": "若薄にさ",
+        "translation-en-natural": "with young silver grasses"
+      },
+      {
+        "date": "20250315",
+        "id": 148,
+        "poem": "手切る切る",
+        "kana": "てきるきる",
+        "translation-ja": "手を切り切りして",
+        "translation-en": "cutting and cutting hands",
+        "translation-ja-natural": "手を切り切りして",
+        "translation-en-natural": "cutting and cutting hands"
+      },
+      {
+        "date": "20250315",
+        "id": 149,
+        "poem": "つんだる菜を",
+        "kana": "つんだるなを",
+        "translation-ja": "摘んだ菜を",
+        "translation-en": "the picked vegetables",
+        "translation-ja-natural": "摘んだ菜を",
+        "translation-en-natural": "the picked vegetables"
+      },
+      {
+        "date": "20250315",
+        "id": 149,
+        "poem": "親やまぼるらむ",
+        "kana": "おややまぼるらむ",
+        "translation-ja": "親が食べるのか",
+        "translation-en": "Do the parents eat?",
+        "translation-ja-natural": "親が食べるのか",
+        "translation-en-natural": "Do the parents eat?"
+      },
+      {
+        "date": "20250315",
+        "id": 150,
+        "poem": "姑や食ふらむ",
+        "kana": "しゅうとめやくふらむ",
+        "translation-ja": "姑が食べるのか",
+        "translation-en": "Does the mother-in-law eat?",
+        "translation-ja-natural": "姑が食べるのか",
+        "translation-en-natural": "Does the mother-in-law eat?"
+      },
+      {
+        "date": "20250315",
+        "id": 151,
+        "poem": "かへらや",
+        "kana": "かへらや",
+        "translation-ja": "帰るのか",
+        "translation-en": "Shall we go back?",
+        "translation-ja-natural": "帰るのか",
+        "translation-en-natural": "Shall we go back?"
+      },
+      {
+        "date": "20250315",
+        "id": 152,
+        "poem": "よんべのうなゐもがな",
+        "kana": "よんべのうなゐもがな",
+        "translation-ja": "夜べの幼子も来ないかな",
+        "translation-en": "I wonder if a small kid will come tonight.",
+        "translation-ja-natural": "夜のちっちゃな子は来ないかな",
+        "translation-en-natural": "I wonder if a small child will come tonight."
+      },
+      {
+        "date": "20250315",
+        "id": 153,
+        "poem": "ぜにこはむ",
+        "kana": "ぜにこはむ",
+        "translation-ja": "お金を乞う",
+        "translation-en": "Begging for money",
+        "translation-ja-natural": "お金をもらおう",
+        "translation-en-natural": "Begging for money"
+      },
+      {
+        "date": "20250315",
+        "id": 154,
+        "poem": "そらごとをして",
+        "kana": "そらごとをして",
+        "translation-ja": "嘘をついて",
+        "translation-en": "Telling lies",
+        "translation-ja-natural": "嘘をついて",
+        "translation-en-natural": "Telling lies"
+      },
+      {
+        "date": "20250315",
+        "id": 155,
+        "poem": "おぎのりわざをして",
+        "kana": "おぎのりわざをして",
+        "translation-ja": "掛買いにして",
+        "translation-en": "Making a bet",
+        "translation-ja-natural": "掛け買いにして",
+        "translation-en-natural": "Making a bet"
+      },
+      {
+        "date": "20250315",
+        "id": 156,
+        "poem": "銭も持て来ず",
+        "kana": "ぜにももてきず",
+        "translation-ja": "お金も持ってこない",
+        "translation-en": "Without bringing money",
+        "translation-ja-natural": "お金も持ってこない",
+        "translation-en-natural": "Without bringing money"
+      },
+      {
+        "date": "20250315",
+        "id": 157,
+        "poem": "おのれだに来ず",
+        "kana": "おのれだにきず",
+        "translation-ja": "自分自身も来ない",
+        "translation-en": "Even oneself does not come",
+        "translation-ja-natural": "自分自身も来ない",
+        "translation-en-natural": "Even oneself does not come"
       }
     ]
   }
