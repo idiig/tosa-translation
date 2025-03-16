@@ -1581,9 +1581,9 @@
         "poem": "おぎのりわざをして",
         "kana": "おぎのりわざをして",
         "translation-ja": "掛買いにして",
-        "translation-en": "Making a bet",
+        "translation-en": "Buying on credit",
         "translation-ja-natural": "掛け買いにして",
-        "translation-en-natural": "Making a bet"
+        "translation-en-natural": "Buying on credit"
       },
       {
         "date": "20250315",
@@ -1599,11 +1599,61 @@
         "date": "20250315",
         "id": 157,
         "poem": "おのれだに来ず",
-        "kana": "おのれだにきず",
+        "kana": "おのれだにこず",
         "translation-ja": "自分自身も来ない",
         "translation-en": "Even oneself does not come",
         "translation-ja-natural": "自分自身も来ない",
         "translation-en-natural": "Even oneself does not come"
+      },
+      {
+        "date": "20250315",
+        "id": 158,
+        "text": "かくて船人のうたふ歌を聞きて、",
+        "kana": "かくてふなびとのうたふうたをききて、",
+        "translation-ja": "船人たちが歌う歌を聞いて、",
+        "translation-en": "Listening to the song sung by the boatmen,",
+        "translation-ja-natural": "船人たちが歌う歌を聞いて、",
+        "translation-en-natural": "Listening to the song sung by the boatmen,"
+      },
+      {
+        "date": "20250315",
+        "id": 159,
+        "text": "かく思へば、",
+        "kana": "かくおもへば、",
+        "translation-ja": "こう思えば、",
+        "translation-en": "Thinking thus,",
+        "translation-ja-natural": "こう思えば、",
+        "translation-en-natural": "Thinking thus,"
+      },
+      {
+        "date": "20250316",
+        "id": 160,
+        "text": "これならず多かれども書かず。",
+        "kana": "これならずおほかれどもかかず。",
+        "translation-ja": "これだけでなく、多くあったが、書かない。",
+        "translation-en": "Not only these, but there were many more, yet I will not write them.",
+        "translation-ja-natural": "これだけの歌だけでなく、他にも多くあったけれど、もう書きません。",
+        "translation-en-natural": "There were many other poems besides these, but I will not write them."
+      },
+      {
+        "date": "20250316",
+        "id": 161,
+        "text": "これらを人の笑ふを聞きて、海は荒るれども心は少しなぎぬ。",
+        "kana": "これらをひとのわらふをききて、うみはあられどもこころはすこしなぎぬ。",
+        "translation-ja": "これらを人々が笑うのを聞いて、海は荒れているが、心は少し穏やかになった。",
+        "translation-en": "Hearing people laugh at these, although the sea is rough, my heart has calmed a little.",
+        "translation-ja-natural": "人々の笑い声を聞いて、海は荒れていても、少し気持ちが落ち着きました。",
+        "translation-en-natural": "Hearing the laughter of others, even though the sea was rough, I felt a bit more at ease."
+      },
+      {
+        "date": "20250316",
+        "id": 162,
+        "text": "かくゆきくらして泊にいたりて、おきな人ひとり、たうめ一人あるがなかに、心ちあしみしてものも物し給はでひそまりぬ。",
+        "kana": "かくゆきくらしてとまりにいたりて、おきなひとひとり、たうめひとりあるがなかに、こころちあしみしてものもものしはでひそまりぬ。",
+        "translation-ja": "このようにして行き、暮して、泊まり場に至り、翁が一人、専女が一人いる中で、気分が悪くなり、食事をすることもなく、寝てしまった。",
+        "translation-en": "Thus, as they traveled until nightfall and reached the harbor, among them were one old man and one young woman, but feeling unwell, they ate nothing and fell asleep.",
+        "translation-ja-natural": "こうして日が暮れるまで進み、港に着いたが、たまたま乗り合わせた老人と女性がいて、お二人は気分が悪くなり、食事もお取りにならずにそのまま眠ってしまいました。",
+        "translation-en-natural": "As they traveled until nightfall and arrived at the harbor, there was an old man and a woman who had happened to be on board. Feeling unwell, they ate nothing and soon fell asleep."
       }
     ]
   }
