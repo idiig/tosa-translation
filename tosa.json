@@ -1654,6 +1654,46 @@
         "translation-en": "Thus, as they traveled until nightfall and reached the harbor, among them were one old man and one young woman, but feeling unwell, they ate nothing and fell asleep.",
         "translation-ja-natural": "こうして日が暮れるまで進み、港に着いたが、たまたま乗り合わせた老人と女性がいて、お二人は気分が悪くなり、食事もお取りにならずにそのまま眠ってしまいました。",
         "translation-en-natural": "As they traveled until nightfall and arrived at the harbor, there was an old man and a woman who had happened to be on board. Feeling unwell, they ate nothing and soon fell asleep."
+      },
+      {
+        "date": "20250317",
+        "id": 163,
+        "text": "十日、けふはこの那波の泊にとまりぬ。",
+        "kana": "とおか、けふはこのなはのとまりにとまりぬ。",
+        "translation-ja": "十日、今日はこの奈半の港に泊まった。",
+        "translation-en": "On the tenth, we anchored at this harbor of Naha.",
+        "translation-ja-natural": "十日、今日はこの那波の港に泊まりました。",
+        "translation-en-natural": "On the tenth. Today, we anchored at the harbor of Naha."
+      },
+      {
+        "date": "20250317",
+        "id": 164,
+        "text": "十一日、曉に船を出して室津をおふ。",
+        "kana": "とおか、あかつきにふねをいだしてむろつをおふ。",
+        "translation-ja": "十一日、夜明けに船を出して、室津へ向かう。",
+        "translation-en": "On the eleventh, we set sail at dawn and head toward Murotsu.",
+        "translation-ja-natural": "十一日、夜明けに船を出して、室津へ向かいました。",
+        "translation-en-natural": "On the eleventh, we set sail before dawn to head for Murotsu."
+      },
+      {
+        "date": "20250317",
+        "id": 165,
+        "text": "人皆まだねたれば海のありやうも見えず、唯月を見てぞ西東をば知りける。",
+        "kana": "ひとみなまだねたればうみのありやうもみえず、ただつきをみてぞにしひむがしをばしりける。",
+        "translation-ja": "皆がまだ寝ていたので、海のありさまも見えず、ただ月を見て西と東を知った。",
+        "translation-en": "As everyone was still asleep, I could not see the state of the sea, but I could tell west and east only by looking at the moon.",
+        "translation-ja-natural": "人々はまだ眠っていて、海の様子も見えず、ただ月を見て西や東を見分けた。",
+        "translation-en-natural": "As everyone was still asleep, I couldn't see the state of the sea and could only discern east and west by looking at the moon."
+      },
+      {
+        "date": "20250317",
+        "id": 165,
+        "text": "かゝる間に皆夜明けて手あらひ例の事どもして晝になりぬ。",
+        "kana": "かかるあひだにみなよあけててあらひれいのことどもしてひるになりぬ。",
+        "translation-ja": "このようにしているうちに、すっかり夜が明けて、手を洗い、いつもの事をいろいろとして、昼になった。",
+        "translation-en": "While we were doing this, it completely became dawn, we washed our hands, did various usual things, and it became noon.",
+        "translation-ja-natural": "こうしているうちに夜が明け、手を洗ったり、いつものことをしたりしているうちに昼になった。",
+        "translation-en-natural": "In the meantime, the dawn broke, and as people washed their hands and did their usual things, it became noon."
       }
     ]
   }
