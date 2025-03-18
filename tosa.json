@@ -1694,6 +1694,46 @@
         "translation-en": "While we were doing this, it completely became dawn, we washed our hands, did various usual things, and it became noon.",
         "translation-ja-natural": "こうしているうちに夜が明け、手を洗ったり、いつものことをしたりしているうちに昼になった。",
         "translation-en-natural": "In the meantime, the dawn broke, and as people washed their hands and did their usual things, it became noon."
+      },
+      {
+        "date": "20250318",
+        "id": 166,
+        "text": "いましはねといふ所にきぬ。",
+        "kana": "いましはねといふところにきぬ。",
+        "translation-ja": "今、羽根という所に来た。",
+        "translation-en": "Now, I have come to a place called Hane.",
+        "translation-ja-natural": "今、羽根という所に着きました。",
+        "translation-en-natural": "Now, I've arrived at a place called Hane."
+      },
+      {
+        "date": "20250318",
+        "id": 167,
+        "text": "わかき童この所の名を聞きて「はねといふ所は鳥の羽のやうにやある」といふ。",
+        "kana": "わかきわらわこのところのなをききて「はねといふところはとりのはねのやうにやある」といふ。",
+        "translation-ja": "若い子がこの所の名前を聞いて、「羽根という所は鳥の羽のようにあるのか？」と言う。",
+        "translation-en": "A young child heard the name of this place and said, 'Is Hane like a bird's feather?'",
+        "translation-ja-natural": "子どもがこの場所の名前を聞いて、「羽根って、鳥の羽みたいなところなの？」と言いました。",
+        "translation-en-natural": "A child heard the name of this place and asked, 'Is Hane a place that looks like a bird's feather?'"
+      },
+      {
+        "date": "20250318",
+        "id": 168,
+        "text": "まだ幼き童のことなれば人々笑ふ。",
+        "kana": "まだおさなきわらはのことなればひとびとわらふ。",
+        "translation-ja": "まだ幼い子の言うことなので、人々は笑う。",
+        "translation-en": "Since it is something a young child says, people laugh.",
+        "translation-ja-natural": "幼い子がそんなことを言うので、人々は笑った。",
+        "translation-en-natural": "Since a little child said that, people laughed."
+      },
+      {
+        "date": "20250318",
+        "id": 169,
+        "text": "時にありける女の童なむこの歌をよめる、",
+        "kana": "ときにありけるをんなのわらはなむこのうたをよめる、",
+        "translation-ja": "その時にいた女の子どもが、この歌を詠んだ。",
+        "translation-en": "At that time, a girl who was there composed this poem.",
+        "translation-ja-natural": "そのとき、そこにいた女の子がこの歌を詠んだ。",
+        "translation-en-natural": "At that moment, a little girl there composed this poem."
       }
     ]
   }
