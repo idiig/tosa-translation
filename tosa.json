@@ -1734,6 +1734,46 @@
         "translation-en": "At that time, a girl who was there composed this poem.",
         "translation-ja-natural": "そのとき、そこにいた女の子がこの歌を詠んだ。",
         "translation-en-natural": "At that moment, a little girl there composed this poem."
+      },
+      {
+        "date": "20250319",
+        "id": 170,
+        "poem": "まことにて/名に聞く所/はねならば/飛ぶがごとくに/みやこへもがな",
+        "kana": "まことにてなにきくところはねならばとぶがごとくにみやこへもがな",
+        "translation-ja": "本当に名の通りの場所が羽根であるならば、飛ぶように都へ行きたいものだ。",
+        "translation-en": "If this place truly corresponds to its name, Hane, I wish I could fly to the capital.",
+        "translation-ja-natural": "本当に「羽根」という名の通りなら、羽ばたくように都へ飛んで行きたいものです。",
+        "translation-en-natural": "If this place truly lives up to its name, Hane, I wish I could soar to the capital."
+      },
+      {
+        "date": "20250319",
+        "id": 171,
+        "text": "とぞいへる。",
+        "kana": "とぞいへる。",
+        "translation-ja": "と言った。",
+        "translation-en": "So it was said.",
+        "translation-ja-natural": "と言ったのです。",
+        "translation-en-natural": "That's what was said."
+      },
+      {
+        "date": "20250319",
+        "id": 172,
+        "text": "男も女もいかで疾く都へもがなと思ふ心あれば、この歌よしとにはあらねどげにと思ひて人々わすれず。",
+        "kana": "をとこもをむなもいかでとくみやこへもがなとおもふこころあれば、このうたよしとにはあらねどげにとおもひてひとびとわすれず。",
+        "translation-ja": "男も女も、どうしても早く都へと願う心があるので、この歌がいいのではないが、確かに、と思って、人々は忘れない。",
+        "translation-en": "Both men and women have a heart that wishes to go quickly to the capital, so while this poem is not a good one, they think, 'Certainly,' and do not forget it.",
+        "translation-ja-natural": "男も女も、なんとかして早く都へ帰りたいと願っていたので、この歌が特に優れているわけではないが、確かにその通りだと思い、皆が心に留めた。",
+        "translation-en-natural": "Both men and women longed to return to the capital as soon as possible, so while this poem was not particularly outstanding, they felt it truly resonated and kept it in their hearts."
+      },
+      {
+        "date": "20250319",
+        "id": 173,
+        "text": "このはねといふ所問ふ童の序にて（ぞイ）、又昔の人を思ひ出でゝいづれの時にか忘るゝ。",
+        "kana": "このはねといふところとふわらはのついでにて、またむかしのひとをおもひいでていづれのときにかわするる。",
+        "translation-ja": "この羽根という所の名を問うた子をきっかけに、また亡くなった子のことを思い出し、いつになったら忘れられようか。",
+        "translation-en": "Taking the opportunity of the child who asked the name of this place called Hane, I remembered again the child who passed away, and when would I ever be able to forget?",
+        "translation-ja-natural": "この羽根という地名を尋ねた子をきっかけに、亡くなった子のことを思い出してしまいましたが、いつになったら忘れられるのでしょうか。",
+        "translation-en-natural": "Hearing the child ask about the name of this place, Hane, I couldn't help but remember the child who passed away. But when will I ever be able to forget?"
       }
     ]
   }
