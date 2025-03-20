@@ -1784,6 +1784,36 @@
         "translation-en": "Today, all the more, the mother is grieving, because the number of people who went down from the capital is insufficient. Recalling the old song, 'It seems they are returning while the number remains insufficient,' a poem someone recited was...",
         "translation-ja-natural": "今日は、お母様がことさら悲しんでいらっしゃるのは、都を出発した時よりも帰る人の数が少ないからでしょう。古歌にある「出発時よりも少ない人数で帰るようだ」ということばを思い出し、ある人が詠んだ歌は、",
         "translation-en-natural": "Today, the mother grieves even more, as the number of people returning from the capital is fewer than when they left. Remembering the old song, 'It seems they are returning with fewer than they departed with,' someone recited the following poem..."
+      },
+      {
+        "date": "20250320",
+        "id": 175,
+        "poem": "世の中に/おもひあれども/子を戀ふる/思ひにまさる/思ひなきかな",
+        "kana": "よのなかにおもひやあれどもこをこふるおもひにまさるおもひなきかな",
+        "translation-ja": "世の中に思いはあるけれども、子を恋しく思う気持ちに勝る思いはない。",
+        "translation-en": "Although there are many emotions in this world, none surpass the love a parent feels for their child.",
+        "translation-ja-natural": "世の中にはいろいろな思いがあるけれど、子どもを恋しく思う気持ちほど強いものはない。",
+        "translation-en-natural": "There are many emotions in this world, but nothing is stronger than a parent's love for their child."
+      },
+      {
+        "date": "20250320",
+        "id": 176,
+        "text": "といひつゝなむ。",
+        "kana": "といひつゝなむ。",
+        "translation-ja": "と言いながら...。",
+        "translation-en": "Saying this, saying that...",
+        "translation-ja-natural": "と言いながら...。",
+        "translation-en-natural": "Saying this, saying that..."
+      },
+      {
+        "date": "20250320",
+        "id": 177,
+        "text": "十二日、雨降らず。",
+        "kana": "とおかあまりふつか、あめふらず。",
+        "translation-ja": "十二日、雨は降らない。",
+        "translation-en": "On the twelfth, rain does not fall.",
+        "translation-ja-natural": "十二日、雨は降りませんでした。",
+        "translation-en-natural": "On the twelfth, it didn't rain."
       }
     ]
   }
