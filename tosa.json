@@ -1814,6 +1814,66 @@
         "translation-en": "On the twelfth, rain does not fall.",
         "translation-ja-natural": "十二日、雨は降りませんでした。",
         "translation-en-natural": "On the twelfth, it didn't rain."
+      },
+      {
+        "date": "20250320",
+        "id": 178,
+        "text": "文時、維茂が船のおくれたりし。",
+        "kana": "ふむどき、これもちのふねのおくれたりし。",
+        "translation-ja": "文時、維茂の船が遅れていた。",
+        "translation-en": "Funtoki, Koremochi's ship had been delayed.",
+        "translation-ja-natural": "文時、維茂の船が遅れていました。",
+        "translation-en-natural": "Funtoki, Koremochi's ship was delayed."
+      },
+      {
+        "date": "20250320",
+        "id": 179,
+        "text": "ならしつより室津に（つイ有）きぬ。",
+        "kana": "ならしつよりむろつにつきぬ。",
+        "translation-ja": "奈良志津から室津に着いた。",
+        "translation-en": "They arrived at Murotsu from Narashi.",
+        "translation-ja-natural": "ならしの港から室津に到着しました。",
+        "translation-en-natural": "They arrived at Murotsu from Narashi."
+      },
+      {
+        "date": "20250321",
+        "id": 180,
+        "text": "十三日の曉にいさか小雨ふる。",
+        "kana": "とおかあまりみかのあかつきにいさかこあめふる。",
+        "translation-ja": "十三日の暁に、わずかに小雨が降る。",
+        "translation-en": "At dawn on the thirteenth day, a slight drizzle falls.",
+        "translation-ja-natural": "十三日の夜明けに小雨が降っていました。",
+        "translation-en-natural": "On the thirteenth, light rain fell at dawn."
+      },
+      {
+        "date": "20250321",
+        "id": 181,
+        "text": "しばしありて止みぬ。",
+        "kana": "しばしありてやみぬ。",
+        "translation-ja": "しばらくして止んだ。",
+        "translation-en": "It lasted for a while and then stopped.",
+        "translation-ja-natural": "しばらく降りましたが、ほどなく雨はやみました。",
+        "translation-en-natural": "It rained for a while, but then it stopped."
+      },
+      {
+        "date": "20250321",
+        "id": 182,
+        "text": "男女これかれ、ゆあみなどせむとてあたりのよろしき所におりて行く。",
+        "kana": "をとこをむなこれから、ゆあみなどせむとてあたりのよろしきところにおりてゆく。",
+        "translation-ja": "男女の誰彼が、湯に入ろうとして、周囲の良い場所に降りて行く。",
+        "translation-en": "Some men and women go down to a good place nearby to bathe.",
+        "translation-ja-natural": "男女はこれから湯に入ろうとして、周囲の良い場所に降りて行きました。",
+        "translation-en-natural": "Men and women went down to a suitable spot nearby to bathe."
+      },
+      {
+        "date": "20250321",
+        "id": 183,
+        "text": "海を見やれば、",
+        "kana": "うみをみやれば、",
+        "translation-ja": "海を見ると、",
+        "translation-en": "When I look at the sea,",
+        "translation-ja-natural": "海を見ると、",
+        "translation-en-natural": "When I look at the sea,"
       }
     ]
   }
