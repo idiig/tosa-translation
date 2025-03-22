@@ -1874,6 +1874,46 @@
         "translation-en": "When I look at the sea,",
         "translation-ja-natural": "海を見ると、",
         "translation-en-natural": "When I look at the sea,"
+      },
+      {
+        "date": "20250322",
+        "id": 184,
+        "text": "雲もみな浪とぞ見ゆる海士もがないづれか海と問ひて知るべく",
+        "kana": "くももみななみとぞみゆるあまもがないづれかうみととひてしるべく",
+        "translation-ja": "雲もみな波と見える。海士がいればなあ。どちらが海かと尋ねて知りたい。",
+        "translation-en": "Clouds all look like waves. I wish there were a fisherman...to ask which is the sea.",
+        "translation-ja-natural": "雲もみな波のように見えるので、どちらが本当の海かを尋ねて知りたくなりました。",
+        "translation-en-natural": "Since all the clouds looked like waves, I wanted to ask a fisherman which one was the real sea."
+      },
+      {
+        "date": "20250322",
+        "id": 185,
+        "text": "となむ歌よめる。",
+        "kana": "となむうたよめる。",
+        "translation-ja": "となむ歌を詠んだ。",
+        "translation-en": "So a poem was recited.",
+        "translation-ja-natural": "と歌を詠んだのでした。",
+        "translation-en-natural": "So a poem was recited."
+      },
+      {
+        "date": "20250322",
+        "id": 186,
+        "text": "さて十日あまりなれば月おもしろし。",
+        "kana": "さてとおかあまりなればつきおもしろし。",
+        "translation-ja": "さて、一月十日を過ぎたので、月が趣深い。",
+        "translation-en": "Now, as the tenth day of the month has passed, the moon is delightful.",
+        "translation-ja-natural": "さて、一月十日を過ぎたころで、月がとても美しく感じられました。",
+        "translation-en-natural": "Now that it's past the tenth day of the month, the moon looked especially beautiful."
+      },
+      {
+        "date": "20250322",
+        "id": 187,
+        "text": "船に乘り始めし日より船には紅こくよききぬ着ず。",
+        "kana": "ふねにのりはじめしひよりふねにはくれないこくよききぬきず。",
+        "translation-ja": "船に乗り始めた日から、船には紅の濃い良い着物を着て出ない。",
+        "translation-en": "From the day we boarded the ship, no one wears a deep crimson, fine kimono on the boat.",
+        "translation-ja-natural": "船に乗ってからは、海の上では濃い紅の立派な着物は身につけないことになっていました。",
+        "translation-en-natural": "Ever since we set sail, no one has worn fine crimson robes on the boat."
       }
     ]
   }
