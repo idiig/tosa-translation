@@ -1944,6 +1944,56 @@
         "translation-en": "The ship's master is performing a ritual.",
         "translation-ja-natural": "船の主人が節忌を行いました。",
         "translation-en-natural": "The ship's master performed a purification rite."
+      },
+      {
+        "date": "20250325",
+        "id": 191,
+        "text": "さうじものなければ午の時より後に楫取の昨日釣りたりし鯛に、錢なければよねをとりかけておちられぬ。",
+        "kana": "さうじものなければうまのときよりのちにかぢとりのきのふつりたりしたひに、ぜになければ、よねをとりかけて、おちられぬ。",
+        "translation-ja": "精進物がないので、正午以降に楫取りが昨日釣った鯛に、銭がないので、米を代価にして、落しができた。",
+        "translation-en": "Since there were no side dishes, after noon, the oarsman used the sea bream he had caught the day before. As there was no money, rice was given as payment, and they were able to break the abstinence.",
+        "translation-ja-natural": "精進物がなかったので、昼を過ぎてから、楫取りが昨日釣った鯛を米と引き換えに、精進落しとすることができました。",
+        "translation-en-natural": "Since there were no side dishes, after midday, they were able to break their fast with a sea bream the oarsman had caught the day before, exchanging it for rice."
+      },
+      {
+        "date": "20250325",
+        "id": 192,
+        "text": "かゝる事なほありぬ。",
+        "kana": "かかることなほありぬ。",
+        "translation-ja": "このようなことが、まだあった。",
+        "translation-en": "There were still things like this.",
+        "translation-ja-natural": "まだまだこんなことが続きます。",
+        "translation-en-natural": "There are still things like this."
+      },
+      {
+        "date": "20250325",
+        "id": 193,
+        "text": "楫取又鯛もてきたり。",
+        "kana": "かぢとりまたたいもてきたり。",
+        "translation-ja": "楫取りがまた鯛を持ってきた。",
+        "translation-en": "The oarsman brought a sea bream again.",
+        "translation-ja-natural": "楫取りが再び鯛を持ってきました。",
+        "translation-en-natural": "The oarsman brought a sea bream again."
+      },
+      {
+        "date": "20250325",
+        "id": 194,
+        "text": "よね酒しばしばくる。",
+        "kana": "よねさけしばしばくる。",
+        "translation-ja": "よねさけ、しばしば来る。",
+        "translation-en": "The rice-and-sake man comes frequently.",
+        "translation-ja-natural": "そのうち、米酒さんこと、楫取りは、しょっちゅう来るようになりました。",
+        "translation-en-natural": "Before long, the oarsman, a.k.a. 'Mr. Rice-and-Sake', started showing up all the time."
+      },
+      {
+        "date": "20250325",
+        "id": 195,
+        "text": "楫取けしきあしからず。",
+        "kana": "かぢとりけしきあしからず。",
+        "translation-ja": "楫取は、様子が悪くない。",
+        "translation-en": "The oarsman's demeanor is not bad.",
+        "translation-ja-natural": "楫取りは、どことなく機嫌がよさそうでした。",
+        "translation-en-natural": "The oarsman seemed to be in unusually good spirits."
       }
     ]
   }
