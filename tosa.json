@@ -1994,6 +1994,56 @@
         "translation-en": "The oarsman's demeanor is not bad.",
         "translation-ja-natural": "楫取りは、どことなく機嫌がよさそうでした。",
         "translation-en-natural": "The oarsman seemed to be in unusually good spirits."
+      },
+      {
+        "date": "20250326",
+        "id": 196,
+        "text": "十五日、今日小豆粥煮ず。",
+        "kana": "とほかあまりいつか、けふあづきがゆにず。",
+        "translation-ja": "十五日、今日は小豆粥を煮ない。",
+        "translation-en": "On the fifteenth, today we did not cook red bean porridge.",
+        "translation-ja-natural": "十五日、今日は小豆粥を煮ませんでした。",
+        "translation-en-natural": "On the fifteenth, we did not cook red bean porridge today."
+      },
+      {
+        "date": "20250326",
+        "id": 197,
+        "text": "口をしくなほ日のあしければゐざるほどにぞ今日廿日あまり經ぬる。",
+        "kana": "くちをしくなほひのあしければゐざるほどにぞけふはつかあまりへぬる。",
+        "translation-ja": "残念で、さらに天気が悪いので、のろのろ進行で、今日で二十日以上が過ぎた。",
+        "translation-en": "Regretful, and additionally the weather is bad, so with sluggish progress, today more than twenty days have passed.",
+        "translation-ja-natural": "天気は相変わらず悪いし、進みも遅いし、なんだかんだでもう二十日以上たってしまいました。",
+        "translation-en-natural": "The weather's still bad, the progress is slow, and somehow it's already been more than twenty days."
+      },
+      {
+        "date": "20250326",
+        "id": 198,
+        "text": "徒に日をふれば人々海をながめつゝぞある。",
+        "kana": "いたづらにひをふればひとびとうみをながめつつぞある。",
+        "translation-ja": "無為に日を過ごしていると、人々はただ海を眺めている。",
+        "translation-en": "Passing the days idly, people are simply gazing at the sea.",
+        "translation-ja-natural": "何をするでもなく日々が過ぎ、人々はただ海を眺めて過ごしているだけでした。",
+        "translation-en-natural": "The days passed with nothing in particular to do, and people spent their time just gazing out at the sea."
+      },
+      {
+        "date": "20250326",
+        "id": 199,
+        "text": "めの童のいへる、",
+        "kana": "めのわらべのいへる、",
+        "translation-ja": "女の子が言った。",
+        "translation-en": "One little girl said,...",
+        "translation-ja-natural": "小さな女の子がこう言いました。",
+        "translation-en-natural": "One little girl said,..."
+      },
+      {
+        "date": "20250326",
+        "id": 200,
+        "poem": "立てばたつ/ゐれば又ゐる/吹く風と/浪とは思ふ/どちにやあるらむ",
+        "kana": "たてばたつ/ゐればまたゐる/ふくかぜと/なみとはおもふ/どちにやあるらむ",
+        "translation-ja": "立てば立つ、ゐればまたゐる、吹く風と波のことを思う。仲間なのだろうか。",
+        "translation-en": "If one stands, the other stands; if one sits, the other sits. Thinking of the blowing wind and the waves, I wonder...are they companions?",
+        "translation-ja-natural": "風が立てば波も立ち、風がおさまれば波も静かになる。まるで親しい友だちみたいだ。",
+        "translation-en-natural": "When the wind rises, the waves rise too. When the wind calms, so do the waves. Aren’t they just like close friends?"
       }
     ]
   }
