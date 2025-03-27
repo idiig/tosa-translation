@@ -2054,6 +2054,36 @@
         "translation-en": "That which was said by a small child is, indeed, fitting.",
         "translation-ja-natural": "幼い子が言ったことばとしては、とてもふさわしいものでした。",
         "translation-en-natural": "What the child said was very fitting for a child."
+      },
+      {
+        "date": "20250327",
+        "id": 202,
+        "text": "十六日、風浪やまねば猶同じ所にとまれり。",
+        "kana": "とおかあまりむいか、かぜなみやまねばなほおなじところにとまれり。",
+        "translation-ja": "十六日、風と波が止まないので、まだ同じ所に泊まっている。",
+        "translation-en": "On the sixteenth, the wind and waves not calming down, we still stayed at the same place.",
+        "translation-ja-natural": "十六日、風と波が収まらなかったので、まだ同じ場所に泊まっていました。",
+        "translation-en-natural": "On the sixteenth, since the wind and waves hadn't calmed down, we remained at the same place."
+      },
+      {
+        "date": "20250327",
+        "id": 203,
+        "text": "たゞ海に浪なくしていつしかみさきといふ所渡らむとのみなむおもふ。",
+        "kana": "ただうみになみなくしていつしかみさきといふところわたらむとのみなむおもふ。",
+        "translation-ja": "ただ、海に波がなくなり、いつになったら岬という所を渡るのだろうとばかり思う。",
+        "translation-en": "Simply, the waves not having calmed down on the sea, we thought only about when we might cross the place called Misaki.",
+        "translation-ja-natural": "ただただ、海が穏やかになって、いつになったら岬という場所を渡れるのか、そればかりが気にかかっていた。",
+        "translation-en-natural": "All we could think about was when the sea would calm down enough to cross Misaki, the cape."
+      },
+      {
+        "date": "20250327",
+        "id": 204,
+        "text": "風浪ともにやむべくもあらず。",
+        "kana": "かぜなみともにやむべくもあらず。",
+        "translation-ja": "風も波もともに止みそうもない。",
+        "translation-en": "The wind and waves are not likely to die down.",
+        "translation-ja-natural": "風も波も止みそうもありません。",
+        "translation-en-natural": "The wind and waves show no sign of letting up."
       }
     ]
   }
