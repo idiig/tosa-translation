@@ -2084,6 +2084,46 @@
         "translation-en": "The wind and waves are not likely to die down.",
         "translation-ja-natural": "風も波も止みそうもありません。",
         "translation-en-natural": "The wind and waves show no sign of letting up."
+      },
+      {
+        "date": "20250328",
+        "id": 205,
+        "text": "ある人のこの浪立つを見て詠めるうた、",
+        "kana": "あるひとのこのなみたつをみてうためるうた、",
+        "translation-ja": "ある人が、この波が立つのを見て詠んだ歌、",
+        "translation-en": "A song composed by someone who saw these waves rise.",
+        "translation-ja-natural": "ある人が、この波が立つのを見て詠んだ歌は、",
+        "translation-en-natural": "A song composed by someone who saw these waves rise."
+      },
+      {
+        "date": "20250328",
+        "id": 206,
+        "poem": "霜だにも/おかぬかたぞと/いふなれど/浪の中には/ゆきぞ降りける",
+        "kana": "しもだにも/おかぬかたぞと/いふなれど/なみのなかには/ゆきぞふりける",
+        "translation-ja": "霜すら置かない地方だと言うけれど、波の中には雪が降ったのだった。",
+        "translation-en": "They say it is a place where not even frost settles, but within the waves, snow did fall.",
+        "translation-ja-natural": "霜すら降らない暖かい地方だと言われていますが、波の中には雪が降っていました。",
+        "translation-en-natural": "They say not even frost falls here, and yet—there was snow falling in the waves."
+      },
+      {
+        "date": "20250328",
+        "id": 207,
+        "text": "さて船に乘りし日よりけふまでに廿日あまり五日になりにけり。",
+        "kana": "さてふねにのりしひよりけふまでにはつかあまりいつかになりにけり。",
+        "translation-ja": "さて、船に乗った日から今日までで、二十五日になってしまった。",
+        "translation-en": "From the day we boarded the ship until today, it has been twenty-five days.",
+        "translation-ja-natural": "船に乗り込んだ日から今日までで、二十五日が経過しました。",
+        "translation-en-natural": "From the day we boarded the ship until today, it has been twenty-five days."
+      },
+      {
+        "date": "20250328",
+        "id": 208,
+        "text": "十七日、曇れる雲なくなりて曉月夜いとおもしろければ、船を出して漕ぎ行く。",
+        "kana": "とおかあまりなぬか、くもれるくもなくなりてあかつきづくよいとおもしろければ、ふねをいだしてこぎゆく。",
+        "translation-ja": "十七日、曇っていた雲がなくなり、曉月夜がたいそう趣深かったので、船を出して漕ぎ行く。",
+        "translation-en": "On the seventeenth, the clouds that had made the sky overcast disappeared, and because the dawn moonlit night was very delightful, we set out and rowed on.",
+        "translation-ja-natural": "十七日、雲が晴れて夜明けの月がとてもきれいだったので、船を出して漕ぎ出しました。",
+        "translation-en-natural": "On the seventeenth, the clouds cleared and the dawn moon was so beautiful that we set out and began to row."
       }
     ]
   }
