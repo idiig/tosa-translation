@@ -2124,6 +2124,40 @@
         "translation-en": "On the seventeenth, the clouds that had made the sky overcast disappeared, and because the dawn moonlit night was very delightful, we set out and rowed on.",
         "translation-ja-natural": "十七日、雲が晴れて夜明けの月がとてもきれいだったので、船を出して漕ぎ出しました。",
         "translation-en-natural": "On the seventeenth, the clouds cleared and the dawn moon was so beautiful that we set out and began to row."
+      },
+      {
+        "date": "20250329",
+        "id": 209,
+        "text": "このあひだに雲のうへも海の底も同じ如くになむありける。",
+        "kana": "このあひだにくものうへもうみのそこもおなじごとくになむありける。",
+        "translation-ja": "この間、雲の上も海の底も同じようだった。",
+        "translation-en": "In the meantime, the clouds above and the sea below were the same.",
+        "translation-ja-natural": "この間、雲の上も海の底も同じようになっていました。",
+        "translation-en-natural": "During that time, the clouds above and the sea below blended into one."
+      },
+      {
+        "date": "20250329",
+        "id": 210,
+        "text": "うべも昔のをのこは「棹は穿つ波の上の月を、船は襲ふ海のうちの空を」とはいひけむ。",
+        "kana": "うべもむかしのをのこは「さおはうがつなみのうへのつきを、ふねはおそふうみのうちのそらを」とはいひけむ。",
+        "translation-ja": "昔の男は「棹は穿つ波の上の月を、船はおそふ海のうちの空を」と言ったものだ。",
+        "translation-en": "A man of old said, \"The pole pierces the moon upon the waves, and the ship presses the sky within the sea.\"",
+        "translation-ja-natural": "昔の男はかつて、「棹は波の上の月を突き、舟は海に映った空を圧えつけている）」と言いました。",
+        "translation-en-natural": "The man of old once said, \"The pole pierces the moon upon the waves, and the ship presses the sky within the sea.\""
+      },
+      {
+        "date": "20250329",
+        "id": 211,
+        "text": "きゝされに聞けるなり。",
+        "kana": "きゝされにきけるなり。",
+        "translation-ja": "本気にせずに聞いていた。",
+        "translation-en": "I heard it in jest.",
+        "translation-ja-natural": "冗談だと思って聞いていました。",
+        "translation-en-natural": "I heard it in jest."
+      },
+      {
+        "date": "2025-03-29",
+        "id": "commentary-01"
       }
     ]
   }
