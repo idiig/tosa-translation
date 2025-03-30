@@ -2158,6 +2158,36 @@
       {
         "date": "2025-03-29",
         "id": "commentary-01"
+      },
+      {
+        "date": "20250330",
+        "id": 212,
+        "text": "又ある人のよめる歌、",
+        "kana": "またあるひとのよめるうた、",
+        "translation-ja": "また、ある人が詠んだ歌は、",
+        "translation-en": "Also, a song composed by a certain person,",
+        "translation-ja-natural": "また、ある人が詠んだ歌は、",
+        "translation-en-natural": "Also, a song composed by someone..."
+      },
+      {
+        "date": "20250330",
+        "id": 213,
+        "poem": "みなそこの/月のうへより/漕ぐふねの/棹にさはるは/桂なるらし",
+        "kana": "みなそこの/つきのうへより/こぐふねの/さをにさはるは/かつらなるらし",
+        "translation-ja": "水底から月の上へと漕いでいく船の棹に触れるものは、桂であるらしい。",
+        "translation-en": "That which touches the pole of the boat rowing up from the surface of the water toward the moon must be a katsura tree.",
+        "translation-ja-natural": "水の底から月へと漕ぎ出す船。その棹に触れるのは、どうやら桂の木かもしれませんね。",
+        "translation-en-natural": "A boat rows up from the depths toward the moon. What brushes against its pole must be the katsura tree, they say grows on the moon."
+      },
+      {
+        "date": "20250330",
+        "id": 214,
+        "text": "これを聞きてある人の又よめる、",
+        "kana": "これをききてあるひとのまたよめる、",
+        "translation-ja": "これを聞いて、ある人がまた詠んだ歌は、",
+        "translation-en": "Upon hearing this, a certain person composed a poem,",
+        "translation-ja-natural": "これを聞いて、別のある人がまた詠んだ歌は、",
+        "translation-en-natural": "Upon hearing this, another person composed a poem..."
       }
     ]
   }
