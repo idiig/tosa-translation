@@ -2188,6 +2188,16 @@
         "translation-en": "Upon hearing this, a certain person composed a poem,",
         "translation-ja-natural": "これを聞いて、別のある人がまた詠んだ歌は、",
         "translation-en-natural": "Upon hearing this, another person composed a poem..."
+      },
+      {
+        "date": "20250330",
+        "id": 215,
+        "poem": "かげ見れば/浪の底なる/ひさかたの/空こぎわたる/われぞさびしき",
+        "kana": "かげみれば/なみのそこなる/ひさかたの/そらこぎわたる/われぞさびしき",
+        "translation-ja": "影を見れば、波の底にある久方の空を漕ぎ渡る私は寂しくて。",
+        "translation-en": "When I look at the shadow, rowing across the long sky beneath the waves, I am so lonely.",
+        "translation-ja-natural": "波の底に映る空を漕いでいる自分の影を見ていると、なんだか、ひどく寂しい気がしてくる。",
+        "translation-en-natural": "As I look at the shadow of myself rowing through the sky reflected beneath the waves, a deep loneliness quietly washes over me."
       }
     ]
   }
