@@ -2198,6 +2198,36 @@
         "translation-en": "When I look at the shadow, rowing across the long sky beneath the waves, I am so lonely.",
         "translation-ja-natural": "波の底に映る空を漕いでいる自分の影を見ていると、なんだか、ひどく寂しい気がしてくる。",
         "translation-en-natural": "As I look at the shadow of myself rowing through the sky reflected beneath the waves, a deep loneliness quietly washes over me."
+      },
+      {
+        "date": "20250331",
+        "id": 216,
+        "text": "かくいふあひだに夜やうやく明けゆくに、楫取等「黒き雲にはかに出できぬ。",
+        "kana": "かくいふあひだによやうやくあけゆくに、かじとりら「くろきくもにはかにでできぬ。",
+        "translation-ja": "こう言っている間に、夜がようやく明けてきたので、楫取りたちは「黒い雲がにわかに出てきた。",
+        "translation-en": "While saying this, the night gradually began to brighten, and the oarsmen said, \"A black cloud has suddenly appeared.\"",
+        "translation-ja-natural": "こう言っているうちに、夜がようやく明けてきたので、楫取りたちは「黒い雲がにわかに出てきたぞ。",
+        "translation-en-natural": "While saying this, the night gradually began to brighten, and the oarsmen said, \"A black cloud has suddenly appeared.\""
+      },
+      {
+        "date": "20250331",
+        "id": 217,
+        "text": "風も吹きぬべし。",
+        "kana": "かぜもふきぬべし。",
+        "translation-ja": "風も、きっと吹くはずだ。",
+        "translation-en": "The wind too will surely blow.",
+        "translation-ja-natural": "風も吹くに違いない。",
+        "translation-en-natural": "The wind must be blowing, huh."
+      },
+      {
+        "date": "20250331",
+        "id": 218,
+        "text": "御船返してむ」といひてかへる。",
+        "kana": "みふねかへしてむ」といひてかへる。",
+        "translation-ja": "「お船を返そう」と言って、返る。",
+        "translation-en": "Saying, \"We shall turn the ship back,\" they return.",
+        "translation-ja-natural": "「船を返してしまおう」と言って、戻ってきました。",
+        "translation-en-natural": "They said, \"Let's turn the ship back,\" and turned back."
       }
     ]
   }
