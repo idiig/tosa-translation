@@ -1,7 +1,7 @@
 [
   {
     "title": "土佐日記",
-    "title_kana": "とさにき",
+    "title_kana": "とさにっき",
     "title_roman": "Tosa Nikki",
     "author": "紀貫之",
     "author_kana": "きのつらゆき",
@@ -2228,6 +2228,46 @@
         "translation-en": "Saying, \"We shall turn the ship back,\" they return.",
         "translation-ja-natural": "「船を返してしまおう」と言って、戻ってきました。",
         "translation-en-natural": "They said, \"Let's turn the ship back,\" and turned back."
+      },
+      {
+        "date": "20250401",
+        "id": 219,
+        "text": "このあひだに雨ふりぬ。",
+        "kana": "このあひだにあめふりぬ。",
+        "translation-ja": "この間に雨が降った。",
+        "translation-en": "Rain fell during this time.",
+        "translation-ja-natural": "この間に雨が降りました。",
+        "translation-en-natural": "It rained during this time."
+      },
+      {
+        "date": "20250401",
+        "id": 220,
+        "text": "いとわびし。",
+        "kana": "いとわびし。",
+        "translation-ja": "とてもわびしい。",
+        "translation-en": "so miserable.",
+        "translation-ja-natural": "とても情けない。",
+        "translation-en-natural": "It is so miserable."
+      },
+      {
+        "date": "20250401",
+        "id": 221,
+        "text": "十八日、猶同じ所にあり。",
+        "kana": "とおかあまりようか、なほおなじところにあり。",
+        "translation-ja": "十八日、まだ同じところにいる。",
+        "translation-en": "On the eighteenth, we are still in the same place.",
+        "translation-ja-natural": "十八日、まだ同じところにいます。",
+        "translation-en-natural": "On the eighteenth, we are still in the same place."
+      },
+      {
+        "date": "20250401",
+        "id": 222,
+        "text": "海あらければ船いださず。",
+        "kana": "うみあらければふねいださず。",
+        "translation-ja": "海が荒れているので、船を出さない。",
+        "translation-en": "The sea is rough, so no sailing.",
+        "translation-ja-natural": "海が荒れているので、出航できません。",
+        "translation-en-natural": "The sea is rough, so we can't set sail."
       }
     ]
   }
