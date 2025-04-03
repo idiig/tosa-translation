@@ -2308,6 +2308,16 @@
         "translation-en": "Since the ship was not set out and it was idle time, a certain person's composed poem is:",
         "translation-ja-natural": "船も出せず、何もすることがないので、ある人が詠んだその歌は、",
         "translation-en-natural": "Since the ship is still unable to set sail and there is nothing to do, a poem that a certain person composed is..."
+      },
+      {
+        "date": "20250403",
+        "id": 226,
+        "text": "いそぶりの/寄する磯には/年月を/いつとも分かぬ/雪のみぞふる",
+        "kana": "いそぶりの/よするいそには/としつきを/いつともわかぬ/ゆきのみぞふる",
+        "translation-ja": "荒波の寄せる磯には、年月をいつとも分からぬ雪だけが降っている。",
+        "translation-en": "On the shore where the waves strike, only snow falls, not knowing when in months or years.",
+        "translation-ja-natural": "荒波の寄せる磯には、年月をいつとも分からない雪ばかりが降っています。",
+        "translation-en-natural": "On the rocky shore where the waves crash, snow falls without distinguishing the years and months."
       }
     ]
   }
