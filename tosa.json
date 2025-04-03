@@ -2298,6 +2298,16 @@
         "translation-en": "Perhaps the men are saying Chinese poems as a way to relieve their hearts.",
         "translation-ja-natural": "男たちは心を慰めるために、漢詩などを吟じているのだろうか。",
         "translation-en-natural": "Maybe the men are reciting Chinese poems to ease their minds."
+      },
+      {
+        "date": "20250403",
+        "id": 226,
+        "text": "船もいださでいたづらなればある人の詠める、",
+        "kana": "ふねもいださでいたづらなればあるひとのよめる、",
+        "translation-ja": "船も出さず、むなしく過ごしていたので、ある人の詠んだ歌は、",
+        "translation-en": "Since the ship was not set out and it was idle time, a certain person's composed poem is:",
+        "translation-ja-natural": "船も出せず、何もすることがないので、ある人が詠んだその歌は、",
+        "translation-en-natural": "Since the ship is still unable to set sail and there is nothing to do, a poem that a certain person composed is..."
       }
     ]
   }
