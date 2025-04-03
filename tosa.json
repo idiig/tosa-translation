@@ -2268,6 +2268,36 @@
         "translation-en": "The sea is rough, so no sailing.",
         "translation-ja-natural": "海が荒れているので、出航できません。",
         "translation-en-natural": "The sea is rough, so we can't set sail."
+      },
+      {
+        "date": "20250402",
+        "id": 223,
+        "text": "この泊遠く見れども近く見れどもいとおもしろし。",
+        "kana": "このとまりとほくみれどもちかくみれどもいとおもしろし。",
+        "translation-ja": "この港は遠くを見ても近くを見てもとても趣がある。",
+        "translation-en": "Whether seen from far or near, this harbor is very charming.",
+        "translation-ja-natural": "この港の景色は遠くを見ても近くを見ても、とても風情があります。",
+        "translation-en-natural": "The view from this harbor is full of charm, whether looking far or near."
+      },
+      {
+        "date": "20250402",
+        "id": 224,
+        "text": "かゝれども苦しければ何事もおもほえず。",
+        "kana": "かかれどもくるしければなにごともおもほえず。",
+        "translation-ja": "そうであっても、苦しいので、何事も思われない。",
+        "translation-en": "Even so, since my distress, nothing comes to mind.",
+        "translation-ja-natural": "そうではあるけれども、今の状況がつらくて、何も気の利いたことが思い浮かびません。",
+        "translation-en-natural": "Even so, since things are so hard right now, nothing comes to mind."
+      },
+      {
+        "date": "20250403",
+        "id": 225,
+        "text": "男どちは心やりにやあらむ、からうたなどいふべし。",
+        "kana": "をとこどちはこころやりにやあらむ、からうたなどいふべし。",
+        "translation-ja": "男たちは心やりのためなのだろうか、漢詩などを言っているのだろう。",
+        "translation-en": "Perhaps the men are saying Chinese poems as a way to relieve their hearts.",
+        "translation-ja-natural": "男たちは心を慰めるために、漢詩などを吟じているのだろうか。",
+        "translation-en-natural": "Maybe the men are reciting Chinese poems to ease their minds."
       }
     ]
   }
