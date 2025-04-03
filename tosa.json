@@ -2311,13 +2311,23 @@
       },
       {
         "date": "20250403",
-        "id": 226,
+        "id": 227,
         "text": "いそぶりの/寄する磯には/年月を/いつとも分かぬ/雪のみぞふる",
         "kana": "いそぶりの/よするいそには/としつきを/いつともわかぬ/ゆきのみぞふる",
         "translation-ja": "荒波の寄せる磯には、年月をいつとも分からぬ雪だけが降っている。",
         "translation-en": "On the shore where the waves strike, only snow falls, not knowing when in months or years.",
         "translation-ja-natural": "荒波の寄せる磯には、年月をいつとも分からない雪ばかりが降っています。",
         "translation-en-natural": "On the rocky shore where the waves crash, snow falls without distinguishing the years and months."
+      },
+      {
+        "date": "20250403",
+        "id": 228,
+        "text": "この歌は常にせぬ人のごとなり。",
+        "kana": "このうたはとこにせぬひとのごとなり。",
+        "translation-ja": "この歌は、ふだん歌を詠まない人のことばだ。",
+        "translation-en": "This poem is the word of a person who does not usually compose poetry.",
+        "translation-ja-natural": "この歌は、普段は歌を詠まない人の歌です。",
+        "translation-en-natural": "This poem is from a person who usually does not compose poetry."
       }
     ]
   }
