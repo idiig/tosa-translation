@@ -2328,6 +2328,25 @@
         "translation-en": "This poem is the word of a person who does not usually compose poetry.",
         "translation-ja-natural": "この歌は、普段は歌を詠まない人の歌です。",
         "translation-en-natural": "This poem is from a person who usually does not compose poetry."
+      },
+      {
+        "date": "20250404",
+        "id": 228,
+        "text": "又人のよめる、",
+        "kana": "またひとのよめる、",
+        "translation-ja": "また、別の人が詠んだ歌は、",
+        "translation-en": "Also, another person composed a poem, which is:",
+        "translation-ja-natural": "また、別の人が詠んだ歌は、",
+        "translation-en-natural": "Also, another person composed a poem, which is..."
+      },
+      {
+        "date": "20250404",
+        "id": 229,
+        "text": "風による浪のいそにはうぐひすも春もえしらぬ花のみぞ咲く",
+        "kana": "かぜによるなみのいそにはうぐひすもはるもえしらぬはなのみぞさく",
+        "translation-en": "On the shore of waves by the wind, only flowers bloom that neither the warbler nor spring knows.",
+        "translation-ja-natural": "風によって波の寄せる磯には、鶯も春も知らない花ばかりが咲いています。",
+        "translation-en-natural": "On the shore where the wind blows and the waves rise, only flowers bloom that neither the warbler nor spring knows."
       }
     ]
   }
