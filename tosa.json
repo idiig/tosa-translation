@@ -2347,6 +2347,46 @@
         "translation-en": "On the shore of waves by the wind, only flowers bloom that neither the warbler nor spring knows.",
         "translation-ja-natural": "風によって波の寄せる磯には、鶯も春も知らない花ばかりが咲いています。",
         "translation-en-natural": "On the shore where the wind blows and the waves rise, only flowers bloom that neither the warbler nor spring knows."
+      },
+      {
+        "date": "20250405",
+        "id": 230,
+        "text": "この歌どもを少しよろしと聞きて、船のをさしける翁、月頃の苦しき心やりに詠める、",
+        "kana": "このうたどもをすこしよろしとききて、ふねのをさしけるおきな、つきごろのくるしきこころやりによめる、",
+        "translation-ja": "この歌どもを、少しよろしと聞いて、船をおさめていた翁が、月頃の苦しき心の晴らしに詠んだ歌は、",
+        "translation-en": "Hearing that these songs were somewhat good, the old man who had been commanding the ship composed this poem to ease his painful feelings of about a month, which is...",
+        "translation-ja-natural": "この歌が少しはましだろうと聞いて、船の長をしていたおじいさんが、この一ヶ月のつらさをまぎらわせるために詠んだ歌は、",
+        "translation-en-natural": "Hearing that these songs were rather decent, the old man who had been in charge of the ship composed this poem to soothe the pain he'd been feeling for about a month, which is..."
+      },
+      {
+        "date": "20250406",
+        "id": 231,
+        "text": "立つなみを/雪か花かと/吹く風ぞ/よせつゝ人を/はかるべらなる",
+        "kana": "たつなみを/ゆきかはなかと/ふくかぜぞ/よせつつひとを/はかるべらなる",
+        "translation-ja": "立つ波を、雪か花かと、吹く風が寄せて、人をだましているらしい。",
+        "translation-en": "The wind, blowing waves toward us, makes them seem like snow or flowers, and appears to deceive people.",
+        "translation-ja-natural": "立つ波を、雪か花かと吹く風が寄せて、人を惑わせるようだ。",
+        "translation-en-natural": "The rising waves and the blowing wind make one wonder if it is snow or flowers, as they seem to deceive people."
+      },
+      {
+        "date": "20250406",
+        "id": 232,
+        "text": "この歌どもを人の何かといふを、ある人の又聞きふけりて詠める。",
+        "kana": "このうたどもをひとのなにかといふを、あるひとのまたききふけりてよめる。",
+        "translation-ja": "この歌どもを、人が何かと言うのを、ある人がまた聞き入って詠んだ。",
+        "translation-en": "These poems, being spoken of as something or other by people, were heard again attentively by a certain person, who then composed a poem.",
+        "translation-ja-natural": "この歌について人があれこれ言っているのを、ある人がまた聞き込んで、歌を詠みまして。",
+        "translation-en-natural": "Hearing people say various things about these poems, someone listened again and composed a poem in response."
+      },
+      {
+        "date": "20250406",
+        "id": 233,
+        "text": "その歌よめるもじ三十文字あまり七文字、人皆えあらで笑ふやうなり。",
+        "kana": "そのうたよめるもじみそもぢあまりななもじ、ひとみなえあらでわらふやうなり。",
+        "translation-ja": "その歌は詠んだ文字が三十文字あまり七文字で、人々はみな笑わないではいられないようだ。",
+        "translation-en": "That poem, having thirty-seven characters, thirty plus seven more, seems to make everyone unable to refrain from laughing.",
+        "translation-ja-natural": "その歌は、詠んだ文字が三十七文字の字あまりで、人々はみな笑わずにはいられないようでした。",
+        "translation-en-natural": "The poem has thirty-seven characters in all, and everyone seems unable to help but laugh."
       }
     ]
   }
