@@ -2407,6 +2407,16 @@
         "translation-en": "Even if I try to imitate, I cannot.",
         "translation-ja-natural": "真似しようとしても、真似できません。",
         "translation-en-natural": "Even if I try to imitate, I cannot."
+      },
+      {
+        "date": "20250407",
+        "id": 236,
+        "text": "書けりともえ讀みあへがたかるべし。",
+        "kana": "かけりともえよみあへがたかるべし。",
+        "translation-ja": "書けたとしても、読んで理解できそうもないだろう。",
+        "translation-en": "Even if it is written, it would likely be hard to read through it.",
+        "translation-ja-natural": "たとえ書き取れたとしても、とてもじゃないけど読んでわかるというものではないでしょう。",
+        "translation-en-natural": "Even if someone managed to write it down, there's no way anyone could really read and make sense of it."
       }
     ]
   }
