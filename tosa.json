@@ -2417,6 +2417,46 @@
         "translation-en": "Even if it is written, it would likely be hard to read through it.",
         "translation-ja-natural": "たとえ書き取れたとしても、とてもじゃないけど読んでわかるというものではないでしょう。",
         "translation-en-natural": "Even if someone managed to write it down, there's no way anyone could really read and make sense of it."
+      },
+      {
+        "date": "20250408",
+        "id": 237,
+        "text": "今日だにいひ難し。",
+        "kana": "けふだにいひがたし。",
+        "translation-ja": "今日であっても言いにくい。",
+        "translation-en": "Even today, it is hard to say.",
+        "translation-ja-natural": "今日で聞いたばかりでも簡単に言えるものではありません。",
+        "translation-en-natural": "Even though we just heard it today, it's not something one can easily say aloud."
+      },
+      {
+        "date": "20250408",
+        "id": 238,
+        "text": "まして後にはいかならむ。",
+        "kana": "ましてのちにはいかならむ。",
+        "translation-ja": "まして、後にはどうなるのか。",
+        "translation-en": "Even more so...what will it be like afterward?",
+        "translation-ja-natural": "まして、後にはどうなるのでしょうか。",
+        "translation-en-natural": "Even more so...what will it be like later, I wonder."
+      },
+      {
+        "date": "20250408",
+        "id": 239,
+        "text": "十九日、日あしければ船いださず。",
+        "kana": "とおかあまりここのか、ひあしければふねいださず。",
+        "translation-ja": "十九日、天気が悪いので、船を出さない。",
+        "translation-en": "On the nineteenth, the weather is bad, so we do not set sail.",
+        "translation-ja-natural": "十九日は天気が悪くて、船が出せませんでした。",
+        "translation-en-natural": "On the nineteenth, the weather was bad, so we couldn't set sail."
+      },
+      {
+        "date": "20250408",
+        "id": 240,
+        "text": "二十日、昨日のやうなれば船いださず、皆人々憂へ歎く。",
+        "kana": "はつか、きのふのやうなればふねいださず、みなひとびとうれへなげく。",
+        "translation-ja": "二十日、昨日のようであるので船を出さず、皆人々、心配して嘆く。",
+        "translation-en": "On the twentieth, since it is like yesterday, we do not set sail, and everyone worries and laments.",
+        "translation-ja-natural": "二十日は昨日のようだったので船を出さず、皆が心配して嘆いていました。",
+        "translation-en-natural": "On the twentieth, the weather was like the day before, so we didn't set sail, and everyone was worried and lamenting."
       }
     ]
   }
