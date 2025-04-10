@@ -2467,6 +2467,26 @@
         "translation-en": "Because it is painful and anxious, they just count the number of days that have passed: today, how many days? the twentieth, the thirtieth—and if they do so, even their fingers may become damaged.",
         "translation-ja-natural": "苦しくてなかなか心安らかに過ごせず、ただ過ぎた日を、今日で何日、二十日目、三十日目と指折り数えるうちに、指まで折ってしまったようです。",
         "translation-en-natural": "It was so painful and uneasy that, just by counting the days...today, the twentieth, the thirtieth...on their fingers, they seemed to have ended up almost breaking them."
+      },
+      {
+        "date": "20250409",
+        "id": 242,
+        "text": "いとわびし。",
+        "kana": "いとわびし。",
+        "translation-ja": "とても寂しい。",
+        "translation-en": "Very lonely.",
+        "translation-ja-natural": "とても寂しいです。",
+        "translation-en-natural": "It is very lonely."
+      },
+      {
+        "date": "20250410",
+        "id": 243,
+        "text": "夜はいも寢ず。",
+        "kana": "よるはいもねず。",
+        "translation-ja": "夜は寝ても寝られない。",
+        "translation-en": "At night, I cannot sleep.",
+        "translation-ja-natural": "夜は寝ても寝られません。",
+        "translation-en-natural": "At night, I cannot sleep."
       }
     ]
   }
