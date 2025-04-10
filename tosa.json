@@ -2487,6 +2487,26 @@
         "translation-en": "At night, I cannot sleep.",
         "translation-ja-natural": "夜は寝ても寝られません。",
         "translation-en-natural": "At night, I cannot sleep."
+      },
+      {
+        "date": "20250410",
+        "id": 244,
+        "text": "二十日の夜の月出でにけり。",
+        "kana": "はつかのよるのつきいでにけり。",
+        "translation-ja": "二十日の夜の月が出た。",
+        "translation-en": "The moon rose on the night of the twentieth.",
+        "translation-ja-natural": "二十日の夜に月が出ました。",
+        "translation-en-natural": "The moon rose on the night of the twentieth."
+      },
+      {
+        "date": "20250410",
+        "id": 245,
+        "text": "山のはもなくて海の中よりぞ出でくる。",
+        "kana": "やまもはもなくうみのなかよりぞいでくる。",
+        "translation-ja": "山の端もなくて、海の中から出てくる。",
+        "translation-en": "There are no mountain peaks, and it rises from the sea.",
+        "translation-ja-natural": "山の端も見えず、まるで海の中から昇ってくるようです。",
+        "translation-en-natural": "With no mountain ridge in sight, it rises as if from the sea itself."
       }
     ]
   }
