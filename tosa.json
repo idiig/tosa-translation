@@ -1980,10 +1980,10 @@
         "id": 194,
         "text": "よね酒しばしばくる。",
         "kana": "よねさけしばしばくる。",
-        "translation-ja": "よねさけ、しばしば来る。",
-        "translation-en": "The rice-and-sake man comes frequently.",
-        "translation-ja-natural": "そのうち、米酒さんこと、楫取りは、しょっちゅう来るようになりました。",
-        "translation-en-natural": "Before long, the oarsman, a.k.a. 'Mr. Rice-and-Sake', started showing up all the time."
+        "translation-ja": "よねさけ、しばしばあたえる。",
+        "translation-en": "We frequently gave him rice and sake.",
+        "translation-ja-natural": "そのうち、米酒、しょっちゅうあたえた。",
+        "translation-en-natural": "Before long, we often gave the oarsman rice and sake."
       },
       {
         "date": "20250325",
@@ -2507,6 +2507,75 @@
         "translation-en": "There are no mountain peaks, and it rises from the sea.",
         "translation-ja-natural": "山の端も見えず、まるで海の中から昇ってくるようです。",
         "translation-en-natural": "With no mountain ridge in sight, it rises as if from the sea itself."
+      },
+      {
+        "date": "20250411",
+        "id": 246,
+        "text": "かうやうなるを見てや、むかし安倍の仲麻呂といひける人は、もろこしに渡りて歸りきける時に、船に乘るべき所にて、かの國人馬の餞し、わかれ惜みて、かしこのからうた作りなどしける。",
+        "kana": "かうやうなるをみてや、むかしのあべのなかまろといひけるひとは、もりこしにわたりてかへりきけるときに、ふねにのるべきところにて、かのくにびとむまのはなむけし、わかれをしみて、かしこのからうたつくりなどしける。",
+        "translation-ja": "このようなことを見て、昔、安倍の仲麻呂という人は、唐に渡って帰ってきたとき、船に乗るべき所で、かの国の人々が餞別をし、別れを惜しんで、そこで漢詩を作ったりした。",
+        "translation-en": "Seeing such a thing, long ago, a man called Abe no Nakamaro, who had crossed over to China, when he was returning, at the place where he was to board the ship, the people of that country held a farewell and, regretting their parting, composed Chinese poems there.",
+        "translation-ja-natural": "こうした場面を見て、昔、安倍仲麻呂という人が唐からの帰国の際、船に乗ろうとした港で、現地の人々が餞別をして、別れを惜しみ、そこで漢詩を作ったという話を思い出したのです。",
+        "translation-en-natural": "Seeing a scene like this, it reminded them of the story of Abe no Nakamaro long ago...when he was returning from China, the locals saw him off at the port where he was to board the ship, regretting the parting and composing farewell poems in Chinese."
+      },
+      {
+        "date": "20250411",
+        "id": 247,
+        "text": "あかずやありけむ、二十日の夜の月出づるまでぞありける。",
+        "kana": "あかずやありけむ、はつかのよるのつきいづるまでぞありける。",
+        "translation-ja": "飽き足りなかったのであろう、二十日の夜の月が出るまでいた。",
+        "translation-en": "Perhaps they were not satisfied, for they remained until the moon rose on the night of the twentieth.",
+        "translation-ja-natural": "名残惜しかったのでしょうか。二十日の夜、月が昇るまでずっと皆はそこにいたのです。",
+        "translation-en-natural": "Perhaps they just couldn't bear to part. They stayed there until the moon rose on the twentieth night."
+      },
+      {
+        "date": "20250412",
+        "id": 248,
+        "text": "その月は海よりぞ出でける。",
+        "kana": "そのつきはうみよりぞいでける。",
+        "translation-ja": "その月は海から出た。",
+        "translation-en": "That moon rose from the sea.",
+        "translation-ja-natural": "その月は海から昇ってきました。",
+        "translation-en-natural": "That moon rose from the sea."
+      },
+      {
+        "date": "20250412",
+        "id": 249,
+        "text": "これを見てぞ仲麻呂のぬし「我が國にはかゝる歌をなむ神代より神もよんたび、今は上中下の人もかうやうに別れ惜み、よろこびもあり、かなしみもある時には詠む」とてよめりける歌、",
+        "kana": "これをみてぞなかまろのぬし「わがくににはかかるうたをなむかみよよりかみもよんたび、いまはかみなかしものひともかうやうにわかれおしみ、よろこびもあり、かなしみもあるときにはよむ」とてよめりけるうた、",
+        "translation-ja": "これを見て仲麻呂の主は「我が国にはこのような歌を神代より神も詠み、今は上中下の人もこのように別れ惜しみ、喜びもあり、悲しみもある時には詠む」と言って詠んだ歌は、",
+        "translation-en": "Seeing this, Nakamaro's lord said, 'In our country, such songs have been sung since the age of the gods, and now all people, high and low, sing them in times of parting, joy, and sorrow.' He then recited a poem:",
+        "translation-ja-natural": "これを見て仲麻呂の主は「我が国ではこのような歌を神代より神も詠み、今は上中下の人々もこのように別れを惜しみ、喜びや悲しみの時には詠む」と言って詠んだ歌は、",
+        "translation-en-natural": "Seeing this, Nakamaro's lord said, 'In our country, such songs have been sung since the age of the gods, and now all people, high and low, sing them in times of parting, joy, and sorrow.' He then recited a poem:"
+      },
+      {
+        "date": "20250412",
+        "id": 249,
+        "poem": "あをうなばら/ふりさけ見れば/春日なる/三笠の山に/いでし月かも",
+        "kana": "あをうなばら/ふりさけみれば/かすがなる/みかさのやまに/いでしつきかも",
+        "translation-ja": "青い海原を振り返ってみると、春日にある三笠山に出たのと同じ月なのだ。",
+        "translation-en": "Looking back at the blue sea, the moon that rose over Mount Mikasa in Kasuga is the same moon that has now risen here.",
+        "translation-ja-natural": "青い海原を振り返ってみると、春日にある三笠山に出たのと同じ月が昇っているのですね。",
+        "translation-en-natural": "Looking back at the blue sea, the same moon that rose over Mount Mikasa in Kasuga is now rising here."
+      },
+      {
+        "date": "20250412",
+        "id": 250,
+        "text": "とぞよめりける。",
+        "kana": "とぞよめりける。",
+        "translation-ja": "と詠んだ。",
+        "translation-en": "So he recited.",
+        "translation-ja-natural": "と詠みました。"
+      },
+      {
+        "date": "20250412",
+        "id": 251,
+        "text": "かの國の人聞き知るまじくおもほえたれども、ことの心を男文字にさまを書き出して、こゝの詞傳へたる人にいひ知らせければ、心をや聞き得たりけむ、いと思ひの外になむめでける。",
+        "kana": "かのくにのひとききしるまじくおもほえたれども、ことのこころををとこもじにさまをかきいだして、こゝのことばつたへたるひとにいひしらせければ、こころをやききえたりけむ、いと思ひのほかになむめでける。",
+        "translation-ja": "その国の人には、わかるまいと思えたのだが、ことの心を男文字で様子を書き出して、ここの言葉を伝えていた人に言い知らせたところ、心を聞き得たのだろうか、思いのほかにとても賞賛したのだった。",
+        "translation-en": "It seemed they would not understand it, but the essence of the poem was transcribed in Chinese characters and explained to someone who had conveyed the words here. Perhaps they grasped its meaning—for to my great surprise, they praised it most highly.",
+        "translation-ja-natural": "相手の国の人には意味は通じないだろうと思っていたのですが、和歌の趣旨を漢字で書き表して、この地のことばで伝えられる人に頼んでみたところ、なんと、気持ちが通じたのか、思いがけないほど賞賛されたのです。",
+        "translation-en-natural": "I thought the people of that country wouldn't understand the meaning, but when I wrote out the intent of the poem in Chinese characters and had someone familiar with the language convey it, they somehow seemed to grasp it...and to my surprise, they praised it most warmly."
       }
     ]
   }
