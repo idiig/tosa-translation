@@ -2576,6 +2576,66 @@
         "translation-en": "It seemed they would not understand it, but the essence of the poem was transcribed in Chinese characters and explained to someone who had conveyed the words here. Perhaps they grasped its meaning—for to my great surprise, they praised it most highly.",
         "translation-ja-natural": "相手の国の人には意味は通じないだろうと思っていたのですが、和歌の趣旨を漢字で書き表して、この地のことばで伝えられる人に頼んでみたところ、なんと、気持ちが通じたのか、思いがけないほど賞賛されたのです。",
         "translation-en-natural": "I thought the people of that country wouldn't understand the meaning, but when I wrote out the intent of the poem in Chinese characters and had someone familiar with the language convey it, they somehow seemed to grasp it...and to my surprise, they praised it most warmly."
+      },
+      {
+        "date": "20250412",
+        "id": 252,
+        "text": "もろこしとこの國とはことことなるものなれど、月の影は同じことなるべければ人の心も同じことにやあらむ。",
+        "kana": "もろこしとこのくにとはことことなるものなれど、つきのかげはおなじことなるべければひとのこころもおなじことにやあらむ。",
+        "translation-ja": "唐とこの国とは言葉は異なるものだが、月の影は同じことなので、人の心も同じことなのだろうか。",
+        "translation-en": "Though the language of China and this country is different, the moon's shadow is the same, so perhaps human hearts are the same as well.",
+        "translation-ja-natural": "唐とこの国とは言葉は異なるものですが、月の影は同じですから、人の心も同じことなのでしょうか。",
+        "translation-en-natural": "Though the language of China and this country is different, the moon's shadow is the same, so perhaps human hearts are the same as well."
+      },
+      {
+        "date": "20250413",
+        "id": 253,
+        "text": "さて今そのかみを思ひやりて、或人のよめる歌、",
+        "kana": "さていまそのかみをおもひやりて、あるひとのよめるうた、",
+        "translation-ja": "さて、今、その時を思いやって、ある人が詠んだ歌は、",
+        "translation-en": "Now, recalling that time, a poem composed by a certain person is:",
+        "translation-ja-natural": "さて、今、その時を思い出して、ある人が詠んだ歌は、",
+        "translation-en-natural": "Now, recalling that time, a poem composed by a certain person is:"
+      },
+      {
+        "date": "20250413",
+        "id": 254,
+        "poem": "都にて/やまのはに見し/月なれど/なみより出でゝ/なみにこそ入れ",
+        "kana": "みやこにて/やまのはにみし/つきなれど/なみよりいでて/なみにこそいれ",
+        "translation-ja": "都では山の端に見た月だが、波より出て波に入るのだ。",
+        "translation-en": "In the capital, it was seen at the mountain's edge, but it rises from the waves and sinks into them.",
+        "translation-ja-natural": "都では山の端に見た月ですが、ここの月は波から出てまた波に入るのです。",
+        "translation-en-natural": "In the capital, it was seen at the mountain's edge, but here, the moon rises from the waves and sinks into them."
+      },
+      {
+        "date": "20250413",
+        "id": 255,
+        "text": "廿一日、卯の時ばかりに船出す。",
+        "kana": "はつかあまりついたち、うのときばかりにふねいだす。",
+        "translation-ja": "二十一日、卯の時ばかりに船出した。",
+        "translation-en": "On the twenty-first, we set sail at the hour of the rabbit.",
+        "translation-ja-natural": "二十一日、朝6時ごろに船を出しました。",
+        "translation-en-natural": "On the twenty-first, we set sail at around six in the morning."
+      },
+      {
+        "date": "20250413",
+        "id": 256,
+        "text": "皆人々の船出づ。",
+        "kana": "みなひとびとのふねいづ。",
+        "translation-ja": "皆、人々の船が出航する。",
+        "translation-en": "Everyone's ships set sail.",
+        "translation-ja-natural": "皆、人々の船が出航します。",
+        "translation-en-natural": "Everyone's ships set sail."
+      },
+      {
+        "date": "20250413",
+        "id": 257,
+        "text": "これを見れば春の海に秋の木の葉しも散れるやうにぞありける。",
+        "kana": "これをみればはるのうみにあきのこのはしもちられるやうにぞありける。",
+        "translation-ja": "これを見れば、春の海に秋の木の葉が散っているようであった。",
+        "translation-en": "Looking at this, it was as if autumn leaves were scattered on the spring sea.",
+        "translation-ja-natural": "これを見ると、まるで春の海に秋の木の葉が散っているようでした。",
+        "translation-en-natural": "Looking at this, it was as if autumn leaves were scattered on the spring sea."
       }
     ]
   }
