@@ -2636,6 +2636,56 @@
         "translation-en": "Looking at this, it was as if autumn leaves were scattered on the spring sea.",
         "translation-ja-natural": "これを見ると、まるで春の海に秋の木の葉が散っているようでした。",
         "translation-en-natural": "Looking at this, it was as if autumn leaves were scattered on the spring sea."
+      },
+      {
+        "date": "20250414",
+        "id": 258,
+        "text": "おぼろげの願に依りてにやあらむ、風も吹かずよき日いできて漕ぎ行く。",
+        "kana": "おぼろげのぐわんによりてにやあらむ、かぜもふかずよきひいできてこぎいく。",
+        "translation-ja": "並々でない願いによってであろうか、風も吹かず、よい日が現れて、漕いで行く。",
+        "translation-en": "Due to an earnest prayer, perhaps, the wind does not blow, a good day appears, and it rows and goes.",
+        "translation-ja-natural": "ひたすら願ったおかげでしょうか、風もなく、穏やかな日が訪れ、私たちはようやく船を漕ぎ出していけます。",
+        "translation-en-natural": "Maybe it's thanks to our prayers. The wind is still, the day is calm, and we can finally row out at last."
+      },
+      {
+        "date": "20250414",
+        "id": 259,
+        "text": "この間につかはれむとて、附きてくる童あり。",
+        "kana": "このあいだにつかはれむとて、つきてくるわらはあり。",
+        "translation-ja": "この間に使われようとして、ついてくる子供がいる。",
+        "translation-en": "In the meantime, there is a child who comes along, wishing to be sent.",
+        "translation-ja-natural": "この間に使われようとして、ついてくる子供がいます。",
+        "translation-en-natural": "In the meantime, a child comes along, hoping to be sent with us."
+      },
+      {
+        "date": "20250414",
+        "id": 260,
+        "text": "それがうたふ舟うた、",
+        "kana": "それがうたふふなうた、",
+        "translation-ja": "その子が歌う舟歌は、",
+        "translation-en": "The song that child sings is,",
+        "translation-ja-natural": "その子が歌う舟歌は、",
+        "translation-en-natural": "The song that child sings is:"
+      },
+      {
+        "date": "20250414",
+        "id": 261,
+        "text": "なほこそ國のかたは見やらるれ、わが父母ありとしおもへば。かへらや",
+        "kana": "なほこそくにのかたはみやらるれ、わがちちははありとしおもへば。かへらや",
+        "translation-ja": "やっぱり、国の方を見てしまうなあ。わが父母がいると思えばさ。帰ろうか。",
+        "translation-en": "Still, the direction of my home draws my gaze, I think my father and mother are there. Go home, go home.",
+        "translation-ja-natural": "やっぱり、どうしても国のほうに目が向く...そこに父さん母さんがいるからさ...帰ろ、帰ろう...",
+        "translation-en-natural": "I can't help looking toward home...my parents are there, after all. Go home, go home."
+      },
+      {
+        "date": "20250414",
+        "id": 262,
+        "text": "とうたふぞ哀なる。",
+        "kana": "とうたふぞあはれなる。",
+        "translation-ja": "と歌うのが、なんとも哀れである。",
+        "translation-en": "To sing that...how sorrowful.",
+        "translation-ja-natural": "あの子があんなふうに歌うなんて...なんとも切ない。",
+        "translation-en-natural": "The way that child sings it... it's just heartbreaking."
       }
     ]
   }
