@@ -2686,6 +2686,26 @@
         "translation-en": "To sing that...how sorrowful.",
         "translation-ja-natural": "あの子があんなふうに歌うなんて...なんとも切ない。",
         "translation-en-natural": "The way that child sings it... it's just heartbreaking."
+      },
+      {
+        "date": "20250415",
+        "id": 263,
+        "text": "かくうたふを聞きつゝ漕ぎくるに、くろとりといふ鳥岩のうへに集り居り。",
+        "kana": "かくうたふをききつつこぎくるに、くろとりといふとりいわのうへにあつまりをり。",
+        "translation-ja": "こう歌うのを聞きながら漕いでくると、黒鳥という鳥が岩の上に集まっている。",
+        "translation-en": "While listening to this singing, as we rowed along, a bird called the blackbird was gathered on the rock.",
+        "translation-ja-natural": "あの舟歌を聞きながら船を漕いでいくと、岩の上に黒鳥という鳥が集まってじっとしていた。",
+        "translation-en-natural": "Rowing along, listening to that singing, I saw birds called blackbirds gathered quietly on a rock."
+      },
+      {
+        "date": "20250415",
+        "id": 264,
+        "text": "その岩のもとに浪しろくうち寄す。",
+        "kana": "そのいはのもとになみしろくうちよす。",
+        "translation-ja": "その岩のもとに波が白く打ち寄せている。",
+        "translation-en": "The white waves wash against the base of the rock.",
+        "translation-ja-natural": "その岩のふもとに白い波が打ち寄せています。",
+        "translation-en-natural": "White waves are washing against the base of the rock."
       }
     ]
   }
