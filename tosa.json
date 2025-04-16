@@ -2706,6 +2706,36 @@
         "translation-en": "The white waves wash against the base of the rock.",
         "translation-ja-natural": "その岩のふもとに白い波が打ち寄せています。",
         "translation-en-natural": "White waves are washing against the base of the rock."
+      },
+      {
+        "date": "20250415",
+        "id": 265,
+        "text": "楫取のいふやう「黒き鳥のもとに白き浪をよす」とぞいふ。",
+        "kana": "かぢとりのいふやう「くろきとりのもとにしろきなみをよす」とぞいふ。",
+        "translation-ja": "楫取が言うには、「黒い鳥のもとに白い波を寄せる」と言う。",
+        "translation-en": "The steersman says, \"White waves wash to the base of the black bird,\" he says.",
+        "translation-ja-natural": "楫取いわく、「黒い鳥のもとに白い波を寄せる」ですって。",
+        "translation-en-natural": "The steersman goes, \"White waves wash to the base of the black bird,\" or so he says."
+      },
+      {
+        "date": "20250416",
+        "id": 266,
+        "text": "この詞何とにはなけれど、ものいふやうにぞ聞えたる。",
+        "kana": "このことばなんとはなけれど、ものいふやうにぞきこえたる。",
+        "translation-ja": "このことばは、何というものではないけれど、物を言うように聞こえた。",
+        "translation-en": "This word was not something that could be clearly named, but it sounded as if it were saying something.",
+        "translation-ja-natural": "このことばは、はっきり何とは言えないけれど、まるで何かを語っているように聞こえた。",
+        "translation-en-natural": "I couldn't quite say what kind of word it was, but it sounded like it was saying something."
+      },
+      {
+        "date": "20250416",
+        "id": 267,
+        "text": "人の程にあはねば咎むるなり。",
+        "kana": "ひとのほどにあはねばとがむるなり。",
+        "translation-ja": "人の身分に合わないので、とがめるのである。",
+        "translation-en": "It is criticized because it does not fit the person's rank.",
+        "translation-ja-natural": "身分にふさわしくないという理由で、とがめられるのだ。",
+        "translation-en-natural": "It's criticized for being inappropriate for their social standing."
       }
     ]
   }
