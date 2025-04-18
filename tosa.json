@@ -2736,6 +2736,46 @@
         "translation-en": "It is criticized because it does not fit the person's rank.",
         "translation-ja-natural": "身分にふさわしくないという理由で、とがめられるのだ。",
         "translation-en-natural": "It's criticized for being inappropriate for their social standing."
+      },
+      {
+        "date": "20250417",
+        "id": 268,
+        "text": "かくいひつゝ行くに、船君なる人浪を見て、國よりはじめて海賊報いせむといふなる事を思ふうへに、海の又おそろしければ、頭も皆しらけぬ。",
+        "kana": "かくいひつつゆくに、ふなぎみなるひとなみをみて、くによりはじめてかいぞくむくいせむというなることをおもううへに、うみのまたおそろしければ、あたまもみなしらけぬ。",
+        "translation-ja": "こう言いながら行くと、船君という人が波を見て、「国を出て以来、はじめて、海賊が報復してくるだろうということを思う上に、海がまた恐ろしいので、頭も皆白くなってしまった。",
+        "translation-en": "As we go on saying this, the steersman looks at the waves and says, 'Since leaving the country, I have begun to think that pirates will come to retaliate, and the sea is also terrifying, so my head has turned white.'",
+        "translation-ja-natural": "そんなことを話しながら進んでいると、船君という人が波を見て、「国を出てから初めて、海賊が報復してくるんじゃないかと思えてきた。しかも、海の様子があまりに恐ろしくて、頭が真っ白になってしまった。",
+        "translation-en-natural": "As we were talking like that, the steersman looked at the waves and said, 'For the first time since we left home, I feel like the pirates might be coming to retaliate. And on top of that, the sea looks so terrifying—my head’s gone completely white,"
+      },
+      {
+        "date": "20250418",
+        "id": 269,
+        "text": "七十八十は海にあるものなりけり。",
+        "kana": "ななそやそはうみにあるものなりけり。",
+        "translation-ja": "七十、八十は、海にあるものであった。",
+        "translation-en": "Seventy and eighty are things found in the sea.",
+        "translation-ja-natural": "七十、八十の老人は、海の中にでもいるんでしょうね。",
+        "translation-en-natural": "People who live to seventy or eighty? I guess they only exist out at sea."
+      },
+      {
+        "date": "20250418",
+        "id": 269,
+        "text": "わが髮の/ゆきといそべの/しら浪と/いづれまされり/おきつ島もり",
+        "kana": "わがかみの/ゆきといそべの/しらなみと/いづれまされり/おきつしまもり",
+        "translation-ja": "私の髪の雪と磯辺の白波と、どちらが勝っているのだ、沖の島守。",
+        "translation-en": "Which surpasses the other, my snowy hair or the white waves on the shore, O guardian of the offing island?",
+        "translation-ja-natural": "私の白髪と、磯辺に打ち寄せる白波――どちらの方が白く目立っているかしらね、沖の島守さん。",
+        "translation-en-natural": "Tell me, guardian of the island—what shines whiter, my snowy hair or the waves breaking on the shore?"
+      },
+      {
+        "date": "20250418",
+        "id": 270,
+        "text": "楫取いへ」",
+        "kana": "かぢとりいへ」",
+        "translation-ja": "楫取、言え」。",
+        "translation-en": "Say it, the steersman.",
+        "translation-ja-natural": "楫取さん、言ってみよ」。",
+        "translation-en-natural": "So, tell me—which one, steersman?"
       }
     ]
   }
