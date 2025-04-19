@@ -2776,6 +2776,56 @@
         "translation-en": "Say it, the steersman.",
         "translation-ja-natural": "楫取さん、言ってみよ」。",
         "translation-en-natural": "So, tell me—which one, steersman?"
+      },
+      {
+        "date": "20250419",
+        "id": 271,
+        "text": "廿二日、よんべのとまりよりことゞまりをおひてぞ行く。",
+        "kana": "はつかあまりふつか、よんべのとまりよりことゞまりをおひてぞいく。",
+        "translation-ja": "二十二日、昨夜の泊まりから、異なる泊まりを追って行く。",
+        "translation-en": "On the 22nd, we left last night's stop, pursuing another harbor.",
+        "translation-ja-natural": "二十二日。昨夜の泊まりをあとにして、また別の泊まりを目指して進んだ。",
+        "translation-en-natural": "On the 22nd, we left last night's anchorage and set off toward another."
+      },
+      {
+        "date": "20250419",
+        "id": 272,
+        "text": "遙に山見ゆ。",
+        "kana": "はるかにやまみゆ。",
+        "translation-ja": "遥かに山が見える。",
+        "translation-en": "Mountains are seen far away.",
+        "translation-ja-natural": "遥かに山が見えます。",
+        "translation-en-natural": "Mountains are visible in the distance."
+      },
+      {
+        "date": "20250419",
+        "id": 273,
+        "text": "年九つばかりなるをの童、年よりは幼くぞある。",
+        "kana": "としここのつばかりなるをのわらは、としよりはおさなくぞある。",
+        "translation-ja": "年九つばかりの男の子がいて、この子は年よりは幼い。",
+        "translation-en": "There is a boy of about nine years old, who seems younger than his age.",
+        "translation-ja-natural": "年九つばかりの男の子がいて、年齢よりも幼く見える。",
+        "translation-en-natural": "There is a boy of about nine years old, who looks younger than his age."
+      },
+      {
+        "date": "20250419",
+        "id": 274,
+        "text": "この童、船を漕ぐまにまに、山も行くと見ゆるを見て、あやしきこと歌をぞよめる。",
+        "kana": "このわらは、ふねをこぐまにまに、やまもゆくとみゆるをみて、あやしきことうたをぞとよめる。",
+        "translation-ja": "この子は、船を漕ぐにつれて山も動いているように見えるのを見て、不思議なことだ！と歌を詠んだ。",
+        "translation-en": "The boy, as the boat moved forward, saw the mountains moving too and thought, 'How strange!'—and composed a poem.",
+        "translation-ja-natural": "船が進むにつれて山までもが動いていくように見えたのだろう。その不思議さに心を動かされたのか、男の子は一首の歌を口にした。",
+        "translation-en-natural": "As the boat moved forward, the mountains must have looked as if they were moving too. Touched by the strangeness of it all, the boy quietly recited a poem."
+      },
+      {
+        "date": "20250419",
+        "id": 275,
+        "text": "そのうた（四字イ無）、",
+        "kana": "そのうた、",
+        "translation-ja": "その歌は、",
+        "translation-en": "That poem,",
+        "translation-ja-natural": "その歌は、",
+        "translation-en-natural": "That poem,"
       }
     ]
   }
