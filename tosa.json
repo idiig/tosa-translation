@@ -2836,6 +2836,26 @@
         "translation-en": "Looking from the boat as it goes, even the mountains seem to go...do the pines not know this?",
         "translation-ja-natural": "漕いでいく船の上から見ると、山まで動いていく。松の木は、それを知らないのかな。",
         "translation-en-natural": "Looking from the boat as it moves forward, even the mountains seem to move. I wonder if the pines know that."
+      },
+      {
+        "date": "20250420",
+        "id": 277,
+        "text": "とぞいへる。",
+        "kana": "とぞいへる。",
+        "translation-ja": "という。",
+        "translation-en": "So he recited.",
+        "translation-ja-natural": "と詠みました。",
+        "translation-en-natural": "So he recited."
+      },
+      {
+        "date": "20250420",
+        "id": 278,
+        "text": "幼き童のことにては似つかはし。",
+        "kana": "おさなきわらはのことにてはにつかはし。",
+        "translation-ja": "幼い子どもの歌としては、ふさわしい。",
+        "translation-en": "It is fitting for a child's song.",
+        "translation-ja-natural": "幼い子どもの歌としては、よくできています。",
+        "translation-en-natural": "It is well done for a child's song."
       }
     ]
   }
