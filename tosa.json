@@ -2826,6 +2826,16 @@
         "translation-en": "That poem,",
         "translation-ja-natural": "その歌は、",
         "translation-en-natural": "That poem,"
+      },
+      {
+        "date": "20250420",
+        "id": 276,
+        "poem": "漕ぎて行く/船にて見れば/あしびきの/山さへゆくを/松は知らずや",
+        "kana": "こぎてゆく/ふねにてみれば/あしびきの/やまさへゆくを/まつはしらずや",
+        "translation-ja": "漕いで行く船で見ると、山さえも行くのを松は知らないのだろうか。",
+        "translation-en": "Looking from the boat as it goes, even the mountains seem to go...do the pines not know this?",
+        "translation-ja-natural": "漕いでいく船の上から見ると、山まで動いていく。松の木は、それを知らないのかな。",
+        "translation-en-natural": "Looking from the boat as it moves forward, even the mountains seem to move. I wonder if the pines know that."
       }
     ]
   }
