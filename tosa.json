@@ -2856,6 +2856,36 @@
         "translation-en": "It is fitting for a child's song.",
         "translation-ja-natural": "幼い子どもの歌としては、よくできています。",
         "translation-en-natural": "It is well done for a child's song."
+      },
+      {
+        "date": "20250421",
+        "id": 279,
+        "text": "けふ海あらげにて磯に雪ふり浪の花さけり。",
+        "kana": "けふうみあらげにていそにゆきふりなみのはなさけり。",
+        "translation-ja": "今日は海が荒れて、磯に雪が降り、波の花が咲いている。",
+        "translation-en": "Today, the sea is rough, snow falls on the shore, and wave-flowers are blooming.",
+        "translation-ja-natural": "今日は海が荒れ、磯に雪が降り、波の花が咲いています。",
+        "translation-en-natural": "The sea was rough today, snow fell on the shore, and wave-flowers bloomed."
+      },
+      {
+        "date": "20250421",
+        "id": 280,
+        "text": "ある人のよめる。",
+        "kana": "あるひとのよめる。",
+        "translation-ja": "ある人が詠んだ歌は、",
+        "translation-en": "A poem someone composed is...",
+        "translation-ja-natural": "ある人が詠んだ歌は、",
+        "translation-en-natural": "A poem someone composed is..."
+      },
+      {
+        "date": "20250421",
+        "id": 281,
+        "text": "浪とのみ/ひとへに聞けど/いろ見れば/雪と花とに/まがひけるかな",
+        "kana": "なみとのみ/ひとへにきけど/いろみれば/ゆきとはなとに/まがひけるかな",
+        "translation-ja": "波だとばかり聞いていたが、その色を見ると、雪と花に紛れていたのだなあ。",
+        "translation-en": "Though I had heard it only as waves, when I looked at their color, they were mingled with snow and flowers—indeed!",
+        "translation-ja-natural": "波の音だとばかり思って聞いていたけれど、その色を見たら、雪や花と見間違えてしまうところでしたよ。",
+        "translation-en-natural": "I had thought it was only the sound of waves, but when I looked at its color, I almost mistook it for snow or blossoms."
       }
     ]
   }
