@@ -2926,6 +2926,16 @@
         "translation-en": "On the twenty-fifth, since the north wind is strong, we do not set out the boat.",
         "translation-ja-natural": "二十五日、楫取たちが、「北風が強い」というので、船を出さない。",
         "translation-en-natural": "On the twenty-fifth, since the north wind is strong, we do not set out the boat."
+      },
+      {
+        "date": "20250423",
+        "id": 286,
+        "text": "海賊追ひくといふ事絶えずきこゆ。",
+        "kana": "かいぞくおひくといふことたえずきこゆ。",
+        "translation-ja": "海賊が追ってくるという噂は、絶えず聞こえてくる。",
+        "translation-en": "The rumor that pirates are pursuing us is constantly heard.",
+        "translation-ja-natural": "海賊が追ってくるという噂は、絶えず聞こえてくる。",
+        "translation-en-natural": "The rumor that pirates are pursuing us is constantly heard."
       }
     ]
   }
