@@ -2886,6 +2886,46 @@
         "translation-en": "Though I had heard it only as waves, when I looked at their color, they were mingled with snow and flowers—indeed!",
         "translation-ja-natural": "波の音だとばかり思って聞いていたけれど、その色を見たら、雪や花と見間違えてしまうところでしたよ。",
         "translation-en-natural": "I had thought it was only the sound of waves, but when I looked at its color, I almost mistook it for snow or blossoms."
+      },
+      {
+        "date": "20250422",
+        "id": 282,
+        "text": "廿三日、日てりて曇りぬ。",
+        "kana": "にじゅうあまりみか、ひてりてくもりぬ。",
+        "translation-ja": "二十三日。日が照って曇った。",
+        "translation-en": "On the twenty-third, the sun shone and then it clouded over.",
+        "translation-ja-natural": "二十三日、日が照って、後、曇りました。",
+        "translation-en-natural": "On the twenty-third, the sun shone and then it clouded over."
+      },
+      {
+        "date": "20250422",
+        "id": 283,
+        "text": "此のわたり、海賊のおそりありといへば神佛を祈る。",
+        "kana": "このわたり、かいぞくのおそりありといへばかみほとけをいのる",
+        "translation-ja": "このあたりは、海賊の恐れがあるというので、神仏を祈る。",
+        "translation-en": "In this area, there is a fear of pirates, so we pray to the gods and Buddhas.",
+        "translation-ja-natural": "このあたりは海賊の恐れがあるとのこと、神仏に安全を祈る。",
+        "translation-en-natural": "They say pirates may be lurking in these waters, so we offer prayers to the gods and Buddhas."
+      },
+      {
+        "date": "20250422",
+        "id": 284,
+        "text": "廿四日、昨日のおなじ所なり。",
+        "kana": "にじふよつか、きのふのおなじところなり。",
+        "translation-ja": "二十四日。昨日と同じ所にいる。",
+        "translation-en": "On the twenty-fourth, we are in the same place as yesterday.",
+        "translation-ja-natural": "二十四日、昨日と同じ所にいる。",
+        "translation-en-natural": "On the twenty-fourth, we are in the same place as yesterday."
+      },
+      {
+        "date": "20250423",
+        "id": 285,
+        "text": "廿五日、楫取らの北風あしといへば、船いださず。",
+        "kana": "にじふいつか、かぢとりらのきたかぜあしといへば、ふねいださず。",
+        "translation-ja": "二十五日、楫取らが「北風が悪い」というので、船を出さない。",
+        "translation-en": "On the twenty-fifth, since the north wind is strong, we do not set out the boat.",
+        "translation-ja-natural": "二十五日、楫取たちが、「北風が強い」というので、船を出さない。",
+        "translation-en-natural": "On the twenty-fifth, since the north wind is strong, we do not set out the boat."
       }
     ]
   }
