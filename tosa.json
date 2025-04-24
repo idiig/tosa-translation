@@ -2525,8 +2525,7 @@
         "kana": "あかずやありけむ、はつかのよるのつきいづるまでぞありける。",
         "translation-ja": "飽き足りなかったのであろう、二十日の夜の月が出るまでいた。",
         "translation-en": "Perhaps they were not satisfied, for they remained until the moon rose on the night of the twentieth.",
-        "translation-ja-natural": "名残惜しかったのでしょうか。二十日の夜、月が昇るまでずっと皆はそこにいたのです。",
-        "translation-en-natural": "Perhaps they just couldn't bear to part. They stayed there until the moon rose on the twentieth night."
+        "translation-ja-natural": "名残惜しかったのでしょうか。二十日の夜、月が昇るまでずっと皆はそこにいたのです。"
       },
       {
         "date": "20250412",
@@ -2936,6 +2935,26 @@
         "translation-en": "The rumor that pirates are pursuing us is constantly heard.",
         "translation-ja-natural": "海賊が追ってくるという噂は、絶えず聞こえてくる。",
         "translation-en-natural": "The rumor that pirates are pursuing us is constantly heard."
+      },
+      {
+        "date": "20250424",
+        "id": 287,
+        "text": "廿六日、まことにやあらむ、海賊追ふといへば夜はばかりより船をいだして漕ぎくる。",
+        "kana": "にじふろくにち、まことにやあらむ、かいぞくおふといへばよるはばかりよりふねをいだしてこぎくる。",
+        "translation-ja": "二十六日。本当だろうか、海賊が追ってくるというので、夜のうちに船を出して漕いでくる。",
+        "translation-en": "On the twenty-sixth, indeed, since they say pirates are pursuing us, we set out the boat and row at night.",
+        "translation-ja-natural": "二十六日。海賊が本当に追ってくるのかもしれないというので、夜のうちにあわてて船を出し、漕ぎ出した。",
+        "translation-en-natural": "On the twenty-sixth, fearing the pirates might really be pursuing us, we launched the boat in the dark of night and began to row away."
+      },
+      {
+        "date": "20250424",
+        "id": 287,
+        "text": "道にたむけする所あり。",
+        "kana": "みちにたむけするところあり。",
+        "translation-ja": "途中に、手向けをするところがある。",
+        "translation-en": "There is a place to pray along the way.",
+        "translation-ja-natural": "道に曲げる所がある。",
+        "translation-en-natural": "There is a place to turn on the road."
       }
     ]
   }
