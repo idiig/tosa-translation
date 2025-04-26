@@ -2957,7 +2957,7 @@
         "translation-en-natural": "There is a place to turn on the road."
       },
       {
-        "date": "20250426",
+        "date": "20250425",
         "id": 288,
         "text": "楫取してぬさたいまつらするに、幣のひんがしへちれば楫取の申し奉ることは、「この幣のちるかたにみふね速にこがしめ給へ」と申してたてまつる。",
         "kana": "かぢとりしてぬさないまつらするに、ぬさのひんがしへちればかぢとりのもうしたてまつることは、「このぬさのちるかたにみふねすみやかにこがしめたまへ」ともうしてたてまつる。",
@@ -2985,6 +2985,72 @@
         "translation-en": "O wind that follows the sacred cloth offered to the god of the sea route, may you blow without ceasing.",
         "translation-ja-natural": "海路の道触の神に手向けする幣の追風よ、どうかこのまま吹き続けてほしい。",
         "translation-en-natural": "O wind that follows the sacred cloth offered to the god of the sea route, may you blow without ceasing."
+      },
+      {
+        "date": "20250426",
+        "id": 291,
+        "text": "とぞ詠める。",
+        "kana": "とぞよめる。",
+        "translation-ja": "と詠んだ。",
+        "translation-en": "So she composed.",
+        "translation-ja-natural": "と詠みました。",
+        "translation-en-natural": "So she composed."
+      },
+      {
+        "date": "20250426",
+        "id": 292,
+        "text": "このあひだに風のよければ楫取いたくほこりて、船に帆あげなど喜ぶ。",
+        "kana": "このあいだにかぜのよければかぢとりいたくほこりて、ふねにほあげなどおよろこぶ。",
+        "translation-ja": "この間、風がよいので、楫取は大いに誇って、船に帆を上げるなど、喜ぶ。",
+        "translation-en": "Because the wind is favorable during this time, the boatman is very proud and raises the sails on the ship.",
+        "translation-ja-natural": "その間、風が順調だったので、楫取は得意げになり、「船に帆を上げぇ」と掛け声をかけ、みな喜んでいた。",
+        "translation-en-natural": "With the wind blowing favorably, the boatman, feeling proud, called out 'Raise the sails!' and they were delighted."
+      },
+      {
+        "date": "20250426",
+        "id": 293,
+        "text": "その音を聞きてわらはもおきなもいつしかとし思へばにやあらむ、いたく喜ぶ。",
+        "kana": "そのおとをききてわらはもおきなもいつしかとしおもへばにやあらむ、いたくよろこぶ。",
+        "translation-ja": "その音を聞いて、子供も老女も、いつになったらと思っていたからだろうか、たいへん喜ぶ。",
+        "translation-en": "Hearing the sound, both the children and the old ladies, having been wondering when it would happen, were very happy."
+      },
+      {
+        "date": "20250426",
+        "id": 294,
+        "text": "このなかに淡路のたうめといふ人のよめる歌、",
+        "kana": "このなかにあはじのたうめといふひとのよめるうた、",
+        "translation-ja": "この中に淡路の老女という人がいて、その人が詠んだ歌は、",
+        "translation-en": "Among them, there was an old lady from Awaji who composed a poem:"
+      },
+      {
+        "date": "20250426",
+        "id": 295,
+        "poem": "追風の/吹きぬる時は/ゆくふねの/帆手うちてこそ/うれしかりけれ",
+        "kana": "おいかぜの/ふきぬるときは/ゆくふねの/ほてうちてこそ/うれしかりけれ",
+        "translation-ja": "追い風が吹いたときには、行く船が帆手を打つのが、うれしい。",
+        "translation-en": "When the following wind has blown, the moving ship strikes its sail, and that is delightful.",
+        "translation-ja-natural": "追い風が吹いて、行く船が帆を打つ。人が手を打つ。そう、それがうれしいのよ。",
+        "translation-en-natural": "As the following wind blows, the sail of the moving ship flaps in the wind. Hands clap. Yes, that is delightful."
+      },
+      {
+        "date": "20250426",
+        "id": 296,
+        "text": "とぞ。",
+        "kana": "とぞ。",
+        "translation-ja": "と詠んだ。",
+        "translation-en": "So she composed.",
+        "translation-ja-natural": "と詠みました。",
+        "translation-en-natural": "So she composed."
+      },
+      {
+        "date": "20250426",
+        "id": 297,
+        "text": "ていけのことにつけていのる。",
+        "kana": "ていけのことにつけていのる。",
+        "translation-ja": "天気のことにつけて祈る。",
+        "translation-en": "Pray for the weather.",
+        "translation-ja-natural": "なにかと天気のことを祈る。",
+        "translation-en-natural": "Pray for the weather on various occasion."
       }
     ]
   }
