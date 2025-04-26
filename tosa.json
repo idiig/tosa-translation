@@ -2975,6 +2975,16 @@
         "translation-en": "Upon hearing this, a girl composed a poem:",
         "translation-ja-natural": "これを聞いて、ある女の子が詠んだ歌は、",
         "translation-en-natural": "Upon hearing this, a girl composed a poem:"
+      },
+      {
+        "date": "20250426",
+        "id": 290,
+        "poem": "わたつみの/ちぶりの神に/たむけする/ぬさのおひ風や/まずふかなむ",
+        "kana": "わたつみの/ちぶりのかみに/たむけする/ぬさのおひかぜやまずふかなむ",
+        "translation-ja": "渡海の道触の神に手向けする幣の追風よ、まず吹いてほしい。",
+        "translation-en": "O wind that follows the sacred cloth offered to the god of the sea route, may you blow without ceasing.",
+        "translation-ja-natural": "海路の道触の神に手向けする幣の追風よ、どうかこのまま吹き続けてほしい。",
+        "translation-en-natural": "O wind that follows the sacred cloth offered to the god of the sea route, may you blow without ceasing."
       }
     ]
   }
