@@ -2957,7 +2957,7 @@
         "translation-en-natural": "There is a place to turn on the road."
       },
       {
-        "date": "20250425",
+        "date": "20250426",
         "id": 288,
         "text": "楫取してぬさたいまつらするに、幣のひんがしへちれば楫取の申し奉ることは、「この幣のちるかたにみふね速にこがしめ給へ」と申してたてまつる。",
         "kana": "かぢとりしてぬさないまつらするに、ぬさのひんがしへちればかぢとりのもうしたてまつることは、「このぬさのちるかたにみふねすみやかにこがしめたまへ」ともうしてたてまつる。",
@@ -2965,6 +2965,16 @@
         "translation-en": "Having ordered the boatman, and had the sacred cloth offered, the cloth scattered toward the east, so what the boatman respectfully said was: ‘In the direction where this cloth has scattered, please have the august boat rowed swiftly,’ he respectfully said.",
         "translation-ja-natural": "楫取に幣を奉らせて祈らせたところ、幣が東の方へ舞ったので、楫取は「この幣の靡いた方へ、どうか御船を速やかに漕ぎ出してくださいませ」とお祈りしたのでした。",
         "translation-en-natural": "Having the boatman offer the sacred cloth and pray, the cloth drifted eastward. Seeing this, the boatman prayed, 'In the direction where this cloth has drifted, please let the august boat be rowed swiftly.'"
+      },
+      {
+        "date": "20250426",
+        "id": 289,
+        "text": "これを聞きてある女の童のよめる、",
+        "kana": "これをききてあるをんなのわらはのよめる、",
+        "translation-ja": "これを聞いて、ある女の子が詠んだ歌は、",
+        "translation-en": "Upon hearing this, a girl composed a poem:",
+        "translation-ja-natural": "これを聞いて、ある女の子が詠んだ歌は、",
+        "translation-en-natural": "Upon hearing this, a girl composed a poem:"
       }
     ]
   }
