@@ -3051,6 +3051,16 @@
         "translation-en": "Pray for the weather.",
         "translation-ja-natural": "なにかと天気のことを祈る。",
         "translation-en-natural": "Pray for the weather on various occasion."
+      },
+      {
+        "date": "20250428",
+        "id": 298,
+        "text": "廿七日、風吹き浪あらければ船いださず。",
+        "kana": "にじふなぬか、かぜふきなみあらければふねいださず。",
+        "translation-ja": "二十七日、風吹き、波が荒れるので、船を出さない。",
+        "translation-en": "On the 27th, the wind blows and the waves grow rough, so we do not put out the boat.",
+        "translation-ja-natural": "二十七日、風が強く、波が荒れたので、船を出さなかった。",
+        "translation-en-natural": "On the 27th, the wind was strong and the waves were rough, so we did not set out the boat."
       }
     ]
   }
