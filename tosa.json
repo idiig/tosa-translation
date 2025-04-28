@@ -3091,6 +3091,26 @@
         "translation-en": "Even the sun, seen near the heavenly clouds, yet the road I think of toward the capital feels so far away.",
         "translation-ja-natural": "あの太陽さえ、天の雲の近くに見えるというのに、都へ続く道の、なんと遠いことか。",
         "translation-en-natural": "Even the sun can be seen near the heavenly clouds, and yet how distant is the road leading to the capital."
+      },
+      {
+        "date": "20250428",
+        "id": 302,
+        "text": "又ある人のよめる。",
+        "kana": "またあるひとのよめる。",
+        "translation-ja": "また、ある人が詠んだ。",
+        "translation-en": "Another person composed.",
+        "translation-ja-natural": "また、ある人が詠みました。",
+        "translation-en-natural": "Another person composed."
+      },
+      {
+        "date": "20250428",
+        "id": 302,
+        "poem": "吹くかぜの/絶えぬ限りし/立ちくれば/波路はいとゞ/はるけかりけり",
+        "kana": "ふくかぜの/たえぬかぎりし/たちくれば/なみぢはいとど/はるけかりけり",
+        "translation-ja": "吹く風が絶えぬ限り、波が立ち寄せてくるので、波路はますますはるかになったことだ。",
+        "translation-en": "As long as the blowing wind does not cease, the waves rise and approach, and the path of the waves has become all the more distant.",
+        "translation-ja-natural": "吹きすさぶ風が止まないかぎり、寄せる波はあとを絶たず、波路はますます遠くなっていくのだった。",
+        "translation-en-natural": "As long as the relentless wind keeps blowing, the waves continue to rise and approach, making the path across the sea seem ever more distant."
       }
     ]
   }
