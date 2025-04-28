@@ -3111,6 +3111,26 @@
         "translation-en": "As long as the blowing wind does not cease, the waves rise and approach, and the path of the waves has become all the more distant.",
         "translation-ja-natural": "吹きすさぶ風が止まないかぎり、寄せる波はあとを絶たず、波路はますます遠くなっていくのだった。",
         "translation-en-natural": "As long as the relentless wind keeps blowing, the waves continue to rise and approach, making the path across the sea seem ever more distant."
+      },
+      {
+        "date": "20250428",
+        "id": 303,
+        "text": "日ひと日風やまず。",
+        "kana": "ひひとひかぜやまず。",
+        "translation-ja": "日一日、風がやまない。",
+        "translation-en": "Day after day, the wind does not cease.",
+        "translation-ja-natural": "毎日毎日、風が吹き止むことがない。",
+        "translation-en-natural": "The wind keeps blowing, day after day."
+      },
+      {
+        "date": "20250428",
+        "id": 304,
+        "text": "つまはじきしてねぬ。",
+        "kana": "つまはじきしてねぬ。",
+        "translation-ja": "爪弾きをして寝た。",
+        "translation-en": "Plucked his own fingers and slept.",
+        "translation-ja-natural": "指をはじいて、寝てしまった。",
+        "translation-en-natural": "Flicking their fingers, they lay down to sleep."
       }
     ]
   }
