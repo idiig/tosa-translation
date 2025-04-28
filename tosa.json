@@ -3061,6 +3061,36 @@
         "translation-en": "On the 27th, the wind blows and the waves grow rough, so we do not put out the boat.",
         "translation-ja-natural": "二十七日、風が強く、波が荒れたので、船を出さなかった。",
         "translation-en-natural": "On the 27th, the wind was strong and the waves were rough, so we did not set out the boat."
+      },
+      {
+        "date": "20250428",
+        "id": 299,
+        "text": "これかれかしこく歎く。",
+        "kana": "これかれかしこくなげく。",
+        "translation-ja": "これかれ、かしこく歎く。",
+        "translation-en": "Everyone, both here and there, laments.",
+        "translation-ja-natural": "あの人もこの人も、ひどく嘆く。",
+        "translation-en-natural": "Everyone, both here and there, laments."
+      },
+      {
+        "date": "20250428",
+        "id": 300,
+        "text": "男たちの心なぐさめに、からうたに「日を望めば都遠し」などいふなる事のさまを聞きて、ある女のよめる歌、",
+        "kana": "おとこたちのこころなぐさめに、からうたに「ひをのぞめばみやことおし」などいふなることのさまをききて、あるをんなのよめるうた、",
+        "translation-ja": "男たちの心をなぐさめるために、から歌に「日を望めば都遠し」などと言うことのさまを聞いて、ある女が詠んだ歌は、",
+        "translation-en": "To comfort the hearts of the men, hearing the manner of things such as saying 'When one looks toward the sun, the capital is far away' in Chinese poetry, a song composed by a certain woman is:",
+        "translation-ja-natural": "男たちの心を慰めようと、唐の詩で「日を望めば都遠し」などと言うありさまを聞いて、ある女が詠んだ歌は、",
+        "translation-en-natural": "To comfort the men's hearts, upon hearing a scene where lines like 'When one looks toward the sun, the capital is far away' are recited in Chinese poetry, a certain woman composed a song:"
+      },
+      {
+        "date": "20250428",
+        "id": 301,
+        "poem": "日をだにも/あま雲ちかく/見るものを/都へとおもふ/道のはるけさ",
+        "kana": "ひをだにも/あまぐもちかく/みるものを/みやこへとおもふ/みちのはるけさ",
+        "translation-ja": "太陽さえも、天の雲の近くで見るのに、都へと思う道のはるかさ。",
+        "translation-en": "Even the sun, seen near the heavenly clouds, yet the road I think of toward the capital feels so far away.",
+        "translation-ja-natural": "あの太陽さえ、天の雲の近くに見えるというのに、都へ続く道の、なんと遠いことか。",
+        "translation-en-natural": "Even the sun can be seen near the heavenly clouds, and yet how distant is the road leading to the capital."
       }
     ]
   }
