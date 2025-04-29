@@ -490,7 +490,7 @@
         "date": "20250118",
         "id": 49,
         "text": "廿八日、浦戸より漕ぎ出でゝ大湊をおふ。",
-        "kana": "にじふはちにち、うらとよりこぎいでておほみなとをおふ。",
+        "kana": "にぢふやうか、うらとよりこぎいでておほみなとをおふ。",
         "translation-ja": "二十八日、浦戸を出て、大湊に向かう。",
         "translation-en": "On the twenty-eighth day, we set out from Urado and headed for Ominato.",
         "translation-ja-natural": "二十八日、浦戸を出発し、大湊に向かいました。",
@@ -520,7 +520,7 @@
         "date": "20250120",
         "id": 51,
         "text": "廿九日、大湊にとまれり。",
-        "kana": "にじふくにち、おほみなとにとまれり。",
+        "kana": "にぢふくにち、おほみなとにとまれり。",
         "translation-ja": "二十九日。大湊に泊っている。",
         "translation-en": "On the twenty-ninth day, we stayed at Ominato.",
         "translation-ja-natural": "二十九日、大湊に泊まっています。",
@@ -3131,6 +3131,56 @@
         "translation-en": "Plucked his own fingers and slept.",
         "translation-ja-natural": "指をはじいて、寝てしまった。",
         "translation-en-natural": "Flicking their fingers, they lay down to sleep."
+      },
+      {
+        "date": "20250429",
+        "id": 305,
+        "text": "廿八日、よもすがら雨やまず。",
+        "kana": "にじふようか、よもすがらあめやまず。",
+        "translation-ja": "二十八日、夜通し雨がやまない。",
+        "translation-en": "On the 28th, the rain does not cease all night.",
+        "translation-ja-natural": "二十八日、夜通し雨がやまない。",
+        "translation-en-natural": "On the 28th, the rain does not cease all night."
+      },
+      {
+        "date": "20250429",
+        "id": 306,
+        "text": "けさも。",
+        "kana": "けさも。",
+        "translation-ja": "今朝も。",
+        "translation-en": "This morning too.",
+        "translation-ja-natural": "今朝も。",
+        "translation-en-natural": "This morning too."
+      },
+      {
+        "date": "20250429",
+        "id": 307,
+        "text": "廿九日、船出して行く。",
+        "kana": "にぢふくにち、ふなでしていく。",
+        "translation-ja": "二十九日、船出して行く。",
+        "translation-en": "On the 29th, set sail and go.",
+        "translation-ja-natural": "二十九日、船出して行く。",
+        "translation-en-natural": "On the 29th, set sail and go."
+      },
+      {
+        "date": "20250429",
+        "id": 308,
+        "text": "うらうらと照りてこぎゆく。",
+        "kana": "うらうらとてりてこぎゆく。",
+        "translation-ja": "うらうらと照りながら漕いで行く。",
+        "translation-en": "As it shines gently, I row along.",
+        "translation-ja-natural": "のどかに陽が照り、船を漕ぎ進んでいく。",
+        "translation-en-natural": "With the sun shining gently, I row onward."
+      },
+      {
+        "date": "20250429",
+        "id": 309,
+        "text": "爪のいと長くなりにたるを見て日を數ふれば、今日は子の日なりければ切らず。",
+        "kana": "つまのいとながくなりにたるをみてひをかぞふれば、きょうはこひなりければきらず。",
+        "translation-ja": "爪がとても長くなっているのを見て、日を数えると、今日は子の日なので切らない。",
+        "translation-en": "Seeing that my nails have grown very long, I count the days and find that today is the day of the mouse, so I do not cut them.",
+        "translation-ja-natural": "爪がとても長くなっているのを見て、日を数えると、今日は子の日なので切らない。",
+        "translation-en-natural": "Seeing that my nails have grown very long, I count the days and find that today is the day of the child, so I do not cut them."
       }
     ]
   }
