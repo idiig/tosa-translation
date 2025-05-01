@@ -3183,7 +3183,7 @@
         "translation-en-natural": "Seeing that my nails have grown very long, I count the days and find that today is the day of the child, so I do not cut them."
       },
       {
-        "date": "20250429",
+        "date": "20250430",
         "id": 310,
         "text": "正月なれば京の子の日の事いひ出でゝ、「小松もがな」といへど海中なれば難しかし。",
         "kana": "むつきなればきやうのこひのこといひいでて、「こまつもがな」といへどうみなかになればかたしかり。",
@@ -3193,7 +3193,7 @@
         "translation-en-natural": "As the New Year comes around, I find myself remembering the Day of the Rat in the capital and murmuring, 'If only I had a little pine tree.' But here I am, out in the middle of the sea — there's just nothing I can do."
       },
       {
-        "date": "20250429",
+        "date": "20250430",
         "id": 311,
         "text": "ある女の書きて出せる歌、",
         "kana": "あるをむなのかきてだせるうた、",
@@ -3203,7 +3203,7 @@
         "translation-en-natural": "A poem that a woman wrote and presented is as the following:"
       },
       {
-        "date": "20250429",
+        "date": "20250430",
         "id": 312,
         "text": "おぼつかな/けふは子の日か/あまならば/海松をだに/引かましものを",
         "kana": "おぼつかな/けふはねのひか/あまならば/うみまつをだに/ひかましものを",
@@ -3211,6 +3211,56 @@
         "translation-en": "How unclear it is... Is today the Day of the Rat? If I were a sea diver, I would have at least pulled up some sea pine—if only I could.",
         "translation-ja-natural": "ああ、はっきりしない...今日は子の日なのだろうか。私が海女だったら、せめて海松くらいは引いてみようものを。",
         "translation-en-natural": "Ah, it's all so uncertain... Is today really the Day of the Rat? If I were a diver, I might have at least pulled up some sea pine."
+      },
+      {
+        "date": "20250501",
+        "id": 313,
+        "text": "とぞいへる。",
+        "kana": "とぞいへる。",
+        "translation-ja": "と言う。",
+        "translation-en": "So she says.",
+        "translation-ja-natural": "と言う。",
+        "translation-en-natural": "So she says."
+      },
+      {
+        "date": "20250501",
+        "id": 314,
+        "text": "海にて子の日の歌にてはいかゞあらむ。",
+        "kana": "うみてねのひのうたにてはいかがあらむ。",
+        "translation-ja": "海において、子の日の歌ということでは、どうであろうか。",
+        "translation-en": "At sea, in regard to a song for the Day of the Rat, how might it be?",
+        "translation-ja-natural": "海の上で、子の日の歌なんて、どうなのかしらね。",
+        "translation-en-natural": "Out here at sea, a poem for the Day of the Rat—does that even make sense?"
+      },
+      {
+        "date": "20250501",
+        "id": 315,
+        "text": "又ある人のよめるうた、",
+        "kana": "またあるひとのよめるうた、",
+        "translation-ja": "また、ある人の詠んだ歌。",
+        "translation-en": "Again, a poem composed by a certain person.",
+        "translation-ja-natural": "そしてまた、ある人が詠んだ歌がこちら。",
+        "translation-en-natural": "And now, here's a poem composed by someone else."
+      },
+      {
+        "date": "20250501",
+        "id": 316,
+        "text": "けふなれど/若菜もつまず/春日野の/わがこぎわたる/浦になければ",
+        "kana": "けふなれど/わかなもつまず/かすがのの/わがこぎわたる/うらになければ",
+        "translation-ja": "今日なのに、若菜も摘まず、春日野の私が漕ぎ渡る浦には、ないので。",
+        "translation-en": "Though it is today, I do not pick young greens, as Kasugano bay I row across does not have them.",
+        "translation-ja-natural": "今日は子の日なのに、若菜を摘むこともできない。私が漕ぎ渡っているこの春日野の浦には、若菜がないのだから。",
+        "translation-en-natural": "It's the Day of the Rat today, and yet I can't even pick young greens—there are no young greens in the Kasugano bay I'm rowing across."
+      },
+      {
+        "date": "20250501",
+        "id": 317,
+        "text": "かくいひつゝ漕ぎ行く。",
+        "kana": "かくいひつつこぎゆく。",
+        "translation-ja": "こう言いつつ、漕いで行く。",
+        "translation-en": "Saying this, we row.",
+        "translation-ja-natural": "そんなことを言いながら、船を漕ぎ進んでいく。",
+        "translation-en-natural": "Saying things like that, we kept rowing on."
       }
     ]
   }
