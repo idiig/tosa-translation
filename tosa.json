@@ -3271,6 +3271,34 @@
         "translation-en": "We brought the boat close to a beautiful spot and asked, 'Where is this?' and they said, 'It is Tosa's harbor.'",
         "translation-ja-natural": "趣のある場所に船を寄せて、「ここはどこですか」とたずねたところ、「土佐の港です」と答えた。",
         "translation-en-natural": "We pulled our boat into a scenic spot and asked, 'Where are we?' They answered, 'This is the harbor of Tosa.'"
+      },
+      {
+        "date": "20250503",
+        "id": 319,
+        "text": "昔土佐といひける所に住みける女、この船にまじれりけり。",
+        "kana": "むかしとさといひけるところにすみけるをむな、このふねにまじれりけり。",
+        "translation-ja": "昔、土佐といった所に住んでいた女、この船にまじっていた。",
+        "translation-en": "Once upon a time, a woman who had lived in a place called Tosa was aboard this boat.",
+        "translation-ja-natural": "昔、土佐というところに住んでいた女が、この船に乗り合わせていた。",
+        "translation-en-natural": "Once upon a time, a woman who had lived in a place called Tosa happened to be on board this boat."
+      },
+      {
+        "date": "20250503",
+        "id": 320,
+        "text": "そがいひけらく、「昔しばしありし所の名たぐひにぞあなる。あはれ」といひてよめる歌、",
+        "kana": "そがいひけらく、「むかししばしありしところのなたぐひにぞあなる。あはれ」といひてよめるうた、",
+        "translation-ja": "その人が言ったことには、「むかし、しばらくあった場所と同じような名前なのだなあ。しみじみ」と言って詠んだ歌、",
+        "translation-en": "That person said, 'It bears a name like a place where I once stayed long ago. How moving,' and then composed the following poem,",
+        "translation-ja-natural": "その人はこう言った――「昔、しばらく過ごしたあの場所と同じような名前なんだなあ。しみじみとするよ」と言って、詠んだ歌は、",
+        "translation-en-natural": "That person said, 'It bears the same kind of name as the place I once stayed for a while... how moving,' and then composed a poem..."
+      },
+      {
+        "date": "20250503",
+        "id": 321,
+        "text": "年ごろを/すみし所の/名にしおへば/きよる浪をも/あはれとぞ見る",
+        "kana": "としごろを/すみしところの/なにしおへば/きよるなみをも/あはれとぞみる",
+        "translation-ja": "年ごろを住みし所の名にし負えば、寄せてくる波をもあはれと見る。",
+        "translation-en": "As it bears the name of the place where I lived for many years, I even see the waves coming in with a sense of pathos."
       }
     ]
   }
