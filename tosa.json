@@ -3297,8 +3297,80 @@
         "id": 321,
         "text": "年ごろを/すみし所の/名にしおへば/きよる浪をも/あはれとぞ見る",
         "kana": "としごろを/すみしところの/なにしおへば/きよるなみをも/あはれとぞみる",
-        "translation-ja": "年ごろを住みし所の名にし負えば、寄せてくる波をもあはれと見る。",
-        "translation-en": "As it bears the name of the place where I lived for many years, I even see the waves coming in with a sense of pathos."
+        "translation-ja": "数年を住んだ場所の名にして負っているので、寄ってくる波をも、あはれにと思って見る。",
+        "translation-en": "As it bears the name of the place where I lived for years, I even look at the approaching waves with a sense of sorrow.",
+        "translation-ja-natural": "何年も住んでいた場所の名を今も背負っているから、寄せてくる波さえも、しみじみと感じられる。",
+        "translation-en-natural": "Because this place still carries the name of where I once lived for years, even the waves that wash ashore move me deeply."
+      },
+      {
+        "date": "20250504",
+        "id": 322,
+        "text": "三十日、雨風ふかず。",
+        "kana": "みそか、あめかぜふかず。",
+        "translation-ja": "三十日、雨も風も吹かない。",
+        "translation-en": "On the thirtieth, neither rain nor wind blows.",
+        "translation-ja-natural": "三十日、雨も風も吹かない。",
+        "translation-en-natural": "On the thirtieth, neither rain nor wind blows."
+      },
+      {
+        "date": "20250504",
+        "id": 323,
+        "text": "海賊は夜ありきせざなりと聞きて、夜中ばかりに船を出して阿波のみとを渡る。",
+        "kana": "かいぞくはよるありきせざなりとききて、よなかばかりにふねをだしてあはのみとをわたる。",
+        "translation-ja": "海賊は夜には歩き回らないと聞いて、夜中ごろに船を出し、阿波の水門を渡る。",
+        "translation-en": "Hearing that pirates do not walk around at night, we put out the boat around midnight and crossed the water gate of Awa.",
+        "translation-ja-natural": "海賊は夜には出歩かないと聞いていたので、私たちは夜中に船を出して、阿波の水門をこっそりと渡った。",
+        "translation-en-natural": "We had heard that pirates don't go out at night, so we set sail around midnight and quietly passed through the water gate of Awa."
+      },
+      {
+        "date": "20250504",
+        "id": 324,
+        "text": "夜中なれば西ひんがしも見えず、男女辛く神佛を祈りてこのみとを渡りぬ。",
+        "kana": "よなかなればにしひんがしもみえず、をとこをむなからくかみほとけをいのりてこのみとをわたりぬ。",
+        "translation-ja": "夜中なので、西も東も見えず、男女、つらく神仏を祈って、この水門を渡った。",
+        "translation-en": "As it was the middle of the night, west and east could not be seen; men and women prayed painfully to the gods and Buddhas and crossed this water gate.",
+        "translation-ja-natural": "夜中だったので、東も西も見えず、男も女も、不安の中で神仏にすがりながら、この水門を渡った。",
+        "translation-en-natural": "In the middle of the night, unable to see east or west, both men and women clung to prayer as they passed through the water gate in fear."
+      },
+      {
+        "date": "20250504",
+        "id": 325,
+        "text": "寅卯の時ばかりに、ぬ島といふ所を過ぎてたな川といふ所を渡る。",
+        "kana": "とらうのときばかりに、ぬしまといふところをすぎてたなかわといふところをわたる。",
+        "translation-ja": "寅卯の時ばかりに、沼島という所を過ぎて、たな川という所を渡る。",
+        "translation-en": "Around the time of the Tiger and Rabbit hours, passing a place called Nushima, crossing a place called Tanakawa.",
+        "translation-ja-natural": "寅の刻から卯の刻にかけて、ぬ島という島を通り過ぎ、たな川という川を渡った。",
+        "translation-en-natural": "Sometime between the Tiger and Rabbit hours, we passed by the island called Nushima and crossed a river called Tanakawa."
+      },
+      {
+        "date": "20250504",
+        "id": 326,
+        "text": "からく急ぎて和泉の灘といふ所に至りぬ。",
+        "kana": "からくいそぎていずみのなだといふところにいたりぬ。",
+        "translation-ja": "かろうじて急いで、和泉の灘という所に至った。",
+        "translation-en": "Barely hurrying, we reached a place called the Izumi coast.",
+        "translation-ja-natural": "なんとか急いで進み、ようやく和泉の灘という難所にたどり着いた。",
+        "translation-en-natural": "We pushed forward with all our might and finally reached the treacherous waters known as Izumi no Nada."
+      },
+      {
+        "date": "20250504",
+        "id": 327,
+        "text": "今日海に浪に似たる物なし。",
+        "kana": "けふうみになみににたるものなし。",
+        "translation-ja": "今日は、海に波に似たるものはない。",
+        "translation-en": "Today, there is nothing in the sea that resembles a wave.",
+        "translation-ja-natural": "今日は、海に波らしい波は見られない。",
+        "translation-en-natural": "Today, there isn't a single wave on the sea that even resembles a proper one."
+      },
+      {
+        "date": "20250504",
+        "id": 328,
+        "text": "神佛の惠蒙ぶれるに似たり。",
+        "kana": "かみほとけのめぐみかうぶれるににたり。",
+        "translation-ja": "神仏の恵みを蒙ったのに似ている。",
+        "translation-en": "It resembles having received the blessings of the gods and Buddhas.",
+        "translation-ja-natural": "まるで神仏の恵みを受けたかのように思われた。",
+        "translation-en-natural": "It felt just like receiving the blessings of the gods and Buddhas."
       }
     ]
   }
