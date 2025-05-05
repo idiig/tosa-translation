@@ -3371,6 +3371,76 @@
         "translation-en": "It resembles having received the blessings of the gods and Buddhas.",
         "translation-ja-natural": "まるで神仏の恵みを受けたかのように思われた。",
         "translation-en-natural": "It felt just like receiving the blessings of the gods and Buddhas."
+      },
+      {
+        "date": "20250505",
+        "id": 329,
+        "text": "けふ船に乘りし日より數ふればみそかあまり九日になりにけり。",
+        "kana": "けふふねにのりしひよりかぞふればみそかあまりここぬかになりにけり。",
+        "translation-ja": "今日、船に乗った日から数えると、三十九日になってしまった。",
+        "translation-en": "Today, counting from the day I boarded the ship, it has become thirty days plus nine days.",
+        "translation-ja-natural": "今日、船に乗った日から数えてみると、もう三十九日にもなってしまった。",
+        "translation-en-natural": "Today, counting from the day I boarded the boat, it’s already been thirty-nine days."
+      },
+      {
+        "date": "20250505",
+        "id": 330,
+        "text": "今は和泉の國に來ぬれば海賊ものならず。",
+        "kana": "いまはいずみのくににきぬればかいぞくものならず。",
+        "translation-ja": "今は和泉の国に来たので、海賊というものではない。",
+        "translation-en": "Now, having come to the land of Izumi, it is not the case that there are pirates.",
+        "translation-ja-natural": "今は和泉の国まで来たから、もう海賊の心配はない。",
+        "translation-en-natural": "Now that we've arrived in the province of Izumi, there's no more danger from pirates."
+      },
+      {
+        "date": "20250505",
+        "id": 331,
+        "text": "二月朔日、あしたのま雨降る。",
+        "kana": "にがつついたち、あしたのまあめふる。",
+        "translation-ja": "二月一日、朝の間、雨が降る。",
+        "translation-en": "On the first day of the second month, during the morning, rain falls.",
+        "translation-ja-natural": "二月一日、朝のうち、雨が降る。",
+        "translation-en-natural": "The first day of the second month. Rain is falling in the morning."
+      },
+      {
+        "date": "20250505",
+        "id": 332,
+        "text": "午の時ばかりにやみぬれば、和泉の灘といふ所より出でゝ漕ぎ行く。",
+        "kana": "むまのときばかりにやみぬれば、いづみのなだというところよりいでてこぎゆく。",
+        "translation-ja": "午の刻ばかりにやんだので、和泉の灘という所から出て漕いで行く。",
+        "translation-en": "When it stopped around the hour of the horse, (we) depart from a place called Izumi no Nada and row on.",
+        "translation-ja-natural": "正午ごろに雨がやんだので、「和泉の灘」という場所から出て、船を漕ぎ出した。",
+        "translation-en-natural": "Around noon, the rain let up, so we set out from a place called Izumi no Nada and began rowing."
+      },
+      {
+        "date": "20250505",
+        "id": 333,
+        "text": "海のうへ昨日の如く風浪見えず。",
+        "kana": "うみのうへきのうのごとくかぜなみみえず。",
+        "translation-ja": "海の上、昨日のように、風浪が見えない。",
+        "translation-en": "On the sea, just like yesterday, wind and waves are not visible.",
+        "translation-ja-natural": "海の上は、昨日と同じように、風も波も見えなかった。",
+        "translation-en-natural": "Just like yesterday, the sea was calm—no wind or waves in sight."
+      },
+      {
+        "date": "20250505",
+        "id": 333,
+        "text": "黒崎の松原を経て行く。",
+        "kana": "くろさきのまつばらをへていく。",
+        "translation-ja": "黒崎の松原を経て行く。",
+        "translation-en": "We go along the pine grove of Kurosaki.",
+        "translation-ja-natural": "黒崎の松原を抜けて進んでいく。",
+        "translation-en-natural": "We make our way through the pine grove of Kurosaki."
+      },
+      {
+        "date": "20250505",
+        "id": 334,
+        "text": "所の名は黒く、松の色は青く、磯の浪は雪の如くに、貝のいろは蘇枋にて五色に今ひといろぞ足らぬ。",
+        "kana": "ところのなはくろく、まつのいろはあおく、いそのなみはゆきのごとくに、かいのいろはすほうにてごしきにいまひといろぞたらぬ。",
+        "translation-ja": "所の名は黒く、松の色は青く、磯の浪は雪のように、貝の色は蘇枋にて、五色にするには、今、あとひといろが足りない。",
+        "translation-en": "The name of the place is black, the color of the pines is blue, the waves on the shore are like snow, the color of the shells is a dark reddish-purple, and to make five colors, now, one more color is missing.",
+        "translation-ja-natural": "この場所の名は黒、松の色は青、磯の波は雪のように白く、貝の色は蘇芳。五色に、今ひといろ足りない。",
+        "translation-en-natural": "The place is called 'Black', the color of the pines is blue, the waves on the shore are white like snow, and the color of the shells is suou. To make five colors, one color is now missing."
       }
     ]
   }
