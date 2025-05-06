@@ -3441,6 +3441,36 @@
         "translation-en": "The name of the place is black, the color of the pines is blue, the waves on the shore are like snow, the color of the shells is a dark reddish-purple, and to make five colors, now, one more color is missing.",
         "translation-ja-natural": "この場所の名は黒、松の色は青、磯の波は雪のように白く、貝の色は蘇芳。五色に、今ひといろ足りない。",
         "translation-en-natural": "The place is called 'Black', the color of the pines is blue, the waves on the shore are white like snow, and the color of the shells is suou. To make five colors, one color is now missing."
+      },
+      {
+        "date": "20250506",
+        "id": 335,
+        "text": "この間に今日は箱の浦といふ所より綱手ひきて行く。",
+        "kana": "このあひだにけふははこのうらといふところよりつなてひきていく。",
+        "translation-ja": "この間に、今日は箱の浦という所から、綱手で引いて行く。",
+        "translation-en": "In the meantime, today, we go from a place called Hako no Ura, pulling by means of ropes.",
+        "translation-ja-natural": "さて、この間に、今日は箱の浦というところから、綱で船を引いて行く。",
+        "translation-en-natural": "Now then, during this time, today we pull the boat along by rope from a place called Hako no Ura."
+      },
+      {
+        "date": "20250506",
+        "id": 336,
+        "text": "かく行くあひだにある人の詠める歌、",
+        "kana": "かくいくあひだにあるひとのよめるうた、",
+        "translation-ja": "こうして行くあいだに、ある人が詠んだ歌、",
+        "translation-en": "As we go along, a song composed by someone,",
+        "translation-ja-natural": "こうして進んでいく途中で、ある人が詠んだ歌、",
+        "translation-en-natural": "As we traveled on, someone composed the following poem,"
+      },
+      {
+        "date": "20250506",
+        "id": 337,
+        "poem": "玉くしげ/箱のうらなみ/たゝぬ日は/海をかゞみと/たれか見ざらむ",
+        "kana": "たまくしげはこのうらなみたたぬひはうみをかがみとたれかみざらむ",
+        "translation-ja": "玉くしげ箱の浦の波が立たない日には、海を鏡だと誰が見ないだろうか。",
+        "translation-en": "On days when the waves of Hako no Ura do not rise, who does not see the sea as a mirror?",
+        "translation-ja-natural": "波ひとつ立たない穏やかな日に、箱の浦の海を鏡と思わぬ人がいるでしょうか。",
+        "translation-en-natural": "On a calm day with not a wave in sight, who could look at the sea of Hako no Ura and not see a mirror?"
       }
     ]
   }
