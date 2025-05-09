@@ -3511,6 +3511,16 @@
         "translation-en": "\"The ship's lord barely managed to twist it out and thought the poem good. Such a thing cannot be said,\" they said, and the whispering ceased.",
         "translation-ja-natural": "船君が苦労してひねり出し、自分ではよいと思っていることなのに、それについてどうして口にできようか。そう思って、慎んで黙ってしまったのだ。",
         "translation-en-natural": "The ship's lord had struggled to come up with it, believing it to be good—and yet, how could anyone possibly speak of it? Thinking so, they chose to hold back and said nothing."
+      },
+      {
+        "date": "20250509",
+        "id": 342,
+        "text": "俄に風なみたかければとゞまりぬ。",
+        "kana": "にはかにかぜなみたかければとどまりぬ。",
+        "translation-ja": "急に風波が高くなったので、とどまった。",
+        "translation-en": "Suddenly, the wind and waves grew high, so we stayed.",
+        "translation-ja-natural": "急に風と波が高くなったので、同じ港に留まった。",
+        "translation-en-natural": "The wind and waves suddenly grew high, so we stayed at the same port."
       }
     ]
   }
