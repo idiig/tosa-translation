@@ -3501,6 +3501,16 @@
         "translation-en": "As the listener seems to think, one would secretly say, 'Why is it merely a trivial matter?'",
         "translation-ja-natural": "聞く人の反応を見ていると、「どうしてこんな、ただのことを詠んだ歌なんだろう」と、心の中でそっと思っているのかもしれない。",
         "translation-en-natural": "Judging from the listener's reaction, they may be quietly thinking to themselves, 'Why would someone write a poem about something so ordinary?'"
+      },
+      {
+        "date": "20250509",
+        "id": 341,
+        "text": "「船君の辛くひねり出してよしと思へる事をえしもこそしいへ」とてつゝめきてやみぬ。",
+        "kana": "「ふなぎみのからくひねりだしてよしとおもへることをえしもこそしいへ」とてつゝめきてやみぬ。",
+        "translation-ja": "「船君が、かろうじてひねり出して、いいと思った歌を。そんなことは言えない」とのことで、ひそひそいうのはやんだ。",
+        "translation-en": "\"The ship's lord barely managed to twist it out and thought the poem good. Such a thing cannot be said,\" they said, and the whispering ceased.",
+        "translation-ja-natural": "船君が苦労してひねり出し、自分ではよいと思っていることなのに、それについてどうして口にできようか。そう思って、慎んで黙ってしまったのだ。",
+        "translation-en-natural": "The ship's lord had struggled to come up with it, believing it to be good—and yet, how could anyone possibly speak of it? Thinking so, they chose to hold back and said nothing."
       }
     ]
   }
