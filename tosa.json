@@ -3521,6 +3521,26 @@
         "translation-en": "Suddenly, the wind and waves grew high, so we stayed.",
         "translation-ja-natural": "急に風と波が高くなったので、同じ港に留まった。",
         "translation-en-natural": "The wind and waves suddenly grew high, so we stayed at the same port."
+      },
+      {
+        "date": "20250509",
+        "id": 343,
+        "text": "二日、雨風止まず。",
+        "kana": "ふつか、あめかぜやまず。",
+        "translation-ja": "二日、雨風は止まない。",
+        "translation-en": "On the second day, the rain and wind did not stop.",
+        "translation-ja-natural": "二日、雨と風は止まなかった。",
+        "translation-en-natural": "On the second day, the rain and wind did not cease."
+      },
+      {
+        "date": "20250509",
+        "id": 344,
+        "text": "日ひとひ夜もすがら神佛をいのる。",
+        "kana": "ひとひよもすがらかみほとけをいのる。",
+        "translation-ja": "日一日、夜もすがら、神仏を祈る。",
+        "translation-en": "Day by day, night after night, I pray to the gods and Buddhas.",
+        "translation-ja-natural": "一日中、一晩中、神仏に祈りを捧げる。",
+        "translation-en-natural": "Day after day, night after night, I pray to the gods and Buddhas."
       }
     ]
   }
