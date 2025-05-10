@@ -3541,6 +3541,16 @@
         "translation-en": "Day by day, night after night, I pray to the gods and Buddhas.",
         "translation-ja-natural": "一日中、一晩中、神仏に祈りを捧げる。",
         "translation-en-natural": "Day after day, night after night, I pray to the gods and Buddhas."
+      },
+      {
+        "date": "20250510",
+        "id": 344,
+        "text": "三日、海のうへ昨日のやうなれば船いださず。",
+        "kana": "みっか、うみのうへきのうのやうなればふねいださず。",
+        "translation-ja": "三日、海の上が、昨日のようであったので、船を出さない。",
+        "translation-en": "On the third day, the sea was as it had been yesterday, so we did not set sail.",
+        "translation-ja-natural": "三日目も、海の様子が昨日と同じだったので、船は出さなかった。",
+        "translation-en-natural": "On the third day as well, the sea looked just like it had the day before, so we didn’t set sail."
       }
     ]
   }
