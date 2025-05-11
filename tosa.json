@@ -3604,7 +3604,7 @@
       },
       {
         "date": "20250511",
-        "id": 348,
+        "id": 349,
         "text": "然れどもひねもすに浪風たゝず。",
         "kana": "しかれどもひねもすになみかぜたたず。",
         "translation-ja": "しかし、終日波風は立たない。",
@@ -3614,7 +3614,7 @@
       },
       {
         "date": "20250511",
-        "id": 349,
+        "id": 350,
         "text": "この楫取は日も得計らぬかたゐなりけり。",
         "kana": "このかぢとりはひもえはからぬかたゐなりけり。",
         "translation-ja": "この楫取は、天候も予想できない愚か者であった。",
@@ -3624,13 +3624,23 @@
       },
       {
         "date": "20250511",
-        "id": 350,
+        "id": 351,
         "text": "この泊の濱にはくさぐさの麗しき貝石など多かり。",
         "kana": "このはまのはまにはくさぐさのうるわしきかいせきなどおほかり。",
         "translation-ja": "この泊の浜には、さまざまのうるわしき貝、石などが多かった。",
         "translation-en": "On the beach of this harbor, there were many beautiful shells and stones.",
         "translation-ja-natural": "この泊の浜には、さまざまの美しい貝や石などが多かった。",
         "translation-en-natural": "On the beach of this harbor, there were many beautiful shells and stones."
+      },
+      {
+        "date": "20250512",
+        "id": 352,
+        "text": "かゝれば唯昔の人をのみ戀ひつゝ船なる人の詠める、",
+        "kana": "かかればただむかしのひとをのみこひつゝふねなるひとのよめる、",
+        "translation-ja": "だから、ただ昔の人をのみ恋ひつつ、船にいる人の詠んだ歌は、",
+        "translation-en": "Therefore, only the person of old is longed for, the person on the ship who composed this poem,",
+        "translation-ja-natural": "だから、ただ昔の人をのみ恋ひつつ、船にいる人が詠んだ歌は、",
+        "translation-en-natural": "Therefore, only the person in the past is longed for, the person on the ship who composed this poem,"
       }
     ]
   }
