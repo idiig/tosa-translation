@@ -3571,6 +3571,66 @@
         "translation-en": "The poem I composed in connection with this is,",
         "translation-ja-natural": "これについて詠んだ歌は、",
         "translation-en-natural": "The poem I composed in connection with this is,"
+      },
+      {
+        "date": "20250511",
+        "id": 347,
+        "text": "緒をよりて/かひなきものは/落ちつもる/涙の玉を/ぬかぬなりけり",
+        "kana": "ををよりてかひなきものはおちつもるなみだのたまをぬかぬなりけり",
+        "translation-ja": "糸をよって、甲斐のないものは、落ちつもる涙の玉を貫かかったことだ。",
+        "translation-en": "Twisting the thread, it is of no use; the tears that fall and accumulate cannot be pierced through.",
+        "translation-ja-natural": "糸をより合わせても、無駄なものは、落ちつもる涙の玉を貫くことができないからだ。",
+        "translation-en-natural": "Even if you twist the thread together, it is of no use; the tears that fall and accumulate cannot be pierced through."
+      },
+      {
+        "date": "20250511",
+        "id": 348,
+        "text": "かくて、今日は暮れぬ。",
+        "kana": "かくて、きょうはくれぬ。",
+        "translation-ja": "このようにして、今日は暮れた。",
+        "translation-en": "Thus, today has come to an end.",
+        "translation-ja-natural": "このようにして、今日は暮れた。",
+        "translation-en-natural": "Thus, today has come to an end."
+      },
+      {
+        "date": "20250511",
+        "id": 348,
+        "text": "四日、楫取「けふ風雲のけしきはなはだあし」といひて船出さずなりぬ。",
+        "kana": "よか、かぢとり「けふかぜくものけしきはなはだあし」といひてふないでさずなりぬ。",
+        "translation-ja": "四日、楫取が「今日の風、雲の様子ははなはだ悪い」と言って、船を出さないことになった。",
+        "translation-en": "On the fourth day, the helmsman said, \"The wind and clouds today are very bad,\" and it was decided not to set sail.",
+        "translation-ja-natural": "四日、楫取が「今日の風、雲の様子ははなはだ悪い」と言って、船を出さないことになった。",
+        "translation-en-natural": "On the fourth day, the helmsman said, \"The wind and clouds today are very bad,\" and it was decided not to set sail."
+      },
+      {
+        "date": "20250511",
+        "id": 348,
+        "text": "然れどもひねもすに浪風たゝず。",
+        "kana": "しかれどもひねもすになみかぜたたず。",
+        "translation-ja": "しかし、終日波風は立たない。",
+        "translation-en": "However, the waves and wind do not rise all day long.",
+        "translation-ja-natural": "しかし、終日波風は立たなかった。",
+        "translation-en-natural": "However, the waves and wind did not rise all day long."
+      },
+      {
+        "date": "20250511",
+        "id": 349,
+        "text": "この楫取は日も得計らぬかたゐなりけり。",
+        "kana": "このかぢとりはひもえはからぬかたゐなりけり。",
+        "translation-ja": "この楫取は、天候も予想できない愚か者であった。",
+        "translation-en": "This helmsman was a fool who could not even predict the weather.",
+        "translation-ja-natural": "この楫取は、天候も予想できない愚か者であった。",
+        "translation-en-natural": "This helmsman was a fool who could not even predict the weather."
+      },
+      {
+        "date": "20250511",
+        "id": 350,
+        "text": "この泊の濱にはくさぐさの麗しき貝石など多かり。",
+        "kana": "このはまのはまにはくさぐさのうるわしきかいせきなどおほかり。",
+        "translation-ja": "この泊の浜には、さまざまのうるわしき貝、石などが多かった。",
+        "translation-en": "On the beach of this harbor, there were many beautiful shells and stones.",
+        "translation-ja-natural": "この泊の浜には、さまざまの美しい貝や石などが多かった。",
+        "translation-en-natural": "On the beach of this harbor, there were many beautiful shells and stones."
       }
     ]
   }
