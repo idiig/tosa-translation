@@ -3551,6 +3551,26 @@
         "translation-en": "On the third day, the sea was as it had been yesterday, so we did not set sail.",
         "translation-ja-natural": "三日目も、海の様子が昨日と同じだったので、船は出さなかった。",
         "translation-en-natural": "On the third day as well, the sea looked just like it had the day before, so we didn’t set sail."
+      },
+      {
+        "date": "20250511",
+        "id": 345,
+        "text": "風の吹くことやまねば岸の浪たちかへる。",
+        "kana": "かぜのふくことやまねばきしのなみたちかへる。",
+        "translation-ja": "風が吹くことがやまないので、岸の波が立ち返る。",
+        "translation-en": "As the wind does not cease, the waves on the shore come and go.",
+        "translation-ja-natural": "風が吹くことがやまないので、岸の波が立ち返る。",
+        "translation-en-natural": "As the wind does not cease, the waves on the shore rise and fall."
+      },
+      {
+        "date": "20250511",
+        "id": 346,
+        "text": "これにつけてよめる歌、",
+        "kana": "これにつけてよめるうた、",
+        "translation-ja": "これにつけて詠んだ歌、",
+        "translation-en": "The poem I composed in connection with this is,",
+        "translation-ja-natural": "これについて詠んだ歌は、",
+        "translation-en-natural": "The poem I composed in connection with this is,"
       }
     ]
   }
