@@ -3751,6 +3751,16 @@
         "translation-en": "Even the sight of the pine grove is distant.",
         "translation-ja-natural": "松原の眺めまでも、果てしなく続いているように見える。",
         "translation-en-natural": "Even the view of the pine grove seems to stretch endlessly into the distance."
+      },
+      {
+        "date": "20250515",
+        "id": 364,
+        "text": "かれこれ苦しければ詠めるうた、",
+        "kana": "かれこれくるしければよめるうた、",
+        "translation-ja": "いろいろと苦しかったので、詠んだ歌は、",
+        "translation-en": "Because there were various sufferings, the poem composed is:",
+        "translation-ja-natural": "いろいろとつらかったので、詠んだ歌は、",
+        "translation-en-natural": "Since it was such a hard time in so many ways, the poem composed is:"
       }
     ]
   }
