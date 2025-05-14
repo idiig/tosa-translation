@@ -3681,6 +3681,16 @@
         "translation-en": "So it is said.",
         "translation-ja-natural": "と詠んでいる。",
         "translation-en-natural": "So it is said."
+      },
+      {
+        "date": "20250514",
+        "id": 357,
+        "text": "女兒のためには親をさなくなりぬべし。",
+        "kana": "をむなごのためにはおやをさなくなりぬべし。",
+        "translation-ja": "娘のためには、親は幼くなってしまうにちがいない。",
+        "translation-en": "For the sake of the daughter, the parent is sure to become like a child.",
+        "translation-ja-natural": "娘のこととなると、親は子どものようになってしまうものだ。",
+        "translation-en-natural": "When it comes to their daughter, a parent can’t help but become like a child."
       }
     ]
   }
