@@ -3730,7 +3730,27 @@
         "translation-ja": "手を差し入れて、寒さすら感じない泉で、汲もうともせずに、何日も過ごしてしまった。",
         "translation-en": "Reaching in with my hands, in a spring where I do not even feel the cold, without intending to draw water, many days have passed.",
         "translation-ja-natural": "手を差し入れて、冷たさも忘れる泉で、水を汲むわけでもなく、いつしか日々が過ぎていた。",
-        "translation-en-natural": "With my hands in the water, forgetting even the cold, not really trying to draw any, I’ve let the days quietly pass."
+        "translation-en-natural": "With my hands in the water, forgetting even the cold, not really trying to draw any, I've let the days quietly pass."
+      },
+      {
+        "date": "20250514",
+        "id": 362,
+        "text": "五日、けふ辛くして和泉の灘より小津のとまりをおふ。",
+        "kana": "いつか、けふからくしていづみのなだよりおづのとまりをおふ。",
+        "translation-ja": "五日。今日、かろうじて、和泉の灘から小津の泊をたどる。",
+        "translation-en": "On the fifth day—today—barely, I make my way from the coast of Izumi to the harbor of Ozu.",
+        "translation-ja-natural": "五日。今日、ようやくの思いで、和泉の灘を発ち、小津の泊へ向かった。",
+        "translation-en-natural": "On the fifth day—today—I just barely managed to leave the coast of Izumi and head toward the harbor of Ozu."
+      },
+      {
+        "date": "20250514",
+        "id": 363,
+        "text": "松原めもはるばるなり。",
+        "kana": "まつばらめもはるばるなり。",
+        "translation-ja": "松原の眺めもまた、はるかである。",
+        "translation-en": "Even the sight of the pine grove is distant.",
+        "translation-ja-natural": "松原の眺めまでも、果てしなく続いているように見える。",
+        "translation-en-natural": "Even the view of the pine grove seems to stretch endlessly into the distance."
       }
     ]
   }
