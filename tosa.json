@@ -3711,6 +3711,26 @@
         "translation-en": "However, there is also a way of saying that the child who died had a good-looking face.",
         "translation-ja-natural": "それでも、「死にし子は顔のよき子であった」と言うような声もある。",
         "translation-en-natural": "Even so, there are those who say, 'The child who passed away had a fine face.'"
+      },
+      {
+        "date": "20250514",
+        "id": 360,
+        "text": "猶おなじ所に日を經ることを歎きて、ある女のよめるうた、",
+        "kana": "なほおなじところにひをふることをなげきて、あるをむなのよめるうた、",
+        "translation-ja": "なお同じ場所で日を過ごすことを嘆いて、ある女が詠んだ歌、",
+        "translation-en": "Lamenting again the passing of days in the same place, a poem composed by a certain woman,",
+        "translation-ja-natural": "やはり、同じ所で日を過ごすことを嘆いて、ある女が詠んだ歌は、",
+        "translation-en-natural": "Lamenting, once again, the days spent in the same place, a woman composed the following poem:"
+      },
+      {
+        "date": "20250514",
+        "id": 361,
+        "poem": "手をひでゝ/寒さも知らぬ/泉にぞ/汲むとはなしに/日ごろ經にける",
+        "kana": "てをひでて/さむさもしらぬ/いづみにぞ/くむとはなしに/ひごろへにける",
+        "translation-ja": "手を差し入れて、寒さすら感じない泉で、汲もうともせずに、何日も過ごしてしまった。",
+        "translation-en": "Reaching in with my hands, in a spring where I do not even feel the cold, without intending to draw water, many days have passed.",
+        "translation-ja-natural": "手を差し入れて、冷たさも忘れる泉で、水を汲むわけでもなく、いつしか日々が過ぎていた。",
+        "translation-en-natural": "With my hands in the water, forgetting even the cold, not really trying to draw any, I’ve let the days quietly pass."
       }
     ]
   }
