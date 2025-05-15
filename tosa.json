@@ -3765,12 +3765,22 @@
       {
         "date": "20250515",
         "id": 365,
-        "poem": "ゆけどなほ行きやられぬは妹が績む小津の浦なる岸の松原",
-        "kana": "ゆけどなほゆきやられぬはいもがうむをつのうらなるきしのまつばら",
+        "poem": "ゆけどなほ/行きやられぬは/妹が績む/小津の浦なる/岸の松原",
+        "kana": "ゆけどなほ/ゆきやられぬは/いもがうむ/をつのうらなる/きしのまつばら",
         "translation-ja": "行けども、なお行きつくせないのは、妹が糸をつむぐ小津の浦の岸の松原である。",
         "translation-en": "Though I go, still I cannot go all the way—it is the pine grove on the shore of Ozu, where my beloved spins her thread.",
         "translation-ja-natural": "行っても行っても、まだ続いているんですね、小津の浦の岸の松原が。",
         "translation-en-natural": "No matter how far I go, the pine grove along the shore of Ozu just keeps going on and on."
+      },
+      {
+        "date": "20250515",
+        "id": 366,
+        "poem": "かくいひつゞくる程に「船疾くこげ、日のよきに」と催せば楫取船子どもにいはく「御船より仰せたぶなり。",
+        "kana": "かくいひつゞくるほどに「ふねとくこげ、ひのよきに」ともよおせばかぢとりふなこどもにいはく「みふねよりおおせたぶなり。",
+        "translation-ja": "こう言いながらやって来るうちに、「船を早く漕げ、天候がいいんだから」と催促すると、楫取が水夫たちに言う、「船君が仰せになったぞ。",
+        "translation-en": "As I was saying this, the boatman urged, 'Row the boat quickly, for the weather is fine,' and the steersman said to the crew, 'The captain has given his orders.'",
+        "translation-ja-natural": "こう言いながらやって来るうちに、「船を早く漕げ、天候がいいんだから」と催促すると、楫取が水夫たちに言う、「船君が仰せになったぞ。",
+        "translation-en-natural": "As I was saying this, the boatman urged, 'Row the boat quickly, for the weather is fine,' and the steersman said to the crew, 'The captain has given his orders.'"
       }
     ]
   }
