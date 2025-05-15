@@ -3761,6 +3761,16 @@
         "translation-en": "Because there were various sufferings, the poem composed is:",
         "translation-ja-natural": "いろいろとつらかったので、詠んだ歌は、",
         "translation-en-natural": "Since it was such a hard time in so many ways, the poem composed is:"
+      },
+      {
+        "date": "20250515",
+        "id": 365,
+        "poem": "ゆけどなほ行きやられぬは妹が績む小津の浦なる岸の松原",
+        "kana": "ゆけどなほゆきやられぬはいもがうむをつのうらなるきしのまつばら",
+        "translation-ja": "行けども、なお行きつくせないのは、妹が糸をつむぐ小津の浦の岸の松原である。",
+        "translation-en": "Though I go, still I cannot go all the way—it is the pine grove on the shore of Ozu, where my beloved spins her thread.",
+        "translation-ja-natural": "行っても行っても、まだ続いているんですね、小津の浦の岸の松原が。",
+        "translation-en-natural": "No matter how far I go, the pine grove along the shore of Ozu just keeps going on and on."
       }
     ]
   }
