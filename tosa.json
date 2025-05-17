@@ -3855,12 +3855,22 @@
       {
         "date": "20250517",
         "id": 374,
-        "text": "いのりくる/風間と思ふを/あやなくに/鴎さへだに/なみと見ゆらむ",
+        "poem": "いのりくる/風間と思ふを/あやなくに/鴎さへだに/なみと見ゆらむ",
         "kana": "いのりくる/かざまとおもふを/あやなくに/かもめさへだに/なみとみゆらむ",
         "translation-ja": "風が吹かないように祈り続けてきて、今がその吹かぬ間だと思うのに、妙なことになんで鴎さえもが吹く風によって立つ波と見えるのだろう。",
         "translation-en": "I have been praying for the wind not to blow, and now I think it is the time when it does not blow, but how strange that even the gulls seem to be waves blown by the wind.",
         "translation-ja-natural": "風が吹かないようにと祈ってきて、今こそ風の止んだ時だと思うのに、なんとも不思議なことに、鴎でさえ風にあおられて立つ波のように見えてしまう。",
         "translation-en-natural": "I've been praying for the wind to calm, and I thought this must be the still moment I've been waiting for—yet strangely, even the gulls look like wind-blown waves."
+      },
+      {
+        "date": "20250518",
+        "id": 375,
+        "text": "といひて行く間に、石津といふ所の松原おもしろくて濱邊遠し。",
+        "kana": "といひていくあひだに、いしづといふところのまつばらおもしろくてはまべとほし。",
+        "translation-ja": "と言って行く間に、石津という所の松原が面白くて、浜辺が遠い。",
+        "translation-en": "As I was going, the pine grove at a place called Ishizu was beautiful, and the beach was far.",
+        "translation-ja-natural": "そう言って歩いているうちに、石津という場所にある松原がなんとも美しくて、浜辺がはるか遠くに感じられた。",
+        "translation-en-natural": "As I continued on, I came to a pine grove at a place called Ishizu—it was so beautiful, and the beach stretched far into the distance."
       }
     ]
   }
