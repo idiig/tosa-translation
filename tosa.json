@@ -3841,6 +3841,26 @@
         "translation-en": "Just now, there was a place where seagulls gathered and played.",
         "translation-ja-natural": "ちょうど今、鴎たちが群れて遊んでいる場所が見えた。",
         "translation-en-natural": "Just now, I saw a spot where seagulls were gathered and playing."
+      },
+      {
+        "date": "20250517",
+        "id": 373,
+        "text": "京のちかづくよろこびのあまりにある童のよめる歌、",
+        "kana": "きやうのちかづくよろこびのあまりにあるわらはのよめるうた、",
+        "translation-ja": "京の近づく喜びのあまりに、ある童の詠んだ歌。",
+        "translation-en": "A poem composed by a certain child, in the excess of joy at Kyoto's nearing.",
+        "translation-ja-natural": "京が近づいてくるのがうれしくて、ある子どもが詠んだ歌です。",
+        "translation-en-natural": "Filled with joy as they neared Kyoto, a child composed this poem."
+      },
+      {
+        "date": "20250517",
+        "id": 374,
+        "text": "いのりくる/風間と思ふを/あやなくに/鴎さへだに/なみと見ゆらむ",
+        "kana": "いのりくる/かざまとおもふを/あやなくに/かもめさへだに/なみとみゆらむ",
+        "translation-ja": "風が吹かないように祈り続けてきて、今がその吹かぬ間だと思うのに、妙なことになんで鴎さえもが吹く風によって立つ波と見えるのだろう。",
+        "translation-en": "I have been praying for the wind not to blow, and now I think it is the time when it does not blow, but how strange that even the gulls seem to be waves blown by the wind.",
+        "translation-ja-natural": "風が吹かないようにと祈ってきて、今こそ風の止んだ時だと思うのに、なんとも不思議なことに、鴎でさえ風にあおられて立つ波のように見えてしまう。",
+        "translation-en-natural": "I've been praying for the wind to calm, and I thought this must be the still moment I've been waiting for—yet strangely, even the gulls look like wind-blown waves."
       }
     ]
   }
