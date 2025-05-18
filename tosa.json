@@ -3871,6 +3871,36 @@
         "translation-en": "As I was going, the pine grove at a place called Ishizu was beautiful, and the beach was far.",
         "translation-ja-natural": "そう言って歩いているうちに、石津という場所にある松原がなんとも美しくて、浜辺がはるか遠くに感じられた。",
         "translation-en-natural": "As I continued on, I came to a pine grove at a place called Ishizu—it was so beautiful, and the beach stretched far into the distance."
+      },
+      {
+        "date": "20250518",
+        "id": 376,
+        "text": "又住吉のわたりを漕ぎ行く。",
+        "kana": "またすみよしのわたりをこぎいく。",
+        "translation-ja": "また、住吉の渡しを漕いで行く。",
+        "translation-en": "Again, (we) row on through the Sumiyoshi crossing.",
+        "translation-ja-natural": "また、住吉のあたりを船で漕ぎ進んでいく。",
+        "translation-en-natural": "Again, we rowed on through the waters near Sumiyoshi."
+      },
+      {
+        "date": "20250518",
+        "id": 377,
+        "text": "ある人の詠める歌、",
+        "kana": "あるひとのよめるうた、",
+        "translation-ja": "ある人が詠んだ歌は、",
+        "translation-en": "A poem composed by a certain person,",
+        "translation-ja-natural": "ある人が詠んだ歌は、",
+        "translation-en-natural": "A poem composed by someone is,"
+      },
+      {
+        "date": "20250518",
+        "id": 378,
+        "poem": "今見てぞ/身をば知りぬる/住のえの/松よりさきに/われは經にけり",
+        "kana": "いまみてぞ/みをばしりぬる/すみのえの/まつよりさきに/われはけにけり",
+        "translation-ja": "今見てこそ、身をば知りぬる、住の江の松より先に、私は経てしまった。",
+        "translation-en": "Now having seen it, I have come to know myself; before the pines of Sumi no E, I have already passed through.",
+        "translation-ja-natural": "今こうして目の当たりにして、自分というものを初めて知った。住の江の松よりも先に、私はもう通り過ぎてしまっていたのだ。",
+        "translation-en-natural": "Now that I’ve seen it for myself, I finally understand who I am. Before even reaching the pines of Sumi no E, I had already gone past."
       }
     ]
   }
