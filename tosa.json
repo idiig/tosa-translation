@@ -3895,8 +3895,8 @@
       {
         "date": "20250518",
         "id": 378,
-        "poem": "今見てぞ/身をば知りぬる/住のえの/松よりさきに/われは經にけり",
-        "kana": "いまみてぞ/みをばしりぬる/すみのえの/まつよりさきに/われはけにけり",
+        "poem": "今見てぞ/身をば知りぬる/住のゑの/松よりさきに/われは經にけり",
+        "kana": "いまみてぞ/みをばしりぬる/すみのゑの/まつよりさきに/われはけにけり",
         "translation-ja": "今見てこそ、身をば知りぬる、住の江の松より先に、私は経てしまった。",
         "translation-en": "Now having seen it, I have come to know myself; before the pines of Sumi no E, I have already passed through.",
         "translation-ja-natural": "今こうして目の当たりにして、自分というものを初めて知った。住の江の松よりも先に、私はもう通り過ぎてしまっていたのだ。",
@@ -3911,6 +3911,26 @@
         "translation-en": "Here is a poem composed by the mother of someone long gone, who never forgot her child even for a moment in a day.",
         "translation-ja-natural": "ここに、かつていた人の母が、ひとときも忘れることなく思い続けて、歌を詠んだ。",
         "translation-en-natural": "Here, the mother of someone long gone composed a poem, unable to forget them even for a single moment."
+      },
+      {
+        "date": "20250518",
+        "id": 379,
+        "poem": "住の江に/船さしよせよ/わすれ草/しるしありやと/つみて行くべく",
+        "kana": "すみのゑに/ふねさしよせよ/わすれぐさ/しるしありやと/つみていくべく",
+        "translation-ja": "住の江に、船を寄せよ。忘れ草にしるしがあるかと、摘んで行こうとして。",
+        "translation-en": "Bring the boat to Sumi no E. Wondering if the forget-plant bears any effect, I go to pick it.",
+        "translation-ja-natural": "住のゑに船を寄せて、忘れ草にご利益があるかどうか、摘んで行こう。",
+        "translation-en-natural": "Let's bring the boat to Sumi no E and pick some forgetting grass, to see if it might help us forget."
+      },
+      {
+        "date": "20250518",
+        "id": 380,
+        "text": "となむ。",
+        "kana": "となむ。",
+        "translation-ja": "と言う。",
+        "translation-en": "So it is.",
+        "translation-ja-natural": "そう言う。",
+        "translation-en-natural": "So it is."
       }
     ]
   }
