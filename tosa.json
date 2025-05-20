@@ -3981,6 +3981,26 @@
         "translation-en": "Then, in accordance with the words, 'Offer the sacred offering,' I respectfully presented the sacred offering.",
         "translation-ja-natural": "そこで、『幣をお捧げなさい』とおっしゃるので、それに従って幣を神にお供えしました。",
         "translation-en-natural": "So, when told 'Please offer the sacred cloth,' I followed the instruction and presented the offering to the deity."
+      },
+      {
+        "date": "20250520",
+        "id": 385,
+        "text": "かくたいまつれどももはら風やまで、いや吹きにいや立ちに風浪の危ふければ楫取又いはく「幣には御心のいかねば御船も行かぬなり。",
+        "kana": "かくたいまつれどももはらかぜやまで、いやふきにいやたちにかぜなみのあやふければかぢとりまたいはく「ぬさにはおこころのいかねばおふねもいかぬなり。",
+        "translation-ja": "こう奉ったけれども、まったく風は止まず、ますます吹いてはますます波が立ち、風と波が危ういので、楫取がまた言った。「幣では御心に届かぬので、御船も進まぬのである」と。",
+        "translation-en": "Though I offered it thus, the wind did not cease at all; rather, it blew more and more, and the waves rose more and more. Since the wind and waves were perilous, the helmsman said again: 'Since the sacred offering does not reach the divine heart, the boat will not move.'",
+        "translation-ja-natural": "こうして幣を奉ったけれども、風はまったくやまず、ますます吹きすさび、波も高くなって危険なほどになった。すると舵取りがまたこう言った——「幣では神の御心に届かぬので、船も進まぬのです。",
+        "translation-en-natural": "Even after offering the cloth, the wind wouldn’t stop—it just blew harder and the waves grew rougher. Then the helmsman said again, 'The sacred offering hasn't reached the god’s heart, so the boat won't move.'"
+      },
+      {
+        "date": "20250520",
+        "id": 385,
+        "text": "猶うれしと思ひたぶべき物たいまつりたべ」といふ。",
+        "kana": "なおうれしと思ひたぶべきものたいまつりたべ」といふ。",
+        "translation-ja": "なお、神がうれしいとお思いになるにふさわしいものを奉りなさい」と言う。",
+        "translation-en": "\"Then, offer something that the deity would gladly receive,\" he says.",
+        "translation-ja-natural": "「もっと神様がお喜びになるようなものをお供えしなさい」と言った。",
+        "translation-en-natural": "\"Offer something that would truly please the deity,\" he said."
       }
     ]
   }
