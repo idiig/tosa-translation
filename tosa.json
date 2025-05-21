@@ -4031,6 +4031,16 @@
         "translation-en": "Therefore, as the sea suddenly turned into something like a mirror,  a poem a certain person composed is:",
         "translation-ja-natural": "それで、思いがけず海が鏡のように静まり返ったので、ある人が詠んだ歌は、",
         "translation-en-natural": "Then, quite unexpectedly, the sea became still like a mirror, and a poem someone composed is:"
+      },
+      {
+        "date": "20250520",
+        "id": 389,
+        "poem": "ちはやぶる/神のこゝろの/あるゝ海に/鏡を入れて/かつ見つるかな",
+        "kana": "ちはやぶるかみのこころのあるうみにかがみをいれてかつみつるかな",
+        "translation-ja": "千早振る神の心の荒れる海に鏡を入れて、また見たのだなあ。",
+        "translation-en": "Into the raging sea, the heart of the mighty god, I placed a mirror and then saw it.",
+        "translation-ja-natural": "激しい神の心が宿る荒れる海に鏡を入れて、また見たのだなあ。",
+        "translation-en-natural": "I placed a mirror into the raging sea where the mighty god’s spirit dwells, and then saw it."
       }
     ]
   }
