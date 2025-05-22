@@ -4131,6 +4131,26 @@
         "translation-en": "Among them, the ship lord, troubled in heart, was deeply moved and said, 'It is surely not like the seasick face, is it!'",
         "translation-ja-natural": "心を悩ませていた船君が、しみじみ感動して、『船酔いしていたはずの顔とはまるで違うものだなあ』と言ったのである。",
         "translation-en-natural": "The ship lord, though troubled in spirit, was deeply moved and said, 'It surely doesn't resemble the face of someone who must have been seasick!'"
+      },
+      {
+        "date": "20250522",
+        "id": 399,
+        "text": "七日、けふは川尻に船入り立ちて漕ぎのぼるに、川の水ひて惱みわづらふ。",
+        "kana": "なぬか、けふはかはじりにふねいりたちてこぎのぼるに、かはのみづひてなやみわづらふ。",
+        "translation-ja": "七日、今日は川尻に船を入れて出発し、漕いで上ると、川の水が引いて難儀してしまった。",
+        "translation-en": "On the seventh day, today, we launched the boat at the river mouth and began rowing upstream, but the river's water had receded and we were troubled.",
+        "translation-ja-natural": "七日、今日は川尻から船を出して上流に漕ぎ出したが、水が引いて難儀した。",
+        "translation-en-natural": "On the seventh day, we launched the boat at the river mouth and rowed upstream, but the water had receded and we ran into trouble."
+      },
+      {
+        "date": "20250522",
+        "id": 400,
+        "text": "船ののぼることいと難し。",
+        "kana": "ふねののぼることいとなし。",
+        "translation-ja": "船が上るのは、非常に難しい。",
+        "translation-en": "It is very difficult for the boat to go upstream.",
+        "translation-ja-natural": "船が上るのは本当に大変だ。",
+        "translation-en-natural": "It's really hard for the boat to make its way upstream."
       }
     ]
   }
