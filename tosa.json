@@ -4033,7 +4033,7 @@
         "translation-en-natural": "Then, quite unexpectedly, the sea became still like a mirror, and a poem someone composed is:"
       },
       {
-        "date": "20250520",
+        "date": "20250521",
         "id": 389,
         "poem": "ちはやぶる/神のこゝろの/あるゝ海に/鏡を入れて/かつ見つるかな",
         "kana": "ちはやぶるかみのこころのあるうみにかがみをいれてかつみつるかな",
@@ -4041,6 +4041,26 @@
         "translation-en": "Into the raging sea, the heart of the mighty god, I placed a mirror and then saw it.",
         "translation-ja-natural": "激しい神の心が宿る荒れる海に鏡を入れて、また見たのだなあ。",
         "translation-en-natural": "I placed a mirror into the raging sea where the mighty god’s spirit dwells, and then saw it."
+      },
+      {
+        "date": "20250522",
+        "id": 390,
+        "text": "いたく住の江の忘草、岸の姫松などいふ神にはあらずかし。",
+        "kana": "いたくすみのゑのわすれぐさ、きしのひめまつなどいふ神にはあらずかし。",
+        "translation-ja": "たいそう住の江の忘れ草や岸の姫松などという神ではないのだなあ。",
+        "translation-en": "It is certainly not a deity called Wasuregusa of Suminoe or Hime Matsu of the shore.",
+        "translation-ja-natural": "この神さまは、住の江の忘れ草や岸の姫松といった雅な神とは違うんだなあ。",
+        "translation-en-natural": "This is clearly not one of those refined deities like the Wasuregusa of Suminoe or the Princess Pine by the shore."
+      },
+      {
+        "date": "20250522",
+        "id": 391,
+        "text": "目もうつらうつら鏡に神の心をこそは見つれ。",
+        "kana": "めもうつらうつらかがみにかみのこころをこそはみつれ。",
+        "translation-ja": "まのあたりはっきりと、鏡に神の心を見たのだった。",
+        "translation-en": "I clearly saw the heart of the god in the mirror — that is what I truly saw!",
+        "translation-ja-natural": "この目でたしかに、鏡に神の心を見たのです！",
+        "translation-en-natural": "With my very eyes, I truly saw the heart of the god in that mirror!"
       }
     ]
   }
