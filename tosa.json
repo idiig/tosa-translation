@@ -4061,6 +4061,26 @@
         "translation-en": "I clearly saw the heart of the god in the mirror — that is what I truly saw!",
         "translation-ja-natural": "この目でたしかに、鏡に神の心を見たのです！",
         "translation-en-natural": "With my very eyes, I truly saw the heart of the god in that mirror!"
+      },
+      {
+        "date": "20250522",
+        "id": 392,
+        "text": "楫取の心は神の御心なりけり。",
+        "kana": "かぢとりのこころはかみのみごろなりけり。",
+        "translation-ja": "楫取の心は神の御心であったのだ！",
+        "translation-en": "The heart of the helmsman was, indeed, the heart of the god!",
+        "translation-ja-natural": "舵取りの心は、まさに神の心だったのだ。",
+        "translation-en-natural": "The helmsman's heart was truly the will of the god."
+      },
+      {
+        "date": "20250522",
+        "id": 393,
+        "text": "六日、澪標のもとより出でゝ難波につきて河尻に入る。",
+        "kana": "むいか、みをつくしのもとよりいでてなにわにつきてかはじりにはいる。",
+        "translation-ja": "六日、澪標のもとから出て、難波に着いて、河尻に入る。",
+        "translation-en": "On the sixth day, departing from the base of the Miotsukushi, I arrive at Naniwa and enter the river mouth.",
+        "translation-ja-natural": "六日、澪標のあたりから出発して、難波に着き、河の河口へと入っていく。",
+        "translation-en-natural": "On the sixth day, I set off from around the Miozuku and, after reaching Naniwa, entered the river mouth."
       }
     ]
   }
