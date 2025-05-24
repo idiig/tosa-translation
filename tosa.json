@@ -4231,6 +4231,26 @@
         "translation-en": "This poem must have been said because of an inability to contain the joy of nearing the capital.",
         "translation-ja-natural": "この歌は、都が近くなった嬉しさを抑えきれずに詠んだものなのだろう。",
         "translation-en-natural": "This poem was probably composed out of the uncontrollable joy of nearing the capital."
+      },
+      {
+        "date": "20250525",
+        "id": 409,
+        "text": "淡路の御の歌におとれり。",
+        "kana": "あはじのごのうたにおとれり。",
+        "translation-ja": "淡路の御の歌に劣っている。",
+        "translation-en": "It is inferior to the song of the Awaji lady.",
+        "translation-ja-natural": "淡路の老女の歌に負けている。",
+        "translation-en-natural": "It falls short compared to the song of the old woman from Awaji."
+      },
+      {
+        "date": "20250525",
+        "id": 410,
+        "text": "ねたき、いはざらましものをとくやしがるうちによるになりて寢にけり。",
+        "kana": "ねたき、いはざらましものをとくやしがるうちによるになりてねにけり。",
+        "translation-ja": "「いまいましい、言わなければよかったのに」と悔しがっているうちに、夜になり、寝てしまった。",
+        "translation-en": "Lamenting, 'How frustrating! I should not have said it,' and while doing so, night fell and I went to sleep.",
+        "translation-ja-natural": "「悔しい、言わなければよかったのに」と悔しがっているうちに、夜になり、寝てしまった。",
+        "translation-en-natural": "'How frustrating! I shouldn't have said that,' I kept lamenting, and before I knew it, night fell and I went to sleep."
       }
     ]
   }
