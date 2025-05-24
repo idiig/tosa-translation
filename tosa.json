@@ -4151,6 +4151,16 @@
         "translation-en": "It is very difficult for the boat to go upstream.",
         "translation-ja-natural": "船が上るのは本当に大変だ。",
         "translation-en-natural": "It's really hard for the boat to make its way upstream."
+      },
+      {
+        "date": "20250523",
+        "id": 401,
+        "text": "かゝる間に船君の病者もとよりこちごちしき人にて、かうやうの事更に知らざりけり。",
+        "kana": "かかるあひだにふなぎみのぼうざもとよりこちごちしきひとにて、かうやうのことさらにしらざりけり。",
+        "translation-ja": "こうしている間に、船君という人は病人で、もともと無風流な人だったので、このようなことはまったく知らなかった。",
+        "translation-en": "While this was going on, the ship lord was a sick man, and since he was originally a dull, unrefined person, he did not know such matters at all.",
+        "translation-ja-natural": "そんなことをしている間、船君は病人で、もともと無趣味な人だったので、そういうことには全然気づかなかったのです。",
+        "translation-en-natural": "While all this was happening, the ship captain, being a sickly and rather unrefined man, had no awareness of such things at all."
       }
     ]
   }
