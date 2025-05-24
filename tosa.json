@@ -4211,6 +4211,16 @@
         "translation-en": "Since one poem was not satisfying, here is another,",
         "translation-ja-natural": "一首では物足りなかったので、もう一首詠んだのだろう。",
         "translation-en-natural": "Since one poem wasn't enough, they composed another."
+      },
+      {
+        "date": "20250524",
+        "id": 407,
+        "poem": "とくと思ふ/船なやますは/我がために/水のこゝろの/あさきなりけり",
+        "kana": "とくと思ふ/ふねなやますは/わがために/みづのこころの/あさきなりけり",
+        "translation-ja": "早くと思う、船を悩ますのは、私のためで、水の心が浅いからである。",
+        "translation-en": "I think 'quickly'; what troubles the boat is because of me, for the water's heart is shallow.",
+        "translation-ja-natural": "早くと思って、船を悩ませているのは、私のせいで、水の状態が浅いからだったのだ。",
+        "translation-en-natural": "I think 'quickly'; what troubles the boat is because of me, for the water's nature is shallow."
       }
     ]
   }
