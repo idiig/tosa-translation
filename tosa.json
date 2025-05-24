@@ -4201,6 +4201,16 @@
         "translation-en": "This must have been composed because of the illness.",
         "translation-ja-natural": "これは、病気をしたから詠んだものなのだろう。",
         "translation-en-natural": "This was probably composed because of the illness."
+      },
+      {
+        "date": "20250524",
+        "id": 406,
+        "text": "ひとうたにことの飽かねば今ひとつ、",
+        "kana": "ひとうたにことのあかねばいまひとつ、",
+        "translation-ja": "一首では満足しなかったので、もう一つ、",
+        "translation-en": "Since one poem was not satisfying, here is another,",
+        "translation-ja-natural": "一首では物足りなかったので、もう一首詠んだのだろう。",
+        "translation-en-natural": "Since one poem wasn't enough, they composed another."
       }
     ]
   }
