@@ -4171,6 +4171,26 @@
         "translation-en": "However, being moved by the song of the old woman of Awaji Island, perhaps because we were near the capital, we barely managed to produce a strange song.",
         "translation-ja-natural": "それでも淡路島の老女の歌に感心し、都が近づいてきたせいもあるのか、なんとか不思議な歌をひねり出したのです。",
         "translation-en-natural": "Even so, moved by the old woman's song from Awaji Island, perhaps because we were nearing the capital, they somehow managed to come up with a strange song."
+      },
+      {
+        "date": "20250524",
+        "id": 403,
+        "text": "そのうたは、",
+        "kana": "そのうたは、",
+        "translation-ja": "その歌は、",
+        "translation-en": "The song was,",
+        "translation-ja-natural": "その歌は、",
+        "translation-en-natural": "The song was,"
+      },
+      {
+        "date": "20250524",
+        "id": 404,
+        "poem": "きときては/川のほりえの/水をあさみ/船も我が身も/なづむけふかな",
+        "kana": "きときては/かわのほりえの/みづをあさみ/ふねもわがみも/なづむけふかな",
+        "translation-ja": "やっと来たが、川の堀江の水が浅いため、船も我が身も停滞する、今日だなあ。",
+        "translation-en": "Having finally come, because the water in the river's channel is shallow, both the boat and I are bogged down today.",
+        "translation-ja-natural": "やっとの思いでたどり着いたが、川の堀江の水が浅いため、船も私自身も進まず、もたつく今日だなあ。",
+        "translation-en-natural": "Having finally arrived, the river's channel is so shallow that both the boat and I are stuck, struggling through the day."
       }
     ]
   }
