@@ -4191,6 +4191,16 @@
         "translation-en": "Having finally come, because the water in the river's channel is shallow, both the boat and I are bogged down today.",
         "translation-ja-natural": "やっとの思いでたどり着いたが、川の堀江の水が浅いため、船も私自身も進まず、もたつく今日だなあ。",
         "translation-en-natural": "Having finally arrived, the river's channel is so shallow that both the boat and I are stuck, struggling through the day."
+      },
+      {
+        "date": "20250524",
+        "id": 405,
+        "text": "これは病をすればよめるなるべし。",
+        "kana": "これはやまひをすればよめるなるべし。",
+        "translation-ja": "これは病をしたから、詠んだのだろう。",
+        "translation-en": "This must have been composed because of the illness.",
+        "translation-ja-natural": "これは、病気をしたから詠んだものなのだろう。",
+        "translation-en-natural": "This was probably composed because of the illness."
       }
     ]
   }
