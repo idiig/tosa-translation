@@ -4301,6 +4301,36 @@
         "translation-en": "The men secretly say, 'Brought dried rice.'",
         "translation-ja-natural": "男たちは、ひそひそと言い合った。「結局、干し飯で返礼しただけだな。」",
         "translation-en-natural": "The men whispered among themselves, 'In the end, he just gave back some dried rice.'"
+      },
+      {
+        "date": "20250525",
+        "id": 415,
+        "text": "かうやうの事所々にあり。",
+        "kana": "かうやうのことところどころにあり。",
+        "translation-ja": "このようなことは、あちこちにある。",
+        "translation-en": "Such things exist here and there.",
+        "translation-ja-natural": "こういうことは、あちこちにある。",
+        "translation-en-natural": "Things like this can be found everywhere."
+      },
+      {
+        "date": "20250525",
+        "id": 415,
+        "text": "今日節みすればいをもちゐず。",
+        "kana": "けふせちみすればいをもちゐず。",
+        "translation-ja": "今日は、節忌なので、魚を用いない。",
+        "translation-en": "Today, since it is a seasonal observance, (we) do not use fish.",
+        "translation-ja-natural": "今日は節の日なので、魚はいらない。",
+        "translation-en-natural": "Today is a seasonal festival day, so we do not need fish."
+      },
+      {
+        "date": "20250525",
+        "id": 415,
+        "text": "九日、心もとなさに明けぬから船をひきつゝのぼれども川の水なければゐざりにのみゐざる。",
+        "kana": "ここのか、こころもとなさにあけぬからふねをひきつゝのぼれどもかわのみずなければゐざりにのみゐざる。",
+        "translation-ja": "九日、心もとないので、夜が明けないうちから船を引き上げて進もうとしたが、川の水がないので、ずり進むことさえできなかった。",
+        "translation-en": "On the ninth day, feeling uneasy, we tried to pull the boat up and advance before dawn, but without water in the river, we could not even inch forward.",
+        "translation-ja-natural": "九日、心細さから夜明け前に船を引いて進もうとしたが、川に水がなく、ずりずり進むことすらできなかった。",
+        "translation-en-natural": "On the ninth day, anxious, we tried to drag the boat forward before dawn, but the river was dry, and we couldn’t even inch forward."
       }
     ]
   }
