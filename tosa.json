@@ -4251,6 +4251,56 @@
         "translation-en": "Lamenting, 'How frustrating! I should not have said it,' and while doing so, night fell and I went to sleep.",
         "translation-ja-natural": "「悔しい、言わなければよかったのに」と悔しがっているうちに、夜になり、寝てしまった。",
         "translation-en-natural": "'How frustrating! I shouldn't have said that,' I kept lamenting, and before I knew it, night fell and I went to sleep."
+      },
+      {
+        "date": "20250525",
+        "id": 411,
+        "text": "八日、なほ川のほとりになづみて、鳥養の御牧といふほとりにとまる。",
+        "kana": "ようか、なほかわのほとりになづみて、とりかひのみまさというほとりにとまる。",
+        "translation-ja": "八日。やはり川の岸辺で難渋して、鳥飼の御牧というあたりに泊まる。",
+        "translation-en": "On the eighth day, still stuck at the riverside, we stayed at a place called Tori-kai no Mimaki.",
+        "translation-ja-natural": "八日。やはり川岸で苦労し、鳥飼の御牧というあたりに泊まった。",
+        "translation-en-natural": "On the eighth day, still struggling by the riverbank, we stayed at a place called Tori-kai no Mimaki."
+      },
+      {
+        "date": "20250525",
+        "id": 412,
+        "text": "こよひ船君例の病起りていたく惱む。",
+        "kana": "こよひふなぎみれいのやまひおこりていたくなやむ。",
+        "translation-ja": "今夜、船君はいつもの病が起こり、たいそう苦しんでいる。",
+        "translation-en": "Tonight, the boatman is suffering greatly from his usual illness.",
+        "translation-ja-natural": "今夜、船君は例の持病が起きて、ひどく苦しんでいる。",
+        "translation-en-natural": "Tonight, the boat master is severely suffering from his usual illness."
+      },
+      {
+        "date": "20250525",
+        "id": 412,
+        "text": "ある人あさらかなる物もてきたり。",
+        "kana": "あるひとあさらかなるものもてきたり。",
+        "translation-ja": "ある人が、新鮮なものを持ってきた。",
+        "translation-en": "A certain person brought something fresh.",
+        "translation-ja-natural": "ある人が、新鮮な魚を持ってきた。",
+        "translation-en-natural": "Someone brought fresh fish."
+      },
+      {
+        "date": "20250525",
+        "id": 413,
+        "text": "よねしてかへりごとす。",
+        "kana": "よねしてかへりごとす。",
+        "translation-ja": "米をして、返礼する。",
+        "translation-en": "I will return the favor with rice.",
+        "translation-ja-natural": "米を以って、返礼する。",
+        "translation-en-natural": "I will reciprocate with rice."
+      },
+      {
+        "date": "20250525",
+        "id": 414,
+        "text": "男ども密にいふなり「いひぼしてもてる」とや。",
+        "kana": "おとこどもひそかにいうなり「いひぼしてもてる」とや。",
+        "translation-ja": "男たちは、密かに言う。「飯を干して持ってきた」と。",
+        "translation-en": "The men secretly say, 'Brought dried rice.'",
+        "translation-ja-natural": "男たちは、ひそひそと言い合った。「結局、干し飯で返礼しただけだな。」",
+        "translation-en-natural": "The men whispered among themselves, 'In the end, he just gave back some dried rice.'"
       }
     ]
   }
