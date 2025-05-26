@@ -4489,6 +4489,26 @@
         "translation-en": "Among those who ascended in this way, when they came down from the capital, they were all children.",
         "translation-ja-natural": "こうして登る人々の中には、京から下ってきた頃、みんなまだ子どもだった人たちがいる。",
         "translation-en-natural": "Among those now ascending, there are people who, when they once came down from the capital, were all just children."
+      },
+      {
+        "date": "20250527",
+        "id": 431,
+        "text": "いたれりし國にてぞ子生める者どもありあへる。",
+        "kana": "いたれりしくににてぞこうめるものどもありあへる。",
+        "translation-ja": "行った先の国でこそ、子どもを生んだ者たちがいた。",
+        "translation-en": "It was in the land they reached that there were those who had given birth to children.",
+        "translation-ja-natural": "たどり着いた国で、子どもを産んだ人たちがいた。",
+        "translation-en-natural": "In the land they had arrived at, there were people who had given birth to children."
+      },
+      {
+        "date": "20250527",
+        "id": 432,
+        "text": "みな人船のとまる所に子を抱きつゝおりのりす。",
+        "kana": "みなひとふねのとまるところにこをだきつゝおりのりす。",
+        "translation-ja": "皆、人は船の止まる所に子どもを抱きつつ降り乗りする。",
+        "translation-en": "All the people disembark and embark while holding their children at the place where the boat stops.",
+        "translation-ja-natural": "みんなは船が止まる場所で、子どもを抱きながら降りたり乗ったりしていた。",
+        "translation-en-natural": "Everyone was getting on and off the boat while holding their children at the place where it stopped."
       }
     ]
   }
