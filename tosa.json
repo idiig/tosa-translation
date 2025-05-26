@@ -4431,6 +4431,26 @@
         "translation-en": "It was the place where the poem was composed.",
         "translation-ja-natural": "つまり、この歌を詠んだ場所だったのだ。",
         "translation-en-natural": "In other words, this was the place where that poem had been composed."
+      },
+      {
+        "date": "20250526",
+        "id": 425,
+        "text": "今興ある人所に似たる歌よめり、",
+        "kana": "いまきやうあるひとところににたるうたよめり、",
+        "translation-ja": "今、興のある人が、所に似た歌を詠んだ。",
+        "translation-en": "In recent times, a person of refined taste composed a poem resembling this place.",
+        "translation-ja-natural": "最近、趣のある人が、この場所にちなんだ歌を詠んだ。",
+        "translation-en-natural": "Recently, a person of refined taste composed a poem inspired by this place."
+      },
+      {
+        "date": "20250526",
+        "id": 426,
+        "text": "千代へたる/松にはあれど/いにしへの/聲の寒さは/かはらざりけり",
+        "kana": "ちよへたるまつにはあれどいにしへのこゑのさむさはかはらざりけり",
+        "translation-ja": "千年を経た松はあるが、昔の声の寒さは変わらなかった。",
+        "translation-en": "Though the pine trees have endured for a thousand years, the chill of the ancient voices has not changed.",
+        "translation-ja-natural": "千年を経た松は今もあるが、昔の声の寒さだけは変わらなかった。",
+        "translation-en-natural": "Though the pine trees have stood for a thousand years, the chill of ancient voices has remained unchanged."
       }
     ]
   }
