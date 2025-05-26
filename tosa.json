@@ -4459,6 +4459,36 @@
         "kana": "またあるひとのよめる、",
         "translation-ja": "また、ある人が詠んだ歌は、",
         "translation-en": "And a poem another person composed is,"
+      },
+      {
+        "date": "20250526",
+        "id": 428,
+        "poem": "君戀ひて/世をふる宿の/うめの花/むかしの香に/ぞなほにほひける",
+        "kana": "きみこひてよをふるやどのうめのはな/むかしのかにぞ/なほにほひける",
+        "translation-ja": "君を恋い慕って、世を経る宿の梅の花は、昔の香に、なお匂っている。",
+        "translation-en": "Longing for you, the plum blossoms of the inn that has endured through the ages still smell with the fragrance of the past.",
+        "translation-ja-natural": "君を恋い慕い、長い年月を過ごした宿の梅の花は、昔の香りを今なお放っている。",
+        "translation-en-natural": "Longing for you, the plum blossoms at the old inn still give off the same fragrance of the past."
+      },
+      {
+        "date": "20250526",
+        "id": 429,
+        "text": "といひつゝぞ都のちかづくを悦びつゝのぼる。",
+        "kana": "といひつゝぞみやこのちかづくをよろこびつゝのぼる。",
+        "translation-ja": "そう言いながら、都に近づくのを喜びつつ、登る。",
+        "translation-en": "Saying this, they ascend while rejoicing at the approach of the capital.",
+        "translation-ja-natural": "そう言いながら、都が近づくのを喜び、登っていく。",
+        "translation-en-natural": "Saying this, they climb on, rejoicing as they near the capital."
+      },
+      {
+        "date": "20250526",
+        "id": 430,
+        "text": "かくのぼる人々のなかに京よりくだりし時に、皆人子どもなかりき。",
+        "kana": "かくのぼるひとびとのなかにきやうよりくだりしときに、みなひとこどもなかりき。",
+        "translation-ja": "こうして登る人々の中に、京から下りてきた時には、皆、子どもだった。",
+        "translation-en": "Among those who ascended in this way, when they came down from the capital, they were all children.",
+        "translation-ja-natural": "こうして登る人々の中には、京から下ってきた頃、みんなまだ子どもだった人たちがいる。",
+        "translation-en-natural": "Among those now ascending, there are people who, when they once came down from the capital, were all just children."
       }
     ]
   }
