@@ -4401,6 +4401,36 @@
         "translation-en": "Here, people say, 'This is a place that was heard of as famous in the past.'",
         "translation-ja-natural": "ここは昔、有名だったところだ。",
         "translation-en-natural": "This was a famous place in the past."
+      },
+      {
+        "date": "20250526",
+        "id": 422,
+        "text": "故惟喬のみこのおほん供に故在原の業平の中將の",
+        "kana": "ここれたかのみこのおほむどもくにこありはらのなりひらのちやうぜうの",
+        "translation-ja": "故惟喬親王のお供に、故在原業平中将が、",
+        "translation-en": "The late Prince Koretaka, accompanied by the late Narihira no Chujo,",
+        "translation-ja-natural": "故惟喬親王にお供していた、故在原業平の中将が、",
+        "translation-en-natural": "The late Narihira no Chujo who accompanied the late Prince Koretaka,"
+      },
+      {
+        "date": "20250526",
+        "id": 423,
+        "poem": "世の中に/絶えて櫻の/さかざらは/春のこゝろは/のどけからまし",
+        "kana": "よのなかにたえてさくらのさかざらははるのこころはのどけからまし",
+        "translation-ja": "世の中に、桜が咲かなければ、春の心は、のどかであっただろうに。",
+        "translation-en": "If cherry blossoms did not bloom in this world, the heart of spring would have been peaceful.",
+        "translation-ja-natural": "もし世の中に桜が咲かなかったなら、春の心はきっとのどかだったろうに。",
+        "translation-en-natural": "If cherry blossoms had not bloomed in this world, spring's heart would surely have been calm."
+      },
+      {
+        "date": "20250526",
+        "id": 424,
+        "text": "といふ歌よめる所なりけり。",
+        "kana": "といふうたよめるところなりけり。",
+        "translation-ja": "という歌を詠んだ所であった。",
+        "translation-en": "It was the place where the poem was composed.",
+        "translation-ja-natural": "つまり、この歌を詠んだ場所だったのだ。",
+        "translation-en-natural": "In other words, this was the place where that poem had been composed."
       }
     ]
   }
