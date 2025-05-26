@@ -4451,6 +4451,14 @@
         "translation-en": "Though the pine trees have endured for a thousand years, the chill of the ancient voices has not changed.",
         "translation-ja-natural": "千年を経た松は今もあるが、昔の声の寒さだけは変わらなかった。",
         "translation-en-natural": "Though the pine trees have stood for a thousand years, the chill of ancient voices has remained unchanged."
+      },
+      {
+        "date": "20250526",
+        "id": 427,
+        "text": "又ある人のよめる、",
+        "kana": "またあるひとのよめる、",
+        "translation-ja": "また、ある人が詠んだ歌は、",
+        "translation-en": "And a poem another person composed is,"
       }
     ]
   }
