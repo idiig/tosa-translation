@@ -4519,6 +4519,36 @@
         "translation-en": "Seeing this, the mother of the child of long ago could not bear the sorrow,",
         "translation-ja-natural": "これを見て、昔の子の母は悲しみに堪えきれず、",
         "translation-en-natural": "Seeing this, the mother of her child from long ago could not endure the sorrow,"
+      },
+      {
+        "date": "20250527",
+        "id": 434,
+        "poem": "なかりしもありつゝ歸る人の子をありしもなくてくるが悲しさ",
+        "kana": "なかりしもありつゝかへるひとのこをありしもなくてくるがかなしさ",
+        "translation-ja": "いなくとも、いて帰る人の子を、いたのに、いなくて帰るのが悲しい。",
+        "translation-en": "Though absent, now present when returning; though present, now gone — returning is sad.",
+        "translation-ja-natural": "いなかった子が生れていっしょに帰る人もいれば、いたのにいなくなって帰る人もいて、それが悲しい。",
+        "translation-en-natural": "Some return with a child who was not there before, while others return having lost the child they once had — and that is heartbreaking."
+      },
+      {
+        "date": "20250527",
+        "id": 434,
+        "text": "といひてぞ泣きける。",
+        "kana": "といひてぞなきける。",
+        "translation-ja": "と言って、泣いた。",
+        "translation-en": "Saying this, she cried.",
+        "translation-ja-natural": "そう言って、泣いた。",
+        "translation-en-natural": "Saying this, she cried."
+      },
+      {
+        "date": "20250527",
+        "id": 435,
+        "text": "父もこれを聞きていかゞあらむ。",
+        "kana": "ちちもこれをききていかゞあらむ。",
+        "translation-ja": "父もこれを聞いて、どんな思いでいるだろうか。",
+        "translation-en": "The father too, hearing this, must be wondering how he feels.",
+        "translation-ja-natural": "父もこれを聞いて、どんな思いでいるのだろうか。",
+        "translation-en-natural": "The father too, hearing this, must be wondering how he feels."
       }
     ]
   }
