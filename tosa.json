@@ -4549,6 +4549,56 @@
         "translation-en": "The father too, hearing this, must be wondering how he feels.",
         "translation-ja-natural": "父もこれを聞いて、どんな思いでいるのだろうか。",
         "translation-en-natural": "The father too, hearing this, must be wondering how he feels."
+      },
+      {
+        "date": "20250527",
+        "id": 435,
+        "text": "かうやうの事ども歌もこのむとてあるにもあらざるべし。",
+        "kana": "かうやうのことどもうたもこのむとてあるにもあらざるべし。",
+        "translation-ja": "こういう事などは、歌も好むと言っても、あるはずがない。",
+        "translation-en": "Such things, even saying they like songs, should not exist.",
+        "translation-ja-natural": "こういうことは、いくら歌が好きだと言ったところで、あるはずがないだろう。",
+        "translation-en-natural": "Such things, no matter how much they claim to love songs, should not exist."
+      },
+      {
+        "date": "20250528",
+        "id": 436,
+        "text": "もろこしもこゝも思ふことに堪へぬ時のわざとか。",
+        "kana": "もろこしもここもおもふことにたへぬときのわざとか。",
+        "translation-ja": "もろこしもここも、思うことに耐えられないときに起こる衝動なのだろうか。",
+        "translation-en": "Is it the impulse that arises both in morokoshi and here when one cannot bear their thoughts?",
+        "translation-ja-natural": "もろこしでもここでも、耐えきれない思いを抱えたとき、人は同じように抑えきれない衝動に駆られるのだろうか。",
+        "translation-en-natural": "Whether in morokoshi or here, is it that when people can no longer bear their feelings, they are all driven by the same uncontrollable impulse?"
+      },
+      {
+        "date": "20250528",
+        "id": 436,
+        "text": "こよひ宇土野といふ所にとまる。",
+        "kana": "こよいうどのといふところにとまる。",
+        "translation-ja": "今夜、宇土野という所に泊まる。",
+        "translation-en": "Tonight, stay at a place called Udono.",
+        "translation-ja-natural": "今夜は宇土野という場所に泊まることになった。",
+        "translation-en-natural": "Tonight, we stayed at a place called Udono."
+      },
+      {
+        "date": "20250528",
+        "id": 437,
+        "text": "十日、さはることありてのぼらず。",
+        "kana": "とおか、さはることありてのぼらず。",
+        "translation-ja": "十日、妨げになることがあって、上らない。",
+        "translation-en": "On the tenth day, there was a hindrance, did not go up.",
+        "translation-ja-natural": "十日、いろいろあって、船は上らない。",
+        "translation-en-natural": "On the tenth day, for various reasons, the boat still did not move on."
+      },
+      {
+        "date": "20250528",
+        "id": 438,
+        "text": "十一日、雨いさゝか降りてやみぬ。",
+        "kana": "じゅういちにち、あめいさゝかふりてやみぬ。",
+        "translation-ja": "十一日、雨が少し降って止んだ。",
+        "translation-en": "On the eleventh day, it rained a little and then stopped.",
+        "translation-ja-natural": "十一日、雨が少し降って、やんだ。",
+        "translation-en-natural": "On the eleventh day, it rained a little and then stopped.."
       }
     ]
   }
