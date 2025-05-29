@@ -4849,6 +4849,86 @@
         "translation-en": "Thinking to enter the capital at night, the moon rose before I was even hurrying.",
         "translation-ja-natural": "夜になって京に入ろうと思っていると、急ぐわけでもないうちに月がもう出てしまった。",
         "translation-en-natural": "While thinking I would enter the capital at night, before I was even in a hurry, the moon had already risen."
+      },
+      {
+        "date": "20250529",
+        "id": 463,
+        "text": "桂川月あかきにぞわたる。",
+        "kana": "かつらがはつきあかきにぞわたる。",
+        "translation-ja": "桂川を、月が明るい中で渡る。",
+        "translation-en": "The Katsura River is crossed under the bright moonlight.",
+        "translation-ja-natural": "月の明るい桂川を渡っていく。",
+        "translation-en-natural": "Crossing the Katsura River under the bright moonlight."
+      },
+      {
+        "date": "20250529",
+        "id": 464,
+        "text": "人々のいはく「この川飛鳥川にあらねば、淵瀬更にかはらざりけり」といひてある人のよめる歌、",
+        "kana": "ひとびとのいはく「このかはあすかがはにあらねば、ふちせさらにかはらざりけり」といひてあるひとのよめるうた、",
+        "translation-ja": "人々が言うには、「この川は飛鳥川ではないので、淵や瀬はまったく変わらなかった」と言って、ある人が詠んだ歌、",
+        "translation-en": "People say, 'Since this river is not the Asuka River, its depths and shallows have not changed at all,' and a person who said this composed a poem:",
+        "translation-ja-natural": "人々は『この川は飛鳥川ではないので、淵や瀬はまったく変わらなかった』と言い、それを受けてある人が詠んだ歌、",
+        "translation-en-natural": "People said, 'Since this river is not the Asuka River, its depths and shallows have not changed at all,' and a certain person composed a poem about this."
+      },
+      {
+        "date": "20250529",
+        "id": 465,
+        "poem": "ひさかたの/月におひたる/かつら川/そこなる影も/かはらざりけり",
+        "kana": "ひさかたの/つきにおひたる/かつらがは/そこなるかげも/かはらざりけり",
+        "translation-ja": "久遠の月に照らされている桂川、その底にある影さえも変わらなかった。",
+        "translation-en": "The Katsura River, illuminated by the eternal moon, even the shadow at its bottom did not change.",
+        "translation-ja-natural": "久遠の月に照らされる桂川、その川底に映る影さえも変わらなかったのだ。",
+        "translation-en-natural": "The Katsura River, bathed in the eternal moonlight, even the shadow at its bottom had not changed."
+      },
+      {
+        "date": "20250529",
+        "id": 466,
+        "text": "又ある人のいへる、",
+        "kana": "またあるひとのいへる、",
+        "translation-ja": "また、ある人が言ったことには、",
+        "translation-en": "Another person said,",
+        "translation-ja-natural": "また、ある人が言うには、",
+        "translation-en-natural": "Another person said,"
+      },
+      {
+        "date": "20250529",
+        "id": 467,
+        "poem": "あまぐもの/はるかなりつる/桂川/そでをひでゝも/わたりぬるかな",
+        "kana": "あまぐもの/はるかなりつる/かつらがは/そでをひでゝも/わたりぬるかな",
+        "translation-ja": "天の雲が遥かにかかっていた桂川を、袖を濡らしてでも渡ってしまったなあ。",
+        "translation-en": "The Katsura River, over which the heavenly clouds stretched far, I crossed even though my sleeves were wet.",
+        "translation-ja-natural": "天の雲が遥かにかかっていた桂川を、袖を濡らしながらも渡ってしまったのだなあ。",
+        "translation-en-natural": "The Katsura River, stretching far under the heavenly clouds — I ended up crossing it even with wet sleeves."
+      },
+      {
+        "date": "20250529",
+        "id": 468,
+        "text": "又ある人よめる、",
+        "kana": "またあるひとよめる、",
+        "translation-ja": "また、ある人が詠んだのは、",
+        "translation-en": "A poem another person composed:",
+        "translation-ja-natural": "また、ある人が詠んだ歌は、",
+        "translation-en-natural": "Another person composed the following poem:"
+      },
+      {
+        "date": "20250529",
+        "id": 469,
+        "poem": "桂川/わがこゝろにも/かよはねど/おなじふかさは/ながるべらなり",
+        "kana": "かつらがは/わがこころにも/かよはねど/おなじふかさは/ながるべらなり",
+        "translation-ja": "桂川は、私の心には通わないけれど、同じ深さで流れているようだ。",
+        "translation-en": "The Katsura River does not reach my heart, yet it seems to flow with the same depth.",
+        "translation-ja-natural": "桂川は私の心に通じるわけではないけれど、その深さは同じように流れているようだ。",
+        "translation-en-natural": "The Katsura River may not flow through my heart, yet it seems to flow with the same depth."
+      },
+      {
+        "date": "20250529",
+        "id": 470,
+        "text": "みやこのうれしきあまりに歌もあまりぞおほかる。",
+        "kana": "みやこのうれしきあまりにうたもあまりぞおほかる。",
+        "translation-ja": "都のうれしさのあまり、歌もまた多くなるのだ。",
+        "translation-en": "Because of the overwhelming joy of being in the capital, even the number of poems increases.",
+        "translation-ja-natural": "都のうれしさのあまり、歌もたくさん詠まれてしまうのだ。",
+        "translation-en-natural": "Because of the overwhelming joy in the capital, people end up composing many, many poems."
       }
     ]
   }
