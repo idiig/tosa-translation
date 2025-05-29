@@ -4789,6 +4789,66 @@
         "translation-en": "On the sixteenth day, in the evening today, I ascended to the capital. Along the way, when I looked, the painting of the small shrine at Yamazaki and the shape of the bent road remained unchanged.",
         "translation-ja-natural": "十六日、今日の夕方、京へ上る途中、ふと見てみると、山崎の小櫃の絵も曲がりくねった大路の形も、何も変わっていなかった。",
         "translation-en-natural": "On the sixteenth day, in the evening, as I ascended to the capital, I happened to look, and I saw that neither the painting of the small shrine at Yamazaki nor the shape of the winding main road had changed at all."
+      },
+      {
+        "date": "20250529",
+        "id": 457,
+        "text": "「賣る人の心をぞ知らぬ」とぞいふなる。",
+        "kana": "「よめるひとのこころをぞしらぬ」とぞいうなる。",
+        "translation-ja": "「売る人の心を知らない」と言うのだ。",
+        "translation-en": "It is said, 'I do not know the heart of the seller.'",
+        "translation-ja-natural": "『売る人の気持ちはわからないものだ』と言うのだそうだ。",
+        "translation-en-natural": "They say, 'One cannot know the heart of the seller.'"
+      },
+      {
+        "date": "20250529",
+        "id": 458,
+        "text": "かくて京へ行くに島坂にて人あるじしたり。",
+        "kana": "かくてきやうへいくにしまざかにてひとあるじしたり。",
+        "translation-ja": "こうして京へ行く途中、島坂で人がもてなしてくれた。",
+        "translation-en": "Thus, on the way to the capital, people hosted (us) at Shimazaka.",
+        "translation-ja-natural": "こうして京へ向かう途中、島坂で人々がもてなしてくれた。",
+        "translation-en-natural": "Thus, while heading toward the capital, people offered hospitality at Shimazaka."
+      },
+      {
+        "date": "20250529",
+        "id": 459,
+        "text": "必ずしもあるまじきわざなり。",
+        "kana": "かならずしもあるまじきわざなり。",
+        "translation-ja": "必ずしもあってはならないことではない。",
+        "translation-en": "It is not necessarily something that must not exist (i.e., it is not necessarily forbidden).",
+        "translation-ja-natural": "必ずしも禁じられるほどのことではない。",
+        "translation-en-natural": "It is not necessarily something that deserves to be forbidden."
+      },
+      {
+        "date": "20250529",
+        "id": 460,
+        "text": "立ちてゆきし時よりはくる時ぞ人はとかくありける。",
+        "kana": "たちてゆきしときよりはくるときぞひとはとかくありける。",
+        "translation-ja": "立って行った時よりも、帰ってくる時は、人はいろいろなことがあった。",
+        "translation-en": "Compared to the time when they left, at the time of return, people had gone through various things.",
+        "translation-ja-natural": "出発した時よりも、帰ってきた時には、人はさまざまなことがあったのだ。",
+        "translation-en-natural": "Compared to when they left, by the time they returned, people had gone through many things."
+      },
+      {
+        "date": "20250529",
+        "id": 461,
+        "text": "これにもかへりごとす。",
+        "kana": "これにもかへりごとす。",
+        "translation-ja": "これにも返礼をする。",
+        "translation-en": "(We) also return courtesies for this.",
+        "translation-ja-natural": "これにもお礼をする。",
+        "translation-en-natural": "We also offer thanks (or return courtesies) for this."
+      },
+      {
+        "date": "20250529",
+        "id": 462,
+        "text": "よるになして京にはいらむと思へば、急ぎしもせぬ程に月いでぬ。",
+        "kana": "よるになしてきやうにはいらむとおもへば、いそぎしもせぬほどにつきいでぬ。",
+        "translation-ja": "夜になって京に入ろうと思うと、急いでいるわけでもないうちに月が出てしまった。",
+        "translation-en": "Thinking to enter the capital at night, the moon rose before I was even hurrying.",
+        "translation-ja-natural": "夜になって京に入ろうと思っていると、急ぐわけでもないうちに月がもう出てしまった。",
+        "translation-en-natural": "While thinking I would enter the capital at night, before I was even in a hurry, the moon had already risen."
       }
     ]
   }
