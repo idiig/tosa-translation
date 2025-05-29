@@ -4929,6 +4929,26 @@
         "translation-en": "Because of the overwhelming joy of being in the capital, even the number of poems increases.",
         "translation-ja-natural": "都のうれしさのあまり、歌もたくさん詠まれてしまうのだ。",
         "translation-en-natural": "Because of the overwhelming joy in the capital, people end up composing many, many poems."
+      },
+      {
+        "date": "20250529",
+        "id": 471,
+        "text": "夜更けてくれば所々も見えず。",
+        "kana": "よふけてくればところどころもみえず。",
+        "translation-ja": "夜が更けてくると、あちこちも見えなくなる。",
+        "translation-en": "As night deepens, places here and there become invisible.",
+        "translation-ja-natural": "夜が更けてくると、あちこちも見えなくなってしまう。",
+        "translation-en-natural": "As the night deepens, even the surroundings fade from view."
+      },
+      {
+        "date": "20250529",
+        "id": 472,
+        "text": "京に入り立ちてうれし。",
+        "kana": "きやうにはいりたちてうれし。",
+        "translation-ja": "京に入り、立って、うれしい。",
+        "translation-en": "Having entered the capital and stood, I feel happy.",
+        "translation-ja-natural": "京に入って、立ってみると、うれしい気持ちになる。",
+        "translation-en-natural": "Having entered the capital and stood there, I feel joy."
       }
     ]
   }
