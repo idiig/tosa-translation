@@ -4749,6 +4749,46 @@
         "translation-en": "This person's house seemed joyful, and (they) served as the host.",
         "translation-ja-natural": "この人の家は嬉しそうに、主人役を務めてくれた。",
         "translation-en-natural": "The people of this house happily served as hosts."
+      },
+      {
+        "date": "20250529",
+        "id": 453,
+        "text": "このあるじの又あるじのよきを見るに、うたておもほゆ。",
+        "kana": "このあるじのまたあるじのよきをみるに、うたておもほゆ。",
+        "translation-ja": "このあるじの、またそのあるじの良さを見ると、なんとも言えない気持ちがする。",
+        "translation-en": "Seeing the goodness of this host and the host of this host, it evokes an indescribable, uneasy feeling.",
+        "translation-ja-natural": "この家の主人、そしてそのまた主人の良さを見ると、なんだか言いようのない気持ちになる。",
+        "translation-en-natural": "Seeing the goodness of this host and the host behind him stirs an indescribable, uneasy feeling within me."
+      },
+      {
+        "date": "20250529",
+        "id": 454,
+        "text": "いろいろにかへりごとす。",
+        "kana": "いろいろにかへりごとす。",
+        "translation-ja": "いろいろに返礼をする。",
+        "translation-en": "Various courtesies are returned.",
+        "translation-ja-natural": "いろいろと返礼をする。",
+        "translation-en-natural": "They return various courtesies."
+      },
+      {
+        "date": "20250529",
+        "id": 455,
+        "text": "家の人のいで入りにくげならずゐやゝかなり。",
+        "kana": "いえのひとのいでいりにくげならずゐやゝかなり。",
+        "translation-ja": "家の人たちの出入りは、愚かではなく、控えめである。",
+        "translation-en": "The people of the house do not come and go foolishly; they are somewhat reserved.",
+        "translation-ja-natural": "家の人たちの出入りは軽々しいものではなく、控えめで落ち着いている。",
+        "translation-en-natural": "The household members do not move about carelessly; they are composed and somewhat reserved."
+      },
+      {
+        "date": "20250529",
+        "id": 456,
+        "text": "十六日、けふのようさりつかた京へのぼるついでに見れば、山崎の小櫃の繪もまがりのおほちの形もかはらざりけり。",
+        "kana": "じふろくにち、けふのようさりつかたきやうへのぼるついでにみれば、やまざきのこびつのゑもまがりのおほちのかたもかはらざりけり。",
+        "translation-ja": "十六日、今日の夕方、京へ上る。ついでに見てみると、山崎の小櫃の絵も、曲がりの大路の形も変わっていなかった。",
+        "translation-en": "On the sixteenth day, in the evening today, I ascended to the capital. Along the way, when I looked, the painting of the small shrine at Yamazaki and the shape of the bent road remained unchanged.",
+        "translation-ja-natural": "十六日、今日の夕方、京へ上る途中、ふと見てみると、山崎の小櫃の絵も曲がりくねった大路の形も、何も変わっていなかった。",
+        "translation-en-natural": "On the sixteenth day, in the evening, as I ascended to the capital, I happened to look, and I saw that neither the painting of the small shrine at Yamazaki nor the shape of the winding main road had changed at all."
       }
     ]
   }
