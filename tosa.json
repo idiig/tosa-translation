@@ -4949,6 +4949,206 @@
         "translation-en": "Having entered the capital and stood, I feel happy.",
         "translation-ja-natural": "京に入って、立ってみると、うれしい気持ちになる。",
         "translation-en-natural": "Having entered the capital and stood there, I feel joy."
+      },
+      {
+        "date": "20250530",
+        "id": 473,
+        "text": "家にいたりて門に入るに、月あかければいとよくありさま見ゆ。",
+        "kana": "いへにいたりてかどにはいるに、つきあかければいとよくありさまみゆ。",
+        "translation-ja": "家に着いて門を入ると、月が明るいので、よく様子が見える。",
+        "translation-en": "Upon arriving home and entering through the gate, the moon is bright, and I can see the state of the house very well.",
+        "translation-ja-natural": "家に着いて門をくぐると、月明かりのおかげで家の様子がはっきりと見えます。",
+        "translation-en-natural": "When I arrive home and step through the gate, the moonlight lets me clearly see how the house looks."
+      },
+      {
+        "date": "20250530",
+        "id": 474,
+        "text": "聞きしよりもましていふかひなくぞこぼれ破れたる。",
+        "kana": "ききしよりもましていふかひなくぞこぼれやぶれたる。",
+        "translation-ja": "聞いていたよりも、いっそう言うに足りないほど、こぼれ破れている。",
+        "translation-en": "It is even more beyond words than I had heard, broken and tattered.",
+        "translation-ja-natural": "聞いていたよりも、さらにひどく言葉も出ないほど、崩れ壊れていた。",
+        "translation-en-natural": "It was even worse than I had heard, so ruined and tattered that I was left speechless."
+      },
+      {
+        "date": "20250530",
+        "id": 475,
+        "text": "家を預けたりつる人の心も荒れたるなりけり。",
+        "kana": "いへをあづけたりつるひとのこころもあれたるなりけり。",
+        "translation-ja": "家を預けていた人の心も、荒れてしまっているのだろう。",
+        "translation-en": "The heart of the person who had been entrusted with the house must also be in ruins.",
+        "translation-ja-natural": "家を預かってくれていた人の心も、すさんでしまっていたのだなあ。",
+        "translation-en-natural": "Even the heart of the person I had left the house with had fallen into disarray."
+      },
+      {
+        "date": "20250530",
+        "id": 476,
+        "text": "中垣こそあれ、ひとつ家のやうなればのぞみて預れるなり。",
+        "kana": "なかがこそあれ、ひとついへのやうなればのぞみてあづかれるなり。",
+        "translation-ja": "中垣はあるものの、ひとつの家のようなものだから、預けることを望んでいたのだ。",
+        "translation-en": "Although there is a fence, it is like a single house, so I hoped to entrust it.",
+        "translation-ja-natural": "中垣はあるものの、ひとつの家のような作りなので、安心して預けていたのだ。",
+        "translation-en-natural": "Even though there was a partition, the houses felt like one, so I had felt safe entrusting it."
+      },
+      {
+        "date": "20250530",
+        "id": 477,
+        "text": "さるはたよりごとに物も絶えず得させたり。",
+        "kana": "さるはたよりごとにものもたえずえさせたり。",
+        "translation-ja": "そのように頼りにしていたので、物も途切れることなく得させたのだ。",
+        "translation-en": "Since I had relied on it, I let him obtain things without interruption.",
+        "translation-ja-natural": "そうして頼りにしていたので、物も途切れずに与え続けてきたのだ。",
+        "translation-en-natural": "Because I had been relying on him, I kept providing things without interruption."
+      },
+      {
+        "date": "20250530",
+        "id": 478,
+        "text": "こよひかゝることゝ聲高にものもいはせず、いとはつらく見ゆれど志をばせむとす。",
+        "kana": "こよひかゝることゝこゑたかにものもいはせず、いとはつらくみゆれどこころをばせむとす。",
+        "translation-ja": "今夜、「こんなことだ」と声高に言わせるわけにはいかないが、とてもつらそうに見えるけれど、志は立てようと思う。",
+        "translation-en": "Tonight, I cannot let him loudly speak of such matters, but even though it appears very painful, I will try to set my resolve.",
+        "translation-ja-natural": "今夜は、こんなことだと大声で言わせるわけにはいかないが、とてもつらそうに見える。それでも、心を決めようと思う。",
+        "translation-en-natural": "Tonight, I can’t let him loudly voice such things, but even though it looks truly painful, I will try to set my determination."
+      },
+      {
+        "date": "20250530",
+        "id": 479,
+        "text": "さて池めいてくぼまり水づける所あり。",
+        "kana": "さていけめいてくぼまりみづけるところあり。",
+        "translation-ja": "さて、池のようにくぼんで水がたまっている所がある。",
+        "translation-en": "Now, there is a place that is sunken like a pond and filled with water.",
+        "translation-ja-natural": "さて、池のようにくぼんで水がたまっている場所があった。",
+        "translation-en-natural": "Now, there was a place that had sunk like a pond, filled with water."
+      },
+      {
+        "date": "20250530",
+        "id": 480,
+        "text": "ほとりに松もありき。",
+        "kana": "ほとりにまつもありき。",
+        "translation-ja": "ほとりには松もあった。",
+        "translation-en": "There were also pines by the edge.",
+        "translation-ja-natural": "ほとりには松も生えていた。",
+        "translation-en-natural": "There were also pine trees standing by the edge."
+      },
+      {
+        "date": "20250530",
+        "id": 481,
+        "text": "五年六年のうちに千年や過ぎにけむ、かた枝はなくなりにけり。",
+        "kana": "いつとせむとせのうちにちとせやすぎにけむ、かたえだはなくなりにけり。",
+        "translation-ja": "五年六年のうちに、千年は過ぎたのだろうか。片方の枝はなくなってしまった。",
+        "translation-en": "In the span of five or six years, has a thousand years passed? The branch on one side has disappeared.",
+        "translation-ja-natural": "たった五、六年のうちに、まるで千年も過ぎたのだろうか。片方の枝はすっかりなくなってしまった。",
+        "translation-en-natural": "In just five or six years, has it been as if a thousand years had passed? One of the branches has completely disappeared."
+      },
+      {
+        "date": "20250530",
+        "id": 481,
+        "text": "いま生ひたるぞまじれる。",
+        "kana": "いまおひたるぞまじれる。",
+        "translation-ja": "今生えているのも混っている。",
+        "translation-en": "Now, the new growth is also mixed in.",
+        "translation-ja-natural": "今生えてきたものも混じっているのだ。",
+        "translation-en-natural": "Even the newly grown parts are mixed in now."
+      },
+      {
+        "date": "20250530",
+        "id": 481,
+        "text": "大かたの皆あれにたれば、「あはれ」とぞ人々いふ。",
+        "kana": "おほかたのみなあれにたれば、「あはれ」とぞひとびといふ。",
+        "translation-ja": "ほとんどみな、荒れてしまったので、「ああ、なさけない」と人々は言う。",
+        "translation-en": "Most things have become desolate, and people say, 'Ah, how pitiful.'",
+        "translation-ja-natural": "ほとんどすべてが荒れ果ててしまったので、人々は「ああ、なんてもの悲しい」と言う。",
+        "translation-en-natural": "Since almost everything has fallen into ruin, people say, 'Ah, how sad.'"
+      },
+      {
+        "date": "20250530",
+        "id": 482,
+        "text": "思ひ出でぬ事なく思ひ戀しきがうちに、この家にて生れし女子のもろともに歸らねばいかゞはかなしき。",
+        "kana": "おもひいでぬことなくおもひこいしきがうちに、このいへにてうまれしをむなごのもろともにかへらねばいかゞはかなしき。",
+        "translation-ja": "思い出せないこともなく、思い恋しいのに、この家で生まれた女の子と一緒に帰らないのは、どんなに悲しいことだろう。",
+        "translation-en": "I cannot forget, and I long for it, but how sad it is not to return with the daughter born in this house.",
+        "translation-ja-natural": "思い出さないことは一つもなく、恋しくてたまらないのに、この家で生まれた娘と一緒に帰らないのは、どれほど悲しいことだろう。",
+        "translation-en-natural": "There is nothing I don't remember, and I long for it deeply, but how heartbreaking it is not to return together with the daughter born in this house."
+      },
+      {
+        "date": "20250530",
+        "id": 482,
+        "text": "船人も皆子だかりてのゝしる。",
+        "kana": "ふなびともみなこだかりてのゝしる。",
+        "translation-ja": "船人たちもみな子供が抱きついてきて騒いでいる。",
+        "translation-en": "The people on the boat are all being hugged by children and making a fuss.",
+        "translation-ja-natural": "船の人たちもみんな、子供に抱きつかれて、わいわいと騒いでいる。",
+        "translation-en-natural": "The people on the boat are all surrounded by children, making a lively commotion."
+      },
+      {
+        "date": "20250530",
+        "id": 483,
+        "text": "かゝるうちに猶かなしきに堪へずして密に心知れる人といへりけるうた、",
+        "kana": "かゝるうちになほかなしきにたへずしてみつにこころしれるひとといへりけるうた、",
+        "translation-ja": "こんな中に、なお悲しみに堪えられず、密かに心の通じる人といっていた歌がある。",
+        "translation-en": "In the midst of this, there is a song that could not bear the sadness any longer and was said to be known only to those with whom one shared a deep understanding.",
+        "translation-ja-natural": "こんな状況の中、なおも悲しみに耐えられず、密かに心を通わせていた人に向けて詠んだとされる歌がある。",
+        "translation-en-natural": "Amidst all this, unable to endure the sadness any longer, there is a poem said to have been composed for someone with whom one shared a secret understanding."
+      },
+      {
+        "date": "20250530",
+        "id": 484,
+        "poem": "うまれしも/かへらぬものを/我がやどに/小松のあるを/見るがかなしさ",
+        "kana": "うまれしも/かへらぬものを/わがやどに/こまつのあるを/みるがかなしさ。",
+        "translation-ja": "生まれたのに帰らないものを、私の宿に小松があるのを見ると、悲しい。",
+        "translation-en": "Seeing the small pine tree at my lodging, which was born but does not return, is sad.",
+        "translation-ja-natural": "生まれたのにもう帰らないあの子を思い、私の家にある小松を見ると、なんとも悲しい。",
+        "translation-en-natural": "Thinking of the one who was born but will never return, seeing the small pine tree at my home fills me with sorrow."
+      },
+      {
+        "date": "20250530",
+        "id": 485,
+        "text": "とぞいへる。",
+        "kana": "とぞいへる。",
+        "translation-ja": "と、言っている。",
+        "translation-en": "And so it is said.",
+        "translation-ja-natural": "と、言う。",
+        "translation-en-natural": "And so it is said."
+      },
+      {
+        "date": "20250530",
+        "id": 486,
+        "text": "猶あかずやあらむ、またかくなむ、",
+        "kana": "なほあかずやあらむ、またかくなむ、",
+        "translation-ja": "まだ飽き足らないのだろうか、またこうなるのだろうか、",
+        "translation-en": "Will I never be satisfied, or will it be like this again?",
+        "translation-ja-natural": "まだ満ち足りないのだろうか、またこうなるのか、",
+        "translation-en-natural": "Am I still left unsatisfied, or will it happen like this again?"
+      },
+      {
+        "date": "20250530",
+        "id": 487,
+        "poem": "見し人の/松のちとせに/みましかば/とほくかなしき/わかれせましや",
+        "kana": "みしひとの/まつのちとせに/みましかば/とほくかなしき/わかれせましや",
+        "translation-ja": "見た人の松が千年も生きているならば、遠く悲しい別れが待っているのだろうか。",
+        "translation-en": "If the pine I saw lives for a thousand years, will a distant, sorrowful separation await?",
+        "translation-ja-natural": "かつて会ったあの人の松が千年も生き続けていたなら、こんな遠く悲しい別れはあっただろうか。",
+        "translation-en-natural": "If the pine connected to the one I once saw lived for a thousand years, would such a distant and sorrowful parting have happened?"
+      },
+      {
+        "date": "20250530",
+        "id": 488,
+        "text": "わすれがたくくちをしきことおほかれどえつくさず。",
+        "kana": "わすれがたくくちをしきことおほかれどえつくさず。",
+        "translation-ja": "忘れがたい、口惜しいことは多いけれども、どうしても尽くしきれない。",
+        "translation-en": "There are many things that are hard to forget and regrettable, but I cannot fully express them.",
+        "translation-ja-natural": "忘れがたく、口惜しいことはたくさんあるけれども、とても言い尽くせない。",
+        "translation-en-natural": "There are so many things that are hard to forget and deeply regrettable, but I simply cannot put them all into words."
+      },
+      {
+        "date": "20250530",
+        "id": 489,
+        "text": "とまれかくまれ疾くやりてむ。",
+        "kana": "とまれかくまれとくやりてむ。",
+        "translation-ja": "とにかく、こうしたことは早く破ってしまおう。",
+        "translation-en": "In any case, I want to tear this apart.",
+        "translation-ja-natural": "とにかく、早く片づけてしまおう。",
+        "translation-en-natural": "Anyway, let me just get this over with quickly."
       }
     ]
   }
