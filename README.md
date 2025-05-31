@@ -2,7 +2,9 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15563257.svg)](https://doi.org/10.5281/zenodo.15563257)
 
-Translation sentences by Hilofumi Yamamoto.
+Translation sentences
+by Hilofumi Yamamoto Ph.D.
+Institute of Science Tokyo
 
 ## Overview
 
