@@ -151,26 +151,194 @@
         ]
       },
       {
-        "date": "20241026,20241112",
+        "date": "20241026,20241112,20250601",
         "id": 2,
         "text": "それの年のしはすの二十日あまり一日の、戌の時に門出す。",
         "kana": "それのとしのしはすのはつかあまりついたちの、いぬのときにかどです。",
         "koutei-yamagen": "それの年のしはすの二十日あまり一日の、戌の時に門出す。",
-        "translation-ja": "その年（承平四年）の師走の二十一日の、戌の時に出発しました。",
-        "translation-en": "On the twenty-first day of December in the 4th year of the Shohei era, we departed at the hour of the dog (around 8 to 10 PM).",
-        "translation-ja-natural": "その年（承平四年）の十二月二十一日、戌の刻に出発しました。",
-        "translation-en-natural": "December 21st, Shohei Era, Year 4. Set off around the hour of the dog (between 8 and 10 PM)."
+        "translation-ja": "その年の師走二十一日の戌の時に出発した。",
+        "translation-en": "On the twenty-first day of the twelfth month of that year, we departed at the hour of the dog (around 8 to 10 PM).",
+        "phrase-gloss": [
+          {
+            "phrase": "それの年の",
+            "gloss": "that year-GEN",
+            "words": [
+              {
+                "word": "それ",
+                "gloss": "that"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "年",
+                "gloss": "year"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "しはすの二十日あまり一日",
+            "gloss": "twelfth.month-GEN twenty-days plus one-day",
+            "words": [
+              {
+                "word": "しはす",
+                "gloss": "twelfth.month"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "二十日",
+                "gloss": "twenty-days"
+              },
+              {
+                "word": "あまり",
+                "gloss": "plus"
+              },
+              {
+                "word": "一日",
+                "gloss": "one-day"
+              }
+            ]
+          },
+          {
+            "phrase": "戌の時に",
+            "gloss": "hour.of.dog-LOC",
+            "words": [
+              {
+                "word": "戌",
+                "gloss": "hour.of.dog"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "時",
+                "gloss": "hour"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "門出す",
+            "gloss": "departure-do",
+            "words": [
+              {
+                "word": "門出",
+                "gloss": "departure"
+              },
+              {
+                "word": "す",
+                "gloss": "do"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "十二支の時刻",
+            "note": "十二支は、古代中国から伝わった十二の動物に基づく周期で、時刻や方角、年などを表す。「戌の刻」は午後7時から午後9時ごろに相当し、日本の古典文学や日記でよく使われる表現である。十二支は古代中国に由来し、1日を12等分して時刻を表した。各時刻は次の通り：子（23-1時）、丑（1-3時）、寅（3-5時）、卯（5-7時）、辰（7-9時）、巳（9-11時）、午（11-13時）、未（13-15時）、申（15-17時）、酉（17-19時）、戌（19-21時）、亥（21-23時）。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "Zodiac Hours Overview",
+            "note": "The twelve zodiac signs (Juu-ni-shi) from ancient China were used to divide time, directions, and years. 'Hour of the Dog' (Inu no koku) refers to the time between roughly 7 PM and 9 PM, a common timekeeping expression in classical Japanese texts. The twelve zodiac signs (Jūnishi) from ancient China divided the day into 12 two-hour periods: Rat (23-1), Ox (1-3), Tiger (3-5), Rabbit (5-7), Dragon (7-9), Snake (9-11), Horse (11-13), Goat (13-15), Monkey (15-17), Rooster (17-19), Dog (19-21), Boar (21-23)."
+          }
+        ],
+        "glossary-abbreviations": {
+          "GEN": "genitive（属格）",
+          "LOC": "locative（場所格）",
+          "PST": "past（過去）",
+          "NMLZ": "nominalizer（名詞化）",
+          "COND": "conditional（条件）",
+          "CONJ": "conjunctive（接続）"
+        },
+        "translation-ja-natural": "その年の12月21日、夜の8時ごろに出発しました。",
+        "translation-en-natural": "On December 21 of that year, we set off around 8 PM."
       },
       {
-        "date": "20241026,20241111",
+        "date": "20241026,20241111,20250531",
         "id": 3,
         "text": "そのよしいさゝかものにかきつく。",
         "kana": "そのよしいささかものにかきつく。",
         "koutei-yamagen": "そのよしいさゝかものにかきつく。",
-        "translation-ja": "その出来事を少し書きとめました。",
-        "translation-en": "I wrote down a little about the matter.",
-        "translation-ja-natural": "その旅のことを、少しばかり書き残しました。",
-        "translation-en-natural": "Jotted down a few notes about the whole situation."
+        "translation-ja": "その由を少し物に書き付けた。",
+        "translation-en": "I wrote down a little of that matter.",
+        "phrase-gloss": [
+          {
+            "phrase": "そのよしいさゝか",
+            "gloss": "a little of that matter",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "よし",
+                "gloss": "matter / reason"
+              },
+              {
+                "word": "いさゝか",
+                "gloss": "a.little"
+              }
+            ]
+          },
+          {
+            "phrase": "ものにかきつく",
+            "gloss": "write down onto the record",
+            "words": [
+              {
+                "word": "もの",
+                "gloss": "thing"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "かき",
+                "gloss": "write"
+              },
+              {
+                "word": "つく",
+                "gloss": "attach / affix"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "かきつく",
+            "note": "「かきつく」は『書き付く』で、物に書き記す、メモするという意味。日記や記録の表現として用いられる。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "kakitsuku",
+            "note": "'Kakitsuku' (書き付く) means to write down or record something, often used in diary or record-keeping contexts."
+          }
+        ],
+        "glossary-abbreviations": {
+          "GEN": "genitive（属格）",
+          "LOC": "locative（場所格）",
+          "PST": "past（過去）",
+          "NMLZ": "nominalizer（名詞化）",
+          "COND": "conditional（条件）",
+          "CONJ": "conjunctive（接続）"
+        },
+        "translation-ja-natural": "そのことを少し書き記しておきました。",
+        "translation-en-natural": "I jotted down a little about the matter."
       },
       {
         "date": "20241103,20241110,20241111",
