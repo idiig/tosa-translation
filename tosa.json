@@ -8,7 +8,11 @@
     "author_roman": "Ki no Tsurayuki",
     "paragraph": [
       {
-        "date": "20241026,20241111,20250531",
+        "date": [
+          20241026,
+          20241111,
+          20250531
+        ],
         "id": 1,
         "text": "男もすなる日記といふものを、女もしてみむとてするなり。",
         "kana": "をとこもすなるにきといふものを、をんなもしてみむとてするなり。",
@@ -151,7 +155,11 @@
         ]
       },
       {
-        "date": "20241026,20241112,20250601",
+        "date": [
+          20241026,
+          20241112,
+          20250601
+        ],
         "id": 2,
         "text": "それの年のしはすの二十日あまり一日の、戌の時に門出す。",
         "kana": "それのとしのしはすのはつかあまりついたちの、いぬのときにかどです。",
@@ -308,11 +316,11 @@
               },
               {
                 "word": "かき",
-                "gloss": "write"
+                "gloss": "write.ADV.F"
               },
               {
                 "word": "つく",
-                "gloss": "attach / affix"
+                "gloss": "attach"
               }
             ]
           }
@@ -326,63 +334,463 @@
         "gloss-notes-en": [
           {
             "title": "kakitsuku",
-            "note": "'Kakitsuku' (書き付く) means to write down or record something, often used in diary or record-keeping contexts."
+            "note": "'Kakitsuku' means to write down or record something, often used in diary or record-keeping contexts."
           }
         ],
         "glossary-abbreviations": {
+          "ADV.F": "adverbial form (連用形)",
           "GEN": "genitive（属格）",
-          "LOC": "locative（場所格）",
-          "PST": "past（過去）",
-          "NMLZ": "nominalizer（名詞化）",
-          "COND": "conditional（条件）",
-          "CONJ": "conjunctive（接続）"
+          "LOC": "locative（場所格）"
         },
-        "translation-ja-natural": "そのことを少し書き記しておきました。",
+        "translation-ja-natural": "そのことを少し書き記しておいた。",
         "translation-en-natural": "I jotted down a little about the matter."
       },
       {
-        "date": "20241103,20241110,20241111",
+        "date": "20241103,20241110,20241111,20250603",
         "id": 4,
         "text": "ある人縣の四年五年はてゝ例のことゞも皆しをへて、解由など取りて住むたちより出でゝ船に乘るべき所へわたる。",
         "kana": "あるひとあがたのよとせいつとせはててれいのことどもみなしをへて、げゆなどとりてすむたちよりいでてふねにのるべきところへわたる。",
         "koutei-yamagen": "ある人、縣の四年五年果てて例のことども皆し終えて、解由など取りて住む館より出で船に乗るべき所へ渡る。",
         "translation-ja": "ある人が国司として四年、五年の任期を終え、儀式などもすべて済ませ、解由状を受け取って、住まいを出て船に乗る場所へ向かった。",
         "translation-en": "A certain person, having completed his four or five-year term as governor, performed all customary ceremonies, received the geyu document, and left his residence to head to the place where he was to board the ship.",
-        "translation-ja-natural": "ある人が国司として四年、五年の任期を終え、儀式などもすべて済ませ、解由状を受け取って、住まいを出て船に乗る場所へ向かいました。",
-        "translation-en-natural": "So, after wrapping up his four or five years as governor, doing all the formal ceremonies, and finally getting the geyu document, he packed up and headed off to the dock to catch his ship."
+        "phrase-gloss": [
+          {
+            "phrase": "ある人縣の四年五年はてゝ",
+            "gloss": "certain.person governor four.year five.year end.ADV.F",
+            "words": [
+              {
+                "word": "ある",
+                "gloss": "certain"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "縣",
+                "gloss": "governor"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "四年",
+                "gloss": "four.year"
+              },
+              {
+                "word": "五年",
+                "gloss": "five.year"
+              },
+              {
+                "word": "はて",
+                "gloss": "end.ADV.F"
+              },
+              {
+                "word": "ゝ",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "例のことゞも皆しをへて",
+            "gloss": "usual-GEN matters all perform.ADV.F finish.ADV.F",
+            "words": [
+              {
+                "word": "例",
+                "gloss": "usual"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ことゞも",
+                "gloss": "matters"
+              },
+              {
+                "word": "皆",
+                "gloss": "all"
+              },
+              {
+                "word": "し",
+                "gloss": "perform.ADV.F"
+              },
+              {
+                "word": "をへ",
+                "gloss": "finish.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "解由など取りて住むたちより出でゝ",
+            "gloss": "geyu.document etc. take.ADV.F residence leave.ADV.F go.out.ADV.F",
+            "words": [
+              {
+                "word": "解由",
+                "gloss": "geyu.document"
+              },
+              {
+                "word": "など",
+                "gloss": "etc."
+              },
+              {
+                "word": "取り",
+                "gloss": "take.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "住む",
+                "gloss": "reside.ADV.F"
+              },
+              {
+                "word": "たち",
+                "gloss": "residence"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              },
+              {
+                "word": "出で",
+                "gloss": "go.out.ADV.F"
+              },
+              {
+                "word": "ゝ",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "船に乘るべき所へわたる",
+            "gloss": "ship-LOC board.should place-ALL cross",
+            "words": [
+              {
+                "word": "船",
+                "gloss": "ship"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "乘る",
+                "gloss": "board"
+              },
+              {
+                "word": "べき",
+                "gloss": "should.ATTR"
+              },
+              {
+                "word": "所",
+                "gloss": "place"
+              },
+              {
+                "word": "へ",
+                "gloss": "ALL"
+              },
+              {
+                "word": "わたる",
+                "gloss": "cross"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "解由",
+            "note": "「解由状」は任国の後任国司から中央政府に提出される、前任国司の任務完了を証明する文書。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "geyu",
+            "note": "'Geyu' is a document submitted by the succeeding provincial governor to the central government, certifying the completion of the predecessor's term and duties."
+          }
+        ],
+        "glossary-abbreviations": {
+          "GEN": "genitive（属格）",
+          "ADV.F": "adverbial form（連用形）",
+          "CONJ": "conjunctive（接続）",
+          "LOC": "locative（場所格）",
+          "ALL": "allative（方向・到達格）",
+          "FOC": "focus（焦点）",
+          "ATTR": "attributive（連体形）"
+        },
+        "translation-ja-natural": "ある人が国司として四、五年の任期を終え、すべての儀式を済ませ、解由状を受け取って、住まいを出て船に乗る場所へ向かった。",
+        "translation-en-natural": "A certain person, having completed his four- or five-year term as governor, finished all the customary ceremonies, received the geyu document, and left his residence to head to the place where he would board the ship."
       },
       {
-        "date": "20241103,20241111,20241112",
+        "date": [
+          20241103,
+          20241111,
+          20241112,
+          20250603
+        ],
         "id": 5,
         "text": "かれこれ知る知らぬおくりす。",
         "kana": "かれこれしるしらぬおくりす。",
         "koutei-yamagen": "かれこれ、知る知らぬ、送りす。",
         "translation-ja": "かれこれ、知っている人、知らない人が見送りをする。",
         "translation-en": "People who know him and people who don't know him all see him off.",
-        "translation-ja-natural": "知っている人も知らない人も、みんなが見送りに来ました。",
-        "translation-en-natural": "A mix of people he knows and people he doesn't even recognize have all gathered to see him off."
+        "phrase-gloss": [
+          {
+            "phrase": "かれこれ",
+            "gloss": "various people",
+            "words": [
+              {
+                "word": "かれ",
+                "gloss": "that person"
+              },
+              {
+                "word": "これ",
+                "gloss": "this person"
+              }
+            ]
+          },
+          {
+            "phrase": "知る知らぬ",
+            "gloss": "know or not know",
+            "words": [
+              {
+                "word": "知る",
+                "gloss": "know"
+              },
+              {
+                "word": "知ら",
+                "gloss": "know.NEG.BASE"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG"
+              }
+            ]
+          },
+          {
+            "phrase": "おくりす",
+            "gloss": "see off",
+            "words": [
+              {
+                "word": "おくり",
+                "gloss": "send off"
+              },
+              {
+                "word": "す",
+                "gloss": "do"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "LOC": "locative (場所格)",
+          "NEG": "negation (否定)"
+        },
+        "translation-ja-natural": "あの人、この人、知っている人も知らない人も、みんなで見送った。",
+        "translation-en-natural": "Everyone — friends, strangers, all kinds of people — came to see him off."
       },
       {
-        "date": "20241103,20241111,20241112",
+        "date": [
+          20241103,
+          20241111,
+          20241112,
+          20250603
+        ],
         "id": 6,
-        "text": "年ごろよく具しつる人々（共イ）なむわかれ難く思ひてその日頻にとかくしつゝのゝしるうちに夜更けぬ。",
+        "text": "年ごろよく具しつる人々なむわかれ難く思ひてその日頻にとかくしつゝのゝしるうちに夜更けぬ。",
         "kana": "としごろよくぐしつるひとびとなむわかれがたくおもひてそのひしきりにとかくしつつののしるうちによふけぬ。",
         "koutei-yamagen": "年ごろよくくらべつる人々なむ、別れがたく思ひて、日しきりにとかくしつつ、ののしるうちに夜更けぬ。",
-        "translation-ja": "長年親しく付き合ってきた人々が、別れがたいと感じて、毎日のようにあれこれと言いながら賑やかに過ごすうちに、夜が更けてしまった。",
-        "translation-en": "People who had been close for many years, finding it hard to part, spent each day talking back and forth, and before they knew it, night had fallen.",
-        "translation-ja-natural": "長年親しくしてきた人たちが、別れがたいと感じて、一日中あれこれと賑やかに過ごしているうちに、いつの間にか夜が更けてしまいました。",
-        "translation-en-natural": "People he'd been close to for ages, all finding it tough to say goodbye, spent their days chattering away, and somehow, before anyone noticed, it was nightfall again."
+        "translation-ja": "長年親しく付き合ってきた人々が、別れがたいと感じ、その日しきりにあれこれと言いながら賑やかに過ごすうちに夜が更けた。",
+        "translation-en": "The people who had long been close, finding it hard to part, spent that day busily talking back and forth, and before they knew it, night had fallen.",
+        "phrase-gloss": [
+          {
+            "phrase": "年ごろよく具しつる人々",
+            "gloss": "people long-accompanied",
+            "words": [
+              {
+                "word": "年ごろ",
+                "gloss": "for-years"
+              },
+              {
+                "word": "よく",
+                "gloss": "well"
+              },
+              {
+                "word": "具しつる",
+                "gloss": "accompanied.PST"
+              },
+              {
+                "word": "人々",
+                "gloss": "people"
+              }
+            ]
+          },
+          {
+            "phrase": "なむわかれ難く思ひて",
+            "gloss": "FOC hard-to-part feeling-CONJ",
+            "words": [
+              {
+                "word": "なむ",
+                "gloss": "FOC"
+              },
+              {
+                "word": "わかれ難く",
+                "gloss": "hard-to-part"
+              },
+              {
+                "word": "思ひて",
+                "gloss": "feeling-CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "その日頻にとかくしつゝ",
+            "gloss": "that-day frequently this-and-that doing",
+            "words": [
+              {
+                "word": "その日",
+                "gloss": "that-day"
+              },
+              {
+                "word": "頻に",
+                "gloss": "frequently"
+              },
+              {
+                "word": "とかく",
+                "gloss": "this-and-that"
+              },
+              {
+                "word": "しつゝ",
+                "gloss": "doing"
+              }
+            ]
+          },
+          {
+            "phrase": "のゝしるうちに夜更けぬ",
+            "gloss": "making-noise while night-fell",
+            "words": [
+              {
+                "word": "のゝしる",
+                "gloss": "making-noise"
+              },
+              {
+                "word": "うちに",
+                "gloss": "while"
+              },
+              {
+                "word": "夜更けぬ",
+                "gloss": "night-fell.PFV"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "FOC": "focus particle（係助詞『なむ』による強調）",
+          "PST": "past tense（過去形）",
+          "CONJ": "conjunctive（接続助詞：〜て）",
+          "PFV": "perfective（完了：〜ぬ）"
+        },
+        "translation-ja-natural": "長年親しくしてきた人たちは、別れるのがつらくて、その日もしきりにあれこれ話しながら賑やかに過ごしているうちに、夜が更けてしまった。",
+        "translation-en-natural": "Those who had been close for years found it hard to say goodbye, and as they chatted and bustled about that day, night quietly crept up on them."
       },
       {
-        "date": "20241103,20241111,20241112",
+        "date": [
+          20241103,
+          20241111,
+          20241112
+        ],
         "id": 7,
-        "text": "廿二日（にイ有）、和泉の國までとたひらかにねがひたつ。",
-        "kana": "はつか（にあり）、いずみのくにまでとたひらかにねがひたつ。",
+        "text": "廿二日、和泉の國までとたひらかにねがひたつ。",
+        "kana": "はつか、いずみのくにまでとたひらかにねがひたつ。",
         "koutei-yamagen": "二十二日、和泉の国までと平らかに願立つ。",
-        "translation-ja": "二十二日に、和泉の国までと無事を願いをたてた。",
-        "translation-en": "On the twenty-second day, I prayed for a safe journey as far as the province of Izumi.",
-        "translation-ja-natural": "二十二日に、ひとまず和泉の国まで無事であるようにと祈願しました。",
-        "translation-en-natural": "On the twenty-second, made a little prayer for a safe trip, at least as far as Izumi Province."
+        "translation-ja": "二十二日に、和泉の国までと平穏に祈願を立てた。",
+        "translation-en": "On the twenty-second day, I set up a prayer for a peaceful (safe) journey as far as the province of Izumi.",
+        "phrase-gloss": [
+          {
+            "phrase": "廿二日",
+            "gloss": "twenty-second day",
+            "words": [
+              {
+                "word": "廿二",
+                "gloss": "twenty-two"
+              },
+              {
+                "word": "日",
+                "gloss": "day"
+              }
+            ]
+          },
+          {
+            "phrase": "和泉の國までと",
+            "gloss": "up to Izumi province QUOT",
+            "words": [
+              {
+                "word": "和泉",
+                "gloss": "Izumi.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "國",
+                "gloss": "province"
+              },
+              {
+                "word": "まで",
+                "gloss": "up to"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              }
+            ]
+          },
+          {
+            "phrase": "たひらかに",
+            "gloss": "peacefully/without mishap",
+            "words": [
+              {
+                "word": "たひらか",
+                "gloss": "peaceful"
+              },
+              {
+                "word": "に",
+                "gloss": "ADV"
+              }
+            ]
+          },
+          {
+            "phrase": "ねがひたつ",
+            "gloss": "set up a prayer",
+            "words": [
+              {
+                "word": "ねがひ",
+                "gloss": "prayer.ADV.F"
+              },
+              {
+                "word": "たつ",
+                "gloss": "set up"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "PN": "proper noun（固有名詞）",
+          "GEN": "genitive particle（の）",
+          "QUOT": "quotative particle（と）",
+          "ADV": "adverbial ending（に）",
+          "ADV.F": "adverbial (conjunctive) form（連用形）",
+          "PST": "past tense（過去形）"
+        },
+        "translation-ja-natural": "二十二日、和泉の国まで無事に行けるようにと祈願した。",
+        "translation-en-natural": "On the twenty-second day, I prayed for a safe journey as far as Izumi Province."
       },
       {
         "date": "20241109,20241111,20241112",

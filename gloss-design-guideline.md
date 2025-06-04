@@ -2,7 +2,7 @@
 
 この文書は、Tosa Nikki 翻訳・注釈プロジェクト、およびその他 gloss 記録プロジェクトにおける gloss 設計方針を定めたものです。
 
-## Last change: 2025/06/01-10:38:29.
+## Last change: 2025/06/03-13:50:54.
 
 ## ✅ 基本原則
 
@@ -66,4 +66,164 @@
 
 ---
 
-必要に応じて、このガイドラインは随時更新する。
+# 自然訳の方針メモ
+
+このドキュメントは、翻訳作業における自然訳（translation-ja-natural / translation-en-natural）の方針を記録したものです。
+
+---
+
+## ✅ 基本方針
+
+- 原文に書いてあることを最大限拾う。
+- 原文に書かれていない補足（語り手の感情、伝聞、推測、背景説明）は自然訳に入れない。
+- 現代語として不自然にならないように、語順・表現は整える。
+
+---
+
+## ✅ 具体例
+
+- 「けり」→ **過去の事実としてのみ表現**（例：「〜だった」「〜があった」）。
+- 「そうだ」「〜と伝えられている」などの補足的伝聞表現は付けない。
+- 英語でも "it is said" などを付けず、直接表現する。
+
+---
+
+## ✅ 厳密訳と自然訳の役割分担
+
+| 項目           | 厳密訳（translation-ja/en） | 自然訳（translation-ja-natural/en-natural）  |
+| -------------- | --------------------------- | -------------------------------------------- |
+| 文の忠実さ     | 原文構造を正確に再現        | 原文内容を拾いながら自然な語順・表現にする   |
+| 補足情報の扱い | 一切付けない                | 付けない（ただし文の自然さのための整形はOK） |
+| 文体           | である調（常体）            | である調（常体）、和歌のみですます調         |
+
+---
+
+✅ Gloss 記述ルールメモ
+1️⃣ 語幹と活用を明示的に分ける
+
+    語幹部分は意味 gloss（例：elegance, beauty, strength）。
+
+    活用部分は文法 gloss（例：ATTR, ADV.F, PAST）。
+
+例：
+「おもしろき」 →
+{ "word": "おもしろ", "gloss": "elegance" }, { "word": "き", "gloss": "ATTR" }
+※ただし通常はまとめて
+{ "word": "おもしろき", "gloss": "elegance.ATTR" } としてOK。
+2️⃣ 格助詞の gloss は必ず助詞単体につける
+
+    格助詞が決める文の格は、その助詞自体に gloss をつける。
+
+    語幹や活用側に格（ACC, DAT, GEN など）を含めない。
+
+例：
+「おもしろきを」 →
+{ "word": "おもしろき", "gloss": "elegance.ATTR" }, { "word": "を", "gloss": "ACC" }
+3️⃣ まとめ書きは避ける
+
+    語の内部と文法的接続の gloss を一語に統合しない。
+
+    例外は助詞などが一語に縮約している場合（例：じゃ＝では、だに＝すら）。
+
+4️⃣ 意味分類 gloss と文法 gloss はピリオドで区切る
+
+    複合 gloss は 意味.文法 の順。
+
+    例：elegance.ATTR, strength.ADV.F
+
+5️⃣ 全体 gloss（phrase-gloss）は単語間をスペース、単語内をピリオドで区切る
+
+    例：
+    phrase gloss: elegance.ATTR ACC praise
+
+✅ このルールの適用例
+
+文：
+
+    この殿のおもしろきをほむる歌よむ
+
+gloss（単語ごと）：
+
+[
+{ "word": "この", "gloss": "this" },
+{ "word": "殿", "gloss": "lord.GEN" },
+{ "word": "の", "gloss": "GEN" },
+{ "word": "おもしろき", "gloss": "elegance.ATTR" },
+{ "word": "を", "gloss": "ACC" },
+{ "word": "ほむる", "gloss": "praise.ATTR" },
+{ "word": "歌", "gloss": "song" },
+{ "word": "よむ", "gloss": "compose" }
+]
+
+---
+
+# Gloss 記述ルールメモ
+
+---
+
+## 1️⃣ 語幹と活用を明示的に分ける
+
+- 語幹部分は意味 gloss（例：`elegance`, `beauty`, `strength`）。
+- 活用部分は文法 gloss（例：`ATTR`, `ADV.F`, `PAST`）。
+
+例：
+「おもしろき」 →
+`おもしろ` → `elegance`
+`き` → `ATTR`
+→ まとめる場合は：`elegance.ATTR`
+
+---
+
+## 2️⃣ 格助詞の gloss は必ず助詞単体につける
+
+- 格助詞が決める文の格（`ACC`, `DAT`, `GEN` など）は、その助詞自体に gloss をつける。
+- 語幹や活用側に格情報を含めない。
+
+例：
+「おもしろきを」 →
+`{ "word": "おもしろき", "gloss": "elegance.ATTR" }, { "word": "を", "gloss": "ACC" }`
+
+---
+
+## 3️⃣ まとめ書きは避ける
+
+- 語の内部と文法的接続の gloss を一語に統合しない。
+- 例外は助詞などが一語に縮約している場合（例：`じゃ`＝`では`、`だに`＝`すら`）。
+
+---
+
+## 4️⃣ 意味分類 gloss と文法 gloss はピリオドで区切る
+
+- 複合 gloss は `意味.文法` の順に書く。
+- 例：`elegance.ATTR`, `strength.ADV.F`
+
+---
+
+## 5️⃣ 全体 gloss（phrase-gloss）は単語間をスペース、単語内をピリオドで区切る
+
+- 例：
+  phrase gloss: `elegance.ATTR ACC praise`
+
+---
+
+### ✅ 適用例
+
+文：
+この殿のおもしろきをほむる歌よむ
+
+単語ごとの gloss：
+
+```json
+[
+  { "word": "この", "gloss": "this" },
+  { "word": "殿", "gloss": "lord.GEN" },
+  { "word": "の", "gloss": "GEN" },
+  { "word": "おもしろき", "gloss": "elegance.ATTR" },
+  { "word": "を", "gloss": "ACC" },
+  { "word": "ほむる", "gloss": "praise.ATTR" },
+  { "word": "歌", "gloss": "song" },
+  { "word": "よむ", "gloss": "compose" }
+]
+```
+
+---
