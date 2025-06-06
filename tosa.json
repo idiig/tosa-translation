@@ -703,7 +703,8 @@
         "date": [
           20241103,
           20241111,
-          20241112
+          20241112,
+          20250606
         ],
         "id": 7,
         "text": "廿二日、和泉の國までとたひらかにねがひたつ。",
@@ -798,9 +799,74 @@
         "text": "藤原の言實船路なれど馬の餞す。",
         "kana": "ふじわらのときざねふねじなれどうまのはなむけす。",
         "koutei-yamagen": "藤原のときざね、船路なれど、馬の餞す。",
-        "translation-ja": "藤原のときざねが、船路の旅なのに餞(うまのはなむけ)をする。",
-        "translation-en": "Fujiwara no Tokizane sent a farewell gift called 'Uma no Hanamuke'--despite it being a sea voyage.",
-        "translation-ja-natural": "藤原のときざねは、船旅なのに「馬のはなむけ」をするのです。",
+        "translation-ja": "藤原のときざねが、船路の旅なのに餞をする。",
+        "translation-en": "Fujiwara no Tokizane, though it is a sea journey, gives a farewell gift for a horse journey.",
+        "phrase-gloss": [
+          {
+            "phrase": "藤原の言實",
+            "gloss": "Fujiwara.PN GEN Tokizane.PN",
+            "words": [
+              {
+                "word": "藤原",
+                "gloss": "Fujiwara.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "言實",
+                "gloss": "Tokizane.PN"
+              }
+            ]
+          },
+          {
+            "phrase": "船路なれど",
+            "gloss": "boat.travel COP.REALIS.F COND.F",
+            "words": [
+              {
+                "word": "船路",
+                "gloss": "boat.travel"
+              },
+              {
+                "word": "なれ",
+                "gloss": "COP.REALIS.F"
+              },
+              {
+                "word": "ど",
+                "gloss": "COND.F"
+              }
+            ]
+          },
+          {
+            "phrase": "馬の餞す",
+            "gloss": "horse GEN farewell do",
+            "words": [
+              {
+                "word": "馬",
+                "gloss": "horse"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "餞",
+                "gloss": "farewell"
+              },
+              {
+                "word": "す",
+                "gloss": "do"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "GEN": "genitive particle（〜の）",
+          "COP.REALIS.F": "copula, realis form（断定助動詞『なり』の已然形）",
+          "COND.F": "conditional form（〜ど：逆接）"
+        },
+        "translation-ja-natural": "藤原の言實が、船の旅なのに、馬の餞別を贈った。",
         "translation-en-natural": "Fujiwara no Tokizane sent off a farewell gift called 'Uma no Hanamuke' (horse nose heading)—even though it was a sea voyage. Go figure."
       },
       {
