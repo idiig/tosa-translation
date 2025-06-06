@@ -794,7 +794,12 @@
         "translation-en-natural": "On the twenty-second day, I prayed for a safe journey as far as Izumi Province."
       },
       {
-        "date": "20241109,20241111,20241112",
+        "date": [
+          20241109,
+          20241111,
+          20241112,
+          20250606
+        ],
         "id": 8,
         "text": "藤原の言實船路なれど馬の餞す。",
         "kana": "ふじわらのときざねふねじなれどうまのはなむけす。",
@@ -870,37 +875,304 @@
         "translation-en-natural": "Fujiwara no Tokizane sent off a farewell gift called 'Uma no Hanamuke' (horse nose heading)—even though it was a sea voyage. Go figure."
       },
       {
-        "date": "20241111,20241112",
+        "date": [
+          20241111,
+          20241112,
+          20250606
+        ],
         "id": 9,
         "text": "上中下ながら醉ひ過ぎていと怪しくしほ海のほとりにてあざれあへり。",
         "kana": "かみなかしもゑひすぎていとあやしくしほうみのほとりにてあざれあへり。",
         "koutei-yamagen": "上、中、下、酔ひすぎて、いとあやしく、しほ海のほとりにてあざれあへり。",
         "translation-ja": "上も中も下も酔い過ぎて、非常に不思議に潮海のほとりでふざけ合った。",
         "translation-en": "The high, the middle, and the low all drank too much, behaving very strangely, and fooling around by the shore of the salt sea.",
-        "translation-ja-natural": "身分の上下に関係なく、みんな酔っ払って、とてもおかしなことに、腐るはずのない塩海のほとりで、ああ、戯れあっている。",
-        "translation-en-natural": "Everyone—high, middle, and low—completely sloshed, acting all strange and silly by the salt sea. Honestly, just carrying on without a care!"
+        "phrase-gloss": [
+          {
+            "phrase": "上中下ながら",
+            "gloss": "upper middle lower all",
+            "words": [
+              {
+                "word": "上",
+                "gloss": "upper"
+              },
+              {
+                "word": "中",
+                "gloss": "middle"
+              },
+              {
+                "word": "下",
+                "gloss": "lower"
+              },
+              {
+                "word": "ながら",
+                "gloss": "all"
+              }
+            ]
+          },
+          {
+            "phrase": "醉ひ過ぎて",
+            "gloss": "get.drunk exceed CONJ",
+            "words": [
+              {
+                "word": "醉ひ",
+                "gloss": "get.drunk.ADV.F"
+              },
+              {
+                "word": "過ぎ",
+                "gloss": "exceed.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "いと怪しく",
+            "gloss": "very strange ADV.F",
+            "words": [
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "怪しく",
+                "gloss": "strange.ADV.F"
+              }
+            ]
+          },
+          {
+            "phrase": "しほ海のほとりにて",
+            "gloss": "salt sea GEN shore LOC",
+            "words": [
+              {
+                "word": "しほ",
+                "gloss": "salt"
+              },
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ほとり",
+                "gloss": "shore"
+              },
+              {
+                "word": "にて",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "あざれあへり",
+            "gloss": "fool.around reciprocate.PERF",
+            "words": [
+              {
+                "word": "あざれ",
+                "gloss": "fool.around"
+              },
+              {
+                "word": "あへ",
+                "gloss": "reciprocate.ADV.F"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "ADV.F": "adverbial form（連用形：〜て、〜に など）",
+          "CONJ": "conjunctive particle（接続助詞：〜て、〜ば）",
+          "GEN": "genitive particle（〜の）",
+          "LOC": "locative particle（〜にて、〜に）",
+          "PERF": "perfective（完了：〜ぬ、〜たり）",
+          "COP.REALIS.F": "copula, realis form（断定助動詞『なり』の已然形）",
+          "COND.F": "conditional form（〜ば、〜ど：条件・逆接）"
+        },
+        "translation-ja-natural": "身分の上下を問わず、皆が酔いつぶれて、潮の香る浜辺でふざけ合っていた。",
+        "translation-en-natural": "People of all ranks got drunk and were playfully fooling around by the salty seaside."
       },
       {
-        "date": "20241113",
+        "date": [
+          20241113,
+          20250606
+        ],
         "id": 10,
         "text": "廿三日、八木の康教といふ人あり。",
         "kana": "はつかあまりみか、やぎのやすのりといふひとあり。",
         "koutei-yamagen": "二十三日、八木の康教といふ人あり。",
-        "translation-ja": "二十三日に、八木の康教という人がいた。",
+        "translation-ja": "二十三日、八木の康教という人がいた。",
         "translation-en": "On the twenty-third, there was a person named Yasunori Yagi.",
-        "translation-ja-natural": "二十三日に、八木の康教という人がいました。",
-        "translation-en-natural": "In typical fashion, on the twenty-third, there appeared a chap by the name of Yasunori Yagi—yes, another one of those."
+        "phrase-gloss": [
+          {
+            "phrase": "廿三日",
+            "gloss": "23rd-day",
+            "words": [
+              {
+                "word": "廿三日",
+                "gloss": "23rd-day"
+              }
+            ]
+          },
+          {
+            "phrase": "八木の康教といふ人",
+            "gloss": "Yagi.PN GEN Yasunori.PN QUOT say.ATTR person",
+            "words": [
+              {
+                "word": "八木",
+                "gloss": "Yagi.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "康教",
+                "gloss": "Yasunori.PN"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              }
+            ]
+          },
+          {
+            "phrase": "あり",
+            "gloss": "exist",
+            "words": [
+              {
+                "word": "あり",
+                "gloss": "exist"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "GEN": "genitive particle（〜の）",
+          "QUOT": "quotative particle（〜と）",
+          "ATTR": "attributive form（連体形）"
+        },
+        "translation-ja-natural": "二十三日、八木の康教という人物がいた。",
+        "translation-en-natural": "On the 23rd, there was a man named Yasunori from Yagi."
       },
       {
-        "date": "20241113",
+        "date": [
+          20241113,
+          20250606
+        ],
         "id": 11,
-        "text": "この人國に必ずしもいひつかふ者にもあらざる（二字ずイ）なり。",
+        "text": "この人國に必ずしもいひつかふ者にもあらざるなり。",
         "kana": "このひとくににかならずしもいひつかふものにもあらざるなり。",
         "koutei-yamagen": "この人、国に必ずしも言ひつかう者にもあらざなり。",
-        "translation-ja": "この人は、国司庁でも必ずしも重用される者ではなかった。",
-        "translation-en": "This person was not necessarily someone who would be employed in the governor's office.",
-        "translation-ja-natural": "この人は、国司庁でも必ずしも重用される人ではありませんでした。",
-        "translation-en-natural": "Frankly, this fellow wasn't exactly the sort you'd see climbing the ranks at the governor's office—hardly the office favorite, shall we say."
+        "translation-ja": "この人は、国において必ずしも言いつかう者でもなかった。",
+        "translation-en": "This person was not necessarily someone who would be employed in the province.",
+        "phrase-gloss": [
+          {
+            "phrase": "この人",
+            "gloss": "this person",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              }
+            ]
+          },
+          {
+            "phrase": "國に",
+            "gloss": "province LOC",
+            "words": [
+              {
+                "word": "國",
+                "gloss": "province"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "必ずしも",
+            "gloss": "necessarily",
+            "words": [
+              {
+                "word": "必ずしも",
+                "gloss": "necessarily"
+              }
+            ]
+          },
+          {
+            "phrase": "いひつかふ者にも",
+            "gloss": "employ say.use person DAT.FOC",
+            "words": [
+              {
+                "word": "いひ",
+                "gloss": "say.ADV.F"
+              },
+              {
+                "word": "つかふ",
+                "gloss": "use.ATTR"
+              },
+              {
+                "word": "者",
+                "gloss": "person"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "も",
+                "gloss": "FOC"
+              }
+            ]
+          },
+          {
+            "phrase": "あらざるなり",
+            "gloss": "exist-NEG.ATTR COP.EXP",
+            "words": [
+              {
+                "word": "あら",
+                "gloss": "exist.ADV.F"
+              },
+              {
+                "word": "ざる",
+                "gloss": "NEG.ATTR"
+              },
+              {
+                "word": "なり",
+                "gloss": "COP.EXP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "LOC": "locative particle（〜に）",
+          "DAT": "dative particle（〜に）",
+          "FOC": "focus particle（〜も）",
+          "NEG.ATTR": "negative, attributive form（〜ざる）",
+          "COP.EXP": "copula, explanatory form（断定・説明『なり』）"
+        },
+        "translation-ja-natural": "この人物は、地方では特に重用されるような者ではなかった。",
+        "translation-en-natural": "This fellow was not someone who held an important position in the province."
       },
       {
         "date": "20241113",
