@@ -1175,15 +1175,90 @@
         "translation-en-natural": "This fellow was not someone who held an important position in the province."
       },
       {
-        "date": "20241113",
+        "date": [
+          20241113,
+          20250606
+        ],
         "id": 12,
         "text": "これぞ正しきやうにて馬の餞したる。",
         "kana": "これぞただしきやうにてうまのはなむけしたる。",
         "koutei-yamagen": "これぞ正しきやうにて馬の餞したる。",
         "translation-ja": "これこそが、正しいやり方で馬の餞をした。",
         "translation-en": "And yet, this person gave a horse as a farewell gift in a proper manner.",
-        "translation-ja-natural": "これこそが、堂々とした態度で馬の餞別をしたのです。",
-        "translation-en-natural": "And yet, here he is, putting on this grand show, giving a horse as a farewell gift, of all things!"
+        "phrase-gloss": [
+          {
+            "phrase": "これぞ",
+            "gloss": "this FOC",
+            "words": [
+              {
+                "word": "これ",
+                "gloss": "this"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "FOC"
+              }
+            ]
+          },
+          {
+            "phrase": "正しきやうにて",
+            "gloss": "correct ATTR manner LOC CONJ",
+            "words": [
+              {
+                "word": "正しき",
+                "gloss": "correct.ATTR"
+              },
+              {
+                "word": "やう",
+                "gloss": "manner"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "馬の餞したる",
+            "gloss": "horse GEN farewell do.PFV.ATTR",
+            "words": [
+              {
+                "word": "馬",
+                "gloss": "horse"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "餞",
+                "gloss": "farewell"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV.F"
+              },
+              {
+                "word": "たる",
+                "gloss": "PERF.ATTR"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "FOC": "focus particle（〜こそ、〜ぞ）",
+          "ATTR": "attributive form（連体形）",
+          "LOC": "locative particle（場所格：〜にて）",
+          "CONJ": "conjunctive particle（〜て）",
+          "GEN": "genitive particle（〜の）",
+          "PERF.ATTR": "perfective, attributive form（完了助動詞『たり』の連体形）"
+        },
+        "translation-ja-natural": "これこそ、きちんとした形で馬の餞別をした人だった。",
+        "translation-en-natural": "This, indeed, was someone who properly offered a farewell gift of a horse."
       },
       {
         "date": "20241115",
