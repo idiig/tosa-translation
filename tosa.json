@@ -1261,15 +1261,178 @@
         "translation-en-natural": "This, indeed, was someone who properly offered a farewell gift of a horse."
       },
       {
-        "date": "20241115",
+        "date": [
+          20241115,
+          20250607
+        ],
         "id": 13,
-        "text": "かみがらにやあらむ、國人の心の常として今はとて見えざなるを心あるものは恥ぢずき（ぞイ）なむきける。",
+        "text": "かみがらにやあらむ、國人の心の常として今はとて見えざなるを心あるものは恥ぢずきなむきける。",
         "kana": "かみがらにやあらむ、くにびとのこころのつねとしていまはとてみえざなるをこころあるものははぢずきなむきける。",
         "koutei-yamagen": "守がらにやあらむ、国人の心の常として、今はとて見えざなるを、心あるものは恥じずきなむ来ける。",
         "translation-ja": "守の人柄なのだろうか、国人の心の常としては、今はもう会うこともないのに、心のある人は気兼ねなく、なんとかして来ている。",
         "translation-en": "Could it be because of the governor's character? As is usual with the feelings of the provincial people, they think there is no longer any need to visit now, yet those with a sincere heart came without hesitation.",
-        "translation-ja-natural": "守（国司）の人柄のせいなのでしょうか、任国の人々の心情としては、もう今さら会いに来ることもないのに、真心のある人は気兼ねせずにここに来てくれました。",
-        "translation-en-natural": "Maybe it's the governor's charm or something? Honestly, most of the local folks are like, 'Oh, it's too late now, no point showing up.' But the truly decent ones? They just rock up, no fuss, no shame."
+        "phrase-gloss": [
+          {
+            "phrase": "かみがらにやあらむ",
+            "gloss": "governor.character LOC FOC exist.SUP",
+            "words": [
+              {
+                "word": "かみがら",
+                "gloss": "governor.character"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "や",
+                "gloss": "FOC"
+              },
+              {
+                "word": "あら",
+                "gloss": "exist.NEG.BASE"
+              },
+              {
+                "word": "む",
+                "gloss": "SUP"
+              }
+            ]
+          },
+          {
+            "phrase": "國人の心の常として",
+            "gloss": "provincial.people GEN heart GEN custom as",
+            "words": [
+              {
+                "word": "國人",
+                "gloss": "provincial.people"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "心",
+                "gloss": "heart"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "常",
+                "gloss": "custom"
+              },
+              {
+                "word": "として",
+                "gloss": "as"
+              }
+            ]
+          },
+          {
+            "phrase": "今はとて見えざなるを",
+            "gloss": "now FOC QUOT appear NEG be.ATTR ACC",
+            "words": [
+              {
+                "word": "今",
+                "gloss": "now"
+              },
+              {
+                "word": "は",
+                "gloss": "FOC"
+              },
+              {
+                "word": "とて",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "見え",
+                "gloss": "appear"
+              },
+              {
+                "word": "ざ",
+                "gloss": "NEG"
+              },
+              {
+                "word": "なる",
+                "gloss": "be.ATTR"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              }
+            ]
+          },
+          {
+            "phrase": "心あるものは",
+            "gloss": "heart have.ATTR person TOP",
+            "words": [
+              {
+                "word": "心",
+                "gloss": "heart"
+              },
+              {
+                "word": "ある",
+                "gloss": "have.ATTR"
+              },
+              {
+                "word": "もの",
+                "gloss": "person"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "恥ぢずきなむきける",
+            "gloss": "hesitate NEG come EMPH come.ADV.F PST.REP",
+            "words": [
+              {
+                "word": "恥ぢ",
+                "gloss": "hesitate"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "き",
+                "gloss": "come"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "き",
+                "gloss": "come.ADV.F"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.REP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "LOC": "locative particle（〜に）",
+          "FOC": "focus particle（〜や、〜は）",
+          "SUP": "suppositional（〜む：推量）",
+          "GEN": "genitive particle（〜の）",
+          "COP.ADJ.F": "copula, adverbial form（〜と）",
+          "CONJ": "conjunctive particle（〜して）",
+          "QUOT": "quotative particle（〜とて）",
+          "NEG": "negation（〜ず）",
+          "EXP.NMLZ": "explanatory nominalizer（〜なる）",
+          "ACC": "accusative particle（〜を）",
+          "ATTR": "attributive form（連体形）",
+          "TOP": "topic particle（〜は）",
+          "EMPH": "emphatic particle（〜なむ）",
+          "PST.REP": "past, hearsay（〜ける）"
+        },
+        "translation-ja-natural": "これは守の人柄ゆえなのだろうか。地方の人の常として、今さら会うこともあるまいと思って姿を見せないが、心ある人は気兼ねせずに、なんとかしてやって来てくれたのだった。",
+        "translation-en-natural": "Could it be due to the governor's character? The locals, as is often the case, assumed there was no more need to visit, but those with sincere hearts came despite that, without hesitation."
       },
       {
         "date": "20241116",
