@@ -1521,15 +1521,76 @@
         "translation-en-natural": "This is not something to praise merely because of a gift."
       },
       {
-        "date": "20241117",
+        "date": [
+          20241117,
+          20250608
+        ],
         "id": 15,
         "text": "廿四日、講師馬の餞しに出でませり。",
         "kana": "はつかあまりよか、こうじうまのはなむけしにいでませり。",
         "koutei-yamagen": "二十四日、講師、馬の餞しに出でませり。",
-        "translation-ja": "二十四日、講師が餞別においでになりました。",
-        "translation-en": "On the twenty-fourth, the monk came to offer a farewell.",
-        "translation-ja-natural": "二十四日、講師が馬の餞別を持ってやってきました。",
-        "translation-en-natural": "So, on the twenty-fourth, this monk shows up for some kind of farewell thing. Honestly, I don’t even know if it involved a horse or not!"
+        "translation-ja": "二十四日、講師が餞別においでになった。",
+        "translation-en": "On the twenty-fourth, the lecturer came to offer a farewell.",
+        "phrase-gloss": [
+          {
+            "phrase": "廿四日",
+            "gloss": "24th-day",
+            "words": [
+              {
+                "word": "廿四日",
+                "gloss": "24th-day"
+              }
+            ]
+          },
+          {
+            "phrase": "講師馬の餞しに",
+            "gloss": "lecturer horse.farewell do.ADV.F LOC",
+            "words": [
+              {
+                "word": "講師",
+                "gloss": "lecturer"
+              },
+              {
+                "word": "馬の餞",
+                "gloss": "horse.farewell"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV.F"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "出でませり",
+            "gloss": "go.out HON.POL.PERF",
+            "words": [
+              {
+                "word": "出で",
+                "gloss": "go.out.ADV.F"
+              },
+              {
+                "word": "ませ",
+                "gloss": "POL.ADV.F"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "GEN": "genitive particle（〜の）",
+          "LOC": "locative particle（場所格：〜に）",
+          "POL": "polite auxiliary（丁寧助動詞）",
+          "PERF": "perfective auxiliary（完了助動詞）"
+        },
+        "translation-ja-natural": "二十四日、講師が馬の餞別のためにお越しになった。",
+        "translation-en-natural": "On the 24th, the lecturer came to present a farewell gift involving a horse."
       },
       {
         "date": "20241117",
