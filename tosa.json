@@ -1435,15 +1435,90 @@
         "translation-en-natural": "Could it be due to the governor's character? The locals, as is often the case, assumed there was no more need to visit, but those with sincere hearts came despite that, without hesitation."
       },
       {
-        "date": "20241116",
+        "date": [
+          20241116,
+          20250608
+        ],
         "id": 14,
         "text": "これは物によりて譽むるにしもあらず。",
         "kana": "これはものによりてほむるにしもあらず。",
         "koutei-yamagen": "これは物によりて褒むるにしもあらず。",
         "translation-ja": "これは物によって褒められるに値することではない。",
         "translation-en": "This is not about praising someone just because they gave you something.",
-        "translation-ja-natural": "これは、物をもらったから褒めるのではありません。",
-        "translation-en-natural": "It's not like I'm going to praise someone just because they gave me something, is it?"
+        "phrase-gloss": [
+          {
+            "phrase": "これは",
+            "gloss": "this TOP",
+            "words": [
+              {
+                "word": "これ",
+                "gloss": "this"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "物によりて",
+            "gloss": "gift LOC depend CONJ",
+            "words": [
+              {
+                "word": "物",
+                "gloss": "gift"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "より",
+                "gloss": "depend.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "譽むるにしもあらず",
+            "gloss": "praise.ATTR LOC EMPH NEG",
+            "words": [
+              {
+                "word": "譽むる",
+                "gloss": "praise.ATTR"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "しも",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "あら",
+                "gloss": "exist.NEG.BASE"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "TOP": "topic particle（〜は）",
+          "LOC": "locative particle（〜に）",
+          "CONJ": "conjunctive particle（〜て）",
+          "ATTR": "attributive form（連体形）",
+          "EMPH": "emphatic particle（〜しも）",
+          "NEG": "negation（〜ず、〜あらず）"
+        },
+        "translation-ja-natural": "これは、物をもらったからといって褒めるようなことではない。",
+        "translation-en-natural": "This is not something to praise merely because of a gift."
       },
       {
         "date": "20241117",
