@@ -1739,15 +1739,94 @@
         "translation-en-natural": "Everyone, regardless of rank—even children—were completely drunk, and even those who couldn’t recognize the simplest character were dancing and playing, stamping in the shape of a cross."
       },
       {
-        "date": "20241118",
+        "date": [
+          20241118,
+          20250613
+        ],
         "id": 17,
         "text": "廿五日、守のたちより呼びに文もて來れり。",
         "kana": "はつかあまりいつか、かみのたちより、よびにふみもてこれり。",
         "koutei-yamagen": "二十五日、守の館より呼びに文持て来れり。",
-        "translation-ja": "二十五日、守の館より、守りの使者が招待の手紙を持って来ました。",
-        "translation-en": "On the twenty-fifth, a messenger from the governor's residence brought a letter of invitation.",
-        "translation-ja-natural": "二十五日、守の館から、使者が招待状を持ってきました。",
-        "translation-en-natural": "So, on the twenty-fifth, a messenger turned up from the governor's residence with an invitation. Quite formal, really, but you have to wonder what's behind it."
+        "translation-ja": "二十五日、守の館から、呼ぶために手紙を持って来た。",
+        "translation-en": "On the twenty-fifth, from the governor’s residence, someone came bringing a letter to summon (us).",
+        "phrase-gloss": [
+          {
+            "phrase": "廿五日",
+            "gloss": "25th-day",
+            "words": [
+              {
+                "word": "廿五日",
+                "gloss": "25th-day"
+              }
+            ]
+          },
+          {
+            "phrase": "守のたちより",
+            "gloss": "governor GEN mansion from",
+            "words": [
+              {
+                "word": "守",
+                "gloss": "governor"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "たち",
+                "gloss": "mansion"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              }
+            ]
+          },
+          {
+            "phrase": "呼びに",
+            "gloss": "summon PURPOSE",
+            "words": [
+              {
+                "word": "呼び",
+                "gloss": "summon"
+              },
+              {
+                "word": "に",
+                "gloss": "PURPOSE"
+              }
+            ]
+          },
+          {
+            "phrase": "文もて來れり",
+            "gloss": "letter bring come PERF",
+            "words": [
+              {
+                "word": "文",
+                "gloss": "letter"
+              },
+              {
+                "word": "もて",
+                "gloss": "bring.ADV.F"
+              },
+              {
+                "word": "來れ",
+                "gloss": "come.REALIS.F"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "GEN": "genitive particle（〜の）",
+          "REALIS.F": "realis form（已然形）",
+          "PURPOSE": "purpose particle（〜に：動作目的）",
+          "PERF": "perfective auxiliary（完了助動詞『り』）"
+        },
+        "translation-ja-natural": "二十五日、守の館から、呼びに人が来て、手紙を持ってきた。",
+        "translation-en-natural": "On the 25th, someone arrived from the governor's mansion, bringing a letter to invite us."
       },
       {
         "date": "20241119",
