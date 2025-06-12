@@ -1829,15 +1829,114 @@
         "translation-en-natural": "On the 25th, someone arrived from the governor's mansion, bringing a letter to invite us."
       },
       {
-        "date": "20241119",
+        "date": [
+          20241119,
+          20250613
+        ],
         "id": 18,
         "text": "呼ばれて至りて日ひとひ夜ひとよとかく遊ぶやうにて明けにけり。",
         "kana": "よばれていたりてひとひよひとよとかくあそぶやうにてあけにけり。",
         "koutei-yamagen": "呼ばれて至りて、日一日、夜一夜とかく遊ぶようにて明けにけり。",
-        "translation-ja": "招待されて行き、一日一夜と遊ぶようにして、夜が明けました。",
-        "translation-en": "Having been invited and gone, he spent a day and a night playing in this way, and the dawn broke.",
-        "translation-ja-natural": "招かれて出向き、一日一夜をあれこれ楽しんでいるうちに、夜が明けました。",
-        "translation-en-natural": "So, got invited, showed up, and ended up spending the whole day and night just messing around. Before I knew it, dawn was breaking. Typical."
+        "translation-ja": "呼ばれて至りて、日ひとひ夜ひとよ、とかく遊ぶやうにして、明けにけり。",
+        "translation-en": "Having been called and arrived, through a day and a night, in various ways playing as if so, it became dawn.",
+        "phrase-gloss": [
+          {
+            "phrase": "呼ばれて至りて",
+            "gloss": "be.called CONJ arrive CONJ",
+            "words": [
+              {
+                "word": "呼ば",
+                "gloss": "call.NEG.BASE"
+              },
+              {
+                "word": "れ",
+                "gloss": "PASS.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "至り",
+                "gloss": "arrive.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "日ひとひ夜ひとよ",
+            "gloss": "day one.day night one.night",
+            "words": [
+              {
+                "word": "日",
+                "gloss": "day"
+              },
+              {
+                "word": "ひとひ",
+                "gloss": "one.day"
+              },
+              {
+                "word": "夜",
+                "gloss": "night"
+              },
+              {
+                "word": "ひとよ",
+                "gloss": "one.night"
+              }
+            ]
+          },
+          {
+            "phrase": "とかく遊ぶやうにて",
+            "gloss": "variously play do.as.if CONJ",
+            "words": [
+              {
+                "word": "とかく",
+                "gloss": "variously"
+              },
+              {
+                "word": "遊ぶ",
+                "gloss": "play"
+              },
+              {
+                "word": "やう",
+                "gloss": "do.as.if"
+              },
+              {
+                "word": "にて",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "明けにけり",
+            "gloss": "dawn PERF PST.REP",
+            "words": [
+              {
+                "word": "明け",
+                "gloss": "dawn.ADV.F"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST.REP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "CONJ": "conjunctive form（〜て、〜にて）",
+          "PERF": "perfective auxiliary（完了助動詞『ぬ』）",
+          "PASS.ADV.F": "passive, adverbial form（受身の連用形）",
+          "PST.REP": "past, hearsay（過去伝聞：〜けり）"
+        },
+        "translation-ja-natural": "呼ばれて出かけ、一日一夜のあいだ、いろいろと遊びながら夜が明けた。",
+        "translation-en-natural": "He was invited and went, and after a whole day and night of various amusements, dawn came."
       },
       {
         "date": "20241121",
