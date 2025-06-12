@@ -1593,14 +1593,150 @@
         "translation-en-natural": "On the 24th, the lecturer came to present a farewell gift involving a horse."
       },
       {
-        "date": "20241117",
+        "date": [
+          20241117,
+          20250612
+        ],
         "id": 16,
         "text": "ありとある上下童まで醉ひしれて、一文字をだに知らぬものしが、足は十文字に踏みてぞ遊ぶ。",
         "kana": "ありとあるかみしもわらわまでゑひしれて、いちもんじをだにしらぬものしが、あしはじふもんじにふみてぞあそぶ。",
         "koutei-yamagen": "ありとある上、下、童まで醉ひしれて、一文字をだに知らぬものしが、足は十文字に踏みてぞ遊ぶ。",
-        "translation-ja": "ありとあらゆる身分の上の者も下の者も、子供までも酔いしれて、一文字すら知らない者が、十文字に踏んで遊んでいました。",
-        "translation-en": "Everyone, from those of high rank to low rank, even children, were drunk, and those who didn't even know the character for 'one' were stepping with their feet in the shape of the character for 'ten' and playing.",
-        "translation-en-natural": "Honestly, everyone, high and low, even the kids, got absolutely smashed. Even the ones who could not tell you that 'one' is just a straight line were stumbling around, crossing their feet like the character 'ten', which looks like a big cross, and having the time of their lives."
+        "translation-ja": "ある限りの上の者、下の者、子供に至るまで酔いしれ、一文字すら知らない者が、足は十文字に踏んで遊んでいた。",
+        "translation-en": "Everyone present, from high to low and even children, were drunk; those who did not even know the character for 'one' stepped with their feet in the shape of 'ten' and played.",
+        "phrase-gloss": [
+          {
+            "phrase": "ありとある上下童まで",
+            "gloss": "existing GEN all upper.lower children up.to",
+            "words": [
+              {
+                "word": "あり",
+                "gloss": "exist"
+              },
+              {
+                "word": "と",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ある",
+                "gloss": "exist"
+              },
+              {
+                "word": "上下",
+                "gloss": "upper.lower"
+              },
+              {
+                "word": "童",
+                "gloss": "children"
+              },
+              {
+                "word": "まで",
+                "gloss": "up.to"
+              }
+            ]
+          },
+          {
+            "phrase": "醉ひしれて",
+            "gloss": "be.drunk be.intoxicated.ADV.F CONJ",
+            "words": [
+              {
+                "word": "醉ひ",
+                "gloss": "be.drunk.ADV.F"
+              },
+              {
+                "word": "しれ",
+                "gloss": "be.intoxicated.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "一文字をだに知らぬものしが",
+            "gloss": "one.character ACC even know NEG person TOP",
+            "words": [
+              {
+                "word": "一文字",
+                "gloss": "one.character"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "だに",
+                "gloss": "even"
+              },
+              {
+                "word": "知ら",
+                "gloss": "know.NEG.BASE"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG.ATTR"
+              },
+              {
+                "word": "もの",
+                "gloss": "person"
+              }
+            ]
+          },
+          {
+            "phrase": "しが足は十文字に踏みてぞ遊ぶ",
+            "gloss": "those of feet TOP cross.shape LOC step.CONJ FOC play",
+            "words": [
+              {
+                "word": "し",
+                "gloss": "that/those"
+              },
+              {
+                "word": "が",
+                "gloss": "of"
+              },
+              {
+                "word": "足",
+                "gloss": "feet"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "十文字",
+                "gloss": "cross.shape"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "踏みて",
+                "gloss": "step.CONJ"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "FOC"
+              },
+              {
+                "word": "遊ぶ",
+                "gloss": "play"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "ACC": "accusative particle（〜を）",
+          "CONJ": "conjunctive form（〜て）",
+          "even": "emphatic particle for minimal degree（〜すら、〜だに）",
+          "FOC": "focus particle（係助詞：〜ぞ）",
+          "GEN": "genitive or connective particle（〜とある）",
+          "LOC": "locative particle（〜に）",
+          "NEG": "negative auxiliary（〜ぬ）",
+          "TOP": "topic particle（〜は・〜が）"
+        },
+        "translation-ja-natural": "身分の上下を問わず、子供までもが酔いしれて、一文字すら読めないような者が、十文字を踏んで遊んでいた。",
+        "translation-en-natural": "Everyone, regardless of rank—even children—were completely drunk, and even those who couldn’t recognize the simplest character were dancing and playing, stamping in the shape of a cross."
       },
       {
         "date": "20241118",
