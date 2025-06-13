@@ -1939,15 +1939,121 @@
         "translation-en-natural": "He was invited and went, and after a whole day and night of various amusements, dawn came."
       },
       {
-        "date": "20241121",
+        "date": [
+          20241121,
+          20250613
+        ],
         "id": 19,
         "text": "廿六日、なほ守のたちにてあるじしのゝしりてをのこらまでに物かづけたり。",
         "kana": "はつかあまりむいか、なほかみのたちにてあるじしののしりてをのこらまでにものかづけたり。",
         "koutei-yamagen": "二十六日、なお守の館にて主人の知りてを残らまでに物かづけたり。",
-        "translation-ja": "二十六日、またもなお、守の館で饗宴をし、騒ぎ立て、付き人にまでよい物を持たせてくれました。",
-        "translation-en": "On the twenty-sixth, yet again, at the governor's residence, a feast was held, there was much commotion, and even the attendants were made to carry fine items.",
-        "translation-ja-natural": "二十六日もまた、国司の館で盛大な宴が開かれ、大騒ぎの末、こなくてもよかった付き人にまで、気前よくおみやげを持たせてくれました。",
-        "translation-en-natural": "On the 26th, yet another feast at the governor's place. The whole thing turned into a loud, chaotic mess: pandemonium, bananas, you name it. And guess what? Even the guys who didn't really need to be there walked away with some nice goodies. Typical."
+        "translation-ja": "二十六日、やはり守の館で饗応し、騒ぎ立てて、男たちにまで物を与えた。",
+        "translation-en": "On the twenty-sixth, again at the governor’s residence, he hosted a feast, made a commotion, and bestowed gifts even upon the men.",
+        "phrase-gloss": [
+          {
+            "phrase": "廿六日",
+            "gloss": "26th-day",
+            "words": [
+              {
+                "word": "廿六日",
+                "gloss": "26th-day"
+              }
+            ]
+          },
+          {
+            "phrase": "なほ守のたちにて",
+            "gloss": "still governor GEN residence LOC",
+            "words": [
+              {
+                "word": "なほ",
+                "gloss": "still"
+              },
+              {
+                "word": "守",
+                "gloss": "governor"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "たち",
+                "gloss": "residence"
+              },
+              {
+                "word": "にて",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "あるじしのゝしりて",
+            "gloss": "host feast make.noise.CONJ",
+            "words": [
+              {
+                "word": "あるじ",
+                "gloss": "host.feast"
+              },
+              {
+                "word": "し",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "のゝしり",
+                "gloss": "make.noise.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "をのこらまでに",
+            "gloss": "men PL up.to.LOC",
+            "words": [
+              {
+                "word": "をのこら",
+                "gloss": "men.PL"
+              },
+              {
+                "word": "まで",
+                "gloss": "up.to"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "物かづけたり",
+            "gloss": "goods bestow PERF",
+            "words": [
+              {
+                "word": "物",
+                "gloss": "goods"
+              },
+              {
+                "word": "かづけ",
+                "gloss": "bestow.ADV.F"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "GEN": "genitive particle（〜の）",
+          "LOC": "locative particle（〜に・〜にて）",
+          "CONJ": "conjunctive form（〜て）",
+          "PL": "plural suffix or interpretation（複数形：〜ら）",
+          "PERF": "perfective auxiliary（完了助動詞『たり』）"
+        },
+        "translation-ja-natural": "二十六日、また守の館で酒宴が催され、騒ぎもあって、男たちにまで贈り物が配られた。",
+        "translation-en-natural": "On the 26th, there was yet another banquet at the governor's residence, with lively revelry, and even the men received gifts."
       },
       {
         "date": "20241123",
