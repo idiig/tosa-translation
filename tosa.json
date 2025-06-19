@@ -2056,37 +2056,207 @@
         "translation-en-natural": "On the 26th, there was yet another banquet at the governor's residence, with lively revelry, and even the men received gifts."
       },
       {
-        "date": "20241123",
+        "date": [
+          20241123,
+          20250618
+        ],
         "id": 20,
         "text": "からうた聲あげていひけり。",
         "kana": "からうたこゑあけていひけり。",
         "koutei-yamagen": "からうた声あげて言ひけり。",
-        "translation-ja": "漢詩は声を上げて詠みました。",
-        "translation-en": "They recited a Chinese poem, raising their voices.",
-        "translation-ja-natural": "漢詩は声を張り上げて詠みました。",
-        "translation-en-natural": "They recited a Chinese poem, raising their voices."
+        "translation-ja": "漢詩を声を上げて言った。",
+        "translation-en": "They said a Chinese poem aloud.",
+        "phrase-gloss": [
+          {
+            "phrase": "からうた",
+            "gloss": "Chinese.poem",
+            "words": [
+              {
+                "word": "からうた",
+                "gloss": "Chinese.poem"
+              }
+            ]
+          },
+          {
+            "phrase": "聲あげて",
+            "gloss": "voice raise.CONJ",
+            "words": [
+              {
+                "word": "聲",
+                "gloss": "voice"
+              },
+              {
+                "word": "あげ",
+                "gloss": "raise"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "いひけり",
+            "gloss": "say PST.REP",
+            "words": [
+              {
+                "word": "いひ",
+                "gloss": "say"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST.REP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "CONJ": "conjunctive particle（〜て：動作や状態の接続）",
+          "PST.REP": "past tense, hearsay/reportative（〜けり：伝聞・過去）"
+        },
+        "translation-ja-natural": "みんな声を張り上げて、漢詩を唱えた。",
+        "translation-en-natural": "They all raised their voices and recited a Chinese poem."
       },
       {
-        "date": "20241123",
+        "date": [
+          20241123,
+          20250618
+        ],
         "id": 21,
         "text": "やまとうた、あるじもまらうどもこと人もいひあへりけり。",
         "kana": "やまとうた、あるじもまらうどもことひともいひあへりけり。",
         "koutei-yamagen": "和歌、主も客人もこと人も言ひあへりけり。",
-        "translation-ja": "和歌を、主人も客人もこと人も、たがいに言い交わしました。",
-        "translation-en": "They exchanged Japanese poems, the host, the guests, and even others present.",
-        "translation-ja-natural": "和歌を、主人も客人も、その他の人たちも、みんなで和歌を詠み合いました。",
-        "translation-en-natural": "They all took turns reciting Japanese poems, the host, the guests, and even some other folks who were there."
+        "translation-ja": "和歌を、主人も、客人たちも、他の人たちも、言い合った。",
+        "translation-en": "They recited Japanese poems to each other—both the host, the guests, and even others present.",
+        "phrase-gloss": [
+          {
+            "phrase": "やまとうた",
+            "gloss": "Japanese.poem",
+            "words": [
+              {
+                "word": "やまとうた",
+                "gloss": "Japanese.poem"
+              }
+            ]
+          },
+          {
+            "phrase": "あるじも",
+            "gloss": "host ADD",
+            "words": [
+              {
+                "word": "あるじ",
+                "gloss": "host"
+              },
+              {
+                "word": "も",
+                "gloss": "ADD"
+              }
+            ]
+          },
+          {
+            "phrase": "まらうども",
+            "gloss": "guest.PL ADD",
+            "words": [
+              {
+                "word": "まらうど",
+                "gloss": "guest"
+              },
+              {
+                "word": "も",
+                "gloss": "ADD"
+              }
+            ]
+          },
+          {
+            "phrase": "こと人も",
+            "gloss": "other.person ADD",
+            "words": [
+              {
+                "word": "こと人",
+                "gloss": "other.person"
+              },
+              {
+                "word": "も",
+                "gloss": "ADD"
+              }
+            ]
+          },
+          {
+            "phrase": "いひあへりけり",
+            "gloss": "say mutually.PERF PST.REP",
+            "words": [
+              {
+                "word": "いひ",
+                "gloss": "say"
+              },
+              {
+                "word": "あへり",
+                "gloss": "mutually.PERF"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST.REP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "ADD": "additive particle（〜も：〜もまた）",
+          "PL": "plural marker（複数形）",
+          "PERF": "perfect aspect（完了：〜り）",
+          "PST.REP": "past tense, reportative（伝聞・過去：〜けり）"
+        },
+        "translation-ja-natural": "主人も客人も、そして他の人たちも、みんなで和歌を詠み交わした。",
+        "translation-en-natural": "Everyone—the host, the guests, and others—took turns reciting Japanese poems together."
       },
       {
-        "date": "20241124",
+        "date": [
+          20241124,
+          20250619
+        ],
         "id": 22,
         "text": "からうたはこれにえ書かず。",
         "kana": "からうたはこれにえかかず。",
         "koutei-yamagen": "漢詩はこれにえ書かず。",
-        "translation-ja": "漢詩は、これには書きません。",
-        "translation-en": "I won't write down the Chinese poem here.",
-        "translation-ja-natural": "漢詩は、これには書きません。",
-        "translation-en-natural": "I won't write down the Chinese poem here."
+        "translation-ja": "漢詩は、これには書くことができない。",
+        "translation-en": "Chinese poems cannot be written in this.",
+        "phrase-gloss": [
+          [
+            "からうた",
+            "Chinese poem"
+          ],
+          [
+            "は",
+            "TOP"
+          ],
+          [
+            "これ",
+            "this"
+          ],
+          [
+            "に",
+            "LOC"
+          ],
+          [
+            "え",
+            "can"
+          ],
+          [
+            "書か",
+            "write-NEG.BASE"
+          ],
+          [
+            "ず",
+            "NEG"
+          ]
+        ],
+        "glossary-abbreviations": {
+          "TOP": "topic particle（〜は）",
+          "LOC": "locative particle（〜に）",
+          "NEG": "negation（〜ない）"
+        },
+        "translation-ja-natural": "漢詩はここには書かないことにする。",
+        "translation-en-natural": "I won’t include the Chinese poem here."
       },
       {
         "date": "20241124",
