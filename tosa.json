@@ -2212,62 +2212,185 @@
       {
         "date": [
           20241124,
-          20250619
+          20250619,
+          20250624
         ],
         "id": 22,
         "text": "からうたはこれにえ書かず。",
         "kana": "からうたはこれにえかかず。",
         "koutei-yamagen": "漢詩はこれにえ書かず。",
-        "translation-ja": "漢詩は、これには書くことができない。",
-        "translation-en": "Chinese poems cannot be written in this.",
+        "translation-ja": "漢詩は、これには書くことができなかった。",
+        "translation-en": "Chinese poems could not be written in this.",
         "phrase-gloss": [
-          [
-            "からうた",
-            "Chinese poem"
-          ],
-          [
-            "は",
-            "TOP"
-          ],
-          [
-            "これ",
-            "this"
-          ],
-          [
-            "に",
-            "LOC"
-          ],
-          [
-            "え",
-            "can"
-          ],
-          [
-            "書か",
-            "write-NEG.BASE"
-          ],
-          [
-            "ず",
-            "NEG"
-          ]
+          {
+            "phrase": "からうたは",
+            "gloss": "Chinese.poem TOP",
+            "words": [
+              {
+                "word": "からうた",
+                "gloss": "Chinese.poem"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "これに",
+            "gloss": "this LOC",
+            "words": [
+              {
+                "word": "これ",
+                "gloss": "this"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "え書かず",
+            "gloss": "POT.NEG write NEG",
+            "words": [
+              {
+                "word": "え",
+                "gloss": "POT.NEG"
+              },
+              {
+                "word": "書か",
+                "gloss": "write.NEG.BASE"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
         ],
         "glossary-abbreviations": {
+          "NEG.BASE": "negative base form (未然形)",
           "TOP": "topic particle（〜は）",
           "LOC": "locative particle（〜に）",
-          "NEG": "negation（〜ない）"
+          "POT.NEG": "potential negation（〜できない）",
+          "NEG": "negation（〜ず）"
         },
-        "translation-ja-natural": "漢詩はここには書かないことにする。",
-        "translation-en-natural": "I won’t include the Chinese poem here."
+        "translation-ja-natural": "漢詩は、ここには書けません。",
+        "translation-en-natural": "I cannot write Chinese poetry here."
       },
       {
-        "date": "20241124",
+        "date": [
+          20241124,
+          20250624
+        ],
         "id": 23,
         "text": "やまとうたあるじの守のよめりける、",
         "kana": "やまとうたあるじのかみのよめりける、",
         "koutei-yamagen": "和歌、主の守の詠めりける、",
-        "translation-ja": "主人である新国司が詠んだ和歌は、",
-        "translation-en": "The Japanese poem recited was composed by the host, the new governor.",
-        "translation-ja-natural": "主人である新国司が詠んだ和歌は、",
-        "translation-en-natural": "The Japanese poem recited was composed by the host, the new governor."
+        "translation-ja": "やまとうた、あるじである国守が詠んだのは、",
+        "translation-en": "The Japanese poem composed by the host, the governor, is...",
+        "phrase-gloss": [
+          {
+            "phrase": "やまとうた",
+            "gloss": "Japanese.poem",
+            "words": [
+              {
+                "word": "やまと",
+                "gloss": "Yamato"
+              },
+              {
+                "word": "うた",
+                "gloss": "poem"
+              }
+            ]
+          },
+          {
+            "phrase": "あるじの",
+            "gloss": "host GEN",
+            "words": [
+              {
+                "word": "あるじ",
+                "gloss": "host"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "守の",
+            "gloss": "governor GEN",
+            "words": [
+              {
+                "word": "守",
+                "gloss": "governor"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "よめりける",
+            "gloss": "compose-EVID-PST",
+            "words": [
+              {
+                "word": "よめ",
+                "gloss": "compose"
+              },
+              {
+                "word": "り",
+                "gloss": "EVID"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "GEN": "genitive particle（〜の）",
+          "EVID": "evidential auxiliary（〜り）",
+          "PST": "past auxiliary（〜ける）"
+        },
+        "translation-ja-natural": "この和歌は、主人である新任の国司が詠んだもので、",
+        "translation-en-natural": "This poem, a waka, was composed by the host—the new governor—and ...",
+        "notes-ja": [
+          {
+            "即時文法研究ノート": {
+              "例文": "やまとうたあるじの守のよめりける、",
+              "文構造": "倒置を含む挿入句であり、主題提示「やまとうた」が先行し、修飾部「あるじの守」、述部「よめりける」が続く構造となっている。文末が読点で終わることにより、この部分が主文への導入句であることが明示される。",
+              "即時処理": [
+                "1. 「やまとうた」で話題が先に提示される。",
+                "2. 「あるじの」で和歌の詠み手が話題の所有者であることが示唆される。",
+                "3. 「守の」で具体的な人物（新国司）を特定しながら、読者は修飾関係を整理する。",
+                "4. 「よめりける」でようやく詠んだ事実が確定される。",
+                "5. 最後の「、」により、今までの情報が背景説明であったと理解される。"
+              ],
+              "即時文法的特徴": "主題を先に出すことで読者の認知処理を促進し、述部は遅れて提示される。語順の調整なしに理解が成立する即時処理を示す好例である。"
+            }
+          }
+        ],
+        "notes-en": [
+          {
+            "Immediate Grammar Notes": {
+              "Example": "Yamato-uta, Aruji-no kami no yomerikeru,",
+              "Structure": "This is an inverted and parenthetical clause. The topic 'yamato-uta' appears first, followed by the modifier 'arujino-mamoru' (the host governor), and finally the predicate 'yomerikeru' (composed). The comma at the end signals that this clause provides background information.",
+              "Step-by-step processing": [
+                "1. 'Yamato-uta' introduces the topic immediately.",
+                "2. 'aruji-no' implies ownership of the poem.",
+                "3. 'kami-no' clarifies that the owner is the new provincial governor.",
+                "4. 'yomerikeru' completes the predication that he composed the poem.",
+                "5. The final comma indicates this was a prefatory remark to the main clause."
+              ],
+              "Features of immediate grammar": "This structure shows how comprehension proceeds naturally in surface order without needing reordering. It is a clear case where immediate topic presentation helps the reader anticipate the content, with the predicate resolved at the end."
+            }
+          }
+        ]
       },
       {
         "date": "20241125",
