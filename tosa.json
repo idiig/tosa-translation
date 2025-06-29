@@ -2393,15 +2393,131 @@
         ]
       },
       {
-        "date": "20241125",
+        "date": [
+          20241125,
+          20250629
+        ],
         "id": 24,
         "poem": "都いでゝ/君に逢はむと/こしものを/こしかひもなく/別れぬるかな",
         "kana": "みやこいでて/きみにあはむと/こしものを/こしかひもなく/わかれぬるかな",
         "koutei-yamagen": "都出でて/君に逢はむと/こしものを/こしかひもなく/別れぬるかな",
-        "translation-ja": "都を出て、君に逢いたいと来たのに、来た甲斐もなく、別れてしまうのでしょうか。",
-        "translation-en": "Leaving the capital, to meet you I came, yet, though I came, we part, how regretful.",
-        "translation-ja-natural": "都を出発して、あなたに逢いたいと思って来たのに、すぐに別れてしまうのでしょうか。",
-        "translation-en-natural": "Leaving the capital, I came to meet you, but now, having come, we part. How sad."
+        "translation-ja": "都を出て、君に逢おうと来たのに、来た甲斐もなく、別れてしまったことだなあ。",
+        "translation-en": "Leaving the capital, intending to meet you I came, yet, though I came, without any worth, we parted, how it is.",
+        "phrase-gloss": [
+          {
+            "phrase": "都いでゝ",
+            "gloss": "Leaving the capital",
+            "words": [
+              {
+                "word": "都",
+                "gloss": "capital"
+              },
+              {
+                "word": "いで",
+                "gloss": "depart.ADV.F"
+              },
+              {
+                "word": "ゝ",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "君に逢はむと",
+            "gloss": "intending to meet you",
+            "words": [
+              {
+                "word": "君",
+                "gloss": "you (lord)"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "逢は",
+                "gloss": "meet.NEG.BASE"
+              },
+              {
+                "word": "む",
+                "gloss": "INTENT"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              }
+            ]
+          },
+          {
+            "phrase": "こしものを",
+            "gloss": "come.PST.ATTR regretful.CONJ",
+            "words": [
+              {
+                "word": "こ",
+                "gloss": "come.ADV.F"
+              },
+              {
+                "word": "し",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "ものを",
+                "gloss": "regretful.CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "こしかひもなく",
+            "gloss": "without any worth in coming",
+            "words": [
+              {
+                "word": "こし",
+                "gloss": "come-PERF"
+              },
+              {
+                "word": "かひ",
+                "gloss": "worth; result"
+              },
+              {
+                "word": "も",
+                "gloss": "even"
+              },
+              {
+                "word": "なく",
+                "gloss": "NEG"
+              }
+            ]
+          },
+          {
+            "phrase": "別れぬるかな",
+            "gloss": "we parted, alas",
+            "words": [
+              {
+                "word": "別れ",
+                "gloss": "part; separate"
+              },
+              {
+                "word": "ぬる",
+                "gloss": "PERF"
+              },
+              {
+                "word": "かな",
+                "gloss": "EXCL"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "DAT": "dative case marker",
+          "QUOT": "quotative particle",
+          "INTENT": "intentional auxiliary verb",
+          "PERF": "perfective auxiliary verb",
+          "NEG": "negation",
+          "EXCL": "exclamatory particle",
+          "CONJ": "conjunction"
+        },
+        "translation-ja-natural": "都を離れ、あなたに会おうと思って来たのに、その甲斐もなく、こうして別れてしまったのですね。",
+        "translation-en-natural": "I left the capital hoping to see you, but though I came all this way, in the end we have parted like this."
       },
       {
         "date": "20241126",
