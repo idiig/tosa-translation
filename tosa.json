@@ -2520,15 +2520,106 @@
         "translation-en-natural": "I left the capital hoping to see you, but though I came all this way, in the end we have parted like this."
       },
       {
-        "date": "20241126",
+        "date": [
+          20241126,
+          20250630
+        ],
         "id": 25,
         "text": "となむありければ、かへる前の守のよめりける、",
         "kana": "となむありければ、かへるさきのかみのよめりける、",
         "koutei-yamagen": "となむありければ、帰る前の守の詠めりける、",
-        "translation-ja": "ということであったので、帰京する前の国司が詠んだのは、",
-        "translation-en": "And so it was, the song sang by the governor before returning to the capital was,",
+        "translation-ja": "と、確かにそうであったので、帰る前の国司が詠んだのは、",
+        "translation-en": "And, as it was indeed thus, the governor who was about to return composed it.",
+        "phrase-gloss": [
+          {
+            "phrase": "と",
+            "gloss": "QUOT",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              }
+            ]
+          },
+          {
+            "phrase": "なむありければ、",
+            "gloss": "indeed it had been so, so",
+            "words": [
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "あり",
+                "gloss": "be.ADV.F"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "かへる前の守の",
+            "gloss": "of the governor before returning",
+            "words": [
+              {
+                "word": "かへる",
+                "gloss": "return.ATTR"
+              },
+              {
+                "word": "前",
+                "gloss": "before"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "守",
+                "gloss": "governor"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "よめりける、",
+            "gloss": "had composed (complete + past)",
+            "words": [
+              {
+                "word": "よめ",
+                "gloss": "compose.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "QUOT": "quotative particle",
+          "EMPH": "emphatic particle",
+          "REALIS": "realis (已然形)",
+          "PST": "past (過去形)",
+          "COND": "conditional",
+          "GEN": "genitive",
+          "PERF": "perfective aspect",
+          "ATTR": "attributive (連体形)"
+        },
         "translation-ja-natural": "そういうわけで、帰京する前の国司が詠んだのは、",
-        "translation-en-natural": "That's why the governor, before returning to the capital, sing the following song:"
+        "translation-en-natural": "That's why the governor, before returning to the capital, sang the following song:"
       },
       {
         "date": "20241126",
