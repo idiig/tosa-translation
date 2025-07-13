@@ -3088,15 +3088,83 @@
         ]
       },
       {
-        "date": "20241204",
+        "date": [
+          20241204,
+          20250714
+        ],
         "id": 31,
         "text": "京へ歸るに女子のなきのみぞ悲しび戀ふる。",
         "kana": "きやうへかへるにをむなごのなきのみぞかなしびこふる。",
         "koutei-yamagen": "京へ帰るに、女子の亡きのみぞ悲しみ恋ふる。",
-        "translation-ja": "京へ帰る際に、女の子が亡くなったことだけが、悲しく、恋しく思う。",
-        "translation-en": "As I return to Kyoto, only the death of the girl makes me feel sad and full of longing.",
-        "translation-ja-natural": "京へ帰るとき、亡くなった女の子のことだけが、悲しくて恋しく思い出されます。",
-        "translation-en-natural": "As I return to Kyoto, I am filled with sadness and longing, thinking only of the girl who has passed away."
+        "translation-ja": "京へ帰る際に、女の子のいないことだけが、悲しみ、恋しく思う。",
+        "translation-en": "As I return to Kyoto, only the girl's absence brings sadness and longing.",
+        "phrase-gloss": [
+          {
+            "phrase": "京へ歸るに",
+            "gloss": "as I return to Kyoto",
+            "words": [
+              {
+                "word": "京",
+                "gloss": "Kyoto"
+              },
+              {
+                "word": "へ",
+                "gloss": "ALL"
+              },
+              {
+                "word": "歸る",
+                "gloss": "return.ATTR"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          },
+          {
+            "phrase": "女子のなきのみぞ",
+            "gloss": "only the girl's absence",
+            "words": [
+              {
+                "word": "女子",
+                "gloss": "girl"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "なき",
+                "gloss": "be not.ATTR"
+              },
+              {
+                "word": "のみ",
+                "gloss": "only"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "FOC"
+              }
+            ]
+          },
+          {
+            "phrase": "悲しび戀ふる",
+            "gloss": "grieve and yearn",
+            "words": [
+              {
+                "word": "悲しび",
+                "gloss": "grieve.ADV"
+              },
+              {
+                "word": "戀ふる",
+                "gloss": "yearn.ATTR"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "京へ帰るとき、女の子がいないことだけが、悲しみと切なさを感じさせる。",
+        "translation-en-natural": "As I return to Kyoto, it is only the girl's absence that brings sadness and longing."
       },
       {
         "date": "20241204",
