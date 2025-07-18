@@ -11,7 +11,8 @@
         "date": [
           20241026,
           20241111,
-          20250531
+          20250531,
+	  20250718
         ],
         "id": 1,
         "text": "男もすなる日記といふものを、女もしてみむとてするなり。",
@@ -24,6 +25,7 @@
           {
             "phrase": "男もすなる日記",
             "gloss": "man also do-ATTR diary",
+	    "gloss-zh": "男人=COP 做-ATTR 日记",
             "words": [
               {
                 "word": "男",
@@ -33,7 +35,7 @@
               {
                 "word": "も",
                 "gloss": "also",
-		"gloss-zh": "also"
+		"gloss-zh": "COP conflict"
               },
               {
                 "word": "す",
@@ -43,7 +45,7 @@
               {
                 "word": "なる",
                 "gloss": "ATTR",
-		"gloss-zh": "ATTR"
+		"gloss-zh": "=ATTR? conflict"
               },
               {
                 "word": "日記",
@@ -55,6 +57,7 @@
           {
             "phrase": "といふものを",
             "gloss": "QUOT say thing ACC",
+	    "gloss-zh": "QUOT+说+东西=ACC",
             "words": [
               {
                 "word": "と",
@@ -81,6 +84,7 @@
           {
             "phrase": "女もしてみむとてするなり",
             "gloss": "woman also do-CONJ try-VOL QUOT do COP",
+	    "gloss-zh": "女人=COP 做-THM=SEQ 试-VOL=ADVRS 做=COP conflict",
             "words": [
               {
                 "word": "女",
@@ -90,17 +94,17 @@
               {
                 "word": "も",
                 "gloss": "also",
-		"gloss-zh": "also"
+		"gloss-zh": "COP conflict"
               },
               {
                 "word": "し",
                 "gloss": "do",
-		"gloss-zh": "做"
+		"gloss-zh": "做-THM conflict"
               },
               {
                 "word": "て",
                 "gloss": "CONJ",
-		"gloss-zh": "CONJ"
+		"gloss-zh": "SEQ conflict"
               },
               {
                 "word": "みむ",
@@ -110,17 +114,17 @@
               {
                 "word": "とて",
                 "gloss": "QUOT",
-		"gloss-zh": "QUOT"
+		"gloss-zh": "ADVRS conflict"
               },
               {
                 "word": "する",
                 "gloss": "do",
-		"gloss-zh": "做"
+		"gloss-zh": "做-ADN conflict"
               },
               {
                 "word": "なり",
                 "gloss": "COP",
-		"gloss-zh": "COP"
+		"gloss-zh": "COP conflict"
               }
             ]
           }
@@ -170,7 +174,8 @@
         "date": [
           20241026,
           20241112,
-          20250601
+          20250601,
+	  20250718
         ],
         "id": 2,
         "text": "それの年のしはすの二十日あまり一日の、戌の時に門出す。",
@@ -179,88 +184,107 @@
         "translation-ja": "その年の師走二十一日の戌の時に出発した。",
         "translation-en": "On the twenty-first day of the twelfth month of that year, we departed at the hour of the dog (around 8 to 10 PM).",
 	"translation-zh": "在那年的十二月二十一日戌时出发。",
-        "phrase-gloss": [
+	"phrase-gloss": [
           {
             "phrase": "それの年の",
             "gloss": "that year-GEN",
+	    "gloss-zh": "DEM=GEN 年=GEN",
             "words": [
               {
                 "word": "それ",
-                "gloss": "that"
+                "gloss": "that",
+		"gloss-zh": "DEM"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-zh": "=GEN"
               },
               {
                 "word": "年",
-                "gloss": "year"
+                "gloss": "year",
+		"gloss-zh": "年"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-zh": "=GEN"
               }
             ]
           },
           {
             "phrase": "しはすの二十日あまり一日",
             "gloss": "twelfth.month-GEN twenty-days plus one-day",
+	    "gloss-zh": "十二月-GEN 二十天+多 一天",
             "words": [
               {
                 "word": "しはす",
-                "gloss": "twelfth.month"
+                "gloss": "twelfth.month",
+		"gloss-zh": "十二月"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-zh": "GEN"
               },
               {
                 "word": "二十日",
-                "gloss": "twenty-days"
+                "gloss": "twenty-days",
+		"gloss-zh": "二十日"
               },
               {
                 "word": "あまり",
-                "gloss": "plus"
+                "gloss": "plus",
+		"gloss-zh": "多"
               },
               {
                 "word": "一日",
-                "gloss": "one-day"
+                "gloss": "one-day",
+		"gloss-zh": "一天"
               }
             ]
           },
           {
             "phrase": "戌の時に",
             "gloss": "hour.of.dog-LOC",
+	    "gloss-zh": "戌+Gen+时=DAV Confilct",
             "words": [
               {
                 "word": "戌",
-                "gloss": "hour.of.dog"
+                "gloss": "hour.of.dog",
+		"gloss-zh": "戌"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-zh": "+GEN"
               },
               {
                 "word": "時",
-                "gloss": "hour"
+                "gloss": "hour",
+		"gloss-zh": "+时"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-zh": "=DAV conflict"
               }
             ]
           },
           {
             "phrase": "門出す",
             "gloss": "departure-do",
+	    "gloss-zh": "出发+做",
             "words": [
               {
                 "word": "門出",
-                "gloss": "departure"
+                "gloss": "departure",
+		"gloss-zh": "出发"
               },
               {
                 "word": "す",
-                "gloss": "do"
+                "gloss": "do",
+		"gloss-zh": "+做"
               }
             ]
           }
@@ -279,7 +303,8 @@
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "その年の12月21日、夜の8時ごろに出発しました。",
-        "translation-en-natural": "On December 21 of that year, we set off around 8 PM."
+        "translation-en-natural": "On December 21 of that year, we set off around 8 PM.",
+	"translation-zh-natural": "我们在那年的十二月二十一日的晚上八点左右出发。"
       },
       {
         "date": "20241026,20241111,20250531",
