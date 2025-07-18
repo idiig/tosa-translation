@@ -19,6 +19,7 @@
         "koutei-yamagen": "男もすなる日記といふものを、女もしてみむとてするなり。",
         "translation-ja": "男手で書くという日記というものを、女手で書いてみようと思って書くのである。",
         "translation-en": "A diary is something written in the masculine style, but I will try writing it in the feminine style.",
+	"translation-zh": "日记是用男性文字书写的东西，但我想用女性文字试着书写。",
         "phrase-gloss": [
           {
             "phrase": "男もすなる日記",
@@ -26,23 +27,28 @@
             "words": [
               {
                 "word": "男",
-                "gloss": "man"
+                "gloss": "man",
+		"gloss-zh": "男人",
               },
               {
                 "word": "も",
-                "gloss": "also"
+                "gloss": "also",
+		"gloss-zh": "also"
               },
               {
                 "word": "す",
-                "gloss": "do"
+                "gloss": "do",
+		"gloss-zh": "做"
               },
               {
                 "word": "なる",
-                "gloss": "ATTR"
+                "gloss": "ATTR",
+		"gloss-zh": "ATTR"
               },
               {
                 "word": "日記",
-                "gloss": "diary"
+                "gloss": "diary",
+		"gloss-zh": "日记"
               }
             ]
           },
@@ -52,19 +58,23 @@
             "words": [
               {
                 "word": "と",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-zh": "QUOT"
               },
               {
                 "word": "いふ",
-                "gloss": "say"
+                "gloss": "say",
+		"gloss-zh": "说"
               },
               {
                 "word": "もの",
-                "gloss": "thing"
+                "gloss": "thing",
+		"gloss-zh": "东西"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-zh": "ACC"
               }
             ]
           },
@@ -74,35 +84,43 @@
             "words": [
               {
                 "word": "女",
-                "gloss": "woman"
+                "gloss": "woman",
+		"gloss-zh": "女人"
               },
               {
                 "word": "も",
-                "gloss": "also"
+                "gloss": "also",
+		"gloss-zh": "also"
               },
               {
                 "word": "し",
-                "gloss": "do"
+                "gloss": "do",
+		"gloss-zh": "做"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-zh": "CONJ"
               },
               {
                 "word": "みむ",
-                "gloss": "try-VOL"
+                "gloss": "try-VOL",
+		"gloss-zh": "试-VOL"
               },
               {
                 "word": "とて",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-zh": "QUOT"
               },
               {
                 "word": "する",
-                "gloss": "do"
+                "gloss": "do",
+		"gloss-zh": "做"
               },
               {
                 "word": "なり",
-                "gloss": "COP"
+                "gloss": "COP",
+		"gloss-zh": "COP"
               }
             ]
           }
@@ -110,7 +128,8 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "男の書き方で書くという日記を、女の書き方で書いてみようと思って書いているのです。",
         "translation-en-natural": "So, diaries are usually done up in this formal, masculine style... but here I am, giving it a go in a bit more of a feminine touch.",
-        "notes-ja": [
+        "translation-zh-natural": "日记通常是用男人的写法来写的，但我想试着用女人的写法来写。",
+	"notes-ja": [
           {
             "title": "土佐日記の仮名使用に関する説",
             "note": "小松英雄説。その他、Wikipediaによると、田辺聖子説、橋本治説がある。"
@@ -159,6 +178,7 @@
         "koutei-yamagen": "それの年のしはすの二十日あまり一日の、戌の時に門出す。",
         "translation-ja": "その年の師走二十一日の戌の時に出発した。",
         "translation-en": "On the twenty-first day of the twelfth month of that year, we departed at the hour of the dog (around 8 to 10 PM).",
+	"translation-zh": "在那年的十二月二十一日戌时出发。",
         "phrase-gloss": [
           {
             "phrase": "それの年の",
