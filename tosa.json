@@ -3167,25 +3167,140 @@
         "translation-en-natural": "As I return to Kyoto, it is only the girl's absence that brings sadness and longing."
       },
       {
-        "date": "20241204",
+        "date": [
+          20241204,
+          20250719
+        ],
         "id": 32,
         "text": "ある人々もえ堪へず。",
         "kana": "あるひとびともえたへず。",
         "koutei-yamagen": "ある人々もえ堪へず。",
         "translation-ja": "ある人々も、我慢できなかった。",
         "translation-en": "Some people could not bear it.",
-        "translation-ja-natural": "居合わせた人々も、悲しみを堪えることができませんでした。",
-        "translation-en-natural": "The people there couldn't hold back their sorrow."
+        "phrase-gloss": [
+          {
+            "phrase": "ある人々も",
+            "gloss": "some people also",
+            "words": [
+              {
+                "word": "ある",
+                "gloss": "some"
+              },
+              {
+                "word": "人々",
+                "gloss": "people"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              }
+            ]
+          },
+          {
+            "phrase": "え堪へず",
+            "gloss": "could not endure",
+            "words": [
+              {
+                "word": "え",
+                "gloss": "able"
+              },
+              {
+                "word": "堪へ",
+                "gloss": "endure.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "他の人々も耐えきれなかった。",
+        "translation-en-natural": "Others, too, couldn’t endure it."
       },
       {
-        "date": "20241204",
+        "date": [
+          20241204,
+          20250721
+        ],
         "id": 33,
         "text": "この間にある人のかきて出せる歌、",
         "kana": "このあひだにあるひとのかきていだせるうた、",
         "koutei-yamagen": "この間に、ある人の書きて出だせる歌、",
         "translation-ja": "この間に、ある人が書いて出せる歌は、",
         "translation-en": "During this time, a certain person wrote and presented a poem.",
-        "translation-ja-natural": "その時に、ある人が書いて出した歌は、",
+        "phrase-gloss": [
+          {
+            "phrase": "この間に",
+            "gloss": "during this time",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "間",
+                "gloss": "interval"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          },
+          {
+            "phrase": "ある人の",
+            "gloss": "of a certain person",
+            "words": [
+              {
+                "word": "ある",
+                "gloss": "a certain"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "かきて",
+            "gloss": "having written",
+            "words": [
+              {
+                "word": "かき",
+                "gloss": "write.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "出せる歌",
+            "gloss": "poem that was presented",
+            "words": [
+              {
+                "word": "出せ",
+                "gloss": "present.IRR"
+              },
+              {
+                "word": "る",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              }
+            ]
+          }
+        ],
+        "translation-ja-natural": "このあいだ、ある人が書いて差し出した歌、",
         "translation-en-natural": "At that moment, a person wrote and presented a poem."
       },
       {
