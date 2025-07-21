@@ -1056,84 +1056,131 @@
           20250606
         ],
         "id": 7,
-        "text": "廿二日、和泉の國までとたひらかにねがひたつ。",
-        "kana": "はつか、いずみのくにまでとたひらかにねがひたつ。",
+        "text": "廿二日、和泉の國までとたひらかにねがひたつ。？願立つ？",
+        "kana": "はつか、いずみのくにまでとたひらかにねがひたつ。?はつかあまりふつか??ぐゎんだつ?",
         "koutei-yamagen": "二十二日、和泉の国までと平らかに願立つ。",
         "translation-ja": "二十二日に、和泉の国までと平穏に祈願を立てた。",
         "translation-en": "On the twenty-second day, I set up a prayer for a peaceful (safe) journey as far as the province of Izumi.",
-        "phrase-gloss": [
+	"translation-zh": "廿二日，我祈愿平安到达和泉之国",
+	"phrase-gloss": [
           {
             "phrase": "廿二日",
             "gloss": "twenty-second day",
+	    "gloss-morph": "twenty+second.day?",
+	    "gloss-zh": "廿二日",
+	    "gloss-zh": "廿+二日", 
             "words": [
               {
                 "word": "廿二",
-                "gloss": "twenty-two"
+                "gloss": "twenty-two",
+		"gloss-morph": "twenty+second",
+		"gloss-zh": "廿二",
+		"gloss-zh": "廿+二"    	
               },
               {
                 "word": "日",
-                "gloss": "day"
+                "gloss": "day",
+		"gloss-morph": "day",
+		"gloss-zh": "日",
+		"gloss-zh": "日"
               }
             ]
           },
           {
             "phrase": "和泉の國までと",
             "gloss": "up to Izumi province QUOT",
+	    "gloss-morph": "Izumi=GEN province=TER=QUOT",
+	    "gloss-zh": "到和泉之国-QUOT",
+	    "gloss-morph-zh": "和泉=GEN 国=TER=QUOT",
             "words": [
               {
                 "word": "和泉",
-                "gloss": "Izumi.PN"
+                "gloss": "Izumi.PN",
+		"gloss-morph": "Izumi.PN",
+		"gloss-zh": "和泉（实名）",
+		"gloss-morph-zh": "和泉（实名）"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "之",
+		"gloss-morph-zh": "=GEN"
               },
               {
                 "word": "國",
-                "gloss": "province"
+                "gloss": "province",
+		"gloss-morph": "province",
+		"gloss-zh": "国（省）",
+		"gloss-morph-zh": "国（省）"
               },
               {
                 "word": "まで",
-                "gloss": "up to"
+                "gloss": "up to",
+		"gloss-morph": "=TER",
+		"gloss-zh": "到",
+		"gloss-morph-zh": "=TER"
               },
               {
                 "word": "と",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-morph": "=QUOT",
+		"gloss-zh": "QUOT",
+		"gloss-morph-zh": "=QUOT",
               }
             ]
           },
           {
             "phrase": "たひらかに",
             "gloss": "peacefully/without mishap",
+	    "gloss-morph": "peaceful=ADV",
+	    "gloss-zh": "平安-ADV",
+	    "gloss-morph-zh": "平安=ADV",
             "words": [
               {
                 "word": "たひらか",
-                "gloss": "peaceful"
+                "gloss": "peaceful",
+		"gloss-morph": "peaceful",
+		"gloss-zh": "平安",
+		"gloss-morph-zh": "平安"
               },
               {
                 "word": "に",
-                "gloss": "ADV"
+                "gloss": "ADV",
+		"gloss-morph": "=ADV",
+		"gloss-zh": "ADV",
+		"gloss-morph-zh": "=ADV"
               }
             ]
           },
           {
-            "phrase": "ねがひたつ",
+            "phrase": "ねがひたつ?ぐゎんだつ?",
             "gloss": "set up a prayer",
+	    "gloss-morph": "pray+set.up",
+	    "gloss-zh": "祈愿",
+	    "gloss-morph-zh": "愿+做",
             "words": [
               {
-                "word": "ねがひ",
-                "gloss": "prayer.ADV.F"
-              },
+                "word": "ねがひ?ぐゎん",
+                "gloss": "prayer.ADV.F",
+		"gloss-morph": "prayer",
+		"gloss-zh": "愿",
+		"gloss-morph-zh": "愿"
+	      },
               {
                 "word": "たつ",
-                "gloss": "set up"
+                "gloss": "set up",
+		"gloss-morph": "set.up",
+		"gloss-zh": "做",
+		"gloss-morph-zh": "+做"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "二十二日、和泉の国まで無事に行けるようにと祈願した。",
-        "translation-en-natural": "On the twenty-second day, I prayed for a safe journey as far as Izumi Province."
+        "translation-en-natural": "On the twenty-second day, I prayed for a safe journey as far as Izumi Province.",
+	"translation-zh-natural": "在二十二日，我祈愿能平安到达和泉国。"
       },
       {
         "date": [
