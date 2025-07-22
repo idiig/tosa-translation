@@ -677,20 +677,20 @@
         "text": "廿二日、和泉の國までとたひらかにねがひたつ。",
         "kana": "はつかあまりふつか、いずみのくにまでとたひらかにねがひたつ。",
         "koutei-yamagen": "二十二日、和泉の国までと平らかに願立つ。",
-        "translation-ja": "二十二日に、和泉の国までと平穏に祈願を立てた。",
+        "translation-ja": "二十二日、和泉の国までと平穏に祈願を立てた。",
         "translation-en": "On the twenty-second day, I set up a prayer for a peaceful (safe) journey as far as the province of Izumi.",
         "phrase-gloss": [
           {
             "phrase": "廿二日",
-            "gloss": "twenty-second day",
+            "gloss": "twenty-second",
             "words": [
               {
-                "word": "廿二",
-                "gloss": "twenty-two"
+                "word": "廿",
+                "gloss": "twenty-"
               },
               {
-                "word": "日",
-                "gloss": "day"
+                "word": "二日",
+                "gloss": "second"
               }
             ]
           },
@@ -722,7 +722,7 @@
           },
           {
             "phrase": "たひらかに",
-            "gloss": "peacefully/without mishap",
+            "gloss": "peacefully",
             "words": [
               {
                 "word": "たひらか",
@@ -740,7 +740,7 @@
             "words": [
               {
                 "word": "ねがひ",
-                "gloss": "prayer.ADV.F"
+                "gloss": "prayer.ADV"
               },
               {
                 "word": "たつ",
@@ -756,6 +756,12 @@
           {
             "title": "ねがひたつ",
             "note": "青空文庫、『土佐日記』では「ねがひたつ」と表記されているが、学研全訳古語辞典「願(ぐわん)立つ」とあり、菊地注釈でも同様の読みを与えている。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "negahi tatsu",
+            "note": "In the Aozora Bunko version of 'Tosa Nikki,' it is written as 'negahi tatsu,' but the Gakken Zennyaku Kogo Jiten (Gakken Complete Ancient Japanese Dictionary) reads it as 'gwan tatsu,' and Kikuchi's commentary gives the same reading."
           }
         ]
       },
