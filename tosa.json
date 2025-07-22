@@ -1053,36 +1053,37 @@
           20241103,
           20241111,
           20241112,
-          20250606
+          20250606,
+          20250722
         ],
         "id": 7,
-        "text": "廿二日、和泉の國までとたひらかにねがひたつ。？願立つ？",
-        "kana": "はつか、いずみのくにまでとたひらかにねがひたつ。?はつかあまりふつか??ぐゎんだつ?",
+        "text": "廿二日、和泉の國までとたひらかにねがひたつ。",
+        "kana": "はつかあまりふつか、いずみのくにまでとたひらかにねがひたつ。",
         "koutei-yamagen": "二十二日、和泉の国までと平らかに願立つ。",
-        "translation-ja": "二十二日に、和泉の国までと平穏に祈願を立てた。",
+        "translation-ja": "二十二日、和泉の国までと平穏に祈願を立てた。",
         "translation-en": "On the twenty-second day, I set up a prayer for a peaceful (safe) journey as far as the province of Izumi.",
 	"translation-zh": "廿二日，我祈愿平安到达和泉之国",
 	"phrase-gloss": [
           {
             "phrase": "廿二日",
-            "gloss": "twenty-second day",
+	    "gloss": "twenty-second day",
 	    "gloss-morph": "twenty+second.day?",
 	    "gloss-zh": "廿二日",
 	    "gloss-zh": "廿+二日", 
             "words": [
               {
-                "word": "廿二",
-                "gloss": "twenty-two",
-		"gloss-morph": "twenty+second",
-		"gloss-zh": "廿二",
-		"gloss-zh": "廿+二"    	
+                "word": "廿",
+                "gloss": "twenty",
+		"gloss-morph": "twenty",
+		"gloss-zh": "廿",
+		"gloss-zh": "廿"    	
               },
               {
-                "word": "日",
-                "gloss": "day",
-		"gloss-morph": "day",
-		"gloss-zh": "日",
-		"gloss-zh": "日"
+                "word": "二日",
+                "gloss": "second",
+		"gloss-morph": "+second",
+		"gloss-zh": "二日",
+		"gloss-zh": "+二日"
               }
             ]
           },
@@ -1132,7 +1133,7 @@
           },
           {
             "phrase": "たひらかに",
-            "gloss": "peacefully/without mishap",
+	    "gloss": "peacefully",
 	    "gloss-morph": "peaceful=ADV",
 	    "gloss-zh": "平安-ADV",
 	    "gloss-morph-zh": "平安=ADV",
@@ -1161,8 +1162,8 @@
 	    "gloss-morph-zh": "愿+做",
             "words": [
               {
-                "word": "ねがひ?ぐゎん",
-                "gloss": "prayer.ADV.F",
+                "word": "ねがひ",
+                "gloss": "prayer.ADV",
 		"gloss-morph": "prayer",
 		"gloss-zh": "愿",
 		"gloss-morph-zh": "愿"
@@ -1180,7 +1181,19 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "二十二日、和泉の国まで無事に行けるようにと祈願した。",
         "translation-en-natural": "On the twenty-second day, I prayed for a safe journey as far as Izumi Province.",
-	"translation-zh-natural": "在二十二日，我祈愿能平安到达和泉国。"
+	"translation-zh-natural": "在二十二日，我祈愿能平安到达和泉国。",
+        "notes-ja": [
+          {
+            "title": "ねがひたつ",
+            "note": "青空文庫、『土佐日記』では「ねがひたつ」と表記されているが、学研全訳古語辞典「願(ぐわん)立つ」とあり、菊地注釈でも同様の読みを与えている。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "negahi tatsu",
+            "note": "In the Aozora Bunko version of 'Tosa Nikki,' it is written as 'negahi tatsu,' but the Gakken Zennyaku Kogo Jiten (Gakken Complete Ancient Japanese Dictionary) reads it as 'gwan tatsu,' and Kikuchi's commentary gives the same reading."
+          }
+        ]
       },
       {
         "date": [
@@ -3597,37 +3610,251 @@
         "translation-en-natural": "As I return to Kyoto, it is only the girl's absence that brings sadness and longing."
       },
       {
-        "date": "20241204",
+        "date": [
+          20241204,
+          20250719
+        ],
         "id": 32,
         "text": "ある人々もえ堪へず。",
         "kana": "あるひとびともえたへず。",
         "koutei-yamagen": "ある人々もえ堪へず。",
         "translation-ja": "ある人々も、我慢できなかった。",
         "translation-en": "Some people could not bear it.",
-        "translation-ja-natural": "居合わせた人々も、悲しみを堪えることができませんでした。",
-        "translation-en-natural": "The people there couldn't hold back their sorrow."
+        "phrase-gloss": [
+          {
+            "phrase": "ある人々も",
+            "gloss": "some people also",
+            "words": [
+              {
+                "word": "ある",
+                "gloss": "some"
+              },
+              {
+                "word": "人々",
+                "gloss": "people"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              }
+            ]
+          },
+          {
+            "phrase": "え堪へず",
+            "gloss": "could not endure",
+            "words": [
+              {
+                "word": "え",
+                "gloss": "able"
+              },
+              {
+                "word": "堪へ",
+                "gloss": "endure.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "他の人々も耐えきれなかった。",
+        "translation-en-natural": "Others, too, couldn’t endure it."
       },
       {
-        "date": "20241204",
+        "date": [
+          20241204,
+          20250721
+        ],
         "id": 33,
         "text": "この間にある人のかきて出せる歌、",
         "kana": "このあひだにあるひとのかきていだせるうた、",
         "koutei-yamagen": "この間に、ある人の書きて出だせる歌、",
         "translation-ja": "この間に、ある人が書いて出せる歌は、",
         "translation-en": "During this time, a certain person wrote and presented a poem.",
-        "translation-ja-natural": "その時に、ある人が書いて出した歌は、",
+        "phrase-gloss": [
+          {
+            "phrase": "この間に",
+            "gloss": "during this time",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "間",
+                "gloss": "interval"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          },
+          {
+            "phrase": "ある人の",
+            "gloss": "of a certain person",
+            "words": [
+              {
+                "word": "ある",
+                "gloss": "a certain"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "かきて",
+            "gloss": "having written",
+            "words": [
+              {
+                "word": "かき",
+                "gloss": "write.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "出せる歌",
+            "gloss": "poem that was presented",
+            "words": [
+              {
+                "word": "出せ",
+                "gloss": "present.IRR"
+              },
+              {
+                "word": "る",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              }
+            ]
+          }
+        ],
+        "translation-ja-natural": "このあいだ、ある人が書いて差し出した歌、",
         "translation-en-natural": "At that moment, a person wrote and presented a poem."
       },
       {
-        "date": "20241205",
+        "date": [
+          20241205,
+          20250721
+        ],
         "id": 34,
         "poem": "都へと/おもふものゝ/かなしきは/かへらぬ人の/あればなりけり",
         "kana": "みやこへと/おもふものの/かなしきは/かへらぬひとの/あればなりけり",
         "koutei-yamagen": "都へと/思ふものの/悲しきは/帰らぬ人の/あればなりけり",
-        "translation-ja": "都へと思う者の悲しみは、帰らない人がいるからなのだ。",
-        "translation-en": "The sadness of those who think of returning to the capital is because there is a person who will not return.",
-        "translation-ja-natural": "都へ帰ろうと思っている人の悲しみは、一緒に帰るはずだった人を亡くしてしまったことなのです。",
-        "translation-en-natural": "For those thinking of returning to the capital, the sorrow lies in having lost someone who was meant to return with them."
+        "translation-ja": "都へと思うけれども、悲しいのは、帰らない人がいることなのだ。",
+        "translation-en": "Though I think of returning to the capital, the sad thing is that there is someone who does not return.",
+        "phrase-gloss": [
+          {
+            "phrase": "都へと",
+            "gloss": "toward the capital",
+            "words": [
+              {
+                "word": "都",
+                "gloss": "capital"
+              },
+              {
+                "word": "へ",
+                "gloss": "ALL"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              }
+            ]
+          },
+          {
+            "phrase": "おもふものゝ",
+            "gloss": "though I think",
+            "words": [
+              {
+                "word": "おもふ",
+                "gloss": "think"
+              },
+              {
+                "word": "もの",
+                "gloss": "thing"
+              },
+              {
+                "word": "の",
+                "gloss": "CONTR"
+              }
+            ]
+          },
+          {
+            "phrase": "かなしきは",
+            "gloss": "the sad thing is",
+            "words": [
+              {
+                "word": "かなしき",
+                "gloss": "sad.ATTR"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "かへらぬ人の",
+            "gloss": "of the person who does not return",
+            "words": [
+              {
+                "word": "かへら",
+                "gloss": "return.IRR"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "あればなりけり",
+            "gloss": "it is because there is",
+            "words": [
+              {
+                "word": "あれ",
+                "gloss": "exist.IRR"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              },
+              {
+                "word": "なり",
+                "gloss": "be"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST.MOD"
+              }
+            ]
+          }
+        ],
+        "translation-ja-natural": "都に帰ろうと思っても、悲しみが募るのは、一緒に帰ることのない人がいるからなのだ。",
+        "translation-en-natural": "Even as I long to return to the capital, the sorrow remains—because there is someone who will never come back with me."
       },
       {
         "date": "20241205",
