@@ -3427,13 +3427,40 @@
         "translation-en-natural": "Even as I long to return to the capital, the sorrow remains—because there is someone who will never come back with me."
       },
       {
-        "date": "20241205",
+        "date": [
+          20241205,
+          20250722
+        ],
         "id": 35,
         "text": "又、或時には、",
         "kana": "またあるときには、",
         "koutei-yamagen": "また、ある時には、",
         "translation-ja": "また、ある時には、",
         "translation-en": "Also, at times,",
+        "phrase-gloss": [
+          {
+            "phrase": "又、或時には、",
+            "gloss": "Also, at times,",
+            "words": [
+              {
+                "word": "又",
+                "gloss": "also"
+              },
+              {
+                "word": "或時",
+                "gloss": "some time; a certain time"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          }
+        ],
         "translation-ja-natural": "また、ある時には、",
         "translation-en-natural": "Also, at times,"
       },
