@@ -25,9 +25,9 @@
           {
             "phrase": "男もすなる日記",
             "gloss": "man also do-ATTR diary",
-	    "gloss-morph": "man=IFO do-CCL=HEV-ADN diary",
+	    "gloss-morph": "man=IFO do-CCL=HEV?-ADN diary",
 	    "gloss-zh": "男人 也 做-的 日记",
-	    "gloss-morph-zh": "男人=IFO 做-CCL=HEV-ADN 日记",
+	    "gloss-morph-zh": "男人=IFO 做-CCL=HEV?-ADN 日记",
             "words": [
               {
                 "word": "男",
@@ -107,7 +107,7 @@
             "phrase": "女もしてみむとてするなり",
             "gloss": "woman also do-CONJ try-VOL QUOT do COP",
 	    "gloss-morph": "woman=IFO do-SER=SEQ try-SER=VOL-CCL=SCM do-ADN=COP-CCL",
-	    "gloss-zh": "女人 也 做-SEQ 试-VOL-SCM 做 COP",
+	    "gloss-zh": "女人 也 做-SEQ 试-VOL SCM 做 COP",
 	    "gloss-morph-zh": "女人=IFO 做-SER=SEQ 试-SER=VOL-CCL=SCM 做-ADN=COP-CCL",
             "words": [
               {
@@ -1193,7 +1193,13 @@
             "title": "negahi tatsu",
             "note": "In the Aozora Bunko version of 'Tosa Nikki,' it is written as 'negahi tatsu,' but the Gakken Zennyaku Kogo Jiten (Gakken Complete Ancient Japanese Dictionary) reads it as 'gwan tatsu,' and Kikuchi's commentary gives the same reading."
           }
-        ]
+        ],
+	"notes-zh": [
+	  {
+	    "title": "",
+	    "note": ""
+	  }
+	]
       },
       {
         "date": [
@@ -1208,69 +1214,110 @@
         "koutei-yamagen": "藤原のときざね、船路なれど、馬の餞す。",
         "translation-ja": "藤原のときざねが、船路の旅なのに餞をする。",
         "translation-en": "Fujiwara no Tokizane, though it is a sea journey, gives a farewell gift for a horse journey.",
+	"translation-zh": "藤原言实，虽为海旅，却操办了马（陆路）之饯行。",
         "phrase-gloss": [
           {
             "phrase": "藤原の言實",
             "gloss": "Fujiwara.PN GEN Tokizane.PN",
+	    "gloss-morph": "Fujiwara.PN=GEN Tokizane.PN",
+	    "gloss-zh": "藤原言实",
+	    "gloss-morph-zh": "藤原.PN=GEN 言实.PN",
             "words": [
               {
                 "word": "藤原",
-                "gloss": "Fujiwara.PN"
+                "gloss": "Fujiwara.PN",
+		"gloss-morph": "Fujiwara.PN",
+		"gloss-zh": "藤原（姓氏）",
+		"gloss-morph-zh": "藤原.PN"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-morph-zh": "=GEN"
               },
               {
                 "word": "言實",
-                "gloss": "Tokizane.PN"
+                "gloss": "Tokizane.PN",
+		"gloss-morph": "Tokizane.PN",
+		"gloss-zh": "言实（人名）",
+		"gloss-morph-zh": "言实.PN"
               }
             ]
           },
           {
             "phrase": "船路なれど",
             "gloss": "boat.travel COP.REALIS.F COND.F",
+	    "gloss-morph": "boat+travel=COP-INC=XCC",
+	    "gloss-zh": "船旅 COP XCC",
+	    "gloss-morph-zh": "船+旅=COP-INC=XCC",
             "words": [
               {
                 "word": "船路",
-                "gloss": "boat.travel"
-              },
-              {
+                "gloss": "boat.travel",
+		"gloss-morph": "boat+travel",
+		"gloss-zh": "船旅",
+		"gloss-morph-zh": "船+旅"
+	      },
+	      {
                 "word": "なれ",
-                "gloss": "COP.REALIS.F"
+                "gloss": "COP.REALIS.F",
+		"gloss-morph": "COP-INC",
+		"gloss-zh": "COP-INC",
+		"gloss-morph-zh": "COP-INC"
               },
               {
                 "word": "ど",
-                "gloss": "COND.F"
+                "gloss": "COND.F",
+		"gloss-morph": "=XCC",
+		"gloss-zh": "XCC",
+		"gloss-morph-zh": "=XCC"
               }
             ]
           },
           {
             "phrase": "馬の餞す",
             "gloss": "horse GEN farewell do",
+	    "gloss-morph": "horse=GEN farewell+do-CCL",
+	    "gloss-zh": "马 的 饯行 做",
+	    "gloss-morph-zh": "马=GEN 饯行+做-CCL",
             "words": [
               {
                 "word": "馬",
-                "gloss": "horse"
+                "gloss": "horse",
+		"gloss-morph": "horse",
+		"gloss-zh": "马",
+		"gloss-morph-zh": "马"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-morph-zh": "=GEN"
               },
               {
                 "word": "餞",
-                "gloss": "farewell"
+                "gloss": "farewell",
+		"gloss-morph": "farewell",
+		"gloss-zh": "饯行",
+		"gloss-morph-zh": "饯行"
               },
               {
                 "word": "す",
-                "gloss": "do"
+                "gloss": "do",
+		"gloss-morph": "+do-CCL",
+		"gloss-zh": "做",
+		"gloss-morph-zh": "+做-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "藤原の言實が、船の旅なのに、馬の餞別を贈った。",
-        "translation-en-natural": "Fujiwara no Tokizane sent off a farewell gift called 'Uma no Hanamuke' (horse nose heading)—even though it was a sea voyage. Go figure."
+        "translation-en-natural": "Fujiwara no Tokizane sent off a farewell gift called 'Uma no Hanamuke' (horse nose heading)—even though it was a sea voyage. Go figure.",
+	"translation-zh-natural": "虽说走的是海陆，藤原言实却为之操办了陆路时饯行仪式。",
       },
       {
         "date": [
@@ -1284,109 +1331,191 @@
         "koutei-yamagen": "上、中、下、酔ひすぎて、いとあやしく、しほ海のほとりにてあざれあへり。",
         "translation-ja": "上も中も下も酔い過ぎて、非常に不思議に潮海のほとりでふざけ合った。",
         "translation-en": "The high, the middle, and the low all drank too much, behaving very strangely, and fooling around by the shore of the salt sea.",
+	"translation-zh": "上中下皆大醉，十分怪异地在盐海的岸边嬉闹。",
         "phrase-gloss": [
           {
             "phrase": "上中下ながら",
             "gloss": "upper middle lower all",
+	    "gloss-morph": "upper+middle+lower=SIM",
+	    "gloss-zh": "上中下 全部",
+	    "gloss-morph-zh": "上+中+下=SIM",
             "words": [
               {
                 "word": "上",
-                "gloss": "upper"
+                "gloss": "upper",
+		"gloss-morph": "upper",
+		"gloss-zh": "上",
+		"gloss-morph-zh": "上"
               },
               {
                 "word": "中",
-                "gloss": "middle"
+                "gloss": "middle",
+		"gloss-morph": "middle",
+		"gloss-zh": "中",
+		"gloss-morph-zh": "中"
               },
               {
                 "word": "下",
-                "gloss": "lower"
-              },
-              {
+                "gloss": "lower",
+		"gloss-morph": "lower",
+		"gloss-zh": "下",
+		"gloss-morph-zh": "下"
+	      },
+	      {
                 "word": "ながら",
-                "gloss": "all"
+                "gloss": "all",
+		"gloss-morph": "=SIM",
+		"gloss-zh": "全部",
+		"gloss-morph-zh": "=SIM"
               }
             ]
           },
           {
             "phrase": "醉ひ過ぎて",
             "gloss": "get.drunk exceed CONJ",
+	    "gloss-morph": "get.drunk-SER exceed-SER=SEQ",
+	    "gloss-zh": "喝醉 过头-SEQ",
+	    "gloss-morph-zh": "喝醉-SER 过头-SER=SEQ",
             "words": [
               {
                 "word": "醉ひ",
-                "gloss": "get.drunk.ADV.F"
-              },
-              {
+                "gloss": "get.drunk.ADV.F",
+		"gloss-morph": "get.drunk-SER",
+		"gloss-zh": "喝醉",
+		"gloss-morph-zh": "喝醉-SER"
+	      },
+	      {
                 "word": "過ぎ",
-                "gloss": "exceed.ADV.F"
-              },
-              {
+                "gloss": "exceed.ADV.F",
+		"gloss-morph": "exceed-SER=SEQ",
+		"gloss-zh": "过头-SEQ",
+		"gloss-morph-zh": "过头-SER=SEQ"
+	      },
+	      {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "SEQ",
+		"gloss-morph-zh": "=SEQ"
               }
             ]
           },
           {
             "phrase": "いと怪しく",
             "gloss": "very strange ADV.F",
+	    "gloss-morph": "very strange-SER",
+	    "gloss-zh": "非常 怪异-地",
+	    "gloss-morph-zh": "非常 怪异-SER",
             "words": [
               {
                 "word": "いと",
-                "gloss": "very"
-              },
+                "gloss": "very",
+		"gloss-morph": "very",
+		"gloss-zh": "非常",
+		"gloss-morph-zh": "非常"
+	      },
               {
                 "word": "怪しく",
-                "gloss": "strange.ADV.F"
+                "gloss": "strange.ADV.F",
+		"gloss-morph": "strange-SER",
+		"gloss-zh": "怪异-地",
+		"gloss-morph-zh": "怪异-SER"
               }
             ]
           },
           {
             "phrase": "しほ海のほとりにて",
             "gloss": "salt sea GEN shore LOC",
+	    "gloss-morph": "salt+sea=GEN shore=LOC",
+	    "gloss-zh": "盐海 的 岸 在",
+	    "gloss-morph-zh": "盐+海=GEN 岸=LOC",
             "words": [
               {
                 "word": "しほ",
-                "gloss": "salt"
-              },
-              {
+                "gloss": "salt",
+		"gloss-morph": "salt",
+		"gloss-zh": "盐",
+		"gloss-morph-zh": "盐"
+	      },
+	      {
                 "word": "海",
-                "gloss": "sea"
+                "gloss": "sea",
+		"gloss-morph": "sea",
+		"gloss-zh": "海",
+		"gloss-morph-zh": "海"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-morph-zh": "=GEN"
               },
               {
                 "word": "ほとり",
-                "gloss": "shore"
+                "gloss": "shore",
+		"gloss-morph": "shore",
+		"gloss-zh": "岸",
+		"gloss-morph-zh": "岸"
               },
               {
                 "word": "にて",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=LOC",
+		"gloss-zh": "在",
+		"gloss-morph-zh": "=LOC"
               }
             ]
           },
           {
             "phrase": "あざれあへり",
             "gloss": "fool.around reciprocate.PERF",
+	    "gloss-morph": "fool.around-SER+reciprocate-SER=STA",
+	    "gloss-zh": "嬉闹 互相-PERF",
+	    "gloss-morph-zh": "嬉闹-SER+互相-SER=STA",
             "words": [
               {
                 "word": "あざれ",
-                "gloss": "fool.around"
+                "gloss": "fool.around",
+		"gloss-morph": "fool.around-SER",
+		"gloss-zh": "嬉闹",
+		"gloss-morph-zh": "嬉闹-SER"
               },
               {
                 "word": "あへ",
-                "gloss": "reciprocate.ADV.F"
-              },
-              {
+                "gloss": "reciprocate.ADV.F",
+		"gloss-morph": "+reciprocate-SER",
+		"gloss-zh": "互相",
+		"gloss-morph-zh": "+互相-SER"
+	      },
+	      {
                 "word": "り",
-                "gloss": "PERF"
+                "gloss": "PERF",
+		"gloss-morph": "=STA",
+		"gloss-zh": "PERF",
+		"gloss-morph-zh": "=STA"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "身分の上下を問わず、皆が酔いつぶれて、潮の香る浜辺でふざけ合っていた。",
-        "translation-en-natural": "People of all ranks got drunk and were playfully fooling around by the salty seaside."
+        "translation-en-natural": "People of all ranks got drunk and were playfully fooling around by the salty seaside.",
+	"translation-zh-natural": "无关上下阶级，所有人皆酩酊大醉，十分古怪地在海岸边嬉闹。",
+	"notes-ja": [
+	  {
+	    "title": "しほ海",
+	    "note": "「しほ海」塩海（淡海＝湖の反対；学研）？潮海？"
+	  },
+	  {
+	    "title": "上中下＋しほ海のほとり",
+	    "note": "伊勢物語『渚の院』との関連性：https://classicstudies.jimdofree.com/%E5%9C%9F%E4%BD%90%E6%97%A5%E8%A8%98/%E4%B8%8A%E4%B8%AD%E4%B8%8B/"
+	  },
+	  {
+	    "title": "あざれあへり",
+	    "note": "あざる（鯘）に掛ける。鯘が海で腐らないはずだが、人は腐れ合う。cf. 菊地；https://classicstudies.jimdofree.com/%E5%9C%9F%E4%BD%90%E6%97%A5%E8%A8%98/%E4%B8%8A%E4%B8%AD%E4%B8%8B/"
+	  }
+	]
       },
       {
         "date": [
