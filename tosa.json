@@ -670,11 +670,12 @@
           20241103,
           20241111,
           20241112,
-          20250606
+          20250606,
+          20250722
         ],
         "id": 7,
         "text": "廿二日、和泉の國までとたひらかにねがひたつ。",
-        "kana": "はつか、いずみのくにまでとたひらかにねがひたつ。",
+        "kana": "はつかあまりふつか、いずみのくにまでとたひらかにねがひたつ。",
         "koutei-yamagen": "二十二日、和泉の国までと平らかに願立つ。",
         "translation-ja": "二十二日に、和泉の国までと平穏に祈願を立てた。",
         "translation-en": "On the twenty-second day, I set up a prayer for a peaceful (safe) journey as far as the province of Izumi.",
@@ -750,7 +751,13 @@
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "二十二日、和泉の国まで無事に行けるようにと祈願した。",
-        "translation-en-natural": "On the twenty-second day, I prayed for a safe journey as far as Izumi Province."
+        "translation-en-natural": "On the twenty-second day, I prayed for a safe journey as far as Izumi Province.",
+        "notes-ja": [
+          {
+            "title": "ねがひたつ",
+            "note": "青空文庫、『土佐日記』では「ねがひたつ」と表記されているが、学研全訳古語辞典「願(ぐわん)立つ」とあり、菊地注釈でも同様の読みを与えている。"
+          }
+        ]
       },
       {
         "date": [
@@ -3304,15 +3311,114 @@
         "translation-en-natural": "At that moment, a person wrote and presented a poem."
       },
       {
-        "date": "20241205",
+        "date": [
+          20241205,
+          20250721
+        ],
         "id": 34,
         "poem": "都へと/おもふものゝ/かなしきは/かへらぬ人の/あればなりけり",
         "kana": "みやこへと/おもふものの/かなしきは/かへらぬひとの/あればなりけり",
         "koutei-yamagen": "都へと/思ふものの/悲しきは/帰らぬ人の/あればなりけり",
-        "translation-ja": "都へと思う者の悲しみは、帰らない人がいるからなのだ。",
-        "translation-en": "The sadness of those who think of returning to the capital is because there is a person who will not return.",
-        "translation-ja-natural": "都へ帰ろうと思っている人の悲しみは、一緒に帰るはずだった人を亡くしてしまったことなのです。",
-        "translation-en-natural": "For those thinking of returning to the capital, the sorrow lies in having lost someone who was meant to return with them."
+        "translation-ja": "都へと思うけれども、悲しいのは、帰らない人がいることなのだ。",
+        "translation-en": "Though I think of returning to the capital, the sad thing is that there is someone who does not return.",
+        "phrase-gloss": [
+          {
+            "phrase": "都へと",
+            "gloss": "toward the capital",
+            "words": [
+              {
+                "word": "都",
+                "gloss": "capital"
+              },
+              {
+                "word": "へ",
+                "gloss": "ALL"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              }
+            ]
+          },
+          {
+            "phrase": "おもふものゝ",
+            "gloss": "though I think",
+            "words": [
+              {
+                "word": "おもふ",
+                "gloss": "think"
+              },
+              {
+                "word": "もの",
+                "gloss": "thing"
+              },
+              {
+                "word": "の",
+                "gloss": "CONTR"
+              }
+            ]
+          },
+          {
+            "phrase": "かなしきは",
+            "gloss": "the sad thing is",
+            "words": [
+              {
+                "word": "かなしき",
+                "gloss": "sad.ATTR"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "かへらぬ人の",
+            "gloss": "of the person who does not return",
+            "words": [
+              {
+                "word": "かへら",
+                "gloss": "return.IRR"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "あればなりけり",
+            "gloss": "it is because there is",
+            "words": [
+              {
+                "word": "あれ",
+                "gloss": "exist.IRR"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              },
+              {
+                "word": "なり",
+                "gloss": "be"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST.MOD"
+              }
+            ]
+          }
+        ],
+        "translation-ja-natural": "都に帰ろうと思っても、悲しみが募るのは、一緒に帰ることのない人がいるからなのだ。",
+        "translation-en-natural": "Even as I long to return to the capital, the sorrow remains—because there is someone who will never come back with me."
       },
       {
         "date": "20241205",
