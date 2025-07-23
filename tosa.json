@@ -1528,61 +1528,95 @@
         "koutei-yamagen": "二十三日、八木の康教といふ人あり。",
         "translation-ja": "二十三日、八木の康教という人がいた。",
         "translation-en": "On the twenty-third, there was a person named Yasunori Yagi.",
+	"translation-zh": "廿三日，有一个叫八木康教的人。",
         "phrase-gloss": [
           {
             "phrase": "廿三日",
             "gloss": "23rd-day",
+	    "gloss-morph": "twenty+three+day",
+	    "gloss-zh": "廿三日",
+	    "gloss-morph-zh": "廿+三+日",
             "words": [
               {
                 "word": "廿三日",
-                "gloss": "23rd-day"
+                "gloss": "23rd-day",
+		"gloss-morph": "twenty+three+day",
+		"gloss-zh": "廿三日",
+		"gloss-morph-zh": "廿+三+日"
               }
             ]
           },
           {
             "phrase": "八木の康教といふ人",
             "gloss": "Yagi.PN GEN Yasunori.PN QUOT say.ATTR person",
+	    "gloss-morph": "Yagi.PN=GEN Yasunori.PN=QUOT say=ADN person",
+	    "gloss-zh": "八木康教 叫-的 人",
             "words": [
               {
                 "word": "八木",
-                "gloss": "Yagi.PN"
+                "gloss": "Yagi.PN",
+		"gloss-morph": "Yagi.PN",
+		"gloss-zh": "八木（人名）",
+		"gloss-morph-zh": "八木.PN"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
-              },
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-morph-zh": "=GEN"
+	      },
               {
                 "word": "康教",
-                "gloss": "Yasunori.PN"
+                "gloss": "Yasunori.PN",
+		"gloss-morph": "Yasunori.PN",
+		"gloss-zh": "康教（人名）",
+		"gloss-morph-zh": "康教.PN"
               },
               {
                 "word": "と",
-                "gloss": "QUOT"
-              },
-              {
+                "gloss": "QUOT",
+		"gloss-morph": "=QUOT",
+		"gloss-zh": "叫-的",
+		"gloss-morph-zh": "=QUOT"
+	      },
+	      {
                 "word": "いふ",
-                "gloss": "say.ATTR"
-              },
+                "gloss": "say.ATTR",
+		"gloss-morph": "say=ADN",
+		"gloss-zh": "说",
+		"gloss-morph-zh": "说=ADN"
+	      },
               {
                 "word": "人",
-                "gloss": "person"
+                "gloss": "person",
+		"gloss-morph": "person",
+		"gloss-zh": "人",
+		"gloss-morph-zh": "人"
               }
             ]
           },
           {
             "phrase": "あり",
             "gloss": "exist",
+	    "gloss-morph": "exist-CCL",
+	    "gloss-zh": "存在",
+	    "gloss-morph-zh": "存在-CCL",
             "words": [
               {
                 "word": "あり",
-                "gloss": "exist"
+                "gloss": "exist",
+		"gloss-morph": "exist-CCL",
+		"gloss-zh": "存在",
+		"gloss-morph-zh": "存在-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "二十三日、八木の康教という人物がいた。",
-        "translation-en-natural": "On the 23rd, there was a man named Yasunori from Yagi."
+        "translation-en-natural": "On the 23rd, there was a man named Yasunori from Yagi.",
+	"translation-zh-natural": "在二十三日，有一个叫做八木康教的人。"
       },
       {
         "date": [
@@ -1595,93 +1629,149 @@
         "koutei-yamagen": "この人、国に必ずしも言ひつかう者にもあらざなり。",
         "translation-ja": "この人は、国において必ずしも言いつかう者でもなかった。",
         "translation-en": "This person was not necessarily someone who would be employed in the province.",
+	"translation-zh": "此人未必任命于该国之人。",
         "phrase-gloss": [
           {
             "phrase": "この人",
             "gloss": "this person",
+	    "gloss-morph": "DET person",
+	    "gloss-zh": "此人",
+	    "gloss-morph-zh": "DET 人",
             "words": [
               {
                 "word": "この",
-                "gloss": "this"
+                "gloss": "this",
+		"gloss-morph": "DET",
+		"gloss-zh": "此",
+		"gloss-morph-zh": "DET"
               },
               {
                 "word": "人",
-                "gloss": "person"
+                "gloss": "person",
+		"gloss-morph": "person",
+		"gloss-zh": "人",
+		"gloss-morph-zh": "人"
               }
             ]
           },
           {
             "phrase": "國に",
             "gloss": "province LOC",
+	    "gloss-morph": "province=DAV",
+	    "gloss-zh": "国 于",
+	    "gloss-morph-zh": "国=DAV",
             "words": [
               {
                 "word": "國",
-                "gloss": "province"
-              },
+                "gloss": "province",
+		"gloss-morph": "province",
+		"gloss-zh": "国（省）",
+		"gloss-morph-zh": "国（省）"
+	      },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAV",
+		"gloss-zh": "于",
+		"gloss-morph-zh": "=DAV"
               }
             ]
           },
           {
             "phrase": "必ずしも",
             "gloss": "necessarily",
+	    "gloss-morph": "necessary=EMP",
+	    "gloss-zh": "必然（打消）",
+	    "gloss-morph-zh": "必然=EMP",
             "words": [
               {
                 "word": "必ずしも",
-                "gloss": "necessarily"
+                "gloss": "necessarily",
+		"gloss-morph": "necessary=EMP",
+		"gloss-zh": "必然（打消）",
+		"gloss-morph-zh": "必然=EMP"
               }
             ]
           },
           {
             "phrase": "いひつかふ者にも",
             "gloss": "employ say.use person DAT.FOC",
+	    "gloss-morph": "command-SER+employ-ADN person=DAT=IFO",
+	    "gloss-zh": "雇佣-的 者 于-FOC",
+	    "gloss-morph-zh": "命令-SER+使役-ADN 者=DAT=IFO",
             "words": [
               {
                 "word": "いひ",
-                "gloss": "say.ADV.F"
-              },
+                "gloss": "say.ADV.F",
+		"gloss-morph": "say-SER",
+		"gloss-zh": "说",
+		"gloss-morph-zh": "说-SER"
+	      },
               {
                 "word": "つかふ",
-                "gloss": "use.ATTR"
-              },
+                "gloss": "use.ATTR",
+		"gloss-morph": "employ-ADN",
+		"gloss-zh": "使役",
+		"gloss-morph-zh": "使役-ADN"
+	      },
               {
                 "word": "者",
-                "gloss": "person"
+                "gloss": "person",
+		"gloss-morph": "person",
+		"gloss-zh": "者",
+		"gloss-morph-zh": "者"
               },
               {
                 "word": "に",
-                "gloss": "DAT"
+                "gloss": "DAT",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "于",
+		"gloss-morph-zh": "=DAT"
               },
               {
                 "word": "も",
-                "gloss": "FOC"
+                "gloss": "FOC",
+		"gloss-morph": "=IFO",
+		"gloss-zh": "FOC",
+		"gloss-morph-zh": "=IFO"
               }
             ]
           },
           {
             "phrase": "あらざるなり",
             "gloss": "exist-NEG.ATTR COP.EXP",
+	    "gloss-morph": "exist-NEG-ADN=COP-CCL",
+	    "gloss-zh": "存在-不-的 COP",
+	    "gloss-morph-zh": "存在-NEG-ADN=COP-CCL",
             "words": [
               {
                 "word": "あら",
-                "gloss": "exist.ADV.F"
+                "gloss": "exist.ADV.F",
+		"gloss-morph": "exist",
+		"gloss-zh": "存在",
+		"gloss-morph-zh": "存在"
               },
               {
                 "word": "ざる",
-                "gloss": "NEG.ATTR"
+                "gloss": "NEG.ATTR",
+		"gloss-morph": "-NEG-ADN",
+		"gloss-zh": "不-的",
+		"gloss-morph-zh": "-NEG-ADN"
               },
               {
                 "word": "なり",
-                "gloss": "COP.EXP"
+                "gloss": "COP.EXP",
+		"gloss-morph": "=COP-CCL",
+		"gloss-zh": "COP",
+		"gloss-morph-zh": "=COP-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "この人物は、地方では特に重用されるような者ではなかった。",
-        "translation-en-natural": "This fellow was not someone who held an important position in the province."
+        "translation-en-natural": "This fellow was not someone who held an important position in the province.",
+	"translation-zh-natural": "这个人并非该地受重用的人。",
       },
       {
         "date": [
@@ -1694,36 +1784,58 @@
         "koutei-yamagen": "これぞ正しきやうにて馬の餞したる。",
         "translation-ja": "これこそが、正しいやり方で馬の餞をした。",
         "translation-en": "And yet, this person gave a horse as a farewell gift in a proper manner.",
+	"translation-zh": "这才是以正确的方式操办马之饯行。",
         "phrase-gloss": [
           {
             "phrase": "これぞ",
             "gloss": "this FOC",
+	    "gloss-morph": "DEM=FOC",
+	    "gloss-zh": "这 才",
+	    "gloss-morph-zh": "DEM=FOC",
             "words": [
               {
                 "word": "これ",
-                "gloss": "this"
+                "gloss": "this",
+		"gloss-morph": "DEM",
+		"gloss-zh": "这",
+		"gloss-morph-zh": "DEM"
               },
               {
                 "word": "ぞ",
-                "gloss": "FOC"
+                "gloss": "FOC",
+		"gloss-morph": "=FOC",
+		"gloss-zh": "才",
+		"gloss-morph-zh": "=FOC"
               }
             ]
           },
           {
             "phrase": "正しきやうにて",
             "gloss": "correct ATTR manner LOC CONJ",
+	    "gloss-morph": "correct-ADN manner=INS?",
+	    "gloss-zh": "正确-的 方式 以",
+	    "gloss-morph-zh": "正确-ADN 方式=INS?",
             "words": [
               {
                 "word": "正しき",
-                "gloss": "correct.ATTR"
-              },
+                "gloss": "correct.ATTR",
+		"gloss-morph": "correct-ADN",
+		"gloss-zh": "正确-的",
+		"gloss-morph-zh": "正确-ADN"
+	      },
               {
                 "word": "やう",
-                "gloss": "manner"
+                "gloss": "manner",
+		"gloss-morph": "manner",
+		"gloss-zh": "方式",
+		"gloss-morph-zh": "方式"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=INS?具格?「にて」",
+		"gloss-zh": "以",
+		"gloss-morph-zh": "=INS?"
               },
               {
                 "word": "て",
@@ -1734,33 +1846,58 @@
           {
             "phrase": "馬の餞したる",
             "gloss": "horse GEN farewell do.PFV.ATTR",
+	    "gloss-morph": "horse=GEN farewell+do-SER=STA-ADN",
+	    "gloss-zh": "马 的 饯行 做-PFV",
+	    "gloss-morph-zh": "马=GEN 饯行+做-SER=STA-ADN",
             "words": [
               {
                 "word": "馬",
-                "gloss": "horse"
+                "gloss": "horse",
+		"gloss-morph": "horse",
+		"gloss-zh": "马",
+		"gloss-morph-zh": "马"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-morph-zh": "=GEN"
               },
               {
                 "word": "餞",
-                "gloss": "farewell"
-              },
+                "gloss": "farewell",
+		"gloss-morph": "farewell",
+		"gloss-zh": "饯行",
+		"gloss-morph-zh": "饯行"
+	      },
               {
                 "word": "し",
-                "gloss": "do.ADV.F"
-              },
+                "gloss": "do.ADV.F",
+		"gloss-morph": "+do-SER",
+		"gloss-zh": "做",
+		"gloss-morph-zh": "+做-SER"
+	      },
               {
                 "word": "たる",
-                "gloss": "PERF.ATTR"
+                "gloss": "PERF.ATTR",
+		"gloss-morph": "=STA-ADN",
+		"gloss-zh": "PFV",
+		"gloss-morph-zh": "=STA-ADN"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "これこそ、きちんとした形で馬の餞別をした人だった。",
-        "translation-en-natural": "This, indeed, was someone who properly offered a farewell gift of a horse."
+        "translation-en-natural": "This, indeed, was someone who properly offered a farewell gift of a horse.",
+	"translation-zh-natural": "他才是以正确的方式为陆路操办饯行仪式的人。",
+	"notes-ja": [
+	  {
+	    "title": "verb-SER=STA",
+	    "note": "=> -STA"
+	  }
+	]
       },
       {
         "date": [
