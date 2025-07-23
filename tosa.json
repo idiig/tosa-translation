@@ -327,9 +327,9 @@
           {
             "phrase": "戌の時に",
             "gloss": "hour.of.dog-LOC",
-	    "gloss-morph": "dog=GEN hour=DAV?",
-	    "gloss-zh": "戌-Gen 时-DAV?",
-	    "gloss-zh-morph": "戌=Gen 时=DAV?",
+	    "gloss-morph": "dog=GEN hour=DAT?",
+	    "gloss-zh": "戌-Gen 时-DAT?",
+	    "gloss-zh-morph": "戌=Gen 时=DAT?",
             "words": [
               {
                 "word": "戌",
@@ -355,9 +355,9 @@
 	      {
                 "word": "に",
                 "gloss": "LOC",
-		"gloss-morph": "=DAV?",
-		"gloss-zh": "DAV?",
-		"gloss-morph-zh": "=DAV?"
+		"gloss-morph": "=DAT?",
+		"gloss-zh": "DAT?",
+		"gloss-morph-zh": "=DAT?"
               }
             ]
           },
@@ -733,7 +733,7 @@
                 "gloss": "LOC",
 		"gloss-morph": "=DAT?",
 		"gloss-zh": "DAT?",
-		"gloss-morph-zh": "=DAV?"
+		"gloss-morph-zh": "=DAT?"
               },
               {
                 "word": "乘る",
@@ -1015,7 +1015,7 @@
           {
             "phrase": "のゝしるうちに夜更けぬ",
             "gloss": "making-noise while night-fell",
-	    "gloss-morph": "making.noise=ADN duration-DAT night+fell-SER=MNF",
+	    "gloss-morph": "making.noise-ADN duration-DAT night+fell-SER=MNF",
 	    "gloss-zh": "喧闹 间-DAT 夜深-PFV",
 	    "gloss-morph-zh": "喧闹-ADN 间=DAT 夜+深-SER=MNF",
             "words": [
@@ -1549,7 +1549,7 @@
           {
             "phrase": "八木の康教といふ人",
             "gloss": "Yagi.PN GEN Yasunori.PN QUOT say.ATTR person",
-	    "gloss-morph": "Yagi.PN=GEN Yasunori.PN=QUOT say=ADN person",
+	    "gloss-morph": "Yagi.PN=GEN Yasunori.PN=QUOT say-ADN person",
 	    "gloss-zh": "八木康教 叫-的 人",
             "words": [
               {
@@ -1583,9 +1583,9 @@
 	      {
                 "word": "いふ",
                 "gloss": "say.ATTR",
-		"gloss-morph": "say=ADN",
+		"gloss-morph": "say-ADN",
 		"gloss-zh": "说",
-		"gloss-morph-zh": "说=ADN"
+		"gloss-morph-zh": "说-ADN"
 	      },
               {
                 "word": "人",
@@ -1657,9 +1657,9 @@
           {
             "phrase": "國に",
             "gloss": "province LOC",
-	    "gloss-morph": "province=DAV",
+	    "gloss-morph": "province=DAT",
 	    "gloss-zh": "国 于",
-	    "gloss-morph-zh": "国=DAV",
+	    "gloss-morph-zh": "国=DAT",
             "words": [
               {
                 "word": "國",
@@ -1671,25 +1671,25 @@
               {
                 "word": "に",
                 "gloss": "LOC",
-		"gloss-morph": "=DAV",
+		"gloss-morph": "=DAT",
 		"gloss-zh": "于",
-		"gloss-morph-zh": "=DAV"
+		"gloss-morph-zh": "=DAT"
               }
             ]
           },
           {
             "phrase": "必ずしも",
             "gloss": "necessarily",
-	    "gloss-morph": "necessary=EMP",
+	    "gloss-morph": "necessary=EMPH",
 	    "gloss-zh": "必然（打消）",
-	    "gloss-morph-zh": "必然=EMP",
+	    "gloss-morph-zh": "必然=EMPH",
             "words": [
               {
                 "word": "必ずしも",
                 "gloss": "necessarily",
-		"gloss-morph": "necessary=EMP",
+		"gloss-morph": "necessary=EMPH",
 		"gloss-zh": "必然（打消）",
-		"gloss-morph-zh": "必然=EMP"
+		"gloss-morph-zh": "必然=EMPH"
               }
             ]
           },
@@ -1910,153 +1910,254 @@
         "koutei-yamagen": "守がらにやあらむ、国人の心の常として、今はとて見えざなるを、心あるものは恥じずきなむ来ける。",
         "translation-ja": "守の人柄なのだろうか、国人の心の常としては、今はもう会うこともないのに、心のある人は気兼ねなく、なんとかして来ている。",
         "translation-en": "Could it be because of the governor's character? As is usual with the feelings of the provincial people, they think there is no longer any need to visit now, yet those with a sincere heart came without hesitation.",
+	"translation-zh": "或许在于国守的人格吧。作为在地人之常情，虽想如今已不会再见，但有心之人毫无介意地来了。",
         "phrase-gloss": [
           {
             "phrase": "かみがらにやあらむ",
             "gloss": "governor.character LOC FOC exist.SUP",
+	    "gloss-morph": "governor+character=DAT=XCL exist-CJT",
+	    "gloss-zh": "国守+人格 在于 FOC 有-吧",
+	    "gloss-morph-zh": "国守+人格=DAT=XCL 有-CJT",
             "words": [
               {
                 "word": "かみがら",
-                "gloss": "governor.character"
-              },
+                "gloss": "governor.character",
+		"gloss-morph": "governor＋character",
+		"gloss-zh": "国守+人格",
+		"gloss-morph-zh": "国守+人格"
+	      },
               {
                 "word": "に",
-                "gloss": "LOC"
-              },
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "在于",
+		"gloss-morph-zh": "=DAT"
+	      },,
               {
                 "word": "や",
-                "gloss": "FOC"
-              },
+                "gloss": "FOC",
+		"gloss-morph": "=XCL",
+		"gloss-zh": "FOC",
+		"gloss-morph-zh": "=XCL"
+	      },
               {
                 "word": "あら",
-                "gloss": "exist.NEG.BASE"
-              },
+                "gloss": "exist.NEG.BASE",
+		"gloss-morph": "exist",
+		"gloss-zh": "有",
+		"gloss-morph-zh": "有"
+	      },
               {
                 "word": "む",
-                "gloss": "SUP"
+                "gloss": "SUP",
+		"gloss-morph": "-CJT",
+		"gloss-zh": "吧",
+		"gloss-morph-zh": "-CJT"
               }
             ]
           },
           {
             "phrase": "國人の心の常として",
             "gloss": "provincial.people GEN heart GEN custom as",
+	    "gloss-morph": "provincial+people=GEN heart=GEN custom=CMP do-SER=SEQ",
+	    "gloss-zh": "在地人 的 心 的 常 作为",
+	    "gloss-morph-zh": "国+人=GEN 心=GEN 常=CMP 做-SER=SEQ",
             "words": [
               {
                 "word": "國人",
-                "gloss": "provincial.people"
+                "gloss": "provincial.people",
+		"gloss-morph": "provincial+people",
+		"gloss-zh": "在地人",
+		"gloss-morph-zh": "国+人"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
-              },
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-morph-zh": "=GEN"
+	      },
               {
                 "word": "心",
-                "gloss": "heart"
+                "gloss": "heart",
+		"gloss-morph": "heart",
+		"gloss-zh": "心",
+		"gloss-morph-zh": "心"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-morph-zh": "=GEN"
               },
               {
                 "word": "常",
-                "gloss": "custom"
+                "gloss": "custom",
+		"gloss-morph": "custom",
+		"gloss-zh": "常",
+		"gloss-morph-zh": "常"
               },
               {
                 "word": "として",
-                "gloss": "as"
+                "gloss": "as",
+		"gloss-morph": "=CMP do-SER=SEQ",
+		"gloss-zh": "作为",
+		"gloss-morph-zh": "=CMP 做-SER=SEQ"
               }
             ]
           },
           {
             "phrase": "今はとて見えざなるを",
             "gloss": "now FOC QUOT appear NEG be.ATTR ACC",
+	    "gloss-morph": "now=TOP=SCM see?-NEG=COP-ADN-NL=ACC",
+	    "gloss-zh": "现在 TOP? QUOT 见-不-的 ACC",
+	    "gloss-morph-zh": "现在=TOP=SCM 见-NEG=COP-ADN-NL=ACC",
             "words": [
               {
                 "word": "今",
-                "gloss": "now"
+                "gloss": "now",
+		"gloss-morph": "now",
+		"gloss-zh": "现在",
+		"gloss-morph-zh": "现在"
               },
               {
                 "word": "は",
-                "gloss": "FOC"
-              },
+                "gloss": "FOC",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "TOP?",
+		"gloss-morph-zh": "=TOP"
+	      },
               {
                 "word": "とて",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-morph": "=SCM",
+		"gloss-zh": "QUOT",
+		"gloss-morph-zh": "=SCM"
               },
               {
                 "word": "見え",
-                "gloss": "appear"
+                "gloss": "appear",
+		"gloss-morph": "see?",
+		"gloss-zh": "见",
+		"gloss-morph-zh": "见"
               },
               {
                 "word": "ざ",
-                "gloss": "NEG"
+                "gloss": "NEG",
+		"gloss-morph": "-NEG",
+		"gloss-zh": "不",
+		"gloss-morph-zh": "-NEG"
               },
               {
                 "word": "なる",
-                "gloss": "be.ATTR"
-              },
+                "gloss": "be.ATTR",
+		"gloss-morph": "=COP-ADN",
+		"gloss-zh": "的",
+		"gloss-morph-zh": "=COP-ADN"
+	      },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "ACC",
+		"gloss-morph-zh": "=ACC"
               }
             ]
           },
           {
             "phrase": "心あるものは",
             "gloss": "heart have.ATTR person TOP",
+	    "gloss-morph": "heart exist-ADN person=TOP",
+	    "gloss-zh": "心 有-的 人 TOP",
+	    "gloss-morph-zh": "心 存在-ADN 人=TOP",
             "words": [
               {
                 "word": "心",
-                "gloss": "heart"
-              },
+                "gloss": "heart",
+		"gloss-morph": "heart",
+		"gloss-zh": "心",
+		"gloss-morph-zh": "心"
+	      },
               {
                 "word": "ある",
-                "gloss": "have.ATTR"
+                "gloss": "have.ATTR",
+		"gloss-morph": "exist-ADN",
+		"gloss-zh": "有-的",
+		"gloss-morph-zh": "存在-ADN"
               },
               {
                 "word": "もの",
-                "gloss": "person"
+                "gloss": "person",
+		"gloss-morph": "person",
+		"gloss-zh": "人",
+		"gloss-morph-zh": "人"
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "TOP",
+		"gloss-morph-zh": "=TOP"
               }
             ]
           },
           {
             "phrase": "恥ぢずきなむきける",
             "gloss": "hesitate NEG come EMPH come.ADV.F PST.REP",
+	    "gloss-morph": "hesitate-NEG come=FOC come-SER=RET-ADN",
+	    "gloss-zh": "介意-不 来-EMPH 来 PST",
+	    "gloss-morph-zh": "介意-NEG 来=FOC 来-SER=RET-ADN",
             "words": [
               {
                 "word": "恥ぢ",
-                "gloss": "hesitate"
-              },
+                "gloss": "hesitate",
+		"gloss-morph": "hesitate",
+		"gloss-zh": "介意",
+		"gloss-morph-zh": "介意"
+	      },
               {
                 "word": "ず",
-                "gloss": "NEG"
+                "gloss": "NEG",
+		"gloss-morph": "-NEG",
+		"gloss-zh": "不",
+		"gloss-morph-zh": "-NEG"
               },
               {
                 "word": "き",
-                "gloss": "come"
+                "gloss": "come",
+		"gloss-morph": "come",
+		"gloss-zh": "来",
+		"gloss-morph-zh": "来"
               },
               {
                 "word": "なむ",
-                "gloss": "EMPH"
+                "gloss": "EMPH",
+		"gloss-morph": "=FOC",
+		"gloss-zh": "-EMPH",
+		"gloss-morph-zh": "=FOC"
               },
               {
                 "word": "き",
-                "gloss": "come.ADV.F"
+                "gloss": "come.ADV.F",
+		"gloss-morph": "come-SER",
+		"gloss-zh": "来",
+		"gloss-morph-zh": "来-SER"
               },
               {
                 "word": "ける",
-                "gloss": "PST.REP"
+                "gloss": "PST.REP",
+		"gloss-morph": "=RET-ADN",
+		"gloss-zh": "PST",
+		"gloss-morph-zh": "=RET-ADN"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "これは守の人柄ゆえなのだろうか。地方の人の常として、今さら会うこともあるまいと思って姿を見せないが、心ある人は気兼ねせずに、なんとかしてやって来てくれたのだった。",
-        "translation-en-natural": "Could it be due to the governor's character? The locals, as is often the case, assumed there was no more need to visit, but those with sincere hearts came despite that, without hesitation."
+        "translation-en-natural": "Could it be due to the governor's character? The locals, as is often the case, assumed there was no more need to visit, but those with sincere hearts came despite that, without hesitation.",
+	"translation-zh-natural": "或许是因为国守的人格吧。出于当地人之常情，虽然如今可能再也见不到了，但有心之人们仍然毫不犹豫地赶来了。",
       },
       {
         "date": [
@@ -2069,73 +2170,115 @@
         "koutei-yamagen": "これは物によりて褒むるにしもあらず。",
         "translation-ja": "これは物によって褒められるに値することではない。",
         "translation-en": "This is not about praising someone just because they gave you something.",
+	"translation-zh": "此并非因物而赞。",
         "phrase-gloss": [
           {
             "phrase": "これは",
             "gloss": "this TOP",
+	    "gloss-morph": "DEM=TOP",
+	    "gloss-zh": "这 TOP",
+	    "gloss-morph-zh": "DEM=TOP",
             "words": [
               {
                 "word": "これ",
-                "gloss": "this"
+                "gloss": "this",
+		"gloss-morph": "DEM",
+		"gloss-zh": "这",
+		"gloss-morph-zh": "DEM"
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "TOP",
+		"gloss-morph-zh": "=TOP"
               }
             ]
           },
           {
             "phrase": "物によりて",
             "gloss": "gift LOC depend CONJ",
+	    "gloss-morph": "thing=DAT depend-SER=SEQ",
+	    "gloss-zh": "物 于 依赖 SEQ",
+	    "gloss-morph-zh": "物=DAT 依赖-SER=SEQ",
             "words": [
               {
                 "word": "物",
-                "gloss": "gift"
+                "gloss": "gift",
+		"gloss-morph": "thing",
+		"gloss-zh": "物",
+		"gloss-morph-zh": "物"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "于",
+		"gloss-morph-zh": "=DAT"
               },
               {
                 "word": "より",
-                "gloss": "depend.ADV.F"
+                "gloss": "depend.ADV.F",
+		"gloss-morph": "depend-SER",
+		"gloss-zh": "依赖",
+		"gloss-morph-zh": "依赖-SER"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "SEQ",
+		"gloss-morph-zh": "=SEQ"
               }
             ]
           },
           {
             "phrase": "譽むるにしもあらず",
             "gloss": "praise.ATTR LOC EMPH NEG",
+	    "gloss-morph": "praise-ADN=DAT=EMPH exist-NEG-CCL",
             "words": [
               {
                 "word": "譽むる",
-                "gloss": "praise.ATTR"
+                "gloss": "praise.ATTR",
+		"gloss-morph": "praise-ADN",
+		"gloss-zh": "赞誉-的",
+		"gloss-morph-zh": "赞誉-ADN"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
-              },
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "于",
+		"gloss-morph-zh": "=DAT"
+	      },
               {
                 "word": "しも",
-                "gloss": "EMPH"
+                "gloss": "EMPH",
+		"gloss-morph": "=EMPH",
+		"gloss-zh": "EMPH",
+		"gloss-morph-zh": "=EMPH"
               },
               {
                 "word": "あら",
-                "gloss": "exist.NEG.BASE"
+                "gloss": "exist.NEG.BASE",
+		"gloss-morph": "exist",
+		"gloss-zh": "存在",
+		"gloss-morph-zh": "存在"
               },
               {
                 "word": "ず",
-                "gloss": "NEG"
+                "gloss": "NEG",
+		"gloss-morph": "-NEG-CCL",
+		"gloss-zh": "不",
+		"gloss-morph-zh": "-NEG-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "これは、物をもらったからといって褒めるようなことではない。",
-        "translation-en-natural": "This is not something to praise merely because of a gift."
+        "translation-en-natural": "This is not something to praise merely because of a gift.",
+	"translation-zh-natural": "这并非因为受到了好处才去赞美他。"
       },
       {
         "date": [
