@@ -1907,7 +1907,7 @@
         "id": 13,
         "text": "かみがらにやあらむ、國人の心の常として今はとて見えざなるを心あるものは恥ぢずきなむきける。",
         "kana": "かみがらにやあらむ、くにびとのこころのつねとしていまはとてみえざなるをこころあるものははぢずきなむきける。",
-        "koutei-yamagen": "守がらにやあらむ、国人の心の常として、今はとて見えざなるを、心あるものは恥じずきなむ来ける。",
+        "koutei-yamagen": "守がらにやあらむ、国人の心の常として、今はとて見えざなるを、心あるものは恥ぢずきなむ来ける。",
         "translation-ja": "守の人柄なのだろうか、国人の心の常としては、今はもう会うこともないのに、心のある人は気兼ねなく、なんとかして来ている。",
         "translation-en": "Could it be because of the governor's character? As is usual with the feelings of the provincial people, they think there is no longer any need to visit now, yet those with a sincere heart came without hesitation.",
 	"translation-zh": "或许在于国守的人格吧。作为在地人之常情，虽想如今已不会再见，但有心之人毫无介意地来了。",
@@ -1932,7 +1932,7 @@
 		"gloss-morph": "=DAT",
 		"gloss-zh": "在于",
 		"gloss-morph-zh": "=DAT"
-	      },,
+	      },
               {
                 "word": "や",
                 "gloss": "FOC",
