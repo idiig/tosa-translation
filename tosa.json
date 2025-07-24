@@ -3465,15 +3465,110 @@
         "translation-en-natural": "Also, at times,"
       },
       {
-        "date": "20241205",
+        "date": [
+          20241205,
+          20250724
+        ],
         "id": 36,
         "poem": "あるものと/忘れつゝなほ/なき人を/いづらと問ふぞ/悲しかりける",
         "kana": "あるものと/わすれつつなほ/なきひとを/いづらととふぞ/かなしかりける",
         "koutei-yamagen": "あるものと/忘れつつなお/なき人を/いづらと問ふぞ/悲しかりける",
-        "translation-ja": "いるものと、忘れて、なお亡くなった人を「どこに」と尋ねてしまうことこそ悲しいことだ。",
-        "translation-en": "Thinking she is still here, I forget that and keep asking, 'Where is she?' That is what makes it so heartbreaking.",
-        "translation-ja-natural": "今もまだそこにいると思い込んで、いないことを忘れてしまい、どこにいるのかとつい尋ねてしまう。そのことこそ、悲しいことです。",
-        "translation-en-natural": "I keep thinking she's still here and forget she's gone, only to find myself asking, 'Where is she?' And that's what makes it so deeply sad."
+        "translation-ja": "いるものと、忘れて、なお、いない人を「どこに」と問うのが、悲しかった。",
+        "translation-en": "Thinking she was still here, forgetting that, and still asking 'Where is she?'—that was what made it sad.",
+        "phrase-gloss": [
+          {
+            "phrase": "あるものと",
+            "gloss": "thinking (she) was there",
+            "words": [
+              {
+                "word": "ある",
+                "gloss": "exist"
+              },
+              {
+                "word": "もの",
+                "gloss": "thing"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              }
+            ]
+          },
+          {
+            "phrase": "忘れつつ",
+            "gloss": "forgetting (continually)",
+            "words": [
+              {
+                "word": "忘れ",
+                "gloss": "forget"
+              },
+              {
+                "word": "つつ",
+                "gloss": "CONJ.PROG"
+              }
+            ]
+          },
+          {
+            "phrase": "なほなき人を",
+            "gloss": "still the absent person",
+            "words": [
+              {
+                "word": "なほ",
+                "gloss": "still"
+              },
+              {
+                "word": "なき",
+                "gloss": "not.exist.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              }
+            ]
+          },
+          {
+            "phrase": "いづらと問ふぞ",
+            "gloss": "ask 'Where is (she)?'",
+            "words": [
+              {
+                "word": "いづら",
+                "gloss": "where"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "問ふ",
+                "gloss": "ask"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              }
+            ]
+          },
+          {
+            "phrase": "悲しかりける",
+            "gloss": "was sorrowful",
+            "words": [
+              {
+                "word": "悲しかり",
+                "gloss": "sad.PRED"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.MOD"
+              }
+            ]
+          }
+        ],
+        "translation-ja-natural": "いると思い、忘れかけても、いない人に「どこにいるの？」と尋ねてしまう、そのことが、何よりも悲しかった。",
+        "translation-en-natural": "Even as I forget and think she's still here, I find myself asking, 'Where is she?'—and that is what breaks my heart."
       },
       {
         "date": "20241206",
