@@ -858,9 +858,9 @@
               {
                 "word": "ぬ",
                 "gloss": "NEG",
-		"gloss-morph": "=NEG-NL?",
+		"gloss-morph": "-NEG-NL?",
 		"gloss-zh": "不",
-		"gloss-zh": "=NEG-NL?"
+		"gloss-zh": "-NEG-NL?"
               }
             ]
           },
@@ -1754,9 +1754,9 @@
               {
                 "word": "ざる",
                 "gloss": "NEG.ATTR",
-		"gloss-morph": "=NEG-ADN",
+		"gloss-morph": "-NEG-ADN",
 		"gloss-zh": "不-的",
-		"gloss-morph-zh": "=NEG-ADN"
+		"gloss-morph-zh": "-NEG-ADN"
               },
               {
                 "word": "なり",
@@ -2047,7 +2047,7 @@
                 "gloss": "NEG",
 		"gloss-morph": "-THM-NEG",
 		"gloss-zh": "不",
-		"gloss-morph-zh": "=NEG"
+		"gloss-morph-zh": "-NEG"
               },
               {
                 "word": "なる",
@@ -2119,9 +2119,9 @@
               {
                 "word": "ず",
                 "gloss": "NEG",
-		"gloss-morph": "=NEG",
+		"gloss-morph": "-NEG",
 		"gloss-zh": "不",
-		"gloss-morph-zh": "=NEG"
+		"gloss-morph-zh": "-NEG"
               },
               {
                 "word": "き",
@@ -2268,9 +2268,9 @@
               {
                 "word": "ず",
                 "gloss": "NEG",
-		"gloss-morph": "=NEG-CCL",
+		"gloss-morph": "-NEG-CCL",
 		"gloss-zh": "不",
-		"gloss-morph-zh": "=NEG-CCL"
+		"gloss-morph-zh": "-NEG-CCL"
               }
             ]
           }
