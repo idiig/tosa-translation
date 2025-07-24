@@ -106,9 +106,9 @@
           {
             "phrase": "女もしてみむとてするなり",
             "gloss": "woman also do-CONJ try-VOL QUOT do COP",
-	    "gloss-morph": "woman=IFO do-THM-SEQ try-THM-VOL-CCL=SCM do-ADN=COP-CCL",
+	    "gloss-morph": "woman=IFO do-THM-SEQ try-THM+VOL-CCL=SCM do-ADN=COP-CCL",
 	    "gloss-zh": "女人 也 做-SEQ 试-VOL SCM 做 COP",
-	    "gloss-morph-zh": "女人=IFO 做-THM-SEQ 试-THM-VOL-CCL=SCM 做-ADN=COP-CCL",
+	    "gloss-morph-zh": "女人=IFO 做-THM-SEQ 试-THM+VOL-CCL=SCM 做-ADN=COP-CCL",
             "words": [
               {
                 "word": "女",
@@ -127,23 +127,23 @@
               {
                 "word": "し",
                 "gloss": "do",
-		"gloss-morph": "do-SER?",
+		"gloss-morph": "do-THM?",
 		"gloss-zh": "做",
-		"gloss-morph-zh": "做-SER?"
+		"gloss-morph-zh": "做-THM?"
               },
               {
                 "word": "て",
                 "gloss": "CONJ",
-		"gloss-morph": "=SEQ?",
+		"gloss-morph": "-SEQ?",
 		"gloss-zh": "SEQ",
-		"gloss-morph-zh": "=SEQ?"
+		"gloss-morph-zh": "-SEQ?"
               },
               {
                 "word": "みむ",
                 "gloss": "try-VOL",
-		"gloss-morph": "try-THM-VOL-CCL?",
+		"gloss-morph": "try-THM+VOL-CCL?",
 		"gloss-zh": "试-VOL",
-		"gloss-morph-zh": "试-THM-VOL-CCL?"
+		"gloss-morph-zh": "试-THM+VOL-CCL?"
               },
               {
                 "word": "とて",
@@ -453,7 +453,7 @@
             "gloss": "write down onto the record",
 	    "gloss-morph": "thing=DAT write.SER+down-CCL",
 	    "gloss-zh": "记录",
-	    "gloss-morph-zh": "物-DAT 写-SER+下-CCL",
+	    "gloss-morph-zh": "物-DAT 写-THM+下-CCL",
             "words": [
               {
                 "word": "もの",
@@ -472,9 +472,9 @@
               {
                 "word": "かき",
                 "gloss": "write.ADV.F",
-		"gloss-morph": "write-SER-ADV+?",
+		"gloss-morph": "write-THM?",
 		"gloss-zh": "写+",
-		"gloss-morph-zh": "写-SER-ADV+?"
+		"gloss-morph-zh": "写-THM?"
               },
               {
                 "word": "つく",
@@ -571,25 +571,25 @@
               {
                 "word": "はて",
                 "gloss": "end.ADV.F",
-		"gloss-morph": "end-SER?",
-		"gloss-zh": "结束-SEQ?",
-		"gloss-morph-zh": "结束-SER?",
+		"gloss-morph": "end-THM?",
+		"gloss-zh": "结束",
+		"gloss-morph-zh": "结束-THM?",
               },
               {
                 "word": "ゝ",
                 "gloss": "CONJ",
-		"gloss-morph": "=SEQ?",
+		"gloss-morph": "-SEQ?",
 		"gloss-zh": "SEQ?",
-		"gloss-morph-zh": "=SEQ?"
+		"gloss-morph-zh": "-SEQ?"
               }
             ]
           },
           {
             "phrase": "例のことゞも皆しをへて",
             "gloss": "usual-GEN matters all perform.ADV.F finish.ADV.F",
-	    "gloss-morph": "usual=GEN matters=PL all do-SER+finish-THM-SEQ?",
+	    "gloss-morph": "usual=GEN matters=PL all do-THM+finish-THM-SEQ?",
 	    "gloss-zh": "惯例-GEN 事 全部 做完-SEQ?",
-	    "gloss-morph-zh": "惯例=GEN 事=PL 全部 做-SER+完成-THM-SEQ?",
+	    "gloss-morph-zh": "惯例=GEN 事=PL 全部 做-THM+完成-THM-SEQ?",
             "words": [
               {
                 "word": "例",
@@ -622,23 +622,23 @@
               {
                 "word": "し",
                 "gloss": "perform.ADV.F",
-		"gloss-morph": "do-SER",
+		"gloss-morph": "do-THM",
 		"gloss-zh": "做",
-		"gloss-morph-zh": "做-SER"
+		"gloss-morph-zh": "做-THM"
               },
               {
                 "word": "をへ",
                 "gloss": "finish.ADV.F",
-		"gloss-morph": "finish-THM-SEQ?",
+		"gloss-morph": "+finish-THM?",
 		"gloss-zh": "完-SEQ?",
-		"gloss-morph-zh": "+完-THM-SEQ?",
+		"gloss-morph-zh": "+完-THM?",
               },
               {
                 "word": "て",
                 "gloss": "CONJ",
-		"gloss-morph": "=SEQ?",
+		"gloss-morph": "-SEQ?",
 		"gloss-zh": "SEQ?",
-		"gloss-zh": "=SEQ?"
+		"gloss-zh": "-SEQ?"
               }
             ]
           },
@@ -647,7 +647,7 @@
             "gloss": "geyu.document etc. take.ADV.F residence leave.ADV.F go.out.ADV.F",
 	    "gloss-morph": "geyu.document=EXE take-THM-SEQ live-ADN residence=ABL leave-THM-SEQ?",
 	    "gloss-zh": "解由 等 取得-SEQ 居住的 宅邸 从 离开-SEQ?",
-	    "gloss-morph-zh": "解由=EXE 取得-SER 宅邸-ADN 居所=ABL 离开-THM-SEQ?",
+	    "gloss-morph-zh": "解由=EXE 取得-THM 宅邸-ADN 居所=ABL 离开-THM-SEQ?",
             "words": [
               {
                 "word": "解由",
@@ -673,9 +673,9 @@
               {
                 "word": "て",
                 "gloss": "CONJ",
-		"gloss-morph": "=SEQ?",
+		"gloss-morph": "-SEQ?",
 		"gloss-zh": "SEQ?",
-		"gloss-morph-zh": "=SEQ?",
+		"gloss-morph-zh": "-SEQ?",
               },
               {
                 "word": "住む",
@@ -701,16 +701,16 @@
               {
                 "word": "出で",
                 "gloss": "go.out.ADV.F",
-		"gloss-morph": "go.out-SER?",
+		"gloss-morph": "go.out-THM?",
 		"gloss-zh": "离开",
-		"gloss-morph-zh": "离开-SER?"
+		"gloss-morph-zh": "离开-THM?"
               },
               {
                 "word": "ゝ",
                 "gloss": "CONJ",
-		"gloss-morph": "=SEQ?",
+		"gloss-morph": "-SEQ?",
 		"gloss-zh": "SEQ?",
-		"gloss-morph-zh": "=SEQ?"
+		"gloss-morph-zh": "-SEQ?"
               }
             ]
           },
@@ -911,9 +911,9 @@
           {
             "phrase": "年ごろよく具しつる人々",
             "gloss": "people long-accompanied",
-	    "gloss-morph": "for.long.years good-SER accompany-THM-ATT-ADN people+people",
+	    "gloss-morph": "for.long.years good-SER accompany-THM+ATT-ADN people+people",
 	    "gloss-zh": "长年 好地 陪伴-ATT-ADN 人们",
-	    "gloss-morph-zh": "长年 好-SER 陪伴-THM-ATT-ADN 人+人",
+	    "gloss-morph-zh": "长年 好-SER 陪伴-THM+ATT-ADN 人+人",
             "words": [
               {
                 "word": "年ごろ",
@@ -932,9 +932,9 @@
               {
                 "word": "具しつる",
                 "gloss": "accompanied.PST",
-		"gloss-morph": "accompany-THM-ATT-ADN",
+		"gloss-morph": "accompany-THM+ATT-ADN",
 		"gloss-zh": "陪伴-ATT-ADN",
-		"gloss-morph-zh": "陪伴-THM-ATT-ADN"
+		"gloss-morph-zh": "陪伴-THM+ATT-ADN"
 	      },
 	      {
                 "word": "人々",
@@ -978,9 +978,9 @@
           {
             "phrase": "その日頻にとかくしつゝ",
             "gloss": "that-day frequently this-and-that doing",
-	    "gloss-morph": "DET whole.day=ADV this.and.that do-THM-ITR (ひしきりに?)",
-	    "gloss-zh": "DET+日 频繁地 这般那般 做-ITR",
-	    "gloss-morph-zh": "DET 终日=ADV 这般那般 做-THM-ITR",
+	    "gloss-morph": "DET whole.day=ADV this.and.that do-THM+ITR (ひしきりに?)",
+	    "gloss-zh": "那 日 频繁地 这般那般 做 ITR",
+	    "gloss-morph-zh": "DET 终日=ADV 这般那般 做-THM+ITR",
             "words": [
               {
                 "word": "その日",
@@ -1006,18 +1006,18 @@
               {
                 "word": "しつゝ",
                 "gloss": "doing",
-		"gloss-morph": "do-THM-ITR",
+		"gloss-morph": "do-THM+ITR",
 		"gloss-zh": "做-ITR",
-		"gloss-morph-zh": "做-THM-ITR"
+		"gloss-morph-zh": "做-THM+ITR"
               }
             ]
           },
           {
             "phrase": "のゝしるうちに夜更けぬ",
             "gloss": "making-noise while night-fell",
-	    "gloss-morph": "making.noise-ADN duration-DAT night+fell-THM-MNF",
+	    "gloss-morph": "making.noise-ADN duration-DAT night+fell-THM+MNF",
 	    "gloss-zh": "喧闹 间-DAT 夜深-PFV",
-	    "gloss-morph-zh": "喧闹-ADN 间=DAT 夜+深-THM-MNF",
+	    "gloss-morph-zh": "喧闹-ADN 间=DAT 夜+深-THM+MNF",
             "words": [
               {
                 "word": "のゝしる",
@@ -1036,9 +1036,9 @@
               {
                 "word": "夜更けぬ",
                 "gloss": "night-fell.PFV",
-		"gloss-morph": "night+fell-THM-MNF",
+		"gloss-morph": "night+fell-THM+MNF",
 		"gloss-zh": "夜深-PFV",
-		"gloss-morph-zh": "夜+深-THM-MNF"
+		"gloss-morph-zh": "夜+深-THM+MNF"
               }
             ]
           }
@@ -1214,7 +1214,7 @@
         "koutei-yamagen": "藤原のときざね、船路なれど、馬の餞す。",
         "translation-ja": "藤原のときざねが、船路の旅なのに餞をする。",
         "translation-en": "Fujiwara no Tokizane, though it is a sea journey, gives a farewell gift for a horse journey.",
-	"translation-zh": "藤原言实，虽为海旅，却操办了马（陆路）之饯行。",
+	"translation-zh": "藤原言实，虽为海旅，却操办了马饯之仪。",
         "phrase-gloss": [
           {
             "phrase": "藤原の言實",
@@ -1317,7 +1317,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "藤原の言實が、船の旅なのに、馬の餞別を贈った。",
         "translation-en-natural": "Fujiwara no Tokizane sent off a farewell gift called 'Uma no Hanamuke' (horse nose heading)—even though it was a sea voyage. Go figure.",
-	"translation-zh-natural": "虽说走的是海陆，藤原言实却为之操办了陆路时饯行仪式。",
+	"translation-zh-natural": "虽说走的是海陆，藤原言实却为之操办了以“马”为名的送别仪式。",
       },
       {
         "date": [
@@ -1373,16 +1373,16 @@
           {
             "phrase": "醉ひ過ぎて",
             "gloss": "get.drunk exceed CONJ",
-	    "gloss-morph": "get.drunk-SER exceed-THM-SEQ",
+	    "gloss-morph": "get.drunk-THM+exceed-THM-SEQ",
 	    "gloss-zh": "喝醉 过头-SEQ",
-	    "gloss-morph-zh": "喝醉-SER 过头-THM-SEQ",
+	    "gloss-morph-zh": "喝醉-THM+过头-THM-SEQ",
             "words": [
               {
                 "word": "醉ひ",
                 "gloss": "get.drunk.ADV.F",
-		"gloss-morph": "get.drunk-SER",
+		"gloss-morph": "get.drunk-THM",
 		"gloss-zh": "喝醉",
-		"gloss-morph-zh": "喝醉-SER"
+		"gloss-morph-zh": "喝醉-THM"
 	      },
 	      {
                 "word": "過ぎ",
@@ -1394,9 +1394,9 @@
 	      {
                 "word": "て",
                 "gloss": "CONJ",
-		"gloss-morph": "=SEQ",
+		"gloss-morph": "-SEQ",
 		"gloss-zh": "SEQ",
-		"gloss-morph-zh": "=SEQ"
+		"gloss-morph-zh": "-SEQ"
               }
             ]
           },
@@ -1470,30 +1470,30 @@
           {
             "phrase": "あざれあへり",
             "gloss": "fool.around reciprocate.PERF",
-	    "gloss-morph": "fool.around-SER+reciprocate-THM-STA-CCL",
+	    "gloss-morph": "fool.around-THM+reciprocate-THM+STA-CCL",
 	    "gloss-zh": "嬉闹 互相-PERF",
-	    "gloss-morph-zh": "嬉闹-SER+互相-THM-STA-CCL",
+	    "gloss-morph-zh": "嬉闹-THM+互相-THM+STA-CCL",
             "words": [
               {
                 "word": "あざれ",
                 "gloss": "fool.around",
-		"gloss-morph": "fool.around-SER",
+		"gloss-morph": "fool.around-THM",
 		"gloss-zh": "嬉闹",
-		"gloss-morph-zh": "嬉闹-SER"
+		"gloss-morph-zh": "嬉闹-THM"
               },
               {
                 "word": "あへ",
                 "gloss": "reciprocate.ADV.F",
-		"gloss-morph": "+reciprocate-SER",
+		"gloss-morph": "+reciprocate-THM",
 		"gloss-zh": "互相",
-		"gloss-morph-zh": "+互相-SER"
+		"gloss-morph-zh": "+互相-THM"
 	      },
 	      {
                 "word": "り",
                 "gloss": "PERF",
-		"gloss-morph": "=STA",
+		"gloss-morph": "-STA",
 		"gloss-zh": "PERF",
-		"gloss-morph-zh": "=STA"
+		"gloss-morph-zh": "-STA"
               }
             ]
           }
@@ -1696,16 +1696,16 @@
           {
             "phrase": "いひつかふ者にも",
             "gloss": "employ say.use person DAT.FOC",
-	    "gloss-morph": "command-SER+employ-ADN person=DAT=IFO",
+	    "gloss-morph": "command-THM+employ-ADN person=DAT=IFO",
 	    "gloss-zh": "雇佣-的 者 于-FOC",
-	    "gloss-morph-zh": "命令-SER+使役-ADN 者=DAT=IFO",
+	    "gloss-morph-zh": "命令-THM+使役-ADN 者=DAT=IFO",
             "words": [
               {
                 "word": "いひ",
                 "gloss": "say.ADV.F",
-		"gloss-morph": "say-SER",
+		"gloss-morph": "say-THM",
 		"gloss-zh": "说",
-		"gloss-morph-zh": "说-SER"
+		"gloss-morph-zh": "说-THM"
 	      },
               {
                 "word": "つかふ",
@@ -1784,7 +1784,7 @@
         "koutei-yamagen": "これぞ正しきやうにて馬の餞したる。",
         "translation-ja": "これこそが、正しいやり方で馬の餞をした。",
         "translation-en": "And yet, this person gave a horse as a farewell gift in a proper manner.",
-	"translation-zh": "这才是以正确的方式操办马之饯行。",
+	"translation-zh": "这才是以正确的方式操办了马饯之仪。",
         "phrase-gloss": [
           {
             "phrase": "これぞ",
@@ -1846,9 +1846,9 @@
           {
             "phrase": "馬の餞したる",
             "gloss": "horse GEN farewell do.PFV.ATTR",
-	    "gloss-morph": "horse=GEN farewell+do-THM-STA-ADN",
+	    "gloss-morph": "horse=GEN farewell+do-THM+STA-ADN",
 	    "gloss-zh": "马 的 饯行 做-PFV",
-	    "gloss-morph-zh": "马=GEN 饯行+做-THM-STA-ADN",
+	    "gloss-morph-zh": "马=GEN 饯行+做-THM+STA-ADN",
             "words": [
               {
                 "word": "馬",
@@ -1874,16 +1874,16 @@
               {
                 "word": "し",
                 "gloss": "do.ADV.F",
-		"gloss-morph": "+do-SER",
+		"gloss-morph": "+do-THM",
 		"gloss-zh": "做",
-		"gloss-morph-zh": "+做-SER"
+		"gloss-morph-zh": "+做-THM"
 	      },
               {
                 "word": "たる",
                 "gloss": "PERF.ATTR",
-		"gloss-morph": "=STA-ADN",
+		"gloss-morph": "-STA-ADN",
 		"gloss-zh": "PFV",
-		"gloss-morph-zh": "=STA-ADN"
+		"gloss-morph-zh": "-STA-ADN"
               }
             ]
           }
@@ -1891,10 +1891,10 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "これこそ、きちんとした形で馬の餞別をした人だった。",
         "translation-en-natural": "This, indeed, was someone who properly offered a farewell gift of a horse.",
-	"translation-zh-natural": "他才是以正确的方式为陆路操办饯行仪式的人。",
+	"translation-zh-natural": "他才是以正确的方式为操办马饯仪式的人。",
 	"notes-ja": [
 	  {
-	    "title": "verb-SER=STA",
+	    "title": "verb-SER-STA",
 	    "note": "=> -STA"
 	  }
 	]
@@ -2105,9 +2105,9 @@
           {
             "phrase": "恥ぢずきなむきける",
             "gloss": "hesitate NEG come EMPH come.ADV.F PST.REP",
-	    "gloss-morph": "hesitate-THM-NEG come=FOC come-THM-RET-ADN",
+	    "gloss-morph": "hesitate-THM-NEG come=FOC come-THM+RET-ADN",
 	    "gloss-zh": "介意-不 来-EMPH 来 PST",
-	    "gloss-morph-zh": "介意-THM-NEG 来=FOC 来-THM-RET-ADN",
+	    "gloss-morph-zh": "介意-THM-NEG 来=FOC 来-THM+RET-ADN",
             "words": [
               {
                 "word": "恥ぢ",
@@ -2140,16 +2140,16 @@
               {
                 "word": "き",
                 "gloss": "come.ADV.F",
-		"gloss-morph": "come-SER",
+		"gloss-morph": "come-THM",
 		"gloss-zh": "来",
-		"gloss-morph-zh": "来-SER"
+		"gloss-morph-zh": "来-THM"
               },
               {
                 "word": "ける",
                 "gloss": "PST.REP",
-		"gloss-morph": "=RET-ADN",
+		"gloss-morph": "+RET-ADN",
 		"gloss-zh": "PST",
-		"gloss-morph-zh": "=RET-ADN"
+		"gloss-morph-zh": "+RET-ADN"
               }
             ]
           }
@@ -2219,16 +2219,16 @@
               {
                 "word": "より",
                 "gloss": "depend.ADV.F",
-		"gloss-morph": "depend-SER",
+		"gloss-morph": "depend-THM",
 		"gloss-zh": "依赖",
-		"gloss-morph-zh": "依赖-SER"
+		"gloss-morph-zh": "依赖-THM"
               },
               {
                 "word": "て",
                 "gloss": "CONJ",
-		"gloss-morph": "=SEQ",
+		"gloss-morph": "-SEQ",
 		"gloss-zh": "SEQ",
-		"gloss-morph-zh": "=SEQ"
+		"gloss-morph-zh": "-SEQ"
               }
             ]
           },
@@ -2333,9 +2333,9 @@
               {
                 "word": "し",
                 "gloss": "do.ADV.F",
-		"gloss-morph": "+do-SER",
+		"gloss-morph": "+do-THM-NML",
 		"gloss-zh": "做",
-		"gloss-morph-zh": "+做-SER"
+		"gloss-morph-zh": "+做-THM-NML"
               },
               {
                 "word": "に",
@@ -2349,31 +2349,38 @@
           {
             "phrase": "出でませり",
             "gloss": "go.out HON.POL.PERF",
-	    "gloss-morph": "go.out-THM-RSP-STA-CCL",
+	    "gloss-morph": "go.out-THM+RSP-THM+STA-CCL",
 	    "gloss-zh": "出 HON.PLT PERF",
-	    "gloss-morph-zh": "出-THM-RSP-STA-CCL",
+	    "gloss-morph-zh": "出-THM+RSP-THM+STA-CCL",
             "words": [
               {
                 "word": "出で",
                 "gloss": "go.out.ADV.F",
-		"gloss-morph": "go.out-SER",
+		"gloss-morph": "go.out-THM",
 		"gloss-zh": "出",
-		"gloss-morph-zh": "出-SER"
+		"gloss-morph-zh": "出-THM"
 	      },
               {
                 "word": "ませ",
-                "gloss": "POL.ADV.F"
+                "gloss": "POL.ADV.F",
+		"gloss-morph": "+RSP-THM",
+		"gloss-zh": "HON.POL",
+		"gloss-morph-zh": "+RSP-THM"
               },
               {
                 "word": "り",
-                "gloss": "PERF"
+                "gloss": "PERF",
+		"gloss-morph": "+STA-CCL",
+		"gloss-zh": "PFV",
+		"gloss-morph-zh": "+STA-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "二十四日、講師が馬の餞別のためにお越しになった。",
-        "translation-en-natural": "On the 24th, the lecturer came to present a farewell gift involving a horse."
+        "translation-en-natural": "On the 24th, the lecturer came to present a farewell gift involving a horse.",
+	"translation-zh-natural": "在二十四日，高僧前来参加送行仪式。",
       },
       {
         "date": [
@@ -2386,131 +2393,217 @@
         "koutei-yamagen": "ありとある上、下、童まで醉ひしれて、一文字をだに知らぬものしが、足は十文字に踏みてぞ遊ぶ。",
         "translation-ja": "ある限りの上の者、下の者、子供に至るまで酔いしれ、一文字すら知らない者が、足は十文字に踏んで遊んでいた。",
         "translation-en": "Everyone present, from high to low and even children, were drunk; those who did not even know the character for 'one' stepped with their feet in the shape of 'ten' and played.",
+	"translation-zh": "所有人，上下级、孩童，皆酣醉。一字不识者也，脚比着十字玩耍。",
         "phrase-gloss": [
           {
             "phrase": "ありとある上下童まで",
             "gloss": "existing GEN all upper.lower children up.to",
+	    "gloss-morph": "all.exist=ADN all upper+lower+children=TER",
+	    "gloss-zh": "所有-的 上下 童 到",
+	    "gloss-morph-zh": "所有-ADN 上+下+童=TER",
             "words": [
               {
                 "word": "あり",
-                "gloss": "exist"
-              },
+                "gloss": "exist",
+		"gloss-morph": "exist-THM",
+		"gloss-zh": "存在",
+		"gloss-morph-zh": "存在-THM"
+	      },
               {
                 "word": "と",
-                "gloss": "GEN"
-              },
+                "gloss": "GEN",
+		"gloss-morph": "=QUOT",
+		"gloss-zh": "的",
+		"gloss-morph-zh": "=QUOT"
+	      },
               {
                 "word": "ある",
-                "gloss": "exist"
-              },
+                "gloss": "exist",
+		"gloss-morph": "exist-ADN",
+		"gloss-zh": "存在",
+		"gloss-morph-zh": "存在-ADN"
+	      },
               {
                 "word": "上下",
-                "gloss": "upper.lower"
+                "gloss": "upper.lower",
+		"gloss-morph": "upper+lower",
+		"gloss-zh": "上下",
+		"gloss-morph-zh": "上+下"
               },
               {
                 "word": "童",
-                "gloss": "children"
-              },
+                "gloss": "children",
+		"gloss-morph": "children",
+		"gloss-zh": "童",
+		"gloss-morph-zh": "童"
+	      },
               {
                 "word": "まで",
-                "gloss": "up.to"
+                "gloss": "up.to",
+		"gloss-morph": "=TER",
+		"gloss-zh": "到",
+		"gloss-morph-zh": "=TER"
               }
             ]
           },
           {
             "phrase": "醉ひしれて",
             "gloss": "be.drunk be.intoxicated.ADV.F CONJ",
+	    "gloss-morph": "be.drunk-THM+be.intoxicated-THM-SEQ",
+	    "gloss-zh": "酣醉-CONJ",
+	    "gloss-morph-zh": "醉-THM+痴-THM-SEQ",
             "words": [
               {
                 "word": "醉ひ",
-                "gloss": "be.drunk.ADV.F"
-              },
+                "gloss": "be.drunk.ADV.F",
+		"gloss-morph": "be.drunk-THM",
+		"gloss-zh": "醉",
+		"gloss-morph-zh": "醉-THM"
+	      },
               {
                 "word": "しれ",
-                "gloss": "be.intoxicated.ADV.F"
+                "gloss": "be.intoxicated.ADV.F",
+		"gloss-morph": "be.intoxicated-THM",
+		"gloss-zh": "痴",
+		"gloss-morph-zh": "痴-THM"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "-SEQ",
+		"gloss-zh": "CONJ",
+		"gloss-morph-zh": "-SEQ"
               }
             ]
           },
           {
             "phrase": "一文字をだに知らぬものしが",
             "gloss": "one.character ACC even know NEG person TOP",
+	    "gloss-morph": "one+character=ACC=ANL know-THM-NEG-ADN person=EMP=NOM?",
+	    "gloss-zh": "一字 ACC 甚至 不认识 的 人 TOP",
+	    "gloss-morph-zh": "一+字=ACC=ANL 认识-THM-NEG-ADN 人=EMP=NOM?",
             "words": [
               {
                 "word": "一文字",
-                "gloss": "one.character"
-              },
+                "gloss": "one.character",
+		"gloss-morph": "one+character",
+		"gloss-zh": "一字",
+		"gloss-morph-zh": "一+字"
+	      },
               {
                 "word": "を",
-                "gloss": "ACC"
-              },
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "ACC",
+		"gloss-morph-zh": "=ACC"
+	      },
               {
                 "word": "だに",
-                "gloss": "even"
+                "gloss": "even",
+		"gloss-morph": "=ANL",
+		"gloss-zh": "甚至",
+		"gloss-morph-zh": "=ANL"
               },
               {
                 "word": "知ら",
-                "gloss": "know.NEG.BASE"
+                "gloss": "know.NEG.BASE",
+		"gloss-morph": "know-THM",
+		"gloss-zh": "认识",
+		"gloss-morph-zh": "认识-THM"
               },
               {
                 "word": "ぬ",
-                "gloss": "NEG.ATTR"
+                "gloss": "NEG.ATTR",
+		"gloss-morph": "-NEG-ADN",
+		"gloss-zh": "不",
+		"gloss-morph-zh": "-NEG-ADN"
               },
               {
                 "word": "もの",
-                "gloss": "person"
-              }
+                "gloss": "person",
+		"gloss-morph": "person",
+		"gloss-zh": "者",
+		"gloss-morph-zh": "者"
+	      },
             ]
           },
           {
             "phrase": "しが足は十文字に踏みてぞ遊ぶ",
             "gloss": "those of feet TOP cross.shape LOC step.CONJ FOC play",
+	    "gloss-morph": "those=GEN feet=TOP cross+shape=DAT step-THM－SEQ=FOC play-CCL",
+	    "gloss-zh": "那些 的 脚 TOP 十字形 在 踏-SEQ FOC 玩",
+	    "gloss-morph-zh": "那些=GEN 脚=TOP 十字+形=DAT 踏-THM-SEQ=FOC 玩-CCL",
             "words": [
               {
                 "word": "し",
-                "gloss": "that/those"
+                "gloss": "that/those",
+		"gloss-morph": "those",
+		"gloss-zh": "那些",
+		"gloss-morph-zh": "那些"
               },
               {
                 "word": "が",
-                "gloss": "of"
-              },
+                "gloss": "of",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-morph-zh": "=GEN"
+	      },
               {
                 "word": "足",
-                "gloss": "feet"
+                "gloss": "feet",
+		"gloss-morph": "feet",
+		"gloss-zh": "脚",
+		"gloss-morph-zh": "脚"
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "TOP",
+		"gloss-morph-zh": "=TOP"
               },
               {
                 "word": "十文字",
-                "gloss": "cross.shape"
+                "gloss": "cross.shape",
+		"gloss-morph": "cross+shape",
+		"gloss-zh": "十字形",
+		"gloss-morph-zh": "十字+形"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "在",
+		"gloss-morph-zh": "=DAT"
               },
               {
                 "word": "踏みて",
-                "gloss": "step.CONJ"
+                "gloss": "step.CONJ",
+		"gloss-morph": "step-THM-SEQ",
+		"gloss-zh": "踏-SEQ",
+		"gloss-morph-zh": "踏-THM-SEQ"
               },
               {
                 "word": "ぞ",
-                "gloss": "FOC"
-              },
+                "gloss": "FOC",
+		"gloss-morph": "=FOC",
+		"gloss-zh": "FOC",
+		"gloss-morph-zh": "=FOC"
+	      },
               {
                 "word": "遊ぶ",
-                "gloss": "play"
+                "gloss": "play",
+		"gloss-morph": "play-CCL",
+		"gloss-zh": "玩",
+		"gloss-morph-zh": "玩-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "身分の上下を問わず、子供までもが酔いしれて、一文字すら読めないような者が、十文字を踏んで遊んでいた。",
-        "translation-en-natural": "Everyone, regardless of rank—even children—were completely drunk, and even those who couldn’t recognize the simplest character were dancing and playing, stamping in the shape of a cross."
+        "translation-en-natural": "Everyone, regardless of rank—even children—were completely drunk, and even those who couldn’t recognize the simplest character were dancing and playing, stamping in the shape of a cross.",
+	"translation-zh-natural": "无论身份高低，甚至连小孩都酩酊大醉，连目不识丁的人们都脚下踏着十字玩耍。",
       },
       {
         "date": [
