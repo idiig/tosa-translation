@@ -647,7 +647,7 @@
             "gloss": "geyu.document etc. take.ADV.F residence leave.ADV.F go.out.ADV.F",
 	    "gloss-morph": "geyu.document=EXE take-THM-SEQ live-ADN residence=ABL leave-THM-SEQ?",
 	    "gloss-zh": "解由 等 取得-SEQ 居住的 宅邸 从 离开-SEQ?",
-	    "gloss-morph-zh": "解由=EXE 取得-THM 宅邸-ADN 居所=ABL 离开-THM-SEQ?",
+	    "gloss-morph-zh": "解由=EXE 取得-THM 居住-ADN 宅邸=ABL 离开-THM-SEQ?",
             "words": [
               {
                 "word": "解由",
@@ -837,16 +837,16 @@
           {
             "phrase": "知る知らぬ",
             "gloss": "know or not know",
-	    "gloss-morph": "know-ADN-NL know-THM-NEG-NL",
+	    "gloss-morph": "know.ADN.NL know-THM-NEG.NL",
 	    "gloss-zh": "认识的（人）和不认识的（人）",
-	    "gloss-morph-zh": "认识-ADN-NL 认识-THM-NEG-NL",
+	    "gloss-morph-zh": "认识.ADN.NL 认识-THM-NEG.NL",
             "words": [
               {
                 "word": "知る",
                 "gloss": "know",
-		"gloss-morph": "know-ADN-NL(连用+准体)?",
+		"gloss-morph": "know.ADN.NL(连用+准体)?",
 		"gloss-zh": "认识的（人）",
-		"gloss-morph-zh": "认识-ADN-NL?"
+		"gloss-morph-zh": "认识.ADN.NL?"
               },
               {
                 "word": "知ら",
@@ -858,9 +858,9 @@
               {
                 "word": "ぬ",
                 "gloss": "NEG",
-		"gloss-morph": "-NEG-NL?",
+		"gloss-morph": "-NEG.NL?",
 		"gloss-zh": "不",
-		"gloss-zh": "-NEG-NL?"
+		"gloss-zh": "-NEG.NL?"
               }
             ]
           },
@@ -2010,9 +2010,9 @@
           {
             "phrase": "今はとて見えざなるを",
             "gloss": "now FOC QUOT appear NEG be.ATTR ACC",
-	    "gloss-morph": "now=TOP=SCM see?-THM-NEG=COP-ADN-NL=ACC",
+	    "gloss-morph": "now=TOP=SCM see?-THM-NEG=COP.ADN.NL=ACC",
 	    "gloss-zh": "现在 TOP? QUOT 见-不-的 ACC",
-	    "gloss-morph-zh": "现在=TOP=SCM 见-THM-NEG=COP-ADN-NL=ACC",
+	    "gloss-morph-zh": "现在=TOP=SCM 见-THM-NEG=COP.ADN.NL=ACC",
             "words": [
               {
                 "word": "今",
@@ -2235,7 +2235,7 @@
           {
             "phrase": "譽むるにしもあらず",
             "gloss": "praise.ATTR LOC EMPH NEG",
-	    "gloss-morph": "praise-ADN=DAT=EMPH exist-THM-NEG-CCL",
+	    "gloss-morph": "praise-ADN=DAT=EMPH exist-THM-NEG.CCL",
             "words": [
               {
                 "word": "譽むる",
@@ -2268,9 +2268,9 @@
               {
                 "word": "ず",
                 "gloss": "NEG",
-		"gloss-morph": "-NEG-CCL",
+		"gloss-morph": "-NEG.CCL",
 		"gloss-zh": "不",
-		"gloss-morph-zh": "-NEG-CCL"
+		"gloss-morph-zh": "-NEG.CCL"
               }
             ]
           }
@@ -2393,7 +2393,7 @@
         "koutei-yamagen": "ありとある上、下、童まで醉ひしれて、一文字をだに知らぬものしが、足は十文字に踏みてぞ遊ぶ。",
         "translation-ja": "ある限りの上の者、下の者、子供に至るまで酔いしれ、一文字すら知らない者が、足は十文字に踏んで遊んでいた。",
         "translation-en": "Everyone present, from high to low and even children, were drunk; those who did not even know the character for 'one' stepped with their feet in the shape of 'ten' and played.",
-	"translation-zh": "所有人，上下级、孩童，皆酣醉。一字不识者也，脚比着十字玩耍。",
+	"translation-zh": "所有人，上下级、孩童，皆酣醉。一字不识者也用脚比划着十字玩耍。",
         "phrase-gloss": [
           {
             "phrase": "ありとある上下童まで",
@@ -2603,7 +2603,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "身分の上下を問わず、子供までもが酔いしれて、一文字すら読めないような者が、十文字を踏んで遊んでいた。",
         "translation-en-natural": "Everyone, regardless of rank—even children—were completely drunk, and even those who couldn’t recognize the simplest character were dancing and playing, stamping in the shape of a cross.",
-	"translation-zh-natural": "无论身份高低，甚至连小孩都酩酊大醉，连目不识丁的人们都脚下踏着十字玩耍。",
+	"translation-zh-natural": "无论身份高低，甚至连小孩都酩酊大醉，连目不识丁的人们都用脚比划着十字玩耍。",
       },
       {
         "date": [
@@ -2616,79 +2616,126 @@
         "koutei-yamagen": "二十五日、守の館より呼びに文持て来れり。",
         "translation-ja": "二十五日、守の館から、呼ぶために手紙を持って来た。",
         "translation-en": "On the twenty-fifth, from the governor’s residence, someone came bringing a letter to summon (us).",
+	"translation-zh": "廿五日，自国守的宅邸，携文来以传唤。",
         "phrase-gloss": [
           {
             "phrase": "廿五日",
             "gloss": "25th-day",
+	    "gloss-morph": "twenty+five+day",
+	    "gloss-zh": "廿五日",
+	    "gloss-morph-zh": "廿+五+日",
             "words": [
               {
                 "word": "廿五日",
-                "gloss": "25th-day"
+                "gloss": "25th-day",
+		"gloss-morph": "twenty+five+day",
+		"gloss-zh": "廿五日",
+		"gloss-morph-zh": "廿+五+日"
               }
             ]
           },
           {
             "phrase": "守のたちより",
             "gloss": "governor GEN mansion from",
+	    "gloss-morph": "governor=GEN mansion=ABL",
+	    "gloss-zh": "国守 的 宅邸 从",
+	    "gloss-morph-zh": "国守=GEN 宅邸=ABL",
             "words": [
               {
                 "word": "守",
-                "gloss": "governor"
+                "gloss": "governor",
+		"gloss-morph": "governor",
+		"gloss-zh": "国守",
+		"gloss-morph-zh": "国守"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
-              },
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-morph-zh": "=GEN"
+	      },
               {
                 "word": "たち",
-                "gloss": "mansion"
+                "gloss": "mansion",
+		"gloss-morph": "mansion",
+		"gloss-zh": "宅邸",
+		"gloss-morph-zh": "宅邸"
               },
               {
                 "word": "より",
-                "gloss": "from"
+                "gloss": "from",
+		"gloss-morph": "=ABL",
+		"gloss-zh": "从",
+		"gloss-morph-zh": "=ABL"
               }
             ]
           },
           {
             "phrase": "呼びに",
             "gloss": "summon PURPOSE",
+	    "gloss-morph": "summon-THM=PUR",
+	    "gloss-zh": "召唤 PUR",
+	    "gloss-morph-zh": "召唤-THM=PUR",
             "words": [
               {
                 "word": "呼び",
-                "gloss": "summon"
+                "gloss": "summon",
+		"gloss-morph": "summon-THM",
+		"gloss-zh": "召唤",
+		"gloss-morph-zh": "召唤-THM"
               },
               {
                 "word": "に",
-                "gloss": "PURPOSE"
+                "gloss": "PURPOSE",
+		"gloss-morph": "=PUR",
+		"gloss-zh": "PUR",
+		"gloss-morph-zh": "=PUR"
               }
             ]
           },
           {
             "phrase": "文もて來れり",
             "gloss": "letter bring come PERF",
+	    "gloss-morph": "letter bring-SEQ come-THM+STA-CCL",
+	    "gloss-zh": "信件 拿 来 PERF",
+	    "gloss-morph-zh": "信件 拿-SEQ 来-THM+STA-CCL",
             "words": [
               {
                 "word": "文",
-                "gloss": "letter"
-              },
+                "gloss": "letter",
+		"gloss-morph": "letter",
+		"gloss-zh": "信件",
+		"gloss-morph-zh": "信件"
+	      },
               {
                 "word": "もて",
-                "gloss": "bring.ADV.F"
-              },
+                "gloss": "bring.ADV.F",
+		"gloss-morph": "bring-SEQ",
+		"gloss-zh": "拿",
+		"gloss-morph-zh": "拿-SEQ"
+	      },
               {
                 "word": "來れ",
-                "gloss": "come.REALIS.F"
+                "gloss": "come.REALIS.F",
+		"gloss-morph": "come-THM",
+		"gloss-zh": "来",
+		"gloss-morph-zh": "来-THM"
               },
               {
                 "word": "り",
-                "gloss": "PERF"
+                "gloss": "PERF",
+		"gloss-morph": "+STA-CCL",
+		"gloss-zh": "PERF",
+		"gloss-morph-zh": "+STA-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "二十五日、守の館から、呼びに人が来て、手紙を持ってきた。",
-        "translation-en-natural": "On the 25th, someone arrived from the governor's mansion, bringing a letter to invite us."
+        "translation-en-natural": "On the 25th, someone arrived from the governor's mansion, bringing a letter to invite us.",
+	"translation-zh-natural": "在二十五日，有人从国守的宅邸带来了一封信，邀请我们。",
       },
       {
         "date": [
@@ -2701,99 +2748,161 @@
         "koutei-yamagen": "呼ばれて至りて、日一日、夜一夜とかく遊ぶようにて明けにけり。",
         "translation-ja": "呼ばれて至りて、日ひとひ夜ひとよ、とかく遊ぶやうにして、明けにけり。",
         "translation-en": "Having been called and arrived, through a day and a night, in various ways playing as if so, it became dawn.",
+	"translation-zh": "被召唤后抵达，白天一整日夜晚一整夜，这般那般玩乐之间，天已明。",
         "phrase-gloss": [
           {
             "phrase": "呼ばれて至りて",
             "gloss": "be.called CONJ arrive CONJ",
+	    "gloss-morph": "call-THM-PAS-THM-SEQ arrive-THM-SEQ",
+	    "gloss-zh": "召唤-被动 SEQ 抵达 SEQ",
+	    "gloss-morph-zh": "召唤-THM-PAS-THM-SEQ 抵达-THM-SEQ",
             "words": [
               {
                 "word": "呼ば",
-                "gloss": "call.NEG.BASE"
-              },
+                "gloss": "call.NEG.BASE",
+		"gloss-morph": "call-THM",
+		"gloss-zh": "召唤",
+		"gloss-morph-zh": "召唤-THM"
+	      },
               {
                 "word": "れ",
-                "gloss": "PASS.ADV.F"
+                "gloss": "PASS.ADV.F",
+		"gloss-morph": "PAS-THM",
+		"gloss-zh": "被动",
+		"gloss-morph-zh": "PAS-THM"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
-              },
+                "gloss": "CONJ",
+		"gloss-morph": "-SEQ",
+		"gloss-zh": "SEQ",
+		"gloss-morph-zh": "-SEQ"
+	      },
               {
                 "word": "至り",
-                "gloss": "arrive.ADV.F"
+                "gloss": "arrive.ADV.F",
+		"gloss-morph": "arrive-THM",
+		"gloss-zh": "抵达",
+		"gloss-morph-zh": "抵达-THM"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "-SEQ",
+		"gloss-zh": "SEQ",
+		"gloss-morph-zh": "-SEQ"
               }
             ]
           },
           {
             "phrase": "日ひとひ夜ひとよ",
             "gloss": "day one.day night one.night",
+	    "gloss-morph": "day one-CLF night one-CLF",
+	    "gloss-zh": "日 一日 夜 一夜",
+	    "gloss-morph-zh": "日 一-CLF 夜 一-CLF",
             "words": [
               {
                 "word": "日",
-                "gloss": "day"
-              },
+                "gloss": "day",
+		"gloss-morph": "day",
+		"gloss-zh": "日",
+		"gloss-morph-zh": "日"
+	      },
               {
                 "word": "ひとひ",
-                "gloss": "one.day"
+                "gloss": "one.day",
+		"gloss-morph": "one-CLF",
+		"gloss-zh": "一日",
+		"gloss-morph-zh": "一-CLF"
               },
               {
                 "word": "夜",
-                "gloss": "night"
+                "gloss": "night",
+		"gloss-morph": "night",
+		"gloss-zh": "夜",
+		"gloss-morph-zh": "夜"
               },
               {
                 "word": "ひとよ",
-                "gloss": "one.night"
+                "gloss": "one.night",
+		"gloss-morph": "one-CLF",
+		"gloss-zh": "一夜",
+		"gloss-morph-zh": "一-CLF"
               }
             ]
           },
           {
             "phrase": "とかく遊ぶやうにて",
             "gloss": "variously play do.as.if CONJ",
+	    "gloss-morph": "variously play-ADN as=SER",
+	    "gloss-zh": "这般那般地 玩 似 地",
+	    "gloss-morph-zh": "这般那般地 玩-ADN 似=SER",
             "words": [
               {
                 "word": "とかく",
-                "gloss": "variously"
-              },
+                "gloss": "variously",
+		"gloss-morph": "variously",
+		"gloss-zh": "这般那般地",
+		"gloss-morph-zh": "这般那般地"
+	      },
               {
                 "word": "遊ぶ",
-                "gloss": "play"
+                "gloss": "play",
+		"gloss-morph": "play-ADN",
+		"gloss-zh": "玩耍",
+		"gloss-morph-zh": "玩耍-ADN"
               },
               {
                 "word": "やう",
-                "gloss": "do.as.if"
-              },
+                "gloss": "do.as.if",
+		"gloss-morph": "as=SER",
+		"gloss-zh": "如同",
+		"gloss-morph-zh": "如同"
+	      },
               {
                 "word": "にて",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "-SER",
+		"gloss-zh": "地",
+		"gloss-morph-zh": "-SER"
               }
             ]
           },
           {
             "phrase": "明けにけり",
             "gloss": "dawn PERF PST.REP",
+	    "gloss-morph": "dawn-THM+MNF-THM+RET-CCL",
+	    "gloss-zh": "天明 已经 了",
+	    "gloss-morph-zh": "天明-THM+MNF-THM+RET-CCL",
             "words": [
               {
                 "word": "明け",
-                "gloss": "dawn.ADV.F"
+                "gloss": "dawn.ADV.F",
+		"gloss-morph": "dawn-THM",
+		"gloss-zh": "天明",
+		"gloss-morph-zh": "天明-THM"
               },
               {
                 "word": "に",
-                "gloss": "PERF"
+                "gloss": "PERF",
+		"gloss-morph": "-MNF-THM",
+		"gloss-zh": "已",
+		"gloss-morph-zh": "-MNF-THM"
               },
               {
                 "word": "けり",
-                "gloss": "PST.REP"
+                "gloss": "PST.REP",
+		"gloss-morph": "+RET-CCL",
+		"gloss-zh": "了",
+		"gloss-morph-zh": "+RET-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "呼ばれて出かけ、一日一夜のあいだ、いろいろと遊びながら夜が明けた。",
-        "translation-en-natural": "He was invited and went, and after a whole day and night of various amusements, dawn came."
+        "translation-en-natural": "He was invited and went, and after a whole day and night of various amusements, dawn came.",
+	"translation-zh-natural": "在被邀请后抵达宅邸，一日一夜玩这玩那之间，天已经亮了。",
       },
       {
         "date": [
