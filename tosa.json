@@ -421,16 +421,16 @@
           {
             "phrase": "そのよしいさゝか",
             "gloss": "a little of that matter",
-	    "gloss-morph": "DET=matter little",
+	    "gloss-morph": "DET+matter little",
 	    "gloss-zh": "若干原由",
-	    "gloss-morph-zh": "DET=原由 若干",
+	    "gloss-morph-zh": "DET+原由 若干",
             "words": [
               {
                 "word": "その",
                 "gloss": "that",
-		"gloss-morph": "DET=",
+		"gloss-morph": "DET+",
 		"gloss-zh": "那",
-		"gloss-morph-zh": "DEM+GEN (DET)?="
+		"gloss-morph-zh": "DEM=GEN (DET)?+"
               },
               {
                 "word": "よし",
@@ -978,16 +978,16 @@
           {
             "phrase": "その日頻にとかくしつゝ",
             "gloss": "that-day frequently this-and-that doing",
-	    "gloss-morph": "DET whole.day=ADV this.and.that do-THM+ITR (ひしきりに?)",
+	    "gloss-morph": "DET+whole.day=ADV this.and.that do-THM+ITR (ひしきりに?)",
 	    "gloss-zh": "那 日 频繁地 这般那般 做 ITR",
-	    "gloss-morph-zh": "DET 终日=ADV 这般那般 做-THM+ITR",
+	    "gloss-morph-zh": "DET+终日=ADV 这般那般 做-THM+ITR",
             "words": [
               {
                 "word": "その日",
                 "gloss": "that-day",
-		"gloss-morph": "DET day",
-		"gloss-zh": "DET 日",
-		"gloss-morph-zh": "DET 日"
+		"gloss-morph": "DET+day",
+		"gloss-zh": "DET+日",
+		"gloss-morph-zh": "DET+日"
 	      },
               {
                 "word": "頻に",
@@ -1634,16 +1634,16 @@
           {
             "phrase": "この人",
             "gloss": "this person",
-	    "gloss-morph": "DET person",
+	    "gloss-morph": "DET+person",
 	    "gloss-zh": "此人",
-	    "gloss-morph-zh": "DET 人",
+	    "gloss-morph-zh": "DET+人",
             "words": [
               {
                 "word": "この",
                 "gloss": "this",
-		"gloss-morph": "DET",
+		"gloss-morph": "DET+",
 		"gloss-zh": "此",
-		"gloss-morph-zh": "DET"
+		"gloss-morph-zh": "DET+"
               },
               {
                 "word": "人",
@@ -4492,75 +4492,117 @@
         "koutei-yamagen": "二十七日、大津より浦戸をさして漕ぎ出づ。",
         "translation-ja": "二十七日、大津から浦戸をめざして漕ぎ出す。",
         "translation-en": "On the twenty-seventh, we row out from Otsu aiming for Urado.",
+	"translation-zh": "廿七日，自大津，向浦户泛舟出发。",
         "phrase-gloss": [
           {
             "phrase": "廿七日",
             "gloss": "the twenty-seventh day",
+	    "gloss-morph": "twenty+seven+day",
+	    "gloss-zh": "廿七日",
+	    "gloss-morph-zh": "廿+七+日",
             "words": [
               {
-                "word": "廿七",
-                "gloss": "twenty-seven"
-              },
+                "word": "廿",
+                "gloss": "twenty",
+		"gloss-morph": "twenty",
+		"gloss-zh": "廿",
+		"gloss-morph-zh": "廿"
+	      },
               {
-                "word": "日",
-                "gloss": "day"
+                "word": "七日",
+                "gloss": "seventh",
+		"gloss-morph": "seven+day",
+		"gloss-zh": "七日",
+		"gloss-morph-zh": "七+日"
               }
             ]
           },
           {
             "phrase": "大津より",
             "gloss": "from Otsu",
+	    "gloss-morph": "Otsu.PN=ABL",
+	    "gloss-zh": "大津 从",
+	    "gloss-morph-zh": "Otsu.PN=ABL",
             "words": [
               {
                 "word": "大津",
-                "gloss": "Otsu"
-              },
+                "gloss": "Otsu",
+		"gloss-morph": "Otsu.PN",
+		"gloss-zh": "大津",
+		"gloss-morph-zh": "大津.PN"
+	      },
               {
                 "word": "より",
-                "gloss": "ABL"
+                "gloss": "ABL",
+		"gloss-morph": "=ABL",
+		"gloss-zh": "从",
+		"gloss-morph-zh": "=ABL"
               }
             ]
           },
           {
             "phrase": "浦戸をさして",
             "gloss": "aiming for Urado",
+	    "gloss-morph": "Urado.PN=ACC aim-THM-SEQ",
+	    "gloss-zh": "浦户 目标",
+	    "gloss-morph-zh": "浦户.PN=ACC 目标-THM-SEQ",
             "words": [
               {
                 "word": "浦戸",
-                "gloss": "Urado"
+                "gloss": "Urado",
+		"gloss-morph": "Urado.PN",
+		"gloss-zh": "浦户",
+		"gloss-morph-zh": "浦户.PN"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
-              },
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "目标",
+		"gloss-morph-zh": "=ACC"
+	      },
               {
                 "word": "さし",
-                "gloss": "aim.ADV"
+                "gloss": "aim.ADV",
+		"gloss-morph": "aim-THM",
+		"gloss-zh": "目标",
+		"gloss-morph-zh": "目标-THM"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "-SEQ",
+		"gloss-zh": "SEQ",
+		"gloss-morph-zh": "-SEQ"
               }
             ]
           },
           {
             "phrase": "漕ぎ出づ",
             "gloss": "row out",
+	    "gloss-morph": "row-THM+go.out-CCL",
             "words": [
               {
                 "word": "漕ぎ",
-                "gloss": "row.ADV"
+                "gloss": "row.ADV",
+		"gloss-morph": "row-THM",
+		"gloss-zh": "划船",
+		"gloss-morph-zh": "划船-THM"
               },
               {
                 "word": "出づ",
-                "gloss": "go out"
+                "gloss": "go out",
+		"gloss-morph": "go.out-CCL",
+		"gloss-zh": "出发",
+		"gloss-morph-zh": "出发-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "二十七日、大津を出て浦戸をめざして漕ぎ出す。",
-        "translation-en-natural": "On the twenty-seventh day, we set out rowing from Otsu aiming for Urado."
+        "translation-en-natural": "On the twenty-seventh day, we set out rowing from Otsu aiming for Urado.",
+	"translation-zh-natural": "在二十七日，从大津出发乘船向浦户出发。"
       },
       {
         "date": [
@@ -4573,150 +4615,253 @@
         "koutei-yamagen": "かくあるうちに、京にて生れたりし女子、ここにて俄にうせにしかば、この頃の出立いそぎを見れど、何事もえ言はず。",
         "translation-ja": "このようなことがある中で、京で生まれた女の子が、ここで突然亡くなったので、この頃の出立ちの準備を見ても、何も言えない。",
         "translation-en": "In the midst of all this, a girl who was born in Kyoto suddenly passed away here, and those seeing the preparations for departure at this time cannot say anything.",
+	"translation-zh": "持续此般之间，出生于京的女孩于就此突然离世了，因此，虽见此刻的出发准备，不再说什么话。",
         "phrase-gloss": [
           {
             "phrase": "かくあるうちに",
             "gloss": "in the midst of all this",
+	    "gloss-morph": "this.way be-ADN while=DAT",
+	    "gloss-zh": "此般 有 之间",
+	    "gloss-morph-zh": "此般 有-ADN 之间=DAT",
             "words": [
               {
                 "word": "かく",
-                "gloss": "thus"
-              },
+                "gloss": "thus",
+		"gloss-morph": "this.way",
+		"gloss-zh": "此般",
+		"gloss-morph-zh": "此般 有"
+	      },
               {
                 "word": "ある",
-                "gloss": "be"
-              },
+                "gloss": "be",
+		"gloss-morph": "be-ADN",
+		"gloss-zh": "有",
+		"gloss-morph-zh": "有-ADN"
+	      },
               {
                 "word": "うち",
-                "gloss": "while"
+                "gloss": "while",
+		"gloss-morph": "while",
+		"gloss-zh": "之间",
+		"gloss-morph-zh": "之间"
               },
               {
                 "word": "に",
-                "gloss": "DAT"
+                "gloss": "DAT",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "于",
+		"gloss-morph-zh": "=DAT"
               }
             ]
           },
           {
             "phrase": "京にて生れたりし女子",
             "gloss": "a girl who was born in Kyoto",
+	    "gloss-morph": "Kyoto=LOC born-THM+PAS-THM+STA-THM+PST-ADN girl",
+	    "gloss-zh": "京 于 出生-了-的 女子",
+	    "gloss-morph-zh": "京=LOC 生产-THM+PAS-THM+STA-THM+PST-ADN 女子",
             "words": [
               {
                 "word": "京",
-                "gloss": "Kyoto"
-              },
+                "gloss": "Kyoto",
+		"gloss-morph": "Kyoto=LOC",
+		"gloss-zh": "京",
+		"gloss-morph-zh": "京=LOC"
+	      },
               {
                 "word": "にて",
-                "gloss": "LOC"
-              },
+                "gloss": "LOC",
+		"gloss-morph": "=LOC",
+		"gloss-zh": "于",
+		"gloss-morph-zh": "=LOC"
+	      },
               {
                 "word": "生れ",
-                "gloss": "be born.ADV"
-              },
+                "gloss": "be born.ADV",
+		"gloss-morph": "born-THM+PAS-THM",
+		"gloss-zh": "出生",
+		"gloss-morph-zh": "生产-THM+PAS-THM"
+	      },
               {
                 "word": "たり",
-                "gloss": "PERF.ADV"
-              },
+                "gloss": "PERF.ADV",
+		"gloss-morph": "+STA-THM",
+		"gloss-zh": "了",
+		"gloss-morph-zh": "+STA-THM"
+	      },
               {
                 "word": "し",
-                "gloss": "PST.ATTR"
+                "gloss": "PST.ATTR",
+		"gloss-morph": "+PST-ADN",
+		"gloss-zh": "了-的",
+		"gloss-morph-zh": "+PST-ADN"
               },
               {
                 "word": "女子",
-                "gloss": "girl"
+                "gloss": "girl",
+		"gloss-morph": "girl",
+		"gloss-zh": "女子",
+		"gloss-morph-zh": "女子"
               }
             ]
           },
           {
             "phrase": "こゝにて俄にうせにしかば",
             "gloss": "suddenly passed away here",
+	    "gloss-morph": "here=LOC suddenly=ADV disappear-THM+MNF-THM+PST-THM?-XCD",
+	    "gloss-zh": "此 于 突然-的 离世 了 因为",
+	    "gloss-morph-zh": "此=LOC 突然=ADV 离世-THM+MNF-THM+PST-THM?-XCD",
             "words": [
               {
                 "word": "こゝ",
-                "gloss": "here"
+                "gloss": "here",
+		"gloss-morph": "here",
+		"gloss-zh": "此",
+		"gloss-morph-zh": "此"
               },
               {
                 "word": "にて",
-                "gloss": "LOC"
-              },
+                "gloss": "LOC",
+		"gloss-morph": "=LOC",
+		"gloss-zh": "于",
+		"gloss-morph-zh": "=LOC"
+	      },
               {
                 "word": "俄に",
-                "gloss": "suddenly"
-              },
+                "gloss": "suddenly",
+		"gloss-morph": "suddenly=ADV",
+		"gloss-zh": "突然",
+		"gloss-morph-zh": "突然=ADV"
+	      },
               {
                 "word": "うせ",
-                "gloss": "die.ADV"
-              },
+                "gloss": "die.ADV",
+		"gloss-morph": "disappear-THM",
+		"gloss-zh": "离世",
+		"gloss-morph-zh": "离世-THM"
+	      },
               {
                 "word": "に",
-                "gloss": "PERF.ADV"
+                "gloss": "PERF.ADV",
+		"gloss-morph": "+MNF-THM",
+		"gloss-zh": "了",
+		"gloss-morph-zh": "+PST-THM?"
               },
               {
                 "word": "しか",
-                "gloss": "PST.IRR"
-              },
+                "gloss": "PST.IRR",
+		"gloss-morph": "+PST-THM?",
+		"gloss-zh": "了",
+		"gloss-morph-zh": "+PST-THM?"
+	      },
               {
                 "word": "ば",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=XCD",
+		"gloss-zh": "因为",
+		"gloss-morph-zh": "=XCD"
               }
             ]
           },
           {
             "phrase": "この頃の出立いそぎを見れど",
             "gloss": "seeing the preparations for departure at this time",
+	    "gloss-morph": "DET+time=GEN departure+preparation-NML=ACC see-THM=XCC",
+	    "gloss-zh": "此 时 的 出发+准备 见 虽",
+	    "gloss-morph-zh": "DET+time=GEN 出发+准备-NML=ACC 见-THM=XCC",
             "words": [
               {
                 "word": "この頃",
-                "gloss": "this time"
-              },
+                "gloss": "this time",
+		"gloss-morph": "DET+time=GEN",
+		"gloss-zh": "此 时",
+		"gloss-morph-zh": "DET+time=GEN"
+	      },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-morph-zh": "=GEN"
               },
               {
                 "word": "出立",
-                "gloss": "departure"
+                "gloss": "departure",
+		"gloss-morph": "departure",
+		"gloss-zh": "出发",
+		"gloss-morph-zh": "出发"
               },
               {
                 "word": "いそぎ",
-                "gloss": "preparation"
-              },
+                "gloss": "preparation",
+		"gloss-morph": "preparation-NML",
+		"gloss-zh": "准备",
+		"gloss-morph-zh": "准备-NML"
+	      },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "见",
+		"gloss-morph-zh": "=ACC"
               },
               {
                 "word": "見れ",
-                "gloss": "see.REALIS"
+                "gloss": "see.REALIS",
+		"gloss-morph": "see-THM",
+		"gloss-zh": "见",
+		"gloss-morph-zh": "见-THM"
               },
               {
                 "word": "ど",
-                "gloss": "CONJ.ANT"
+                "gloss": "CONJ.ANT",
+		"gloss-morph": "=XCC",
+		"gloss-zh": "虽",
+		"gloss-morph-zh": "=XCC"
               }
             ]
           },
           {
             "phrase": "何事もえいはず",
             "gloss": "cannot say anything",
+	    "gloss-morph": "what+thing=IFO NEG+say-THM-NEG-CCL",
+	    "gloss-zh": "什么事 也 说不出",
+	    "gloss-morph-zh": "什么+事=IFO NEG+说-THM-NEG-CCL",
             "words": [
               {
                 "word": "何事",
-                "gloss": "anything"
-              },
+                "gloss": "anything",
+		"gloss-morph": "what+thing=IFO",
+		"gloss-zh": "什么事",
+		"gloss-morph-zh": "什么+事=IFO"
+	      },
               {
                 "word": "も",
-                "gloss": "ADD"
+                "gloss": "ADD",
+		"gloss-morph": "=ADD",
+		"gloss-zh": "也",
+		"gloss-morph-zh": "=ADD"
               },
               {
                 "word": "え",
-                "gloss": "able"
-              },
+                "gloss": "able",
+		"gloss-morph": "NEG+",
+		"gloss-zh": "打消",
+		"gloss-morph-zh": "NEG+"
+	      },
               {
                 "word": "いは",
-                "gloss": "say.IRR"
+                "gloss": "say.IRR",
+		"gloss-morph": "say-THM",
+		"gloss-zh": "说",
+		"gloss-morph-zh": "说-THM"
               },
               {
                 "word": "ず",
-                "gloss": "NEG"
+                "gloss": "NEG",
+		"gloss-morph": "-NEG-CCL",
+		"gloss-zh": "不出",
+		"gloss-morph-zh": "-NEG-CCL"
               }
             ]
           }
@@ -4724,6 +4869,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "このようなことが続く中、京で生まれた女の子がここで突然亡くなり、この頃の出立の準備を見ても、何も言えない。",
         "translation-en-natural": "In the midst of all this, a girl born in Kyoto suddenly passes away here, and seeing the preparations for departure at this time, no one can say anything.",
+	"translation-zh-natural": "在这样的情况下，出生在京都的女孩在此突然离世，所以，人们这次看到他的出发准备，终于什么也说不出来。",
         "notes-ja": [
           {
             "title": "異本",
@@ -4742,73 +4888,117 @@
         "koutei-yamagen": "京へ帰るに、女子の亡きのみぞ悲しみ恋ふる。",
         "translation-ja": "京へ帰る際に、女の子のいないことだけが、悲しみ、恋しく思う。",
         "translation-en": "As I return to Kyoto, only the girl's absence brings sadness and longing.",
+	"translation-zh": "回京时，唯有女孩的不在令人悲伤和思念。",
         "phrase-gloss": [
           {
             "phrase": "京へ歸るに",
             "gloss": "as I return to Kyoto",
+	    "gloss-morph": "Kyoto=ALL return-ADN.NL=DAT",
+	    "gloss-zh": "京 向 回的 时",
+	    "gloss-morph-zh": "京=ALL 回-ADN.NL=DAT",
             "words": [
               {
                 "word": "京",
-                "gloss": "Kyoto"
-              },
+                "gloss": "Kyoto",
+		"gloss-morph": "Kyoto",
+		"gloss-zh": "京",
+		"gloss-morph-zh": "京"
+	      },
               {
                 "word": "へ",
-                "gloss": "ALL"
+                "gloss": "ALL",
+		"gloss-morph": "=ALL",
+		"gloss-zh": "向",
+		"gloss-morph-zh": "=ALL"
               },
               {
                 "word": "歸る",
-                "gloss": "return.ATTR"
+                "gloss": "return.ATTR",
+		"gloss-morph": "return-ADN.NL",
+		"gloss-zh": "回",
+		"gloss-morph-zh": "回-ADN.NL"
               },
               {
                 "word": "に",
-                "gloss": "DAT"
+                "gloss": "DAT",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "时",
+		"gloss-morph-zh": "=DAT"
               }
             ]
           },
           {
             "phrase": "女子のなきのみぞ",
             "gloss": "only the girl's absence",
+	    "gloss-morph": "girl=GEN NEG-ADN.NL=ISO=FOC",
+	    "gloss-zh": "女子 的 不在 仅 FOC",
+	    "gloss-morph-zh": "女子=GEN NEG-ADN.NL=ISO=FOC",
             "words": [
               {
                 "word": "女子",
-                "gloss": "girl"
-              },
+                "gloss": "girl",
+		"gloss-morph": "girl",
+		"gloss-zh": "女子",
+		"gloss-morph-zh": "女子"
+	      },
               {
                 "word": "の",
-                "gloss": "GEN"
-              },
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-morph-zh": "=GEN"
+	      },
               {
                 "word": "なき",
-                "gloss": "be not.ATTR"
+                "gloss": "be not.ATTR",
+		"gloss-morph": "NEG-ADN.NL",
+		"gloss-zh": "不在",
+		"gloss-morph-zh": "不在-ADN.NL"
               },
               {
                 "word": "のみ",
-                "gloss": "only"
+                "gloss": "only",
+		"gloss-morph": "=ISO",
+		"gloss-zh": "仅",
+		"gloss-morph-zh": "=ISO"
               },
               {
                 "word": "ぞ",
-                "gloss": "FOC"
+                "gloss": "FOC",
+		"gloss-morph": "=FOC",
+		"gloss-zh": "FOC",
+		"gloss-morph-zh": "=FOC"
               }
             ]
           },
           {
             "phrase": "悲しび戀ふる",
             "gloss": "grieve and yearn",
+	    "gloss-morph": "grieve-THM+yearn-CCL",
+	    "gloss-zh": "悲伤 和 思念",
+	    "gloss-morph-zh": "悲伤-THM+思念-CCL",
             "words": [
               {
                 "word": "悲しび",
-                "gloss": "grieve.ADV"
-              },
+                "gloss": "grieve.ADV",
+		"gloss-morph": "grieve-THM",
+		"gloss-zh": "悲伤",
+		"gloss-morph-zh": "悲伤-THM"
+	      },
               {
                 "word": "戀ふる",
-                "gloss": "yearn.ATTR"
+                "gloss": "yearn.ATTR",
+		"gloss-morph": "yearn-CCL",
+		"gloss-zh": "思念",
+		"gloss-morph-zh": "思念-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "京へ帰るとき、女の子がいないことだけが、悲しみと切なさを感じさせる。",
-        "translation-en-natural": "As I return to Kyoto, it is only the girl's absence that brings sadness and longing."
+        "translation-en-natural": "As I return to Kyoto, it is only the girl's absence that brings sadness and longing.",
+	"translation-zh-natural": "回京时，唯有女孩的不在令人悲伤和思念。"
       },
       {
         "date": [
@@ -4821,47 +5011,73 @@
         "koutei-yamagen": "ある人々もえ堪へず。",
         "translation-ja": "ある人々も、我慢できなかった。",
         "translation-en": "Some people could not bear it.",
+	"translation-zh": "有的人们也难以忍受。",
         "phrase-gloss": [
           {
             "phrase": "ある人々も",
             "gloss": "some people also",
+	    "gloss-morph": "exist-ADN+person+person=IFO",
+	    "gloss-zh": "有-的 人们 也",
+	    "gloss-morph-zh": "有-ADN+人+人=IFO",
             "words": [
               {
                 "word": "ある",
-                "gloss": "some"
-              },
-              {
+                "gloss": "some",
+		"gloss-morph": "exist-ADN",
+		"gloss-zh": "有-的",
+		"gloss-morph-zh": "有-ADN"
+	      },
+	      {
                 "word": "人々",
-                "gloss": "people"
+                "gloss": "people",
+		"gloss-morph": "person+person",
+		"gloss-zh": "人们",
+		"gloss-morph-zh": "人+人"
               },
               {
                 "word": "も",
-                "gloss": "also"
+                "gloss": "also",
+		"gloss-morph": "=IFO",
+		"gloss-zh": "也",
+		"gloss-morph-zh": "=IFO"
               }
             ]
           },
           {
             "phrase": "え堪へず",
             "gloss": "could not endure",
+	    "gloss-morph": "NEG+endure-THM-NEG-CCL",
+	    "gloss-zh": "（打消） 忍受 不",
+	    "gloss-morph-zh": "NEG+忍受-THM-NEG-CCL",
             "words": [
               {
                 "word": "え",
-                "gloss": "able"
-              },
+                "gloss": "able",
+		"gloss-morph": "NEG+",
+		"gloss-zh": "（打消）",
+		"gloss-morph-zh": "NEG+"
+	      },
               {
                 "word": "堪へ",
-                "gloss": "endure.IRR"
+                "gloss": "endure.IRR",
+		"gloss-morph": "endure-THM",
+		"gloss-zh": "忍受",
+		"gloss-morph-zh": "忍受-THM"
               },
               {
                 "word": "ず",
-                "gloss": "NEG"
+                "gloss": "NEG",
+		"gloss-morph": "-NEG-CCL",
+		"gloss-zh": "不",
+		"gloss-morph-zh": "-NEG-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "他の人々も耐えきれなかった。",
-        "translation-en-natural": "Others, too, couldn’t endure it."
+        "translation-en-natural": "Others, too, couldn’t endure it.",
+	"translation-zh-natural": "其他人也难以忍受。"
       },
       {
         "date": [
@@ -4874,78 +5090,125 @@
         "koutei-yamagen": "この間に、ある人の書きて出だせる歌、",
         "translation-ja": "この間に、ある人が書いて出せる歌は、",
         "translation-en": "During this time, a certain person wrote and presented a poem.",
+	"translation-zh": "在这段时间里，有人所写下并呈现的和歌，",
         "phrase-gloss": [
           {
             "phrase": "この間に",
             "gloss": "during this time",
+	    "gloss-morph": "DET+interval=DAT",
+	    "gloss-zh": "此 期间",
+	    "gloss-morph-zh": "DET+interval=DAT",
             "words": [
               {
                 "word": "この",
-                "gloss": "this"
+                "gloss": "this",
+		"gloss-morph": "DET+",
+		"gloss-zh": "此",
+		"gloss-morph-zh": "DET+"
               },
               {
                 "word": "間",
-                "gloss": "interval"
-              },
-              {
-                "word": "に",
-                "gloss": "DAT"
+                "gloss": "interval",
+		"gloss-morph": "interval",
+		"gloss-zh": "期间",
+		"gloss-morph-zh": "间"
+	      },
+	      {
+		"word": "に",
+		"gloss": "DAT",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "于",
+		"gloss-morph-zh": "=DAT"
               }
             ]
           },
           {
             "phrase": "ある人の",
             "gloss": "of a certain person",
+	    "gloss-morph": "exist-ADN+person=GEN",
+	    "gloss-zh": "有-的 人 的",
+	    "gloss-morph-zh": "有-ADN+人=GEN",
             "words": [
               {
                 "word": "ある",
-                "gloss": "a certain"
-              },
+                "gloss": "a certain",
+		"gloss-morph": "exist-ADN",
+		"gloss-zh": "有-的",
+		"gloss-morph-zh": "有-ADN"
+	      },
               {
                 "word": "人",
-                "gloss": "person"
+                "gloss": "person",
+		"gloss-morph": "person",
+		"gloss-zh": "人",
+		"gloss-morph-zh": "人"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-morph-zh": "=GEN"
               }
             ]
           },
           {
             "phrase": "かきて",
             "gloss": "having written",
+	    "gloss-morph": "write-THM+SEQ",
+	    "gloss-zh": "写 SEQ",
+	    "gloss-morph-zh": "写-THM+SEQ",
             "words": [
               {
                 "word": "かき",
-                "gloss": "write.ADV"
+                "gloss": "write.ADV",
+		"gloss-morph": "write-THM",
+		"gloss-zh": "写",
+		"gloss-morph-zh": "写-THM"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "-SEQ",
+		"gloss-zh": "SEQ",
+		"gloss-morph-zh": "-SEQ"
               }
             ]
           },
           {
             "phrase": "出せる歌",
             "gloss": "poem that was presented",
+	    "gloss-morph": "present-THM+STA-ADN poem",
+	    "gloss-zh": "呈现-了-的 和歌",
+	    "gloss-morph-zh": "呈现-THM+STA-ADN 和歌",
             "words": [
               {
                 "word": "出せ",
-                "gloss": "present.IRR"
-              },
+                "gloss": "present.IRR",
+		"gloss-morph": "present-THM",
+		"gloss-zh": "呈现",
+		"gloss-morph-zh": "呈现-THM"
+	      },
               {
                 "word": "る",
-                "gloss": "PST.ATTR"
+                "gloss": "PST.ATTR",
+		"gloss-morph": "+STA-ADN",
+		"gloss-zh": "了-的",
+		"gloss-morph-zh": "+STA-ADN"
               },
               {
                 "word": "歌",
-                "gloss": "poem"
+                "gloss": "poem",
+		"gloss-morph": "poem",
+		"gloss-zh": "和歌",
+		"gloss-morph-zh": "和歌"
               }
             ]
           }
         ],
         "translation-ja-natural": "このあいだ、ある人が書いて差し出した歌、",
-        "translation-en-natural": "At that moment, a person wrote and presented a poem."
+        "translation-en-natural": "At that moment, a person wrote and presented a poem.",
+	"translation-zh-natural": "在此期间，有人所写下并呈现的和歌如下，"
       },
       {
         "date": [
@@ -4958,104 +5221,167 @@
         "koutei-yamagen": "都へと/思ふものの/悲しきは/帰らぬ人の/あればなりけり",
         "translation-ja": "都へと思うけれども、悲しいのは、帰らない人がいることなのだ。",
         "translation-en": "Though I think of returning to the capital, the sad thing is that there is someone who does not return.",
+	"translation-zh": "欲向京城，但悲伤的是，因为听闻已有了不再回来的人。",
         "phrase-gloss": [
           {
             "phrase": "都へと",
             "gloss": "toward the capital",
+	    "gloss-morph": "capital=ALL=QUOT",
+	    "gloss-zh": "京城 向 QUOT",
+	    "gloss-morph-zh": "京城=ALL=QUOT",
             "words": [
               {
                 "word": "都",
-                "gloss": "capital"
+                "gloss": "capital",
+		"gloss-morph": "capital",
+		"gloss-zh": "京城",
+		"gloss-morph-zh": "京城"
               },
               {
                 "word": "へ",
-                "gloss": "ALL"
-              },
-              {
-                "word": "と",
-                "gloss": "QUOT"
+                "gloss": "ALL",
+		"gloss-morph": "=ALL",
+		"gloss-zh": "向",
+		"gloss-morph-zh": "=ALL"
+	      },
+	      {
+		"word": "と",
+		"gloss": "QUOT",
+		"gloss-morph": "=QUOT",
+		"gloss-zh": "QUOT",
+		"gloss-morph-zh": "=QUOT"
               }
             ]
           },
           {
             "phrase": "おもふものゝ",
             "gloss": "though I think",
+	    "gloss-morph": "think-ADN=CON[thing=GEN]",
+	    "gloss-zh": "思 QUOT 虽",
+	    "gloss-morph-zh": "思-ADN=CON[thing=GEN]",
             "words": [
               {
                 "word": "おもふ",
-                "gloss": "think"
+                "gloss": "think",
+		"gloss-morph": "think-ADN",
+		"gloss-zh": "思",
+		"gloss-morph-zh": "思-ADN"
               },
               {
                 "word": "もの",
-                "gloss": "thing"
-              },
+                "gloss": "thing",
+		"gloss-morph": "thing",
+		"gloss-zh": "QUOT",
+		"gloss-morph-zh": "thing"
+	      },
               {
                 "word": "の",
-                "gloss": "CONTR"
+                "gloss": "CONTR",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "虽",
+		"gloss-morph-zh": "=GEN"
               }
             ]
           },
           {
             "phrase": "かなしきは",
             "gloss": "the sad thing is",
+	    "gloss-morph": "sad-ADN.NL=TOP",
+	    "gloss-zh": "悲伤-的 是",
+	    "gloss-morph-zh": "悲伤-ADN.NL=TOP",
             "words": [
               {
                 "word": "かなしき",
-                "gloss": "sad.ATTR"
+                "gloss": "sad.ATTR",
+		"gloss-morph": "sad-ADN.NL",
+		"gloss-zh": "悲伤-的",
+		"gloss-morph-zh": "悲伤-ADN.NL"
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "是",
+		"gloss-morph-zh": "=TOP"
               }
             ]
           },
           {
             "phrase": "かへらぬ人の",
             "gloss": "of the person who does not return",
+	    "gloss-morph": "return-THM-NEG-ADN person=GEN",
             "words": [
               {
                 "word": "かへら",
-                "gloss": "return.IRR"
-              },
+                "gloss": "return.IRR",
+		"gloss-morph": "return-THM",
+		"gloss-zh": "回",
+		"gloss-morph-zh": "回-THM"
+	      },
               {
                 "word": "ぬ",
-                "gloss": "NEG.ATTR"
+                "gloss": "NEG.ATTR",
+		"gloss-morph": "-NEG",
+		"gloss-zh": "不",
+		"gloss-morph-zh": "-NEG"
               },
               {
                 "word": "人",
-                "gloss": "person"
+                "gloss": "person",
+		"gloss-morph": "person",
+		"gloss-zh": "人",
+		"gloss-morph-zh": "人"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-morph-zh": "=GEN"
               }
             ]
           },
           {
             "phrase": "あればなりけり",
             "gloss": "it is because there is",
+	    "gloss-morph": "exist-THM=XCD=COP-THM-RET-CCL",
+	    "gloss-zh": "有-了-的 因为 PST",
+	    "gloss-morph-zh": "有-THM=XCD=COP-THM+RET-CCL",
             "words": [
               {
                 "word": "あれ",
-                "gloss": "exist.IRR"
-              },
+                "gloss": "exist.IRR",
+		"gloss-morph": "exist-THM",
+		"gloss-zh": "有",
+		"gloss-morph-zh": "有-THM"
+	      },
               {
                 "word": "ば",
-                "gloss": "COND"
-              },
+                "gloss": "COND",
+		"gloss-morph": "=XCD",
+		"gloss-zh": "因",
+		"gloss-morph-zh": "=XCD"
+	      },
               {
                 "word": "なり",
-                "gloss": "be"
+                "gloss": "be",
+		"gloss-morph": "=COP-THM",
+		"gloss-zh": "是",
+		"gloss-morph-zh": "=COP-THM"
               },
               {
                 "word": "けり",
-                "gloss": "PST.MOD"
+                "gloss": "PST.MOD",
+		"gloss-morph": "-RET-CCL",
+		"gloss-zh": "了",
+		"gloss-morph-zh": "-RET-CCL"
               }
             ]
           }
         ],
         "translation-ja-natural": "都に帰ろうと思っても、悲しみが募るのは、一緒に帰ることのない人がいるからなのだ。",
-        "translation-en-natural": "Even as I long to return to the capital, the sorrow remains—because there is someone who will never come back with me."
+        "translation-en-natural": "Even as I long to return to the capital, the sorrow remains—because there is someone who will never come back with me.",
+	"translation-zh-natural": "虽想要归向京城，但我悲伤是因为，听闻那里有人已经不会再回来了。"
       },
       {
         "date": "20241205",
