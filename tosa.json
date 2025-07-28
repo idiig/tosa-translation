@@ -5391,8 +5391,10 @@
         "koutei-yamagen": "また、ある時には、",
         "translation-ja": "また、ある時には、",
         "translation-en": "Also, at times,",
+	"translation-zh": "又，有时，",
         "translation-ja-natural": "また、ある時には、",
-        "translation-en-natural": "Also, at times,"
+        "translation-en-natural": "Also, at times,",
+	"translation-zh-natural": "再者，有时，"
       },
       {
         "date": "20241205",
@@ -5402,8 +5404,10 @@
         "koutei-yamagen": "あるものと/忘れつつなお/なき人を/いづらと問ふぞ/悲しかりける",
         "translation-ja": "いるものと、忘れて、なお亡くなった人を「どこに」と尋ねてしまうことこそ悲しいことだ。",
         "translation-en": "Thinking she is still here, I forget that and keep asking, 'Where is she?' That is what makes it so heartbreaking.",
+	"translation-zh": "以为（她）在，忘记了（她的离去），又问起，离去之人何在。感伤。",
         "translation-ja-natural": "今もまだそこにいると思い込んで、いないことを忘れてしまい、どこにいるのかとつい尋ねてしまう。そのことこそ、悲しいことです。",
-        "translation-en-natural": "I keep thinking she's still here and forget she's gone, only to find myself asking, 'Where is she?' And that's what makes it so deeply sad."
+        "translation-en-natural": "I keep thinking she's still here and forget she's gone, only to find myself asking, 'Where is she?' And that's what makes it so deeply sad.",
+	"translation-zh-natural": "我以为她还在这里，忘记了她已经不在了，竟然还会问她在哪里。这多么悲伤。"
       },
       {
         "date": "20241206",
@@ -5413,8 +5417,10 @@
         "koutei-yamagen": "といひける間に、鹿児の崎といふ所に、守の兄弟、またこと人これかれ、酒なにと持て追ひきて、磯におり居て別れ難きことをいふ。",
         "translation-ja": "そう言っている間に、鹿児の崎という場所で、国司の兄弟や、また他の人々が酒などを持って追いかけてきて、磯に降り座り、別れるのがつらいということを言う。",
         "translation-en": "While they were saying this, at a place called Kago no Saki, the governor's brothers and some other people brought things like sake and followed after them. They went down to the shore, sat down, and said that it was hard to part.",
+	"translation-zh": "（此般）说道之间，在名为鹿儿之崎之地，国守的同胞和其他人携酒等追来，走下坐于礁石说着分离之难。",
         "translation-ja-natural": "そんなことを言っているうちに、鹿児の崎という場所で、国司の兄弟や他の人たちが、酒などを持って追いかけてきました。そして、磯に降りて座りながら、別れるのが本当に名残惜しいと言うのでした。",
-        "translation-en-natural": "While they were talking, at a place called Kago no Saki, the governor's brothers and some others came after them, bringing things like sake. They sat down by the shore and talked about how hard it was to say goodbye."
+        "translation-en-natural": "While they were talking, at a place called Kago no Saki, the governor's brothers and some others came after them, bringing things like sake. They sat down by the shore and talked about how hard it was to say goodbye.",
+	"translation-zh-natural": "在这么说着的时候，在一个叫做鹿儿之崎的地方，国司的同胞和其他人带着酒等追了上来。他们走下来坐在海边，说着分离之难。"
       },
       {
         "date": "20241207",
@@ -5424,8 +5430,10 @@
         "koutei-yamagen": "守の館の人々の中に、この来る人々ぞ、心あるようにはいはれほのめく。",
         "translation-ja": "国司の館の人々の中で、このやって来た人々こそ、心のあるように言われ、ほのかにそう感じられる。",
         "translation-en": "Among the people of the governor's residence, these visitors are the ones who are said to have sincerity, and it slightly seems that way.",
+	"translation-zh": "在国守的宅邸的人们中，这些来的人们被说成是有心的，也稍微看得出是有心的。",
         "translation-ja-natural": "国司の館にいる人々の中で、このやって来た人たちは、誠実な心を持っているようだと話され、どことなくそんな雰囲気も感じられる。",
-        "translation-en-natural": "Among the people at the governor's residence, these visitors are spoken of as sincere, and they do seem to give off that impression."
+        "translation-en-natural": "Among the people at the governor's residence, these visitors are spoken of as sincere, and they do seem to give off that impression.",
+	"translation-zh-natural": "在国守的宅邸中的人里，据说这些来的人最有心的，看起来也确实如此。"
       },
       {
         "date": "20241209",
@@ -5435,8 +5443,10 @@
         "koutei-yamagen": "かく別れ難く言ひて、かの人々の口網ももろもちにて、この海辺にて荷ひ出だせる歌、",
         "translation-ja": "このように別れがたいと言い、あの人々が口網をみんなで持って、この海辺で担ぎ出した歌。",
         "translation-en": "Saying that parting was so hard, those people, with their fishing nets jointly held, brought forth a poem at this seaside.",
+	"translation-zh": "说着此般难以分离，那些人们像是一起扛着渔网般，在这海边抗出一首和歌，",
         "translation-ja-natural": "こうして別れがたい気持ちを語りながら、あの人たちは、まるで漁師が口網を一緒に担ぎ出すように、この海辺で歌を作り上げました。",
-        "translation-en-natural": "Expressing their reluctance to part, those people, as if carrying a fishing net together, composed a poem by the seaside."
+        "translation-en-natural": "Expressing their reluctance to part, those people, as if carrying a fishing net together, composed a poem by the seaside.",
+	"translation-zh": "说着如此难以分离，众人像是一起扛着渔网般，协力在这海边作出一首和歌。"
       },
       {
         "date": "20241217",
@@ -5446,8 +5456,10 @@
         "koutei-yamagen": "をしと思ふ/人やとまると/葦鴨の/うち群れてこそ/我は来にけれ",
         "translation-ja": "惜しいと思う人が引き留めてくれるのだろうか。葦鴨が群れ集まっているように、私は来てしまったのだ。",
         "translation-en": "Will there be anyone who thinks of me dearly enough to stop me? Like the wild ducks gathering together, I have come here.",
+	"translation-zh": "珍惜之人留着，芦鸭大片聚集般，我来了。",
         "translation-ja-natural": "誰か私を引き留めてくれる人がいるのだろうか。葦鴨が群れるように、私はここまで来てしまったんだなあ。",
-        "translation-en-natural": "Is there anyone who would stop me, thinking I'm too precious to let go? Like the wild ducks flocking together, I somehow ended up here."
+        "translation-en-natural": "Is there anyone who would stop me, thinking I'm too precious to let go? Like the wild ducks flocking together, I somehow ended up here.",
+	"translation-zh-natural": "觉得我很珍贵的人留在此地，就像芦鸭聚集在一起一样，我也来到了这里。"
       },
       {
         "date": "20241231",
@@ -5457,8 +5469,10 @@
         "koutei-yamagen": "と言ひてありければ、いといたく愛でゝ行く人の詠めりける、",
         "translation-ja": "と言っていたので、とても褒めつつ、去り行く人が詠んだのは、",
         "translation-en": "Since it was being said, the person who praised it greatly and was leaving composed it.",
+	"translation-zh": "说道，因此，赞赏着而去的人吟诵道，",
         "translation-ja-natural": "そう言っていたので、大いに褒めながら立ち去る人が詠んだのは、",
-        "translation-en-natural": "Because it was said, the person, praising it greatly, composed a poem as they left."
+        "translation-en-natural": "Because it was said, the person, praising it greatly, composed a poem as they left.",
+	"translation-zh-natural": "他这样这样说道，因此，品位着这首和歌而离去的人吟诵道，"
       },
       {
         "date": "20250105",
@@ -5468,8 +5482,10 @@
         "koutei-yamagen": "棹させど/底ひも知らぬ/わたつみの/深き心を/君に見るかな",
         "translation-ja": "棹さしても底もわからぬ深い心をあなたに見たのです。",
         "translation-en": "Even as I push the pole, I see in you a deep heart whose bottom cannot be known.",
+	"translation-zh": "撑着桨也不知底的大海的深沉的心，见于你罢。",
         "translation-ja-natural": "棹をさしても底が見えないほど深い心を、あなたの中に見つけました。",
-        "translation-en-natural": "Even as I push the pole, I find in you a heart so deep its bottom cannot be reached."
+        "translation-en-natural": "Even as I push the pole, I find in you a heart so deep its bottom cannot be reached.",
+	"translation-zh-natural": "即使撑着桨，也看不见像深不见底的大海般的深不可测的您的心。"
       },
       {
         "date": "20250108",
@@ -5479,8 +5495,10 @@
         "koutei-yamagen": "と言ふ間に、楫取ものの哀も知らで、己れし酒をくらひつれば、早くいなむとて「潮満ちぬ。風も吹きぬべし」とさわげば、船に乗りなむとす。",
         "translation-ja": "と言っている間に、楫取は物の哀れも知らず、自分の酒を飲んでいたので、早く行こうとして、「潮が満ちた。風も吹きそうだ」と騒ぐので、船に乗ろうとする。",
         "translation-en": "While they were saying this, the kajitori, without knowing the pathos of things, drank their own sake. So, intending to leave quickly, they said, 'The tide has risen. The wind is likely to blow,' and, making a commotion, tried to board the boat.",
+	"translation-zh": "言谈之间，划桨者不知物哀，自己喝着酒，接着，“快去罢”一般，大声说道，“涨潮了。风也要吹起来了。”于是决定登船。",
         "translation-ja-natural": "そんな話をしている間に、楫取たちは物の哀れも感じることなく、自分たちの酒を飲んでいました。それから、早く出発しようと、「潮が満ちたぞ。風も吹きそうだ」と騒ぎ出し、船に乗り込もうとしました。",
-        "translation-en-natural": "As they talked, the crew, unaware of the sorrow of the moment, drank their sake. Eager to leave, they said, 'The tide is coming in. The wind is picking up,' and, causing a stir, tried to board the boat."
+        "translation-en-natural": "As they talked, the crew, unaware of the sorrow of the moment, drank their sake. Eager to leave, they said, 'The tide is coming in. The wind is picking up,' and, causing a stir, tried to board the boat.",
+	"translation-zh": "在说着这些话的时候，船夫没有感受到物哀，自顾自喝着酒。像是催着快走一般，大声说道：“要涨潮了。要起风了。”于是，国守决定登船。"
       },
       {
         "date": "20250112",
@@ -5490,8 +5508,10 @@
         "koutei-yamagen": "この折に、ある人々、折節につけて、からうたども時に似つかはしきをいふ。",
         "translation-ja": "この時に、ある人々が、折々に応じて、漢詩など、時にふさわしいものを言う。",
         "translation-en": "At this time, certain people, in accordance with the occasion, recited Chinese poems that were suitable for the moment.",
+	"translation-zh": "在这个时候，有些人根据时节吟诵唐诗等与时节相符的（内容）。",
         "translation-ja-natural": "この時に、ある人々が、その時々に合わせて、漢詩など、その時にふさわしいものを詠みました。",
-        "translation-en-natural": "At this time, certain people recited Chinese poems that were appropriate for the occasion."
+        "translation-en-natural": "At this time, certain people recited Chinese poems that were appropriate for the occasion.",
+	"translation-zh-natural": "在这个时间，有些人会根据时节吟诵适合当时的情景的中国诗。"
       },
       {
         "date": "20250112",
@@ -5501,8 +5521,10 @@
         "koutei-yamagen": "また、ある人、西国なれど甲斐歌などいふ。",
         "translation-ja": "また、ある人、西国であるが、甲斐の歌などという。",
         "translation-en": "And a person, even if it is the western provinces, sings Kai songs.",
+	"translation-zh": "另外，有人虽是西国（人），却吟甲斐歌等。",
         "translation-ja-natural": "また、ある人は、西国なのに、甲斐の歌などを歌っています。",
-        "translation-en-natural": "Meanwhile, someone was singing songs from Kai Province, even though we were in the western regions."
+        "translation-en-natural": "Meanwhile, someone was singing songs from Kai Province, even though we were in the western regions.",
+	"translation-zh-natural": "还有一个人，虽然是个西部的人，却吟唱着甲斐的歌。"
       },
       {
         "date": "20250115",
@@ -5512,8 +5534,10 @@
         "koutei-yamagen": "かくうたふに、ふなやかたの塵も散り、空ゆく雲もただよひぬとぞ言ふなる。",
         "translation-ja": "このように歌うと、船屋の塵も散り、空を行く雲もただよったと言われる。",
         "translation-en": "When sung in this way, the dust of the boatyard also scattered, and the clouds going in the sky also drifted, it is said.",
+	"translation-zh": "据说，此般吟唱之间，船屋之尘散，升空之云亦飘摇。",
         "translation-ja-natural": "このように歌うと、船屋の塵が舞い、空を流れる雲までも漂ったと言っているようです。",
-        "translation-en-natural": "When sung in this way, it is said that even the dust in the boatyard scattered, and the clouds drifting across the sky seemed to float aimlessly."
+        "translation-en-natural": "When sung in this way, it is said that even the dust in the boatyard scattered, and the clouds drifting across the sky seemed to float aimlessly.",
+	"translation-zh-natural": "据说他唱着的时侯，船屋中的尘土四散，升入空中的云也飘荡了起来。"
       },
       {
         "date": "20250116",
@@ -5523,8 +5547,10 @@
         "koutei-yamagen": "今宵、浦戸に泊まる。",
         "translation-ja": "今宵、浦戸に泊まる。",
         "translation-en": "Tonight, we stay at Urado.",
+	"translation-zh": "今晚，停泊于浦户。",
         "translation-ja-natural": "今夜は、浦戸に泊まります。",
-        "translation-en-natural": "Tonight, we will stay at Urado."
+        "translation-en-natural": "Tonight, we will stay at Urado.",
+	"translation-zh-natural": "今晚，国守停泊在浦户。"
       },
       {
         "date": "20250117",
@@ -5534,8 +5560,10 @@
         "koutei-yamagen": "藤原の時実、橘の季衡、こと人々追ひ来たり。",
         "translation-ja": "藤原の時実、橘の季衡、その他の人々が追いかけてきた。",
         "translation-en": "Fujiwara no Tokizane, Tachibana no Suehira, and others followed.",
+	"translation-zh": "藤原时实、橘季衡，其他人们追了上来。",
         "translation-ja-natural": "藤原の時実、橘の季衡、その他の人々が追いかけてきました。",
-        "translation-en-natural": "Fujiwara no Tokizane, Tachibana no Suehira, and others followed."
+        "translation-en-natural": "Fujiwara no Tokizane, Tachibana no Suehira, and others followed.",
+	"translation-zh-natural": "藤原时实、橘季衡，还有其他人又追了上来。"
       },
       {
         "date": "20250118",
