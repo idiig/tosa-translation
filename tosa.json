@@ -5399,22 +5399,37 @@
           {
             "phrase": "又、或時には、",
             "gloss": "Also, at times,",
+	    "gloss-morph": "also some.time=DAT=TOP",
+	    "gloss-zh": "又 有时 于 TOP",
+	    "gloss-morph-zh": "also some.time=DAT=TOP",
             "words": [
               {
                 "word": "又",
-                "gloss": "also"
-              },
+                "gloss": "also",
+		"gloss-morph": "also",
+		"gloss-zh": "又",
+		"gloss-morph-zh": "also"
+	      },
               {
                 "word": "或時",
-                "gloss": "some time; a certain time"
+                "gloss": "some time; a certain time",
+		"gloss-morph": "some.time",
+		"gloss-zh": "有时",
+		"gloss-morph-zh": "some.time"
               },
               {
                 "word": "に",
-                "gloss": "DAT"
+                "gloss": "DAT",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "于",
+		"gloss-morph-zh": "=DAT"
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "TOP",
+		"gloss-morph-zh": "=TOP"
               }
             ]
           }
@@ -5442,90 +5457,150 @@
           {
             "phrase": "あるものと",
             "gloss": "thinking (she) was there",
+	    "gloss-morph": "exist-ADN+thing=QUOT",
+	    "gloss-zh": "有-的 QUOT",
+	    "gloss-morph-zh": "有-ADN+thing=QUOT",
             "words": [
               {
                 "word": "ある",
-                "gloss": "exist"
+                "gloss": "exist",
+		"gloss-morph": "exist-ADN",
+		"gloss-zh": "有-的",
+		"gloss-morph-zh": "有-ADN"
               },
               {
                 "word": "もの",
-                "gloss": "thing"
-              },
+                "gloss": "thing",
+		"gloss-morph": "thing",
+		"gloss-zh": "QUOT",
+		"gloss-morph-zh": "thing"
+	      },
               {
                 "word": "と",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-morph": "=QUOT",
+		"gloss-zh": "QUOT",
+		"gloss-morph-zh": "=QUOT"
               }
             ]
           },
           {
             "phrase": "忘れつつ",
             "gloss": "forgetting (continually)",
+	    "gloss-morph": "forget-THM+ITR",
+	    "gloss-zh": "忘记 ITR",
+	    "gloss-morph-zh": "忘记-THM+ITR",
             "words": [
               {
                 "word": "忘れ",
-                "gloss": "forget"
+                "gloss": "forget",
+		"gloss-morph": "forget-THM",
+		"gloss-zh": "忘记",
+		"gloss-morph-zh": "忘记-THM"
               },
               {
                 "word": "つつ",
-                "gloss": "CONJ.PROG"
+                "gloss": "CONJ.PROG",
+		"gloss-morph": "+ITR",
+		"gloss-zh": "持续",
+		"gloss-morph-zh": "+ITR"
               }
             ]
           },
           {
             "phrase": "なほなき人を",
             "gloss": "still the absent person",
+	    "gloss-morph": "still NEG-ADN+person=ACC",
+	    "gloss-zh": "仍然 不在 的 人 ACC",
+	    "gloss-morph-zh": "仍然-ADN+NEG+person=ACC",
             "words": [
               {
                 "word": "なほ",
-                "gloss": "still"
+                "gloss": "still",
+		"gloss-morph": "still",
+		"gloss-zh": "仍然",
+		"gloss-morph-zh": "仍然"
               },
               {
                 "word": "なき",
-                "gloss": "not.exist.ATTR"
+                "gloss": "not.exist.ATTR",
+		"gloss-morph": "NEG-ADN",
+		"gloss-zh": "不在",
+		"gloss-morph-zh": "不在-ADN"
               },
               {
                 "word": "人",
-                "gloss": "person"
+                "gloss": "person",
+		"gloss-morph": "person",
+		"gloss-zh": "人",
+		"gloss-morph-zh": "人"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "ACC",
+		"gloss-morph-zh": "=ACC"
               }
             ]
           },
           {
             "phrase": "いづらと問ふぞ",
             "gloss": "ask 'Where is (she)?'",
+	    "gloss-morph": "where=QUOT ask-ADN.NL=EMP",
+	    "gloss-zh": "何处 QUOT 问-的 EMP",
+	    "gloss-morph-zh": "何处=QUOT 问-ADN.NL=EMP",
             "words": [
               {
                 "word": "いづら",
-                "gloss": "where"
+                "gloss": "where",
+		"gloss-morph": "where",
+		"gloss-zh": "何处",
+		"gloss-morph-zh": "何处"
               },
               {
                 "word": "と",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-morph": "=QUOT",
+		"gloss-zh": "QUOT",
+		"gloss-morph-zh": "=QUOT"
               },
               {
                 "word": "問ふ",
-                "gloss": "ask"
+                "gloss": "ask",
+		"gloss-morph": "ask-ADN.NL",
+		"gloss-zh": "问-的",
+		"gloss-morph-zh": "问-ADN.NL"
               },
               {
                 "word": "ぞ",
-                "gloss": "EMPH"
+                "gloss": "EMPH",
+		"gloss-morph": "=EMP",
+		"gloss-zh": "EMP",
+		"gloss-morph-zh": "=EMP"
               }
             ]
           },
           {
             "phrase": "悲しかりける",
             "gloss": "was sorrowful",
+	    "gloss-morph": "sad-VBL-THM+RET-ADN",
+	    "gloss-zh": "令人悲伤 了-的",
+	    "gloss-morph-zh": "悲伤-VBL-THM+RET-ADN",
             "words": [
               {
                 "word": "悲しかり",
-                "gloss": "sad.PRED"
+                "gloss": "sad.PRED",
+		"gloss-morph": "sad-VBL-THM",
+		"gloss-zh": "令人悲伤",
+		"gloss-morph-zh": "悲伤-VBL-THM"
               },
               {
                 "word": "ける",
-                "gloss": "PST.MOD"
+                "gloss": "PST.MOD",
+		"gloss-morph": "+RET-ADN",
+		"gloss-zh": "了-的",
+		"gloss-morph-zh": "+RET-ADN"
               }
             ]
           }
