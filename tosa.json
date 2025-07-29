@@ -809,7 +809,7 @@
         "koutei-yamagen": "かれこれ、知る知らぬ、送りす。",
         "translation-ja": "かれこれ、知っている人、知らない人が見送りをする。",
         "translation-en": "People who know him and people who don't know him all see him off.",
-	"translation-zh": "彼此，识者不识者，皆来送行。",
+	"translation-zh": "彼此识者不识者，（前来）送行。",
         "phrase-gloss": [
           {
             "phrase": "かれこれ",
@@ -891,7 +891,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "あの人、この人、知っている人も知らない人も、みんなで見送った。",
         "translation-en-natural": "Everyone — friends, strangers, all kinds of people — came to see him off.",
-	"translation-zh-natural": "无论认识与否，大家都来为他送行。"
+	"translation-zh-natural": "这个人那个人，无论认识不认识，大家都来为他送行。"
       },
       {
         "date": [
@@ -906,7 +906,7 @@
         "koutei-yamagen": "年ごろよくくらべつる人々なむ、別れがたく思ひて、日しきりにとかくしつつ、ののしるうちに夜更けぬ。",
         "translation-ja": "長年親しく付き合ってきた人々が、別れがたいと感じ、その日しきりにあれこれと言いながら賑やかに過ごすうちに夜が更けた。",
         "translation-en": "The people who had long been close, finding it hard to part, spent that day busily talking back and forth, and before they knew it, night had fallen.",
-	"translation-zh": "长年亲密陪伴的人们，感到难以分离，那日终日边忙碌这般那般，边高声喧闹之间，夜色已深。",
+	"translation-zh": "长年亲密陪伴的人们，感到难以分离，那日终日这般那般，边忙碌边高声喧闹之间，夜已深。",
         "phrase-gloss": [
           {
             "phrase": "年ごろよく具しつる人々",
@@ -1062,7 +1062,7 @@
         "koutei-yamagen": "二十二日、和泉の国までと平らかに願立つ。",
         "translation-ja": "二十二日、和泉の国までと平穏に祈願を立てた。",
         "translation-en": "On the twenty-second day, I set up a prayer for a peaceful (safe) journey as far as the province of Izumi.",
-	"translation-zh": "廿二日，我祈愿平安到达和泉之国",
+	"translation-zh": "廿二日，（国司）祈了愿，（愿）至和泉之国顺利。",
 	"phrase-gloss": [
           {
             "phrase": "廿二日",
@@ -1181,7 +1181,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "二十二日、和泉の国まで無事に行けるようにと祈願した。",
         "translation-en-natural": "On the twenty-second day, I prayed for a safe journey as far as Izumi Province.",
-	"translation-zh-natural": "在二十二日，我祈愿能平安到达和泉国。",
+	"translation-zh-natural": "在二十二日，国司祈愿能平安抵达和泉国。",
         "notes-ja": [
           {
             "title": "ねがひたつ",
@@ -1214,7 +1214,7 @@
         "koutei-yamagen": "藤原のときざね、船路なれど、馬の餞す。",
         "translation-ja": "藤原のときざねが、船路の旅なのに餞をする。",
         "translation-en": "Fujiwara no Tokizane, though it is a sea journey, gives a farewell gift for a horse journey.",
-	"translation-zh": "藤原言实，虽为海旅，却操办了马饯之仪。",
+	"translation-zh": "藤原言实，（国司所走的）虽为海路，却操办了马饯（之仪）。",
         "phrase-gloss": [
           {
             "phrase": "藤原の言實",
@@ -1317,7 +1317,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "藤原の言實が、船の旅なのに、馬の餞別を贈った。",
         "translation-en-natural": "Fujiwara no Tokizane sent off a farewell gift called 'Uma no Hanamuke' (horse nose heading)—even though it was a sea voyage. Go figure.",
-	"translation-zh-natural": "虽说走的是海陆，藤原言实却为之操办了以“马”为名的送别仪式。",
+	"translation-zh-natural": "虽说国司走的是海路，藤原言实却为他操办了名为“马饯”的送别仪式。",
       },
       {
         "date": [
@@ -1331,7 +1331,7 @@
         "koutei-yamagen": "上、中、下、酔ひすぎて、いとあやしく、しほ海のほとりにてあざれあへり。",
         "translation-ja": "上も中も下も酔い過ぎて、非常に不思議に潮海のほとりでふざけ合った。",
         "translation-en": "The high, the middle, and the low all drank too much, behaving very strangely, and fooling around by the shore of the salt sea.",
-	"translation-zh": "上中下皆大醉，十分怪异地在盐海的岸边嬉闹。",
+	"translation-zh": "上中下皆大醉，十分古怪地在盐海的岸边嬉闹。",
         "phrase-gloss": [
           {
             "phrase": "上中下ながら",
@@ -1528,7 +1528,7 @@
         "koutei-yamagen": "二十三日、八木の康教といふ人あり。",
         "translation-ja": "二十三日、八木の康教という人がいた。",
         "translation-en": "On the twenty-third, there was a person named Yasunori Yagi.",
-	"translation-zh": "廿三日，有一个叫八木康教的人。",
+	"translation-zh": "廿三日，有叫八木康教之人。",
         "phrase-gloss": [
           {
             "phrase": "廿三日",
@@ -1629,7 +1629,7 @@
         "koutei-yamagen": "この人、国に必ずしも言ひつかう者にもあらざなり。",
         "translation-ja": "この人は、国において必ずしも言いつかう者でもなかった。",
         "translation-en": "This person was not necessarily someone who would be employed in the province.",
-	"translation-zh": "此人未必任命于该国之人。",
+	"translation-zh": "此人未必是任命于该地者。",
         "phrase-gloss": [
           {
             "phrase": "この人",
@@ -1784,7 +1784,7 @@
         "koutei-yamagen": "これぞ正しきやうにて馬の餞したる。",
         "translation-ja": "これこそが、正しいやり方で馬の餞をした。",
         "translation-en": "And yet, this person gave a horse as a farewell gift in a proper manner.",
-	"translation-zh": "这才是以正确的方式操办了马饯之仪。",
+	"translation-zh": "此（人）才是以正确的样子操办了马饯（之仪）。",
         "phrase-gloss": [
           {
             "phrase": "これぞ",
@@ -3557,7 +3557,7 @@
         "koutei-yamagen": "都出でて/君に逢はむと/こしものを/こしかひもなく/別れぬるかな",
         "translation-ja": "都を出て、君に逢おうと来たのに、来た甲斐もなく、別れてしまったことだなあ。",
         "translation-en": "Leaving the capital, intending to meet you I came, yet, though I came, without any worth, we parted, how it is.",
-	"translation-zh": "离京，欲相逢于君，虽已来，却无来之意义，已然分离也",
+	"translation-zh": "离京/欲相逢于你/虽已来/却没有来的意义/已然别离哉",
         "phrase-gloss": [
           {
             "phrase": "都いでゝ",
@@ -3891,7 +3891,7 @@
         "koutei-yamagen": "しろたへの/浪路を遠く/行きかひて/我に似べきは/誰ならなくに",
         "translation-ja": "白い布のような波の道を遠く行き交って、私に似るべきは誰でもないのに",
         "translation-en": "Along the distant wave road like white cloth, going back and forth, the one who should resemble me is no one at all.",
-	"translation-zh": "白色布匹的波涛路途，远远地来来回回，相似于我的，明明谁都不是",
+	"translation-zh": "白布的/浪路远远地/来来往往/相似于我的/明明不是任何人",
         "phrase-gloss": [
           {
             "phrase": "しろたへの浪路を遠く",
@@ -5221,7 +5221,7 @@
         "koutei-yamagen": "都へと/思ふものの/悲しきは/帰らぬ人の/あればなりけり",
         "translation-ja": "都へと思うけれども、悲しいのは、帰らない人がいることなのだ。",
         "translation-en": "Though I think of returning to the capital, the sad thing is that there is someone who does not return.",
-	"translation-zh": "欲向京城，但悲伤的是，因为听闻已有了不再回来的人。",
+	"translation-zh": "向京城/虽欲（归）/悲伤之因乃/不归之人/听闻已在（京城）",
         "phrase-gloss": [
           {
             "phrase": "都へと",
@@ -5381,7 +5381,7 @@
         ],
         "translation-ja-natural": "都に帰ろうと思っても、悲しみが募るのは、一緒に帰ることのない人がいるからなのだ。",
         "translation-en-natural": "Even as I long to return to the capital, the sorrow remains—because there is someone who will never come back with me.",
-	"translation-zh-natural": "虽想要归向京城，但我悲伤是因为，听闻那里有人已经不会再回来了。"
+	"translation-zh-natural": "虽想要回到京城，但我悲伤是因为，听闻那里有人已经不会再回来了。"
       },
       {
         "date": [
@@ -5450,10 +5450,8 @@
 
         "translation-ja": "いるものと、忘れて、なお亡くなった人を「どこに」と尋ねてしまうことこそ悲しいことだ。",
         "translation-en": "Thinking she is still here, I forget that and keep asking, 'Where is she?' That is what makes it so heartbreaking.",
-        "translation-ja": "いるものと、忘れて、なお、いない人を「どこに」と問うのが、悲しかった。",
-        "translation-en": "Thinking she was still here, forgetting that, and still asking 'Where is she?'—that was what made it sad.",
-	"translation-zh": "以为（她）在，忘记了（她的离去），又问起，离去之人何在。感伤。",
-        "phrase-gloss": [
+	"translation-zh": "以为在/却又忘/逝者/何在，问者/神伤",
+	"phrase-gloss": [
           {
             "phrase": "あるものと",
             "gloss": "thinking (she) was there",
@@ -5656,10 +5654,10 @@
         "koutei-yamagen": "をしと思ふ/人やとまると/葦鴨の/うち群れてこそ/我は来にけれ",
         "translation-ja": "惜しいと思う人が引き留めてくれるのだろうか。葦鴨が群れ集まっているように、私は来てしまったのだ。",
         "translation-en": "Will there be anyone who thinks of me dearly enough to stop me? Like the wild ducks gathering together, I have come here.",
-	"translation-zh": "珍惜之人留着，芦鸭大片聚集般，我来了。",
+	"translation-zh": "珍惜的/人停留/芦鸭/大片聚集/我来也",
         "translation-ja-natural": "誰か私を引き留めてくれる人がいるのだろうか。葦鴨が群れるように、私はここまで来てしまったんだなあ。",
         "translation-en-natural": "Is there anyone who would stop me, thinking I'm too precious to let go? Like the wild ducks flocking together, I somehow ended up here.",
-	"translation-zh-natural": "觉得我很珍贵的人留在此地，就像芦鸭聚集在一起一样，我也来到了这里。"
+	"translation-zh-natural": "珍惜我的人都留在此地，就像芦鸭聚集在一起一样，我已来到这里了啊。"
       },
       {
         "date": "20241231",
@@ -5682,7 +5680,7 @@
         "koutei-yamagen": "棹させど/底ひも知らぬ/わたつみの/深き心を/君に見るかな",
         "translation-ja": "棹さしても底もわからぬ深い心をあなたに見たのです。",
         "translation-en": "Even as I push the pole, I see in you a deep heart whose bottom cannot be known.",
-	"translation-zh": "撑着桨也不知底的大海的深沉的心，见于你罢。",
+	"translation-zh": "即使撑着桨/也不知底的/大海的/深沉的心/见于你罢。",
         "translation-ja-natural": "棹をさしても底が見えないほど深い心を、あなたの中に見つけました。",
         "translation-en-natural": "Even as I push the pole, I find in you a heart so deep its bottom cannot be reached.",
 	"translation-zh-natural": "即使撑着桨，也看不见像深不见底的大海般的深不可测的您的心。"
@@ -5773,8 +5771,10 @@
         "koutei-yamagen": "二十八日、浦戸より漕ぎ出でて、大湊を追ふ。",
         "translation-ja": "二十八日、浦戸を出て、大湊に向かう。",
         "translation-en": "On the twenty-eighth day, we set out from Urado and headed for Ominato.",
+	"translation-zh": "二十八日，从浦户驶出，行向大湊。",
         "translation-ja-natural": "二十八日、浦戸を出発し、大湊に向かいました。",
-        "translation-en-natural": "On the twenty-eighth day, we departed from Urado and made our way to Ominato."
+        "translation-en-natural": "On the twenty-eighth day, we departed from Urado and made our way to Ominato.",
+	"translation-zh-natural": "二十八日，国守一行人从浦户出发，驶向大湊。"
       },
       {
         "date": "20250119",
@@ -5784,8 +5784,10 @@
         "koutei-yamagen": "この間に、早くの国の守の子、山口の千岑、酒、よき物ども持て来て、船に入れたり。",
         "translation-ja": "この間に、以前の国の守の子、山口の千岑、酒、よい物を持ってきて、船に入れた。",
         "translation-en": "During this time, the son of the former governor of this country, Chisato Yamaguchi, brought sake and good things and put them on the boat.",
+	"translation-zh": "在这期间，前任的国守之子山口千岑，携酒，好物而来，放进了船。",
         "translation-ja-natural": "この間に、先のこの国の国司の子、山口の千岑が、酒やけっこな品々を持ってきて、船に差し入れをしました。",
-        "translation-en-natural": "During this time, the son of the former governor of this country, Chisato Yamaguchi, brought sake and other good things and put them on the boat."
+        "translation-en-natural": "During this time, the son of the former governor of this country, Chisato Yamaguchi, brought sake and other good things and put them on the boat.",
+	"translation-zh-natural": "在这段时间里，前任国守的儿子山口千岑带来了酒和其他佳品，放入船中。"
       },
       {
         "date": "20250119",
@@ -5795,8 +5797,10 @@
         "koutei-yamagen": "ゆくゆく飲み食ふ。",
         "translation-ja": "ゆくゆく飲み食う。",
         "translation-en": "We will eat and drink as we go.",
+	"translation-zh": "边行进边饮食。",
         "translation-ja-natural": "航行しながら、飲み食いをしていきました。",
-        "translation-en-natural": "We ate and drank as we sailed."
+        "translation-en-natural": "We ate and drank as we sailed.",
+	"translation-zh-natural": "国守一行一路上吃吃喝喝。"
       },
       {
         "date": "20250120",
@@ -5806,8 +5810,10 @@
         "koutei-yamagen": "二十九日、大湊に泊まれり。",
         "translation-ja": "二十九日。大湊に泊っている。",
         "translation-en": "On the twenty-ninth day, we stayed at Ominato.",
+	"translation-zh": "廿九日，泊于大湊。",
         "translation-ja-natural": "二十九日、大湊に泊まっています。",
-        "translation-en-natural": "On the twenty-ninth day, we stayed at Ominato."
+        "translation-en-natural": "On the twenty-ninth day, we stayed at Ominato.",
+	"translation-zh-natural": "二十九日，国守一行停泊在大湊。"
       },
       {
         "date": "20250120",
@@ -5817,8 +5823,10 @@
         "koutei-yamagen": "くす師ふりはへて、屠蘇白散酒加へて持て来たり。",
         "translation-ja": "薬師が、念を入れて屠蘇や白散に酒を加えて持ってきた。",
         "translation-en": "The apothecary, taking special care, brought toso and hakusan, adding sake.",
+	"translation-zh": "药师特地将屠苏、白散加入酒带来了。",
         "translation-ja-natural": "薬師が気を利かせて、屠蘇や白散に酒を混ぜて持ってきました。",
-        "translation-en-natural": "The apothecary thoughtfully prepared tosō and hakusan, mixing them with sake, and brought it over."
+        "translation-en-natural": "The apothecary thoughtfully prepared tosō and hakusan, mixing them with sake, and brought it over.",
+	"translation-zh-natural": "药师特意将用屠苏和白散调制好的酒带给了国守一行人。"
       },
       {
         "date": "20250120",
@@ -5828,8 +5836,10 @@
         "koutei-yamagen": "志あるに似たり。",
         "translation-ja": "志があるように見える。",
         "translation-en": "It seems that there is sincerity.",
+	"translation-zh": "似有志。",
         "translation-ja-natural": "誠意があるように思える。",
-        "translation-en-natural": "It seems like there is genuine sincerity."
+        "translation-en-natural": "It seems like there is genuine sincerity.",
+	"translation-zh-natural": "看起来似乎有诚意。"
       },
       {
         "date": "20250124",
