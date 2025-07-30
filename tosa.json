@@ -5849,8 +5849,10 @@
         "koutei-yamagen": "元日、なほ同じ泊まりなり。",
         "translation-ja": "元日、まだ同じ停泊地にいる。",
         "translation-en": "On New Year's Day, we are still staying in the same place.",
+	"translation-zh": "元日，仍停泊于同（处）。",
         "translation-ja-natural": "元日も、まだ同じ場所に停泊しています。",
-        "translation-en-natural": "On New Year's Day, we are still staying in the same place."
+        "translation-en-natural": "On New Year's Day, we are still staying in the same place.",
+	"translation-zh-natural": "元旦这天，国守一行仍停泊在同一个地方。"
       },
       {
         "date": "20250125",
@@ -5860,8 +5862,10 @@
         "koutei-yamagen": "白散をある者、夜の間とて船屋形に差し挟めりければ、風に吹きならさせて海に入れてえ飲まずなりぬ。",
         "translation-ja": "白散を持っている人が、夜の間に船の屋形に差し挟んでいたところ、風に吹き鳴らされて海に入ってしまい、飲むことができなくなった。",
         "translation-en": "A person who had hakusan, having wedged it into the boathouse overnight, had it blown noisily by the wind into the sea and was unable to drink it.",
+	"translation-zh": "有人（拿着）白散，想着夜间，放进船屋，结果被风吹响入海，已无法饮用。",
         "translation-ja-natural": "白散を持っていた人が、夜の間に船の屋形に置いておいたら、風に吹かれて海に落ちてしまい、飲めなくなりました。",
-        "translation-en-natural": "Someone who had hakusan left it overnight in the boathouse, but the wind blew it into the sea, so they couldn’t drink it."
+        "translation-en-natural": "Someone who had hakusan left it overnight in the boathouse, but the wind blew it into the sea, so they couldn’t drink it.",
+	"translation-zh-natural": "有个人拿着用于元旦祈愿健康的白散而来，但想着因为是夜间，所以他没有直接上船，只是默默把白散塞进了船屋，结果白散被大风刮进了海里，无福享用了。"
       },
       {
         "date": "20250126",
@@ -5871,8 +5875,10 @@
         "koutei-yamagen": "芋茎もあらめも、歯固めもなし。",
         "translation-ja": "芋茎も荒布も、歯固めもない。",
         "translation-en": "No potatoes, no seaweed, no hagatame teeth hardener.",
+	"translation-zh": "芋薯，海藻，歯固都没有。",
         "translation-ja-natural": "芋も海藻荒布も祝物の歯固めもありません。",
-        "translation-en-natural": "No potatoes, no seaweed, no festive \"Hagatame\" meat (a symbolic dish for celebrating longevity and resilience in Japanese tradition)."
+        "translation-en-natural": "No potatoes, no seaweed, no festive \"Hagatame\" meat (a symbolic dish for celebrating longevity and resilience in Japanese tradition).",
+	"translation-zh-natural": "船里，没有芋头，没有海藻，也没有元旦要吃的庆祝长寿的“歯固”。"
       },
       {
         "date": "20250127",
@@ -5882,8 +5888,10 @@
         "koutei-yamagen": "かようの物もなき国なり。",
         "translation-ja": "こういうものもない国である。",
         "translation-en": "It is a country without such things.",
+	"translation-zh": "是没有那样的东西的地方。",
         "translation-ja-natural": "こんなものもないところです。",
-        "translation-en-natural": "Here is a place without such things."
+        "translation-en-natural": "Here is a place without such things.",
+	"translation-zh-natural": "这里没有那些东西。"
       },
       {
         "date": "20250127",
@@ -5893,8 +5901,10 @@
         "koutei-yamagen": "求めもおかず。",
         "translation-ja": "求めてもおかなかった。",
         "translation-en": "We did not seek it in advance.",
+	"translation-zh": "也没事先寻求。",
         "translation-ja-natural": "求めてもおきませんでした。",
-        "translation-en-natural": "We didn't buy them in advance."
+        "translation-en-natural": "We didn't buy them in advance.",
+	"translation-zh-natural": "国守一行也没有事先购买。"
       },
       {
         "date": "20250128",
@@ -5904,8 +5914,10 @@
         "koutei-yamagen": "唯、押鮎の口をのみぞ吸ふ。",
         "translation-ja": "ただ、押鮎の口を吸うだけ。",
         "translation-en": "Only sucking the mouth of the pressed sweetfish.",
+	"translation-zh": "只是吸着押鮎的嘴。",
         "translation-ja-natural": "ただ、押鮎の口をしゃぶっているだけでした。",
-        "translation-en-natural": "Just sucking the mouth of the pressed sweetfish."
+        "translation-en-natural": "Just sucking the mouth of the pressed sweetfish.",
+	"translation-zh-natural": "（元旦）只能吸着用压制工艺腌渍而成的腌鮎鱼的嘴。"
       },
       {
         "date": "20250129",
@@ -5915,11 +5927,10 @@
         "koutei-yamagen": "この吸ふ人々の口を押年魚もし思ふやうあらむや。",
         "translation-ja": "この人々が口を吸う押年魚の方も、いったいどう思っているだろうか。",
         "translation-en": "I wonder what the sweetfish, pressed and sucked by these people's mouths, is thinking.",
+	"translation-zh": "对这些吸着的人的嘴巴，押鮎如果在想的话...（会怎么想呢？）",
         "translation-ja-natural": "この人々に口を吸われている押年魚（鮎）の方も、いったいどう思っているのだろうか。いや、おそらく『口惜しい鮎』（くちをしあゆ）とでも思っているのだろうか。",
         "translation-en-natural": "What might the pressed sweetfish, being sucked by these people's mouths, be thinking? Perhaps they are lamenting as 'kuchi-oshi ayu,' the regretful sweetfish.",
-        "notes-ja": {
-          "押年魚と押鮎の違い": "菊地版では「押鮎」と表記しているが、原文の翻刻「押年魚」に従うべき。「押年魚」という表記は、言葉遊びを強調する上で重要。「押鮎」に修正されることで、紀貫之の意図やユーモアが損なわれている。"
-        }
+	"translation-zh-natural": "被吸着的押年魚（kuchi-oshi ayu）会怎么想这些人的嘴巴呢？也许它们会觉得自己是“可惜的（kuchi-oshi ayu）”。"
       },
       {
         "date": "20250130",
@@ -5929,8 +5940,10 @@
         "koutei-yamagen": "今日は都のみぞ思ひやらるる。",
         "translation-ja": "今日は都のみぞ思いやられる。",
         "translation-en": "Today, only the capital weighs on my mind.",
+	"translation-zh": "今天只是想着京城。",
         "translation-ja-natural": "今日は都のことばかりが思いやられます。",
-        "translation-en-natural": "Today, I can't help but worry about the capital."
+        "translation-en-natural": "Today, I can't help but worry about the capital.",
+	"translation-zh-natural": "今天他们只在遥想京城。"
       },
       {
         "date": "20250131",
@@ -5940,8 +5953,10 @@
         "koutei-yamagen": "「九重の門のしりくめ繩の鯔の頭、柊ら、いかに」とぞ言ひあへる。",
         "translation-ja": "「小家の門のしめ繩についた鯔の頭や柊はどうしているだろう」と言い合っている。",
         "translation-en": "They are talking about how the heads of the zui on the cords of the gates of the commoners' houses are doing.",
+	"translation-zh": "“九重之门的注连绳的鲻鱼的头，柊木，如何了？”相互说道。",
         "translation-ja-natural": "「民家の門のしめ繩についた鯔の頭や柊は、どうしているのだろう」と話しているようです。",
-        "translation-en-natural": "They are talking about how the heads of the zui on the cords of the gates of the commoners' houses are doing."
+        "translation-en-natural": "They are talking about how the heads of the zui on the cords of the gates of the commoners' houses are doing.",
+	"translation-zh-natural": "“今年不知民家门口的注连绳上的鲻鱼头和柊木怎么样了？”他们互相说道。"
       },
       {
         "date": "20250201",
