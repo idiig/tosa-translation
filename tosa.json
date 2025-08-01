@@ -3794,15 +3794,119 @@
         "translation-en-natural": "Expressing their reluctance to part, those people, as if carrying a fishing net together, composed a poem by the seaside."
       },
       {
-        "date": "20241217",
+        "date": [
+          20241217,
+          20250801
+        ],
         "id": 40,
         "poem": "をしと思ふ/人やとまると/あし鴨の/うち群れてこそ/我はきにけれ",
         "kana": "をしとおもふ/ひとやとまると/あしがもの/うちむれてこそ/われはきにけれ",
         "koutei-yamagen": "をしと思ふ/人やとまると/葦鴨の/うち群れてこそ/我は来にけれ",
-        "translation-ja": "惜しいと思う人が引き留めてくれるのだろうか。葦鴨が群れ集まっているように、私は来てしまったのだ。",
-        "translation-en": "Will there be anyone who thinks of me dearly enough to stop me? Like the wild ducks gathering together, I have come here.",
-        "translation-ja-natural": "誰か私を引き留めてくれる人がいるのだろうか。葦鴨が群れるように、私はここまで来てしまったんだなあ。",
-        "translation-en-natural": "Is there anyone who would stop me, thinking I'm too precious to let go? Like the wild ducks flocking together, I somehow ended up here."
+        "translation-ja": "惜しいと思う人が留まるのかと、葦鴨が群れてこそ、私は来てしまったのだった。",
+        "translation-en": "Wondering if someone who thinks me dear would stay, as the wild ducks flock together, I have come.",
+        "phrase-gloss": [
+          {
+            "phrase": "をしと思ふ",
+            "gloss": "think (someone) dear",
+            "words": [
+              {
+                "word": "をし",
+                "gloss": "dear"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "思ふ",
+                "gloss": "think"
+              }
+            ]
+          },
+          {
+            "phrase": "人やとまると",
+            "gloss": "would someone stay",
+            "words": [
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "とまる",
+                "gloss": "stay"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              }
+            ]
+          },
+          {
+            "phrase": "あし鴨の",
+            "gloss": "of the reed ducks",
+            "words": [
+              {
+                "word": "あし鴨",
+                "gloss": "reed.duck"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "うち群れてこそ",
+            "gloss": "as they flock together",
+            "words": [
+              {
+                "word": "うち群れ",
+                "gloss": "flock.together.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "こそ",
+                "gloss": "EMPH"
+              }
+            ]
+          },
+          {
+            "phrase": "我はきにけれ",
+            "gloss": "I have come",
+            "words": [
+              {
+                "word": "我",
+                "gloss": "I"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "き",
+                "gloss": "come.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.EMPH"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "私を惜しいと思って留まってくれる人がいるのだろうか。葦鴨が群れるように、私はここまで来てしまったのだ。",
+        "translation-en-natural": "I wonder if anyone who cares for me would have stayed behind. Like the wild ducks flocking together, I too have come all the way here."
       },
       {
         "date": "20241231",
