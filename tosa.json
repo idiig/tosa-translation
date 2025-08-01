@@ -1569,7 +1569,7 @@
             ]
           },
           {
-            "phrase": "一文字をだに知らぬものしが",
+            "phrase": "一文字をだに知らぬもの",
             "gloss": "one.character ACC even know NEG person TOP",
             "words": [
               {
@@ -3461,6 +3461,7 @@
             ]
           }
         ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "また、ある時には、",
         "translation-en-natural": "Also, at times,"
       },
@@ -3567,19 +3568,208 @@
             ]
           }
         ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "いると思い、忘れかけても、いない人に「どこにいるの？」と尋ねてしまう、そのことが、何よりも悲しかった。",
         "translation-en-natural": "Even as I forget and think she's still here, I find myself asking, 'Where is she?'—and that is what breaks my heart."
       },
       {
-        "date": "20241206",
+        "date": [
+          20241206,
+          20250801
+        ],
         "id": 37,
         "text": "といひける間に鹿兒の崎といふ所に守のはらからまたことひとこれかれ酒なにど持て追ひきて、磯におり居て別れ難きことをいふ。",
         "kana": "といひけるまにしかのさきといふところにかみのはらからまたことひとこれかれさかなにともておひきていそにおりゐてわかれがたきことをいふ。",
         "koutei-yamagen": "といひける間に、鹿児の崎といふ所に、守の兄弟、またこと人これかれ、酒なにと持て追ひきて、磯におり居て別れ難きことをいふ。",
-        "translation-ja": "そう言っている間に、鹿児の崎という場所で、国司の兄弟や、また他の人々が酒などを持って追いかけてきて、磯に降り座り、別れるのがつらいということを言う。",
-        "translation-en": "While they were saying this, at a place called Kago no Saki, the governor's brothers and some other people brought things like sake and followed after them. They went down to the shore, sat down, and said that it was hard to part.",
-        "translation-ja-natural": "そんなことを言っているうちに、鹿児の崎という場所で、国司の兄弟や他の人たちが、酒などを持って追いかけてきました。そして、磯に降りて座りながら、別れるのが本当に名残惜しいと言うのでした。",
-        "translation-en-natural": "While they were talking, at a place called Kago no Saki, the governor's brothers and some others came after them, bringing things like sake. They sat down by the shore and talked about how hard it was to say goodbye."
+        "translation-ja": "と言ったその間に、鹿児の崎という所に、守の兄弟、また他の人々これやあれやが、酒などを持って追いかけてきて、磯に降りて座り、別れがたいことを言う。",
+        "translation-en": "While they said this, at a place called Kago no Saki, the governor's brothers and some other people, this one and that, brought things like sake and followed after them. They went down to the shore, sat down, and spoke of the difficulty of parting.",
+        "phrase-gloss": [
+          {
+            "phrase": "といひける間に",
+            "gloss": "while (they) said this",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "間",
+                "gloss": "interval"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "鹿兒の崎といふ所に",
+            "gloss": "at a place called Kago no Saki",
+            "words": [
+              {
+                "word": "鹿兒",
+                "gloss": "Kago"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "崎",
+                "gloss": "cape"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say.ATTR"
+              },
+              {
+                "word": "所",
+                "gloss": "place"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "守のはらから",
+            "gloss": "the governor's brothers",
+            "words": [
+              {
+                "word": "守",
+                "gloss": "governor"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "はらから",
+                "gloss": "siblings"
+              }
+            ]
+          },
+          {
+            "phrase": "またこと人これかれ",
+            "gloss": "also other people, this one and that",
+            "words": [
+              {
+                "word": "また",
+                "gloss": "also"
+              },
+              {
+                "word": "こと人",
+                "gloss": "other.people"
+              },
+              {
+                "word": "これ",
+                "gloss": "this"
+              },
+              {
+                "word": "かれ",
+                "gloss": "that"
+              }
+            ]
+          },
+          {
+            "phrase": "酒など持て追ひきて",
+            "gloss": "bringing sake and such, followed",
+            "words": [
+              {
+                "word": "酒",
+                "gloss": "sake"
+              },
+              {
+                "word": "など",
+                "gloss": "etc"
+              },
+              {
+                "word": "持て",
+                "gloss": "bring.ADV"
+              },
+              {
+                "word": "追ひ",
+                "gloss": "follow.ADV"
+              },
+              {
+                "word": "き",
+                "gloss": "come.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "磯におり居て",
+            "gloss": "went down to the shore and sat",
+            "words": [
+              {
+                "word": "磯",
+                "gloss": "shore"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "おり",
+                "gloss": "descend.ADV"
+              },
+              {
+                "word": "居",
+                "gloss": "sit.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "別れ難きことをいふ",
+            "gloss": "say (that) parting is difficult",
+            "words": [
+              {
+                "word": "別れ",
+                "gloss": "parting.ADV"
+              },
+              {
+                "word": "難き",
+                "gloss": "difficult.ATTR"
+              },
+              {
+                "word": "こと",
+                "gloss": "thing"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "そうこう言っているうちに、鹿児の崎というところで、守の兄弟や、それに他の人たちもあれこれ、酒などを持って追いかけてきて、磯に降りて腰を下ろし、別れがつらいということを語るのだった。",
+        "translation-en-natural": "While they were still speaking, at a place called Kago no Saki, the governor's brothers and some others came after them with sake and such, sat down on the shore, and spoke of how hard it was to part."
       },
       {
         "date": "20241207",
