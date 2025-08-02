@@ -5966,8 +5966,10 @@
         "koutei-yamagen": "二日、なほ大湊に泊まれり。",
         "translation-ja": "二日目も、まだ大湊に泊まっている。",
         "translation-en": "On the second day, we are still staying at Ominato.",
+	"translation-zh": "二日，仍泊于大湊。",
         "translation-ja-natural": "二日目も、まだ大湊に泊まっています。",
-        "translation-en-natural": "On the second day, we are still staying at Ominato."
+        "translation-en-natural": "On the second day, we are still staying at Ominato.",
+	"translation-zh-natural": "第二天，国守一行仍停泊在大湊。"
       },
       {
         "date": "20250202",
@@ -5977,8 +5979,10 @@
         "koutei-yamagen": "講師、物、酒など起こせたり。",
         "translation-ja": "講師が、物や酒などを送ってきた。",
         "translation-en": "The koshi sent things, sake, and other items.",
+	"translation-zh": "讲师给了物品、酒等。",
         "translation-ja-natural": "講師が、食べ物やお酒などを差し入れてくれました。",
-        "translation-en-natural": "The official kindly brought over some food and sake."
+        "translation-en-natural": "The official kindly brought over some food and sake.",
+	"translation-zh-natural": "高僧给国守一行人送来了食物和酒等。"
       },
       {
         "date": "20250203",
