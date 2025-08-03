@@ -6503,8 +6503,10 @@
         "koutei-yamagen": "四日、風吹けば、え出でたたず。",
         "translation-ja": "四日、風が吹くので、出ていけない。",
         "translation-en": "On the fourth, because the wind blows, we can't go out.",
+	"translation-zh": "四日，因风起，不能出发。",
         "translation-ja-natural": "四日、風が強く吹いて、港を出ることができません。",
-        "translation-en-natural": "On the fourth, we can't set sail because of the strong wind."
+        "translation-en-natural": "On the fourth, we can't set sail because of the strong wind.",
+	"translation-zh-natural": "第四天，由于风大，无法出航。",
       },
       {
         "date": "20250206",
@@ -6514,8 +6516,10 @@
         "koutei-yamagen": "昌連、酒、よき物たてまつれり。",
         "translation-ja": "昌連が、酒や良い品を奉る。",
         "translation-en": "Masatsura contributes sake and fine goods.",
+	"translation-zh": "昌连献了酒、好物。",
         "translation-ja-natural": "昌連が、航海の無事を祈って、酒や結構な品物をお供えしてくれました。",
         "translation-en-natural": "Masatsura contributed sake and fine goods as an offering to pray for a safe voyage.",
+	"translation-zh-natural": "昌连献上了酒和精美的物品，作为祈愿航海平安的供品。",
         "notes-ja": {
           "奉納の解釈": "菊地の訳「（一行の長に）さしあげる」では、意味をなさない。おそらく船には奉納すべき神棚があったので、昌連がその神棚に酒や品物を奉納したと考えられる。",
           "遣唐使船の神棚と祭祀": "次のページは遣唐使船の例であるが、明らかに、船の舳先に神棚があることが書かれている。参考：海上安全の祭祀を司る神職（津守氏）は遣唐神主として遣唐使船に乗船し、船の舳先に立てた「三神」の護符の前で航海中ずっと神事を行うのである。",
@@ -6531,8 +6535,10 @@
         "koutei-yamagen": "このかうやうの物持て来る人に、なほしもえあらでいさざげわざせさすものもなし。",
         "translation-ja": "このこのような物を持って来る人をそのままにしておけなくて、わずかな施しをさせる物もない。",
         "translation-en": "This this kind of thing bringing person cannot leave as is, small bestow let thing even not.",
+	"translation-zh": "更不在这个带来这样的东西的人，请他实行少许神事的东西也没有。？",
         "translation-ja-natural": "このような物を持ってきてくれた人をそのままにしておくことができず、わずかなお返しをする物さえなかった。",
-        "translation-en-natural": "I couldn't just leave the person who brought such a gift without doing anything, and I didn't even have anything to offer as a small token."
+        "translation-en-natural": "I couldn't just leave the person who brought such a gift without doing anything, and I didn't even have anything to offer as a small token.",
+	"translation-zh-natural": "我不能就这样让带来这些东西的人空手而回，连一点小小的回礼都没有。"
       },
       {
         "date": "20250208",
@@ -6542,8 +6548,10 @@
         "koutei-yamagen": "にぎははしきやうなれど、まくる心地す。",
         "translation-ja": "賑やかなようであるが、負ける気持ちがする。",
         "translation-en": "Lively-like it is but, losing feeling does.",
+	"translation-zh": "虽似热闹，但感到沮丧。",
         "translation-ja-natural": "賑やかに見えるが、実のところ、うしろめたく、負い目を感じる。",
         "translation-en-natural": "It looks lively, but deep down, I feel guilty and troubled by a sense of indebtedness.",
+	"translation-zh-natural": "看似热闹，但内心却感到愧疚和负担。",
         "notes-ja": {
           "「まくる（負くる）心地す」の意味": "菊地の訳では『心はざわざわしている』とされているが、原文の『まくる（負くる）心地す』は実際には『うしろめたさ』と『負い目』を伴う心情を示している。文脈上、贈り物への返礼ができないことによる気まずさや負い目を表しており、単なる不安感ではなく、もらってばかりでお返しができないことへのうしろめたさと心苦しさを意味する。"
         }
