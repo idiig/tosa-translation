@@ -3772,26 +3772,240 @@
         "translation-en-natural": "While they were still speaking, at a place called Kago no Saki, the governor's brothers and some others came after them with sake and such, sat down on the shore, and spoke of how hard it was to part."
       },
       {
-        "date": "20241207",
+        "date": [
+          20241207,
+          20250803
+        ],
         "id": 38,
         "text": "守のたちの人々の中にこの來る人々ぞ心あるやうにはいはれほのめく。",
         "kana": "かみのたちのひとびとのなかにこのきたるひとびとぞこころあるやうにはいはれほのめく。",
         "koutei-yamagen": "守の館の人々の中に、この来る人々ぞ、心あるようにはいはれほのめく。",
-        "translation-ja": "国司の館の人々の中で、このやって来た人々こそ、心のあるように言われ、ほのかにそう感じられる。",
-        "translation-en": "Among the people of the governor's residence, these visitors are the ones who are said to have sincerity, and it slightly seems that way.",
-        "translation-ja-natural": "国司の館にいる人々の中で、このやって来た人たちは、誠実な心を持っているようだと話され、どことなくそんな雰囲気も感じられる。",
-        "translation-en-natural": "Among the people at the governor's residence, these visitors are spoken of as sincere, and they do seem to give off that impression."
+        "translation-ja": "国司たちの人々の中に、この来る人々こそ、心あるように言われ、ほのめく。",
+        "translation-en": "Among the governor's people, these coming people are the very ones who are said to be sincere, and it faintly appears so.",
+        "phrase-gloss": [
+          {
+            "phrase": "守のたちの人々の中に",
+            "gloss": "among the people of the governor's group",
+            "words": [
+              {
+                "word": "守",
+                "gloss": "governor"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "たち",
+                "gloss": "PL"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "人々",
+                "gloss": "people"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "中",
+                "gloss": "inside"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "この來る人々ぞ",
+            "gloss": "these people who come indeed",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "來る",
+                "gloss": "come.ATTR"
+              },
+              {
+                "word": "人々",
+                "gloss": "people"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "FOC"
+              }
+            ]
+          },
+          {
+            "phrase": "心あるやうには",
+            "gloss": "as if (they) had sincerity",
+            "words": [
+              {
+                "word": "心",
+                "gloss": "heart"
+              },
+              {
+                "word": "ある",
+                "gloss": "have.ATTR"
+              },
+              {
+                "word": "やう",
+                "gloss": "manner"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "いはれほのめく",
+            "gloss": "(they) are said and faintly appear so",
+            "words": [
+              {
+                "word": "いはれ",
+                "gloss": "say.PASS.ADV"
+              },
+              {
+                "word": "ほのめく",
+                "gloss": "faintly.appear"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "国司の人々の中で、この来た人たちこそ、心あるように言われていて、そんなふうにも見える。",
+        "translation-en-natural": "Among the people serving the governor, these visitors are the ones considered to have sincerity, and it seems faintly so."
       },
       {
-        "date": "20241209",
+        "date": [
+          20241209,
+          20250803
+        ],
         "id": 39,
         "text": "かく別れ難くいひて、かの人々の口網ももろもちにてこの海邊にて荷ひいだせる歌、",
         "kana": "かくわかれがたくいひて、かのひとびとくちあみもろもちにてこのうみべにてになひいだせるうた、",
         "koutei-yamagen": "かく別れ難く言ひて、かの人々の口網ももろもちにて、この海辺にて荷ひ出だせる歌、",
-        "translation-ja": "このように別れがたいと言い、あの人々が口網をみんなで持って、この海辺で担ぎ出した歌。",
-        "translation-en": "Saying that parting was so hard, those people, with their fishing nets jointly held, brought forth a poem at this seaside.",
-        "translation-ja-natural": "こうして別れがたい気持ちを語りながら、あの人たちは、まるで漁師が口網を一緒に担ぎ出すように、この海辺で歌を作り上げました。",
-        "translation-en-natural": "Expressing their reluctance to part, those people, as if carrying a fishing net together, composed a poem by the seaside."
+        "translation-ja": "このように別れがたいと言って、あの人々が口網をみんなで持って、この海辺で担ぎ出した歌、",
+        "translation-en": "Saying that parting was hard, those people, carrying the fishing nets together, brought forth a poem at this seaside.",
+        "phrase-gloss": [
+          {
+            "phrase": "かく別れ難くいひて",
+            "gloss": "saying that parting is hard like this",
+            "words": [
+              {
+                "word": "かく",
+                "gloss": "like.this"
+              },
+              {
+                "word": "別れ",
+                "gloss": "parting.ADV"
+              },
+              {
+                "word": "難く",
+                "gloss": "hard.ADV"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "かの人々の口網ももろもちにて",
+            "gloss": "with those people carrying the fishing net together",
+            "words": [
+              {
+                "word": "かの",
+                "gloss": "that.DEM"
+              },
+              {
+                "word": "人々",
+                "gloss": "people"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "口網",
+                "gloss": "mouth.net"
+              },
+              {
+                "word": "も",
+                "gloss": "ADD"
+              },
+              {
+                "word": "もろもち",
+                "gloss": "together.hold"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "この海邊にて荷ひいだせる歌",
+            "gloss": "the poem carried out at this seaside",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this.DEM"
+              },
+              {
+                "word": "海邊",
+                "gloss": "seaside"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "荷ひ",
+                "gloss": "carry.ADV"
+              },
+              {
+                "word": "いだせ",
+                "gloss": "bring.out.ADV"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "こうして別れがたいと言いながら、あの人たちは口網を皆で担いで、この浜辺で歌を詠んだのだった。",
+        "translation-en-natural": "As they said it was hard to part, the people carried their fishing net together and composed a poem by the seaside."
       },
       {
         "date": [
