@@ -2216,11 +2216,11 @@
             "words": [
               {
                 "word": "よめ",
-                "gloss": "compose"
+                "gloss": "compose.REALIS"
               },
               {
                 "word": "り",
-                "gloss": "EVID"
+                "gloss": "PERF.ADV"
               },
               {
                 "word": "ける",
@@ -4123,13 +4123,101 @@
         "translation-en-natural": "I wonder if anyone who cares for me would have stayed behind. Like the wild ducks flocking together, I too have come all the way here."
       },
       {
-        "date": "20241231",
+        "date": [
+          20241231,
+          20250803
+        ],
         "id": 41,
         "text": "といひてありければ、いといたく愛でゝ行く人のよめりける、",
         "kana": "といひてありければ、いといたくめでてゆくひとのよめりける、",
         "koutei-yamagen": "と言ひてありければ、いといたく愛でゝ行く人の詠めりける、",
-        "translation-ja": "と言っていたので、とても褒めつつ、去り行く人が詠んだのは、",
-        "translation-en": "Since it was being said, the person who praised it greatly and was leaving composed it.",
+        "translation-ja": "と言ってあったので、たいそうほめて、去っていく人が詠んだのだった。",
+        "translation-en": "Since it had been said, the person who praised it greatly and was leaving composed it.",
+        "phrase-gloss": [
+          {
+            "phrase": "といひてありければ",
+            "gloss": "since it had been said",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "いといたく愛でて",
+            "gloss": "praised it greatly",
+            "words": [
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "いたく",
+                "gloss": "intensely.ADV"
+              },
+              {
+                "word": "愛で",
+                "gloss": "praise.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "行く人のよめりける",
+            "gloss": "the person leaving composed it",
+            "words": [
+              {
+                "word": "行く",
+                "gloss": "go.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "よめ",
+                "gloss": "compose.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "そう言っていたので、大いに褒めながら立ち去る人が詠んだのは、",
         "translation-en-natural": "Because it was said, the person, praising it greatly, composed a poem as they left."
       },
@@ -20753,7 +20841,7 @@
             "words": [
               {
                 "word": "よめ",
-                "gloss": "compose.REALIS.F"
+                "gloss": "compose.REALIS"
               },
               {
                 "word": "り",
