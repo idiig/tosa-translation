@@ -5992,8 +5992,10 @@
         "koutei-yamagen": "三日、同じところなり。",
         "translation-ja": "三日、同じ所にいる。",
         "translation-en": "On the third, we are in the same place.",
+	"translation-zh": "三日，为同处。",
         "translation-ja-natural": "三日、まだ同じ場所にいます。",
-        "translation-en-natural": "On the third, we are still in the same place."
+        "translation-en-natural": "On the third, we are still in the same place.",
+	"translation-zh-natural": "第三天，国守一行在同一处。"
       },
       {
         "date": "20250204",
@@ -6003,8 +6005,10 @@
         "koutei-yamagen": "もし風浪のしばしと惜しむ心やあらむ。心もとなし。",
         "translation-ja": "風浪を少しの間惜しむ心があるのだろうか。不安でならない。",
         "translation-en": "Is there a heart that feels reluctant to part with the brief calm amid the wind and waves? I feel uneasy.",
+	"translation-zh": "有没有珍惜风浪的片刻的心吗。不安。",
         "translation-ja-natural": "この風と波を、少しでも惜しむ心があるのだろうか。不安で落ち着かない。",
-        "translation-en-natural": "I wonder if there's anyone who still feels attached to the brief calm amid these winds and waves. It makes me feel uneasy."
+        "translation-en-natural": "I wonder if there's anyone who still feels attached to the brief calm amid these winds and waves. It makes me feel uneasy.",
+	"translation-zh-natural": "不知是否有人会对这短暂的风浪感到留恋？这让我感到不安。"
       },
       {
         "date": "20250205",
