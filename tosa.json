@@ -6564,8 +6564,10 @@
         "koutei-yamagen": "五日、風浪やまねば、猶、同じ所にあり。",
         "translation-ja": "五日、風浪がやまないので、なお同じ所にいる。",
         "translation-en": "On the fifth, because the wind and waves have not subsided, we are still in the same place.",
+	"translation-zh": "五日，风浪未息，仍在同处。",
         "translation-ja-natural": "五日、風も波もおさまらず、まだ同じ場所にとどまっています。",
-        "translation-en-natural": "On the fifth, with the wind and waves still raging, we’re stuck in the same place."
+        "translation-en-natural": "On the fifth, with the wind and waves still raging, we’re stuck in the same place.",
+	"translation-zh-natural": "第五天，风浪未平，仍停泊在同一处。"
       },
       {
         "date": "20250210",
@@ -6575,8 +6577,10 @@
         "koutei-yamagen": "人々絶えずとぶらひにく。",
         "translation-ja": "人々が絶えず訪れてくる。",
         "translation-en": "People, without ceasing, visit and come.",
+	"translation-zh": "人们不断地来拜访。",
         "translation-ja-natural": "人々がひっきりなしに訪ねてくる。",
-        "translation-en-natural": "People keep coming to visit without a break."
+        "translation-en-natural": "People keep coming to visit without a break.",
+	"translation-zh-natural": "人们络绎不绝地来拜访。"
       },
       {
         "date": "20250211",
