@@ -4222,15 +4222,115 @@
         "translation-en-natural": "Because it was said, the person, praising it greatly, composed a poem as they left."
       },
       {
-        "date": "20250105",
+        "date": [
+          20250105,
+          20250804
+        ],
         "id": 42,
         "poem": "棹させど/底ひも知らぬ/わたつみの/ふかきこゝろを/君に見るかな",
         "kana": "さをさせど/そこひもしらぬ/わたつみの/ふかきこころを/きみにみるかな",
         "koutei-yamagen": "棹させど/底ひも知らぬ/わたつみの/深き心を/君に見るかな",
         "translation-ja": "棹さしても底もわからぬ深い心をあなたに見たのです。",
-        "translation-en": "Even as I push the pole, I see in you a deep heart whose bottom cannot be known.",
-        "translation-ja-natural": "棹をさしても底が見えないほど深い心を、あなたの中に見つけました。",
-        "translation-en-natural": "Even as I push the pole, I find in you a heart so deep its bottom cannot be reached."
+        "translation-en": "Though I push the pole, I see in you the deep heart of the sea whose bottom is unknown.",
+        "phrase-gloss": [
+          {
+            "phrase": "棹させど",
+            "gloss": "though (I) push the pole",
+            "words": [
+              {
+                "word": "棹",
+                "gloss": "pole"
+              },
+              {
+                "word": "させ",
+                "gloss": "push.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "ALTHOUGH"
+              }
+            ]
+          },
+          {
+            "phrase": "底ひも知らぬ",
+            "gloss": "not even the bottom is known",
+            "words": [
+              {
+                "word": "底ひ",
+                "gloss": "bottom"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "知ら",
+                "gloss": "know.IRR"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG.ATTR"
+              }
+            ]
+          },
+          {
+            "phrase": "わたつみの",
+            "gloss": "of the sea",
+            "words": [
+              {
+                "word": "わたつみ",
+                "gloss": "sea"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "ふかきこゝろを",
+            "gloss": "deep heart.ACC",
+            "words": [
+              {
+                "word": "ふかき",
+                "gloss": "deep.ATTR"
+              },
+              {
+                "word": "こゝろ",
+                "gloss": "heart"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              }
+            ]
+          },
+          {
+            "phrase": "君に見るかな",
+            "gloss": "see it in you, how I do",
+            "words": [
+              {
+                "word": "君",
+                "gloss": "you"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "見る",
+                "gloss": "see"
+              },
+              {
+                "word": "かな",
+                "gloss": "EXCL"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "棹をさしてもなお、底すら知れない海のような、あなたの深い心を見たのです。",
+        "translation-en-natural": "Even though I try to probe, I see in you a deep heart like the sea, whose bottom I cannot know."
       },
       {
         "date": "20250108",
