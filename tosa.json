@@ -4338,10 +4338,213 @@
         "text": "といふ間に楫取ものゝ哀も知らでおのれし酒をくらひつれば、早くいなむとて「潮滿ちぬ。風も吹きぬべし」とさわげば船に乘りなむとす。",
         "kana": "といふまにかぢとりもののあはれもしらでおのれさけをくらひつれば、はやくいなむとて「しほみちぬ。かぜもふきぬべし」とさわげば、ふねにのりなむとす。",
         "koutei-yamagen": "と言ふ間に、楫取ものの哀も知らで、己れし酒をくらひつれば、早くいなむとて「潮満ちぬ。風も吹きぬべし」とさわげば、船に乗りなむとす。",
-        "translation-ja": "と言っている間に、楫取は物の哀れも知らず、自分の酒を飲んでいたので、早く行こうとして、「潮が満ちた。風も吹きそうだ」と騒ぐので、船に乗ろうとする。",
-        "translation-en": "While they were saying this, the kajitori, without knowing the pathos of things, drank their own sake. So, intending to leave quickly, they said, 'The tide has risen. The wind is likely to blow,' and, making a commotion, tried to board the boat.",
-        "translation-ja-natural": "そんな話をしている間に、楫取たちは物の哀れも感じることなく、自分たちの酒を飲んでいました。それから、早く出発しようと、「潮が満ちたぞ。風も吹きそうだ」と騒ぎ出し、船に乗り込もうとしました。",
-        "translation-en-natural": "As they talked, the crew, unaware of the sorrow of the moment, drank their sake. Eager to leave, they said, 'The tide is coming in. The wind is picking up,' and, causing a stir, tried to board the boat."
+        "translation-ja": "と言う間に、楫取は物の哀れも知らず、自分の酒を飲んでしまったので、早く行こうとして、「潮が満ちた。風もきっと吹くだろう」と騒ぐので、船に乗ろうとする。",
+        "translation-en": "While they spoke, the kajitori, without knowing the pathos of things, having drunk his own sake, intending to go quickly, shouted, \"The tide has risen. The wind will surely blow,\" so that they were about to board the boat.",
+        "phrase-gloss": [
+          {
+            "phrase": "といふ間に",
+            "gloss": "while saying",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say.ATTR"
+              },
+              {
+                "word": "間",
+                "gloss": "interval"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "楫取ものゝ哀も知らで",
+            "gloss": "kajitori without knowing the pathos",
+            "words": [
+              {
+                "word": "楫取",
+                "gloss": "helmsman"
+              },
+              {
+                "word": "ものゝ哀",
+                "gloss": "pathos"
+              },
+              {
+                "word": "も",
+                "gloss": "ADD"
+              },
+              {
+                "word": "知ら",
+                "gloss": "know.IRR"
+              },
+              {
+                "word": "で",
+                "gloss": "NEG.ADV"
+              }
+            ]
+          },
+          {
+            "phrase": "おのれし酒をくらひつれば",
+            "gloss": "having drunk his own sake",
+            "words": [
+              {
+                "word": "おのれ",
+                "gloss": "self"
+              },
+              {
+                "word": "し",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "酒",
+                "gloss": "sake"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "くらひ",
+                "gloss": "drink.ADV"
+              },
+              {
+                "word": "つれ",
+                "gloss": "PERF.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "早くいなむとて",
+            "gloss": "intending to go quickly",
+            "words": [
+              {
+                "word": "早く",
+                "gloss": "quickly"
+              },
+              {
+                "word": "いな",
+                "gloss": "go.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "VOL"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "潮滿ちぬ",
+            "gloss": "the tide has risen",
+            "words": [
+              {
+                "word": "潮",
+                "gloss": "tide"
+              },
+              {
+                "word": "滿ち",
+                "gloss": "rise.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          },
+          {
+            "phrase": "風も吹きぬべし",
+            "gloss": "the wind will surely blow",
+            "words": [
+              {
+                "word": "風",
+                "gloss": "wind"
+              },
+              {
+                "word": "も",
+                "gloss": "ADD"
+              },
+              {
+                "word": "吹き",
+                "gloss": "blow.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "べし",
+                "gloss": "CERT"
+              }
+            ]
+          },
+          {
+            "phrase": "とさわげば",
+            "gloss": "as they shout",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "さわげ",
+                "gloss": "shout.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "船に乘りなむとす",
+            "gloss": "are about to board the boat",
+            "words": [
+              {
+                "word": "船",
+                "gloss": "boat"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "乘り",
+                "gloss": "board.ADV"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "す",
+                "gloss": "do"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "そう言っている間に、楫取は物の哀れも知らず、自分の酒を飲み終えてしまったので、早く行こうとして、「潮が満ちた。風もきっと吹くだろう」と騒ぎ立てるので、船に乗ろうとする。",
+        "translation-en-natural": "While they were talking, the kajitori, unaware of the pathos of the moment, finished his own sake, and, wanting to leave quickly, shouted, 'The tide has risen. The wind will surely blow,' making a commotion as they prepared to board the boat."
       },
       {
         "date": "20250112",
