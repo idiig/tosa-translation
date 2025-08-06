@@ -4664,15 +4664,79 @@
         }
       },
       {
-        "date": "20250112",
+        "date": [
+          20250112,
+          20250806
+        ],
         "id": 45,
         "text": "又ある人西國なれど甲斐歌などいふ。",
         "kana": "またあるひとにしぐになれどかひうたなどいふ。",
         "koutei-yamagen": "また、ある人、西国なれど甲斐歌などいふ。",
-        "translation-ja": "また、ある人、西国であるが、甲斐の歌などという。",
-        "translation-en": "And a person, even if it is the western provinces, sings Kai songs.",
-        "translation-ja-natural": "また、ある人は、西国なのに、甲斐の歌などを歌っています。",
-        "translation-en-natural": "Meanwhile, someone was singing songs from Kai Province, even though we were in the western regions."
+        "translation-ja": "また、ある人が、西国であるけれども、甲斐の歌などを言う。",
+        "translation-en": "Also, a certain person, though from the western provinces, says Kai songs and the like.",
+        "phrase-gloss": [
+          {
+            "phrase": "またある人",
+            "gloss": "also a certain person",
+            "words": [
+              {
+                "word": "また",
+                "gloss": "also"
+              },
+              {
+                "word": "ある",
+                "gloss": "certain"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              }
+            ]
+          },
+          {
+            "phrase": "西國なれど",
+            "gloss": "though from the western provinces",
+            "words": [
+              {
+                "word": "西國",
+                "gloss": "western.provinces"
+              },
+              {
+                "word": "なれ",
+                "gloss": "COP.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "CONC"
+              }
+            ]
+          },
+          {
+            "phrase": "甲斐歌などいふ",
+            "gloss": "say Kai songs and the like",
+            "words": [
+              {
+                "word": "甲斐",
+                "gloss": "Kai.PN"
+              },
+              {
+                "word": "歌",
+                "gloss": "song"
+              },
+              {
+                "word": "など",
+                "gloss": "etc"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "また、ある人は西国の出であるが、甲斐の歌などを口にする。",
+        "translation-en-natural": "Another person, though from the western provinces, recited Kai songs and the like."
       },
       {
         "date": "20250115",
