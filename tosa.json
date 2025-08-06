@@ -4547,15 +4547,121 @@
         "translation-en-natural": "While they were talking, the kajitori, unaware of the pathos of the moment, finished his own sake, and, wanting to leave quickly, shouted, 'The tide has risen. The wind will surely blow,' making a commotion as they prepared to board the boat."
       },
       {
-        "date": "20250112",
+        "date": [
+          20250112,
+          20250806
+        ],
         "id": 44,
-        "text": "この折にある人々折節につけて、からうたども時に似つかはしき（をイ有）いふ。",
+        "text": "この折にある人々折節につけて、からうたども時に似つかはしきいふ。",
         "kana": "このおりにあるひとびとをりふしにつけてからうたどもときににつかはしきをいふ。",
         "koutei-yamagen": "この折に、ある人々、折節につけて、からうたども時に似つかはしきをいふ。",
-        "translation-ja": "この時に、ある人々が、折々に応じて、漢詩など、時にふさわしいものを言う。",
-        "translation-en": "At this time, certain people, in accordance with the occasion, recited Chinese poems that were suitable for the moment.",
-        "translation-ja-natural": "この時に、ある人々が、その時々に合わせて、漢詩など、その時にふさわしいものを詠みました。",
-        "translation-en-natural": "At this time, certain people recited Chinese poems that were appropriate for the occasion."
+        "translation-ja": "この時に、ある人々が、折節につけて、漢詩ども、時に似つかわしいことを言う。",
+        "translation-en": "At this time, certain people, on each occasion, said Chinese poems befitting the time.",
+        "phrase-gloss": [
+          {
+            "phrase": "この折に",
+            "gloss": "at this time",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "折",
+                "gloss": "occasion"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "ある人々",
+            "gloss": "certain people",
+            "words": [
+              {
+                "word": "ある",
+                "gloss": "certain"
+              },
+              {
+                "word": "人々",
+                "gloss": "people"
+              }
+            ]
+          },
+          {
+            "phrase": "折節につけて",
+            "gloss": "on each occasion",
+            "words": [
+              {
+                "word": "折節",
+                "gloss": "occasion"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "つけ",
+                "gloss": "attach.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "からうたども",
+            "gloss": "Chinese poems.PL",
+            "words": [
+              {
+                "word": "からうた",
+                "gloss": "Chinese.poem"
+              },
+              {
+                "word": "ども",
+                "gloss": "PL"
+              }
+            ]
+          },
+          {
+            "phrase": "時に似つかはしき",
+            "gloss": "befitting the time",
+            "words": [
+              {
+                "word": "時",
+                "gloss": "time"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "似つかはしき",
+                "gloss": "befitting.ATTR"
+              }
+            ]
+          },
+          {
+            "phrase": "いふ",
+            "gloss": "say",
+            "words": [
+              {
+                "word": "いふ",
+                "gloss": "say"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "このとき、ある人たちが、その場その場に応じて、時にふさわしい漢詩を口にした。",
+        "translation-en-natural": "At this time, certain people, taking each occasion, recited Chinese poems suitable for the moment.",
+        "notes-ja": {
+          "title": "オリジナルのテキスト",
+          "note": "この折にある人々折節につけて、からうたども時に似つかはしき（をイ有）いふ。"
+        }
       },
       {
         "date": "20250112",
