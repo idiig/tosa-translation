@@ -4739,25 +4739,167 @@
         "translation-en-natural": "Another person, though from the western provinces, recited Kai songs and the like."
       },
       {
-        "date": "20250115",
+        "date": [
+          20250115,
+          20250808
+        ],
         "id": 46,
         "text": "かくうたふに、ふなやかたの塵も散り、空ゆく雲もたゞよひぬとぞいふなる。",
         "kana": "かくうたふに、ふなやかたのちりもちり、そらゆくくももただよひぬとそいふなる。",
         "koutei-yamagen": "かくうたふに、ふなやかたの塵も散り、空ゆく雲もただよひぬとぞ言ふなる。",
-        "translation-ja": "このように歌うと、船屋の塵も散り、空を行く雲もただよったと言われる。",
-        "translation-en": "When sung in this way, the dust of the boatyard also scattered, and the clouds going in the sky also drifted, it is said.",
-        "translation-ja-natural": "このように歌うと、船屋の塵が舞い、空を流れる雲までも漂ったと言っているようです。",
-        "translation-en-natural": "When sung in this way, it is said that even the dust in the boatyard scattered, and the clouds drifting across the sky seemed to float aimlessly."
+        "translation-ja": "こう歌うと、船屋形の塵も散り、空行く雲もただよったと言うのだそうだ。",
+        "translation-en": "When they sang like this, even the dust of the houseboat scattered, and even the clouds going through the sky drifted, it is said.",
+        "phrase-gloss": [
+          {
+            "phrase": "かくうたふに",
+            "gloss": "when singing thus",
+            "words": [
+              {
+                "word": "かく",
+                "gloss": "thus"
+              },
+              {
+                "word": "うたふ",
+                "gloss": "sing.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "ふなやかたの塵も散り",
+            "gloss": "even the dust of the houseboat scattered",
+            "words": [
+              {
+                "word": "ふなやかた",
+                "gloss": "houseboat"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "塵",
+                "gloss": "dust"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "散り",
+                "gloss": "scatter.ADV"
+              }
+            ]
+          },
+          {
+            "phrase": "空ゆく雲もたゞよひぬ",
+            "gloss": "even the clouds going through the sky drifted",
+            "words": [
+              {
+                "word": "空",
+                "gloss": "sky"
+              },
+              {
+                "word": "ゆく",
+                "gloss": "go.ATTR"
+              },
+              {
+                "word": "雲",
+                "gloss": "cloud"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "たゞよひ",
+                "gloss": "drift.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          },
+          {
+            "phrase": "とぞいふなる",
+            "gloss": "it is said",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say.ATTR"
+              },
+              {
+                "word": "なる",
+                "gloss": "REP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "こうして歌うと、屋形船の塵も散り、空を行く雲も漂ったと言うのだそうだ。",
+        "translation-en-natural": "They say that when it was sung like this, even the dust on the houseboat scattered and the clouds in the sky drifted."
       },
       {
-        "date": "20250116",
+        "date": [
+          20250116,
+          20250809
+        ],
         "id": 47,
         "text": "今宵浦戸にとまる。",
         "kana": "こよひうらとにとまる。",
         "koutei-yamagen": "今宵、浦戸に泊まる。",
         "translation-ja": "今宵、浦戸に泊まる。",
         "translation-en": "Tonight, we stay at Urado.",
-        "translation-ja-natural": "今夜は、浦戸に泊まります。",
+        "phrase-gloss": [
+          {
+            "phrase": "今宵",
+            "gloss": "tonight",
+            "words": [
+              {
+                "word": "今宵",
+                "gloss": "tonight"
+              }
+            ]
+          },
+          {
+            "phrase": "浦戸に",
+            "gloss": "at Urado",
+            "words": [
+              {
+                "word": "浦戸",
+                "gloss": "Urado.PN"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "とまる",
+            "gloss": "stay",
+            "words": [
+              {
+                "word": "とまる",
+                "gloss": "stay"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "今夜は、浦戸に泊まる。",
         "translation-en-natural": "Tonight, we will stay at Urado."
       },
       {
