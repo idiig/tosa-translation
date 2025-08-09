@@ -4903,14 +4903,88 @@
         "translation-en-natural": "Tonight, we will stay at Urado."
       },
       {
-        "date": "20250117",
+        "date": [
+          20250117,
+          20250810
+        ],
         "id": 48,
         "text": "藤原のとき實、橘の季衡、こと人々追ひきたり。",
-        "kana": "ふじわらのときざね、たちばなのときひら、ことひとびとおひきたり。",
+        "kana": "ふじわらのときざね、たちばなのすゑひら、ことひとびとおひきたり。",
         "koutei-yamagen": "藤原の時実、橘の季衡、こと人々追ひ来たり。",
         "translation-ja": "藤原の時実、橘の季衡、その他の人々が追いかけてきた。",
         "translation-en": "Fujiwara no Tokizane, Tachibana no Suehira, and others followed.",
-        "translation-ja-natural": "藤原の時実、橘の季衡、その他の人々が追いかけてきました。",
+        "phrase-gloss": [
+          {
+            "phrase": "藤原のとき實",
+            "gloss": "Fujiwara no Tokizane",
+            "words": [
+              {
+                "word": "藤原",
+                "gloss": "Fujiwara.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "とき實",
+                "gloss": "Tokizane.PN"
+              }
+            ]
+          },
+          {
+            "phrase": "橘の季衡",
+            "gloss": "Tachibana no Suehira",
+            "words": [
+              {
+                "word": "橘",
+                "gloss": "Tachibana.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "季衡",
+                "gloss": "Suehira.PN"
+              }
+            ]
+          },
+          {
+            "phrase": "こと人々",
+            "gloss": "other people",
+            "words": [
+              {
+                "word": "こと",
+                "gloss": "other"
+              },
+              {
+                "word": "人々",
+                "gloss": "people"
+              }
+            ]
+          },
+          {
+            "phrase": "追ひきたり",
+            "gloss": "followed",
+            "words": [
+              {
+                "word": "追ひ",
+                "gloss": "follow.ADV"
+              },
+              {
+                "word": "き",
+                "gloss": "come.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "藤原の時実、橘の季衡、その他の人々が追いかけてきた。",
         "translation-en-natural": "Fujiwara no Tokizane, Tachibana no Suehira, and others followed."
       },
       {
