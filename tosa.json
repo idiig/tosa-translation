@@ -4988,15 +4988,85 @@
         "translation-en-natural": "Fujiwara no Tokizane, Tachibana no Suehira, and others followed."
       },
       {
-        "date": "20250118",
+        "date": [
+          20250118,
+          20250810
+        ],
         "id": 49,
         "text": "廿八日、浦戸より漕ぎ出でゝ大湊をおふ。",
         "kana": "にぢふやうか、うらとよりこぎいでておほみなとをおふ。",
         "koutei-yamagen": "二十八日、浦戸より漕ぎ出でて、大湊を追ふ。",
-        "translation-ja": "二十八日、浦戸を出て、大湊に向かう。",
-        "translation-en": "On the twenty-eighth day, we set out from Urado and headed for Ominato.",
-        "translation-ja-natural": "二十八日、浦戸を出発し、大湊に向かいました。",
-        "translation-en-natural": "On the twenty-eighth day, we departed from Urado and made our way to Ominato."
+        "translation-ja": "二十八日、浦戸より漕ぎ出でて、大湊を追う。",
+        "translation-en": "On the twenty-eighth day, we rowed out from Urado and pursued Ominato.",
+        "phrase-gloss": [
+          {
+            "phrase": "廿八日",
+            "gloss": "twenty-eighth day",
+            "words": [
+              {
+                "word": "廿八",
+                "gloss": "twenty-eight"
+              },
+              {
+                "word": "日",
+                "gloss": "day"
+              }
+            ]
+          },
+          {
+            "phrase": "浦戸より",
+            "gloss": "from Urado",
+            "words": [
+              {
+                "word": "浦戸",
+                "gloss": "Urado.PN"
+              },
+              {
+                "word": "より",
+                "gloss": "ABL"
+              }
+            ]
+          },
+          {
+            "phrase": "漕ぎ出でて",
+            "gloss": "rowed out",
+            "words": [
+              {
+                "word": "漕ぎ",
+                "gloss": "row.ADV"
+              },
+              {
+                "word": "出で",
+                "gloss": "go_out.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "大湊を追う",
+            "gloss": "pursued Ominato",
+            "words": [
+              {
+                "word": "大湊",
+                "gloss": "Ominato.PN"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "追う",
+                "gloss": "pursue"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "二十八日、浦戸から漕ぎ出して、大湊へ向かった。",
+        "translation-en-natural": "On the twenty-eighth day, we rowed out from Urado and headed toward Ominato."
       },
       {
         "date": "20250119",
