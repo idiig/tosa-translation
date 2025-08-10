@@ -5069,14 +5069,154 @@
         "translation-en-natural": "On the twenty-eighth day, we rowed out from Urado and headed toward Ominato."
       },
       {
-        "date": "20250119",
+        "date": [
+          20250119,
+          20250811
+        ],
         "id": 50,
         "text": "この間にはやくの國の守の子山口の千岑、酒よき物どももてきて船に入れたり。",
         "kana": "このあいだにはやくのくにのかみのこやまぐちのちみね、さけよきものどももてきてふねにいれたり。",
         "koutei-yamagen": "この間に、早くの国の守の子、山口の千岑、酒、よき物ども持て来て、船に入れたり。",
         "translation-ja": "この間に、以前の国の守の子、山口の千岑、酒、よい物を持ってきて、船に入れた。",
         "translation-en": "During this time, the son of the former governor of this country, Chisato Yamaguchi, brought sake and good things and put them on the boat.",
-        "translation-ja-natural": "この間に、先のこの国の国司の子、山口の千岑が、酒やけっこな品々を持ってきて、船に差し入れをしました。",
+        "phrase-gloss": [
+          {
+            "phrase": "この間に",
+            "gloss": "during this time",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "間",
+                "gloss": "interval"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "はやくの國の守の子",
+            "gloss": "son of the former governor of this country",
+            "words": [
+              {
+                "word": "はやく",
+                "gloss": "formerly"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "國",
+                "gloss": "country"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "守",
+                "gloss": "governor"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "子",
+                "gloss": "child"
+              }
+            ]
+          },
+          {
+            "phrase": "山口の千岑",
+            "gloss": "Chisato Yamaguchi",
+            "words": [
+              {
+                "word": "山口",
+                "gloss": "Yamaguchi.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "千岑",
+                "gloss": "Chisato.PN"
+              }
+            ]
+          },
+          {
+            "phrase": "酒、よき物どももてきて",
+            "gloss": "brought sake and good things",
+            "words": [
+              {
+                "word": "酒",
+                "gloss": "sake"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "よき",
+                "gloss": "good.ATTR"
+              },
+              {
+                "word": "物",
+                "gloss": "thing"
+              },
+              {
+                "word": "ども",
+                "gloss": "PL"
+              },
+              {
+                "word": "も",
+                "gloss": "bring.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "き",
+                "gloss": "come.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "船に入れたり",
+            "gloss": "put them on the boat",
+            "words": [
+              {
+                "word": "船",
+                "gloss": "boat"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "入れ",
+                "gloss": "put.in.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "この間に、先のこの国の国司の子、山口の千岑が、酒やけっこな品々を持ってきて、船に差し入れをした。",
         "translation-en-natural": "During this time, the son of the former governor of this country, Chisato Yamaguchi, brought sake and other good things and put them on the boat."
       },
       {
