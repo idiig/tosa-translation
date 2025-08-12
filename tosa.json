@@ -5220,26 +5220,108 @@
         "translation-en-natural": "During this time, the son of the former governor of this country, Chisato Yamaguchi, brought sake and other good things and put them on the boat."
       },
       {
-        "date": "20250119",
+        "date": [
+          20250119,
+          20250812
+        ],
         "id": 51,
         "text": "ゆくゆく飮みくふ。",
         "kana": "ゆくゆくのみくふ。",
         "koutei-yamagen": "ゆくゆく飲み食ふ。",
         "translation-ja": "ゆくゆく飲み食う。",
         "translation-en": "We will eat and drink as we go.",
-        "translation-ja-natural": "航行しながら、飲み食いをしていきました。",
-        "translation-en-natural": "We ate and drank as we sailed."
+        "phrase-gloss": [
+          {
+            "phrase": "ゆくゆく",
+            "gloss": "as we go, along the way",
+            "words": [
+              {
+                "word": "ゆく",
+                "gloss": "go"
+              },
+              {
+                "word": "ゆく",
+                "gloss": "go"
+              }
+            ]
+          },
+          {
+            "phrase": "飮みくふ",
+            "gloss": "eat and drink",
+            "words": [
+              {
+                "word": "飮み",
+                "gloss": "drink.ADV"
+              },
+              {
+                "word": "くふ",
+                "gloss": "eat"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "道中で飲んだり食べたりする。",
+        "translation-en-natural": "We will eat and drink along the way."
       },
       {
-        "date": "20250120",
+        "date": [
+          20250120,
+          20250812
+        ],
         "id": 52,
         "text": "廿九日、大湊にとまれり。",
         "kana": "にぢふくにち、おほみなとにとまれり。",
         "koutei-yamagen": "二十九日、大湊に泊まれり。",
         "translation-ja": "二十九日。大湊に泊っている。",
         "translation-en": "On the twenty-ninth day, we stayed at Ominato.",
-        "translation-ja-natural": "二十九日、大湊に泊まっています。",
-        "translation-en-natural": "On the twenty-ninth day, we stayed at Ominato."
+        "phrase-gloss": [
+          {
+            "phrase": "廿九日",
+            "gloss": "twenty-ninth day",
+            "words": [
+              {
+                "word": "廿九",
+                "gloss": "twenty-nine"
+              },
+              {
+                "word": "日",
+                "gloss": "day"
+              }
+            ]
+          },
+          {
+            "phrase": "大湊に",
+            "gloss": "at Ominato",
+            "words": [
+              {
+                "word": "大湊",
+                "gloss": "Ominato.PN"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "とまれり",
+            "gloss": "stayed (and the state continues)",
+            "words": [
+              {
+                "word": "とまれ",
+                "gloss": "stay.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "二十九日、大湊に泊まっている。",
+        "translation-en-natural": "On the twenty-ninth day, we are staying at Ominato."
       },
       {
         "date": "20250120",
