@@ -5536,14 +5536,64 @@
         "translation-en-natural": "It seems like there is genuine sincerity."
       },
       {
-        "date": "20250124",
+        "date": [
+          20250124,
+          20250815
+        ],
         "id": 55,
         "text": "元日、なほ同じとまりなり。",
         "kana": "がんたん、なほおなじとまりなり。",
         "koutei-yamagen": "元日、なほ同じ泊まりなり。",
         "translation-ja": "元日、まだ同じ停泊地にいる。",
         "translation-en": "On New Year's Day, we are still staying in the same place.",
-        "translation-ja-natural": "元日も、まだ同じ場所に停泊しています。",
+        "phrase-gloss": [
+          {
+            "phrase": "元日、",
+            "gloss": "On New Year's Day,",
+            "words": [
+              {
+                "word": "元日",
+                "gloss": "New Year's Day"
+              }
+            ]
+          },
+          {
+            "phrase": "なほ",
+            "gloss": "still",
+            "words": [
+              {
+                "word": "なほ",
+                "gloss": "still"
+              }
+            ]
+          },
+          {
+            "phrase": "同じとまり",
+            "gloss": "the same anchorage",
+            "words": [
+              {
+                "word": "同じ",
+                "gloss": "same"
+              },
+              {
+                "word": "とまり",
+                "gloss": "anchorage; place of stay"
+              }
+            ]
+          },
+          {
+            "phrase": "なり。",
+            "gloss": "COP",
+            "words": [
+              {
+                "word": "なり",
+                "gloss": "COP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "元日も、まだ同じ場所に停泊している。",
         "translation-en-natural": "On New Year's Day, we are still staying in the same place."
       },
       {
