@@ -5324,24 +5324,214 @@
         "translation-en-natural": "On the twenty-ninth day, we are staying at Ominato."
       },
       {
-        "date": "20250120",
+        "date": [
+          20250120,
+          20250812
+        ],
         "id": 53,
         "text": "くす師ふりはへて屠蘇白散酒加へてもて來たり。",
         "kana": "くすしふりはへてとうそびやくさんしゆくわへてもてきたり。",
         "koutei-yamagen": "くす師ふりはへて、屠蘇白散酒加へて持て来たり。",
-        "translation-ja": "薬師が、念を入れて屠蘇や白散に酒を加えて持ってきた。",
-        "translation-en": "The apothecary, taking special care, brought toso and hakusan, adding sake.",
-        "translation-ja-natural": "薬師が気を利かせて、屠蘇や白散に酒を混ぜて持ってきました。",
-        "translation-en-natural": "The apothecary thoughtfully prepared tosō and hakusan, mixing them with sake, and brought it over."
+        "translation-ja": "薬師が、念を入れて、屠蘇、白散、酒を加えて、持って来た。",
+        "translation-en": "The apothecary, taking special care, brought toso, hakusan, and sake.",
+        "phrase-gloss": [
+          {
+            "phrase": "くす師",
+            "gloss": "apothecary",
+            "words": [
+              {
+                "word": "くす",
+                "gloss": "medicine"
+              },
+              {
+                "word": "師",
+                "gloss": "master, professional"
+              }
+            ]
+          },
+          {
+            "phrase": "ふりはへて",
+            "gloss": "taking special care",
+            "words": [
+              {
+                "word": "ふり",
+                "gloss": "shake.ADV"
+              },
+              {
+                "word": "はへ",
+                "gloss": "crawl.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "屠蘇白散",
+            "gloss": "toso, byakusan",
+            "words": [
+              {
+                "word": "屠蘇",
+                "gloss": "toso"
+              },
+              {
+                "word": "白散",
+                "gloss": "byakusan"
+              }
+            ]
+          },
+          {
+            "phrase": "酒加へて",
+            "gloss": "sake adding",
+            "words": [
+              {
+                "word": "酒",
+                "gloss": "sake"
+              },
+              {
+                "word": "加へ",
+                "gloss": "add.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "もて來たり",
+            "gloss": "brought",
+            "words": [
+              {
+                "word": "も",
+                "gloss": "take.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "來",
+                "gloss": "come.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "薬師が気を利かせて、屠蘇や白散に酒を加えて持ってきた。",
+        "translation-en-natural": "The apothecary thoughtfully prepared toso and byakusan, adding sake to them , and brought them over.",
+        "notes-ja": [
+          {
+            "title": "屠蘇",
+            "note": "正月に飲む薬酒。数種類の薬草を酒やみりんに浸けて作る。邪気払いと健康長寿の意味を持つ。"
+          },
+          {
+            "title": "白散",
+            "note": "白色の粉末薬。胃腸薬や解熱薬として用いられた。「白散」は薬方名でもある。"
+          },
+          {
+            "title": "酒加へて",
+            "note": "屠蘇は通常酒を含むが、ここではさらに酒を加えることを明示している。常識に対するあえての追加であり、薬師の念入りさやもてなしの心を強調する文学的表現。"
+          },
+          {
+            "title": "屠蘇白散酒加へての意味",
+            "note": "貫之が「屠蘇白散酒加へて」とわざわざ書いた背景には、次のような層があると考えられる。屠蘇は本来、薬草を酒やみりんに浸けた薬酒だから、酒分を含んでいるのは常識。それにもかかわらず、さらに「酒加へて」と書くのは、通常の屠蘇よりも強く、あるいは特別な配合を意図したことを暗示するかも。"
+          },
+          {
+            "title": "列挙の中での結びつきの強調",
+            "note": "「屠蘇」「白散」という二つの薬物が並んで出てくるが、そこに「酒」という第三の要素が加わることで、薬効と嗜好の境界を行き来する飲み物になる。その結果、薬師の行為は治療ともてなしの両義的なものとして描かれ、「ふりはへて」の語句の意味が効いてくる。"
+          },
+          {
+            "title": "行為の強調と人物像の表現",
+            "note": "「酒加へて」は、薬師が単に処方通りに作るだけでなく、「ふりはへて」（念入りに、あるいは手を加えて）行っている様子と響き合う。読者には「気を利かせた」「余計にサービスした」というニュアンスが伝わる。"
+          },
+          {
+            "title": "文学的効果としての'過剰'",
+            "note": "常識的に酒を含む屠蘇にさらに酒を加える行為は、「過剰」「念入り」「こだわり」といった情景を浮かび上がらせる。これは、旅の疲れや正月の晴れがましさ、あるいは医者の人柄などを一瞬で描くための文学的な技巧かもしれないが、もう一つとしては、薬師もまた薬に見せかけ、酒を飲みにやってきた、むしろ、そちらの目的の方が主であることを貫之は匂わせているとも考えられる。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Toso",
+            "note": "A traditional New Year's spiced sake made by infusing medicinal herbs in sake or mirin, believed to drive away evil spirits and promote health and longevity."
+          },
+          {
+            "title": "Byakusan",
+            "note": "A white powdered herbal medicine, used historically as a stomachic or antipyretic. The term 'Byakusan' is also the name of a specific medicinal formula."
+          },
+          {
+            "title": "Sake added",
+            "note": "Toso customarily contains sake, but here the text explicitly states that additional sake was added. This deliberate emphasis highlights the apothecary's thoroughness and sense of hospitality."
+          },
+          {
+            "title": "Meaning of 'Toso Byakusan Sake added'",
+            "note": "The phrase 'Toso Byakusan Sake added' suggests a layer of meaning: while Toso is traditionally a medicinal spiced sake, the addition of more sake implies a stronger or special formulation. This could indicate the apothecary's intent to create a more potent or unique concoction."
+          },
+          {
+            "title": "Emphasis on Connection in Enumeration",
+            "note": "The juxtaposition of 'Toso' and 'Byakusan' creates a medicinal and palatable drink by adding 'sake' as a third element. This results in a portrayal of the apothecary's actions as both therapeutic and hospitable, enhancing the meaning of 'furihaete' (taking special care)."
+          },
+          {
+            "title": "Emphasis on Action and Character Expression",
+            "note": "'Sake added' resonates with 'furihaete' (taking special care), suggesting that the apothecary is not merely following a prescription but is also attentive and meticulous. This conveys a nuance of 'thoughtfulness' or 'extra service' to the reader."
+          },
+          {
+            "title": "Literary Effect of 'Excess'",
+            "note": "The act of adding more sake to Toso, which is already understood to contain sake, evokes images of 'excess,' 'thoroughness,' and 'attention to detail.' This literary technique may quickly depict the weariness of travel, the festive spirit of New Year's, or the apothecary's character. Alternatively, it could suggest that the apothecary is also there to drink, hinting that the primary purpose of his visit might be more social than medicinal."
+          }
+        ]
       },
       {
-        "date": "20250120",
+        "date": [
+          20250120,
+          20250814
+        ],
         "id": 54,
         "text": "志あるに似たり。",
         "kana": "こころざしあるににたり。",
         "koutei-yamagen": "志あるに似たり。",
         "translation-ja": "志があるように見える。",
         "translation-en": "It seems that there is sincerity.",
+        "phrase-gloss": [
+          {
+            "phrase": "志あるに",
+            "gloss": "sincerity exist",
+            "words": [
+              {
+                "word": "志",
+                "gloss": "sincerity"
+              },
+              {
+                "word": "ある",
+                "gloss": "exist.ATTR"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          },
+          {
+            "phrase": "似たり",
+            "gloss": "seem like",
+            "words": [
+              {
+                "word": "似",
+                "gloss": "seem.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "誠意があるように思える。",
         "translation-en-natural": "It seems like there is genuine sincerity."
       },
