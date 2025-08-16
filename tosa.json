@@ -5597,15 +5597,187 @@
         "translation-en-natural": "On New Year's Day, we are still staying in the same place."
       },
       {
-        "date": "20250125",
+        "date": [
+          20250125,
+          20250816
+        ],
         "id": 56,
         "text": "白散をあるもの夜のまとてふなやかたにさしはさめりければ、風に吹きならさせて海に入れてえ飮まずなりぬ。",
         "kana": "はくさんをあるものよのまとてふなやかたにさしはさめりければ、かぜにふきならさせてうみにいれてえのまずなりぬ。",
         "koutei-yamagen": "白散をある者、夜の間とて船屋形に差し挟めりければ、風に吹きならさせて海に入れてえ飲まずなりぬ。",
         "translation-ja": "白散を持っている人が、夜の間に船の屋形に差し挟んでいたところ、風に吹き鳴らされて海に入ってしまい、飲むことができなくなった。",
         "translation-en": "A person who had byakusan, having wedged it into the boathouse overnight, had it blown noisily by the wind into the sea and was unable to drink it.",
-        "translation-ja-natural": "白散を持っていた人が、夜の間に船の屋形に置いておいたら、風に吹かれて海に落ちてしまい、飲めなくなりました。",
-        "translation-en-natural": "Someone who had byakusan left it overnight in the boathouse, but the wind blew it into the sea, so they couldn’t drink it."
+        "phrase-gloss": [
+          {
+            "phrase": "白散をあるもの",
+            "gloss": "a person who had byakusan",
+            "words": [
+              {
+                "word": "白散",
+                "gloss": "byakusan (white powdered medicine)"
+              },
+              {
+                "word": "を",
+                "gloss": "OBJ"
+              },
+              {
+                "word": "ある",
+                "gloss": "have"
+              },
+              {
+                "word": "もの",
+                "gloss": "person"
+              }
+            ]
+          },
+          {
+            "phrase": "夜のまとて",
+            "gloss": "overnight",
+            "words": [
+              {
+                "word": "夜",
+                "gloss": "night"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ま",
+                "gloss": "interval"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "ふなやかた",
+            "gloss": "boathouse",
+            "words": [
+              {
+                "word": "ふな",
+                "gloss": "boat"
+              },
+              {
+                "word": "やかた",
+                "gloss": "mansion, house"
+              }
+            ]
+          },
+          {
+            "phrase": "さしはさめりければ",
+            "gloss": "had wedged it",
+            "words": [
+              {
+                "word": "さし",
+                "gloss": "insert.ADV"
+              },
+              {
+                "word": "はさめ",
+                "gloss": "attach.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "風に吹きならさせて",
+            "gloss": "blown noisily by the wind",
+            "words": [
+              {
+                "word": "風",
+                "gloss": "wind"
+              },
+              {
+                "word": "に",
+                "gloss": "by"
+              },
+              {
+                "word": "吹き",
+                "gloss": "blow.ADV"
+              },
+              {
+                "word": "ならさ",
+                "gloss": "rattle.IRR"
+              },
+              {
+                "word": "せ",
+                "gloss": "CAUS.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "海に入れて",
+            "gloss": "into the sea",
+            "words": [
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "に",
+                "gloss": "into"
+              },
+              {
+                "word": "入れ",
+                "gloss": "enter.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "え飮まずなりぬ",
+            "gloss": "was unable to drink",
+            "words": [
+              {
+                "word": "え",
+                "gloss": "NEG.POT"
+              },
+              {
+                "word": "飮ま",
+                "gloss": "drink.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG.ADV"
+              },
+              {
+                "word": "なり",
+                "gloss": "become.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "白散を持っていた人が、夜のあいだ船の屋形に挟んでいたところ、風に吹かれてがたがた揺れ、海に落ちてしまい、結局飲めなくなった。",
+        "translation-en-natural": "Someone who had byakusan had wedged it into the boathouse overnight, but the wind rattled it until it fell into the sea, and in the end, they could not drink it."
       },
       {
         "date": "20250126",
