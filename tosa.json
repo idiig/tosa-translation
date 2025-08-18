@@ -5780,15 +5780,95 @@
         "translation-en-natural": "Someone who had byakusan had wedged it into the boathouse overnight, but the wind rattled it until it fell into the sea, and in the end, they could not drink it."
       },
       {
-        "date": "20250126",
+        "date": [
+          20250126,
+          20250818
+        ],
         "id": 57,
-        "text": "芋し（もカ）あらめも齒固めもなし。",
+        "text": "芋しもあらめも齒固めもなし。",
         "kana": "いもしもあらめもくちかためもなし。",
         "koutei-yamagen": "芋茎もあらめも、歯固めもなし。",
         "translation-ja": "芋茎も荒布も、歯固めもない。",
-        "translation-en": "No potatoes, no seaweed, no hagatame teeth hardener.",
-        "translation-ja-natural": "芋も海藻荒布も祝物の歯固めもありません。",
-        "translation-en-natural": "No potatoes, no seaweed, no festive \"Hagatame\" meat (a symbolic dish for celebrating longevity and resilience in Japanese tradition)."
+        "translation-en": "No dried taro stems, no seaweed, no hagatame teeth hardener.",
+        "phrase-gloss": [
+          {
+            "phrase": "芋しも",
+            "gloss": "dried taro stems (zuiki) also",
+            "words": [
+              {
+                "word": "芋し",
+                "gloss": "dried taro stems (zuiki)"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              }
+            ]
+          },
+          {
+            "phrase": "あらめも",
+            "gloss": "arame seaweed also",
+            "words": [
+              {
+                "word": "あらめ",
+                "gloss": "arame"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              }
+            ]
+          },
+          {
+            "phrase": "齒固めもなし",
+            "gloss": "hagatame also not existing",
+            "words": [
+              {
+                "word": "齒固め",
+                "gloss": "hagatame"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "なし",
+                "gloss": "not exist"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "芋も、海藻の荒目も、祝いの歯固めも、何一つなかった。",
+        "translation-en-natural": "Neither potatoes, nor arame seaweed, nor even the hagatame offerings for the New Year were to be found.",
+        "notes-ja": [
+          {
+            "title": "芋し",
+            "note": "「芋し」は、芋茎のこと。正月に食べるものとしては一般的ではないが、ここでは「芋し」として扱われている。"
+          },
+          {
+            "title": "あらめ",
+            "note": "「あらめ」は、海藻の一種で、正月の料理に使われることがある。"
+          },
+          {
+            "title": "齒固め",
+            "note": "「齒固め」は、歯を丈夫にするための食べ物で、正月の祝い物として知られる。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Dried Taro Stems (Zuiki)",
+            "note": "Dried taro stems, known as 'zuiki,' are traditionally consumed during the New Year in Japan."
+          },
+          {
+            "title": "Arame Seaweed",
+            "note": "'Arame' is a type of seaweed often used in Japanese cuisine, particularly in New Year's dishes."
+          },
+          {
+            "title": "Hagatame",
+            "note": "\"Hagatame\" (literally, 'to harden the teeth') is a symbolic New Year's dish, traditionally eaten to strengthen the teeth and to wish for health and longevity."
+          }
+        ]
       },
       {
         "date": "20250127",
