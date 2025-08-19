@@ -5871,14 +5871,66 @@
         ]
       },
       {
-        "date": "20250127",
+        "date": [
+          20250127,
+          20250820
+        ],
         "id": 58,
         "text": "かやうの物もなき國なり。",
         "kana": "かやうのものもなきくになり。",
         "koutei-yamagen": "かようの物もなき国なり。",
         "translation-ja": "こういうものもない国である。",
         "translation-en": "It is a country without such things.",
-        "translation-ja-natural": "こんなものもないところです。",
+        "phrase-gloss": [
+          {
+            "phrase": "かやうの物",
+            "gloss": "such things",
+            "words": [
+              {
+                "word": "かやう",
+                "gloss": "such, like this"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "物",
+                "gloss": "thing(s)"
+              }
+            ]
+          },
+          {
+            "phrase": "もなき",
+            "gloss": "also not existing",
+            "words": [
+              {
+                "word": "も",
+                "gloss": "also, even"
+              },
+              {
+                "word": "なき",
+                "gloss": "absent.ATTR"
+              }
+            ]
+          },
+          {
+            "phrase": "國なり",
+            "gloss": "it is a country",
+            "words": [
+              {
+                "word": "國",
+                "gloss": "country"
+              },
+              {
+                "word": "なり",
+                "gloss": "COP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "こんなものもないところだ。",
         "translation-en-natural": "Here is a place without such things."
       },
       {
