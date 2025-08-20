@@ -8418,8 +8418,10 @@
         "koutei-yamagen": "六日、昨日のごとし。",
         "translation-ja": "六日、昨日と同じようである。",
         "translation-en": "On the sixth, it is like yesterday.",
+	"translation-zh": "六日，与昨日相同。",
         "translation-ja-natural": "六日、昨日と同じようです。",
-        "translation-en-natural": "On the sixth, it is like yesterday."
+        "translation-en-natural": "On the sixth, it is like yesterday.",
+	"translation-zh-natural": "六日，和昨天一样。"
       },
       {
         "date": "20250211",
@@ -8429,8 +8431,10 @@
         "koutei-yamagen": "七日になりぬ。",
         "translation-ja": "七日になった。",
         "translation-en": "It has become the seventh.",
+	"translation-zh": "已是七日。",
         "translation-ja-natural": "七日になりました。",
-        "translation-en-natural": "It's the seventh."
+        "translation-en-natural": "It's the seventh.",
+	"translation-zh-natural": "到了七日。"
       },
       {
         "date": "20250211",
@@ -8440,7 +8444,10 @@
         "koutei-yamagen": "同じ湊にあり。",
         "translation-ja": "同じ港にいる。",
         "translation-en": "We are in the same port.",
-        "translation-ja-natural": "同じ港にいます。"
+	"translation-zh": "在同一港口。",
+        "translation-ja-natural": "同じ港にいます。",
+	"translation-en-natural": "We are in the same port.",
+	"translation-zh-natural": "仍停泊在同一港口。"
       },
       {
         "date": "20250212",
@@ -8450,12 +8457,18 @@
         "koutei-yamagen": "今日は白馬を思へど、かひなし。",
         "translation-ja": "今日は白馬を思うが、甲斐がない。",
         "translation-en": "Today, I think of the white horse, but it is in vain.",
+	"translation-zh": "今日想着白马，却没有意义。",
         "translation-ja-natural": "今日は白馬の節会の日。でも、白馬の節会のことを思い出しても、ここにいるんじゃ意味がない。",
         "translation-en-natural": "Today is the day of the White Horse Festival. But thinking about the festival while stuck here feels pointless.",
+	"translation-zh-natural": "今天是白马节会的日子。但是，想起白马节会却无济于事。",
         "notes-ja": {
           "白馬節会（あおうまのせちえ）とは": "白馬節会（あおうまのせちえ）は、1月7日に豊楽院で行われる行事で、平安時代の宮中で特に重んじられた5つのお祝い、五節会（ごせちえ）のひとつ。",
           "「今日は白馬の日かひなし」の構造": "この文は連接構文の「継ぎ足し構文」である。第1文「今日は白馬の日」という文と第2文「白馬の節会のことを思っても意味がない」という文が続いている。第1文と第2文が独立してあるだけで、「今日は...かひなし」という一つの文があるのではない。"
-        }
+        },
+	"notes-zh": {
+	  "白马节会（あおうまのせちえ）是什么": "白马节会（あおうまのせちえ）是每年1月7日在丰乐院举行的仪式，是平安时代宫中尤为重视的五个庆典之一，称为五节会（ごせちえ）。",
+	  "「今日は白馬の日かひなし」の结构": "这句话是连缀结构的“接续结构”。第一句“今日は白馬の日”与第二句“思い出しても意味がない”相连。第一句和第二句是独立的，并不是一个完整的句子。"
+	}
       },
       {
         "date": "20250213",
@@ -8465,8 +8478,10 @@
         "koutei-yamagen": "ただ、浪の白きのみそ見ゆる。",
         "translation-ja": "ただ、波の白いのだけが見える。",
         "translation-en": "Only the whiteness of the waves is visible.",
+	"translation-zh": "唯独只有浪之白可见。",
         "translation-ja-natural": "ただ、白く泡立つ波が見えるだけでした。",
-        "translation-en-natural": "All I can see are the white, foaming waves."
+        "translation-en-natural": "All I can see are the white, foaming waves.",
+	"translation-zh-natural": "只能看到白色的浪花。"
       },
       {
         "date": "20250214,20250217",
@@ -8476,8 +8491,10 @@
         "koutei-yamagen": "かかる間に人の家の池と名ある所より鯉はなくて鮒よりはじめて川のも、海のも、ことものども、長びつにになひつづけておこせたり。",
         "translation-ja": "こうしているうちに、『池』という名前の場所や、他の名のある場所から、鯉はいなくて、鮒をはじめとして、川の魚も海の魚も、その他のものも、長櫃に担いで運び続けて送った。",
         "translation-en": "While this was happening, from a place called 'Ike' and other well-known locations, there were no carp, but starting with crucian carp, river fish, sea fish, and other things were continuously carried in long chests and sent over.",
+	"translation-zh": "在此般之间，从（某户）人家，有“池”之名之地，没有鲤鱼，始于鲫鱼，河里的、海里的，其他物们，于长箱里，不断抬着送来。",
         "translation-ja-natural": "こうしているうちに、『池』という名の場所から、鯉はないが、鮒をはじめ、川の魚や海の魚、その他の食べ物が長櫃に詰められて次々と送られてきた。",
-        "translation-en-natural": "Meanwhile, from a place called 'Ike,' there were no carp, but starting with crucian carp, river fish, sea fish, and other foods were packed into a long chest and sent over one after another."
+        "translation-en-natural": "Meanwhile, from a place called 'Ike,' there were no carp, but starting with crucian carp, river fish, sea fish, and other foods were packed into a long chest and sent over one after another.",
+	"translation-zh-natural": "在这期间，从一户人家名叫“池”的地方，各种事物被装在长箱里不断搬送过来。没有鲤鱼，但有以鲫鱼为首的、河里的、海里的其他食物。"
       },
       {
         "date": "20250215,20250217",
@@ -8487,8 +8504,10 @@
         "koutei-yamagen": "わかなこに入れて雉など花につけたり（この17字文異本には無）。",
         "translation-ja": "若菜籠に入れて、雉などを花につけた。",
         "translation-en": "Placed in a basket for young greens, pheasants and such were added along with flowers.",
+	"translation-zh": "若菜，放在篮中。雉等，配着花。",
         "translation-ja-natural": "若菜を入れた籠に、雉などを添え、花とともに美しく飾りました。",
-        "translation-en-natural": "They placed young greens in a basket, added pheasants, and beautifully arranged them with flowers."
+        "translation-en-natural": "They placed young greens in a basket, added pheasants, and beautifully arranged them with flowers.",
+	"translation-zh-natural": "将若菜放入篮中。把雉之类，配着花装饰。"
       },
       {
         "date": "20250215",
@@ -8498,8 +8517,10 @@
         "koutei-yamagen": "若菜ぞ、今日をば知らせたる。",
         "translation-ja": "若菜が、今日を知らせている。",
         "translation-en": "The young greens are announcing today.",
+	"translation-zh": "若菜啊，告知着今日。",
         "translation-ja-natural": "若菜を見て、今日は七草の日だと気づいた。",
-        "translation-en-natural": "Seeing the young greens, I realized that today is the Festival of Seven Herbs."
+        "translation-en-natural": "Seeing the young greens, I realized that today is the Festival of Seven Herbs.",
+	"translation-zh-natural": "若菜让我才意识到今天是七草节。"
       },
       {
         "date": "20250215",
@@ -8509,8 +8530,10 @@
         "koutei-yamagen": "歌あり。その歌、",
         "translation-ja": "歌がある。その歌、",
         "translation-en": "There is a song. That song,",
+	"translation-zh": "有歌。那首歌，",
         "translation-ja-natural": "一首の歌が添えられている。その歌は、",
-        "translation-en-natural": "A poem has been included. That poem is,"
+        "translation-en-natural": "A poem has been included. That poem is,",
+	"translation-zh-natural": "有一首歌。这首歌是，"
       },
       {
         "date": "20250215",
@@ -8520,8 +8543,10 @@
         "koutei-yamagen": "浅茅生の野辺にしあれば、水もなき池に積みつる若菜なりけり。",
         "translation-ja": "浅茅が生い茂る野原にあるので、水もない池で摘んだ若菜であった。",
         "translation-en": "Since it is in a field where short grasses grow, it was young greens picked from a pond without water.",
+	"translation-zh": "因为在茅草生长的/原野/水也没有的/池中摘下的/是若菜。",
         "translation-ja-natural": "浅茅が生い茂る野原にある『池』ですが、水がないので、鯉（恋）はありません。『鯉（こい）』も『恋（こい）』もない、そんなところで摘んだ若菜（我が名）です。",
-        "translation-en-natural": "This place is called 'Pond,' but with no water, there are no carp and no love. No koi, no koi. In such a place, I picked these greens, and that is my name."
+        "translation-en-natural": "This place is called 'Pond,' but with no water, there are no carp and no love. No koi, no koi. In such a place, I picked these greens, and that is my name.",
+	"translation-zh-natural": "这里虽名为“池（ike）”，但这里在茅草生长的原野，所以这个“池”里没有水[，自然没有鲤鱼（koi）与恋情（koi)]。在这个连水也没有的“池（ike）”摘下的只有这些若菜（wakana）、我的名字（wagana）。"
       },
       {
         "date": "20250216",
@@ -8531,8 +8556,10 @@
         "koutei-yamagen": "いとをかしかし。",
         "translation-ja": "とても趣きのあることだ。",
         "translation-en": "It is a very interesting thing.",
+	"translation-zh": "非常风雅。",
         "translation-ja-natural": "なんと趣のあることでしょう。",
-        "translation-en-natural": "What an interesting thing."
+        "translation-en-natural": "What an interesting thing.",
+	"translation-zh-natural": "真是别有一番情趣。"
       },
       {
         "date": "20250217",
@@ -8542,8 +8569,10 @@
         "koutei-yamagen": "この池といふは所の名なり。",
         "translation-ja": "この「池」というのは、この所の名前である。",
         "translation-en": "This 'pond' is the name of this place.",
+	"translation-zh": "这个所谓的“池”是地名。",
         "translation-ja-natural": "この「池」というのは、この地名です。",
-        "translation-en-natural": "This 'pond' is the name of this place."
+        "translation-en-natural": "This 'pond' is the name of this place.",
+	"translation-zh-natural": "这个所谓的“池”是这个地方的名字。"
       },
       {
         "date": "20250217",
@@ -8553,8 +8582,10 @@
         "koutei-yamagen": "良き人の男につきて下りて住みけるなり。",
         "translation-ja": "よき人が、男に付き従って都から下って、そこに住んでいたのである。",
         "translation-en": "A fine person followed a man down from the capital and lived there.",
+	"translation-zh": "乃是良人随男子下乡住下了。",
         "translation-ja-natural": "誰もが好きになりそうな気立てのよい女性が、男と共に都を離れ、そこで暮らすことになりました。",
-        "translation-en-natural": "A woman with a lovely personality, whom anyone would find charming, left the capital with a man and ended up living there."
+        "translation-en-natural": "A woman with a lovely personality, whom anyone would find charming, left the capital with a man and ended up living there.",
+	"translation-zh-natural": "原来是一个才女跟随男子离京下乡，定居在了这里。"
       },
       {
         "date": "20250217",
@@ -8564,8 +8595,10 @@
         "koutei-yamagen": "この長櫃の物は皆人童までにくれたれば、飽き満ちて舟子どもは腹鼓を打ちて海をさへおどろかして浪たてつべし。",
         "translation-ja": "この長櫃の物は、すべての人から童に至るまでに与えられたので、満ち足りて、舟子たちは腹鼓を打ち、海までも驚かせて波を立てるに違いない。",
         "translation-en": "The items in this long chest were given to everyone, from adults to children, so they were fully satisfied, and the boatmen beat their bellies like drums, even startling the sea and surely raising waves.",
+	"translation-zh": "这长箱中的物品，全部分给了大人和小孩，于是，吃饱后船夫们打着腹鼓，甚至好像惊动大海掀起了波浪。",
         "translation-ja-natural": "この長櫃いっぱいの品物は、大人から子供まで皆に惜しげもなく振る舞われ、誰もが満腹になってしまいました。船乗りたちは腹いっぱいに食べて、自分の腹をポンポン叩いて喜び、その音があまりに大きく、海までも驚いて波を立ててしまいました。",
-        "translation-en-natural": "The long chest was packed with goods and generously handed out to everyone, from adults to children, until they were completely full. The sailors, having eaten their fill, joyfully drummed on their bellies with such thunderous noise that even the sea itself seemed to shudder and stir up waves."
+        "translation-en-natural": "The long chest was packed with goods and generously handed out to everyone, from adults to children, until they were completely full. The sailors, having eaten their fill, joyfully drummed on their bellies with such thunderous noise that even the sea itself seemed to shudder and stir up waves.",
+	"translation-zh-natural": "这长箱中的所有物品，都分给了大家老小。吃饱喝足后船夫们打起腹鼓，声音之大甚至惊动了大海，掀起了波浪。"
       },
       {
         "date": "20250218",
@@ -8575,8 +8608,10 @@
         "koutei-yamagen": "かくて、この間に事多かり。",
         "translation-ja": "こうして、この間に出来事が多かった。",
         "translation-en": "Thus, during this time, there were many events.",
+	"translation-zh": "此般，在这期间，事多。",
         "translation-ja-natural": "こうしているうちに、さまざまな出来事がありました。",
-        "translation-en-natural": "During this time, various things happened."
+        "translation-en-natural": "During this time, various things happened.",
+	"translation-zh-natural": "像这样，在这期间，发生了许多事情。"
       },
       {
         "date": "20250219",
@@ -8586,8 +8621,10 @@
         "koutei-yamagen": "今日、破子持たせて来たる人、その名などぞや、今思ひ出でむ。",
         "translation-ja": "今日、破子を持たせて来た人の名などは何だったか、今、思い出すだろう。",
         "translation-en": "Today, the name and such of the person who had someone bring the wrapping cloth, what was it? I shall remember it now.",
+	"translation-zh": "今日派人带来便当盒的人，那个名字什么的，很快会想起来。",
         "translation-ja-natural": "今日、包みを誰かに持たせて届けさせた人の名前は、何だったかな。そのうち思い出すだろう。",
-        "translation-en-natural": "What was the name of the person who had someone bring the bundle today? I will remember it eventually."
+        "translation-en-natural": "What was the name of the person who had someone bring the bundle today? I will remember it eventually.",
+	"translation-zh-natural": "今天，让人带来便当盒的那个人，那个人的名字是什么来着？我很快会想起来的。"
       },
       {
         "date": "20250220",
@@ -8597,8 +8634,10 @@
         "koutei-yamagen": "この人、歌よまむと思ふ心ありてなりけり。",
         "translation-ja": "この人、歌を詠もうと思う心があってのことだった。",
         "translation-en": "This person, having a heart to compose a poem, that was the reason.",
+	"translation-zh": "此人有欲咏歌之心。",
         "translation-ja-natural": "この人は、歌を詠みたいという思いがあったのだ。",
-        "translation-en-natural": "This person had a desire to compose a poem."
+        "translation-en-natural": "This person had a desire to compose a poem.",
+	"translation-zh-natural": "这个人当时有想要咏歌一曲的心情。"
       },
       {
         "date": "20250220",
@@ -8608,8 +8647,10 @@
         "koutei-yamagen": "とかくいひいひて、浪の立つなることと憂へいひて、詠める歌、",
         "translation-ja": "とかく言い言いして、波が立つということを憂えて言って詠んだ歌、",
         "translation-en": "Saying various things and lamenting that the waves are rising, the poem that was composed.",
+	"translation-zh": "说着这般那般，（一边）担心说着波浪起伏之事，吟咏的和歌，",
         "translation-ja-natural": "あれこれと言いながら、波が立つことを心配して詠んだ歌。",
-        "translation-en-natural": "Talking about various things and worrying about the rising waves, a poem was composed."
+        "translation-en-natural": "Talking about various things and worrying about the rising waves, a poem was composed.",
+	"translation-zh-natural": "一边说着这般那般，一边担心说着波浪起伏的事，吟咏的和歌，"
       },
       {
         "date": "20250222",
@@ -8619,8 +8660,10 @@
         "koutei-yamagen": "ゆく先に立つ白浪の声よりも遅れて泣かむ我やまさらむ。",
         "translation-ja": "行く先に立つ白波の声よりも、遅れて泣くだろう私の声が勝るのだろうか。",
         "translation-en": "Ahead on the path, rising white waves' sound rather than, belatedly shall cry, my voice will surpass?",
+	"translation-zh": "在前方/起伏的白浪的/声音，相比（它）/迟来哭泣的/我的声音更胜一筹吧",
         "translation-ja-natural": "行く先に立つ白波の音よりも、遅れて泣く私の声のほうが大きくなるのだろうか。",
-        "translation-en-natural": "Will my belated cries be louder than the sound of the white waves rising ahead on my path?"
+        "translation-en-natural": "Will my belated cries be louder than the sound of the white waves rising ahead on my path?",
+	"translation-zh-natural": "在前方起伏的白浪的声音之上，我迟来的哭声会更响亮吗？"
       },
       {
         "date": "20250223",
@@ -8630,8 +8673,10 @@
         "koutei-yamagen": "とぞ詠める。",
         "translation-ja": "と詠んだ。",
         "translation-en": "And so it was composed.",
+	"translation-zh": "吟咏道。",
         "translation-ja-natural": "と詠みました。",
-        "translation-en-natural": "And so it was composed."
+        "translation-en-natural": "And so it was composed.",
+	"translation-zh-natural": "那个人吟咏道。"
       },
       {
         "date": "20250223",
@@ -8641,8 +8686,10 @@
         "koutei-yamagen": "いと大声なるべし。",
         "translation-ja": "とても大きな声で詠まれたに違いない。",
         "translation-en": "It was surely composed with a very loud voice.",
+	"translation-zh": "应该是非常大声的。",
         "translation-ja-natural": "きっとものすごく大きな声だったことだろう。",
-        "translation-en-natural": "It must have been an incredibly loud voice."
+        "translation-en-natural": "It must have been an incredibly loud voice.",
+	"translation-zh-natural": "当时他应该是非常大声咏唱的。"
       },
       {
         "date": "20250223",
@@ -8652,8 +8699,10 @@
         "koutei-yamagen": "持てきたる物より歌はいかがあらむ。",
         "translation-ja": "持ってきた物と比べて、歌はどうであろうか。",
         "translation-en": "Compared to the things brought, how is the song?",
+	"translation-zh": "比起带来的物品，歌如何呢？",
         "translation-ja-natural": "持ってきた物に比べて、この歌はどうでしょうか。",
-        "translation-en-natural": "How does this song compare to the things that were brought?"
+        "translation-en-natural": "How does this song compare to the things that were brought?",
+	"translation-zh-natural": "与带来的物品相比，这首歌如何呢？"
       },
       {
         "date": "20250223",
@@ -8663,15 +8712,24 @@
         "koutei-yamagen": "この歌を此彼あはれがれども、一人も返しせず。",
         "translation-ja": "この歌を、あの人もこの人も褒めたが、一人も返歌をしなかった。",
         "translation-en": "Though both this person and that person praised this song, not one composed a reply.",
+	"translation-zh": "这首歌，那个这个都感动，但一个人也没返歌。",
         "translation-ja-natural": "この歌をみんなが褒めはしましたが、誰ひとり返歌をしませんでした。",
         "translation-en-natural": "Everyone praised the song, but no one composed a reply.",
+	"translation-zh-natural": "大家都为此歌感动，但一个人也没有回歌。",
         "notes-ja": {
           "返歌のない和歌のやりとり": "かわいそうな歌のやりとりですね。「すごいすごい」と褒めるだけ褒めておいて、誰も返歌をしないなんて、ちょっと冷たい感じもしますね。形式的に称賛はするものの、実際にはそれほど興味を持たれていなかったのか、あるいは返歌をするのが難しかったのかもしれません。",
           "貫之の観察眼": "歌のやりとりが重視される時代だっただけに、ちょっと寂しい場面です。歌よりも酒や食べ物の方が重要ですね。その皆の反応を貫之が見逃さなかったんですね。貫之はこうした細かい人々の反応をしっかり観察し、記録に残しているのが面白い。",
           "「誰も返歌をしなかった」の表現": "ただ褒めるだけで誰も返歌をしない。その微妙な空気感を見逃さず、「誰も返歌をしなかった」とだけのことばで表現しているのが、読者に「ひどい、おもしろい、なさけない、人間とはこんなものだ」などいろいろに思わせるところがよいですね。",
           "土佐日記の魅力": "土佐日記は、単なる旅の記録ではなく、人間関係や当時の文化を繊細に描き出しているところが魅力です。",
           "歌の出来と称賛の関係": "食べ物、贈り物、酒などいろいろ持ってきてもらっている手前、つまらなくても褒めるしかありません。いろいろな品物や酒を持ってきてもらっている以上、歌がどんな出来であれ、「すごいですね！」と褒めるしかありません。和歌のやりとりが文化として根付いている時代ですから、露骨に批判しないのが逆に痛々しい。"
-        }
+        },
+	"notes-zh": {
+	  "返歌的缺失": "这首歌虽然让人感动，但没有人回应。大家只是称赞，没有人回歌，这种情况有点冷淡。",
+	  "貫之的观察力": "在重视歌的交流的时代，这样的场景显得有些寂寞。貫之敏锐地捕捉到了这种细微的人际反应，并将其记录下来。",
+	  "「无人回应」的表达": "通过简单地说「无人回应」，传达了那种微妙的气氛，让读者感受到一种无奈和幽默。",
+	  "土佐日记的魅力": "土佐日记不仅是旅行记录，更是对人际关系和当时文化的细腻描绘。",
+	  "歌与赞美的关系": "在接受了各种食物、礼物和酒之后，即使歌不怎么样，也只能说「真棒！」。在和歌交流盛行的时代，直接批评是不合适的。"
+	}
       },
       {
         "date": "20250224",
@@ -8681,8 +8739,10 @@
         "koutei-yamagen": "しつべき人も交れれど、これをのみいたがり、物をのみ喰ひて夜更けぬ。",
         "translation-ja": "然るべき人も交じっていたが、その人もこの歌をほめるばかりで、食べ物ばかり食べて、夜が更けてしまった。",
         "translation-en": "Even the appropriate person was present, but that person only praised this song, ate only food, and the night grew late.",
+	"translation-zh": "虽有本已做（返歌）的人在场，但只是大赞此歌，只是饮食着东西，夜已深。",
         "translation-ja-natural": "当然、返歌をすべき人もいたが、その人もこの歌をただほめるばかりで、食べてばかりいるうちに夜が更けてしまった。",
-        "translation-en-natural": "Naturally, there were also those who should have composed a response, but they only kept praising the song, eating all the while, until the night grew late."
+        "translation-en-natural": "Naturally, there were also those who should have composed a response, but they only kept praising the song, eating all the while, until the night grew late.",
+	"translation-zh-natural": "虽然也有本已返歌的人在场，但他们只是大赞这首和歌，一边吃喝着东西，直到夜深了。"
       },
       {
         "date": "20250224",
@@ -8692,8 +8752,10 @@
         "koutei-yamagen": "この歌主なむ、「またまからず」と言ひて立ちぬ。",
         "translation-ja": "この歌の詠み手は、「まだ帰らない」と言って立ちあがった。",
         "translation-en": "The composer of this poem said, 'I am not going back yet,' and stood up.",
+	"translation-zh": "此歌作者道：“还不回”，站了起来。",
         "translation-ja-natural": "歌の詠み手は、「まだ帰らないよ」と言って立ちあがった。",
-        "translation-en-natural": "The poet said, 'I'm not leaving yet,' and stood up."
+        "translation-en-natural": "The poet said, 'I'm not leaving yet,' and stood up.",
+	"translation-zh-natural": "这首歌的作者说：“还不回去呢”，站了起来。"
       },
       {
         "date": "20250225",
@@ -8703,8 +8765,10 @@
         "koutei-yamagen": "ある人の子の童なる密かに言ふ。",
         "translation-ja": "ある人の子供が、こっそり言う。",
         "translation-en": "A child of a certain person says secretly.",
+	"translation-zh": "是某人的孩子。悄悄地说。",
         "translation-ja-natural": "ある人の子供が、こっそり言いました。",
-        "translation-en-natural": "A child of a certain person said secretly."
+        "translation-en-natural": "A child of a certain person said secretly.",
+	"translation-zh-natural": "某人的孩子悄悄地说。"
       },
       {
         "date": "20250225",
@@ -8714,8 +8778,10 @@
         "koutei-yamagen": "「まろこの歌の返しせむ」と言ふ。",
         "translation-ja": "「まろ、この歌に返歌しよう」と言う。",
         "translation-en": "Maro says, \"I will compose a reply to this song.\"",
+	"translation-zh": "说道：“麻吕来做此歌的返歌。”",
         "translation-ja-natural": "「あたしがこの返歌、しちゃだめ」と言いました。",
-        "translation-en-natural": "Maro said, \"I will compose a reply to this song.\""
+        "translation-en-natural": "Maro said, \"I will compose a reply to this song.\"",
+	"translation-zh-natural": "他说道：“麻吕来做这首歌的返歌。”"
       },
       {
         "date": "20250225",
@@ -8725,8 +8791,10 @@
         "koutei-yamagen": "驚きて、「いとをかしきことかな。",
         "translation-ja": "驚いて、「とても素晴らしいことだな。",
         "translation-en": "Surprised, \"That is a very wonderful thing.'",
+	"translation-zh": "惊道：“非常有趣之事哉。",
         "translation-ja-natural": "みんな驚いて、「それはすごい。",
-        "translation-en-natural": "Everyone was surprised, \"That's amazing."
+        "translation-en-natural": "Everyone was surprised, \"That's amazing.",
+	"translation-zh-natural": "大家都惊讶地说：“真是太有趣了。”"
       },
       {
         "date": "20250225",
@@ -8736,8 +8804,10 @@
         "koutei-yamagen": "詠みてむやは。",
         "translation-ja": "詠んでみようか。",
         "translation-en": "Will you try reciting?",
+	"translation-zh": "吟咏试试如何？",
         "translation-ja-natural": "詠んでみようか。",
-        "translation-en-natural": "Will you try reciting?"
+        "translation-en-natural": "Will you try reciting?",
+	"translation-zh-natural": "你要试着吟咏吗？"
       },
       {
         "date": "20250225",
@@ -8747,8 +8817,10 @@
         "koutei-yamagen": "詠みつべくば、早いへかし」と言ふ。",
         "translation-ja": "「詠むのなら、早く言いなさい」と言う。",
         "translation-en": "He says, \"If you are going to recite, say it quickly.\"",
+	"translation-zh": "说道：“如果要吟咏了，快点说吧。”",
         "translation-ja-natural": "詠むなら、早く言ってごらん」と促しました。",
-        "translation-en-natural": "He encouraged, \"If you're going to recite, go ahead and say it.\""
+        "translation-en-natural": "He encouraged, \"If you're going to recite, go ahead and say it.\"",
+	"translation-zh-natural": "他说：“如果要吟咏的话，就快点说吧。”"
       },
       {
         "date": "20250225",
@@ -8758,8 +8830,10 @@
         "koutei-yamagen": "「またまからずとて立ちぬる人を待ちて詠まむ」とて求めけるを、夜更けぬとにやありけむ、やがていにけり。",
         "translation-ja": "「『まだ帰らない』と言って立ち上がった人を待ってから詠もうと言い、探したが、夜が更けたのであろうか、そのまま帰ってしまった。」",
         "translation-en": "The kid said, \"I will wait for the person who said, 'I am not going back yet,' and compose a poem after waiting,\" and searched for him, but perhaps because the night had grown late, he left as he was.",
+	"translation-zh": "说着“等说‘还不回去’站起来的人（来后）再吟咏。”去找（那个人），但由于夜已深吧，就这样已经离开了。",
         "translation-ja-natural": "「『まだ帰らない』と言って立ち上がった人を待ってから歌を詠もうとしましたが、その人を探しているうちに夜が更けてしまったのでしょうか。そのまま帰ってしまいました。」",
-        "translation-en-natural": "The kid planned to wait and compose a poem for the person who had said, 'I'm not leaving yet,' but as he searched for him, the night grew late, and in the end, he left without seeing him again."
+        "translation-en-natural": "The kid planned to wait and compose a poem for the person who had said, 'I'm not leaving yet,' but as he searched for him, the night grew late, and in the end, he left without seeing him again.",
+	"translation-zh-natural": "小孩说着“等说‘还不回去’站起来的人回来后再吟咏。”去找那个人，但也许是因为夜已深的缘故吧，那个人最后就这样已经离开了。"
       },
       {
         "date": "20250225",
@@ -8769,8 +8843,10 @@
         "koutei-yamagen": "「そもそもいかが詠んだる」と言ふかしがりて問ふ。",
         "translation-ja": "「そもそもどのように詠んだのか」と、いぶかしがって聞く。",
         "translation-en": "They ask in doubt, 'How did you compose it in the first place?'",
+	"translation-zh": "疑惑着问道：“结果怎么吟咏的？”",
         "translation-ja-natural": "「そもそもどのように詠んだの？」と、みんな不思議そうに聞きました。",
-        "translation-en-natural": "Everyone curiously asked, 'How did you even come up with that?'"
+        "translation-en-natural": "Everyone curiously asked, 'How did you even come up with that?'",
+	"translation-zh-natural": "大家好奇地问：“结果你打算怎么吟咏？”"
       },
       {
         "date": "20250225",
@@ -8780,8 +8856,10 @@
         "koutei-yamagen": "この童、さすがに恥ぢていはず。",
         "translation-ja": "この子供は、さすがに恥ずかしがって言わず。",
         "translation-en": "This child, as expected, was too embarrassed to say anything.",
+	"translation-zh": "这个孩子，果然害羞没说。",
         "translation-ja-natural": "この子供は、さすがに恥ずかしくて言えませんでした。",
-        "translation-en-natural": "This kid, as expected, was too embarrassed to say anything."
+        "translation-en-natural": "This kid, as expected, was too embarrassed to say anything.",
+	"translation-zh-natural": "这个孩子果然害羞没说。"
       },
       {
         "date": "20250226",
@@ -8791,8 +8869,10 @@
         "koutei-yamagen": "強ひて問へば、いへる歌、",
         "translation-ja": "強いて問うと、言った歌は、",
         "translation-en": "When pressed to answer, the poem they recited was...",
+	"translation-zh": "被强迫问时，说出的和歌，",
         "translation-ja-natural": "いやがるところを無理に聞いて、やっと口にした歌は、...",
-        "translation-en-natural": "After pressing the reluctant kid, the poem which was finally recited was..."
+        "translation-en-natural": "After pressing the reluctant kid, the poem which was finally recited was...",
+	"translation-zh-natural": "被强迫问时，终于说出的和歌是，"
       },
       {
         "date": "20250227",
@@ -8802,8 +8882,10 @@
         "koutei-yamagen": "行く人も止まるも袖の涙川、水際のみこそ濡れまさりけれ",
         "translation-ja": "行く人も、立ち止まる人も、袖の涙の川、水際ばかりが一層濡れていることだ。",
         "translation-en": "Both those who go and those who stop, the river of tears from their sleeves, only the water's edge is even more soaked.",
+	"translation-zh": "去者也/留者也/袖子的泪河/只是近水处/更沾湿",
         "translation-ja-natural": "行く人も、立ち止まる人も、涙が袖を濡らして流れ、岸辺ばかりがますます濡れていきます。",
-        "translation-en-natural": "Whether they go or stay, their tears soak their sleeves and flow, leaving only the water's edge growing even more drenched."
+        "translation-en-natural": "Whether they go or stay, their tears soak their sleeves and flow, leaving only the water's edge growing even more drenched.",
+	"translation-zh-natural": "无论是离去的人还是停留的人，袖子上的泪水流淌如河水，只有岸边濡染更胜一筹。"
       },
       {
         "date": "20250228",
@@ -8813,8 +8895,10 @@
         "koutei-yamagen": "となむ詠める。",
         "translation-ja": "と詠んだ。",
         "translation-en": "And so it was composed.",
+	"translation-zh": "吟咏道。",
         "translation-ja-natural": "と詠みました。",
-        "translation-en-natural": "And so it was composed."
+        "translation-en-natural": "And so it was composed.",
+	"translation-zh-natural": "孩子吟咏道。"
       },
       {
         "date": "20250228",
@@ -8824,8 +8908,10 @@
         "koutei-yamagen": "かくは言ふものか、美しければにやあらむ、いと思はずなり。",
         "translation-ja": "このように言うものなのだろうか。かわいらしいからなのだろうか。たいへんこう思ってはいなかった。",
         "translation-en": "Is this how one is supposed to say it? Perhaps because the child is adorable? I had not thought so at all.",
+	"translation-zh": "（是在于本就是）这样说的吗？（还是在于）美呢？更不去想。",
         "translation-ja-natural": "こういうふうに歌を詠むものなのでしょうか。かわいらしいからでしょうか。まったくこのように上手く詠むとは思ってもみませんでした。",
-        "translation-en-natural": "Is this really how one is supposed to compose a poem? Maybe it's just because the kid is adorable. I never expected them to compose so skillfully."
+        "translation-en-natural": "Is this really how one is supposed to compose a poem? Maybe it's just because the kid is adorable. I never expected them to compose so skillfully.",
+	"translation-zh-natural": "这真的是这样吟咏的吗？也许是因为孩子可爱吧。我从未想过他们能如此吟咏和歌。"
       },
       {
         "date": "20250301",
@@ -8835,8 +8921,10 @@
         "koutei-yamagen": "童言にては何かはせむ、嫗、翁にをしつべし、悪しくもあれいかにもあれ、たよりあらば遣らむとておかれぬめり。",
         "translation-ja": "子どもたちだけでは何ができようか。おばあさんかおじいさんに押させるのがよいだろう。悪くても、どうであっても、機会があれば送るつもりで、置かれたようだ。",
         "translation-en": "What could children alone possibly do? It would be best to have an old woman or an old man press it. Whether it is bad or however it may be, it seems to have been placed with the intention of sending it if an opportunity arises.",
+	"translation-zh": "孩童之言能做什么呢？本应该让老太老头做。坏也行，怎么样也行，看起来是想着如果有引信（或机会）就寄，便放好了。",
         "translation-ja-natural": "子どもの詠んだ歌ではちょっと失礼になってしまうかもしれないので、おばあさんかおじいさんに頼んで、印を押してもらうのがよいでしょう。そんな嘘がよくないことはわかっていますが、どうせ本人はいないのだから、どうであろうと構わないでしょうし、もし機会があれば、あるいは相手から便りがあれば、この返歌を送ってさしあげましょうと思い、保管しておいたようです。",
         "translation-en-natural": "A child's poem alone might be a bit inappropriate, so it would be best to ask an old woman or an old man to stamp a seal on it. I do understand that such a falsehood is not right, but since the original author is no longer around, it does not really matter. If an opportunity arises, or if a letter arrives from the other party, I thought I should send this reply and kept it for that purpose.",
+	"translation-zh-natural": "单靠孩子的和歌可能有点失礼，所以最好请个老太太或老头子。不好也罢，怎么样都行。如果有机会，或者对方来信的话，国守似乎想着寄出这首返歌，所以就保留了它。",
         "notes-ja": {
           "返歌の形式と文化的背景": "この返歌は、受け取るべき相手がすでにいないにもかかわらず、あえて作成され、形式的に送られることとなった。場にいた人々は、その事情をすべて理解していたにもかかわらず、老夫婦の名を借り、子どもの詠んだ歌を正式なものとして整えることで、受け取る側が後にこれを立派な歌としてありがたがる様子を想像していたと考えられる。これは単なる儀礼ではなく、和歌の価値が誰の作であるかによって決まるという、当時の文化的前提を皮肉る知的な遊びの側面を持つ。こうした和歌のやり取りは、単なる個人的な感情表現ではなく、形式を重んじる貴族社会の「ゲーム」として機能しており、送り手側はその意識のもとで、あえてこの返歌を整えた可能性が高い。",
           "逐語訳と意訳の比較": "逐語訳（私たちの訳）は、原文の意味を忠実に再現するための厳密な翻訳。文法や構造をそのまま活かしているため、学術的な検討に適している。読者が自分で解釈できるよう、余計な情報を加えない。菊地訳は、現代語として読みやすくするために、解釈を加えた訳。原文にない要素（署名捺印・ついで・手元に残る）を含め、話し言葉に近づけている。意訳としてはスムーズだが、学術的に使う場合は注意が必要。原文に即した分析をするなら、私たちの逐語訳の方が適切である。菊地訳は、一般向けの解釈としては良いが、原文の意味を正確に伝えるものではない。",
