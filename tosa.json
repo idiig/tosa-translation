@@ -3487,14 +3487,14 @@
             "words": [
               {
                 "word": "よめ",
-                "gloss": "compose",
+		"gloss": "compose",
 		"gloss-morph": "compose-THM",
 		"gloss-zh": "吟诵",
 		"gloss-morph-zh": "吟诵-THM"
               },
               {
                 "word": "り",
-                "gloss": "EVID?",
+                "gloss": "PERF.ADV",
 		"gloss-morph": "+STA-THM",
 		"gloss-zh": "PERF",
 		"gloss-morph-zh": "+STA-THM"
@@ -5937,30 +5937,244 @@
 	"translation-zh-natural": "在这么说着的时候，在一个叫做鹿儿之崎的地方，国司的同胞和其他人带着酒等追了上来。他们走下来坐在海边，说着分离之难。"
       },
       {
-        "date": "20241207",
+        "date": [
+          20241207,
+          20250803
+        ],
         "id": 38,
         "text": "守のたちの人々の中にこの來る人々ぞ心あるやうにはいはれほのめく。",
         "kana": "かみのたちのひとびとのなかにこのきたるひとびとぞこころあるやうにはいはれほのめく。",
         "koutei-yamagen": "守の館の人々の中に、この来る人々ぞ、心あるようにはいはれほのめく。",
-        "translation-ja": "国司の館の人々の中で、このやって来た人々こそ、心のあるように言われ、ほのかにそう感じられる。",
-        "translation-en": "Among the people of the governor's residence, these visitors are the ones who are said to have sincerity, and it slightly seems that way.",
+	"translation-ja": "国司たちの人々の中に、この来る人々こそ、心あるように言われ、ほのめく。",
+        "translation-en": "Among the governor's people, these coming people are the very ones who are said to be sincere, and it faintly appears so.",
 	"translation-zh": "在国守的宅邸的人们中，这些来的人们被据说是有心的，也稍微看得出来（有心）。",
-        "translation-ja-natural": "国司の館にいる人々の中で、このやって来た人たちは、誠実な心を持っているようだと話され、どことなくそんな雰囲気も感じられる。",
-        "translation-en-natural": "Among the people at the governor's residence, these visitors are spoken of as sincere, and they do seem to give off that impression.",
+	"phrase-gloss": [
+          {
+            "phrase": "守のたちの人々の中に",
+            "gloss": "among the people of the governor's group",
+            "words": [
+              {
+                "word": "守",
+                "gloss": "governor"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "たち",
+                "gloss": "PL"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "人々",
+                "gloss": "people"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "中",
+                "gloss": "inside"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "この來る人々ぞ",
+            "gloss": "these people who come indeed",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "來る",
+                "gloss": "come.ATTR"
+              },
+              {
+                "word": "人々",
+                "gloss": "people"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "FOC"
+              }
+            ]
+          },
+          {
+            "phrase": "心あるやうには",
+            "gloss": "as if (they) had sincerity",
+            "words": [
+              {
+                "word": "心",
+                "gloss": "heart"
+              },
+              {
+                "word": "ある",
+                "gloss": "have.ATTR"
+              },
+              {
+                "word": "やう",
+                "gloss": "manner"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "いはれほのめく",
+            "gloss": "(they) are said and faintly appear so",
+            "words": [
+              {
+                "word": "いはれ",
+                "gloss": "say.PASS.ADV"
+              },
+              {
+                "word": "ほのめく",
+                "gloss": "faintly.appear"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+	"translation-ja-natural": "国司の人々の中で、この来た人たちこそ、心あるように言われていて、そんなふうにも見える。",
+        "translation-en-natural": "Among the people serving the governor, these visitors are the ones considered to have sincerity, and it seems faintly so.",
 	"translation-zh-natural": "在国守的宅邸中的人里，据说这些来的人最有心的，看起来也确实如此。"
       },
       {
-        "date": "20241209",
+        "date": [
+          20241209,
+          20250803
+        ],
         "id": 39,
         "text": "かく別れ難くいひて、かの人々の口網ももろもちにてこの海邊にて荷ひいだせる歌、",
         "kana": "かくわかれがたくいひて、かのひとびとくちあみもろもちにてこのうみべにてになひいだせるうた、",
         "koutei-yamagen": "かく別れ難く言ひて、かの人々の口網ももろもちにて、この海辺にて荷ひ出だせる歌、",
-        "translation-ja": "このように別れがたいと言い、あの人々が口網をみんなで持って、この海辺で担ぎ出した歌。",
-        "translation-en": "Saying that parting was so hard, those people, with their fishing nets jointly held, brought forth a poem at this seaside.",
+        "translation-ja": "このように別れがたいと言って、あの人々が口網をみんなで持って、この海辺で担ぎ出した歌、",
+        "translation-en": "Saying that parting was hard, those people, carrying the fishing nets together, brought forth a poem at this seaside.",
 	"translation-zh": "说着此般难以分离，那些人们一起背着渔网（般），在这海边背出了和歌，",
-        "translation-ja-natural": "こうして別れがたい気持ちを語りながら、あの人たちは、まるで漁師が口網を一緒に担ぎ出すように、この海辺で歌を作り上げました。",
-        "translation-en-natural": "Expressing their reluctance to part, those people, as if carrying a fishing net together, composed a poem by the seaside.",
-	"translation-zh": "说着如此难以分离，众人像是一起扛着渔网般，协力在这海边作出一首和歌。"
+        "phrase-gloss": [
+          {
+            "phrase": "かく別れ難くいひて",
+            "gloss": "saying that parting is hard like this",
+            "words": [
+              {
+                "word": "かく",
+                "gloss": "like.this"
+              },
+              {
+                "word": "別れ",
+                "gloss": "parting.ADV"
+              },
+              {
+                "word": "難く",
+                "gloss": "hard.ADV"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "かの人々の口網ももろもちにて",
+            "gloss": "with those people carrying the fishing net together",
+            "words": [
+              {
+                "word": "かの",
+                "gloss": "that.DEM"
+              },
+              {
+                "word": "人々",
+                "gloss": "people"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "口網",
+                "gloss": "mouth.net"
+              },
+              {
+                "word": "も",
+                "gloss": "ADD"
+              },
+              {
+                "word": "もろもち",
+                "gloss": "together.hold"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "この海邊にて荷ひいだせる歌",
+            "gloss": "the poem carried out at this seaside",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this.DEM"
+              },
+              {
+                "word": "海邊",
+                "gloss": "seaside"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "荷ひ",
+                "gloss": "carry.ADV"
+              },
+              {
+                "word": "いだせ",
+                "gloss": "bring.out.ADV"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "こうして別れがたいと言いながら、あの人たちは口網を皆で担いで、この浜辺で歌を詠んだのだった。",
+        "translation-en-natural": "As they said it was hard to part, the people carried their fishing net together and composed a poem by the seaside.",
+	"translation-zh-natural": "说着如此难以分离，众人像是一起扛着渔网般，协力在这海边作出一首和歌。"
       },
       {
         "date": [
@@ -6146,29 +6360,217 @@
 	"translation-zh-natural": "珍惜我的人都留在此地，就像芦鸭聚集在一起一样，我已来到这里了啊。"
       },
       {
-        "date": "20241231",
+        "date": [
+          20241231,
+          20250803
+        ],
         "id": 41,
         "text": "といひてありければ、いといたく愛でゝ行く人のよめりける、",
         "kana": "といひてありければ、いといたくめでてゆくひとのよめりける、",
         "koutei-yamagen": "と言ひてありければ、いといたく愛でゝ行く人の詠めりける、",
-        "translation-ja": "と言っていたので、とても褒めつつ、去り行く人が詠んだのは、",
-        "translation-en": "Since it was being said, the person who praised it greatly and was leaving composed it.",
+        "translation-ja": "と言ってあったので、たいそうほめて、去っていく人が詠んだのだった。",
+        "translation-en": "Since it had been said, the person who praised it greatly and was leaving composed it.",
 	"translation-zh": "说着，因此，赞赏而去的人吟诵道，",
+        "phrase-gloss": [
+          {
+            "phrase": "といひてありければ",
+            "gloss": "since it had been said",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "いといたく愛でて",
+            "gloss": "praised it greatly",
+            "words": [
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "いたく",
+                "gloss": "intensely.ADV"
+              },
+              {
+                "word": "愛で",
+                "gloss": "praise.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "行く人のよめりける",
+            "gloss": "the person leaving composed it",
+            "words": [
+              {
+                "word": "行く",
+                "gloss": "go.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "よめ",
+                "gloss": "compose.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "そう言っていたので、大いに褒めながら立ち去る人が詠んだのは、",
         "translation-en-natural": "Because it was said, the person, praising it greatly, composed a poem as they left.",
 	"translation-zh-natural": "他这样这样说道，因此，品位着这首和歌而离去的人吟诵道，"
       },
       {
-        "date": "20250105",
+        "date": [
+          20250105,
+          20250804
+        ],
         "id": 42,
         "poem": "棹させど/底ひも知らぬ/わたつみの/ふかきこゝろを/君に見るかな",
         "kana": "さをさせど/そこひもしらぬ/わたつみの/ふかきこころを/きみにみるかな",
         "koutei-yamagen": "棹させど/底ひも知らぬ/わたつみの/深き心を/君に見るかな",
         "translation-ja": "棹さしても底もわからぬ深い心をあなたに見たのです。",
-        "translation-en": "Even as I push the pole, I see in you a deep heart whose bottom cannot be known.",
+        "translation-en": "Though I push the pole, I see in you the deep heart of the sea whose bottom is unknown.",
 	"translation-zh": "即使撑桨/也不知底的/大海的/深沉的心/见于你哉",
-        "translation-ja-natural": "棹をさしても底が見えないほど深い心を、あなたの中に見つけました。",
-        "translation-en-natural": "Even as I push the pole, I find in you a heart so deep its bottom cannot be reached.",
+        "phrase-gloss": [
+          {
+            "phrase": "棹させど",
+            "gloss": "though (I) push the pole",
+            "words": [
+              {
+                "word": "棹",
+                "gloss": "pole"
+              },
+              {
+                "word": "させ",
+                "gloss": "push.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "ALTHOUGH"
+              }
+            ]
+          },
+          {
+            "phrase": "底ひも知らぬ",
+            "gloss": "not even the bottom is known",
+            "words": [
+              {
+                "word": "底ひ",
+                "gloss": "bottom"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "知ら",
+                "gloss": "know.IRR"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG.ATTR"
+              }
+            ]
+          },
+          {
+            "phrase": "わたつみの",
+            "gloss": "of the sea",
+            "words": [
+              {
+                "word": "わたつみ",
+                "gloss": "sea"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "ふかきこゝろを",
+            "gloss": "deep heart.ACC",
+            "words": [
+              {
+                "word": "ふかき",
+                "gloss": "deep.ATTR"
+              },
+              {
+                "word": "こゝろ",
+                "gloss": "heart"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              }
+            ]
+          },
+          {
+            "phrase": "君に見るかな",
+            "gloss": "see it in you, how I do",
+            "words": [
+              {
+                "word": "君",
+                "gloss": "you"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "見る",
+                "gloss": "see"
+              },
+              {
+                "word": "かな",
+                "gloss": "EXCL"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "棹をさしてもなお、底すら知れない海のような、あなたの深い心を見たのです。",
+        "translation-en-natural": "Even though I try to probe, I see in you a deep heart like the sea, whose bottom I cannot know.",
 	"translation-zh-natural": "即使撑着桨，也看不见像深不见底的大海般的深不可测的您的心。"
       },
       {
@@ -6177,54 +6579,532 @@
         "text": "といふ間に楫取ものゝ哀も知らでおのれし酒をくらひつれば、早くいなむとて「潮滿ちぬ。風も吹きぬべし」とさわげば船に乘りなむとす。",
         "kana": "といふまにかぢとりもののあはれもしらでおのれさけをくらひつれば、はやくいなむとて「しほみちぬ。かぜもふきぬべし」とさわげば、ふねにのりなむとす。",
         "koutei-yamagen": "と言ふ間に、楫取ものの哀も知らで、己れし酒をくらひつれば、早くいなむとて「潮満ちぬ。風も吹きぬべし」とさわげば、船に乗りなむとす。",
-        "translation-ja": "と言っている間に、楫取は物の哀れも知らず、自分の酒を飲んでいたので、早く行こうとして、「潮が満ちた。風も吹きそうだ」と騒ぐので、船に乗ろうとする。",
-        "translation-en": "While they were saying this, the kajitori, without knowing the pathos of things, drank their own sake. So, intending to leave quickly, they said, 'The tide has risen. The wind is likely to blow,' and, making a commotion, tried to board the boat.",
+        "translation-ja": "と言う間に、楫取は物の哀れも知らず、自分の酒を飲んでしまったので、早く行こうとして、「潮が満ちた。風もきっと吹くだろう」と騒ぐので、船に乗ろうとする。",
+        "translation-en": "While they spoke, the kajitori, without knowing the pathos of things, having drunk his own sake, intending to go quickly, shouted, \"The tide has risen. The wind will surely blow,\" so that they were about to board the boat.",
 	"translation-zh": "言谈之间，划桨者不知物哀，自己喝着酒，接着，（像是在说）“快去吧”，大声叫唤道，“涨潮了。风也要吹起来了。”于是（国守）决定登船。",
-        "translation-ja-natural": "そんな話をしている間に、楫取たちは物の哀れも感じることなく、自分たちの酒を飲んでいました。それから、早く出発しようと、「潮が満ちたぞ。風も吹きそうだ」と騒ぎ出し、船に乗り込もうとしました。",
-        "translation-en-natural": "As they talked, the crew, unaware of the sorrow of the moment, drank their sake. Eager to leave, they said, 'The tide is coming in. The wind is picking up,' and, causing a stir, tried to board the boat.",
-	"translation-zh": "在说着这些话的时候，船夫没有感受到离别的哀愁，自顾自喝着酒。像是催着快走一般，大声叫道：“要涨潮了。要起风了。”于是，国守决定登船。"
+        "phrase-gloss": [
+          {
+            "phrase": "といふ間に",
+            "gloss": "while saying",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say.ATTR"
+              },
+              {
+                "word": "間",
+                "gloss": "interval"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "楫取ものゝ哀も知らで",
+            "gloss": "kajitori without knowing the pathos",
+            "words": [
+              {
+                "word": "楫取",
+                "gloss": "helmsman"
+              },
+              {
+                "word": "ものゝ哀",
+                "gloss": "pathos"
+              },
+              {
+                "word": "も",
+                "gloss": "ADD"
+              },
+              {
+                "word": "知ら",
+                "gloss": "know.IRR"
+              },
+              {
+                "word": "で",
+                "gloss": "NEG.ADV"
+              }
+            ]
+          },
+          {
+            "phrase": "おのれし酒をくらひつれば",
+            "gloss": "having drunk his own sake",
+            "words": [
+              {
+                "word": "おのれ",
+                "gloss": "self"
+              },
+              {
+                "word": "し",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "酒",
+                "gloss": "sake"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "くらひ",
+                "gloss": "drink.ADV"
+              },
+              {
+                "word": "つれ",
+                "gloss": "PERF.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "早くいなむとて",
+            "gloss": "intending to go quickly",
+            "words": [
+              {
+                "word": "早く",
+                "gloss": "quickly"
+              },
+              {
+                "word": "いな",
+                "gloss": "go.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "VOL"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "潮滿ちぬ",
+            "gloss": "the tide has risen",
+            "words": [
+              {
+                "word": "潮",
+                "gloss": "tide"
+              },
+              {
+                "word": "滿ち",
+                "gloss": "rise.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          },
+          {
+            "phrase": "風も吹きぬべし",
+            "gloss": "the wind will surely blow",
+            "words": [
+              {
+                "word": "風",
+                "gloss": "wind"
+              },
+              {
+                "word": "も",
+                "gloss": "ADD"
+              },
+              {
+                "word": "吹き",
+                "gloss": "blow.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "べし",
+                "gloss": "CERT"
+              }
+            ]
+          },
+          {
+            "phrase": "とさわげば",
+            "gloss": "as they shout",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "さわげ",
+                "gloss": "shout.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "船に乘りなむとす",
+            "gloss": "are about to board the boat",
+            "words": [
+              {
+                "word": "船",
+                "gloss": "boat"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "乘り",
+                "gloss": "board.ADV"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "す",
+                "gloss": "do"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "そう言っている間に、楫取は物の哀れも知らず、自分の酒を飲み終えてしまったので、早く行こうとして、「潮が満ちた。風もきっと吹くだろう」と騒ぎ立てるので、船に乗ろうとする。",
+        "translation-en-natural": "While they were talking, the kajitori, unaware of the pathos of the moment, finished his own sake, and, wanting to leave quickly, shouted, 'The tide has risen. The wind will surely blow,' making a commotion as they prepared to board the boat.",
+	"translation-zh-natural": "在说着这些话的时候，船夫没有感受到离别的哀愁，自顾自喝着酒。像是催着快走一般，大声叫道：“要涨潮了。要起风了。”于是，国守决定登船。"
       },
       {
-        "date": "20250112",
+        "date": [
+          20250112,
+          20250806
+        ],
         "id": 44,
-        "text": "この折にある人々折節につけて、からうたども時に似つかはしき（をイ有）いふ。",
+        "text": "この折にある人々折節につけて、からうたども時に似つかはしきいふ。",
         "kana": "このおりにあるひとびとをりふしにつけてからうたどもときににつかはしきをいふ。",
         "koutei-yamagen": "この折に、ある人々、折節につけて、からうたども時に似つかはしきをいふ。",
-        "translation-ja": "この時に、ある人々が、折々に応じて、漢詩など、時にふさわしいものを言う。",
-        "translation-en": "At this time, certain people, in accordance with the occasion, recited Chinese poems that were suitable for the moment.",
+        "translation-ja": "この時に、ある人々が、折節につけて、漢詩ども、時に似つかわしいことを言う。",
+        "translation-en": "At this time, certain people, on each occasion, said Chinese poems befitting the time.",
 	"translation-zh": "在这个时候，有的人们根据时节吟诵唐诗等与时节相符的（内容）。",
-        "translation-ja-natural": "この時に、ある人々が、その時々に合わせて、漢詩など、その時にふさわしいものを詠みました。",
-        "translation-en-natural": "At this time, certain people recited Chinese poems that were appropriate for the occasion.",
-	"translation-zh-natural": "在这个时间，有些人会根据时节吟诵适合当时的情景的汉诗。"
+        "phrase-gloss": [
+          {
+            "phrase": "この折に",
+            "gloss": "at this time",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "折",
+                "gloss": "occasion"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "ある人々",
+            "gloss": "certain people",
+            "words": [
+              {
+                "word": "ある",
+                "gloss": "certain"
+              },
+              {
+                "word": "人々",
+                "gloss": "people"
+              }
+            ]
+          },
+          {
+            "phrase": "折節につけて",
+            "gloss": "on each occasion",
+            "words": [
+              {
+                "word": "折節",
+                "gloss": "occasion"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "つけ",
+                "gloss": "attach.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "からうたども",
+            "gloss": "Chinese poems.PL",
+            "words": [
+              {
+                "word": "からうた",
+                "gloss": "Chinese.poem"
+              },
+              {
+                "word": "ども",
+                "gloss": "PL"
+              }
+            ]
+          },
+          {
+            "phrase": "時に似つかはしき",
+            "gloss": "befitting the time",
+            "words": [
+              {
+                "word": "時",
+                "gloss": "time"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "似つかはしき",
+                "gloss": "befitting.ATTR"
+              }
+            ]
+          },
+          {
+            "phrase": "いふ",
+            "gloss": "say",
+            "words": [
+              {
+                "word": "いふ",
+                "gloss": "say"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "このとき、ある人たちが、その場その場に応じて、時にふさわしい漢詩を口にした。",
+        "translation-en-natural": "At this time, certain people, taking each occasion, recited Chinese poems suitable for the moment.",
+	"translation-zh-natural": "在这个时间，有些人会根据时节吟诵适合当时的情景的汉诗。",
+        "notes-ja": {
+          "title": "オリジナルのテキスト",
+          "note": "この折にある人々折節につけて、からうたども時に似つかはしき（をイ有）いふ。"
+        }
       },
       {
-        "date": "20250112",
+        "date": [
+          20250112,
+          20250806
+        ],
         "id": 45,
         "text": "又ある人西國なれど甲斐歌などいふ。",
         "kana": "またあるひとにしぐになれどかひうたなどいふ。",
         "koutei-yamagen": "また、ある人、西国なれど甲斐歌などいふ。",
-        "translation-ja": "また、ある人、西国であるが、甲斐の歌などという。",
-        "translation-en": "And a person, even if it is the western provinces, sings Kai songs.",
+        "translation-ja": "また、ある人が、西国であるけれども、甲斐の歌などを言う。",
+        "translation-en": "Also, a certain person, though from the western provinces, says Kai songs and the like.",
 	"translation-zh": "另外，有人虽是西国（人），却吟甲斐歌等。",
-        "translation-ja-natural": "また、ある人は、西国なのに、甲斐の歌などを歌っています。",
-        "translation-en-natural": "Meanwhile, someone was singing songs from Kai Province, even though we were in the western regions.",
+        "phrase-gloss": [
+          {
+            "phrase": "またある人",
+            "gloss": "also a certain person",
+            "words": [
+              {
+                "word": "また",
+                "gloss": "also"
+              },
+              {
+                "word": "ある",
+                "gloss": "certain"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              }
+            ]
+          },
+          {
+            "phrase": "西國なれど",
+            "gloss": "though from the western provinces",
+            "words": [
+              {
+                "word": "西國",
+                "gloss": "western.provinces"
+              },
+              {
+                "word": "なれ",
+                "gloss": "COP.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "CONC"
+              }
+            ]
+          },
+          {
+            "phrase": "甲斐歌などいふ",
+            "gloss": "say Kai songs and the like",
+            "words": [
+              {
+                "word": "甲斐",
+                "gloss": "Kai.PN"
+              },
+              {
+                "word": "歌",
+                "gloss": "song"
+              },
+              {
+                "word": "など",
+                "gloss": "etc"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "また、ある人は西国の出であるが、甲斐の歌などを口にする。",
+        "translation-en-natural": "Another person, though from the western provinces, recited Kai songs and the like.",
 	"translation-zh-natural": "还有一个人，虽然是个西部的人，却吟唱着甲斐的歌。"
       },
       {
-        "date": "20250115",
+        "date": [
+          20250115,
+          20250808
+        ],
         "id": 46,
         "text": "かくうたふに、ふなやかたの塵も散り、空ゆく雲もたゞよひぬとぞいふなる。",
         "kana": "かくうたふに、ふなやかたのちりもちり、そらゆくくももただよひぬとそいふなる。",
         "koutei-yamagen": "かくうたふに、ふなやかたの塵も散り、空ゆく雲もただよひぬとぞ言ふなる。",
-        "translation-ja": "このように歌うと、船屋の塵も散り、空を行く雲もただよったと言われる。",
-        "translation-en": "When sung in this way, the dust of the boatyard also scattered, and the clouds going in the sky also drifted, it is said.",
+        "translation-ja": "こう歌うと、船屋形の塵も散り、空行く雲もただよったと言うのだそうだ。",
+        "translation-en": "When they sang like this, even the dust of the houseboat scattered, and even the clouds going through the sky drifted, it is said.",
 	"translation-zh": "此般吟唱之间，据说船屋之尘散，升空之云也飘荡起来。",
-        "translation-ja-natural": "このように歌うと、船屋の塵が舞い、空を流れる雲までも漂ったと言っているようです。",
-        "translation-en-natural": "When sung in this way, it is said that even the dust in the boatyard scattered, and the clouds drifting across the sky seemed to float aimlessly.",
+        "phrase-gloss": [
+          {
+            "phrase": "かくうたふに",
+            "gloss": "when singing thus",
+            "words": [
+              {
+                "word": "かく",
+                "gloss": "thus"
+              },
+              {
+                "word": "うたふ",
+                "gloss": "sing.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "ふなやかたの塵も散り",
+            "gloss": "even the dust of the houseboat scattered",
+            "words": [
+              {
+                "word": "ふなやかた",
+                "gloss": "houseboat"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "塵",
+                "gloss": "dust"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "散り",
+                "gloss": "scatter.ADV"
+              }
+            ]
+          },
+          {
+            "phrase": "空ゆく雲もたゞよひぬ",
+            "gloss": "even the clouds going through the sky drifted",
+            "words": [
+              {
+                "word": "空",
+                "gloss": "sky"
+              },
+              {
+                "word": "ゆく",
+                "gloss": "go.ATTR"
+              },
+              {
+                "word": "雲",
+                "gloss": "cloud"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "たゞよひ",
+                "gloss": "drift.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          },
+          {
+            "phrase": "とぞいふなる",
+            "gloss": "it is said",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say.ATTR"
+              },
+              {
+                "word": "なる",
+                "gloss": "REP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "こうして歌うと、屋形船の塵も散り、空を行く雲も漂ったと言うのだそうだ。",
+        "translation-en-natural": "They say that when it was sung like this, even the dust on the houseboat scattered and the clouds in the sky drifted.",
 	"translation-zh-natural": "据说他唱着的时侯，船屋中的尘烟四散，升入空中的云也随之飘荡了起来。"
       },
       {
-        "date": "20250116",
+        "date": [
+          20250116,
+          20250809
+        ],
         "id": 47,
         "text": "今宵浦戸にとまる。",
         "kana": "こよひうらとにとまる。",
@@ -6232,155 +7112,1103 @@
         "translation-ja": "今宵、浦戸に泊まる。",
         "translation-en": "Tonight, we stay at Urado.",
 	"translation-zh": "今宵，停泊于浦户。",
-        "translation-ja-natural": "今夜は、浦戸に泊まります。",
+        "phrase-gloss": [
+          {
+            "phrase": "今宵",
+            "gloss": "tonight",
+            "words": [
+              {
+                "word": "今宵",
+                "gloss": "tonight"
+              }
+            ]
+          },
+          {
+            "phrase": "浦戸に",
+            "gloss": "at Urado",
+            "words": [
+              {
+                "word": "浦戸",
+                "gloss": "Urado.PN"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "とまる",
+            "gloss": "stay",
+            "words": [
+              {
+                "word": "とまる",
+                "gloss": "stay"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "今夜は、浦戸に泊まる。",
         "translation-en-natural": "Tonight, we will stay at Urado.",
 	"translation-zh-natural": "今晚，国守一行停泊在浦户。"
       },
       {
-        "date": "20250117",
+        "date": [
+          20250117,
+          20250810
+        ],
         "id": 48,
         "text": "藤原のとき實、橘の季衡、こと人々追ひきたり。",
-        "kana": "ふじわらのときざね、たちばなのときひら、ことひとびとおひきたり。",
+        "kana": "ふじわらのときざね、たちばなのすゑひら、ことひとびとおひきたり。",
         "koutei-yamagen": "藤原の時実、橘の季衡、こと人々追ひ来たり。",
         "translation-ja": "藤原の時実、橘の季衡、その他の人々が追いかけてきた。",
         "translation-en": "Fujiwara no Tokizane, Tachibana no Suehira, and others followed.",
 	"translation-zh": "藤原时实、橘季衡，其他人们追了上来。",
-        "translation-ja-natural": "藤原の時実、橘の季衡、その他の人々が追いかけてきました。",
+        "phrase-gloss": [
+          {
+            "phrase": "藤原のとき實",
+            "gloss": "Fujiwara no Tokizane",
+            "words": [
+              {
+                "word": "藤原",
+                "gloss": "Fujiwara.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "とき實",
+                "gloss": "Tokizane.PN"
+              }
+            ]
+          },
+          {
+            "phrase": "橘の季衡",
+            "gloss": "Tachibana no Suehira",
+            "words": [
+              {
+                "word": "橘",
+                "gloss": "Tachibana.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "季衡",
+                "gloss": "Suehira.PN"
+              }
+            ]
+          },
+          {
+            "phrase": "こと人々",
+            "gloss": "other people",
+            "words": [
+              {
+                "word": "こと",
+                "gloss": "other"
+              },
+              {
+                "word": "人々",
+                "gloss": "people"
+              }
+            ]
+          },
+          {
+            "phrase": "追ひきたり",
+            "gloss": "followed",
+            "words": [
+              {
+                "word": "追ひ",
+                "gloss": "follow.ADV"
+              },
+              {
+                "word": "き",
+                "gloss": "come.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "藤原の時実、橘の季衡、その他の人々が追いかけてきた。",
         "translation-en-natural": "Fujiwara no Tokizane, Tachibana no Suehira, and others followed.",
 	"translation-zh-natural": "藤原时实、橘季衡，还有其他人又追了上来。"
       },
       {
-        "date": "20250118",
+        "date": [
+          20250118,
+          20250810
+        ],
         "id": 49,
         "text": "廿八日、浦戸より漕ぎ出でゝ大湊をおふ。",
         "kana": "にぢふやうか、うらとよりこぎいでておほみなとをおふ。",
         "koutei-yamagen": "二十八日、浦戸より漕ぎ出でて、大湊を追ふ。",
-        "translation-ja": "二十八日、浦戸を出て、大湊に向かう。",
-        "translation-en": "On the twenty-eighth day, we set out from Urado and headed for Ominato.",
+        "translation-ja": "二十八日、浦戸より漕ぎ出でて、大湊を追う。",
+        "translation-en": "On the twenty-eighth day, we rowed out from Urado and pursued Ominato.",
 	"translation-zh": "廿八日，从浦户驶离，驶向大湊。",
-        "translation-ja-natural": "二十八日、浦戸を出発し、大湊に向かいました。",
-        "translation-en-natural": "On the twenty-eighth day, we departed from Urado and made our way to Ominato.",
+        "phrase-gloss": [
+          {
+            "phrase": "廿八日",
+            "gloss": "twenty-eighth day",
+            "words": [
+              {
+                "word": "廿八",
+                "gloss": "twenty-eight"
+              },
+              {
+                "word": "日",
+                "gloss": "day"
+              }
+            ]
+          },
+          {
+            "phrase": "浦戸より",
+            "gloss": "from Urado",
+            "words": [
+              {
+                "word": "浦戸",
+                "gloss": "Urado.PN"
+              },
+              {
+                "word": "より",
+                "gloss": "ABL"
+              }
+            ]
+          },
+          {
+            "phrase": "漕ぎ出でて",
+            "gloss": "rowed out",
+            "words": [
+              {
+                "word": "漕ぎ",
+                "gloss": "row.ADV"
+              },
+              {
+                "word": "出で",
+                "gloss": "go_out.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "大湊を追う",
+            "gloss": "pursued Ominato",
+            "words": [
+              {
+                "word": "大湊",
+                "gloss": "Ominato.PN"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "追う",
+                "gloss": "pursue"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "二十八日、浦戸から漕ぎ出して、大湊へ向かった。",
+        "translation-en-natural": "On the twenty-eighth day, we rowed out from Urado and headed toward Ominato.",
 	"translation-zh-natural": "二十八日，国守一行人从浦户出发，驶向大湊。"
       },
       {
-        "date": "20250119",
-        "id": 49,
+        "date": [
+          20250119,
+          20250811
+        ],
+        "id": 50,
         "text": "この間にはやくの國の守の子山口の千岑、酒よき物どももてきて船に入れたり。",
         "kana": "このあいだにはやくのくにのかみのこやまぐちのちみね、さけよきものどももてきてふねにいれたり。",
         "koutei-yamagen": "この間に、早くの国の守の子、山口の千岑、酒、よき物ども持て来て、船に入れたり。",
         "translation-ja": "この間に、以前の国の守の子、山口の千岑、酒、よい物を持ってきて、船に入れた。",
         "translation-en": "During this time, the son of the former governor of this country, Chisato Yamaguchi, brought sake and good things and put them on the boat.",
 	"translation-zh": "在此期间，前任的国守之子山口千岑，携酒、好物而来，放进了船。",
-        "translation-ja-natural": "この間に、先のこの国の国司の子、山口の千岑が、酒やけっこな品々を持ってきて、船に差し入れをしました。",
+        "phrase-gloss": [
+          {
+            "phrase": "この間に",
+            "gloss": "during this time",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "間",
+                "gloss": "interval"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "はやくの國の守の子",
+            "gloss": "son of the former governor of this country",
+            "words": [
+              {
+                "word": "はやく",
+                "gloss": "formerly"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "國",
+                "gloss": "country"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "守",
+                "gloss": "governor"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "子",
+                "gloss": "child"
+              }
+            ]
+          },
+          {
+            "phrase": "山口の千岑",
+            "gloss": "Chisato Yamaguchi",
+            "words": [
+              {
+                "word": "山口",
+                "gloss": "Yamaguchi.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "千岑",
+                "gloss": "Chisato.PN"
+              }
+            ]
+          },
+          {
+            "phrase": "酒、よき物どももてきて",
+            "gloss": "brought sake and good things",
+            "words": [
+              {
+                "word": "酒",
+                "gloss": "sake"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "よき",
+                "gloss": "good.ATTR"
+              },
+              {
+                "word": "物",
+                "gloss": "thing"
+              },
+              {
+                "word": "ども",
+                "gloss": "PL"
+              },
+              {
+                "word": "も",
+                "gloss": "bring.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "き",
+                "gloss": "come.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "船に入れたり",
+            "gloss": "put them on the boat",
+            "words": [
+              {
+                "word": "船",
+                "gloss": "boat"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "入れ",
+                "gloss": "put.in.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "この間に、先のこの国の国司の子、山口の千岑が、酒やけっこな品々を持ってきて、船に差し入れをした。",
         "translation-en-natural": "During this time, the son of the former governor of this country, Chisato Yamaguchi, brought sake and other good things and put them on the boat.",
 	"translation-zh-natural": "在这段时间里，前任国守的儿子山口千岑带来了酒和其他佳品，放入船中。"
       },
       {
-        "date": "20250119",
-        "id": 50,
+        "date": [
+          20250119,
+          20250812
+        ],
+        "id": 51,
         "text": "ゆくゆく飮みくふ。",
         "kana": "ゆくゆくのみくふ。",
         "koutei-yamagen": "ゆくゆく飲み食ふ。",
         "translation-ja": "ゆくゆく飲み食う。",
         "translation-en": "We will eat and drink as we go.",
 	"translation-zh": "一路行进饮食。",
-        "translation-ja-natural": "航行しながら、飲み食いをしていきました。",
-        "translation-en-natural": "We ate and drank as we sailed.",
+        "phrase-gloss": [
+          {
+            "phrase": "ゆくゆく",
+            "gloss": "as we go, along the way",
+            "words": [
+              {
+                "word": "ゆく",
+                "gloss": "go"
+              },
+              {
+                "word": "ゆく",
+                "gloss": "go"
+              }
+            ]
+          },
+          {
+            "phrase": "飮みくふ",
+            "gloss": "eat and drink",
+            "words": [
+              {
+                "word": "飮み",
+                "gloss": "drink.ADV"
+              },
+              {
+                "word": "くふ",
+                "gloss": "eat"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "道中で飲んだり食べたりする。",
+        "translation-en-natural": "We will eat and drink along the way.",
 	"translation-zh-natural": "国守一行一路上吃吃喝喝。"
       },
       {
-        "date": "20250120",
-        "id": 51,
+        "date": [
+          20250120,
+          20250812
+        ],
+        "id": 52,
         "text": "廿九日、大湊にとまれり。",
         "kana": "にぢふくにち、おほみなとにとまれり。",
         "koutei-yamagen": "二十九日、大湊に泊まれり。",
         "translation-ja": "二十九日。大湊に泊っている。",
         "translation-en": "On the twenty-ninth day, we stayed at Ominato.",
 	"translation-zh": "廿九日，泊于大湊。",
-        "translation-ja-natural": "二十九日、大湊に泊まっています。",
-        "translation-en-natural": "On the twenty-ninth day, we stayed at Ominato.",
+        "phrase-gloss": [
+          {
+            "phrase": "廿九日",
+            "gloss": "twenty-ninth day",
+            "words": [
+              {
+                "word": "廿九",
+                "gloss": "twenty-nine"
+              },
+              {
+                "word": "日",
+                "gloss": "day"
+              }
+            ]
+          },
+          {
+            "phrase": "大湊に",
+            "gloss": "at Ominato",
+            "words": [
+              {
+                "word": "大湊",
+                "gloss": "Ominato.PN"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "とまれり",
+            "gloss": "stayed (and the state continues)",
+            "words": [
+              {
+                "word": "とまれ",
+                "gloss": "stay.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "二十九日、大湊に泊まっている。",
+        "translation-en-natural": "On the twenty-ninth day, we are staying at Ominato.",
 	"translation-zh-natural": "二十九日，国守一行停泊在大湊。"
       },
       {
-        "date": "20250120",
-        "id": 52,
+        "date": [
+          20250120,
+          20250812
+        ],
+        "id": 53,
         "text": "くす師ふりはへて屠蘇白散酒加へてもて來たり。",
         "kana": "くすしふりはへてとうそびやくさんしゆくわへてもてきたり。",
         "koutei-yamagen": "くす師ふりはへて、屠蘇白散酒加へて持て来たり。",
-        "translation-ja": "薬師が、念を入れて屠蘇や白散に酒を加えて持ってきた。",
-        "translation-en": "The apothecary, taking special care, brought toso and hakusan, adding sake.",
+        "translation-ja": "薬師が、念を入れて、屠蘇、白散、酒を加えて、持って来た。",
+        "translation-en": "The apothecary, taking special care, brought toso, hakusan, and sake.",
 	"translation-zh": "药师特意将屠苏、白散入酒，带了过来。",
-        "translation-ja-natural": "薬師が気を利かせて、屠蘇や白散に酒を混ぜて持ってきました。",
-        "translation-en-natural": "The apothecary thoughtfully prepared tosō and hakusan, mixing them with sake, and brought it over.",
-	"translation-zh-natural": "药师特意将用屠苏和白散调制好的酒带给了国守一行人。"
+        "phrase-gloss": [
+          {
+            "phrase": "くす師",
+            "gloss": "apothecary",
+            "words": [
+              {
+                "word": "くす",
+                "gloss": "medicine"
+              },
+              {
+                "word": "師",
+                "gloss": "master, professional"
+              }
+            ]
+          },
+          {
+            "phrase": "ふりはへて",
+            "gloss": "taking special care",
+            "words": [
+              {
+                "word": "ふり",
+                "gloss": "shake.ADV"
+              },
+              {
+                "word": "はへ",
+                "gloss": "crawl.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "屠蘇白散",
+            "gloss": "toso, byakusan",
+            "words": [
+              {
+                "word": "屠蘇",
+                "gloss": "toso"
+              },
+              {
+                "word": "白散",
+                "gloss": "byakusan"
+              }
+            ]
+          },
+          {
+            "phrase": "酒加へて",
+            "gloss": "sake adding",
+            "words": [
+              {
+                "word": "酒",
+                "gloss": "sake"
+              },
+              {
+                "word": "加へ",
+                "gloss": "add.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "もて來たり",
+            "gloss": "brought",
+            "words": [
+              {
+                "word": "も",
+                "gloss": "take.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "來",
+                "gloss": "come.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "薬師が気を利かせて、屠蘇や白散に酒を加えて持ってきた。",
+        "translation-en-natural": "The apothecary thoughtfully prepared toso and byakusan, adding sake to them , and brought them over.",
+	"translation-zh-natural": "药师特意将用屠苏和白散调制好的酒带给了国守一行人。",
+        "notes-ja": [
+          {
+            "title": "屠蘇",
+            "note": "正月に飲む薬酒。数種類の薬草を酒やみりんに浸けて作る。邪気払いと健康長寿の意味を持つ。"
+          },
+          {
+            "title": "白散",
+            "note": "白色の粉末薬。胃腸薬や解熱薬として用いられた。「白散」は薬方名でもある。"
+          },
+          {
+            "title": "酒加へて",
+            "note": "屠蘇は通常酒を含むが、ここではさらに酒を加えることを明示している。常識に対するあえての追加であり、薬師の念入りさやもてなしの心を強調する文学的表現。"
+          },
+          {
+            "title": "屠蘇白散酒加へての意味",
+            "note": "貫之が「屠蘇白散酒加へて」とわざわざ書いた背景には、次のような層があると考えられる。屠蘇は本来、薬草を酒やみりんに浸けた薬酒だから、酒分を含んでいるのは常識。それにもかかわらず、さらに「酒加へて」と書くのは、通常の屠蘇よりも強く、あるいは特別な配合を意図したことを暗示するかも。"
+          },
+          {
+            "title": "列挙の中での結びつきの強調",
+            "note": "「屠蘇」「白散」という二つの薬物が並んで出てくるが、そこに「酒」という第三の要素が加わることで、薬効と嗜好の境界を行き来する飲み物になる。その結果、薬師の行為は治療ともてなしの両義的なものとして描かれ、「ふりはへて」の語句の意味が効いてくる。"
+          },
+          {
+            "title": "行為の強調と人物像の表現",
+            "note": "「酒加へて」は、薬師が単に処方通りに作るだけでなく、「ふりはへて」（念入りに、あるいは手を加えて）行っている様子と響き合う。読者には「気を利かせた」「余計にサービスした」というニュアンスが伝わる。"
+          },
+          {
+            "title": "文学的効果としての'過剰'",
+            "note": "常識的に酒を含む屠蘇にさらに酒を加える行為は、「過剰」「念入り」「こだわり」といった情景を浮かび上がらせる。これは、旅の疲れや正月の晴れがましさ、あるいは医者の人柄などを一瞬で描くための文学的な技巧かもしれないが、もう一つとしては、薬師もまた薬に見せかけ、酒を飲みにやってきた、むしろ、そちらの目的の方が主であることを貫之は匂わせているとも考えられる。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Toso",
+            "note": "A traditional New Year's spiced sake made by infusing medicinal herbs in sake or mirin, believed to drive away evil spirits and promote health and longevity."
+          },
+          {
+            "title": "Byakusan",
+            "note": "A white powdered herbal medicine, used historically as a stomachic or antipyretic. The term 'Byakusan' is also the name of a specific medicinal formula."
+          },
+          {
+            "title": "Sake added",
+            "note": "Toso customarily contains sake, but here the text explicitly states that additional sake was added. This deliberate emphasis highlights the apothecary's thoroughness and sense of hospitality."
+          },
+          {
+            "title": "Meaning of 'Toso Byakusan Sake added'",
+            "note": "The phrase 'Toso Byakusan Sake added' suggests a layer of meaning: while Toso is traditionally a medicinal spiced sake, the addition of more sake implies a stronger or special formulation. This could indicate the apothecary's intent to create a more potent or unique concoction."
+          },
+          {
+            "title": "Emphasis on Connection in Enumeration",
+            "note": "The juxtaposition of 'Toso' and 'Byakusan' creates a medicinal and palatable drink by adding 'sake' as a third element. This results in a portrayal of the apothecary's actions as both therapeutic and hospitable, enhancing the meaning of 'furihaete' (taking special care)."
+          },
+          {
+            "title": "Emphasis on Action and Character Expression",
+            "note": "'Sake added' resonates with 'furihaete' (taking special care), suggesting that the apothecary is not merely following a prescription but is also attentive and meticulous. This conveys a nuance of 'thoughtfulness' or 'extra service' to the reader."
+          },
+          {
+            "title": "Literary Effect of 'Excess'",
+            "note": "The act of adding more sake to Toso, which is already understood to contain sake, evokes images of 'excess,' 'thoroughness,' and 'attention to detail.' This literary technique may quickly depict the weariness of travel, the festive spirit of New Year's, or the apothecary's character. Alternatively, it could suggest that the apothecary is also there to drink, hinting that the primary purpose of his visit might be more social than medicinal."
+          }
+        ]
       },
       {
-        "date": "20250120",
-        "id": 53,
+        "date": [
+          20250120,
+          20250814
+        ],
+        "id": 54,
         "text": "志あるに似たり。",
         "kana": "こころざしあるににたり。",
         "koutei-yamagen": "志あるに似たり。",
         "translation-ja": "志があるように見える。",
         "translation-en": "It seems that there is sincerity.",
 	"translation-zh": "似乎有志。",
+        "phrase-gloss": [
+          {
+            "phrase": "志あるに",
+            "gloss": "sincerity exist",
+            "words": [
+              {
+                "word": "志",
+                "gloss": "sincerity"
+              },
+              {
+                "word": "ある",
+                "gloss": "exist.ATTR"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          },
+          {
+            "phrase": "似たり",
+            "gloss": "seem like",
+            "words": [
+              {
+                "word": "似",
+                "gloss": "seem.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "誠意があるように思える。",
         "translation-en-natural": "It seems like there is genuine sincerity.",
 	"translation-zh-natural": "看起来似乎有诚意。"
       },
       {
-        "date": "20250124",
-        "id": 54,
+        "date": [
+          20250124,
+          20250815
+        ],
+        "id": 55,
         "text": "元日、なほ同じとまりなり。",
         "kana": "がんたん、なほおなじとまりなり。",
         "koutei-yamagen": "元日、なほ同じ泊まりなり。",
         "translation-ja": "元日、まだ同じ停泊地にいる。",
         "translation-en": "On New Year's Day, we are still staying in the same place.",
 	"translation-zh": "元日，仍停泊于同（处）。",
-        "translation-ja-natural": "元日も、まだ同じ場所に停泊しています。",
+        "phrase-gloss": [
+          {
+            "phrase": "元日、",
+            "gloss": "On New Year's Day,",
+            "words": [
+              {
+                "word": "元日",
+                "gloss": "New Year's Day"
+              }
+            ]
+          },
+          {
+            "phrase": "なほ",
+            "gloss": "still",
+            "words": [
+              {
+                "word": "なほ",
+                "gloss": "still"
+              }
+            ]
+          },
+          {
+            "phrase": "同じとまり",
+            "gloss": "the same anchorage",
+            "words": [
+              {
+                "word": "同じ",
+                "gloss": "same"
+              },
+              {
+                "word": "とまり",
+                "gloss": "anchorage; place of stay"
+              }
+            ]
+          },
+          {
+            "phrase": "なり。",
+            "gloss": "COP",
+            "words": [
+              {
+                "word": "なり",
+                "gloss": "COP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "元日も、まだ同じ場所に停泊している。",
         "translation-en-natural": "On New Year's Day, we are still staying in the same place.",
 	"translation-zh-natural": "元旦这天，国守一行仍停泊在同一个地方。"
       },
       {
-        "date": "20250125",
-        "id": 55,
+        "date": [
+          20250125,
+          20250816
+        ],
+        "id": 56,
         "text": "白散をあるもの夜のまとてふなやかたにさしはさめりければ、風に吹きならさせて海に入れてえ飮まずなりぬ。",
         "kana": "はくさんをあるものよのまとてふなやかたにさしはさめりければ、かぜにふきならさせてうみにいれてえのまずなりぬ。",
         "koutei-yamagen": "白散をある者、夜の間とて船屋形に差し挟めりければ、風に吹きならさせて海に入れてえ飲まずなりぬ。",
         "translation-ja": "白散を持っている人が、夜の間に船の屋形に差し挟んでいたところ、風に吹き鳴らされて海に入ってしまい、飲むことができなくなった。",
-	"translation-en": "A person who had byakusan, having wedged it into the boathouse overnight, had it blown noisily by the wind into the sea and was unable to drink it.",
-        "translation-ja-natural": "白散を持っていた人が、夜の間に船の屋形に置いておいたら、風に吹かれて海に落ちてしまい、飲めなくなりました。",
-        "translation-en-natural": "Someone who had byakusan left it overnight in the boathouse, but the wind blew it into the sea, so they couldn’t drink it.",
-	"translation-zh-natural": "有个人拿着用于元旦祈愿健康的白散而来，但想着因为是夜间，所以他没有直接上船，只是默默把白散塞进了船屋，结果白散被大风刮进了海里，无福享用了。"
+        "translation-en": "A person who had byakusan, having wedged it into the boathouse overnight, had it blown noisily by the wind into the sea and was unable to drink it.",
+	"translation-zh": "白散，某人想着夜间，（将之）塞入船屋形，结果被风吹得发响，入海，不得饮。",
+        "phrase-gloss": [
+          {
+            "phrase": "白散をあるもの",
+            "gloss": "a person who had byakusan",
+            "words": [
+              {
+                "word": "白散",
+                "gloss": "byakusan (white powdered medicine)"
+              },
+              {
+                "word": "を",
+                "gloss": "OBJ"
+              },
+              {
+                "word": "ある",
+                "gloss": "have"
+              },
+              {
+                "word": "もの",
+                "gloss": "person"
+              }
+            ]
+          },
+          {
+            "phrase": "夜のまとて",
+            "gloss": "overnight",
+            "words": [
+              {
+                "word": "夜",
+                "gloss": "night"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ま",
+                "gloss": "interval"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "ふなやかた",
+            "gloss": "boathouse",
+            "words": [
+              {
+                "word": "ふな",
+                "gloss": "boat"
+              },
+              {
+                "word": "やかた",
+                "gloss": "mansion, house"
+              }
+            ]
+          },
+          {
+            "phrase": "さしはさめりければ",
+            "gloss": "had wedged it",
+            "words": [
+              {
+                "word": "さし",
+                "gloss": "insert.ADV"
+              },
+              {
+                "word": "はさめ",
+                "gloss": "attach.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "風に吹きならさせて",
+            "gloss": "blown noisily by the wind",
+            "words": [
+              {
+                "word": "風",
+                "gloss": "wind"
+              },
+              {
+                "word": "に",
+                "gloss": "by"
+              },
+              {
+                "word": "吹き",
+                "gloss": "blow.ADV"
+              },
+              {
+                "word": "ならさ",
+                "gloss": "rattle.IRR"
+              },
+              {
+                "word": "せ",
+                "gloss": "CAUS.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "海に入れて",
+            "gloss": "into the sea",
+            "words": [
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "に",
+                "gloss": "into"
+              },
+              {
+                "word": "入れ",
+                "gloss": "enter.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "え飮まずなりぬ",
+            "gloss": "was unable to drink",
+            "words": [
+              {
+                "word": "え",
+                "gloss": "NEG.POT"
+              },
+              {
+                "word": "飮ま",
+                "gloss": "drink.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG.ADV"
+              },
+              {
+                "word": "なり",
+                "gloss": "become.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "白散を持っていた人が、夜のあいだ船の屋形に挟んでいたところ、風に吹かれてがたがた揺れ、海に落ちてしまい、結局飲めなくなった。",
+        "translation-en-natural": "Someone who had byakusan had wedged it into the boathouse overnight, but the wind rattled it until it fell into the sea, and in the end, they could not drink it.",
+	"translation-zh-natural": "有个人拿着用于元旦祈愿健康的白散而来，但想着因为是夜间，所以他没有直接上船，只是默默把白散塞进了船屋，结果白散被大风刮进了海里，喝不到了。"
       },
       {
-        "date": "20250126",
-        "id": 56,
-        "text": "芋し（もカ）あらめも齒固めもなし。",
+        "date": [
+          20250126,
+          20250818
+        ],
+        "id": 57,
+        "text": "芋しもあらめも齒固めもなし。",
         "kana": "いもしもあらめもくちかためもなし。",
         "koutei-yamagen": "芋茎もあらめも、歯固めもなし。",
         "translation-ja": "芋茎も荒布も、歯固めもない。",
-        "translation-en": "No potatoes, no seaweed, no hagatame teeth hardener.",
+        "translation-en": "No dried taro stems, no seaweed, no hagatame teeth hardener.",
 	"translation-zh": "芋薯，海藻，歯固都没有。",
-        "translation-ja-natural": "芋も海藻荒布も祝物の歯固めもありません。",
-        "translation-en-natural": "No potatoes, no seaweed, no festive \"Hagatame\" meat (a symbolic dish for celebrating longevity and resilience in Japanese tradition).",
-	"translation-zh-natural": "船里，没有芋头，没有海藻，也没有元旦要吃的庆祝长寿的“歯固”。"
+        "phrase-gloss": [
+          {
+            "phrase": "芋しも",
+            "gloss": "dried taro stems (zuiki) also",
+            "words": [
+              {
+                "word": "芋し",
+                "gloss": "dried taro stems (zuiki)"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              }
+            ]
+          },
+          {
+            "phrase": "あらめも",
+            "gloss": "arame seaweed also",
+            "words": [
+              {
+                "word": "あらめ",
+                "gloss": "arame"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              }
+            ]
+          },
+          {
+            "phrase": "齒固めもなし",
+            "gloss": "hagatame also not existing",
+            "words": [
+              {
+                "word": "齒固め",
+                "gloss": "hagatame"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "なし",
+                "gloss": "not exist"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "芋も、海藻の荒目も、祝いの歯固めも、何一つなかった。",
+        "translation-en-natural": "Neither potatoes, nor arame seaweed, nor even the hagatame offerings for the New Year were to be found.",
+	"translation-zh-natural": "船里，没有芋头，没有海藻，也没有元旦要吃的庆祝长寿的“歯固”。",
+        "notes-ja": [   
+          {
+            "title": "芋し",
+            "note": "「芋し」は、芋茎のこと。正月に食べるものとしては一般的ではないが、ここでは「芋し」として扱われている。"
+          },
+          {
+            "title": "あらめ",
+            "note": "「あらめ」は、海藻の一種で、正月の料理に使われることがある。"
+          },
+          {
+            "title": "齒固め",
+            "note": "「齒固め」は、歯を丈夫にするための食べ物で、正月の祝い物として知られる。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Dried Taro Stems (Zuiki)",
+            "note": "Dried taro stems, known as 'zuiki,' are traditionally consumed during the New Year in Japan."
+          },
+          {
+            "title": "Arame Seaweed",
+            "note": "'Arame' is a type of seaweed often used in Japanese cuisine, particularly in New Year's dishes."
+          },
+          {
+            "title": "Hagatame",
+            "note": "\"Hagatame\" (literally, 'to harden the teeth') is a symbolic New Year's dish, traditionally eaten to strengthen the teeth and to wish for health and longevity."
+          }
+        ]
       },
       {
-        "date": "20250127",
-        "id": 57,
+        "date": [
+          20250127,
+          20250820
+        ],
+        "id": 58,
         "text": "かやうの物もなき國なり。",
         "kana": "かやうのものもなきくになり。",
         "koutei-yamagen": "かようの物もなき国なり。",
         "translation-ja": "こういうものもない国である。",
         "translation-en": "It is a country without such things.",
 	"translation-zh": "是没有那样的东西的地方。",
-        "translation-ja-natural": "こんなものもないところです。",
+        "phrase-gloss": [
+          {
+            "phrase": "かやうの物",
+            "gloss": "such things",
+            "words": [
+              {
+                "word": "かやう",
+                "gloss": "such, like this"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "物",
+                "gloss": "thing(s)"
+              }
+            ]
+          },
+          {
+            "phrase": "もなき",
+            "gloss": "also not existing",
+            "words": [
+              {
+                "word": "も",
+                "gloss": "also, even"
+              },
+              {
+                "word": "なき",
+                "gloss": "absent.ATTR"
+              }
+            ]
+          },
+          {
+            "phrase": "國なり",
+            "gloss": "it is a country",
+            "words": [
+              {
+                "word": "國",
+                "gloss": "country"
+              },
+              {
+                "word": "なり",
+                "gloss": "COP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "こんなものもないところだ。",
         "translation-en-natural": "Here is a place without such things.",
 	"translation-zh-natural": "这里没有那些东西。"
       },
       {
         "date": "20250127",
-        "id": 58,
+        "id": 59,
         "text": "求めもおかず。",
         "kana": "もとめもおかず。",
         "koutei-yamagen": "求めもおかず。",
@@ -6393,7 +8221,7 @@
       },
       {
         "date": "20250128",
-        "id": 59,
+        "id": 60,
         "text": "唯おしあゆの口をのみぞ吸ふ。",
         "kana": "ただおしあゆのくちをのみそすふ。",
         "koutei-yamagen": "唯、押鮎の口をのみぞ吸ふ。",
@@ -6406,7 +8234,7 @@
       },
       {
         "date": "20250129",
-        "id": 60,
+        "id": 61,
         "text": "このすふ人々の口を押年魚もし思ふやうあらむや。",
         "kana": "このすふひとびとのくちをおしあゆもしおもふやうあらむや。",
         "koutei-yamagen": "この吸ふ人々の口を押年魚もし思ふやうあらむや。",
@@ -6419,7 +8247,7 @@
       },
       {
         "date": "20250130",
-        "id": 61,
+        "id": 62,
         "text": "今日は都のみぞ思ひやらるゝ。",
         "kana": "けふはみやこのみぞおもひやらるゝ。",
         "koutei-yamagen": "今日は都のみぞ思ひやらるる。",
@@ -6432,7 +8260,7 @@
       },
       {
         "date": "20250131",
-        "id": 62,
+        "id": 63,
         "text": "「九重の門のしりくめ繩のなよしの頭ひゝら木らいかに」とぞいひあへる。",
         "kana": "「こへのかどのしりくめなはのなよしのかしらひひらぎいかに」とぞいひあへる。",
         "koutei-yamagen": "「九重の門のしりくめ繩の鯔の頭、柊ら、いかに」とぞ言ひあへる。",
@@ -6445,7 +8273,7 @@
       },
       {
         "date": "20250201",
-        "id": 63,
+        "id": 64,
         "text": "二日、なほ大湊にとまれり。",
         "kana": "ふつか、なほおほみなとにとまれり。",
         "koutei-yamagen": "二日、なほ大湊に泊まれり。",
@@ -6458,7 +8286,7 @@
       },
       {
         "date": "20250202",
-        "id": 64,
+        "id": 65,
         "text": "講師、物、酒などおこせたり。",
         "kana": "こうじ、もの、さけなどおこせたり。",
         "koutei-yamagen": "講師、物、酒など起こせたり。",
@@ -6471,7 +8299,7 @@
       },
       {
         "date": "20250203",
-        "id": 65,
+        "id": 66,
         "text": "三日、同じ所なり。",
         "kana": "みっか、おなじところなり。",
         "koutei-yamagen": "三日、同じところなり。",
@@ -6484,7 +8312,7 @@
       },
       {
         "date": "20250204",
-        "id": 66,
+        "id": 67,
         "text": "もし風浪のしばしと惜む心やあらむ、心もとなし。",
         "kana": "もしかぜなみのしばしとをしむこころやあらむ、こころもとなし。",
         "koutei-yamagen": "もし風浪のしばしと惜しむ心やあらむ。心もとなし。",
@@ -6497,7 +8325,7 @@
       },
       {
         "date": "20250205",
-        "id": 67,
+        "id": 68,
         "text": "四日、風吹けばえ出でたゝず。",
         "kana": "よっか、かぜふけばえいでたたず。",
         "koutei-yamagen": "四日、風吹けば、え出でたたず。",
@@ -6510,7 +8338,7 @@
       },
       {
         "date": "20250206",
-        "id": 68,
+        "id": 69,
         "text": "昌連酒よき物たてまつれり。",
         "kana": "まさつらさけよきものたてまつれり。",
         "koutei-yamagen": "昌連、酒、よき物たてまつれり。",
@@ -6529,7 +8357,7 @@
       },
       {
         "date": "20250207",
-        "id": 69,
+        "id": 70,
         "text": "このかうやうの物もて來るひとになほしもえあらでいさゝげわざせさすものもなし。",
         "kana": "このかうやうのものもてくるひとになほしもえあらでいささげわざせさすものもなし。",
         "koutei-yamagen": "このかうやうの物持て来る人に、なほしもえあらでいさざげわざせさすものもなし。",
@@ -6542,7 +8370,7 @@
       },
       {
         "date": "20250208",
-        "id": 70,
+        "id": 71,
         "text": "にぎはゝしきやうなれどまくるこゝちす。",
         "kana": "にぎははしきやうなれどまくるここちす。",
         "koutei-yamagen": "にぎははしきやうなれど、まくる心地す。",
@@ -6558,7 +8386,7 @@
       },
       {
         "date": "20250209",
-        "id": 71,
+        "id": 72,
         "text": "五日、風浪やまねば猶同じ所にあり。",
         "kana": "いつか、かぜなみやまねばなほおなじところにあり。",
         "koutei-yamagen": "五日、風浪やまねば、猶、同じ所にあり。",
@@ -6571,7 +8399,7 @@
       },
       {
         "date": "20250210",
-        "id": 72,
+        "id": 73,
         "text": "人々絶えずとぶらひにく。",
         "kana": "ひとびとたえずとぶらひにく。",
         "koutei-yamagen": "人々絶えずとぶらひにく。",
@@ -6584,7 +8412,7 @@
       },
       {
         "date": "20250211",
-        "id": 73,
+        "id": 74,
         "text": "六日、きのふのごとし。",
         "kana": "むいか、きのふのごとし。",
         "koutei-yamagen": "六日、昨日のごとし。",
@@ -6595,7 +8423,7 @@
       },
       {
         "date": "20250211",
-        "id": 73,
+        "id": 75,
         "text": "七日になりぬ。",
         "kana": "なぬかになりぬ。",
         "koutei-yamagen": "七日になりぬ。",
@@ -6606,7 +8434,7 @@
       },
       {
         "date": "20250211",
-        "id": 74,
+        "id": 76,
         "text": "同じ湊にあり。",
         "kana": "おなじみなとにあり。",
         "koutei-yamagen": "同じ湊にあり。",
@@ -6616,7 +8444,7 @@
       },
       {
         "date": "20250212",
-        "id": 75,
+        "id": 77,
         "text": "今日は白馬を思へどかひなし。",
         "kana": "けふはあをむまをおもへどかひなし。",
         "koutei-yamagen": "今日は白馬を思へど、かひなし。",
@@ -6631,7 +8459,7 @@
       },
       {
         "date": "20250213",
-        "id": 76,
+        "id": 78,
         "text": "たゞ浪の白きのみぞ見ゆる。",
         "kana": "ただなみのしろきのみそみゆる。",
         "koutei-yamagen": "ただ、浪の白きのみそ見ゆる。",
@@ -6642,7 +8470,7 @@
       },
       {
         "date": "20250214,20250217",
-        "id": 77,
+        "id": 79,
         "text": "かゝる間に人の家（野イ）の池と名ある所より鯉はなくて鮒よりはじめて川のも、海のも、ことものども、ながびつにになひつゞけておこせたり。",
         "kana": "かかるあひだにひとのいへのいけとなあるところよりこひはなくてふなりよりはじめてかはのも、うみのも、ことものども、ながびつにになひつづけておこせたり。",
         "koutei-yamagen": "かかる間に人の家の池と名ある所より鯉はなくて鮒よりはじめて川のも、海のも、ことものども、長びつにになひつづけておこせたり。",
@@ -6653,7 +8481,7 @@
       },
       {
         "date": "20250215,20250217",
-        "id": 78,
+        "id": 80,
         "text": "わかなこに入れて雉など花につけたり（十七字イ無）。",
         "kana": "わかなこにいれてきじなどはなにつけたり。",
         "koutei-yamagen": "わかなこに入れて雉など花につけたり（この17字文異本には無）。",
@@ -6664,7 +8492,7 @@
       },
       {
         "date": "20250215",
-        "id": 79,
+        "id": 81,
         "text": "若菜ぞ今日をば知らせたる。",
         "kana": "わかなぞけふをばしらせたる。",
         "koutei-yamagen": "若菜ぞ、今日をば知らせたる。",
@@ -6675,7 +8503,7 @@
       },
       {
         "date": "20250215",
-        "id": 80,
+        "id": 82,
         "text": "歌あり。そのうた、",
         "kana": "うたあり。そのうた、",
         "koutei-yamagen": "歌あり。その歌、",
@@ -6686,7 +8514,7 @@
       },
       {
         "date": "20250215",
-        "id": 81,
+        "id": 83,
         "poem": "淺茅生の/野邊にしあれば/水もなき/池につみつる/わかななりけり",
         "kana": "あさちふの/のべにしあれば/みづもなき/いけにつみつる/わかななりけり",
         "koutei-yamagen": "浅茅生の野辺にしあれば、水もなき池に積みつる若菜なりけり。",
@@ -6697,7 +8525,7 @@
       },
       {
         "date": "20250216",
-        "id": 82,
+        "id": 84,
         "text": "いとをかしかし。",
         "kana": "いとをかしかし。",
         "koutei-yamagen": "いとをかしかし。",
@@ -6708,7 +8536,7 @@
       },
       {
         "date": "20250217",
-        "id": 83,
+        "id": 85,
         "text": "この池といふは所の名なり。",
         "kana": "このいけといふはところのななり。",
         "koutei-yamagen": "この池といふは所の名なり。",
@@ -6719,7 +8547,7 @@
       },
       {
         "date": "20250217",
-        "id": 84,
+        "id": 86,
         "text": "よき人の男につきて下りて住みけるなり。",
         "kana": "よきひとのをのにつきておりてすみけるなり。",
         "koutei-yamagen": "良き人の男につきて下りて住みけるなり。",
@@ -6730,7 +8558,7 @@
       },
       {
         "date": "20250217",
-        "id": 85,
+        "id": 87,
         "text": "この長櫃の物は皆人童までにくれたれば、飽き滿ちて舟子どもは腹皷をうちて海をさへおどろかして浪たてつべし。",
         "kana": "このながひつのものはみなひとわらはまでにくれたれば、あきみちてふなこどもははらつづみをうちてうみをさへおどろかしてなみたてつべし。",
         "koutei-yamagen": "この長櫃の物は皆人童までにくれたれば、飽き満ちて舟子どもは腹鼓を打ちて海をさへおどろかして浪たてつべし。",
@@ -6741,7 +8569,7 @@
       },
       {
         "date": "20250218",
-        "id": 86,
+        "id": 88,
         "text": "かくてこの間に事おほかり。",
         "kana": "かくてこのあひだにことおほかり。",
         "koutei-yamagen": "かくて、この間に事多かり。",
@@ -6752,7 +8580,7 @@
       },
       {
         "date": "20250219",
-        "id": 87,
+        "id": 89,
         "text": "けふわりごもたせてきたる人、その名などぞや、今思ひ出でむ。",
         "kana": "けふわりごもたせてきたるひと、そのななどぞや、いまおもひいでむ。",
         "koutei-yamagen": "今日、破子持たせて来たる人、その名などぞや、今思ひ出でむ。",
@@ -6763,7 +8591,7 @@
       },
       {
         "date": "20250220",
-        "id": 88,
+        "id": 90,
         "text": "この人歌よまむと思ふ心ありてなりけり。",
         "kana": "このひとうたよまむとおもふこころありてなりけり。",
         "koutei-yamagen": "この人、歌よまむと思ふ心ありてなりけり。",
@@ -6774,7 +8602,7 @@
       },
       {
         "date": "20250220",
-        "id": 89,
+        "id": 91,
         "text": "とかくいひいひて浪の立つなることゝ憂へいひて詠める歌、",
         "kana": "とかくいひいひてなみのたつなることとうへいひてうためるうた、",
         "koutei-yamagen": "とかくいひいひて、浪の立つなることと憂へいひて、詠める歌、",
@@ -6785,7 +8613,7 @@
       },
       {
         "date": "20250222",
-        "id": 90,
+        "id": 92,
         "text": "「ゆくさきにたつ白浪の聲よりもおくれて泣かむわれやまさらむ」",
         "kana": "ゆくさきにたつしらなみのこゑよりもおくれてなかむわれやまさらむ",
         "koutei-yamagen": "ゆく先に立つ白浪の声よりも遅れて泣かむ我やまさらむ。",
@@ -6796,7 +8624,7 @@
       },
       {
         "date": "20250223",
-        "id": 91,
+        "id": 93,
         "text": "とぞ（ぞイ無）詠める。",
         "kana": "とぞよめる。",
         "koutei-yamagen": "とぞ詠める。",
@@ -6807,7 +8635,7 @@
       },
       {
         "date": "20250223",
-        "id": 92,
+        "id": 94,
         "text": "いと大聲なるべし。",
         "kana": "いとおほごへなるべし。",
         "koutei-yamagen": "いと大声なるべし。",
@@ -6818,7 +8646,7 @@
       },
       {
         "date": "20250223",
-        "id": 93,
+        "id": 95,
         "text": "持てきたる物より歌はいかゞあらむ。",
         "kana": "もてきたるものよりうたはいかがあらむ。",
         "koutei-yamagen": "持てきたる物より歌はいかがあらむ。",
@@ -6829,7 +8657,7 @@
       },
       {
         "date": "20250223",
-        "id": 94,
+        "id": 96,
         "text": "この歌を此彼あはれがれども一人も返しせず。",
         "kana": "このうたをこのかれあはれがれどもひとりもかへしせず。",
         "koutei-yamagen": "この歌を此彼あはれがれども、一人も返しせず。",
@@ -6847,7 +8675,7 @@
       },
       {
         "date": "20250224",
-        "id": 95,
+        "id": 97,
         "text": "しつべき人も交れゝどこれをのみいたがり物をのみくひて夜更けぬ。",
         "kana": "しつべきひともまじれれどこれをのみいたがりものをのみくひてよふけぬ。",
         "koutei-yamagen": "しつべき人も交れれど、これをのみいたがり、物をのみ喰ひて夜更けぬ。",
@@ -6858,7 +8686,7 @@
       },
       {
         "date": "20250224",
-        "id": 96,
+        "id": 98,
         "text": "この歌ぬしなむ「またまからず」といひてたちぬ。",
         "kana": "このうたぬしなむまたまからずといひてたちぬ。",
         "koutei-yamagen": "この歌主なむ、「またまからず」と言ひて立ちぬ。",
@@ -6869,7 +8697,7 @@
       },
       {
         "date": "20250225",
-        "id": 97,
+        "id": 99,
         "text": "ある人の子の童なる密にいふ。",
         "kana": "あるひとのこのわらわなるひそかにいふ",
         "koutei-yamagen": "ある人の子の童なる密かに言ふ。",
@@ -6880,7 +8708,7 @@
       },
       {
         "date": "20250225",
-        "id": 98,
+        "id": 100,
         "text": "「まろこの歌の返しせむ」といふ。",
         "kana": "「まろこのうたのかへしせむ」といふ。",
         "koutei-yamagen": "「まろこの歌の返しせむ」と言ふ。",
@@ -6891,7 +8719,7 @@
       },
       {
         "date": "20250225",
-        "id": 99,
+        "id": 101,
         "text": "驚きて「いとをかしきことかな。",
         "kana": "おどろきて「いとをかしきことかな。",
         "koutei-yamagen": "驚きて、「いとをかしきことかな。",
@@ -6902,7 +8730,7 @@
       },
       {
         "date": "20250225",
-        "id": 100,
+        "id": 102,
         "text": "よみてむやは。",
         "kana": "よみてむやは。",
         "koutei-yamagen": "詠みてむやは。",
@@ -6913,7 +8741,7 @@
       },
       {
         "date": "20250225",
-        "id": 101,
+        "id": 103,
         "text": "詠みつべくばはやいへかし」といふ（にイ有）。",
         "kana": "よみつべくばはやいへかし」といふ。",
         "koutei-yamagen": "詠みつべくば、早いへかし」と言ふ。",
@@ -6924,7 +8752,7 @@
       },
       {
         "date": "20250225",
-        "id": 102,
+        "id": 104,
         "text": "「まからずとて立ちぬる人を待ちてよまむ」とて求めけるを、夜更けぬとにやありけむ、やがていにけり。",
         "kana": "「またまからずとてたちぬるひとをまちてよまむ」とてもとめけるを、よふけぬとにやありけむ、やがていにけり。",
         "koutei-yamagen": "「またまからずとて立ちぬる人を待ちて詠まむ」とて求めけるを、夜更けぬとにやありけむ、やがていにけり。",
@@ -6935,7 +8763,7 @@
       },
       {
         "date": "20250225",
-        "id": 103,
+        "id": 105,
         "text": "「そもそもいかゞ詠んだる」といぶかしがりて問ふ。",
         "kana": "「そもそもいかがよんだる」といふかしがりてとふ。",
         "koutei-yamagen": "「そもそもいかが詠んだる」と言ふかしがりて問ふ。",
@@ -6946,7 +8774,7 @@
       },
       {
         "date": "20250225",
-        "id": 104,
+        "id": 106,
         "text": "この童さすがに耻ぢていはず。",
         "kana": "このわらわさすがにはじていはず。",
         "koutei-yamagen": "この童、さすがに恥ぢていはず。",
@@ -6957,7 +8785,7 @@
       },
       {
         "date": "20250226",
-        "id": 105,
+        "id": 107,
         "text": "強ひて問へばいへるうた、",
         "kana": "しひてとへばいへるうた、",
         "koutei-yamagen": "強ひて問へば、いへる歌、",
@@ -6968,7 +8796,7 @@
       },
       {
         "date": "20250227",
-        "id": 106,
+        "id": 108,
         "text": "「ゆく人もとまるも袖のなみだ川みぎはのみこそぬれまさりけれ」",
         "kana": "ゆくひともとまるもそでのなみだがわみぎはのみこそぬれまさりけれ",
         "koutei-yamagen": "行く人も止まるも袖の涙川、水際のみこそ濡れまさりけれ",
@@ -6979,7 +8807,7 @@
       },
       {
         "date": "20250228",
-        "id": 107,
+        "id": 109,
         "text": "となむ詠める。",
         "kana": "となむよめる。",
         "koutei-yamagen": "となむ詠める。",
@@ -6990,7 +8818,7 @@
       },
       {
         "date": "20250228",
-        "id": 108,
+        "id": 110,
         "text": "かくはいふものか、うつくしければにやあらむ、いと思はずなり。",
         "kana": "かくはいふものか、うつくしければにやあらむ、いとおもはずなり。",
         "koutei-yamagen": "かくは言ふものか、美しければにやあらむ、いと思はずなり。",
@@ -7001,7 +8829,7 @@
       },
       {
         "date": "20250301",
-        "id": 109,
+        "id": 111,
         "text": "童ごとにては何かはせむ、女翁にをしつべし、悪しくもあれいかにもあれ、たよりあらば遣らむとておかれぬめり。",
         "kana": "わらわごとにてはなにかはせむ、をむなをきなにをしつべし、あしくもあれいかにもあれ、たよりあらばやからむとておかれぬめり。",
         "koutei-yamagen": "童言にては何かはせむ、嫗、翁にをしつべし、悪しくもあれいかにもあれ、たよりあらば遣らむとておかれぬめり。",
@@ -7019,7 +8847,7 @@
       },
       {
         "date": "20250302",
-        "id": 110,
+        "id": 112,
         "text": "八日、さはる事ありて猶同じ所なり。",
         "kana": "ようか、さはることありてなほおなじところなり。",
         "koutei-yamagen": "八日、さはる事ありて、猶同じ所なり。",
@@ -7053,7 +8881,7 @@
       },
       {
         "date": "20250303",
-        "id": 111,
+        "id": 113,
         "text": "今宵の月は海にぞ入る。",
         "kana": "こよいのつきはうみにそいる。",
         "koutei-yamagen": "今宵の月は、海にぞ入る。",
@@ -7064,7 +8892,7 @@
       },
       {
         "date": "20250303",
-        "id": 112,
+        "id": 114,
         "text": "これを見て業平の君の「山のはにげて入れずもあらなむ」といふ歌なむおもほゆる。",
         "kana": "これをみてなりひらのきみのやまのはにげていれずもあらなむ」といふうたなむおもほゆる。",
         "koutei-yamagen": "これを見て、業平の君の「山の端げて入れずもあらなむ」と言ふ歌なむ思ほゆる。",
@@ -7075,7 +8903,7 @@
       },
       {
         "date": "20250304",
-        "id": 113,
+        "id": 115,
         "text": "もし海邊にてよまゝしかば「浪たちさへて入れずもあらなむ」と詠みてましや。",
         "kana": "もしうみべにてよまましかば「なみたちさへていれずもあらなむ」とよみてましや。",
         "koutei-yamagen": "もし海辺にて詠まましかば、「浪立ちさへて入れずもあらなむ」と詠みてましや。",
@@ -7086,7 +8914,7 @@
       },
       {
         "date": "20250304",
-        "id": 114,
+        "id": 116,
         "text": "今この歌を思ひ出でゝある人のよめりける、",
         "kana": "いまこのうたをおもいいでてあるひとのよめりける、",
         "koutei-yamagen": "今、この歌を思ひ出でて、ある人の詠めりける、",
@@ -7097,7 +8925,7 @@
       },
       {
         "date": "20250305",
-        "id": 115,
+        "id": 117,
         "poem": "てる月の/ながるゝ見れば/あまの川/いづるみなとは/海にざ（ぞあイ）りける",
         "kana": "てるつきの/ながるるみれば/あまのがは/いづるみなとは/うみにざりける",
         "koutei-yamagen": "照る月の流るる見れば、天の川出づる港は、海にざりける",
@@ -7108,7 +8936,7 @@
       },
       {
         "date": "20250306",
-        "id": 116,
+        "id": 118,
         "text": "とや。",
         "kana": "とや。",
         "koutei-yamagen": "とや。",
@@ -7119,7 +8947,7 @@
       },
       {
         "date": "20250306",
-        "id": 117,
+        "id": 119,
         "text": "九日、つとめて大湊より那波の泊をおはむとて漕ぎ出でにけり。",
         "kana": "ここのか、つとめておおみなとよりなばのとまりをおはむとてこぎいでにけり。",
         "koutei-yamagen": "九日、つとめて大湊より那波の泊をおはむとて漕ぎ出でにけり。",
@@ -7130,7 +8958,7 @@
       },
       {
         "date": "20250307",
-        "id": 118,
+        "id": 120,
         "text": "これかれ互に國の境の内はとて見おくりにくる人數多が中に藤原のときざね、橘の季衡、長谷部の行政等なむみたちより出でたうびし日より此所彼所におひくる。",
         "kana": "これかれたがひにくにのさかひのうちはとてみおくりにくるひとあまたがなかにふぢはらのときざね、たちばなのすゑひら、はせべのゆきまさらなむみたちよりいでたうびしひよりここかしこにおひくる。",
         "koutei-yamagen": "これかれ互ひに国の境の内はとて見送りにくる人、数多が中に、藤原のときざね、橘の季衡、長谷部の行政等なむ御館より出で給びし日より此所彼所に追ひくる。",
@@ -7142,7 +8970,7 @@
       },
       {
         "date": "20250308",
-        "id": 119,
+        "id": 121,
         "text": "この人々ぞ志ある人なりける。",
         "kana": "このひとびとそころひあるひとなりける。",
         "koutei-yamagen": "この人々ぞ志ある人なりける。",
@@ -7153,7 +8981,7 @@
       },
       {
         "date": "20250308",
-        "id": 120,
+        "id": 122,
         "text": "この人々の深き志はこの海には劣らざるべし。",
         "kana": "このひとびとのふかきこころざしはこのうみにはおとらざるべし。",
         "koutei-yamagen": "この人々の深き志はこの海には劣らざるべし。",
@@ -7173,7 +9001,7 @@
       },
       {
         "date": "20250309",
-        "id": 121,
+        "id": 123,
         "text": "これより今は漕ぎ離れて往く。",
         "kana": "これよりいまはこぎはなれてゆく。",
         "koutei-yamagen": "これより今は漕ぎ離れて往く。",
@@ -7184,7 +9012,7 @@
       },
       {
         "date": "20250310",
-        "id": 122,
+        "id": 124,
         "text": "これを見送らむとてぞこの人どもは追ひきける。",
         "kana": "これをみおくらむとてそこのひとどもはおひきける。",
         "koutei-yamagen": "これを見送らむとてぞ、この人どもは追いきける。",
@@ -7195,7 +9023,7 @@
       },
       {
         "date": "20250311",
-        "id": 123,
+        "id": 125,
         "text": "かくて漕ぎ行くまにまに海の邊にとまれる人も遠くなりぬ。",
         "kana": "かくてこぎゆくまにまにうみのほとりにとまれるひともとほくなりぬ。",
         "koutei-yamagen": "かくて漕ぎ行くまにまに、海の辺に泊まれる人も遠くなりぬ。",
@@ -7206,7 +9034,7 @@
       },
       {
         "date": "20250311",
-        "id": 124,
+        "id": 126,
         "text": "船の人も見えずなりぬ。",
         "kana": "ふねのひともみえずなりぬ。",
         "koutei-yamagen": "船の人も見えずなりぬ。",
@@ -7217,7 +9045,7 @@
       },
       {
         "date": "20250312",
-        "id": 125,
+        "id": 127,
         "text": "岸にもいふ事あるべし、船にも思ふことあれどかひなし。",
         "kana": "きしにもいふことあるべし、ふねにもおもふことあれどかひなし。",
         "koutei-yamagen": "岸にも言ふ事あるべし、船にも思ふことあれどかひなし。",
@@ -7228,7 +9056,7 @@
       },
       {
         "date": "20250313",
-        "id": 126,
+        "id": 128,
         "text": "かゝれどこの歌を獨言にしてやみぬ。",
         "kana": "かかれどこのうたをひとりごとにしてやみぬ。",
         "koutei-yamagen": "かかれど、この歌を独言にしてやみぬ。",
@@ -7254,7 +9082,7 @@
       },
       {
         "date": "20250313",
-        "id": 127,
+        "id": 129,
         "poem": "おもひやる/心は海を/渡れども/ふみしなければ/知らずやあるらむ。",
         "kana": "おもひやる/こころはうみを/わたれども/ふみしなければ/しらずやあるらむ。",
         "koutei-yamagen": "思ひやる心は海を渡れども、ふみしなければ知らずやあるらむ。",
@@ -7278,28 +9106,6 @@
       },
       {
         "date": "20250314",
-        "id": 128,
-        "text": "かくて宇多の松原を行き過ぐ。",
-        "kana": "かくてうたのまつばらをゆきすぐ。",
-        "koutei-yamagen": "かくて宇多の松原を行き過ぐ。",
-        "translation-ja": "こうして、宇多の松原を行き過ぎる。",
-        "translation-en": "Thus, they go past the pine grove of Uda.",
-        "translation-ja-natural": "こうして、宇多の松原を通り過ぎる。",
-        "translation-en-natural": "And so, we pass by the pine grove of Uda."
-      },
-      {
-        "date": "20250314",
-        "id": 129,
-        "text": "松の數幾そばく、幾千年へたりと知らず。",
-        "kana": "まつのかずいくそばく、いくせんねんへたりとしらず。",
-        "koutei-yamagen": "松の数幾そばく、幾千年へたりと知らず。",
-        "translation-ja": "松の本数はどれほどか、幾千年を経たのかわからない。",
-        "translation-en": "The number of pines, how great it is, and how many thousands of years they have endured, I do not know.",
-        "translation-ja-natural": "松の本数がどれほど多いのか、何千年が経ったのか、私には分からない。",
-        "translation-en-natural": "I do not know how great the number of pine trees is, nor how many thousands of years have passed."
-      },
-      {
-        "date": "20250314",
         "id": 130,
         "text": "かくて宇多の松原を行き過ぐ。",
         "kana": "かくてうたのまつばらをゆきすぐ。",
@@ -7312,13 +9118,13 @@
       {
         "date": "20250314",
         "id": 131,
-        "text": "もとごとに浪うちよせ枝ごとに鶴ぞ飛びかふ。",
-        "kana": "もとごとになみうちよせえごとにつるぞとびかふ。",
-        "koutei-yamagen": "もとごとに浪打ち寄せ、枝ごとに鶴ぞ飛びかよふ。",
-        "translation-ja": "根元ごとに波が打ち寄せ、枝ごとに鶴が飛び交う。",
-        "translation-en": "Waves wash against each root, and cranes fly back and forth among the branches.",
-        "translation-ja-natural": "松の根元に波が打ち寄せ、枝ごとに鶴が飛び交っています。",
-        "translation-en-natural": "Waves lap against the base of the pines, and cranes flutter among the branches."
+        "text": "松の數幾そばく、幾千年へたりと知らず。",
+        "kana": "まつのかずいくそばく、いくせんねんへたりとしらず。",
+        "koutei-yamagen": "松の数幾そばく、幾千年へたりと知らず。",
+        "translation-ja": "松の本数はどれほどか、幾千年を経たのかわからない。",
+        "translation-en": "The number of pines, how great it is, and how many thousands of years they have endured, I do not know.",
+        "translation-ja-natural": "松の本数がどれほど多いのか、何千年が経ったのか、私には分からない。",
+        "translation-en-natural": "I do not know how great the number of pine trees is, nor how many thousands of years have passed."
       },
       {
         "date": "20250314",
@@ -7334,50 +9140,17 @@
       {
         "date": "20250314",
         "id": 133,
-        "text": "おもしろしと見るに堪へずして船人のよめる歌、",
-        "kana": "おもしろしとみるにたへずしてふなびとのよめるうた、",
-        "koutei-yamagen": "おもしろしと見るに堪へずして船人のよめる歌、",
-        "translation-ja": "趣深いと見るに堪えきれず、船人が詠んだ歌は、",
-        "translation-en": "Finding it too captivating to bear, a poem that a passenger composed...",
-        "translation-ja-natural": "あまりにも趣深く、見ているうちに胸がいっぱいになり、船人が詠んだ歌は、",
-        "translation-en-natural": "Overwhelmed by its beauty, a passenger composed the following poem..."
+        "text": "もとごとに浪うちよせ枝ごとに鶴ぞ飛びかふ。",
+        "kana": "もとごとになみうちよせえごとにつるぞとびかふ。",
+        "koutei-yamagen": "もとごとに浪打ち寄せ、枝ごとに鶴ぞ飛びかよふ。",
+        "translation-ja": "根元ごとに波が打ち寄せ、枝ごとに鶴が飛び交う。",
+        "translation-en": "Waves wash against each root, and cranes fly back and forth among the branches.",
+        "translation-ja-natural": "松の根元に波が打ち寄せ、枝ごとに鶴が飛び交っています。",
+        "translation-en-natural": "Waves lap against the base of the pines, and cranes flutter among the branches."
       },
       {
         "date": "20250314",
         "id": 134,
-        "text": "かくて宇多の松原を行き過ぐ。",
-        "kana": "かくてうたのまつばらをゆきすぐ。",
-        "koutei-yamagen": "かくて宇多の松原を行き過ぐ。",
-        "translation-ja": "こうして、宇多の松原を行き過ぎる。",
-        "translation-en": "Thus, they go past the pine grove of Uda.",
-        "translation-ja-natural": "こうして、宇多の松原を通り過ぎていきました。",
-        "translation-en-natural": "And so, we pass by the pine grove of Uda."
-      },
-      {
-        "date": "20250314",
-        "id": 135,
-        "poem": "見渡せば/松のうれごとに/すむ鶴は/千代のどちとぞ/思ふべらなる",
-        "kana": "みわたせば/まつのうれごとに/すむつるは/ちよのどちとぞ/おもふべらなる",
-        "koutei-yamagen": "見渡せば松のうれごとに住む鶴は千代のどちとぞ思ふべらなる",
-        "translation-ja": "見渡すと、松の梢ごとに棲む鶴は、千代の友であると思っているようだ。",
-        "translation-en": "Looking out, the cranes, dwelling on each pine treetop, seem to think of themselves as friends of a thousand generations.",
-        "translation-ja-natural": "見渡すと、松の梢にとまる鶴たちは、松を千年の時を超える友と思っているようですね。",
-        "translation-en-natural": "Looking out, the cranes perched on the pine treetops seem to think of the pines as their lifelong friends across a thousand years."
-      },
-      {
-        "date": "20250314",
-        "id": 136,
-        "text": "とや。",
-        "kana": "とや。",
-        "koutei-yamagen": "とや。",
-        "translation-ja": "と。",
-        "translation-en": ".",
-        "translation-ja-natural": "と。",
-        "translation-en-natural": "."
-      },
-      {
-        "date": "20250314",
-        "id": 137,
         "text": "かくて宇多の松原を行き過ぐ。",
         "kana": "かくてうたのまつばらをゆきすぐ。",
         "koutei-yamagen": "かくて宇多の松原を行き過ぐ。",
@@ -7388,14 +9161,47 @@
       },
       {
         "date": "20250314",
+        "id": 135,
+        "text": "おもしろしと見るに堪へずして船人のよめる歌、",
+        "kana": "おもしろしとみるにたへずしてふなびとのよめるうた、",
+        "koutei-yamagen": "おもしろしと見るに堪へずして船人のよめる歌、",
+        "translation-ja": "趣深いと見るに堪えきれず、船人が詠んだ歌は、",
+        "translation-en": "Finding it too captivating to bear, a poem that a passenger composed...",
+        "translation-ja-natural": "あまりにも趣深く、見ているうちに胸がいっぱいになり、船人が詠んだ歌は、",
+        "translation-en-natural": "Overwhelmed by its beauty, a passenger composed the following poem..."
+      },
+      {
+        "date": "20250314",
+        "id": 136,
+        "text": "かくて宇多の松原を行き過ぐ。",
+        "kana": "かくてうたのまつばらをゆきすぐ。",
+        "koutei-yamagen": "かくて宇多の松原を行き過ぐ。",
+        "translation-ja": "こうして、宇多の松原を行き過ぎる。",
+        "translation-en": "Thus, they go past the pine grove of Uda.",
+        "translation-ja-natural": "こうして、宇多の松原を通り過ぎていきました。",
+        "translation-en-natural": "And so, we pass by the pine grove of Uda."
+      },
+      {
+        "date": "20250314",
+        "id": 137,
+        "poem": "見渡せば/松のうれごとに/すむ鶴は/千代のどちとぞ/思ふべらなる",
+        "kana": "みわたせば/まつのうれごとに/すむつるは/ちよのどちとぞ/おもふべらなる",
+        "koutei-yamagen": "見渡せば松のうれごとに住む鶴は千代のどちとぞ思ふべらなる",
+        "translation-ja": "見渡すと、松の梢ごとに棲む鶴は、千代の友であると思っているようだ。",
+        "translation-en": "Looking out, the cranes, dwelling on each pine treetop, seem to think of themselves as friends of a thousand generations.",
+        "translation-ja-natural": "見渡すと、松の梢にとまる鶴たちは、松を千年の時を超える友と思っているようですね。",
+        "translation-en-natural": "Looking out, the cranes perched on the pine treetops seem to think of the pines as their lifelong friends across a thousand years."
+      },
+      {
+        "date": "20250314",
         "id": 138,
-        "text": "この歌は所を見るにえまさらず。",
-        "kana": "このうたはところをみるにえまさらず。",
-        "koutei-yamagen": "この歌は、ところを見るにえまさらず。",
-        "translation-ja": "この歌は、所を見るに、優らない。",
-        "translation-en": "This poem cannot surpass the view when looking at the place.",
-        "translation-ja-natural": "この歌は、実際の場所を見ると、そのすばらしさにはかなわない。",
-        "translation-en-natural": "This poem, when seeing the actual place, cannot quite rival its beauty."
+        "text": "とや。",
+        "kana": "とや。",
+        "koutei-yamagen": "とや。",
+        "translation-ja": "と。",
+        "translation-en": ".",
+        "translation-ja-natural": "と。",
+        "translation-en-natural": "."
       },
       {
         "date": "20250314",
@@ -7411,6 +9217,28 @@
       {
         "date": "20250314",
         "id": 140,
+        "text": "この歌は所を見るにえまさらず。",
+        "kana": "このうたはところをみるにえまさらず。",
+        "koutei-yamagen": "この歌は、ところを見るにえまさらず。",
+        "translation-ja": "この歌は、所を見るに、優らない。",
+        "translation-en": "This poem cannot surpass the view when looking at the place.",
+        "translation-ja-natural": "この歌は、実際の場所を見ると、そのすばらしさにはかなわない。",
+        "translation-en-natural": "This poem, when seeing the actual place, cannot quite rival its beauty."
+      },
+      {
+        "date": "20250314",
+        "id": 141,
+        "text": "かくて宇多の松原を行き過ぐ。",
+        "kana": "かくてうたのまつばらをゆきすぐ。",
+        "koutei-yamagen": "かくて宇多の松原を行き過ぐ。",
+        "translation-ja": "こうして、宇多の松原を行き過ぎる。",
+        "translation-en": "Thus, they go past the pine grove of Uda.",
+        "translation-ja-natural": "こうして、宇多の松原を通り過ぎる。",
+        "translation-en-natural": "And so, we pass by the pine grove of Uda."
+      },
+      {
+        "date": "20250314",
+        "id": 142,
         "text": "かくあるを見つゝ漕ぎ行くまにまに、山も海もみなくれ、夜更けて、西ひんがしも見えずして、てけのこと楫取の心にまかせつ。",
         "kana": "かくあるをみつつこぎゆくまにまに、やまもうみもみなくれ、よふけて、にしひんがしもみえずして、てけのことかぢとりのこころにまかせつ。",
         "koutei-yamagen": "かくあるを見つつ漕ぎ行くまにまに、山も海もみなくれ、夜更けて、西東も見えずして、天気のこと楫取の心にまかせつ。",
@@ -7424,7 +9252,7 @@
       },
       {
         "date": "20250315",
-        "id": 141,
+        "id": 143,
         "text": "男もならはねば（二字ぬはイ）いとも心細し。",
         "kana": "をとこもならはねばいともこころぼしし。",
         "koutei-yamagen": "男もならはねばいとも心細し。",
@@ -7435,7 +9263,7 @@
       },
       {
         "date": "20250315",
-        "id": 142,
+        "id": 144,
         "text": "まして女は船底に頭をつきあてゝねをのみぞなく。",
         "kana": "ましてをんなはふなぞこにかしらをつきあててねをのみそなく。",
         "koutei-yamagen": "まして女は船底に頭をつきあててねをのみそなく。",
@@ -7446,7 +9274,7 @@
       },
       {
         "date": "20250315",
-        "id": 143,
+        "id": 145,
         "text": "かく思へば舟子楫取は船歌うたひて何とも思へらず。",
         "kana": "かくおもへばふなこかぢとりはふなうたうたひてなにともおもへらず。",
         "koutei-yamagen": "かく思えば舟子、楫取は船歌うたいて何とも思へらず。",
@@ -7463,7 +9291,7 @@
       },
       {
         "date": "20250315",
-        "id": 144,
+        "id": 146,
         "text": "そのうたふうたは、",
         "kana": "そのうたふうたは、",
         "koutei-yamagen": "そのうたふ歌は、",
@@ -7474,7 +9302,7 @@
       },
       {
         "date": "20250315",
-        "id": 145,
+        "id": 147,
         "poem": "春の野にてぞ",
         "kana": "はるののにて",
         "koutei-yamagen": "春の野にてぞ",
@@ -7485,7 +9313,7 @@
       },
       {
         "date": "20250315",
-        "id": 146,
+        "id": 148,
         "poem": "音をばなく",
         "kana": "ねをばなく",
         "koutei-yamagen": "音をばなく",
@@ -7496,7 +9324,7 @@
       },
       {
         "date": "20250315",
-        "id": 147,
+        "id": 149,
         "poem": "わが薄にて",
         "kana": "わがすすきにて",
         "koutei-yamagen": "with my young silver grasses",
@@ -7507,7 +9335,7 @@
       },
       {
         "date": "20250315",
-        "id": 148,
+        "id": 150,
         "poem": "手切る切る",
         "kana": "てきるきる",
         "koutei-yamagen": "手切る切る",
@@ -7518,7 +9346,7 @@
       },
       {
         "date": "20250315",
-        "id": 149,
+        "id": 151,
         "poem": "つんだる菜を",
         "kana": "つんだるなを",
         "koutei-yamagen": "摘んだる菜を",
@@ -7529,7 +9357,7 @@
       },
       {
         "date": "20250315",
-        "id": 149,
+        "id": 152,
         "poem": "親やまぼるらむ",
         "kana": "おややまぼるらむ",
         "koutei-yamagen": "親やまぼるらむ",
@@ -7540,7 +9368,7 @@
       },
       {
         "date": "20250315",
-        "id": 150,
+        "id": 153,
         "poem": "姑や食ふらむ",
         "kana": "しゅうとめやくふらむ",
         "koutei-yamagen": "姑や食ふらむ",
@@ -7551,7 +9379,7 @@
       },
       {
         "date": "20250315",
-        "id": 151,
+        "id": 154,
         "poem": "かへらや",
         "kana": "かへらや",
         "koutei-yamagen": "かへらや",
@@ -7562,7 +9390,7 @@
       },
       {
         "date": "20250315",
-        "id": 152,
+        "id": 155,
         "poem": "よんべのうなゐもがな",
         "kana": "よんべのうなゐもがな",
         "koutei-yamagen": "夜べのうなゐもがな",
@@ -7573,7 +9401,7 @@
       },
       {
         "date": "20250315",
-        "id": 153,
+        "id": 156,
         "poem": "ぜにこはむ",
         "kana": "ぜにこはむ",
         "koutei-yamagen": "銭乞はむ",
@@ -7584,7 +9412,7 @@
       },
       {
         "date": "20250315",
-        "id": 154,
+        "id": 157,
         "poem": "そらごとをして",
         "kana": "そらごとをして",
         "koutei-yamagen": "そらごとをして",
@@ -7595,7 +9423,7 @@
       },
       {
         "date": "20250315",
-        "id": 155,
+        "id": 158,
         "poem": "おぎのりわざをして",
         "kana": "おぎのりわざをして",
         "koutei-yamagen": "おぎのりわざをして",
@@ -7606,7 +9434,7 @@
       },
       {
         "date": "20250315",
-        "id": 156,
+        "id": 159,
         "poem": "銭も持て来ず",
         "kana": "ぜにももてきず",
         "koutei-yamagen": "銭も持て来ず",
@@ -7617,7 +9445,7 @@
       },
       {
         "date": "20250315",
-        "id": 157,
+        "id": 160,
         "poem": "おのれだに来ず",
         "kana": "おのれだにこず",
         "koutei-yamagen": "おのれだに来ず",
@@ -7673,7 +9501,7 @@
       },
       {
         "date": "20250315",
-        "id": 158,
+        "id": 161,
         "text": "かくて船人のうたふ歌を聞きて、",
         "kana": "かくてふなびとのうたふうたをききて、",
         "koutei-yamagen": "かくて船人の歌う歌を聞きて、",
@@ -7684,7 +9512,7 @@
       },
       {
         "date": "20250315",
-        "id": 159,
+        "id": 162,
         "text": "かく思へば、",
         "kana": "かくおもへば、",
         "koutei-yamagen": "かく思えば、",
@@ -7695,7 +9523,7 @@
       },
       {
         "date": "20250316",
-        "id": 160,
+        "id": 163,
         "text": "これならず多かれども書かず。",
         "kana": "これならずおほかれどもかかず。",
         "koutei-yamagen": "これならず多かれども書かず。",
@@ -7733,7 +9561,7 @@
       },
       {
         "date": "20250316",
-        "id": 161,
+        "id": 164,
         "text": "これらを人の笑ふを聞きて、海は荒るれども心は少しなぎぬ。",
         "kana": "これらをひとのわらふをききて、うみはあられどもこころはすこしなぎぬ。",
         "koutei-yamagen": "これらを人の笑ふを聞きて、海は荒るれども心は少し凪ぎぬ。",
@@ -7744,7 +9572,7 @@
       },
       {
         "date": "20250316",
-        "id": 162,
+        "id": 165,
         "text": "かくゆきくらして泊にいたりて、おきな人ひとり、たうめ一人あるがなかに、心ちあしみしてものも物し給はでひそまりぬ。",
         "kana": "かくゆきくらしてとまりにいたりて、おきなひとひとり、たうめひとりあるがなかに、こころちあしみしてものもものしはでひそまりぬ。",
         "koutei-yamagen": "かく行き暮して泊に至りて、翁人一人、専女一人、あるが中に、心地悪しみして、ものもものし給はで、ひそまりぬ。",
@@ -7784,7 +9612,7 @@
       },
       {
         "date": "20250317",
-        "id": 163,
+        "id": 166,
         "text": "十日、けふはこの那波の泊にとまりぬ。",
         "kana": "とおか、けふはこのなはのとまりにとまりぬ。",
         "koutei-yamagen": "十日、今日はこの那波の泊に泊まりぬ。",
@@ -7795,7 +9623,7 @@
       },
       {
         "date": "20250317",
-        "id": 164,
+        "id": 167,
         "text": "十一日、曉に船を出して室津をおふ。",
         "kana": "とおか、あかつきにふねをいだしてむろつをおふ。",
         "koutei-yamagen": "十一日、暁に船を出して室津を追ふ。",
@@ -7806,7 +9634,7 @@
       },
       {
         "date": "20250317",
-        "id": 165,
+        "id": 168,
         "text": "人皆まだねたれば海のありやうも見えず、唯月を見てぞ西東をば知りける。",
         "kana": "ひとみなまだねたればうみのありやうもみえず、ただつきをみてぞにしひむがしをばしりける。",
         "koutei-yamagen": "人皆まだ寝たれば海のありやうも見えず、唯月を見てぞ西東をば知りける。",
@@ -7820,7 +9648,7 @@
       },
       {
         "date": "20250317",
-        "id": 165,
+        "id": 169,
         "text": "かゝる間に皆夜明けて手あらひ例の事どもして晝になりぬ。",
         "kana": "かかるあひだにみなよあけててあらひれいのことどもしてひるになりぬ。",
         "koutei-yamagen": "かかる間に皆夜明けて手洗ひ例の事どもして昼になりぬ。",
@@ -7831,7 +9659,7 @@
       },
       {
         "date": "20250318",
-        "id": 166,
+        "id": 170,
         "text": "いましはねといふ所にきぬ。",
         "kana": "いましはねといふところにきぬ。",
         "koutei-yamagen": "今し、羽根と言ふ所に来ぬ。",
@@ -7842,7 +9670,7 @@
       },
       {
         "date": "20250318",
-        "id": 167,
+        "id": 171,
         "text": "わかき童この所の名を聞きて「はねといふ所は鳥の羽のやうにやある」といふ。",
         "kana": "わかきわらわこのところのなをききて「はねといふところはとりのはねのやうにやある」といふ。",
         "koutei-yamagen": "若き童この所の名を聞きて、「羽と言ふ所は鳥の羽のようにやある」と言ふ。",
@@ -7853,7 +9681,7 @@
       },
       {
         "date": "20250318",
-        "id": 168,
+        "id": 172,
         "text": "まだ幼き童のことなれば人々笑ふ。",
         "kana": "まだおさなきわらはのことなればひとびとわらふ。",
         "koutei-yamagen": "まだ幼き童のことなれば人々笑ふ。",
@@ -7864,7 +9692,7 @@
       },
       {
         "date": "20250318",
-        "id": 169,
+        "id": 173,
         "text": "時にありける女の童なむこの歌をよめる、",
         "kana": "ときにありけるをんなのわらはなむこのうたをよめる、",
         "koutei-yamagen": "時にありける女の童なむ、この歌を詠める、",
@@ -7875,7 +9703,7 @@
       },
       {
         "date": "20250319",
-        "id": 170,
+        "id": 174,
         "poem": "まことにて/名に聞く所/はねならば/飛ぶがごとくに/みやこへもがな",
         "kana": "まことにて/なにきくところ/はねならば/とぶがごとくに/みやこへもがな",
         "koutei-yamagen": "まことにて名に聞く所はねならば飛ぶがごとくに都へもがな",
@@ -7886,7 +9714,7 @@
       },
       {
         "date": "20250319",
-        "id": 171,
+        "id": 175,
         "text": "とぞいへる。",
         "kana": "とぞいへる。",
         "koutei-yamagen": "とぞいへる。",
@@ -7897,7 +9725,7 @@
       },
       {
         "date": "20250319",
-        "id": 172,
+        "id": 176,
         "text": "男も女もいかで疾く都へもがなと思ふ心あれば、この歌よしとにはあらねどげにと思ひて人々わすれず。",
         "kana": "をとこもをむなもいかでとくみやこへもがなとおもふこころあれば、このうたよしとにはあらねどげにとおもひてひとびとわすれず。",
         "koutei-yamagen": "男も女もいかで疾く都へもがなと思ふ心あれば、この歌良しとにはあらねど、げにと思ひて人々忘れず。",
@@ -7908,7 +9736,7 @@
       },
       {
         "date": "20250319",
-        "id": 173,
+        "id": 177,
         "text": "このはねといふ所問ふ童の序にて（ぞイ）、又昔の人を思ひ出でゝいづれの時にか忘るゝ。",
         "kana": "このはねといふところとふわらはのついでにて、またむかしのひとをおもひいでていづれのときにかわするる。",
         "koutei-yamagen": "この、羽根といふ所問ふ童のついでにぞ、また昔の人を思ひ出でて、いづれの時にか忘るる",
@@ -7919,7 +9747,7 @@
       },
       {
         "date": "20250320",
-        "id": 174,
+        "id": 178,
         "text": "今日はまして母の悲しがらるゝ事は、くだりし時の人の數足らねば、ふるき歌に「數はたらでぞかへるべらなる」といふことを思ひ出でゝ人のよめる、",
         "kana": "けふはましてははのかなしがらるることは、くだりしときのひとのかずたらねば、ふるきうたに「かずはたらでぞかへるべらなる」といふことをおもいいでてひとのよめる、",
         "koutei-yamagen": "今日はまして母の悲しがらるることは、くだりし時の人の数足らねば、古き歌に「数は足らでぞ帰るべらなる」と言ふ事を思い出でて人の詠める、",
@@ -7930,7 +9758,7 @@
       },
       {
         "date": "20250320",
-        "id": 175,
+        "id": 179,
         "poem": "世の中に/おもひあれども/子を戀ふる/思ひにまさる/思ひなきかな",
         "kana": "よのなかに/おもひやあれども/こをこふる/おもひにまさる/おもひなきかな",
         "koutei-yamagen": "世の中に思ひあれども子を恋ふる思ひに勝る思ひなきかな",
@@ -7944,7 +9772,7 @@
       },
       {
         "date": "20250320",
-        "id": 176,
+        "id": 180,
         "text": "といひつゝなむ。",
         "kana": "といひつゝなむ。",
         "koutei-yamagen": "といひつつなむ。",
@@ -7955,7 +9783,7 @@
       },
       {
         "date": "20250320",
-        "id": 177,
+        "id": 181,
         "text": "十二日、雨降らず。",
         "kana": "とおかあまりふつか、あめふらず。",
         "koutei-yamagen": "十二日、雨降らず。",
@@ -7966,7 +9794,7 @@
       },
       {
         "date": "20250320",
-        "id": 178,
+        "id": 182,
         "text": "文時、維茂が船のおくれたりし。",
         "kana": "ふむどき、これもちのふねのおくれたりし。",
         "koutei-yamagen": "文時、維茂の船の遅れたりし。",
@@ -7977,7 +9805,7 @@
       },
       {
         "date": "20250320",
-        "id": 179,
+        "id": 183,
         "text": "ならしつより室津に（つイ有）きぬ。",
         "kana": "ならしつよりむろつにつきぬ。",
         "koutei-yamagen": "奈良志津より室津に着きぬ。",
@@ -7988,7 +9816,7 @@
       },
       {
         "date": "20250321",
-        "id": 180,
+        "id": 184,
         "text": "十三日の曉にいさか小雨ふる。",
         "kana": "とおかあまりみかのあかつきにいさかこあめふる。",
         "koutei-yamagen": "十三日の暁にいさか小雨降る。",
@@ -8002,7 +9830,7 @@
       },
       {
         "date": "20250321",
-        "id": 181,
+        "id": 185,
         "text": "しばしありて止みぬ。",
         "kana": "しばしありてやみぬ。",
         "koutei-yamagen": "しばしありて止みぬ。",
@@ -8013,7 +9841,7 @@
       },
       {
         "date": "20250321",
-        "id": 182,
+        "id": 186,
         "text": "男女これかれ、ゆあみなどせむとてあたりのよろしき所におりて行く。",
         "kana": "をとこをむなこれから、ゆあみなどせむとてあたりのよろしきところにおりてゆく。",
         "koutei-yamagen": "男女これかれ、湯浴みなどせむとて、あたりの良しき所に降りて行く。",
@@ -8024,7 +9852,7 @@
       },
       {
         "date": "20250321",
-        "id": 183,
+        "id": 187,
         "text": "海を見やれば、",
         "kana": "うみをみやれば、",
         "koutei-yamagen": "海を見やれば、",
@@ -8035,7 +9863,7 @@
       },
       {
         "date": "20250322",
-        "id": 184,
+        "id": 188,
         "text": "雲もみな浪とぞ見ゆる海士もがないづれか海と問ひて知るべく",
         "kana": "くももみななみとぞみゆるあまもがないづれかうみととひてしるべく",
         "koutei-yamagen": "雲も皆波とぞ見ゆる、海士もがな、いづれか海と問いて知るべく",
@@ -8054,7 +9882,7 @@
       },
       {
         "date": "20250322",
-        "id": 185,
+        "id": 189,
         "text": "となむ歌よめる。",
         "kana": "となむうたよめる。",
         "koutei-yamagen": "となむ歌詠める。",
@@ -8065,7 +9893,7 @@
       },
       {
         "date": "20250322",
-        "id": 186,
+        "id": 190,
         "text": "さて十日あまりなれば月おもしろし。",
         "kana": "さてとおかあまりなればつきおもしろし。",
         "koutei-yamagen": "さて十日あまりなれば、月おもしろし。",
@@ -8079,7 +9907,7 @@
       },
       {
         "date": "20250322",
-        "id": 187,
+        "id": 191,
         "text": "船に乘り始めし日より船には紅こくよききぬ着ず。",
         "kana": "ふねにのりはじめしひよりふねにはくれないこくよききぬきず。",
         "koutei-yamagen": "船に乗り始めし日より、船には紅濃くよききぬ着ず。",
@@ -8097,7 +9925,7 @@
       },
       {
         "date": "20250324",
-        "id": 188,
+        "id": 192,
         "text": "それは海の神に怖ぢてといひて、何の蘆蔭にことづけてほやのつまのいずしすしあはびをぞ心にもあらぬはぎにあげて見せける。",
         "kana": "それはうみのかみにおぢてといひて、なにのあしかげにことづけてほやのつまのいずしすしあはびをぞこころにもあらぬはぎにあげてみせける。",
         "koutei-yamagen": "それは海の神に怖ぢてと言ひて、何の葦影にことづけて、ほやのつまのいずしすしあはびを心にもあらぬはぎにあげて見せける。",
@@ -8108,7 +9936,7 @@
       },
       {
         "date": "20250324",
-        "id": 189,
+        "id": 193,
         "text": "十四日、曉より雨降れば同じ所に泊れり。",
         "kana": "とおかあまりよっか、あかつきよりあめふればおなじところにとまれり。",
         "koutei-yamagen": "十四日、暁より雨降れば、同じ所にとまれり。",
@@ -8119,7 +9947,7 @@
       },
       {
         "date": "20250324",
-        "id": 190,
+        "id": 194,
         "text": "船君せちみす。",
         "kana": "ふねぎみせちみす。",
         "koutei-yamagen": "船君せちみす。",
@@ -8136,7 +9964,7 @@
       },
       {
         "date": "20250325",
-        "id": 191,
+        "id": 195,
         "text": "さうじものなければ午の時より後に楫取の昨日釣りたりし鯛に、錢なければよねをとりかけておちられぬ。",
         "kana": "さうじものなければうまのときよりのちにかぢとりのきのふつりたりしたひに、ぜになければ、よねをとりかけて、おちられぬ。",
         "koutei-yamagen": "精進物なければ、午の時より後に楫取の昨日釣りたりし鯛に、錢なければ、米をとりかけて、落ちられぬ。",
@@ -8156,7 +9984,7 @@
       },
       {
         "date": "20250325",
-        "id": 192,
+        "id": 196,
         "text": "かゝる事なほありぬ。",
         "kana": "かかることなほありぬ。",
         "koutei-yamagen": "かかること、なおありぬ。",
@@ -8167,7 +9995,7 @@
       },
       {
         "date": "20250325",
-        "id": 193,
+        "id": 197,
         "text": "楫取又鯛もてきたり。",
         "kana": "かぢとりまたたいもてきたり。",
         "koutei-yamagen": "楫取又鯛もてきたり。",
@@ -8181,7 +10009,7 @@
       },
       {
         "date": "20250325",
-        "id": 194,
+        "id": 198,
         "text": "よね酒しばしばくる。",
         "kana": "よねさけしばしばくる。",
         "koutei-yamagen": "米酒、しばしばくる。",
@@ -8192,7 +10020,7 @@
       },
       {
         "date": "20250325",
-        "id": 195,
+        "id": 199,
         "text": "楫取けしきあしからず。",
         "kana": "かぢとりけしきあしからず。",
         "koutei-yamagen": "楫取、けしきあしからず。",
@@ -8214,7 +10042,7 @@
       },
       {
         "date": "20250326",
-        "id": 196,
+        "id": 200,
         "text": "十五日、今日小豆粥煮ず。",
         "kana": "とほかあまりいつか、けふあづきがゆにず。",
         "koutei-yamagen": "十五日、今日、小豆粥煮ず。",
@@ -8225,7 +10053,7 @@
       },
       {
         "date": "20250326",
-        "id": 197,
+        "id": 201,
         "text": "口をしくなほ日のあしければゐざるほどにぞ今日廿日あまり經ぬる。",
         "kana": "くちをしくなほひのあしければゐざるほどにぞけふはつかあまりへぬる。",
         "koutei-yamagen": "口をしくなほ日の足ければ、居ざるほどに、今日廿日あまり経ぬる。",
@@ -8239,7 +10067,7 @@
       },
       {
         "date": "20250326",
-        "id": 198,
+        "id": 202,
         "text": "徒に日をふれば人々海をながめつゝぞある。",
         "kana": "いたづらにひをふればひとびとうみをながめつつぞある。",
         "koutei-yamagen": "いたづらに日を経れば、人々海を眺めつつぞある。",
@@ -8250,7 +10078,7 @@
       },
       {
         "date": "20250326",
-        "id": 199,
+        "id": 203,
         "text": "めの童のいへる、",
         "kana": "めのわらべのいへる、",
         "koutei-yamagen": "女の童の言へる、",
@@ -8261,7 +10089,7 @@
       },
       {
         "date": "20250326",
-        "id": 200,
+        "id": 204,
         "poem": "立てばたつ/ゐれば又ゐる/吹く風と/浪とは思ふ/どちにやあるらむ",
         "kana": "たてばたつ/ゐればまたゐる/ふくかぜと/なみとはおもふ/どちにやあるらむ",
         "koutei-yamagen": "立てば立つ、いればまた立つ、吹く風と浪とは思うどちにやあるらむ。",
@@ -8275,7 +10103,7 @@
       },
       {
         "date": "20250327",
-        "id": 201,
+        "id": 205,
         "text": "いふかひなきものゝいへるにはいと似つかはし。",
         "kana": "いふかひなきもののいへるにはいとにつかはし。",
         "koutei-yamagen": "言ふかひなき者の言へるには、いと似つかはし。",
@@ -8286,7 +10114,7 @@
       },
       {
         "date": "20250327",
-        "id": 202,
+        "id": 206,
         "text": "十六日、風浪やまねば猶同じ所にとまれり。",
         "kana": "とおかあまりむいか、かぜなみやまねばなほおなじところにとまれり。",
         "koutei-yamagen": "十六日、風浪やまねば、なお同じところにとまれり。",
@@ -8297,7 +10125,7 @@
       },
       {
         "date": "20250327",
-        "id": 203,
+        "id": 207,
         "text": "たゞ海に浪なくしていつしかみさきといふ所渡らむとのみなむおもふ。",
         "kana": "ただうみになみなくしていつしかみさきといふところわたらむとのみなむおもふ。",
         "koutei-yamagen": "ただ、海に浪なくして、いつしか岬という所渡らむとのみなむ思ふ。",
@@ -8314,7 +10142,7 @@
       },
       {
         "date": "20250327",
-        "id": 204,
+        "id": 208,
         "text": "風浪ともにやむべくもあらず。",
         "kana": "かぜなみともにやむべくもあらず。",
         "koutei-yamagen": "風浪ともにやむべくもあらず。",
@@ -8325,7 +10153,7 @@
       },
       {
         "date": "20250328",
-        "id": 205,
+        "id": 209,
         "text": "ある人のこの浪立つを見て詠めるうた、",
         "kana": "あるひとのこのなみたつをみてうためるうた、",
         "koutei-yamagen": "ある人のこの浪立つを見て詠める歌、",
@@ -8336,7 +10164,7 @@
       },
       {
         "date": "20250328",
-        "id": 206,
+        "id": 210,
         "poem": "霜だにも/おかぬかたぞと/いふなれど/浪の中には/ゆきぞ降りける",
         "kana": "しもだにも/おかぬかたぞと/いふなれど/なみのなかには/ゆきぞふりける",
         "koutei-yamagen": "霜だにもおかぬかたぞと言ふなれど浪の中には雪ぞ降りける",
@@ -8351,7 +10179,7 @@
       },
       {
         "date": "20250328",
-        "id": 207,
+        "id": 211,
         "text": "さて船に乘りし日よりけふまでに廿日あまり五日になりにけり。",
         "kana": "さてふねにのりしひよりけふまでにはつかあまりいつかになりにけり。",
         "koutei-yamagen": "さて船に乗りし日より、今日までに二十日あまり五日になりにけり。",
@@ -8362,7 +10190,7 @@
       },
       {
         "date": "20250328",
-        "id": 208,
+        "id": 212,
         "text": "十七日、曇れる雲なくなりて曉月夜いとおもしろければ、船を出して漕ぎ行く。",
         "kana": "とおかあまりなぬか、くもれるくもなくなりてあかつきづくよいとおもしろければ、ふねをいだしてこぎゆく。",
         "koutei-yamagen": "十七日、曇れる雲なくなりて、曉月夜、いとおもしろければ、船を出だして漕ぎ行く。",
@@ -8376,7 +10204,7 @@
       },
       {
         "date": "20250329",
-        "id": 209,
+        "id": 213,
         "text": "このあひだに雲のうへも海の底も同じ如くになむありける。",
         "kana": "このあひだにくものうへもうみのそこもおなじごとくになむありける。",
         "koutei-yamagen": "このあひだに、雲の上も海の底も同じ如くになむありける。",
@@ -8387,7 +10215,7 @@
       },
       {
         "date": "20250329",
-        "id": 210,
+        "id": 214,
         "text": "うべも昔のをのこは「棹は穿つ波の上の月を、船は襲ふ海のうちの空を」とはいひけむ。",
         "kana": "うべもむかしのをのこは「さおはうがつなみのうへのつきを、ふねはおそふうみのうちのそらを」とはいひけむ。",
         "koutei-yamagen": "うべも昔の男は「棹は穿つ波の上の月を、船は襲ふ海のうちの空を」とはいひけむ。",
@@ -8401,7 +10229,7 @@
       },
       {
         "date": "20250329",
-        "id": 211,
+        "id": 215,
         "text": "きゝされに聞けるなり。",
         "kana": "きゝされにきけるなり。",
         "koutei-yamagen": "聞きざれに聞けるなり。",
@@ -8464,7 +10292,7 @@
       },
       {
         "date": "20250330",
-        "id": 212,
+        "id": 216,
         "text": "又ある人のよめる歌、",
         "kana": "またあるひとのよめるうた、",
         "koutei-yamagen": "また、ある人のよめる歌、",
@@ -8475,7 +10303,7 @@
       },
       {
         "date": "20250330",
-        "id": 213,
+        "id": 217,
         "poem": "みなそこの/月のうへより/漕ぐふねの/棹にさはるは/桂なるらし",
         "kana": "みなそこの/つきのうへより/こぐふねの/さをにさはるは/かつらなるらし",
         "koutei-yamagen": "水底の月の上より漕ぐ舟の棹にさはるは桂なるらし",
@@ -8500,7 +10328,7 @@
       },
       {
         "date": "20250330",
-        "id": 214,
+        "id": 218,
         "text": "これを聞きてある人の又よめる、",
         "kana": "これをききてあるひとのまたよめる、",
         "koutei-yamagen": "これを聞きて、ある人のまたよめる、",
@@ -8511,7 +10339,7 @@
       },
       {
         "date": "20250330",
-        "id": 215,
+        "id": 219,
         "poem": "かげ見れば/浪の底なる/ひさかたの/空こぎわたる/われぞさびしき",
         "kana": "かげみれば/なみのそこなる/ひさかたの/そらこぎわたる/われぞさびしき",
         "koutei-yamagen": "かげ見れば浪の底なるひさかたの空漕ぎわたるわれぞさびしき",
@@ -8546,7 +10374,7 @@
       },
       {
         "date": "20250331",
-        "id": 216,
+        "id": 220,
         "text": "かくいふあひだに夜やうやく明けゆくに、楫取等「黒き雲にはかに出できぬ。",
         "kana": "かくいふあひだによやうやくあけゆくに、かじとりら「くろきくもにはかにでできぬ。",
         "koutei-yamagen": "かくいふあひだに夜やうやく明けゆくに、楫取ら、「黒き雲にはかに出できぬ。",
@@ -8561,7 +10389,7 @@
       },
       {
         "date": "20250331",
-        "id": 217,
+        "id": 221,
         "text": "風も吹きぬべし。",
         "kana": "かぜもふきぬべし。",
         "koutei-yamagen": "風も吹きぬべし。",
@@ -8572,7 +10400,7 @@
       },
       {
         "date": "20250331",
-        "id": 218,
+        "id": 222,
         "text": "御船返してむ」といひてかへる。",
         "kana": "みふねかへしてむ」といひてかへる。",
         "koutei-yamagen": "御船返してむ」といひてかへる。",
@@ -8583,7 +10411,7 @@
       },
       {
         "date": "20250401",
-        "id": 219,
+        "id": 223,
         "text": "このあひだに雨ふりぬ。",
         "kana": "このあひだにあめふりぬ。",
         "koutei-yamagen": "このあひだに雨ふりぬ。",
@@ -8594,7 +10422,7 @@
       },
       {
         "date": "20250401",
-        "id": 220,
+        "id": 224,
         "text": "いとわびし。",
         "kana": "いとわびし。",
         "koutei-yamagen": "いとわびし。",
@@ -8605,7 +10433,7 @@
       },
       {
         "date": "20250401",
-        "id": 221,
+        "id": 225,
         "text": "十八日、猶同じ所にあり。",
         "kana": "とおかあまりようか、なほおなじところにあり。",
         "koutei-yamagen": "十八日、なほ、同じところにあり。",
@@ -8616,7 +10444,7 @@
       },
       {
         "date": "20250401",
-        "id": 222,
+        "id": 226,
         "text": "海あらければ船いださず。",
         "kana": "うみあらければふねいださず。",
         "koutei-yamagen": "海あらければ、船いださず。",
@@ -8627,7 +10455,7 @@
       },
       {
         "date": "20250402",
-        "id": 223,
+        "id": 227,
         "text": "この泊遠く見れども近く見れどもいとおもしろし。",
         "kana": "このとまりとほくみれどもちかくみれどもいとおもしろし。",
         "koutei-yamagen": "この泊遠く見れども近く見れどもいとおもしろし。",
@@ -8638,7 +10466,7 @@
       },
       {
         "date": "20250402",
-        "id": 224,
+        "id": 228,
         "text": "かゝれども苦しければ何事もおもほえず。",
         "kana": "かかれどもくるしければなにごともおもほえず。",
         "koutei-yamagen": "かかれども、苦しければ、何事も思ほえず。",
@@ -8659,7 +10487,7 @@
       },
       {
         "date": "20250403",
-        "id": 225,
+        "id": 229,
         "text": "男どちは心やりにやあらむ、からうたなどいふべし。",
         "kana": "をとこどちはこころやりにやあらむ、からうたなどいふべし。",
         "koutei-yamagen": "男どちは心やりにやあらむ、からうたなどいふべし。",
@@ -8670,7 +10498,7 @@
       },
       {
         "date": "20250403",
-        "id": 226,
+        "id": 230,
         "text": "船もいださでいたづらなればある人の詠める、",
         "kana": "ふねもいださでいたづらなればあるひとのよめる、",
         "koutei-yamagen": "船も出ださで、いたづらなれば、ある人の詠める、",
@@ -8681,7 +10509,7 @@
       },
       {
         "date": "20250403",
-        "id": 227,
+        "id": 231,
         "poem": "いそぶりの/寄する磯には/年月を/いつとも分かぬ/雪のみぞふる",
         "kana": "いそぶりの/よするいそには/としつきを/いつともわかぬ/ゆきのみぞふる",
         "koutei-yamagen": "いそぶりの寄する磯には年月をいつとも分かぬ雪のみぞふる",
@@ -8692,7 +10520,7 @@
       },
       {
         "date": "20250403",
-        "id": 228,
+        "id": 232,
         "text": "この歌は常にせぬ人のごとなり。",
         "kana": "このうたはとこにせぬひとのごとなり。",
         "koutei-yamagen": "この歌は常にせぬ人のごとなり。",
@@ -8703,7 +10531,7 @@
       },
       {
         "date": "20250404",
-        "id": 228,
+        "id": 233,
         "text": "又人のよめる、",
         "kana": "またひとのよめる、",
         "koutei-yamagen": "又人のよめる、",
@@ -8714,7 +10542,7 @@
       },
       {
         "date": "20250404",
-        "id": 229,
+        "id": 234,
         "poem": "風による/浪のいそには/うぐひすも/春もえしらぬ/花のみぞ咲く",
         "kana": "かぜによる/なみのいそには/うぐひすも/はるもえしらぬ/はなのみぞさく",
         "koutei-yamagen": "風による浪のいそにはうぐひすも春もえしらぬ花のみぞ咲く",
@@ -8756,7 +10584,7 @@
       },
       {
         "date": "20250405",
-        "id": 230,
+        "id": 235,
         "text": "この歌どもを少しよろしと聞きて、船のをさしける翁、月頃の苦しき心やりに詠める、",
         "kana": "このうたどもをすこしよろしとききて、ふねのをさしけるおきな、つきごろのくるしきこころやりによめる、",
         "koutei-yamagen": "この歌どもを、少しよろしと聞きて、船の長しける翁、月日頃の苦しき心やりに詠める、",
@@ -8770,7 +10598,7 @@
       },
       {
         "date": "20250406",
-        "id": 231,
+        "id": 236,
         "poem": "立つなみを/雪か花かと/吹く風ぞ/よせつゝ人を/はかるべらなる",
         "kana": "たつなみを/ゆきかはなかと/ふくかぜぞ/よせつつひとを/はかるべらなる",
         "koutei-yamagen": "立つなみを雪か花かと吹く風ぞよせつつ人をはかるべらなる",
@@ -8781,7 +10609,7 @@
       },
       {
         "date": "20250406",
-        "id": 232,
+        "id": 237,
         "text": "この歌どもを人の何かといふを、ある人の又聞きふけりて詠める。",
         "kana": "このうたどもをひとのなにかといふを、あるひとのまたききふけりてよめる。",
         "koutei-yamagen": "この歌どもを人の何かといふを、ある人の又聞きふけりて詠める。",
@@ -8792,7 +10620,7 @@
       },
       {
         "date": "20250406",
-        "id": 233,
+        "id": 238,
         "text": "その歌よめるもじ三十文字あまり七文字、人皆えあらで笑ふやうなり。",
         "kana": "そのうたよめるもじみそもぢあまりななもじ、ひとみなえあらでわらふやうなり。",
         "koutei-yamagen": "その歌よめるもじ三十文字あまり七文字、人皆えあらで笑ふやうなり。",
@@ -8803,7 +10631,7 @@
       },
       {
         "date": "20250407",
-        "id": 234,
+        "id": 239,
         "text": "歌ぬしいと氣色あしくてえず。",
         "kana": "うたぬしいとけしきあしくてえず。",
         "koutei-yamagen": "歌ぬし、いと氣色あしくて怨ず。",
@@ -8814,7 +10642,7 @@
       },
       {
         "date": "20250407",
-        "id": 235,
+        "id": 240,
         "text": "まねべどもえまねばず。",
         "kana": "まねべどもえまねばず。",
         "koutei-yamagen": "まねべどもえまねばず。",
@@ -8831,7 +10659,7 @@
       },
       {
         "date": "20250407",
-        "id": 236,
+        "id": 241,
         "text": "書けりともえ讀みあへがたかるべし。",
         "kana": "かけりともえよみあへがたかるべし。",
         "koutei-yamagen": "書けりともえ讀みあへがたかるべし。",
@@ -8864,7 +10692,7 @@
       },
       {
         "date": "20250408",
-        "id": 237,
+        "id": 242,
         "text": "今日だにいひ難し。",
         "kana": "けふだにいひがたし。",
         "koutei-yamagen": "今日だにいひ難し。",
@@ -8875,7 +10703,7 @@
       },
       {
         "date": "20250408",
-        "id": 238,
+        "id": 243,
         "text": "まして後にはいかならむ。",
         "kana": "ましてのちにはいかならむ。",
         "koutei-yamagen": "まして後にはいかならむ。",
@@ -8886,7 +10714,7 @@
       },
       {
         "date": "20250408",
-        "id": 239,
+        "id": 244,
         "text": "十九日、日あしければ船いださず。",
         "kana": "とおかあまりここのか、ひあしければふねいださず。",
         "koutei-yamagen": "十九日、日あしければ、船いださず。",
@@ -8897,7 +10725,7 @@
       },
       {
         "date": "20250408",
-        "id": 240,
+        "id": 245,
         "text": "二十日、昨日のやうなれば船いださず、皆人々憂へ歎く。",
         "kana": "はつか、きのふのやうなればふねいださず、みなひとびとうれへなげく。",
         "koutei-yamagen": "二十日、昨日のやうなれば船いださず、皆人々憂へ歎く。",
@@ -8908,7 +10736,7 @@
       },
       {
         "date": "20250408",
-        "id": 241,
+        "id": 246,
         "text": "苦しく心もとなければ、唯日の經ぬる數を、今日いくか、二十日、三十日と數ふれば、およびもそこなはれぬべし。",
         "kana": "くるしくこころもとなければ、ただひのへぬるかずを、けふいくか、はつか、みそかとかぞふれば、およびもそこなはれぬべし。",
         "koutei-yamagen": "苦しく心もとなければ、ただ、日の経ぬる数を、今日いくか、二十日、三十日とかぞふれば、指もそこなはれぬべし。",
@@ -8941,7 +10769,7 @@
       },
       {
         "date": "20250409",
-        "id": 242,
+        "id": 247,
         "text": "いとわびし。",
         "kana": "いとわびし。",
         "koutei-yamagen": "いとわびし。",
@@ -8952,7 +10780,7 @@
       },
       {
         "date": "20250410",
-        "id": 243,
+        "id": 248,
         "text": "夜はいも寢ず。",
         "kana": "よるはいもねず。",
         "koutei-yamagen": "夜はいも寝ず。",
@@ -8963,7 +10791,7 @@
       },
       {
         "date": "20250410",
-        "id": 244,
+        "id": 249,
         "text": "二十日の夜の月出でにけり。",
         "kana": "はつかのよるのつきいでにけり。",
         "koutei-yamagen": "二十日の夜の月出でにけり。",
@@ -8974,7 +10802,7 @@
       },
       {
         "date": "20250410",
-        "id": 245,
+        "id": 250,
         "text": "山のはもなくて海の中よりぞ出でくる。",
         "kana": "やまもはもなくうみのなかよりぞいでくる。",
         "koutei-yamagen": "山のはもなくて海の中よりぞ出でくる。",
@@ -8985,7 +10813,7 @@
       },
       {
         "date": "20250411",
-        "id": 246,
+        "id": 251,
         "text": "かうやうなるを見てや、むかし安倍の仲麻呂といひける人は、もろこしに渡りて歸りきける時に、船に乘るべき所にて、かの國人馬の餞し、わかれ惜みて、かしこのからうた作りなどしける。",
         "kana": "かうやうなるをみてや、むかしのあべのなかまろといひけるひとは、もりこしにわたりてかへりきけるときに、ふねにのるべきところにて、かのくにびとむまのはなむけし、わかれをしみて、かしこのからうたつくりなどしける。",
         "koutei-yamagen": "かうやうなるを見てや、むかし安倍仲麻呂といひける人は、もろこしに渡りて帰りきける時に、船に乗るべきところにて、かの国人、馬の餞し、わかれ惜しみて、かしこのからうた作りなどしける。",
@@ -8996,7 +10824,7 @@
       },
       {
         "date": "20250411",
-        "id": 247,
+        "id": 252,
         "text": "あかずやありけむ、二十日の夜の月出づるまでぞありける。",
         "kana": "あかずやありけむ、はつかのよるのつきいづるまでぞありける。",
         "koutei-yamagen": "あかずやありけむ、二十日の夜の月出づるまでぞありける。",
@@ -9054,7 +10882,7 @@
       },
       {
         "date": "20250412",
-        "id": 248,
+        "id": 253,
         "text": "その月は海よりぞ出でける。",
         "kana": "そのつきはうみよりぞいでける。",
         "koutei-yamagen": "その月は海よりぞ出でける。",
@@ -9065,7 +10893,7 @@
       },
       {
         "date": "20250412",
-        "id": 249,
+        "id": 254,
         "text": "これを見てぞ仲麻呂のぬし「我が國にはかゝる歌をなむ神代より神もよんたび、今は上中下の人もかうやうに別れ惜み、よろこびもあり、かなしみもある時には詠む」とてよめりける歌、",
         "kana": "これをみてぞなかまろのぬし「わがくににはかかるうたをなむかみよよりかみもよんたび、いまはかみなかしものひともかうやうにわかれおしみ、よろこびもあり、かなしみもあるときにはよむ」とてよめりけるうた、",
         "koutei-yamagen": "これを見てぞ仲麻呂のぬし「我が国にはかゝる歌をなむ神代より神もよんたび、今は上中下の人もかうやうに別れ惜しみ、よろこびもあり、かなしみもある時には詠む」とてよめりける歌、",
@@ -9076,7 +10904,7 @@
       },
       {
         "date": "20250412",
-        "id": 249,
+        "id": 255,
         "poem": "あをうなばら/ふりさけ見れば/春日なる/三笠の山に/いでし月かも",
         "kana": "あをうなばら/ふりさけみれば/かすがなる/みかさのやまに/いでしつきかも",
         "koutei-yamagen": "青海原/ふりさけ見れば/春日なる/三笠の山に/出でし月かも",
@@ -9087,7 +10915,7 @@
       },
       {
         "date": "20250412",
-        "id": 250,
+        "id": 256,
         "text": "とぞよめりける。",
         "kana": "とぞよめりける。",
         "koutei-yamagen": "とぞよめりける。",
@@ -9097,7 +10925,7 @@
       },
       {
         "date": "20250412",
-        "id": 251,
+        "id": 257,
         "text": "かの國の人聞き知るまじくおもほえたれども、ことの心を男文字にさまを書き出して、こゝの詞傳へたる人にいひ知らせければ、心をや聞き得たりけむ、いと思ひの外になむめでける。",
         "kana": "かのくにのひとききしるまじくおもほえたれども、ことのこころををとこもじにさまをかきいだして、こゝのことばつたへたるひとにいひしらせければ、こころをやききえたりけむ、いと思ひのほかになむめでける。",
         "koutei-yamagen": "かの国の人聞き知るまじくおもほえたれども、ことの心を男文字にさまを書き出して、ここの詞伝へたる人にいひ知らせければ、心をや聞き得たりけむ、いと思ひの外になむめでける。",
@@ -9108,7 +10936,7 @@
       },
       {
         "date": "20250412",
-        "id": 252,
+        "id": 258,
         "text": "もろこしとこの國とはことことなるものなれど、月の影は同じことなるべければ人の心も同じことにやあらむ。",
         "kana": "もろこしとこのくにとはことことなるものなれど、つきのかげはおなじことなるべければひとのこころもおなじことにやあらむ。",
         "koutei-yamagen": "もろこしとこの國とは言異なるものなれど、月の影は同じことなるべければ人の心も同じことにやあらむ。",
@@ -9122,7 +10950,7 @@
       },
       {
         "date": "20250413",
-        "id": 253,
+        "id": 259,
         "text": "さて今そのかみを思ひやりて、或人のよめる歌、",
         "kana": "さていまそのかみをおもひやりて、あるひとのよめるうた、",
         "koutei-yamagen": "さて今、そのかみを思ひやりて、ある人の詠める歌、",
@@ -9133,7 +10961,7 @@
       },
       {
         "date": "20250413",
-        "id": 254,
+        "id": 260,
         "poem": "都にて/やまのはに見し/月なれど/なみより出でゝ/なみにこそ入れ",
         "kana": "みやこにて/やまのはにみし/つきなれど/なみよりいでて/なみにこそいれ",
         "koutei-yamagen": "都にて/山の端に見し/月なれど/波より出でて/波にこそ入れ",
@@ -9144,7 +10972,7 @@
       },
       {
         "date": "20250413",
-        "id": 255,
+        "id": 261,
         "text": "廿一日、卯の時ばかりに船出す。",
         "kana": "はつかあまりついたち、うのときばかりにふねいだす。",
         "koutei-yamagen": "二十一日、卯の時ばかりに船出だす。",
@@ -9155,7 +10983,7 @@
       },
       {
         "date": "20250413",
-        "id": 256,
+        "id": 262,
         "text": "皆人々の船出づ。",
         "kana": "みなひとびとのふねいづ。",
         "koutei-yamagen": "皆人々の船出づ。",
@@ -9166,7 +10994,7 @@
       },
       {
         "date": "20250413",
-        "id": 257,
+        "id": 263,
         "text": "これを見れば春の海に秋の木の葉しも散れるやうにぞありける。",
         "kana": "これをみればはるのうみにあきのこのはしもちられるやうにぞありける。",
         "koutei-yamagen": "これを見れば春の海に秋の木の葉しも散れるやうにぞありける。",
@@ -9177,7 +11005,7 @@
       },
       {
         "date": "20250414",
-        "id": 258,
+        "id": 264,
         "text": "おぼろげの願に依りてにやあらむ、風も吹かずよき日いできて漕ぎ行く。",
         "kana": "おぼろげのぐわんによりてにやあらむ、かぜもふかずよきひいできてこぎいく。",
         "koutei-yamagen": "おぼろげの願に依りてにやあらむ、風も吹かずよき日いできて漕ぎ行く。",
@@ -9206,7 +11034,7 @@
       },
       {
         "date": "20250414",
-        "id": 259,
+        "id": 265,
         "text": "この間につかはれむとて、附きてくる童あり。",
         "kana": "このあいだにつかはれむとて、つきてくるわらはあり。",
         "koutei-yamagen": "この間に使はれむとて、つきて来る童あり。",
@@ -9217,7 +11045,7 @@
       },
       {
         "date": "20250414",
-        "id": 260,
+        "id": 266,
         "text": "それがうたふ舟うた、",
         "kana": "それがうたふふなうた、",
         "koutei-yamagen": "それがうたふ舟うた、",
@@ -9228,7 +11056,7 @@
       },
       {
         "date": "20250414",
-        "id": 261,
+        "id": 267,
         "text": "なほこそ國のかたは見やらるれ、わが父母ありとしおもへば。かへらや",
         "kana": "なほこそくにのかたはみやらるれ、わがちちははありとしおもへば。かへらや",
         "koutei-yamagen": "なほこそ国のかたは見やらるれ、わが父母ありとし思へばかへらや",
@@ -9239,7 +11067,7 @@
       },
       {
         "date": "20250414",
-        "id": 262,
+        "id": 268,
         "text": "とうたふぞ哀なる。",
         "kana": "とうたふぞあはれなる。",
         "koutei-yamagen": "とうたふぞ哀れなる。",
@@ -9250,7 +11078,7 @@
       },
       {
         "date": "20250415",
-        "id": 263,
+        "id": 269,
         "text": "かくうたふを聞きつゝ漕ぎくるに、くろとりといふ鳥岩のうへに集り居り。",
         "kana": "かくうたふをききつつこぎくるに、くろとりといふとりいわのうへにあつまりをり。",
         "koutei-yamagen": "かくうたふを聞きつゝ漕ぎくるに、くろとりといふ鳥岩のうへに集まり居り。",
@@ -9261,7 +11089,7 @@
       },
       {
         "date": "20250415",
-        "id": 264,
+        "id": 270,
         "text": "その岩のもとに浪しろくうち寄す。",
         "kana": "そのいはのもとになみしろくうちよす。",
         "koutei-yamagen": "その岩のもとに、浪白くうち寄す。",
@@ -9278,7 +11106,7 @@
       },
       {
         "date": "20250415",
-        "id": 265,
+        "id": 271,
         "text": "楫取のいふやう「黒き鳥のもとに白き浪をよす」とぞいふ。",
         "kana": "かぢとりのいふやう「くろきとりのもとにしろきなみをよす」とぞいふ。",
         "koutei-yamagen": "楫取のいふやう、「黒き鳥のもとに白き浪をよす」とぞいふ。",
@@ -9304,7 +11132,7 @@
       },
       {
         "date": "20250416",
-        "id": 266,
+        "id": 272,
         "text": "この詞何とにはなけれど、ものいふやうにぞ聞えたる。",
         "kana": "このことばなんとはなけれど、ものいふやうにぞきこえたる。",
         "koutei-yamagen": "この詞、何とにはなけれど、ものいふやうにぞ聞こえたる。",
@@ -9321,7 +11149,7 @@
       },
       {
         "date": "20250416",
-        "id": 267,
+        "id": 273,
         "text": "人の程にあはねば咎むるなり。",
         "kana": "ひとのほどにあはねばとがむるなり。",
         "koutei-yamagen": "人の程にあはねば、咎むるなり。",
@@ -9338,7 +11166,7 @@
       },
       {
         "date": "20250417",
-        "id": 268,
+        "id": 274,
         "text": "かくいひつゝ行くに、船君なる人浪を見て、國よりはじめて海賊報いせむといふなる事を思ふうへに、海の又おそろしければ、頭も皆しらけぬ。",
         "kana": "かくいひつつゆくに、ふなぎみなるひとなみをみて、くによりはじめてかいぞくむくいせむというなることをおもううへに、うみのまたおそろしければ、あたまもみなしらけぬ。",
         "koutei-yamagen": "かくいひつつ行くに、船君なる人、浪を見て、「国よりはじめて海賊報いせむといふなることを思ふうへに、海のまた恐ろしければ、頭も皆、白けぬ。",
@@ -9349,7 +11177,7 @@
       },
       {
         "date": "20250418",
-        "id": 269,
+        "id": 275,
         "text": "七十八十は海にあるものなりけり。",
         "kana": "ななそやそはうみにあるものなりけり。",
         "koutei-yamagen": "七十八十は海にあるものなりけり。",
@@ -9360,7 +11188,7 @@
       },
       {
         "date": "20250418",
-        "id": 269,
+        "id": 276,
         "text": "わが髮の/ゆきといそべの/しら浪と/いづれまされり/おきつ島もり",
         "kana": "わがかみの/ゆきといそべの/しらなみと/いづれまされり/おきつしまもり",
         "koutei-yamagen": "わが髪の/ゆきといそべの/しら浪と/いづれまされり/おきつ島守",
@@ -9377,7 +11205,7 @@
       },
       {
         "date": "20250418",
-        "id": 270,
+        "id": 277,
         "text": "楫取いへ」",
         "kana": "かぢとりいへ」",
         "koutei-yamagen": "楫取いへ」",
@@ -9396,7 +11224,7 @@
       },
       {
         "date": "20250419",
-        "id": 271,
+        "id": 278,
         "text": "廿二日、よんべのとまりよりことゞまりをおひてぞ行く。",
         "kana": "はつかあまりふつか、よんべのとまりよりことゞまりをおひてぞいく。",
         "koutei-yamagen": "二十二日、昨夜の泊より、異泊を追ひてぞ行く。",
@@ -9407,7 +11235,7 @@
       },
       {
         "date": "20250419",
-        "id": 272,
+        "id": 279,
         "text": "遙に山見ゆ。",
         "kana": "はるかにやまみゆ。",
         "koutei-yamagen": "遙に山見ゆ。",
@@ -9426,7 +11254,7 @@
       },
       {
         "date": "20250419",
-        "id": 273,
+        "id": 280,
         "text": "年九つばかりなるをの童、年よりは幼くぞある。",
         "kana": "としここのつばかりなるをのわらは、としよりはおさなくぞある。",
         "koutei-yamagen": "年九つばかりなるをの童、年よりは幼くぞある。",
@@ -9443,7 +11271,7 @@
       },
       {
         "date": "20250419",
-        "id": 274,
+        "id": 281,
         "text": "この童、船を漕ぐまにまに、山も行くと見ゆるを見て、あやしきこと歌をぞよめる。",
         "kana": "このわらは、ふねをこぐまにまに、やまもゆくとみゆるをみて、あやしきことうたをぞとよめる。",
         "koutei-yamagen": "この童、船を漕ぐまにまに、山も行くと見ゆるを見て、あやしきこと歌をぞよめる。",
@@ -9490,7 +11318,7 @@
       },
       {
         "date": "20250419",
-        "id": 275,
+        "id": 282,
         "text": "そのうた（四字イ無）、",
         "kana": "そのうた、",
         "koutei-yamagen": "その歌、",
@@ -9507,7 +11335,7 @@
       },
       {
         "date": "20250420",
-        "id": 276,
+        "id": 283,
         "poem": "漕ぎて行く/船にて見れば/あしびきの/山さへゆくを/松は知らずや",
         "kana": "こぎてゆく/ふねにてみれば/あしびきの/やまさへゆくを/まつはしらずや",
         "koutei-yamagen": "漕ぎて行く/船にて見れば/あしびきの/山さへゆくを/松は知らずや",
@@ -9518,7 +11346,7 @@
       },
       {
         "date": "20250420",
-        "id": 277,
+        "id": 284,
         "text": "とぞいへる。",
         "kana": "とぞいへる。",
         "koutei-yamagen": "とぞいへる。",
@@ -9529,7 +11357,7 @@
       },
       {
         "date": "20250420",
-        "id": 278,
+        "id": 285,
         "text": "幼き童のことにては似つかはし。",
         "kana": "おさなきわらはのことにてはにつかはし。",
         "koutei-yamagen": "幼き童のことにては似つかはし。",
@@ -9540,7 +11368,7 @@
       },
       {
         "date": "20250421",
-        "id": 279,
+        "id": 286,
         "text": "けふ海あらげにて磯に雪ふり浪の花さけり。",
         "kana": "けふうみあらげにていそにゆきふりなみのはなさけり。",
         "koutei-yamagen": "けふ海あらげにて磯に雪ふり浪の花さけり。",
@@ -9565,7 +11393,7 @@
       },
       {
         "date": "20250421",
-        "id": 280,
+        "id": 287,
         "text": "ある人のよめる。",
         "kana": "あるひとのよめる。",
         "koutei-yamagen": "ある人のよめる、",
@@ -9584,7 +11412,7 @@
       },
       {
         "date": "20250421",
-        "id": 281,
+        "id": 288,
         "text": "浪とのみ/ひとへに聞けど/いろ見れば/雪と花とに/まがひけるかな",
         "kana": "なみとのみ/ひとへにきけど/いろみれば/ゆきとはなとに/まがひけるかな",
         "koutei-yamagen": "浪とのみ/ひとへに聞けど/いろ見れば/雪と花とに/まがひけるかな",
@@ -9603,7 +11431,7 @@
       },
       {
         "date": "20250422",
-        "id": 282,
+        "id": 289,
         "text": "廿三日、日てりて曇りぬ。",
         "kana": "にじゅうあまりみか、ひてりてくもりぬ。",
         "koutei-yamagen": "二十三日、日照りて曇りぬ。",
@@ -9614,7 +11442,7 @@
       },
       {
         "date": "20250422",
-        "id": 283,
+        "id": 290,
         "text": "此のわたり、海賊のおそりありといへば神佛を祈る。",
         "kana": "このわたり、かいぞくのおそりありといへばかみほとけをいのる",
         "koutei-yamagen": "このわたり、海賊のおそりありといへば神佛を祈る。",
@@ -9625,7 +11453,7 @@
       },
       {
         "date": "20250422",
-        "id": 284,
+        "id": 291,
         "text": "廿四日、昨日のおなじ所なり。",
         "kana": "にじふよつか、きのふのおなじところなり。",
         "koutei-yamagen": "二十四日、昨日のおなじ所なり。",
@@ -9636,7 +11464,7 @@
       },
       {
         "date": "20250423",
-        "id": 285,
+        "id": 292,
         "text": "廿五日、楫取らの北風あしといへば、船いださず。",
         "kana": "にじふいつか、かぢとりらのきたかぜあしといへば、ふねいださず。",
         "koutei-yamagen": "二十五日、楫取らの北風あしといへば、船いださず。",
@@ -9655,7 +11483,7 @@
       },
       {
         "date": "20250423",
-        "id": 286,
+        "id": 293,
         "text": "海賊追ひくといふ事絶えずきこゆ。",
         "kana": "かいぞくおひくといふことたえずきこゆ。",
         "koutei-yamagen": "海賊追ひくといふ事絶えずきこゆ。",
@@ -9672,7 +11500,7 @@
       },
       {
         "date": "20250424",
-        "id": 287,
+        "id": 294,
         "text": "廿六日、まことにやあらむ、海賊追ふといへば夜はばかりより船をいだして漕ぎくる。",
         "kana": "にじふろくにち、まことにやあらむ、かいぞくおふといへばよるはばかりよりふねをいだしてこぎくる。",
         "koutei-yamagen": "二十六日、まことにやあらむ、海賊追ふといへば夜はばかりより船をいだして漕ぎくる。",
@@ -9689,7 +11517,7 @@
       },
       {
         "date": "20250424",
-        "id": 287,
+        "id": 295,
         "text": "道にたむけする所あり。",
         "kana": "みちにたむけするところあり。",
         "koutei-yamagen": "道に、たむけする所あり。",
@@ -9718,7 +11546,7 @@
       },
       {
         "date": "20250425",
-        "id": 288,
+        "id": 296,
         "text": "楫取してぬさたいまつらするに、幣のひんがしへちれば楫取の申し奉ることは、「この幣のちるかたにみふね速にこがしめ給へ」と申してたてまつる。",
         "kana": "かぢとりしてぬさないまつらするに、ぬさのひんがしへちればかぢとりのもうしたてまつることは、「このぬさのちるかたにみふねすみやかにこがしめたまへ」ともうしてたてまつる。",
         "koutei-yamagen": "楫取して、幣たいまつらするに、幣のひんがしへちれば楫取の申し奉ることは、「この幣のちるかたにみふね速にこがしめ給へ」と申してたてまつる。",
@@ -9736,7 +11564,7 @@
       },
       {
         "date": "20250426",
-        "id": 289,
+        "id": 297,
         "text": "これを聞きてある女の童のよめる、",
         "kana": "これをききてあるをんなのわらはのよめる、",
         "koutei-yamagen": "これを聞きて、ある女の童のよめる、",
@@ -9747,7 +11575,7 @@
       },
       {
         "date": "20250426",
-        "id": 290,
+        "id": 298,
         "poem": "わたつみの/ちぶりの神に/たむけする/ぬさのおひ風や/まずふかなむ",
         "kana": "わたつみの/ちぶりのかみに/たむけする/ぬさのおひかぜやまずふかなむ",
         "koutei-yamagen": "渡海の/ちふりの神に/手向けする/幣の追風や/まず吹かなむ",
@@ -9758,7 +11586,7 @@
       },
       {
         "date": "20250426",
-        "id": 291,
+        "id": 299,
         "text": "とぞ詠める。",
         "kana": "とぞよめる。",
         "koutei-yamagen": "とぞ詠める。",
@@ -9769,7 +11597,7 @@
       },
       {
         "date": "20250426",
-        "id": 292,
+        "id": 300,
         "text": "このあひだに風のよければ楫取いたくほこりて、船に帆あげなど喜ぶ。",
         "kana": "このあいだにかぜのよければかぢとりいたくほこりて、ふねにほあげなどおよろこぶ。",
         "koutei-yamagen": "このあひだに風のよければ楫取いたくほこりて、船に帆あげなど喜ぶ。",
@@ -9786,7 +11614,7 @@
       },
       {
         "date": "20250426",
-        "id": 293,
+        "id": 301,
         "text": "その音を聞きてわらはもおきなもいつしかとし思へばにやあらむ、いたく喜ぶ。",
         "kana": "そのおとをききてわらはもおきなもいつしかとしおもへばにやあらむ、いたくよろこぶ。",
         "koutei-yamagen": "その音を聞きて、わらはもおきなもいつしかとし思へばにやあらむ、いたく喜ぶ。",
@@ -9795,7 +11623,7 @@
       },
       {
         "date": "20250426",
-        "id": 294,
+        "id": 302,
         "text": "このなかに淡路のたうめといふ人のよめる歌、",
         "kana": "このなかにあはじのたうめといふひとのよめるうた、",
         "koutei-yamagen": "このなかに淡路のたうめといふ人のよめる歌、",
@@ -9804,7 +11632,7 @@
       },
       {
         "date": "20250426",
-        "id": 295,
+        "id": 303,
         "poem": "追風の/吹きぬる時は/ゆくふねの/帆手うちてこそ/うれしかりけれ",
         "kana": "おいかぜの/ふきぬるときは/ゆくふねの/ほてうちてこそ/うれしかりけれ",
         "koutei-yamagen": "追風の/吹きぬる時は/行く船の/帆手うちてこそ/うれしかりけれ",
@@ -9831,7 +11659,7 @@
       },
       {
         "date": "20250426",
-        "id": 296,
+        "id": 304,
         "text": "とぞ。",
         "kana": "とぞ。",
         "koutei-yamagen": "とぞ。",
@@ -9842,7 +11670,7 @@
       },
       {
         "date": "20250426",
-        "id": 297,
+        "id": 305,
         "text": "ていけのことにつけていのる。",
         "kana": "ていけのことにつけていのる。",
         "koutei-yamagen": "天気のことにつけていのる。",
@@ -9853,7 +11681,7 @@
       },
       {
         "date": "20250428",
-        "id": 298,
+        "id": 306,
         "text": "廿七日、風吹き浪あらければ船いださず。",
         "kana": "にじふなぬか、かぜふきなみあらければふねいださず。",
         "koutei-yamagen": "二十七日、風吹き浪あらければ船いださず。",
@@ -9943,7 +11771,7 @@
       },
       {
         "date": "20250428",
-        "id": 299,
+        "id": 307,
         "text": "これかれかしこく歎く。",
         "kana": "これかれかしこくなげく。",
         "koutei-yamagen": "これかれかしこく歎く。",
@@ -10003,7 +11831,7 @@
       },
       {
         "date": "20250428",
-        "id": 300,
+        "id": 308,
         "text": "男たちの心なぐさめに、からうたに「日を望めば都遠し」などいふなる事のさまを聞きて、ある女のよめる歌、",
         "kana": "おとこたちのこころなぐさめに、からうたに「ひをのぞめばみやことおし」などいふなることのさまをききて、あるをんなのよめるうた、",
         "koutei-yamagen": "男たちの心なぐさめに、からうたに「日を望めば都遠し」などいふなる事のさまを聞きて、ある女のよめる歌、",
@@ -10171,7 +11999,7 @@
       },
       {
         "date": "20250428",
-        "id": 301,
+        "id": 309,
         "poem": "日をだにも/あま雲ちかく/見るものを/都へとおもふ/道のはるけさ",
         "kana": "ひをだにも/あまぐもちかく/みるものを/みやこへとおもふ/みちのはるけさ",
         "koutei-yamagen": "日をだにも/あま雲ちかく/見るものを/都へとおもふ/道のはるけさ",
@@ -10283,7 +12111,7 @@
       },
       {
         "date": "20250428",
-        "id": 302,
+        "id": 310,
         "text": "又ある人のよめる。",
         "kana": "またあるひとのよめる。",
         "koutei-yamagen": "またある人のよめる。",
@@ -10327,7 +12155,7 @@
       },
       {
         "date": "20250428",
-        "id": 302,
+        "id": 311,
         "poem": "吹くかぜの/絶えぬ限りし/立ちくれば/波路はいとゞ/はるけかりけり",
         "kana": "ふくかぜの/たえぬかぎりし/たちくれば/なみぢはいとど/はるけかりけり",
         "koutei-yamagen": "吹くかぜの/絶えぬ限りし/立ちくれば/波路はいとゞ/はるけかりけり",
@@ -10431,7 +12259,7 @@
       },
       {
         "date": "20250428",
-        "id": 303,
+        "id": 312,
         "text": "日ひと日風やまず。",
         "kana": "ひひとひかぜやまず。",
         "koutei-yamagen": "日ひと日風やまず。",
@@ -10481,7 +12309,7 @@
       },
       {
         "date": "20250428",
-        "id": 304,
+        "id": 313,
         "text": "つまはじきしてねぬ。",
         "kana": "つまはじきしてねぬ。",
         "koutei-yamagen": "つまはじきして寝ぬ。",
@@ -10539,7 +12367,7 @@
       },
       {
         "date": "20250429",
-        "id": 305,
+        "id": 314,
         "text": "廿八日、よもすがら雨やまず。",
         "kana": "にじふようか、よもすがらあめやまず。",
         "koutei-yamagen": "二十八日、よもすがら雨やまず。",
@@ -10607,7 +12435,7 @@
       },
       {
         "date": "20250429",
-        "id": 306,
+        "id": 315,
         "text": "けさも。",
         "kana": "けさも。",
         "koutei-yamagen": "けさも。",
@@ -10646,7 +12474,7 @@
       },
       {
         "date": "20250429",
-        "id": 307,
+        "id": 316,
         "text": "廿九日、船出して行く。",
         "kana": "にぢふくにち、ふなでしていく。",
         "koutei-yamagen": "二十九日、船出して行く。",
@@ -10692,7 +12520,7 @@
       },
       {
         "date": "20250429",
-        "id": 308,
+        "id": 317,
         "text": "うらうらと照りてこぎゆく。",
         "kana": "うらうらとてりてこぎゆく。",
         "koutei-yamagen": "うらうらと照りてこぎゆく。",
@@ -10760,7 +12588,7 @@
       },
       {
         "date": "20250429",
-        "id": 309,
+        "id": 318,
         "text": "爪のいと長くなりにたるを見て日を數ふれば、今日は子の日なりければ切らず。",
         "kana": "つまのいとながくなりにたるをみてひをかぞふれば、きょうはこひなりければきらず。",
         "koutei-yamagen": "爪のいと長くなりにたるを見て日を數ふれば、今日は子の日なりければ切らず。",
@@ -10918,7 +12746,7 @@
       },
       {
         "date": "20250430",
-        "id": 310,
+        "id": 319,
         "text": "正月なれば京の子の日の事いひ出でゝ、「小松もがな」といへど海中なれば難しかし。",
         "kana": "むつきなればきやうのこひのこといひいでて、「こまつもがな」といへどうみなかになればかたしかり。",
         "koutei-yamagen": "正月なれば京の子の日の事いひ出でゝ、「小松もがな」といへど海中なれば、難しかし。",
@@ -11068,7 +12896,7 @@
       },
       {
         "date": "20250430",
-        "id": 311,
+        "id": 320,
         "text": "ある女の書きて出せる歌、",
         "kana": "あるをむなのかきてだせるうた、",
         "koutei-yamagen": "ある女の書きて出せる歌、",
@@ -11120,7 +12948,7 @@
       },
       {
         "date": "20250430",
-        "id": 312,
+        "id": 321,
         "text": "おぼつかな/けふは子の日か/あまならば/海松をだに/引かましものを",
         "kana": "おぼつかな/けふはねのひか/あまならば/うみまつをだに/ひかましものを",
         "koutei-yamagen": "おぼつかな/けふは子の日か/あまならば/海松をだに/引かましものを",
@@ -11254,7 +13082,7 @@
       },
       {
         "date": "20250501",
-        "id": 313,
+        "id": 322,
         "text": "とぞいへる。",
         "kana": "とぞいへる。",
         "koutei-yamagen": "とぞいへる。",
@@ -11290,7 +13118,7 @@
       },
       {
         "date": "20250501",
-        "id": 314,
+        "id": 323,
         "text": "海にて子の日の歌にてはいかゞあらむ。",
         "kana": "うみてねのひのうたにてはいかがあらむ。",
         "koutei-yamagen": "海にて、「子の日」の歌にては、いかゞあらむ。",
@@ -11368,7 +13196,7 @@
       },
       {
         "date": "20250501",
-        "id": 315,
+        "id": 324,
         "text": "又ある人のよめるうた、",
         "kana": "またあるひとのよめるうた、",
         "koutei-yamagen": "又ある人のよめるうた、",
@@ -11428,7 +13256,7 @@
       },
       {
         "date": "20250501",
-        "id": 316,
+        "id": 325,
         "text": "けふなれど/若菜もつまず/春日野の/わがこぎわたる/浦になければ",
         "kana": "けふなれど/わかなもつまず/かすがのの/わがこぎわたる/うらになければ",
         "koutei-yamagen": "けふなれど/若菜もつまず/春日野の/わがこぎわたる/浦になければ",
@@ -11552,7 +13380,7 @@
       },
       {
         "date": "20250501",
-        "id": 317,
+        "id": 326,
         "text": "かくいひつゝ漕ぎ行く。",
         "kana": "かくいひつつこぎゆく。",
         "koutei-yamagen": "かくいひつゝ、漕ぎ行く。",
@@ -11598,7 +13426,7 @@
       },
       {
         "date": "20250502",
-        "id": 318,
+        "id": 327,
         "text": "おもしろき所に船を寄せて「こゝやいづこ」と問ひければ、「土佐のとまり」とぞいひける。",
         "kana": "おもしろきところにふねをよせて「こゝやいづこ」とといければ、「とさのとまり」とぞいひける。",
         "koutei-yamagen": "おもしろき所に船を寄せて「こゝやいづこ」と問ひければ、「土佐のとまり」とぞいひける。",
@@ -11726,7 +13554,7 @@
       },
       {
         "date": "20250503",
-        "id": 319,
+        "id": 328,
         "text": "昔土佐といひける所に住みける女、この船にまじれりけり。",
         "kana": "むかしとさといひけるところにすみけるをむな、このふねにまじれりけり。",
         "koutei-yamagen": "昔、土佐といひける所に住みける女、この船にまじれりけり。",
@@ -11822,7 +13650,7 @@
       },
       {
         "date": "20250503",
-        "id": 320,
+        "id": 329,
         "text": "そがいひけらく、「昔しばしありし所の名たぐひにぞあなる。あはれ」といひてよめる歌、",
         "kana": "そがいひけらく、「むかししばしありしところのなたぐひにぞあなる。あはれ」といひてよめるうた、",
         "koutei-yamagen": "そがいひけらく、「昔しばしありし所の名たぐひにぞあなる。あはれ」といひてよめる歌、",
@@ -11952,7 +13780,7 @@
       },
       {
         "date": "20250503",
-        "id": 321,
+        "id": 330,
         "text": "年ごろを/すみし所の/名にしおへば/きよる浪をも/あはれとぞ見る",
         "kana": "としごろを/すみしところの/なにしおへば/きよるなみをも/あはれとぞみる",
         "koutei-yamagen": "年ごろを/住みしところの/名にし負へば/来寄る浪をも/あはれとぞ見る",
@@ -12076,7 +13904,7 @@
       },
       {
         "date": "20250504",
-        "id": 322,
+        "id": 331,
         "text": "三十日、雨風ふかず。",
         "kana": "みそか、あめかぜふかず。",
         "koutei-yamagen": "三十日、雨風ふかず。",
@@ -12118,7 +13946,7 @@
       },
       {
         "date": "20250504",
-        "id": 323,
+        "id": 332,
         "text": "海賊は夜ありきせざなりと聞きて、夜中ばかりに船を出して阿波のみとを渡る。",
         "kana": "かいぞくはよるありきせざなりとききて、よなかばかりにふねをだしてあはのみとをわたる。",
         "koutei-yamagen": "海賊は、夜歩きせざなりと聞きて、夜中ばかりに船を出だして、阿波の水門をわたる。",
@@ -12270,7 +14098,7 @@
       },
       {
         "date": "20250504",
-        "id": 324,
+        "id": 333,
         "text": "夜中なれば西ひんがしも見えず、男女辛く神佛を祈りてこのみとを渡りぬ。",
         "kana": "よなかなればにしひんがしもみえず、をとこをむなからくかみほとけをいのりてこのみとをわたりぬ。",
         "koutei-yamagen": "夜中なれば、西東も見えず、男女辛く神佛を祈りてこの水門を渡りぬ。",
@@ -12404,7 +14232,7 @@
       },
       {
         "date": "20250504",
-        "id": 325,
+        "id": 334,
         "text": "寅卯の時ばかりに、ぬ島といふ所を過ぎてたな川といふ所を渡る。",
         "kana": "とらうのときばかりに、ぬしまといふところをすぎてたなかわといふところをわたる。",
         "koutei-yamagen": "寅卯の時ばかりに、沼島といふ所を過ぎて、たな川といふ所を渡る。",
@@ -12540,7 +14368,7 @@
       },
       {
         "date": "20250504",
-        "id": 326,
+        "id": 335,
         "text": "からく急ぎて和泉の灘といふ所に至りぬ。",
         "kana": "からくいそぎていずみのなだといふところにいたりぬ。",
         "koutei-yamagen": "辛く急ぎて、和泉の灘といふ所に至りぬ。",
@@ -12634,7 +14462,7 @@
       },
       {
         "date": "20250504",
-        "id": 327,
+        "id": 336,
         "text": "今日海に浪に似たる物なし。",
         "kana": "けふうみになみににたるものなし。",
         "koutei-yamagen": "今日、海に浪に似たる物なし。",
@@ -12692,7 +14520,7 @@
       },
       {
         "date": "20250504",
-        "id": 328,
+        "id": 337,
         "text": "神佛の惠蒙ぶれるに似たり。",
         "kana": "かみほとけのめぐみかうぶれるににたり。",
         "koutei-yamagen": "神佛の惠蒙ぶれるに似たり。",
@@ -12742,7 +14570,7 @@
       },
       {
         "date": "20250505",
-        "id": 329,
+        "id": 338,
         "text": "けふ船に乘りし日より數ふればみそかあまり九日になりにけり。",
         "kana": "けふふねにのりしひよりかぞふればみそかあまりここぬかになりにけり。",
         "koutei-yamagen": "今日、船に乘りし日より數ふれば、みそかあまり九日になりにけり。",
@@ -12850,7 +14678,7 @@
       },
       {
         "date": "20250505",
-        "id": 330,
+        "id": 339,
         "text": "今は和泉の國に來ぬれば海賊ものならず。",
         "kana": "いまはいずみのくににきぬればかいぞくものならず。",
         "koutei-yamagen": "今は和泉の国に来ぬれば、海賊ものならず。",
@@ -12940,7 +14768,7 @@
       },
       {
         "date": "20250505",
-        "id": 331,
+        "id": 340,
         "text": "二月朔日、あしたのま雨降る。",
         "kana": "にがつついたち、あしたのまあめふる。",
         "koutei-yamagen": "二月一日、あしたのま雨降る。",
@@ -13000,7 +14828,7 @@
       },
       {
         "date": "20250505",
-        "id": 332,
+        "id": 341,
         "text": "午の時ばかりにやみぬれば、和泉の灘といふ所より出でゝ漕ぎ行く。",
         "kana": "むまのときばかりにやみぬれば、いづみのなだというところよりいでてこぎゆく。",
         "koutei-yamagen": "午の時ばかりにやみぬれば、和泉の灘といふ所より出でて漕ぎ行く。",
@@ -13120,7 +14948,7 @@
       },
       {
         "date": "20250505",
-        "id": 333,
+        "id": 342,
         "text": "海のうへ昨日の如く風浪見えず。",
         "kana": "うみのうへきのうのごとくかぜなみみえず。",
         "koutei-yamagen": "海のうへ、昨日の如く風浪見えず。",
@@ -13188,7 +15016,7 @@
       },
       {
         "date": "20250505",
-        "id": 333,
+        "id": 343,
         "text": "黒崎の松原を経て行く。",
         "kana": "くろさきのまつばらをへていく。",
         "koutei-yamagen": "黒崎の松原を経て行く。",
@@ -13250,7 +15078,7 @@
       },
       {
         "date": "20250505",
-        "id": 334,
+        "id": 344,
         "text": "所の名は黒く、松の色は青く、磯の浪は雪の如くに、貝のいろは蘇枋にて五色に今ひといろぞ足らぬ。",
         "kana": "ところのなはくろく、まつのいろはあおく、いそのなみはゆきのごとくに、かいのいろはすほうにてごしきにいまひといろぞたらぬ。",
         "koutei-yamagen": "所の名は黒く、松の色は青く、磯の浪は雪の如くに、貝のいろは蘇枋にて五色に今ひといろぞ足らぬ。",
@@ -13500,7 +15328,7 @@
       },
       {
         "date": "20250506",
-        "id": 335,
+        "id": 345,
         "text": "この間に今日は箱の浦といふ所より綱手ひきて行く。",
         "kana": "このあひだにけふははこのうらといふところよりつなてひきていく。",
         "koutei-yamagen": "この間に今日は箱の浦といふ所より綱手ひきて行く。",
@@ -13606,7 +15434,7 @@
       },
       {
         "date": "20250506",
-        "id": 336,
+        "id": 346,
         "text": "かく行くあひだにある人の詠める歌、",
         "kana": "かくいくあひだにあるひとのよめるうた、",
         "koutei-yamagen": "かく行くあひだにある人の詠める歌、",
@@ -13618,7 +15446,7 @@
       },
       {
         "date": "20250506",
-        "id": 337,
+        "id": 347,
         "poem": "玉くしげ/箱のうらなみ/たゝぬ日は/海をかゞみと/たれか見ざらむ",
         "kana": "たまくしげ/はこのうらなみ/たたぬひは/うみをかがみと/たれかみざらむ",
         "koutei-yamagen": "玉くしげは箱の浦なみたたぬ日は海をかがみとたれか見ざらむ",
@@ -13740,7 +15568,7 @@
       },
       {
         "date": "20250506",
-        "id": 338,
+        "id": 348,
         "text": "又船君のいはく「この月までなりぬること」と歎きて苦しきに堪へずして、人もいふことゝて心やりにいへる歌、",
         "kana": "またふなぎみのいはく「このつきまでなりぬること」となげきてくるしきにたへずして、ひともいふこととてこころやりにいへるうた、",
         "koutei-yamagen": "又船君のいはく「この月までなりぬること」と歎きて苦しきに堪へずして、人もいふことゝて心やりにいへる歌、",
@@ -13906,7 +15734,7 @@
       },
       {
         "date": "20250508",
-        "id": 339,
+        "id": 349,
         "text": "ひく船の/綱手のながき/春の日を/よそかいかまで/われはへにけり",
         "kana": "ひくふねのつなでのながきはるのひをよそかいかまでわれはへにけり",
         "koutei-yamagen": "ひく船の綱手のながき春の日をよそかいかまでわれはへにけり",
@@ -14050,7 +15878,7 @@
       },
       {
         "date": "20250509",
-        "id": 340,
+        "id": 350,
         "text": "聞く人の思へるやう、なぞたゞごとなると密にいふべし。",
         "kana": "きくひとのおもへるやう、なぞただごとなるとひそかにいふべし。",
         "koutei-yamagen": "聞く人の思へるやう、なぞただごとなると密にいふべし。",
@@ -14142,7 +15970,7 @@
       },
       {
         "date": "20250509",
-        "id": 341,
+        "id": 351,
         "text": "「船君の辛くひねり出してよしと思へる事をえしもこそしいへ」とてつゝめきてやみぬ。",
         "kana": "「ふなぎみのからくひねりだしてよしとおもへることをえしもこそしいへ」とてつゝめきてやみぬ。",
         "koutei-yamagen": "「船君の辛くひねり出してよしと思へる事をえしもこそしいへ」とてつゝめきてやみぬ。",
@@ -14268,7 +16096,7 @@
       },
       {
         "date": "20250509",
-        "id": 342,
+        "id": 352,
         "text": "俄に風なみたかければとゞまりぬ。",
         "kana": "にはかにかぜなみたかければとどまりぬ。",
         "koutei-yamagen": "俄に風なみたかければとゞまりぬ。",
@@ -14322,7 +16150,7 @@
       },
       {
         "date": "20250509",
-        "id": 343,
+        "id": 353,
         "text": "二日、雨風止まず。",
         "kana": "ふつか、あめかぜやまず。",
         "koutei-yamagen": "二日、雨風止まず。",
@@ -14368,7 +16196,7 @@
       },
       {
         "date": "20250509",
-        "id": 344,
+        "id": 354,
         "text": "日ひとひ夜もすがら神佛をいのる。",
         "kana": "ひとひよもすがらかみほとけをいのる。",
         "koutei-yamagen": "日ひとひ夜もすがら神佛をいのる。",
@@ -14436,7 +16264,7 @@
       },
       {
         "date": "20250510",
-        "id": 344,
+        "id": 355,
         "text": "三日、海のうへ昨日のやうなれば船いださず。",
         "kana": "みっか、うみのうへきのうのやうなればふねいださず。",
         "koutei-yamagen": "三日、海のうへ昨日のやうなれば船いださず。",
@@ -14522,7 +16350,7 @@
       },
       {
         "date": "20250511",
-        "id": 345,
+        "id": 356,
         "text": "風の吹くことやまねば岸の浪たちかへる。",
         "kana": "かぜのふくことやまねばきしのなみたちかへる。",
         "koutei-yamagen": "風の吹くことやまねば岸の浪たちかへる。",
@@ -14592,7 +16420,7 @@
       },
       {
         "date": "20250511",
-        "id": 346,
+        "id": 357,
         "text": "これにつけてよめる歌、",
         "kana": "これにつけてよめるうた、",
         "koutei-yamagen": "これにつけてよめる歌、",
@@ -14646,7 +16474,7 @@
       },
       {
         "date": "20250511",
-        "id": 347,
+        "id": 358,
         "text": "緒をよりて/かひなきものは/落ちつもる/涙の玉を/ぬかぬなりけり",
         "kana": "ををよりてかひなきものはおちつもるなみだのたまをぬかぬなりけり",
         "koutei-yamagen": "緒をよりてかひなきものは落ちつもる涙の玉をぬかぬなりけり",
@@ -14762,7 +16590,7 @@
       },
       {
         "date": "20250511",
-        "id": 348,
+        "id": 359,
         "text": "かくて、今日は暮れぬ。",
         "kana": "かくて、きょうはくれぬ。",
         "koutei-yamagen": "かくて、今日暮れぬ。",
@@ -14812,7 +16640,7 @@
       },
       {
         "date": "20250511",
-        "id": 348,
+        "id": 360,
         "text": "四日、楫取「けふ風雲のけしきはなはだあし」といひて船出さずなりぬ。",
         "kana": "よか、かぢとり「けふかぜくものけしきはなはだあし」といひてふないでさずなりぬ。",
         "koutei-yamagen": "四日、楫取「けふ風雲のけしきはなはだあし」といひて船出さずなりぬ。",
@@ -14920,7 +16748,7 @@
       },
       {
         "date": "20250511",
-        "id": 349,
+        "id": 361,
         "text": "然れどもひねもすに浪風たゝず。",
         "kana": "しかれどもひねもすになみかぜたたず。",
         "koutei-yamagen": "然れどもひねもすに浪風たゝず。",
@@ -14972,7 +16800,7 @@
       },
       {
         "date": "20250511",
-        "id": 350,
+        "id": 362,
         "text": "この楫取は日も得計らぬかたゐなりけり。",
         "kana": "このかぢとりはひもえはからぬかたゐなりけり。",
         "koutei-yamagen": "この楫取は日も得計らぬかたゐなりけり。",
@@ -15054,7 +16882,7 @@
       },
       {
         "date": "20250511",
-        "id": 351,
+        "id": 363,
         "text": "この泊の濱にはくさぐさの麗しき貝石など多かり。",
         "kana": "このはまのはまにはくさぐさのうるわしきかいせきなどおほかり。",
         "koutei-yamagen": "この泊の濱にはくさぐさの麗しき貝石など多かり。",
@@ -15128,7 +16956,7 @@
       },
       {
         "date": "20250512",
-        "id": 352,
+        "id": 364,
         "text": "かゝれば唯昔の人をのみ戀ひつゝ船なる人の詠める、",
         "kana": "かかればただむかしのひとをのみこひつゝふねなるひとのよめる、",
         "koutei-yamagen": "かゝれば唯昔の人をのみ戀ひつゝ船なる人の詠める、",
@@ -15236,7 +17064,7 @@
       },
       {
         "date": "20250513",
-        "id": 353,
+        "id": 365,
         "text": "よする浪うちも寄せなむわが戀ふる人わすれ貝おりてひろはむ",
         "kana": "よするなみうちもよせなむわがこふるひとわすれかひおりてひろはむ",
         "koutei-yamagen": "よする浪うちも寄せなむわが戀ふる人わすれ貝おりてひろはむ",
@@ -15350,7 +17178,7 @@
       },
       {
         "date": "20250514",
-        "id": 354,
+        "id": 366,
         "text": "といへれば、ある人堪へずして船の心やりによめる、",
         "kana": "といへれば、あるひとたへずしてふねのこころやりによめる、",
         "koutei-yamagen": "といへれば、ある人堪へずして、船の心やりによめる、",
@@ -15444,7 +17272,7 @@
       },
       {
         "date": "20250514",
-        "id": 355,
+        "id": 367,
         "poem": "わすれ貝/ひろひしもせじ/白玉を/戀ふるをだにも/かたみと思はむ",
         "kana": "わすれかい/ひろひしもせじ/しらたまを/こふるをだにも/かたみとおもはむ",
         "koutei-yamagen": "わすれ貝/ひろひしもせじ/白玉を/戀ふるをだにも/かたみと思はむ",
@@ -15572,7 +17400,7 @@
       },
       {
         "date": "20250514",
-        "id": 356,
+        "id": 368,
         "text": "となむいへる。",
         "kana": "となむいへる。",
         "koutei-yamagen": "となむいへる。",
@@ -15608,7 +17436,7 @@
       },
       {
         "date": "20250514",
-        "id": 357,
+        "id": 369,
         "text": "女兒のためには親をさなくなりぬべし。",
         "kana": "をむなごのためにはおやをさなくなりぬべし。",
         "koutei-yamagen": "女兒のためには親をさなくなりぬべし。",
@@ -15692,7 +17520,7 @@
       },
       {
         "date": "20250514",
-        "id": 358,
+        "id": 370,
         "text": "玉ならずもありけむをと人いはむや。",
         "kana": "たまならずもありけむをとひといはむや。",
         "koutei-yamagen": "玉ならずもありけむをと人いはむや。",
@@ -15776,7 +17604,7 @@
       },
       {
         "date": "20250514",
-        "id": 359,
+        "id": 371,
         "text": "されども死にし子顏よかりきといふやうもあり。",
         "kana": "されどもしにしこかほよかりきといふやうもあり。",
         "koutei-yamagen": "されども、死にし子、顔よかりきといふやうもあり。",
@@ -15862,7 +17690,7 @@
       },
       {
         "date": "20250514",
-        "id": 360,
+        "id": 372,
         "text": "猶おなじ所に日を經ることを歎きて、ある女のよめるうた、",
         "kana": "なほおなじところにひをふることをなげきて、あるをむなのよめるうた、",
         "koutei-yamagen": "猶おなじ所に日を經ることを歎きて、ある女のよめるうた、",
@@ -15971,7 +17799,7 @@
       },
       {
         "date": "20250514",
-        "id": 361,
+        "id": 373,
         "poem": "手をひでゝ/寒さも知らぬ/泉にぞ/汲むとはなしに/日ごろ經にける",
         "kana": "てをひでて/さむさもしらぬ/いづみにぞ/くむとはなしに/ひごろへにける",
         "koutei-yamagen": "手をひでゝ/寒さも知らぬ/泉にぞ/汲むとはなしに/日ごろ經にける",
@@ -16095,7 +17923,7 @@
       },
       {
         "date": "20250514",
-        "id": 362,
+        "id": 374,
         "text": "五日、けふ辛くして和泉の灘より小津のとまりをおふ。",
         "kana": "いつか、けふからくしていづみのなだよりおづのとまりをおふ。",
         "koutei-yamagen": "五日、今日、辛くして和泉の灘より小津のとまりをおふ。",
@@ -16189,7 +18017,7 @@
       },
       {
         "date": "20250514",
-        "id": 363,
+        "id": 375,
         "text": "松原めもはるばるなり。",
         "kana": "まつばらめもはるばるなり。",
         "koutei-yamagen": "松原めもはるばるなり。",
@@ -16235,7 +18063,7 @@
       },
       {
         "date": "20250515",
-        "id": 364,
+        "id": 376,
         "text": "かれこれ苦しければ詠めるうた、",
         "kana": "かれこれくるしければよめるうた、",
         "koutei-yamagen": "かれこれ苦しければ詠めるうた、",
@@ -16297,7 +18125,7 @@
       },
       {
         "date": "20250515",
-        "id": 365,
+        "id": 377,
         "poem": "ゆけどなほ/行きやられぬは/妹が績む/小津の浦なる/岸の松原",
         "kana": "ゆけどなほ/ゆきやられぬは/いもがうむ/をつのうらなる/きしのまつばら",
         "koutei-yamagen": "ゆけどなほ行きやられぬはいもがうむをつの浦なるきしの松原",
@@ -16435,7 +18263,7 @@
       },
       {
         "date": "20250515",
-        "id": 366,
+        "id": 378,
         "poem": "かくいひつゞくる程に「船疾くこげ、日のよきに」と催せば楫取船子どもにいはく「御船より仰せたぶなり。",
         "kana": "かくいひつゞくるほどに「ふねとくこげ、ひのよきに」ともよおせばかぢとりふなこどもにいはく「みふねよりおおせたぶなり。",
         "koutei-yamagen": "かくいひつゞくる程に「船疾くこげ、日のよきに」と催せば楫取船子どもにいはく「御船より仰せたぶなり。",
@@ -16587,7 +18415,7 @@
       },
       {
         "date": "20250516",
-        "id": 367,
+        "id": 379,
         "text": "あさぎたの出で來ぬさきに綱手はやひけ」といふ。",
         "kana": "あさぎたのいでくるさきにかなたはやひけ」といふ。",
         "koutei-yamagen": "あさぎたの出で來ぬさきに綱手はやひけ」といふ。",
@@ -16663,7 +18491,7 @@
       },
       {
         "date": "20250516",
-        "id": 368,
+        "id": 380,
         "text": "この詞の歌のやうなるは楫取のおのづからの詞なり。",
         "kana": "このことばのうたのやうなるはかぢとりのおのづからのことばなり。",
         "koutei-yamagen": "この詞の歌のやうなるは楫取のおのづからの詞なり。",
@@ -16769,7 +18597,7 @@
       },
       {
         "date": "20250516",
-        "id": 369,
+        "id": 381,
         "text": "楫取はうつたへにわれ歌のやうなる事いふとにもあらず。",
         "kana": "かぢとりはうつたへにわれうたのやうなることいふとにもあらず。",
         "koutei-yamagen": "楫取は、うつたへに、われ、歌のやうなる事、いふとにもあらず。",
@@ -16899,7 +18727,7 @@
       },
       {
         "date": "20250516",
-        "id": 370,
+        "id": 382,
         "text": "聞く人の「あやしく歌めきてもいひつるかな」とて書き出せればげに三十文字あまりなりけり。",
         "kana": "きくひとの「あやしくうためきてもいひつるかな」とてかきだせればげにみそもじあまりなりけり。",
         "koutei-yamagen": "聞く人の「あやしく歌めきてもいひつるかな」とて書き出せればげに三十文字あまりなりけり。",
@@ -17039,7 +18867,7 @@
       },
       {
         "date": "20250517",
-        "id": 371,
+        "id": 383,
         "text": "今日浪なたちそと、人々ひねもすに祈るしるしありて風浪たゝず。",
         "kana": "きょうなみなたちそと、ひちびとひねもすにいのるしるしありてかぜなみたたず。",
         "koutei-yamagen": "今日浪なたちそと、人々ひねもすに祈るしるしありて風浪たゝず。",
@@ -17151,7 +18979,7 @@
       },
       {
         "date": "20250517",
-        "id": 372,
+        "id": 384,
         "text": "今し鴎むれ居てあそぶ所あり。",
         "kana": "いましかもめむれいてあそぶところあり。",
         "koutei-yamagen": "今し鴎むれ居てあそぶ所あり。",
@@ -17218,7 +19046,7 @@
       },
       {
         "date": "20250517",
-        "id": 373,
+        "id": 385,
         "text": "京のちかづくよろこびのあまりにある童のよめる歌、",
         "kana": "きやうのちかづくよろこびのあまりにあるわらはのよめるうた、",
         "koutei-yamagen": "京のちかづくよろこびのあまりにある童のよめる歌、",
@@ -17304,7 +19132,7 @@
       },
       {
         "date": "20250517",
-        "id": 374,
+        "id": 386,
         "poem": "いのりくる/風間と思ふを/あやなくに/鴎さへだに/なみと見ゆらむ",
         "kana": "いのりくる/かざまとおもふを/あやなくに/かもめさへだに/なみとみゆらむ",
         "koutei-yamagen": "いのりくる/風間と思ふを/あやなくに/鴎さへだに/なみと見ゆらむ",
@@ -17408,7 +19236,7 @@
       },
       {
         "date": "20250518",
-        "id": 375,
+        "id": 387,
         "text": "といひて行く間に、石津といふ所の松原おもしろくて濱邊遠し。",
         "kana": "といひていくあひだに、いしづといふところのまつばらおもしろくてはまべとほし。",
         "koutei-yamagen": "といひて行く間に、石津といふ所の松原おもしろくて濱邊遠し。",
@@ -17516,7 +19344,7 @@
       },
       {
         "date": "20250518",
-        "id": 376,
+        "id": 388,
         "text": "又住吉のわたりを漕ぎ行く。",
         "kana": "またすみよしのわたりをこぎいく。",
         "koutei-yamagen": "又住吉のわたりを漕ぎ行く。",
@@ -17576,7 +19404,7 @@
       },
       {
         "date": "20250518",
-        "id": 377,
+        "id": 389,
         "text": "ある人の詠める歌、",
         "kana": "あるひとのよめるうた、",
         "koutei-yamagen": "ある人の詠める歌、",
@@ -17626,7 +19454,7 @@
       },
       {
         "date": "20250518",
-        "id": 378,
+        "id": 390,
         "poem": "今見てぞ/身をば知りぬる/住のゑの/松よりさきに/われは經にけり",
         "kana": "いまみてぞ/みをばしりぬる/すみのゑの/まつよりさきに/われはけにけり",
         "koutei-yamagen": "今見てぞ/身をば知りぬる/住のえの/松よりさきに/われは經にけり",
@@ -17742,7 +19570,7 @@
       },
       {
         "date": "20250518",
-        "id": 378,
+        "id": 391,
         "text": "こゝにむかしつ人の母、一日片時も忘れねばよめる、",
         "kana": "ここにむかしつひとのはは、いちにちかたときもわすれねばよめる、",
         "koutei-yamagen": "こゝにむかしつ人の母、一日片時も忘れねばよめる、",
@@ -17858,7 +19686,7 @@
       },
       {
         "date": "20250518",
-        "id": 379,
+        "id": 392,
         "poem": "住の江に/船さしよせよ/わすれ草/しるしありやと/つみて行くべく",
         "kana": "すみのゑに/ふねさしよせよ/わすれぐさ/しるしありやと/つみていくべく",
         "koutei-yamagen": "住の江に/船さしよせよ/わすれ草/しるしありやと/つみて行くべく",
@@ -18002,7 +19830,7 @@
       },
       {
         "date": "20250518",
-        "id": 380,
+        "id": 393,
         "text": "となむ。",
         "kana": "となむ。",
         "koutei-yamagen": "となむ。",
@@ -18042,7 +19870,7 @@
       },
       {
         "date": "20250519",
-        "id": 381,
+        "id": 394,
         "text": "うつたへに忘れなむとにはあらで、戀しき心ちしばしやすめて又も戀ふる力にせむとなるべし。",
         "kana": "うつたへにわすれなむとにはあらで、こひしきここちしばしやすめてまたもこひふるちからにせむとなるべし。",
         "koutei-yamagen": "うつたへに忘れなむとにはあらで、戀しき心ちしばしやすめて又も戀ふる力にせむとなるべし。",
@@ -18166,7 +19994,7 @@
       },
       {
         "date": "20250520",
-        "id": 382,
+        "id": 395,
         "text": "かくいひて眺めつゞくるあひだに、ゆくりなく風吹きてこげどもこげどもしりへしぞきにしぞきてほとほとしくうちはめつべし。",
         "kana": "かくいひてながめつづくるあひだに、ゆくりなくかぜふきてこげどもこげどもしりへしぞきにしぞきてほとほとしくうちはめつべし。",
         "koutei-yamagen": "かくいひて眺めつゞくるあひだに、ゆくりなく風吹きてこげどもこげどもしりへしぞきにしぞきてほとほとしくうちはめつべし。",
@@ -18316,7 +20144,7 @@
       },
       {
         "date": "20250520",
-        "id": 382,
+        "id": 396,
         "text": "楫取のいはく",
         "kana": "かぢとりのいはく",
         "koutei-yamagen": "楫取のいはく",
@@ -18348,7 +20176,7 @@
       },
       {
         "date": "20250520",
-        "id": 383,
+        "id": 397,
         "text": "「この住吉の明神は例の神ぞかし。ほしきものぞおはすらむ」とは今めくものか。",
         "kana": "「このすみのゑのみやうじんはれいのかみぞかし。ほしきものぞおはすらむ」とはいまめくものか。",
         "koutei-yamagen": "「この住吉の明神は例の神ぞかし。ほしきものぞおはすらむ」とはいまめくものか。",
@@ -18460,7 +20288,7 @@
       },
       {
         "date": "20250520",
-        "id": 384,
+        "id": 398,
         "text": "さて「幣をたてまつり給へ」といふにしたがひてぬさたいまつる。",
         "kana": "さて「ぬさをたてまつりたまへ」といふにしたがひてぬさたいまつる。",
         "koutei-yamagen": "さて「幣をたてまつり給へ」といふにしたがひてたいまつる。",
@@ -18540,7 +20368,7 @@
       },
       {
         "date": "20250520",
-        "id": 385,
+        "id": 399,
         "text": "かくたいまつれどももはら風やまで、いや吹きにいや立ちに風浪の危ふければ楫取又いはく「幣には御心のいかねば御船も行かぬなり。",
         "kana": "かくたいまつれどももはらかぜやまで、いやふきにいやたちにかぜなみのあやふければかぢとりまたいはく「ぬさにはおこころのいかねばおふねもいかぬなり。",
         "koutei-yamagen": "かくたいまつれどももはら風やまで、いや吹きにいや立ちに風浪の危ふければ楫取又いはく「幣には御心のいかねば御船も行かぬなり。",
@@ -18722,7 +20550,7 @@
       },
       {
         "date": "20250520",
-        "id": 385,
+        "id": 400,
         "text": "猶うれしと思ひたぶべき物たいまつりたべ」といふ。",
         "kana": "なおうれしと思ひたぶべきものたいまつりたべ」といふ。",
         "koutei-yamagen": "猶うれしと思ひたぶべき物たいまつりたべ」といふ。",
@@ -18798,7 +20626,7 @@
       },
       {
         "date": "20250520",
-        "id": 386,
+        "id": 401,
         "text": "又いふに從ひて「いかゞはせむ」とて「眼もこそ二つあれ。",
         "kana": "またいふにしたがひて「いかがはせむ」とて「めもこそふたつあれ。",
         "koutei-yamagen": "又いふに從ひて「いかゞはせむ」とて「眼もこそ二つあれ。",
@@ -18900,7 +20728,7 @@
       },
       {
         "date": "20250520",
-        "id": 387,
+        "id": 402,
         "text": "ただ一つある鏡をたいまつる」とて海にうちはめつればいとくちをし。",
         "kana": "ただひとつあるかがみをたいまつる」とてうみうちはめつればいとくちをし。",
         "koutei-yamagen": "ただ一つある鏡をたいまつる」とて海にうちはめつればいとくちをし。",
@@ -18998,7 +20826,7 @@
       },
       {
         "date": "20250520",
-        "id": 388,
+        "id": 403,
         "text": "さればうちつけに海は鏡のごとなりぬれば、或人のよめるうた、",
         "kana": "さればうちつけにうみはかがみのごとなりぬれば、あるひとのよめるうた、",
         "koutei-yamagen": "さればうちつけに海は鏡のごとなりぬれば、或人のよめるうた、",
@@ -19090,7 +20918,7 @@
       },
       {
         "date": "20250521",
-        "id": 389,
+        "id": 404,
         "poem": "ちはやぶる/神のこゝろの/あるゝ海に/鏡を入れて/かつ見つるかな",
         "kana": "ちはやぶるかみのこころのあるうみにかがみをいれてかつみつるかな",
         "koutei-yamagen": "ちはやぶる神の心のあるる海に鏡を入れてかつ見つるかな",
@@ -19198,7 +21026,7 @@
       },
       {
         "date": "20250522",
-        "id": 390,
+        "id": 405,
         "text": "いたく住の江の忘草、岸の姫松などいふ神にはあらずかし。",
         "kana": "いたくすみのゑのわすれぐさ、きしのひめまつなどいふ神にはあらずかし。",
         "koutei-yamagen": "いたく住の江の忘草、岸の姫松などいふ神にはあらずかし。",
@@ -19318,7 +21146,7 @@
       },
       {
         "date": "20250522",
-        "id": 391,
+        "id": 406,
         "text": "目もうつらうつら鏡に神の心をこそは見つれ。",
         "kana": "めもうつらうつらかがみにかみのこころをこそはみつれ。",
         "koutei-yamagen": "目もうつらうつら鏡に神の心をこそは見つれ。",
@@ -19438,7 +21266,7 @@
       },
       {
         "date": "20250522",
-        "id": 392,
+        "id": 407,
         "text": "楫取の心は神の御心なりけり。",
         "kana": "かぢとりのこころはかみのみごろなりけり。",
         "koutei-yamagen": "楫取の心は、神の御心なりけり。",
@@ -19516,7 +21344,7 @@
       },
       {
         "date": "20250522",
-        "id": 393,
+        "id": 408,
         "text": "六日、澪標のもとより出でゝ難波につきて河尻に入る。",
         "kana": "むいか、みをつくしのもとよりいでてなにわにつきてかはじりにはいる。",
         "koutei-yamagen": "六日、澪標のもとより出でゝ難波につきて河尻に入る。",
@@ -19616,7 +21444,7 @@
       },
       {
         "date": "20250522",
-        "id": 394,
+        "id": 409,
         "text": "みな人々女おきなひたひに手をあてゝ喜ぶこと二つなし。",
         "kana": "みなひとびとおむなおきなひたひにてをあててよろこぶことふたつなし。",
         "koutei-yamagen": "みな人々を女おきなひたひに手をあてゝ喜ぶこと二つなし。",
@@ -19720,7 +21548,7 @@
       },
       {
         "date": "20250522",
-        "id": 395,
+        "id": 410,
         "text": "かの船醉の淡路の島のおほい子、都近くなりぬといふを喜びて、船底より頭をもたげてかくぞいへる、",
         "kana": "かのふなよいのあわじのしまのおほいこ、みやこちかくなりぬといふをよろこびて、ふなぞこよりかしらをもたげてかくぞいへる、",
         "koutei-yamagen": "かの船醉の淡路の島のおほい子、都近くなりぬといふを喜びて、船底より頭をもたげてかくぞいへる、",
@@ -19866,7 +21694,7 @@
       },
       {
         "date": "20250522",
-        "id": 396,
+        "id": 411,
         "poem": "いつしかと/いぶせかりつる/難波がた/蘆こぎそけて/御船きにけり",
         "kana": "いつしかといぶせかりつるなにはがたあしこぎそけてみふねきにけり",
         "koutei-yamagen": "いつしかといぶせかりつる難波がた、蘆こぎそけて御船きにけり。",
@@ -19982,7 +21810,7 @@
       },
       {
         "date": "20250522",
-        "id": 397,
+        "id": 412,
         "text": "いとおもひの外なる人のいへれば、人々あやしがる。",
         "kana": "いとおもひのほかなるひとのいへれば、ひとびとあやしがる。",
         "koutei-yamagen": "いとおもひの外なる人のいへれば、人々あやしがる。",
@@ -20052,7 +21880,7 @@
       },
       {
         "date": "20250522",
-        "id": 398,
+        "id": 413,
         "text": "これが中に心ちなやむ船君いたくめでゝ「船醉したうべりし御顏には似ずもあるかな」といひける。",
         "kana": "これがなかにこころちなやむふねきみいたくめでゝ「ふなよいしたうべりしみかほにはにずもあるかな」といひける。",
         "koutei-yamagen": "これが中に心ちなやむ船君いたくめでゝ、「船醉したうべりし御顏には、似ずもあるかな」といひける。",
@@ -20190,7 +22018,7 @@
       },
       {
         "date": "20250522",
-        "id": 399,
+        "id": 414,
         "text": "七日、けふは川尻に船入り立ちて漕ぎのぼるに、川の水ひて惱みわづらふ。",
         "kana": "なぬか、けふはかはじりにふねいりたちてこぎのぼるに、かはのみづひてなやみわづらふ。",
         "koutei-yamagen": "七日、けふは川尻に船入り立ちて漕ぎのぼるに、川の水ひて惱みわづらふ。",
@@ -20304,7 +22132,7 @@
       },
       {
         "date": "20250522",
-        "id": 400,
+        "id": 415,
         "text": "船ののぼることいと難し。",
         "kana": "ふねののぼることいとなし。",
         "koutei-yamagen": "船ののぼることいと難し。",
@@ -20354,7 +22182,7 @@
       },
       {
         "date": "20250523",
-        "id": 401,
+        "id": 416,
         "text": "かゝる間に船君の病者もとよりこちごちしき人にて、かうやうの事更に知らざりけり。",
         "kana": "かかるあひだにふなぎみのぼうざもとよりこちごちしきひとにて、かうやうのことさらにしらざりけり。",
         "koutei-yamagen": "かゝる間に船君の病者もとよりこちごちしき人にて、かうやうの事更に知らざりけり。",
@@ -20460,7 +22288,7 @@
       },
       {
         "date": "20250524",
-        "id": 402,
+        "id": 417,
         "text": "かゝれども淡路のたうめの歌にめでゝ、みやこぼこりにもやあらむ、からくしてあやしき歌ひねり出せり。",
         "kana": "かかれどもあはじのたうめのうたにめでゝ、みやこぼこりにもやあらむ、からくしてあやしきうたひねりだせり。",
         "koutei-yamagen": "かゝれども淡路のたうめの歌にめでゝ、みやこぼこりにもやあらむ、からくしてあやしき歌ひねり出だせり。",
@@ -20598,7 +22426,7 @@
       },
       {
         "date": "20250524",
-        "id": 403,
+        "id": 418,
         "text": "そのうたは、",
         "kana": "そのうたは、",
         "koutei-yamagen": "そのうたは、",
@@ -20630,7 +22458,7 @@
       },
       {
         "date": "20250524",
-        "id": 404,
+        "id": 419,
         "poem": "きときては/川のほりえの/水をあさみ/船も我が身も/なづむけふかな",
         "kana": "きときては/かわのほりえの/みづをあさみ/ふねもわがみも/なづむけふかな",
         "koutei-yamagen": "きときては/川のほりえの/水をあさみ/船も我が身も/なづむけふかな",
@@ -20758,7 +22586,7 @@
       },
       {
         "date": "20250524",
-        "id": 405,
+        "id": 420,
         "text": "これは病をすればよめるなるべし。",
         "kana": "これはやまひをすればよめるなるべし。",
         "koutei-yamagen": "これは病をすればよめるなるべし。",
@@ -20836,7 +22664,7 @@
       },
       {
         "date": "20250524",
-        "id": 406,
+        "id": 421,
         "text": "ひとうたにことの飽かねば今ひとつ、",
         "kana": "ひとうたにことのあかねばいまひとつ、",
         "koutei-yamagen": "ひとうたにことのあかねばいまひとつ、",
@@ -20908,7 +22736,7 @@
       },
       {
         "date": "20250524",
-        "id": 407,
+        "id": 422,
         "poem": "とくと思ふ/船なやますは/我がために/水のこゝろの/あさきなりけり",
         "kana": "とくと思ふ/ふねなやますは/わがために/みづのこころの/あさきなりけり",
         "koutei-yamagen": "とくと思ふ/船なやますは/我がために/水のこころの/あさきなりけり",
@@ -21064,7 +22892,7 @@
       },
       {
         "date": "20250524",
-        "id": 408,
+        "id": 423,
         "text": "この歌は、みやこ近くなりぬるよろこびに堪へずして言へるなるべし。",
         "kana": "このうたは、みやこちかくなりぬるよろこびにたへずしていへるなるべし。",
         "koutei-yamagen": "この歌は、みやこ近くなりぬるよろこびに堪へずして言へるなるべし。",
@@ -21166,7 +22994,7 @@
       },
       {
         "date": "20250525",
-        "id": 409,
+        "id": 424,
         "text": "淡路の御の歌におとれり。",
         "kana": "あはじのごのうたにおとれり。",
         "koutei-yamagen": "淡路の御の歌におとれり。",
@@ -21230,7 +23058,7 @@
       },
       {
         "date": "20250525",
-        "id": 410,
+        "id": 425,
         "text": "ねたき、いはざらましものをとくやしがるうちによるになりて寢にけり。",
         "kana": "ねたき、いはざらましものをとくやしがるうちによるになりてねにけり。",
         "koutei-yamagen": "ねたき、いはざらましものをとくやしがるうちによるになりてねにけり。",
@@ -21326,7 +23154,7 @@
       },
       {
         "date": "20250525",
-        "id": 411,
+        "id": 426,
         "text": "八日、なほ川のほとりになづみて、鳥養の御牧といふほとりにとまる。",
         "kana": "ようか、なほかわのほとりになづみて、とりかひのみまさというほとりにとまる。",
         "koutei-yamagen": "八日、なほ川のほとりになづみて、鳥養の御牧といふほとりにとまる。",
@@ -21434,7 +23262,7 @@
       },
       {
         "date": "20250525",
-        "id": 412,
+        "id": 427,
         "text": "こよひ船君例の病起りていたく惱む。",
         "kana": "こよひふなぎみれいのやまひおこりていたくなやむ。",
         "koutei-yamagen": "こよひ船君例の病起りていたく惱む。",
@@ -21520,7 +23348,7 @@
       },
       {
         "date": "20250525",
-        "id": 412,
+        "id": 428,
         "text": "ある人あさらかなる物もてきたり。",
         "kana": "あるひとあさらかなるものもてきたり。",
         "koutei-yamagen": "ある人あさらかなる物もてきたり。",
@@ -21595,7 +23423,7 @@
       },
       {
         "date": "20250525",
-        "id": 413,
+        "id": 429,
         "text": "よねしてかへりごとす。",
         "kana": "よねしてかへりごとす。",
         "koutei-yamagen": "よねしてかへりごとす。",
@@ -21641,7 +23469,7 @@
       },
       {
         "date": "20250525",
-        "id": 414,
+        "id": 430,
         "text": "男ども密にいふなり「いひぼしてもてる」とや。",
         "kana": "おとこどもひそかにいうなり「いひぼしてもてる」とや。",
         "koutei-yamagen": "男ども密にいうなり「いひぼしてもてる」とや。",
@@ -21731,7 +23559,7 @@
       },
       {
         "date": "20250525",
-        "id": 415,
+        "id": 431,
         "text": "かうやうの事所々にあり。",
         "kana": "かうやうのことところどころにあり。",
         "koutei-yamagen": "かうやうの事所々にあり。",
@@ -21780,7 +23608,7 @@
       },
       {
         "date": "20250525",
-        "id": 415,
+        "id": 432,
         "text": "今日節みすればいをもちゐず。",
         "kana": "けふせちみすればいをもちゐず。",
         "koutei-yamagen": "今日節みすればいをもちゐず。",
@@ -21837,7 +23665,7 @@
       },
       {
         "date": "20250525",
-        "id": 415,
+        "id": 433,
         "text": "九日、心もとなさに明けぬから船をひきつゝのぼれども川の水なければゐざりにのみゐざる。",
         "kana": "ここのか、こころもとなさにあけぬからふねをひきつゝのぼれどもかわのみずなければゐざりにのみゐざる。",
         "koutei-yamagen": "九日、心もとなさに明けぬから船をひきつゝのぼれども川の水なければゐざりにのみゐざる。",
@@ -21957,7 +23785,7 @@
       },
       {
         "date": "20250526",
-        "id": 416,
+        "id": 434,
         "text": "この間に和田の泊りのあかれのところといふ所あり。",
         "kana": "このあひだにわだのとまりのあかれのところというところあり。",
         "koutei-yamagen": "この間に和田の泊りのあかれのところといふ所あり。",
@@ -22045,7 +23873,7 @@
       },
       {
         "date": "20250526",
-        "id": 417,
+        "id": 435,
         "text": "よねいをなどこへばおこなひつ。",
         "kana": "よねいをなどこへばおこなひつ。",
         "koutei-yamagen": "よねいをなどこへばおこなひつ。",
@@ -22105,7 +23933,7 @@
       },
       {
         "date": "20250526",
-        "id": 418,
+        "id": 436,
         "text": "かくて船ひきのぼるに渚の院といふ所を見つゝ行く。",
         "kana": "かくてふねひきのぼるになぎさのゐんといふところをみつつゆく。",
         "koutei-yamagen": "かくて船ひきのぼるに渚の院といふ所を見つゝ行く。",
@@ -22199,7 +24027,7 @@
       },
       {
         "date": "20250526",
-        "id": 419,
+        "id": 437,
         "text": "その院むかしを思ひやりて見れば、おもしろかりける所なり。",
         "kana": "そのゐんむかしをおもひやりてみれば、おもしろかりけるところなり。",
         "koutei-yamagen": "その院むかしを思ひやりて見れば、おもしろかりける所なり。",
@@ -22289,7 +24117,7 @@
       },
       {
         "date": "20250526",
-        "id": 420,
+        "id": 438,
         "text": "しりへなる岡には松の木どもあり。",
         "kana": "しりへなるをかにはまつのきどもあり。",
         "koutei-yamagen": "しりへなる岡には松の木どもあり。",
@@ -22367,7 +24195,7 @@
       },
       {
         "date": "20250526",
-        "id": 420,
+        "id": 439,
         "text": "中の庭には梅の花さけり。",
         "kana": "なかのにはにはむめのはなさけり。",
         "koutei-yamagen": "中の庭には梅の花さけり。",
@@ -22439,7 +24267,7 @@
       },
       {
         "date": "20250526",
-        "id": 421,
+        "id": 440,
         "text": "こゝに人々のいはく「これむかし名高く聞えたる所なり。",
         "kana": "ここにひとびとのいはく「これむかしなだかくきこえたるところなり。",
         "koutei-yamagen": "こゝに人々のいはく「これむかし名高く聞えたる所なり。",
@@ -22519,7 +24347,7 @@
       },
       {
         "date": "20250526",
-        "id": 422,
+        "id": 441,
         "text": "故惟喬のみこのおほん供に故在原の業平の中將の",
         "kana": "ここれたかのみこのおほむどもくにこありはらのなりひらのちやうぜうの",
         "koutei-yamagen": "故惟喬親王の御供に、故在原業平の中將の",
@@ -22603,7 +24431,7 @@
       },
       {
         "date": "20250526",
-        "id": 423,
+        "id": 442,
         "poem": "世の中に/絶えて櫻の/さかざらは/春のこゝろは/のどけからまし",
         "kana": "よのなかにたえてさくらのさかざらははるのこころはのどけからまし",
         "koutei-yamagen": "世の中に絶えて櫻の咲かざらは春の心はのどけからまし",
@@ -22701,7 +24529,7 @@
       },
       {
         "date": "20250526",
-        "id": 424,
+        "id": 443,
         "text": "といふ歌よめる所なりけり。",
         "kana": "といふうたよめるところなりけり。",
         "koutei-yamagen": "といふ歌よめる所なりけり。",
@@ -22771,7 +24599,7 @@
       },
       {
         "date": "20250526",
-        "id": 425,
+        "id": 444,
         "text": "今興ある人所に似たる歌よめり、",
         "kana": "いまきやうあるひとところににたるうたよめり、",
         "koutei-yamagen": "今興ある人所に似たる歌よめり、",
@@ -22838,7 +24666,7 @@
             "words": [
               {
                 "word": "よめ",
-                "gloss": "compose.REALIS.F"
+                "gloss": "compose.REALIS"
               },
               {
                 "word": "り",
@@ -22853,7 +24681,7 @@
       },
       {
         "date": "20250526",
-        "id": 426,
+        "id": 445,
         "text": "千代へたる/松にはあれど/いにしへの/聲の寒さは/かはらざりけり",
         "kana": "ちよへたるまつにはあれどいにしへのこゑのさむさはかはらざりけり",
         "koutei-yamagen": "千代へたる松にはあれど、いにしへの聲の寒さはかはらざりけり。",
@@ -22965,7 +24793,7 @@
       },
       {
         "date": "20250526",
-        "id": 427,
+        "id": 446,
         "text": "又ある人のよめる、",
         "kana": "またあるひとのよめる、",
         "koutei-yamagen": "又ある人のよめる、",
@@ -23012,7 +24840,7 @@
       },
       {
         "date": "20250526",
-        "id": 428,
+        "id": 447,
         "poem": "君戀ひて/世をふる宿の/うめの花/むかしの香に/ぞなほにほひける",
         "kana": "きみこひてよをふるやどのうめのはな/むかしのかにぞ/なほにほひける",
         "koutei-yamagen": "君戀ひて世をふる宿の梅の花、むかしの香にぞなほにほひける。",
@@ -23128,7 +24956,7 @@
       },
       {
         "date": "20250526",
-        "id": 429,
+        "id": 448,
         "text": "といひつゝぞ都のちかづくを悦びつゝのぼる。",
         "kana": "といひつゝぞみやこのちかづくをよろこびつゝのぼる。",
         "koutei-yamagen": "といひつゝぞ都の近づくを悦びつゝのぼる。",
@@ -23204,7 +25032,7 @@
       },
       {
         "date": "20250526",
-        "id": 430,
+        "id": 449,
         "text": "かくのぼる人々のなかに京よりくだりし時に、皆人子どもなかりき。",
         "kana": "かくのぼるひとびとのなかにきやうよりくだりしときに、みなひとこどもなかりき。",
         "koutei-yamagen": "かくのぼる人々のなかに、京よりくだりし時に、皆人子どもなかりき。",
@@ -23300,7 +25128,7 @@
       },
       {
         "date": "20250527",
-        "id": 431,
+        "id": 450,
         "text": "いたれりし國にてぞ子生める者どもありあへる。",
         "kana": "いたれりしくににてぞこうめるものどもありあへる。",
         "koutei-yamagen": "いたれりし國にてぞ子生める者どもありあへる。",
@@ -23394,7 +25222,7 @@
       },
       {
         "date": "20250527",
-        "id": 432,
+        "id": 451,
         "text": "みな人船のとまる所に子を抱きつゝおりのりす。",
         "kana": "みなひとふねのとまるところにこをだきつゝおりのりす。",
         "koutei-yamagen": "みな人船のとまる所に子を抱きつゝおりのりす。",
@@ -23488,7 +25316,7 @@
       },
       {
         "date": "20250527",
-        "id": 433,
+        "id": 452,
         "text": "これを見て昔の子の母かなしきに堪へずして、",
         "kana": "これをみてむかしのこのははかなしきにたへずして、",
         "koutei-yamagen": "これを見て昔の子の母かなしきに堪へずして、",
@@ -23580,7 +25408,7 @@
       },
       {
         "date": "20250527",
-        "id": 434,
+        "id": 453,
         "poem": "なかりしもありつゝ歸る人の子をありしもなくてくるが悲しさ",
         "kana": "なかりしもありつゝかへるひとのこをありしもなくてくるがかなしさ",
         "koutei-yamagen": "なかりしもありつゝ歸る人の子をありしもなくてくるが悲しさ。",
@@ -23696,7 +25524,7 @@
       },
       {
         "date": "20250527",
-        "id": 434,
+        "id": 454,
         "text": "といひてぞ泣きける。",
         "kana": "といひてぞなきける。",
         "koutei-yamagen": "といひてぞ泣きける。",
@@ -23746,7 +25574,7 @@
       },
       {
         "date": "20250527",
-        "id": 435,
+        "id": 455,
         "text": "父もこれを聞きていかゞあらむ。",
         "kana": "ちちもこれをききていかゞあらむ。",
         "koutei-yamagen": "父もこれを聞きていかゞあらむ。",
@@ -23808,7 +25636,7 @@
       },
       {
         "date": "20250527",
-        "id": 435,
+        "id": 456,
         "text": "かうやうの事ども歌もこのむとてあるにもあらざるべし。",
         "kana": "かうやうのことどもうたもこのむとてあるにもあらざるべし。",
         "koutei-yamagen": "かうやうの事ども歌もこのむとてあるにもあらざるべし。",
@@ -23924,7 +25752,7 @@
       },
       {
         "date": "20250528",
-        "id": 436,
+        "id": 457,
         "text": "もろこしもこゝも思ふことに堪へぬ時のわざとか。",
         "kana": "もろこしもここもおもふことにたへぬときのわざとか。",
         "koutei-yamagen": "もろこしもこゝも思ふことに堪へぬ時のわざとか。",
@@ -24024,7 +25852,7 @@
       },
       {
         "date": "20250528",
-        "id": 436,
+        "id": 458,
         "text": "こよひ宇土野といふ所にとまる。",
         "kana": "こよいうどのといふところにとまる。",
         "koutei-yamagen": "こよひ宇土野といふ所にとまる。",
@@ -24084,7 +25912,7 @@
       },
       {
         "date": "20250528",
-        "id": 437,
+        "id": 459,
         "text": "十日、さはることありてのぼらず。",
         "kana": "とおか、さはることありてのぼらず。",
         "koutei-yamagen": "十日、さはることありてのぼらず。",
@@ -24144,7 +25972,7 @@
       },
       {
         "date": "20250528",
-        "id": 438,
+        "id": 460,
         "text": "十一日、雨いさゝか降りてやみぬ。",
         "kana": "じゅういちにち、あめいさゝかふりてやみぬ。",
         "koutei-yamagen": "十一日、雨いさゝか降りてやみぬ。",
@@ -24204,7 +26032,7 @@
       },
       {
         "date": "20250529",
-        "id": 438,
+        "id": 461,
         "text": "かくてさしのぼるに東のかたに山のよこをれるを見て人に問へば「八幡の宮」といふ。",
         "kana": "かくてさしのぼるにひむがしのかたにやまのよこをれるをみてひとにとへば「はちまんのみや」といふ。",
         "koutei-yamagen": "かくてさしのぼるに東のかたに山のよこをれるを見て人に問へば「八幡の宮」といふ。",
@@ -24336,7 +26164,7 @@
       },
       {
         "date": "20250529",
-        "id": 439,
+        "id": 462,
         "text": "これを聞きてよろこびて人々をがみ奉る。",
         "kana": "これをききてよろこびてひとびとをがみたてまつる。",
         "koutei-yamagen": "これを聞きてよろこびて人々をがみ奉る。",
@@ -24404,7 +26232,7 @@
       },
       {
         "date": "20250529",
-        "id": 440,
+        "id": 463,
         "text": "山崎の橋見ゆ。",
         "kana": "やまざきのはしみゆ。",
         "koutei-yamagen": "山崎の橋見ゆ。",
@@ -24446,7 +26274,7 @@
       },
       {
         "date": "20250529",
-        "id": 441,
+        "id": 464,
         "text": "嬉しきこと限りなし。",
         "kana": "うれしきことかぎりなし。",
         "koutei-yamagen": "嬉しきこと限りなし。",
@@ -24488,7 +26316,7 @@
       },
       {
         "date": "20250529",
-        "id": 442,
+        "id": 465,
         "text": "こゝに相應寺のほとりに、しばし船をとゞめてとかく定むる事あり。",
         "kana": "ここにそうおうじのほとりに、しばしふねをとゞめてとかくさだむることあり。",
         "koutei-yamagen": "こゝに相應寺のほとりに、しばし船をとゞめてとかく定むる事あり。",
@@ -24586,7 +26414,7 @@
       },
       {
         "date": "20250529",
-        "id": 443,
+        "id": 466,
         "text": "この寺の岸のほとりに柳多くあり。",
         "kana": "このてらのきしのほとりにやなぎおほくあり。",
         "koutei-yamagen": "この寺の岸のほとりに柳多くあり。",
@@ -24652,7 +26480,7 @@
       },
       {
         "date": "20250529",
-        "id": 444,
+        "id": 467,
         "text": "ある人この柳のかげの川の底にうつれるを見てよめる歌、",
         "kana": "あるひとこのやなぎのかげのかはのそこにうつれるをみてよめるうた、",
         "koutei-yamagen": "ある人この柳のかげの川の底にうつれるを見てよめる歌、",
@@ -24766,7 +26594,7 @@
       },
       {
         "date": "20250529",
-        "id": 445,
+        "id": 468,
         "text": "さゞれ浪よするあやをば青柳のかげのいとして織るかとぞ見る",
         "kana": "さゞれなみよするあやをばあをやぎのかげのいとしておるかとぞみる",
         "koutei-yamagen": "さゞれ浪よするあやをば青柳のかげのいとして織るかとぞ見る",
@@ -24872,7 +26700,7 @@
       },
       {
         "date": "20250529",
-        "id": 446,
+        "id": 469,
         "text": "十二日、山崎にとまれり。",
         "kana": "じゅうににち、やまざきにとまれり。",
         "koutei-yamagen": "十二日、山崎にとまれり。",
@@ -24928,7 +26756,7 @@
       },
       {
         "date": "20250529",
-        "id": 447,
+        "id": 470,
         "text": "十三日、なほ山崎に。",
         "kana": "じゅうさんにち、なほやまざきに。",
         "koutei-yamagen": "十三日、なほ山崎に。",
@@ -24974,7 +26802,7 @@
       },
       {
         "date": "20250529",
-        "id": 448,
+        "id": 471,
         "text": "十四日、雨ふる。",
         "kana": "じゅうよっか、あめふる。",
         "koutei-yamagen": "十四日、雨ふる。",
@@ -25015,7 +26843,7 @@
       },
       {
         "date": "20250529",
-        "id": 449,
+        "id": 472,
         "text": "けふ車京へとりにやる。",
         "kana": "けふくるまきやうへとりにやる。",
         "koutei-yamagen": "けふ車京へとりにやる。",
@@ -25075,7 +26903,7 @@
       },
       {
         "date": "20250529",
-        "id": 450,
+        "id": 473,
         "text": "十五日、今日車ゐてきたれり。",
         "kana": "じふごにち、けふくるまゐてきたれり。",
         "koutei-yamagen": "十五日、今日車ゐてきたれり。",
@@ -25143,7 +26971,7 @@
       },
       {
         "date": "20250529",
-        "id": 451,
+        "id": 474,
         "text": "船のむつかしさに船より人の家にうつる。",
         "kana": "ふねのむつかしさにふねよりひとのいえにうつる。",
         "koutei-yamagen": "船のむつかしさに船より人の家にうつる。",
@@ -25219,7 +27047,7 @@
       },
       {
         "date": "20250529",
-        "id": 452,
+        "id": 475,
         "text": "この人の家よろこべるやうにてあるじしたり。",
         "kana": "このひとのいゑよろこべるやうにてあるじしたり。",
         "koutei-yamagen": "この人の家よろこべるやうにてあるじしたり。",
@@ -25291,7 +27119,7 @@
       },
       {
         "date": "20250529",
-        "id": 453,
+        "id": 476,
         "text": "このあるじの又あるじのよきを見るに、うたておもほゆ。",
         "kana": "このあるじのまたあるじのよきをみるに、うたておもほゆ。",
         "koutei-yamagen": "このあるじの又あるじのよきを見るに、うたておもほゆ。",
@@ -25371,7 +27199,7 @@
       },
       {
         "date": "20250529",
-        "id": 454,
+        "id": 477,
         "text": "いろいろにかへりごとす。",
         "kana": "いろいろにかへりごとす。",
         "koutei-yamagen": "いろいろにかへりごとす。",
@@ -25413,7 +27241,7 @@
       },
       {
         "date": "20250529",
-        "id": 455,
+        "id": 478,
         "text": "家の人のいで入りにくげならずゐやゝかなり。",
         "kana": "いえのひとのいでいりにくげならずゐやゝかなり。",
         "koutei-yamagen": "家の人の出で入り、にくげならず、ゐやゝかなり。",
@@ -25495,7 +27323,7 @@
       },
       {
         "date": "20250529",
-        "id": 456,
+        "id": 479,
         "text": "十六日、けふのようさりつかた京へのぼるついでに見れば、山崎の小櫃の繪もまがりのおほちの形もかはらざりけり。",
         "kana": "じふろくにち、けふのようさりつかたきやうへのぼるついでにみれば、やまざきのこびつのゑもまがりのおほちのかたもかはらざりけり。",
         "koutei-yamagen": "十六日、けふのようさりつかた京へのぼるついでに見れば、山崎の小櫃の繪もまがりのおほちの形もかはらざりけり。",
@@ -25647,7 +27475,7 @@
       },
       {
         "date": "20250529",
-        "id": 457,
+        "id": 480,
         "text": "「賣る人の心をぞ知らぬ」とぞいふなる。",
         "kana": "「よめるひとのこころをぞしらぬ」とぞいうなる。",
         "koutei-yamagen": "「よめる人の心をぞ知らぬ」とぞいうなる。",
@@ -25721,7 +27549,7 @@
       },
       {
         "date": "20250529",
-        "id": 458,
+        "id": 481,
         "text": "かくて京へ行くに島坂にて人あるじしたり。",
         "kana": "かくてきやうへいくにしまざかにてひとあるじしたり。",
         "koutei-yamagen": "かくて京へ行くに島坂にて人あるじしたり。",
@@ -25807,7 +27635,7 @@
       },
       {
         "date": "20250529",
-        "id": 459,
+        "id": 482,
         "text": "必ずしもあるまじきわざなり。",
         "kana": "かならずしもあるまじきわざなり。",
         "koutei-yamagen": "必ずしもあるまじきわざなり。",
@@ -25863,7 +27691,7 @@
       },
       {
         "date": "20250529",
-        "id": 460,
+        "id": 483,
         "text": "立ちてゆきし時よりはくる時ぞ人はとかくありける。",
         "kana": "たちてゆきしときよりはくるときぞひとはとかくありける。",
         "koutei-yamagen": "立ちてゆきし時よりはくる時ぞ人はとかくありける。",
@@ -25955,7 +27783,7 @@
       },
       {
         "date": "20250529",
-        "id": 461,
+        "id": 484,
         "text": "これにもかへりごとす。",
         "kana": "これにもかへりごとす。",
         "koutei-yamagen": "これにもかへりごとす。",
@@ -26001,7 +27829,7 @@
       },
       {
         "date": "20250529",
-        "id": 462,
+        "id": 485,
         "text": "よるになして京にはいらむと思へば、急ぎしもせぬ程に月いでぬ。",
         "kana": "よるになしてきやうにはいらむとおもへば、いそぎしもせぬほどにつきいでぬ。",
         "koutei-yamagen": "よるになして京にはいらむと思へば、急ぎしもせぬ程に月いでぬ。",
@@ -26127,7 +27955,7 @@
       },
       {
         "date": "20250529",
-        "id": 463,
+        "id": 486,
         "text": "桂川月あかきにぞわたる。",
         "kana": "かつらがはつきあかきにぞわたる。",
         "koutei-yamagen": "桂川月あかきにぞわたる。",
@@ -26183,7 +28011,7 @@
       },
       {
         "date": "20250529",
-        "id": 464,
+        "id": 487,
         "text": "人々のいはく「この川飛鳥川にあらねば、淵瀬更にかはらざりけり」といひてある人のよめる歌、",
         "kana": "ひとびとのいはく「このかはあすかがはにあらねば、ふちせさらにかはらざりけり」といひてあるひとのよめるうた、",
         "koutei-yamagen": "人々のいはく「この川飛鳥川にあらねば、淵瀬更にかはらざりけり」といひてある人のよめる歌、",
@@ -26317,7 +28145,7 @@
       },
       {
         "date": "20250529",
-        "id": 465,
+        "id": 488,
         "poem": "ひさかたの/月におひたる/かつら川/そこなる影も/かはらざりけり",
         "kana": "ひさかたの/つきにおひたる/かつらがは/そこなるかげも/かはらざりけり",
         "koutei-yamagen": "ひさかたの/月におひたる/かつら川/そこなる影も/かはらざりけり",
@@ -26413,7 +28241,7 @@
       },
       {
         "date": "20250529",
-        "id": 466,
+        "id": 489,
         "text": "又ある人のいへる、",
         "kana": "またあるひとのいへる、",
         "koutei-yamagen": "又ある人のいへる、",
@@ -26463,7 +28291,7 @@
       },
       {
         "date": "20250529",
-        "id": 467,
+        "id": 490,
         "poem": "あまぐもの/はるかなりつる/桂川/そでをひでゝも/わたりぬるかな",
         "kana": "あまぐもの/はるかなりつる/かつらがは/そでをひでゝも/わたりぬるかな",
         "koutei-yamagen": "あまぐもの/はるかなりつる/桂川/そでをひでゝも/わたりぬるかな",
@@ -26559,7 +28387,7 @@
       },
       {
         "date": "20250529",
-        "id": 468,
+        "id": 491,
         "text": "又ある人よめる、",
         "kana": "またあるひとよめる、",
         "koutei-yamagen": "又ある人よめる、",
@@ -26605,7 +28433,7 @@
       },
       {
         "date": "20250529",
-        "id": 469,
+        "id": 492,
         "poem": "桂川/わがこゝろにも/かよはねど/おなじふかさは/ながるべらなり",
         "kana": "かつらがは/わがこころにも/かよはねど/おなじふかさは/ながるべらなり",
         "koutei-yamagen": "桂川/わがこゝろにも/かよはねど/おなじふかさは/ながるべらなり",
@@ -26705,7 +28533,7 @@
       },
       {
         "date": "20250529",
-        "id": 470,
+        "id": 493,
         "text": "みやこのうれしきあまりに歌もあまりぞおほかる。",
         "kana": "みやこのうれしきあまりにうたもあまりぞおほかる。",
         "koutei-yamagen": "みやこのうれしきあまりに歌もあまりぞおほかる。",
@@ -26771,7 +28599,7 @@
       },
       {
         "date": "20250529",
-        "id": 471,
+        "id": 494,
         "text": "夜更けてくれば所々も見えず。",
         "kana": "よふけてくればところどころもみえず。",
         "koutei-yamagen": "夜更けてくれば所々も見えず。",
@@ -26833,7 +28661,7 @@
       },
       {
         "date": "20250529",
-        "id": 472,
+        "id": 495,
         "text": "京に入り立ちてうれし。",
         "kana": "きやうにはいりたちてうれし。",
         "koutei-yamagen": "京に入り立ちてうれし。",
@@ -26889,7 +28717,7 @@
       },
       {
         "date": "20250530",
-        "id": 473,
+        "id": 496,
         "text": "家にいたりて門に入るに、月あかければいとよくありさま見ゆ。",
         "kana": "いへにいたりてかどにはいるに、つきあかければいとよくありさまみゆ。",
         "koutei-yamagen": "家にいたりてかどにはいるに、月あかければいとよくありさま見ゆ。",
@@ -26987,7 +28815,7 @@
       },
       {
         "date": "20250530",
-        "id": 474,
+        "id": 497,
         "text": "聞きしよりもましていふかひなくぞこぼれ破れたる。",
         "kana": "ききしよりもましていふかひなくぞこぼれやぶれたる。",
         "koutei-yamagen": "聞きしよりもましていふかひなくぞこぼれ破れたる。",
@@ -27067,7 +28895,7 @@
       },
       {
         "date": "20250530",
-        "id": 475,
+        "id": 498,
         "text": "家を預けたりつる人の心も荒れたるなりけり。",
         "kana": "いへをあづけたりつるひとのこころもあれたるなりけり。",
         "koutei-yamagen": "家をあづけたりつる人のこころもあれたるなりけり。",
@@ -27151,7 +28979,7 @@
       },
       {
         "date": "20250530",
-        "id": 476,
+        "id": 499,
         "text": "中垣こそあれ、ひとつ家のやうなればのぞみて預れるなり。",
         "kana": "なかがこそあれ、ひとついへのやうなればのぞみてあづかれるなり。",
         "koutei-yamagen": "中垣こそあれ、ひとつ家のやうなればのぞみて預れるなり。",
@@ -27239,7 +29067,7 @@
       },
       {
         "date": "20250530",
-        "id": 477,
+        "id": 500,
         "text": "さるはたよりごとに物も絶えず得させたり。",
         "kana": "さるはたよりごとにものもたえずえさせたり。",
         "koutei-yamagen": "さるはたよりごとに物も絶えず得させたり。",
@@ -27319,7 +29147,7 @@
       },
       {
         "date": "20250530",
-        "id": 478,
+        "id": 501,
         "text": "こよひかゝることゝ聲高にものもいはせず、いとはつらく見ゆれど志をばせむとす。",
         "kana": "こよひかゝることゝこゑたかにものもいはせず、いとはつらくみゆれどこころをばせむとす。",
         "koutei-yamagen": "こよひかゝることゝ聲高にものもいはせず、いとはつらく見ゆれど志をばせむとす。",
@@ -27445,7 +29273,7 @@
       },
       {
         "date": "20250530",
-        "id": 479,
+        "id": 502,
         "text": "さて池めいてくぼまり水づける所あり。",
         "kana": "さていけめいてくぼまりみづけるところあり。",
         "koutei-yamagen": "さて池めいてくぼまり水づける所あり。",
@@ -27509,7 +29337,7 @@
       },
       {
         "date": "20250530",
-        "id": 480,
+        "id": 503,
         "text": "ほとりに松もありき。",
         "kana": "ほとりにまつもありき。",
         "koutei-yamagen": "ほとりに松もありき。",
@@ -27565,7 +29393,7 @@
       },
       {
         "date": "20250530",
-        "id": 481,
+        "id": 504,
         "text": "五年六年のうちに千年や過ぎにけむ、かた枝はなくなりにけり。",
         "kana": "いつとせむとせのうちにちとせやすぎにけむ、かたえだはなくなりにけり。",
         "koutei-yamagen": "五年六年のうちに千年や過ぎにけむ、かた枝はなくなりにけり。",
@@ -27657,7 +29485,7 @@
       },
       {
         "date": "20250530",
-        "id": 481,
+        "id": 505,
         "text": "いま生ひたるぞまじれる。",
         "kana": "いまおひたるぞまじれる。",
         "koutei-yamagen": "いま生ひたるぞまじれる。",
@@ -27707,7 +29535,7 @@
       },
       {
         "date": "20250530",
-        "id": 481,
+        "id": 506,
         "text": "大かたの皆あれにたれば、「あはれ」とぞ人々いふ。",
         "kana": "おほかたのみなあれにたれば、「あはれ」とぞひとびといふ。",
         "koutei-yamagen": "大かたの皆あれにたれば、「あはれ」とぞ人々いふ。",
@@ -27781,7 +29609,7 @@
       },
       {
         "date": "20250530",
-        "id": 482,
+        "id": 507,
         "text": "思ひ出でぬ事なく思ひ戀しきがうちに、この家にて生れし女子のもろともに歸らねばいかゞはかなしき。",
         "kana": "おもひいでぬことなくおもひこいしきがうちに、このいへにてうまれしをむなごのもろともにかへらねばいかゞはかなしき。",
         "koutei-yamagen": "思ひ出でぬ事なく思ひ戀しきがうちに、この家にて生れし女子のもろともに歸らねばいかゞはかなしき。",
@@ -27911,7 +29739,7 @@
       },
       {
         "date": "20250530",
-        "id": 482,
+        "id": 508,
         "text": "船人も皆子だかりてのゝしる。",
         "kana": "ふなびともみなこだかりてのゝしる。",
         "koutei-yamagen": "船人も皆子だかりてのゝしる。",
@@ -27971,7 +29799,7 @@
       },
       {
         "date": "20250530",
-        "id": 483,
+        "id": 509,
         "text": "かゝるうちに猶かなしきに堪へずして密に心知れる人といへりけるうた、",
         "kana": "かゝるうちになほかなしきにたへずしてみつにこころしれるひとといへりけるうた、",
         "koutei-yamagen": "かゝるうちに猶かなしきに堪へずして密に心知れる人といへりけるうた、",
@@ -28079,7 +29907,7 @@
       },
       {
         "date": "20250530",
-        "id": 484,
+        "id": 510,
         "poem": "うまれしも/かへらぬものを/我がやどに/小松のあるを/見るがかなしさ",
         "kana": "うまれしも/かへらぬものを/わがやどに/こまつのあるを/みるがかなしさ。",
         "koutei-yamagen": "うまれしもかへらぬものを我がやどに小松のあるを見るがかなしさ。",
@@ -28183,7 +30011,7 @@
       },
       {
         "date": "20250530",
-        "id": 485,
+        "id": 511,
         "text": "とぞいへる。",
         "kana": "とぞいへる。",
         "koutei-yamagen": "とぞいへる。",
@@ -28219,7 +30047,7 @@
       },
       {
         "date": "20250530",
-        "id": 486,
+        "id": 512,
         "text": "猶あかずやあらむ、またかくなむ、",
         "kana": "なほあかずやあらむ、またかくなむ、",
         "koutei-yamagen": "猶あかずやあらむ、またかくなむ、",
@@ -28277,7 +30105,7 @@
       },
       {
         "date": "20250530",
-        "id": 487,
+        "id": 513,
         "poem": "見し人の/松のちとせに/みましかば/とほくかなしき/わかれせましや",
         "kana": "みしひとの/まつのちとせに/みましかば/とほくかなしき/わかれせましや",
         "koutei-yamagen": "見し人の松のちとせにみましかばとほくかなしきわかれせましや",
@@ -28389,7 +30217,7 @@
       },
       {
         "date": "20250530",
-        "id": 488,
+        "id": 514,
         "text": "わすれがたくくちをしきことおほかれどえつくさず。",
         "kana": "わすれがたくくちをしきことおほかれどえつくさず。",
         "koutei-yamagen": "わすれがたくくちをしきことおほかれどえつくさず。",
@@ -28457,7 +30285,7 @@
       },
       {
         "date": "20250530",
-        "id": 489,
+        "id": 515,
         "text": "とまれかくまれ疾くやりてむ。",
         "kana": "とまれかくまれとくやりてむ。",
         "koutei-yamagen": "とまれかくまれとくやりてむ。",
