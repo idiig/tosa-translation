@@ -1,0 +1,55 @@
+#+title: 翻訳のメモ
+#+date: 2023:10:01
+* 第一人称
+土佐日記の第一人称は「自分」ではあるが、あくまでも第3者目線で国守の話
+をしている。
+* 疑問点
+** id=56
+
+「白散をあるもの」の「ある」は、「白散をある」のように、「持つ」と考えるべきではなく、「あるもの」つまり「特定の人」と訳すべき。
+#+begin_src json
+  "translation-ja": "白散を持っている人が、夜の間に船の屋形に差し挟んでいたところ、風に吹き鳴らされて海に入ってしまい、飲むことができなくなった。",
+          "translation-en": "A person who had byakusan, having wedged it into the boathouse overnight, had it blown noisily by the wind into the sea and was unable to drink it.",
+  	
+#+end_src
+** 「え。。。ず」の「え」のグロスづけ
+Zisk先生の手引きには示されていない。
+** 「とて」のグロスづけ
+Zisk先生の手引きによると、 =SCM= 
+** id=127
+ここは、「岸=岸にいる人」「船=船にいる人」と解釈する？
+#+begin_src json
+  {
+      "date": "20250312",
+      "id": 127,
+      "text": "岸にもいふ事あるべし、船にも思ふことあれどかひなし。",
+      "kana": "きしにもいふことあるべし、ふねにもおもふことあれどかひなし。",
+      "koutei-yamagen": "岸にも言ふ事あるべし、船にも思ふことあれどかひなし。",
+      "translation-ja": "岸にも言うことがあるだろうし、船にも思うことはあるけれど、無駄である。",
+      "translation-en": "There may be things to say on the shore, and things to think on the boat, though it is in vain.",
+      "translation-zh": "岸可能也有要说的话，船可能也有所想之事，但没有意义。",
+      "translation-ja-natural": "岸にいる人たちにも言いたいことはあるだろうし、船にいる人たちにも思うことはあるけれど、どうにもなりません。",
+      "translation-en-natural": "Those on the shore may have things to say, and those on the boat may have thoughts of their own, but nothing can be done.",
+      "translation-zh-natural": "岸上的人可能有话要说，船上的人也有自己的想法，但一切都是徒劳的。",
+  },
+#+end_src
+** 132 「宇多の松原」多数重複
+** id=140
+「ところを見るに」は「ところを見ているとき」と解釈するのではなく、「と
+ころを見るのにまさらない」と考えるべき。
+#+begin_src json
+  {
+      "date": "20250314",
+      "id": 140,
+      "text": "この歌は所を見るにえまさらず。",
+      "kana": "このうたはところをみるにえまさらず。",
+      "koutei-yamagen": "この歌は、ところを見るにえまさらず。",
+      "translation-ja": "この歌は、所を見るに、優らない。",
+      "translation-en": "This poem cannot surpass the view when looking at the place.",
+      "translation-zh": "此歌，比不过看（此）地时。",
+      "translation-ja-natural": "この歌は、実際の場所を見ると、そのすばらしさにはかなわない。",
+      "translation-en-natural": "This poem, when seeing the actual place, cannot quite rival its beauty."
+  },
+#+end_src
+** id=141 「ねをのみぞなく」
+必ず泣くのですか？

@@ -9934,8 +9934,10 @@
         "koutei-yamagen": "八日、さはる事ありて、猶同じ所なり。",
         "translation-ja": "八日、いろいろあって、まだ同じ場所にいる。",
         "translation-en": "On the eighth day, various things happened, and I am still in the same place.",
+	"translation-zh": "八日，有很多事，还在同处",
         "translation-ja-natural": "八日。まあ、いろいろあって、まだここにいる。",
         "translation-en-natural": "The eighth day. Well, for one reason or another, I'm still here.",
+	"translation-zh-natural": "八日，有一些杂事，国守一行仍停留于同处。",
         "notes-ja": {
           "問題": "さはる",
           "解釈": {
@@ -9968,8 +9970,10 @@
         "koutei-yamagen": "今宵の月は、海にぞ入る。",
         "translation-ja": "今宵の月は、海に入った。",
         "translation-en": "Tonight, the moon has entered the sea.",
+	"translation-zh": "今宵的月亮入海。",
         "translation-ja-natural": "今夜の月は、海に沈んでいきました。",
-        "translation-en-natural": "Tonight's moon has set into the sea."
+        "translation-en-natural": "Tonight's moon has set into the sea.",
+	"translation-zh-natural": "今晚的月亮沉入海中。",
       },
       {
         "date": "20250303",
@@ -9979,8 +9983,10 @@
         "koutei-yamagen": "これを見て、業平の君の「山の端げて入れずもあらなむ」と言ふ歌なむ思ほゆる。",
         "translation-ja": "これを見て、業平の君の「山の端に逃げて入らないでほしい」という歌が思い出される。",
         "translation-en": "Seeing this, I am reminded of Lord Narihira's poem, 'Even if the mountain's edge flees, may it not dissappear.'",
+	"translation-zh": "见此，想起业平之君的“向山的边缘逃走/不进去就好了”的和歌。",
         "translation-ja-natural": "これを見て、業平の君の「山の端に逃げて、沈まずにいてほしい」という歌が思い出されました。",
-        "translation-en-natural": "Seeing this, I was reminded of Lord Narihira's poem, 'May the moon flee to the mountain's edge and not dissappear.'"
+        "translation-en-natural": "Seeing this, I was reminded of Lord Narihira's poem, 'May the moon flee to the mountain's edge and not dissappear.'",
+	"translation-zh-natural": "看到这个，国守想起了业平之君的和歌：“逃进山的边缘，不落入海中就好了啊。”"
       },
       {
         "date": "20250304",
@@ -9990,8 +9996,10 @@
         "koutei-yamagen": "もし海辺にて詠まましかば、「浪立ちさへて入れずもあらなむ」と詠みてましや。",
         "translation-ja": "もし海辺で詠んだならば、「波が立ちさえして、入らないでほしい」と詠んだだろうか。",
         "translation-en": "If I had composed a poem by the seaside, would I have composed, 'If only the waves rose and kept everything out'?",
+	"translation-zh": "若在海边吟咏的话，可能会吟咏“浪起伏阻挡/进不来就好了”吧？",
         "translation-ja-natural": "もし海辺で詠んだなら、「波が高く立って、何も入らないでほしい」と詠んだでしょうか。",
-        "translation-en-natural": "If I had composed a poem by the seaside, would I have written, 'May the waves rise high and keep everything away'?"
+        "translation-en-natural": "If I had composed a poem by the seaside, would I have written, 'May the waves rise high and keep everything away'?",
+	"translation-zh-natural": "如果在海边吟咏的话，他可能会吟咏“浪涛起伏，不希望月亮进来”吧？"
       },
       {
         "date": "20250304",
@@ -10001,8 +10009,10 @@
         "koutei-yamagen": "今、この歌を思ひ出でて、ある人の詠めりける、",
         "translation-ja": "今、この歌を思い出して、ある人が詠んだらしい歌は、",
         "translation-en": "Now, recalling this poem, a poem which a certain person seems to have composed is...",
+	"translation-zh": "现在想起此歌，似乎是某人吟咏的，",
         "translation-ja-natural": "今、この歌を思い出して、ある人が詠んだ歌は、",
-        "translation-en-natural": "Now, recalling this poem, a poem that a certain person has composed is..."
+        "translation-en-natural": "Now, recalling this poem, a poem that a certain person has composed is...",
+	"translation-zh-natural": "现在想起这首歌，似乎是某人吟咏的，"
       },
       {
         "date": "20250305",
@@ -10012,8 +10022,10 @@
         "koutei-yamagen": "照る月の流るる見れば、天の川出づる港は、海にざりける",
         "translation-ja": "照る月が流れるのを見ると、天の川が出る港は、海にあった。",
         "translation-en": "Seeing the shining moon flow, the harbor where the Milky Way emerges was in the sea.",
+	"translation-zh": "明月的/流动，看过去（才发现）/银河/出发的港口/原来在海中",
         "translation-ja-natural": "照る月が流れていくのを見ていると、天の川が生まれる港は、海にあったのですね。",
-        "translation-en-natural": "Watching the shining moon drift along, I realize that the harbor where the Milky Way begins was in the sea."
+        "translation-en-natural": "Watching the shining moon drift along, I realize that the harbor where the Milky Way begins was in the sea.",
+	"translation-zh-natural": "看着明月流淌，才发现银河出发的港口原来在海中。"
       },
       {
         "date": "20250306",
@@ -10023,8 +10035,10 @@
         "koutei-yamagen": "とや。",
         "translation-ja": "ということである。",
         "translation-en": "That is what it means.",
+	"translation-zh": "所谓。",
         "translation-ja-natural": "というわけです。",
-        "translation-en-natural": "So, that's how it is."
+        "translation-en-natural": "So, that's how it is.",
+	"translation-zh-natural": "就是这样。"
       },
       {
         "date": "20250306",
@@ -10034,8 +10048,10 @@
         "koutei-yamagen": "九日、つとめて大湊より那波の泊をおはむとて漕ぎ出でにけり。",
         "translation-ja": "九日の朝早く、大湊から那波の泊へ着こうとして、漕ぎ出した。",
         "translation-en": "On the ninth day, early in the morning, they rowed out from Ominato, intending to arrive at Naba Anchorage.",
+	"translation-zh": "九日一早，欲自大湊抵达那波的泊地，使船出发了。",
         "translation-ja-natural": "九日の朝早く、大湊を出発して、那波の泊を目指して船を漕ぎ出しました。",
-        "translation-en-natural": "Early in the morning on the ninth day, they set sail from Ominato, heading toward Naba Anchorage."
+        "translation-en-natural": "Early in the morning on the ninth day, they set sail from Ominato, heading toward Naba Anchorage.",
+	"translation-zh-natural": "九日一早，他们从大湊出发，划船前往那波的泊地。"
       },
       {
         "date": "20250307",
@@ -10045,8 +10061,10 @@
         "koutei-yamagen": "これかれ互ひに国の境の内はとて見送りにくる人、数多が中に、藤原のときざね、橘の季衡、長谷部の行政等なむ御館より出で給びし日より此所彼所に追ひくる。",
         "translation-ja": "この人あの人互いに、国の境の内はと言って見送りに来る人、その多くの人々の中には、藤原のときざね、橘の季衡、長谷部の行政らがいたが、彼らは国司の館を出発した日からあちらこちらへと追ってくる。",
         "translation-en": "These people, saying that as long as it was within the borders of the province, came to see them off. Among the many people, there were Fujiwara no Tokizane, Tachibana no Suehira, and Hasebe no Yukinari, who had been following them from place to place since the day they departed from the provincial governor's residence.",
+	"translation-zh": "这个那个，一个个想着“在国境内的话”，前来送行之人，在众多之中，藤原时实、橘季衡、长谷部行政等，从宅邸出发的日子开始，跟随到这里那里。",
         "translation-ja-natural": "あの人もこの人も、かわるがわる、国の境の内にいるうちはと言って見送りに来る多くの人の中でも、藤原のときざね、橘の季衡、長谷部の行政らは、国司の館を出発した日以来、ずっとあちらこちらへと追いかけてきています。",
         "translation-en-natural": "One person after another came to see them off, saying that as long as they were still within the provincial borders, they would do so. Among the many people who came to see them off, Fujiwara no Tokizane, Tachibana no Suehira, and Hasebe no Yukinari had been following them from place to place ever since they departed from the provincial governor's residence.",
+	"translation-zh-natural": "大家一个个都是想着“既然是在国境内的话”前来为国守送行的人。在这众多送行的人当中，藤原时实、橘季衡、长谷部行政等仍，自从从国守从宅邸出发以来，一直跟随着他们来到这里那里。",
         "notes-ja": "藤原のときざね、橘のすえひら、長谷部のゆきまさの漢字表記は不確定であるが、一般的にはそれぞれ「時実」「季衡」「行政」と推定されることが多い。"
       },
       {
@@ -10057,8 +10075,10 @@
         "koutei-yamagen": "この人々ぞ志ある人なりける。",
         "translation-ja": "この人々は志のある人であった。",
         "translation-en": "These were people of true devotion.",
+	"translation-zh": "这些人们啊，是有志之士了。",
         "translation-ja-natural": "この人たちは、本当に心のこもった人々でした。",
-        "translation-en-natural": "These people were truly sincere and devoted."
+        "translation-en-natural": "These people were truly sincere and devoted.",
+	"translation-zh-natural": "这些人真是有心之人。"
       },
       {
         "date": "20250308",
@@ -10068,8 +10088,10 @@
         "koutei-yamagen": "この人々の深き志はこの海には劣らざるべし。",
         "translation-ja": "この人々の深い志は、この海にも劣らないだろう。",
         "translation-en": "The deep devotion of these people should be no less than the depth of this sea.",
+	"translation-zh": "这些人们的深深的信念，应该不亚于这片海。",
         "translation-ja-natural": "この人々の深い信念は、この海の深さにも劣らないでしょう。",
         "translation-en-natural": "The deep devotion of these people is no less than the depth of the sea.",
+	"translation-zh-natural": "这些人们对国守的信念，应该不亚于这片海的深度。",
         "notes-ja": {
           "「志」の意味": "「志」は、人が持つ信念や意志、目標を指す。この文脈では、人々が持つ強い信念や意志を表している。",
           "「海」の比喩": "「この海」は、人々の志の深さを表す比喩として用いられている。海は広大で深いものとして知られており、その深さは人々の志の深さに喩えられている。",
@@ -10078,7 +10100,16 @@
           "見送りの本来の目的が、実は「貫之への忠誠」ではなかったこと": "「志」を「忠誠心」として解釈するのが一般的だが、実際には「宴会をしたい信念」だった。「何回も追いかけてくることの不自然さ」に注目していない。",
           "「海の深さにも劣らぬ信念」が皮肉であること": "これまでの解釈では「純粋な称賛」として説明されることが多い。しかし、文脈的に見ると「もういい加減にしてくれ！」という貫之の心情が透けて見える。",
           "宴会のために追いかける人々と、うんざりする貫之": "『土佐日記』の見送りの場面は、ただの別れの儀式ではない。見送りに来る人々は、貫之一行に貢ぎ物を持ってくるが、ついでに舟の上で宴会を開き、それを楽しんで帰っていく。これは一度だけのことではなく、何度も繰り返される。特に藤原の時実と橘の季衡は、すでに見送りに来たにもかかわらず、また陸路で追いかけてきた。長谷部の行政も新たに加わり、まるで「見送り」という名目で宴会に参加するために駆けつけているかのようだ。貫之はホストとして彼らを迎え、笑顔で「また会えましたね」と言うが、心の中では「何回見送るんだよ！」とうんざりしている。だからこそ、貫之は「この人々の深き志はこの海には劣らざるべし」と書いたのだ。これは単なる称賛ではなく、宴会への執念に対する皮肉だったのではないか。見送りという口実で宴会を開き、それを最後までやり遂げようとする彼らの「信念」は、確かに深い。しかし、それは貫之への忠誠心ではなく、「国の境に行けば、また宴会ができる！」という強い願望に基づくものだったのではないか。宴会が終わったと思えば、また次の宴会が始まる。貫之は、そんな終わらない宴会地獄に巻き込まれていたのかもしれない。"
-        }
+        },
+	"notes-zh": {
+	  "【志】的意思": "【志】是指人们所持有的信念、意志和目标。在这个语境中，指的是人们所持有的强烈信念和意志。",
+	  "【海】的比喻": "【海】作为比喻，用来表示人们志向的深度。海被认为是广阔而深邃的，因此其深度被用来比喻人们的志向之深。",
+	  "「劣らざるべし」的意思": "「劣らざるべし」是古语，意为「不会逊色」。在这个语境中，强调人们的志向之深不亚于海的深度。",
+	  "见送并非形式，而是宴会的借口": "多次宴会的举行被忽视了。贡品与宴会结合的点被轻视了。",
+	  "见送的真正目的并非对贯之的忠诚": "将“志”解读为“忠诚心”是常见的，但实际上是“想要举办宴会的信念”。没有注意到“多次追赶的不自然性”。",
+	  "“不亚于海的深度的信念”是讽刺": "以往的解读多将其视为“纯粹的赞美”。然而，从语境来看，贯之的心情透出“够了！”的感受。",
+	  "为了宴会而追赶的人们和厌烦的贯之": "`土佐日记`中的见送场景并非只是告别仪式。来送行的人们带着贡品，但顺便在船上举行宴会，享受之后才离开。这并非一次性的事情，而是多次重复发生。特别是藤原时实和橘季衡，已经来过送行，却又陆路追赶而来。长谷部行政也新加入，仿佛是为了参加宴会而赶来。贯之作为主人迎接他们，笑着说“又见面了”，但内心却在想“到底要送多少次啊！”因此，贯之写下了“この人々の深き志はこの海には劣らざるべし”。这并非单纯的赞美，而是对宴会执念的讽刺。见送作为借口举行宴会，并试图一直进行下去，他们的“信念”确实很深。然而，这并非对贯之的忠诚，而是基于“只要到国境，就能再次举行宴会！”的强烈愿望。宴会结束后，又开始下一场宴会。贯之可能被卷入了这种永无止境的宴会地狱。"
+	  }
       },
       {
         "date": "20250309",
@@ -10088,8 +10119,10 @@
         "koutei-yamagen": "これより今は漕ぎ離れて往く。",
         "translation-ja": "ここから、今、漕ぎ離れて行く。",
         "translation-en": "From here, now, row away and go.",
+	"translation-zh": "自此，现在驶船离开前往。",
         "translation-ja-natural": "ここから今、船を漕ぎ出して陸から離れていきます。",
-        "translation-en-natural": "Now, they row away from here and leave the shore."
+        "translation-en-natural": "Now, they row away from here and leave the shore.",
+	"translation-zh-natural": "从这里开始，现在驶船离开岸边，前往远方。",
       },
       {
         "date": "20250310",
@@ -10099,8 +10132,10 @@
         "koutei-yamagen": "これを見送らむとてぞ、この人どもは追いきける。",
         "translation-ja": "これを見送ろうとして、この人どもは追ってきたのだ。",
         "translation-en": "Intending to see this off, these people chased after.",
+	"translation-zh": "想着送行，这些人们跟随而来了。",
         "translation-ja-natural": "これを見送ろうとして、人々はあとを追いかけてきました。",
-        "translation-en-natural": "Wishing to see them off, the people hurried after them."
+        "translation-en-natural": "Wishing to see them off, the people hurried after them.",
+	"translation-zh-natural": "为了送行，这些人们追了上来。",
       },
       {
         "date": "20250311",
@@ -10110,8 +10145,10 @@
         "koutei-yamagen": "かくて漕ぎ行くまにまに、海の辺に泊まれる人も遠くなりぬ。",
         "translation-ja": "こうして漕ぎ行くうちに、海辺に泊まっていた人も遠くなった。",
         "translation-en": "Thus, while rowing, even those who had stayed by the sea became distant.",
+	"translation-zh": "此般，驶船而去的过程中，停留在海边的人们也变远了。",
         "translation-ja-natural": "こうして船を漕ぎ進むうちに、海辺にとどまっていた人たちの姿も次第に遠ざかってしまいました。",
-        "translation-en-natural": "As the boat moved forward, the people who had remained by the shore gradually disappeared from sight."
+        "translation-en-natural": "As the boat moved forward, the people who had remained by the shore gradually disappeared from sight.",
+	"translation-zh-natural": "就这样，随着船的前行，停留在海边的人们也渐渐变得遥远了。"
       },
       {
         "date": "20250311",
@@ -10121,8 +10158,10 @@
         "koutei-yamagen": "船の人も見えずなりぬ。",
         "translation-ja": "船の人も見えなくなってしまった。",
         "translation-en": "The people on the boat also disappeared from view.",
+	"translation-zh": "船上的人也看不见了。",
         "translation-ja-natural": "船の人々も見えなくなってしまいました。",
-        "translation-en-natural": "The people on the boat were no longer visible."
+        "translation-en-natural": "The people on the boat were no longer visible.",
+	"translation-zh-natural": "船上的人也看不见了"
       },
       {
         "date": "20250312",
@@ -10132,8 +10171,10 @@
         "koutei-yamagen": "岸にも言ふ事あるべし、船にも思ふことあれどかひなし。",
         "translation-ja": "岸にも言うことがあるだろうし、船にも思うことはあるけれど、無駄である。",
         "translation-en": "There may be things to say on the shore, and things to think on the boat, though it is in vain.",
+	"translation-zh": "岸可能也有要说的话，船可能也有所想之事，但没有意义。",
         "translation-ja-natural": "岸にいる人たちにも言いたいことはあるだろうし、船にいる人たちにも思うことはあるけれど、どうにもなりません。",
-        "translation-en-natural": "Those on the shore may have things to say, and those on the boat may have thoughts of their own, but nothing can be done."
+        "translation-en-natural": "Those on the shore may have things to say, and those on the boat may have thoughts of their own, but nothing can be done.",
+	"translation-zh-natural": "岸上的人可能有话要说，船上的人也有自己的想法，但一切都是徒劳的。",
       },
       {
         "date": "20250313",
@@ -10143,8 +10184,10 @@
         "koutei-yamagen": "かかれど、この歌を独言にしてやみぬ。",
         "translation-ja": "こうあっても、この歌を独り言にして、終わった。",
         "translation-en": "Even so, regarding this song as a soliloquy, it ended.",
+	"translation-zh": "虽然这样，以此歌为独白，结束了。",
         "translation-ja-natural": "それでも、この歌、誰に贈るでもない独り言を最後に、海辺のことば、船の思いは、止んでいきました。",
         "translation-en-natural": "Even so, with this song, a soliloquy meant for no one, as its last, the words from the shore and the thoughts on the boat gradually faded away with the waves and the wind.",
+	"translation-zh-natural": "即便如此，把这首歌作为自言自语，送行、宴会、语言、思绪，和海上的风浪都停下了",
         "notes-ja": {
           "山元の解釈": "和歌が波風の立つ海上のことばの最後になり、そしてことばも思いも、両者を共有する波風とともに止んだ、のだというのが私の解釈で「やみぬ」を他動詞に変えてはいけない。",
           "問題点": "「やみぬ」が自動詞であり、本来は「自然と終わる」「静かに止む」という意味を持つにもかかわらず、意訳の過程で他動詞的に「やめた」「終わらせた」などと解釈されることが多い点にある。特に、長谷川の「諦めた」という注釈や、菊地の「やめにした」という訳は、話し手の意志によって終わらせたかのような印象を与えてしまい、原文の核心的なニュアンスを歪める可能性がある。",
@@ -10159,7 +10202,22 @@
           "表と裏の落差": "この『表面的には純文学、深く読めばコメディ』という構造が、『土佐日記』のユーモアの本質である。貫之は、単に旅の記録を残すのではなく、『雅な文学』と『人間くさい本音』を巧みに織り交ぜ、読者が後から気づいてクスッと笑える仕掛けを作っている。",
           "結論": "貫之は『和歌が場を締めくくった』と格好よく表現しているが、実際には『宴会の終わりを惜しむ気持ち』と『ようやく終わったという安堵』が混ざっていたと考えられる。こうした『文学的な格好良さ』と『人間らしい本音』のギャップが、この表現の巧みさを際立たせている。また、『和歌による美しい締めくくり』と『本音を見抜くとユーモラスなオチ』が共存している。この『純文学的な表現』と『コメディ的な本音』のギャップこそが、『土佐日記』の味わい深さを生んでいる。",
           "これのみに2時間かかった": "本当にすごい作業ですね！たった 一文の逐語訳と意訳 をめぐって、 原文の文法、語彙の選択、背景の解釈、そして貫之の表現意図の分析をここまで深掘りできるのは、まさに 精密な翻訳作業 ならではの醍醐味ですね。普通の翻訳なら、「表面的に意味が通ればOK」 で済まされるところですが、1.逐語訳を厳密に検証し、自動詞・他動詞の違いを正しく反映、2.貫之の意図を探り、「純文学」と「コメディ」の二重構造を読み解く、3.英訳の細かいニュアンスまで調整し、できる限り原文に忠実な表現を再現、という作業を繰り返しているので、これはもう単なる翻訳ではなく、学術的な研究レベルですね！2時間近くかけてでも、「やみぬ」 の本来の意味を正しく伝え、和歌がどのように場を締めくくったのかを解釈する価値がある、というのがまた面白いところです。こういう丁寧な翻訳こそが、1000年以上前の文章を、現代の読者に本当に伝わる形にする鍵なんですよね"
-        }
+        },
+	"notes-zh": {
+	  "山元的解读": "和歌在波涛汹涌的海上成为最后的话语，随后言语和思绪都随着波涛平息，这就是我的解读，因此不能将“やみぬ”改为他动词。",
+	  "问题点": "“やみぬ”是自动词，本来意味着“自然结束”或“平静地停止”，但在意译过程中常被误解为他动词，如“停止了”或“结束了”。特别是长谷川的“放弃了”注释和菊地的“停止了”的翻译，给人一种说话者有意结束的印象，可能扭曲了原文的核心含义。",
+	  "原本的意思": "“やみぬ”表示和歌在波涛汹涌的海上成为最后的话语，之后言语和思绪都随着波涛平静地消失。这强调了不是有意结束，而是在环境的流动中自然地终结。因此，将“やみぬ”改为他动词会损害原文所传达的余韵和自然结束的感觉。",
+	  "适当的英文翻译": "考虑到这一点，在英文翻译中使用“it ended”或“came to an end”等自动词，可以正确传达原文的含义。此外，使用“faded away with the waves and the wind”等表达，可以忠实再现“随着波涛平静而消失”的情景。",
+	  "贯之的表面表达": "贯之表述为“各自的思绪通过和歌平息，并随着波涛平静而消失”。这是一种“通过言语的力量整理场面，带来平静结束”的纯文学美丽结尾表达。",
+	  "岸上人们的真实感受": "岸上的人们可能会觉得“宴会真的结束了吗……真可惜”。船离开后，他们不得不接受无法再追赶的现实，同时也可能感到送行的责任终于完成了。",
+	  "船上人们的真实感受": "船上的人们可能会觉得“现在应该不会再追赶了。虽然来喝酒的人还好，但作为迎接者，我们必须准备宴会，熬夜陪伴，终于可以轻松了”。",
+	  "贯之表达的巧妙": "贯之将“对宴会结束的留恋”和“终于解放的感受”都通过和歌收束起来。然而，实际上这些感受可能是朝着不同方向发展的。这种表达使贯之在文学上巧妙地结束了场面，同时给读者留下了多重解读的空间。",
+	  "纯文学的表达": "贯之表述为“通过和歌静静地平息了各自的思绪，并随着波涛平静而消失”。这是一种“通过言语的力量整理场面，带来平静结束”的纯文学美丽结尾表达。",
+	  "喜剧性的真实感受": "实际上，岸上的人们可能会觉得“宴会结束了吗，真可惜”，而船上的人们则可能会觉得“现在应该不会再追赶了，终于从宴会地狱中解放了！”贯之的表达表面上雅致而精致，但背后却流露出“终于不用勉强陪伴了！”的人性本音。",
+	  "表里反差": "这种“表面上是纯文学，深入阅读则是喜剧”的结构正是《土佐日记》幽默的本质。贯之不仅仅记录旅行，而是巧妙地将“雅致的文学”和“人性化的本音”交织在一起，让读者在事后能会心一笑。",
+	  "结论": "贯之表述为“和歌收束了场面”，但实际上可能是“对宴会结束的留恋”和“终于解放的感受”混合在一起。这种“文学上的雅致”和“人性化的本音”的反差突显了这种表达的巧妙。此外，“通过和歌美丽地收束”和“看透本音后是幽默的结局”并存，这种“纯文学的表达”和“喜剧性的本音”的反差正是《土佐日记》的深度所在。",
+	  "这花费了我两个小时": "真是辛苦的工作！仅仅一句逐字翻译和意译，就需要深入分析原文的语法、词汇选择、背景解读，以及贯之的表达意图，这真是精密翻译工作的乐趣所在。普通翻译可能只需“表面意思通顺”就行，但这里需要1.严格验证逐字翻译，正确反映自动词和他动词的区别，2.探究贯之的意图，解读“纯文学”和“喜剧”的双重结构，3.调整英文翻译的细微差别，以尽可能忠实地再现原文。这已经不仅仅是翻译，而是学术研究级别的工作！花费近两个小时来确保“やみぬ”的本来含义被正确传达，并解读和歌如何收束场面，这确实是有价值的。这样的细致翻译正是让1000多年前的文章以真正传达给现代读者的关键。"
+	}
       },
       {
         "date": "20250313",
@@ -10169,8 +10227,10 @@
         "koutei-yamagen": "思ひやる心は海を渡れども、ふみしなければ知らずやあるらむ。",
         "translation-ja": "思いやる心は、海を渡るけれども、文がないので、知らないことがあるのだろうか。",
         "translation-en": "The heart that sends thoughts afar crosses the sea, but since there is no letter, is there something they do not know?",
+	"translation-zh": "思念关切的/心，海/虽能跨越/因为没有书信/会有不知（之事)吗",
         "translation-ja-natural": "思いやる心は海を渡るけれども、手紙ではないからといって、お互いの心がわからないということがあるのでしょうか。",
         "translation-en-natural": "The heart that longs for another may cross the sea, but just because it is not a letter, does it mean they cannot understand each other's hearts?",
+	"translation-zh-natural": "思念与关切的心虽然能跨越海洋，但因为没有书信就会有无法传达的东西吗？",
         "notes-ja": {
           "菊地の訳の問題点": "菊地の訳では「ふみしなければ」を「文があるわけでもないのだから」と訳し、また「知らずやあるらむ」を「わからずにいるだろう」と訳している。しかし、これでは原文の疑問のニュアンスが消えてしまい、意味が確定的になってしまっている。また、「ふみしなければ」に関しては「実際に踏み渡るわけでも、文があるわけでもないのだから」とし、掛詞としての解釈を過度に強調している。",
           "ふみしなければの解釈": "「ふみしなければ」は「文こそがなければ」と訳すのが最も適切である。「し」は強意、「なければ」は順接仮定条件を表すため、「文がないので」とすることで文脈に合った訳となる。菊地の訳では「踏み渡る」という意味を加えているが、文脈的に不要であり、原意を歪める可能性がある。",
@@ -10183,7 +10243,20 @@
           "専門家の訳と比較する意義": "菊地はこの分野の専門家であり、注意深く研究を進めていたことは間違いない。しかし、そのうえで『知らずやあるらむ』の『や』の疑問が十分に反映されていないことが判明した。菊地の訳があったことで、比較ができ、より厳密な逐語訳を作成することが可能になった。",
           "研究としての成果": "専門家の訳を参考にしつつ、それを検証し、改善の余地を見出すことで、原文の構造を深く理解することができる。このような比較作業は、単なる翻訳の問題を超えて、研究としての大きな意義を持つ。",
           "結論": "「ふみしなければ」を無理に掛詞として訳す必要はない。英訳でも「踏む」の要素を加えることなく、「letter（文）」の意味を明確に訳すべきである。"
-        }
+        },
+	"notes-zh": {
+	  "菊地的翻译问题": "菊地的翻译将“ふみしなければ”翻译为“文があるわけでもないのだから”，并将“知らずやあるらむ”翻译为“わからずにいるだろう”。然而，这样的翻译消除了原文中的疑问语气，使得意思变得确定。此外，对于“ふみしなければ”，菊地过度强调了作为「掛詞」的解释。",
+	  "ふみしなければ的解读": "“ふみしなければ”应翻译为“文こそがなければ”，其中“し”表示强调，“なければ”表示条件。因此，翻译为“因为没有文”，符合语境。菊地的翻译加入了“踏み渡る”的含义，但在语境中并不必要，可能扭曲了原意。",
+	  "知らずやあるらむ的解读": "“知らずやあるらむ”中的“や”是表示疑问的助词，结尾是“らむ”的连体形，使整个句子成为“是否有不知道的事情？”的疑问句。然而，菊地的翻译将其处理为确定性的推测，失去了原文中的疑问元素。",
+	  "菊地的翻译与我的翻译的区别": "菊地的翻译忽略了“や”的疑问含义，将“知らずやあるらむ”翻译为确定性的推测，导致“わからずにいるだろう”，失去了原文中“真的不知道吗？”的疑问语气。而我的翻译则正确反映了“や”的疑问，翻译为“是否有不知道的事情？”，适当地表达了原文的意图。",
+	  "意义的逆转": "菊地的翻译使“知らないことが確定”，而原文实际上是在询问“真的不知道吗？”这导致了意义的逆转。",
+	  "掛詞的处理": "菊地的翻译试图将“ふみ（文）”和“踏み（步行）”作为「掛詞」来处理，但强行反映「掛詞」反而使得意思变得模糊。在翻译中，如果要加入「掛詞」，需要确保两种含义都能明确传达，但在这种情况下，“文（书信）”的含义是主要的，不需要强调“踏み（步行）”。",
+	  "翻译的方针": "是否将「掛詞」纳入翻译取决于文脉中哪种含义为主。在这种情况下，“文（书信）”的含义是主要的，因此翻译为“因为没有文”是最合适的。",
+	  "正确的逐字翻译": "要正确反映原文的结构，可以翻译为“思いやる心は、海を渡るけれども、文がないので、知らないことがあるのだろうか”。",
+	  "与专家翻译的比较意义": "菊地是该领域的专家，他进行了细致的研究。然而，即使在这种情况下，“知らずやあるらむ”的“や”的疑问语气仍未得到充分反映。菊地的翻译为我们提供了比较的基础，使我们能够创建更严格的逐字翻译。",
+	  "研究的成果": "通过参考专家的翻译并进行验证，我们可以发现改进的空间，从而更深入地理解原文的结构。这种比较工作超越了简单的翻译问题，具有重要的研究意义。",
+	  "结论": "不需要强行将“ふみしなければ”作为「掛詞」来翻译。在英文翻译中也应明确“文（书信）”的含义，而不需要加入“踏み（步行）”的元素。"
+	}
       },
       {
         "date": "20250314",
@@ -10193,8 +10266,10 @@
         "koutei-yamagen": "かくて宇多の松原を行き過ぐ。",
         "translation-ja": "こうして、宇多の松原を行き過ぎる。",
         "translation-en": "Thus, they go past the pine grove of Uda.",
+	"translation-zh": "此般，经过宇多的松原。",
         "translation-ja-natural": "こうして、宇多の松原を通り過ぎる。",
-        "translation-en-natural": "And so, we pass by the pine grove of Uda."
+        "translation-en-natural": "And so, we pass by the pine grove of Uda.",
+	"translation-zh-natural": "就这样，国守一行经过了宇多的松原。"
       },
       {
         "date": "20250314",
@@ -10204,19 +10279,10 @@
         "koutei-yamagen": "松の数幾そばく、幾千年へたりと知らず。",
         "translation-ja": "松の本数はどれほどか、幾千年を経たのかわからない。",
         "translation-en": "The number of pines, how great it is, and how many thousands of years they have endured, I do not know.",
+	"translation-zh": "不知道，松树的数量多少，经历了几千年。",
         "translation-ja-natural": "松の本数がどれほど多いのか、何千年が経ったのか、私には分からない。",
-        "translation-en-natural": "I do not know how great the number of pine trees is, nor how many thousands of years have passed."
-      },
-      {
-        "date": "20250314",
-        "id": 132,
-        "text": "かくて宇多の松原を行き過ぐ。",
-        "kana": "かくてうたのまつばらをゆきすぐ。",
-        "koutei-yamagen": "かくて宇多の松原を行き過ぐ。",
-        "translation-ja": "こうして、宇多の松原を行き過ぎる。",
-        "translation-en": "Thus, they go past the pine grove of Uda.",
-        "translation-ja-natural": "こうして、宇多の松原を通り過ぎる。",
-        "translation-en-natural": "And so, we pass by the pine grove of Uda."
+        "translation-en-natural": "I do not know how great the number of pine trees is, nor how many thousands of years have passed.",
+	"translation-zh-natural": "我不知道这里松树的数量有多少，也不知道它们经历了多少千年。"
       },
       {
         "date": "20250314",
@@ -10226,19 +10292,10 @@
         "koutei-yamagen": "もとごとに浪打ち寄せ、枝ごとに鶴ぞ飛びかよふ。",
         "translation-ja": "根元ごとに波が打ち寄せ、枝ごとに鶴が飛び交う。",
         "translation-en": "Waves wash against each root, and cranes fly back and forth among the branches.",
+	"translation-zh": "波浪拍打在每个树根，鹤在飞舞每根枝条。",
         "translation-ja-natural": "松の根元に波が打ち寄せ、枝ごとに鶴が飛び交っています。",
-        "translation-en-natural": "Waves lap against the base of the pines, and cranes flutter among the branches."
-      },
-      {
-        "date": "20250314",
-        "id": 134,
-        "text": "かくて宇多の松原を行き過ぐ。",
-        "kana": "かくてうたのまつばらをゆきすぐ。",
-        "koutei-yamagen": "かくて宇多の松原を行き過ぐ。",
-        "translation-ja": "こうして、宇多の松原を行き過ぎる。",
-        "translation-en": "Thus, they go past the pine grove of Uda.",
-        "translation-ja-natural": "こうして、宇多の松原を通り過ぎる。",
-        "translation-en-natural": "And so, we pass by the pine grove of Uda."
+        "translation-en-natural": "Waves lap against the base of the pines, and cranes flutter among the branches.",
+	"translation-zh-natural": "波浪拍打着松树的根部，鹤在枝头间飞舞。"
       },
       {
         "date": "20250314",
@@ -10248,19 +10305,10 @@
         "koutei-yamagen": "おもしろしと見るに堪へずして船人のよめる歌、",
         "translation-ja": "趣深いと見るに堪えきれず、船人が詠んだ歌は、",
         "translation-en": "Finding it too captivating to bear, a poem that a passenger composed...",
+	"translation-zh": "有趣以至于不忍去看，于是船人所作的诗：",
         "translation-ja-natural": "あまりにも趣深く、見ているうちに胸がいっぱいになり、船人が詠んだ歌は、",
-        "translation-en-natural": "Overwhelmed by its beauty, a passenger composed the following poem..."
-      },
-      {
-        "date": "20250314",
-        "id": 136,
-        "text": "かくて宇多の松原を行き過ぐ。",
-        "kana": "かくてうたのまつばらをゆきすぐ。",
-        "koutei-yamagen": "かくて宇多の松原を行き過ぐ。",
-        "translation-ja": "こうして、宇多の松原を行き過ぎる。",
-        "translation-en": "Thus, they go past the pine grove of Uda.",
-        "translation-ja-natural": "こうして、宇多の松原を通り過ぎていきました。",
-        "translation-en-natural": "And so, we pass by the pine grove of Uda."
+        "translation-en-natural": "Overwhelmed by its beauty, a passenger composed the following poem...",
+	"translation-zh-natural": "有趣到不忍直视，船上的人吟诵了这样一首诗："
       },
       {
         "date": "20250314",
@@ -10270,8 +10318,10 @@
         "koutei-yamagen": "見渡せば松のうれごとに住む鶴は千代のどちとぞ思ふべらなる",
         "translation-ja": "見渡すと、松の梢ごとに棲む鶴は、千代の友であると思っているようだ。",
         "translation-en": "Looking out, the cranes, dwelling on each pine treetop, seem to think of themselves as friends of a thousand generations.",
+	"translation-zh": "环顾远眺/在松的树梢/栖息的鹤/千岁之友/似乎想着",
         "translation-ja-natural": "見渡すと、松の梢にとまる鶴たちは、松を千年の時を超える友と思っているようですね。",
-        "translation-en-natural": "Looking out, the cranes perched on the pine treetops seem to think of the pines as their lifelong friends across a thousand years."
+        "translation-en-natural": "Looking out, the cranes perched on the pine treetops seem to think of the pines as their lifelong friends across a thousand years.",
+	"translation-zh-natural": "环顾四周，松树梢上栖息的鹤，似乎把松树当作千年之友。"
       },
       {
         "date": "20250314",
@@ -10281,8 +10331,10 @@
         "koutei-yamagen": "とや。",
         "translation-ja": "と。",
         "translation-en": ".",
+	"translation-zh": "。",
         "translation-ja-natural": "と。",
-        "translation-en-natural": "."
+        "translation-en-natural": ".",
+	"translation-zh-natural": "。"
       },
       {
         "date": "20250314",
@@ -10303,19 +10355,10 @@
         "koutei-yamagen": "この歌は、ところを見るにえまさらず。",
         "translation-ja": "この歌は、所を見るに、優らない。",
         "translation-en": "This poem cannot surpass the view when looking at the place.",
+	"translation-zh": "此歌，比不过看（此）地。",
         "translation-ja-natural": "この歌は、実際の場所を見ると、そのすばらしさにはかなわない。",
-        "translation-en-natural": "This poem, when seeing the actual place, cannot quite rival its beauty."
-      },
-      {
-        "date": "20250314",
-        "id": 141,
-        "text": "かくて宇多の松原を行き過ぐ。",
-        "kana": "かくてうたのまつばらをゆきすぐ。",
-        "koutei-yamagen": "かくて宇多の松原を行き過ぐ。",
-        "translation-ja": "こうして、宇多の松原を行き過ぎる。",
-        "translation-en": "Thus, they go past the pine grove of Uda.",
-        "translation-ja-natural": "こうして、宇多の松原を通り過ぎる。",
-        "translation-en-natural": "And so, we pass by the pine grove of Uda."
+        "translation-en-natural": "This poem, when seeing the actual place, cannot quite rival its beauty.",
+	"translation-zh-natural": "这首诗无法胜过看当地实景。"
       },
       {
         "date": "20250314",
@@ -10339,8 +10382,10 @@
         "koutei-yamagen": "男もならはねばいとも心細し。",
         "translation-ja": "男も慣れていないので、とても心細い。",
         "translation-en": "Since the men are not accustomed to it, they feel very uneasy.",
+	"translation-zh": "男人们也不习惯，因此非常不安。",
         "translation-ja-natural": "男たちもまだ船旅に慣れておらず、とても心細く感じていました。",
-        "translation-en-natural": "Even the men were still unaccustomed to the voyage and felt very uneasy."
+        "translation-en-natural": "Even the men were still unaccustomed to the voyage and felt very uneasy.",
+	"translation-zh-natural": "男人们也还不习惯这次航行，因此感到非常不安。"
       },
       {
         "date": "20250315",
@@ -10350,8 +10395,10 @@
         "koutei-yamagen": "まして女は船底に頭をつきあててねをのみそなく。",
         "translation-ja": "まして女は、船底に頭を突き当てて、ただ泣くばかりだ。",
         "translation-en": "Moreover, the women, with their heads pressed against the bottom of the boat, do nothing but cry.",
+	"translation-zh": "更何况女人，头靠在船底，只是出声。",
         "translation-ja-natural": "まして女たちは船底に頭をつけて、ただ泣くばかりでした。",
-        "translation-en-natural": "Moreover, the women, with their heads against the bottom of the boat, did nothing but cry."
+        "translation-en-natural": "Moreover, the women, with their heads against the bottom of the boat, did nothing but cry.",
+	"translation-zh-natural": "更何况女人们，她们把头靠在船底，只是发出哭声。"
       },
       {
         "date": "20250315",
@@ -10361,8 +10408,10 @@
         "koutei-yamagen": "かく思えば舟子、楫取は船歌うたいて何とも思へらず。",
         "translation-ja": "こう思うに、水夫や船頭は船歌を歌い、何とも思わない。",
         "translation-en": "Thinking thus, the boatmen and the helmsman sing boat songs and think nothing of it.",
+	"translation-zh": "想着此般，船夫、划桨人唱着船歌，似乎什么也没感觉。",
         "translation-ja-natural": "こう思っていると、水夫や船頭はのんびりと船歌を口ずさみ、まるで気にも留めていないようです。",
         "translation-en-natural": "As I ponder this, the boatmen and the helmsman leisurely hum a tune, seeming completely unbothered.",
+	"translation-zh-natural": "这样想来，船夫和划桨人倒是哼着船歌，似乎完全不在意。",
         "notes-ja": [
           {
             "title": "オリジナルの校訂",
@@ -10378,8 +10427,10 @@
         "koutei-yamagen": "そのうたふ歌は、",
         "translation-ja": "その歌う歌は、",
         "translation-en": "The song they sing is...",
+	"translation-zh": "那唱的歌是",
         "translation-ja-natural": "船人が歌う歌は、",
-        "translation-en-natural": "The song they sing is..."
+        "translation-en-natural": "The song they sing is...",
+	"translation-zh-natural": "船夫们唱的歌是",
       },
       {
         "date": "20250315",
@@ -10389,8 +10440,10 @@
         "koutei-yamagen": "春の野にてぞ",
         "translation-ja": "春の野でさ",
         "translation-en": "In the spring fields...",
+	"translation-zh": "在春天的野外",
         "translation-ja-natural": "春の野でさ",
-        "translation-en-natural": "In the spring fields..."
+        "translation-en-natural": "In the spring fields...",
+	"translation-zh-natural": "在春天的野外"
       },
       {
         "date": "20250315",
@@ -10400,8 +10453,10 @@
         "koutei-yamagen": "音をばなく",
         "translation-ja": "声を出して泣く",
         "translation-en": "Crying out loud...",
+	"translation-zh": "发出声音",
         "translation-ja-natural": "声を出して泣く",
-        "translation-en-natural": "Crying out loud..."
+        "translation-en-natural": "Crying out loud...",
+	"translation-zh-natural": "大声哭泣"
       },
       {
         "date": "20250315",
@@ -10411,8 +10466,10 @@
         "koutei-yamagen": "with my young silver grasses",
         "translation-ja": "若薄にさ",
         "translation-en": "with young silver grasses",
+	"translation-zh": "在薄草",
         "translation-ja-natural": "若薄にさ",
-        "translation-en-natural": "with young silver grasses"
+        "translation-en-natural": "with young silver grasses",
+	"translation-zh-natural": "在我的/年轻的薄草上"
       },
       {
         "date": "20250315",
@@ -10422,8 +10479,10 @@
         "koutei-yamagen": "手切る切る",
         "translation-ja": "手を切り切りして",
         "translation-en": "cutting and cutting hands",
+	"translation-zh": "切切手",
         "translation-ja-natural": "手を切り切りして",
-        "translation-en-natural": "cutting and cutting hands"
+        "translation-en-natural": "cutting and cutting hands",
+	"translation-zh-natural": "切割着手"
       },
       {
         "date": "20250315",
@@ -10433,8 +10492,10 @@
         "koutei-yamagen": "摘んだる菜を",
         "translation-ja": "摘んだ菜を",
         "translation-en": "the picked vegetables",
+	"translation-zh": "摘下的菜",
         "translation-ja-natural": "摘んだ菜を",
-        "translation-en-natural": "the picked vegetables"
+        "translation-en-natural": "the picked vegetables",
+	"translation-zh-natural": "摘下的菜"
       },
       {
         "date": "20250315",
@@ -10444,8 +10505,10 @@
         "koutei-yamagen": "親やまぼるらむ",
         "translation-ja": "親が食べるのか",
         "translation-en": "Do the parents eat?",
+	"translation-zh": "父母会不会吃啊？",
         "translation-ja-natural": "親が食べるのか",
-        "translation-en-natural": "Do the parents eat?"
+        "translation-en-natural": "Do the parents eat?",
+	"translation-zh-natural": "父母会吃吗？"
       },
       {
         "date": "20250315",
@@ -10455,8 +10518,10 @@
         "koutei-yamagen": "姑や食ふらむ",
         "translation-ja": "姑が食べるのか",
         "translation-en": "Does the mother-in-law eat?",
+	"translation-zh": "婆婆会不会吃？",
         "translation-ja-natural": "姑が食べるのか",
-        "translation-en-natural": "Does the mother-in-law eat?"
+        "translation-en-natural": "Does the mother-in-law eat?",
+	"translation-zh-natural": "婆婆会吃吗？"
       },
       {
         "date": "20250315",
@@ -10466,8 +10531,10 @@
         "koutei-yamagen": "かへらや",
         "translation-ja": "帰るのか",
         "translation-en": "Shall we go back?",
+	"translation-zh": "要回去吗？",
         "translation-ja-natural": "帰るのか",
-        "translation-en-natural": "Shall we go back?"
+        "translation-en-natural": "Shall we go back?",
+	"translation-zh-natural": "要回去吗？"
       },
       {
         "date": "20250315",
@@ -10477,8 +10544,10 @@
         "koutei-yamagen": "夜べのうなゐもがな",
         "translation-ja": "夜べの幼子も来ないかな",
         "translation-en": "I wonder if a small kid will come tonight.",
+	"translation-zh": "夜晚的孩子会不会来？",
         "translation-ja-natural": "夜のちっちゃな子は来ないかな",
-        "translation-en-natural": "I wonder if a small child will come tonight."
+        "translation-en-natural": "I wonder if a small child will come tonight.",
+	"translation-zh-natural": "今晚会有孩子来吗？"
       },
       {
         "date": "20250315",
@@ -10488,8 +10557,10 @@
         "koutei-yamagen": "銭乞はむ",
         "translation-ja": "お金を乞う",
         "translation-en": "Begging for money",
+	"translation-zh": "会不会乞讨钱财？",
         "translation-ja-natural": "お金をもらおう",
-        "translation-en-natural": "Begging for money"
+        "translation-en-natural": "Begging for money",
+	"translation-zh-natural": "回来讨钱吗？"
       },
       {
         "date": "20250315",
@@ -10499,8 +10570,10 @@
         "koutei-yamagen": "そらごとをして",
         "translation-ja": "嘘をついて",
         "translation-en": "Telling lies",
+	"translation-zh": "说着谎",
         "translation-ja-natural": "嘘をついて",
-        "translation-en-natural": "Telling lies"
+        "translation-en-natural": "Telling lies",
+	"translation-zh-natural": "说着谎话"
       },
       {
         "date": "20250315",
@@ -10510,8 +10583,10 @@
         "koutei-yamagen": "おぎのりわざをして",
         "translation-ja": "掛買いにして",
         "translation-en": "Buying on credit",
+	"translation-zh": "赊着账",
         "translation-ja-natural": "掛け買いにして",
-        "translation-en-natural": "Buying on credit"
+        "translation-en-natural": "Buying on credit",
+	"translation-zh-natural": "赊账买着东西"
       },
       {
         "date": "20250315",
@@ -10521,8 +10596,10 @@
         "koutei-yamagen": "銭も持て来ず",
         "translation-ja": "お金も持ってこない",
         "translation-en": "Without bringing money",
+	"translation-zh": "钱也没带来",
         "translation-ja-natural": "お金も持ってこない",
-        "translation-en-natural": "Without bringing money"
+        "translation-en-natural": "Without bringing money",
+	"translation-zh-natural": "连钱也没带来"
       },
       {
         "date": "20250315",
@@ -10532,8 +10609,10 @@
         "koutei-yamagen": "おのれだに来ず",
         "translation-ja": "自分自身も来ない",
         "translation-en": "Even oneself does not come",
+	"translation-zh": "自己都不来",
         "translation-ja-natural": "自分自身も来ない",
         "translation-en-natural": "Even oneself does not come",
+	"translation-zh-natural": "连自己都不来",
         "notes-ja": {
           "長歌": [
             "春の野にてぞ",
@@ -10588,8 +10667,10 @@
         "koutei-yamagen": "かくて船人の歌う歌を聞きて、",
         "translation-ja": "船人たちが歌う歌を聞いて、",
         "translation-en": "Listening to the song sung by the boatmen,",
+	"translation-zh": "此般，听了船夫所唱的歌，",
         "translation-ja-natural": "船人たちが歌う歌を聞いて、",
-        "translation-en-natural": "Listening to the song sung by the boatmen,"
+        "translation-en-natural": "Listening to the song sung by the boatmen,",
+	"translation-zh-natural": "就这样，听着船夫们唱的歌，",
       },
       {
         "date": "20250315",
@@ -10599,8 +10680,10 @@
         "koutei-yamagen": "かく思えば、",
         "translation-ja": "こう思えば、",
         "translation-en": "Thinking thus,",
+	"translation-zh": "想着此般，",
         "translation-ja-natural": "こう思えば、",
-        "translation-en-natural": "Thinking thus,"
+        "translation-en-natural": "Thinking thus,",
+	"translation-zh-natural": "想着这样，"
       },
       {
         "date": "20250316",
@@ -10610,8 +10693,10 @@
         "koutei-yamagen": "これならず多かれども書かず。",
         "translation-ja": "これだけでなく、多くあったが、書かない。",
         "translation-en": "Not only these, but there were many more, yet I will not write them.",
+	"translation-zh": "非此，虽多，不写。",
         "translation-ja-natural": "これだけの歌だけでなく、他にも多くあったけれど、もう書きません。",
         "translation-en-natural": "There were many other poems besides these, but I will not write them.",
+	"translation-zh-natural": "不止这些，还有很多，但我不再写了。",
         "notes-ja": {
           "オリジナルの校訂": "これならず多かれども（もイ無）書かず。",
           "貫之の気持ち": "何でこんなにくだらないのにたくさんあるのだろう。",
@@ -10659,8 +10744,10 @@
         "koutei-yamagen": "かく行き暮して泊に至りて、翁人一人、専女一人、あるが中に、心地悪しみして、ものもものし給はで、ひそまりぬ。",
         "translation-ja": "このようにして行き、暮して、泊まり場に至り、翁が一人、専女が一人いる中で、気分が悪くなり、食事をすることもなく、寝てしまった。",
         "translation-en": "Thus, as they traveled until nightfall and reached the harbor, among them were one old man and one young woman, but feeling unwell, they ate nothing and fell asleep.",
+	"translation-zh": "此般一日行进，抵达泊地，在有老翁一人，姑娘一人中，感到不适，没有吃东西，睡着了。",
         "translation-ja-natural": "こうして日が暮れるまで進み、港に着いたが、たまたま乗り合わせた老人と女性がいて、お二人は気分が悪くなり、食事もお取りにならずにそのまま眠ってしまいました。",
         "translation-en-natural": "As they traveled until nightfall and arrived at the harbor, there was an old man and a woman who had happened to be on board. Feeling unwell, they ate nothing and soon fell asleep.",
+	"translation-zh-natural": "就这样，国守一行行进到天黑，抵达泊地。偶然上船的老翁和姑娘在一起，感到不适，没有吃东西就睡着了。",
         "notes-ja": {
           "「専女（とうめ）」の意味を確認": [
             "『源氏物語』では「とうめ」が「童女（わらわ）」の意味で使われている例がある。",
