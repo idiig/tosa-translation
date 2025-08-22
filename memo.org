@@ -5,12 +5,10 @@
 をしている。
 * 疑問点
 ** id=56
-
 「白散をあるもの」の「ある」は、「白散をある」のように、「持つ」と考えるべきではなく、「あるもの」つまり「特定の人」と訳すべき。
 #+begin_src json
   "translation-ja": "白散を持っている人が、夜の間に船の屋形に差し挟んでいたところ、風に吹き鳴らされて海に入ってしまい、飲むことができなくなった。",
           "translation-en": "A person who had byakusan, having wedged it into the boathouse overnight, had it blown noisily by the wind into the sea and was unable to drink it.",
-  	
 #+end_src
 ** 「え。。。ず」の「え」のグロスづけ
 Zisk先生の手引きには示されていない。
