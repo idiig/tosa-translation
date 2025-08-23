@@ -6541,7 +6541,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "そう言っていたので、大いに褒めながら立ち去る人が詠んだのは、",
         "translation-en-natural": "Because it was said, the person, praising it greatly, composed a poem as they left.",
-	"translation-zh-natural": "他这样这样说道，因此，品位着这首和歌而离去的人吟诵道，"
+	"translation-zh-natural": "他这样这样说道，因此，品味着这首和歌而离去的人吟诵道，"
       },
       {
         "date": [
@@ -10786,8 +10786,10 @@
         "koutei-yamagen": "十日、今日はこの那波の泊に泊まりぬ。",
         "translation-ja": "十日、今日はこの奈半の港に泊まった。",
         "translation-en": "On the tenth, we anchored at this harbor of Naha.",
+	"translation-zh": "十日，今日停泊在了这个那波的港口。",
         "translation-ja-natural": "十日、今日はこの那波の港に泊まりました。",
-        "translation-en-natural": "On the tenth. Today, we anchored at the harbor of Naha."
+        "translation-en-natural": "On the tenth. Today, we anchored at the harbor of Naha.",
+	"translation-zh-natural": "十日，今日他们停泊在了那波的这个港口。"
       },
       {
         "date": "20250317",
@@ -10797,8 +10799,10 @@
         "koutei-yamagen": "十一日、暁に船を出して室津を追ふ。",
         "translation-ja": "十一日、夜明けに船を出して、室津へ向かう。",
         "translation-en": "On the eleventh, we set sail at dawn and head toward Murotsu.",
+	"translation-zh": "十一日，于黎明发船，驶向室津。",
         "translation-ja-natural": "十一日、夜明けに船を出して、室津へ向かいました。",
-        "translation-en-natural": "On the eleventh, we set sail before dawn to head for Murotsu."
+        "translation-en-natural": "On the eleventh, we set sail before dawn to head for Murotsu.",
+	"translation-zh-natural": "十一日，他们在黎明时分出发，驶向室津。"
       },
       {
         "date": "20250317",
@@ -10808,8 +10812,10 @@
         "koutei-yamagen": "人皆まだ寝たれば海のありやうも見えず、唯月を見てぞ西東をば知りける。",
         "translation-ja": "皆がまだ寝ていたので、海のありさまも見えず、ただ月を見て西と東を知った。",
         "translation-en": "As everyone was still asleep, I could not see the state of the sea, but I could tell west and east only by looking at the moon.",
+	"translation-zh": "人都还睡着，因此，看不到海的样子，只能看月亮知东西。",
         "translation-ja-natural": "人々はまだ眠っていて、海の様子も見えず、ただ月を見て西や東を見分けた。",
         "translation-en-natural": "As everyone was still asleep, I couldn't see the state of the sea and could only discern east and west by looking at the moon.",
+	"translation-zh-natural": "人们还在睡觉，看不到海的样子，只能通过看月亮来辨别东西。",
         "notes-ja": {
           "オリジナルの校訂": "人皆まだ寝たれば海のありやう（二字さまイ）も見えず、唯月を見てぞ西東をば知りける。"
         }
@@ -10822,8 +10828,10 @@
         "koutei-yamagen": "かかる間に皆夜明けて手洗ひ例の事どもして昼になりぬ。",
         "translation-ja": "このようにしているうちに、すっかり夜が明けて、手を洗い、いつもの事をいろいろとして、昼になった。",
         "translation-en": "While we were doing this, it completely became dawn, we washed our hands, did various usual things, and it became noon.",
+	"translation-zh": "在这样之间，夜晚过去了，洗了手，做了平常的事等，到了中午。",
         "translation-ja-natural": "こうしているうちに夜が明け、手を洗ったり、いつものことをしたりしているうちに昼になった。",
-        "translation-en-natural": "In the meantime, the dawn broke, and as people washed their hands and did their usual things, it became noon."
+        "translation-en-natural": "In the meantime, the dawn broke, and as people washed their hands and did their usual things, it became noon.",
+	"translation-zh-natural": "在这期间，天亮了，人们洗了手，做了平常的事，到了中午。",
       },
       {
         "date": "20250318",
@@ -10833,8 +10841,10 @@
         "koutei-yamagen": "今し、羽根と言ふ所に来ぬ。",
         "translation-ja": "今、羽根という所に来た。",
         "translation-en": "Now, I have come to a place called Hane.",
+	"translation-zh": "现在，到了名为羽根之地。",
         "translation-ja-natural": "今、羽根という所に着きました。",
-        "translation-en-natural": "Now, I've arrived at a place called Hane."
+        "translation-en-natural": "Now, I've arrived at a place called Hane.",
+	"translation-zh-natural": "现在，国守一行来到了一个叫羽根的地方。",
       },
       {
         "date": "20250318",
@@ -10844,8 +10854,10 @@
         "koutei-yamagen": "若き童この所の名を聞きて、「羽と言ふ所は鳥の羽のようにやある」と言ふ。",
         "translation-ja": "若い子がこの所の名前を聞いて、「羽根という所は鳥の羽のようにあるのか？」と言う。",
         "translation-en": "A young child heard the name of this place and said, 'Is Hane like a bird's feather?'",
+	"translation-zh": "年轻的孩子听到此地之名，说道：“叫羽根的地方像不像鸟的羽毛啊？”",
         "translation-ja-natural": "子どもがこの場所の名前を聞いて、「羽根って、鳥の羽みたいなところなの？」と言いました。",
-        "translation-en-natural": "A child heard the name of this place and asked, 'Is Hane a place that looks like a bird's feather?'"
+        "translation-en-natural": "A child heard the name of this place and asked, 'Is Hane a place that looks like a bird's feather?'",
+	"translation-zh-natural": "一个小孩听到这个地方的名字，问道：“羽根是像鸟的羽毛一样的地方吗？”"
       },
       {
         "date": "20250318",
@@ -10855,8 +10867,10 @@
         "koutei-yamagen": "まだ幼き童のことなれば人々笑ふ。",
         "translation-ja": "まだ幼い子の言うことなので、人々は笑う。",
         "translation-en": "Since it is something a young child says, people laugh.",
+	"translation-zh": "因为是幼小的孩子说的话，人们大笑。",
         "translation-ja-natural": "幼い子がそんなことを言うので、人々は笑った。",
-        "translation-en-natural": "Since a little child said that, people laughed."
+        "translation-en-natural": "Since a little child said that, people laughed.",
+	"translation-zh-natural": "因为是小孩子说的话，人们都笑了。",
       },
       {
         "date": "20250318",
@@ -10866,8 +10880,10 @@
         "koutei-yamagen": "時にありける女の童なむ、この歌を詠める、",
         "translation-ja": "その時にいた女の子どもが、この歌を詠んだ。",
         "translation-en": "At that time, a girl who was there composed this poem.",
+	"translation-zh": "在当时的女孩吟诵了此歌。",
         "translation-ja-natural": "そのとき、そこにいた女の子がこの歌を詠んだ。",
-        "translation-en-natural": "At that moment, a little girl there composed this poem."
+        "translation-en-natural": "At that moment, a little girl there composed this poem.",
+	"translation-zh-natural": "当时在场的女孩吟诵了这首歌。"
       },
       {
         "date": "20250319",
@@ -10877,8 +10893,10 @@
         "koutei-yamagen": "まことにて名に聞く所はねならば飛ぶがごとくに都へもがな",
         "translation-ja": "本当に名の通りの場所が羽根であるならば、飛ぶように都へ行きたいものだ。",
         "translation-en": "If this place truly corresponds to its name, Hane, I wish I could fly to the capital.",
+	"translation-zh": "真地/从名字听到的地方/是羽根的话/飞一般/向京城吧",
         "translation-ja-natural": "本当に「羽根」という名の通りなら、羽ばたくように都へ飛んで行きたいものです。",
-        "translation-en-natural": "If this place truly lives up to its name, Hane, I wish I could soar to the capital."
+        "translation-en-natural": "If this place truly lives up to its name, Hane, I wish I could soar to the capital.",
+	"translation-zh-natural": "如果这个地方真的叫羽根的话，我真希望能像飞一样飞往京城。"
       },
       {
         "date": "20250319",
@@ -10888,8 +10906,10 @@
         "koutei-yamagen": "とぞいへる。",
         "translation-ja": "と言った。",
         "translation-en": "So it was said.",
+	"translation-zh": "这样说了。",
         "translation-ja-natural": "と言ったのです。",
-        "translation-en-natural": "That's what was said."
+        "translation-en-natural": "That's what was said.",
+	"translation-zh-natural": "就这样说了。"
       },
       {
         "date": "20250319",
@@ -10899,8 +10919,10 @@
         "koutei-yamagen": "男も女もいかで疾く都へもがなと思ふ心あれば、この歌良しとにはあらねど、げにと思ひて人々忘れず。",
         "translation-ja": "男も女も、どうしても早く都へと願う心があるので、この歌がいいのではないが、確かに、と思って、人々は忘れない。",
         "translation-en": "Both men and women have a heart that wishes to go quickly to the capital, so while this poem is not a good one, they think, 'Certainly,' and do not forget it.",
+	"translation-zh": "男人也女人也有想着“无论如何快点到京城就好了”的心情，因此此歌虽然不好，但人们想着“确实”，没忘记。",
         "translation-ja-natural": "男も女も、なんとかして早く都へ帰りたいと願っていたので、この歌が特に優れているわけではないが、確かにその通りだと思い、皆が心に留めた。",
-        "translation-en-natural": "Both men and women longed to return to the capital as soon as possible, so while this poem was not particularly outstanding, they felt it truly resonated and kept it in their hearts."
+        "translation-en-natural": "Both men and women longed to return to the capital as soon as possible, so while this poem was not particularly outstanding, they felt it truly resonated and kept it in their hearts.",
+	"translation-zh-natural": "男人和女人都渴望尽快回到京城，所以虽然这首歌并不特别出色，但他们确实觉得很有道理，并且铭记在心。",
       },
       {
         "date": "20250319",
@@ -10910,8 +10932,10 @@
         "koutei-yamagen": "この、羽根といふ所問ふ童のついでにぞ、また昔の人を思ひ出でて、いづれの時にか忘るる",
         "translation-ja": "この羽根という所の名を問うた子をきっかけに、また亡くなった子のことを思い出し、いつになったら忘れられようか。",
         "translation-en": "Taking the opportunity of the child who asked the name of this place called Hane, I remembered again the child who passed away, and when would I ever be able to forget?",
+	"translation-zh": "借着问这个叫羽根之地方的孩子，又想起了故人，何时才能忘记啊。",
         "translation-ja-natural": "この羽根という地名を尋ねた子をきっかけに、亡くなった子のことを思い出してしまいましたが、いつになったら忘れられるのでしょうか。",
-        "translation-en-natural": "Hearing the child ask about the name of this place, Hane, I couldn't help but remember the child who passed away. But when will I ever be able to forget?"
+        "translation-en-natural": "Hearing the child ask about the name of this place, Hane, I couldn't help but remember the child who passed away. But when will I ever be able to forget?",
+	"translation-zh-natural": "因为这个问起叫羽根之地的孩子，国守又想起了已故的孩子，心想什么时候才能忘记呢。"
       },
       {
         "date": "20250320",
@@ -10921,8 +10945,10 @@
         "koutei-yamagen": "今日はまして母の悲しがらるることは、くだりし時の人の数足らねば、古き歌に「数は足らでぞ帰るべらなる」と言ふ事を思い出でて人の詠める、",
         "translation-ja": "今日はまして、お母様が悲しがってらっしゃることは、下った時の人の数が足りないので、古い歌に「数が足らずに帰るようだ」ということを思い出して、人が詠んだのは、",
         "translation-en": "Today, all the more, the mother is grieving, because the number of people who went down from the capital is insufficient. Recalling the old song, 'It seems they are returning while the number remains insufficient,' a poem someone recited was...",
+	"translation-zh": "今日，母亲更感到悲伤的事是，下来的时候的人的数目不够，因此想起古歌所谓“似数不足而归”之言的人吟诵道：",
         "translation-ja-natural": "今日は、お母様がことさら悲しんでいらっしゃるのは、都を出発した時よりも帰る人の数が少ないからでしょう。古歌にある「出発時よりも少ない人数で帰るようだ」ということばを思い出し、ある人が詠んだ歌は、",
-        "translation-en-natural": "Today, the mother grieves even more, as the number of people returning from the capital is fewer than when they left. Remembering the old song, 'It seems they are returning with fewer than they departed with,' someone recited the following poem..."
+        "translation-en-natural": "Today, the mother grieves even more, as the number of people returning from the capital is fewer than when they left. Remembering the old song, 'It seems they are returning with fewer than they departed with,' someone recited the following poem...",
+	"translation-zh-natural": "今天，母亲更是感到悲伤，因为现在的人数不足从京城派来的时候，有一个人想起古歌“人数不齐而归”的人，他吟诵道："
       },
       {
         "date": "20250320",
@@ -10932,8 +10958,10 @@
         "koutei-yamagen": "世の中に思ひあれども子を恋ふる思ひに勝る思ひなきかな",
         "translation-ja": "世の中に思いはあるけれども、子を恋しく思う気持ちに勝る思いはない。",
         "translation-en": "Although there are many emotions in this world, none surpass the love a parent feels for their child.",
+	"translation-zh": "在世间/虽有情/思念孩子的/情，胜过（它）的/情不存在吧",
         "translation-ja-natural": "世の中にはいろいろな思いがあるけれど、子どもを恋しく思う気持ちほど強いものはない。",
         "translation-en-natural": "There are many emotions in this world, but nothing is stronger than a parent's love for their child.",
+	"translation-zh-natural": "世间有很多情感，但没有什么情感能胜过父母对孩子的思念。",
         "notes-ja": {
           "オリジナルの校訂": "世の中におもひや（あイ）れども子を戀ふる思ひにまさる思ひなきかな"
         }
@@ -10946,8 +10974,10 @@
         "koutei-yamagen": "といひつつなむ。",
         "translation-ja": "と言いながら...。",
         "translation-en": "Saying this, saying that...",
+	"translation-zh": "一边说着，一边...",
         "translation-ja-natural": "と言いながら...。",
-        "translation-en-natural": "Saying this, saying that..."
+        "translation-en-natural": "Saying this, saying that...",
+	"translation-zh-natural": "一边说着，一边..."
       },
       {
         "date": "20250320",
@@ -10957,8 +10987,10 @@
         "koutei-yamagen": "十二日、雨降らず。",
         "translation-ja": "十二日、雨は降らない。",
         "translation-en": "On the twelfth, rain does not fall.",
+	"translation-zh": "十二日，雨没下。",
         "translation-ja-natural": "十二日、雨は降りませんでした。",
-        "translation-en-natural": "On the twelfth, it didn't rain."
+        "translation-en-natural": "On the twelfth, it didn't rain.",
+	"translation-zh-natural": "十二日，没下雨。"
       },
       {
         "date": "20250320",
@@ -10968,8 +11000,10 @@
         "koutei-yamagen": "文時、維茂の船の遅れたりし。",
         "translation-ja": "文時、維茂の船が遅れていた。",
         "translation-en": "Funtoki, Koremochi's ship had been delayed.",
+	"translation-zh": "文时、维茂的船迟了。",
         "translation-ja-natural": "文時、維茂の船が遅れていました。",
-        "translation-en-natural": "Funtoki, Koremochi's ship was delayed."
+        "translation-en-natural": "Funtoki, Koremochi's ship was delayed.",
+	"translation-zh-natural": "文时，维茂的船迟到了。"
       },
       {
         "date": "20250320",
@@ -10979,19 +11013,23 @@
         "koutei-yamagen": "奈良志津より室津に着きぬ。",
         "translation-ja": "奈良志津から室津に着いた。",
         "translation-en": "They arrived at Murotsu from Narashi.",
+	"translation-zh": "自奈良志津到了室津。",
         "translation-ja-natural": "ならしの港から室津に到着しました。",
-        "translation-en-natural": "They arrived at Murotsu from Narashi."
+        "translation-en-natural": "They arrived at Murotsu from Narashi.",
+	"translation-zh-natural": "他们从奈良志津到达了室津。"
       },
       {
         "date": "20250321",
         "id": 184,
-        "text": "十三日の曉にいさか小雨ふる。",
-        "kana": "とおかあまりみかのあかつきにいさかこあめふる。",
-        "koutei-yamagen": "十三日の暁にいさか小雨降る。",
+        "text": "十三日の曉にいささか小雨ふる。",
+        "kana": "とおかあまりみかのあかつきにいささかこあめふる。",
+        "koutei-yamagen": "十三日の暁にいささか小雨降る。",
         "translation-ja": "十三日の暁に、わずかに小雨が降る。",
         "translation-en": "At dawn on the thirteenth day, a slight drizzle falls.",
+	"translation-zh": "在十三日的黎明，小雨稍降。",
         "translation-ja-natural": "十三日の夜明けに小雨が降っていました。",
         "translation-en-natural": "On the thirteenth, light rain fell at dawn.",
+	"translation-zh-natural": "十三日黎明，下起了小雨。",
         "notes-ja": {
           "オリジナルの校訂": "十三日の曉にいさか小（にイ）雨ふる。"
         }
@@ -11004,19 +11042,23 @@
         "koutei-yamagen": "しばしありて止みぬ。",
         "translation-ja": "しばらくして止んだ。",
         "translation-en": "It lasted for a while and then stopped.",
+	"translation-zh": "持续一会儿后，停了。",
         "translation-ja-natural": "しばらく降りましたが、ほどなく雨はやみました。",
-        "translation-en-natural": "It rained for a while, but then it stopped."
+        "translation-en-natural": "It rained for a while, but then it stopped.",
+	"translation-zh-natural": "下了一会儿就停了。"
       },
       {
         "date": "20250321",
         "id": 186,
         "text": "男女これかれ、ゆあみなどせむとてあたりのよろしき所におりて行く。",
-        "kana": "をとこをむなこれから、ゆあみなどせむとてあたりのよろしきところにおりてゆく。",
+        "kana": "をとこをむなこれかれ、ゆあみなどせむとてあたりのよろしきところにおりてゆく。",
         "koutei-yamagen": "男女これかれ、湯浴みなどせむとて、あたりの良しき所に降りて行く。",
         "translation-ja": "男女の誰彼が、湯に入ろうとして、周囲の良い場所に降りて行く。",
         "translation-en": "Some men and women go down to a good place nearby to bathe.",
+	"translation-zh": "男人女人，这人那人，想着洗澡，向附近的好地方下（船）走去。",
         "translation-ja-natural": "男女はこれから湯に入ろうとして、周囲の良い場所に降りて行きました。",
-        "translation-en-natural": "Men and women went down to a suitable spot nearby to bathe."
+        "translation-en-natural": "Men and women went down to a suitable spot nearby to bathe.",
+	"translation-zh-natural": "男人和女人们打算去洗澡，便下船向附近的合适的地方走去。"
       },
       {
         "date": "20250321",
@@ -11026,8 +11068,10 @@
         "koutei-yamagen": "海を見やれば、",
         "translation-ja": "海を見ると、",
         "translation-en": "When I look at the sea,",
+	"translation-zh": "看海，结果",
         "translation-ja-natural": "海を見ると、",
-        "translation-en-natural": "When I look at the sea,"
+        "translation-en-natural": "When I look at the sea,",
+	"translation-zh-natural": "一看到海，结果"
       },
       {
         "date": "20250322",
@@ -11037,8 +11081,10 @@
         "koutei-yamagen": "雲も皆波とぞ見ゆる、海士もがな、いづれか海と問いて知るべく",
         "translation-ja": "雲もみな波と見える。海士がいればなあ。どちらが海かと尋ねて知りたい。",
         "translation-en": "Clouds all look like waves. I wish there were a fisherman...to ask which is the sea.",
+	"translation-zh": "云也都/看似波浪/渔夫（在）就好了/何处是海/问了便知罢。",
         "translation-ja-natural": "雲もみな波のように見えるので、どちらが本当の海かを尋ねて知りたくなりました。",
         "translation-en-natural": "Since all the clouds looked like waves, I wanted to ask a fisherman which one was the real sea.",
+	"translation-zh-natural": "云看起来都像波浪一般。要是有渔夫就好了，问渔夫的话，就能知道哪个才是真正的海了吧。",
         "notes-ja": {
           "視覚的錯覚と空間の曖昧さ": "「雲もみな波とぞ見ゆる」という描写は、空と海の境界が曖昧になり、視覚的錯覚を引き起こす状況を表している。船旅の途中における自然の混然とした風景が詠まれており、旅人の戸惑いや不安を暗示している。",
           "海士もがなの意味": "「海士もがな」は『海士がいてくれたらなあ』という願望を表す表現。知識や経験をもつ海の案内人に尋ねたいという思いが込められており、自らの無力さと外界の不明瞭さへの反応が読み取れる。",
@@ -11046,7 +11092,15 @@
           "係り結びの緩み": "『ぞ見ゆる』という形は、係り結びとしては破格であり、本来なら連体形『見ゆるる』が来るべきところ。こうした文法の緩さも、認識の混乱や曖昧さというテーマと呼応していると解釈できる。",
           "翻訳上の工夫": "英訳では『which one was the real sea』と訳すことで、視覚的に判別できない状況を自然な英語で表現している。『fisherman』を単数形にすることで、象徴的な存在としての『海士』を際立たせている。",
           "文脈における意味": "この和歌は、旅のなかでの感覚の揺らぎや認識の不確かさを表すものであり、『土佐日記』全体に通底する『見ること・知ること・書くこと』の主題にも連なる一首である。"
-        }
+        },
+	"notes-zh": {
+	  "视觉错觉与空间的模糊性": "“云也都看似波浪”这一描写，表现了天空与海洋边界模糊，产生视觉错觉的情景。它描绘了船旅途中自然景观的混杂，暗示了旅人的困惑与不安。",
+	  "“海士也好”的含义": "“海士もがな”是表达“要是有渔夫就好了”的愿望的表达方式。它包含了想要向有知识和经验的海上向导询问的心情，可以读出对自身无力感和外界不明朗感的反应。",
+	  "询问以了解的意图": "“いづれか海と問ひて知るべく”表达了想要确认在混乱的景象中哪个才是真正的“海”的意志。这里的“询问”行为象征着人类试图通过语言化来确定所见之物的认知活动。",
+	  "系助词的松散": "“ぞ见ゆる”这一形式在系助词中是不规范的，原本应该是连体形“见ゆるる”。这种语法上的松散也可以解读为与认知的混乱和模糊性主题相呼应。",
+	  "翻译上的技巧": "在英文翻译中使用“which one was the real sea”来表达视觉上无法辨别的情境，使其在英语中自然流畅。将“fisherman”译为单数形式，突出了“海士”作为象征性存在的意义。",
+	  "在语境中的意义": "这首和歌表达了旅途中感官的动摇和认知的不确定性，与《土佐日记》整体贯穿的“看、知、写”的主题相连。"
+	}
       },
       {
         "date": "20250322",
@@ -11056,8 +11110,10 @@
         "koutei-yamagen": "となむ歌詠める。",
         "translation-ja": "となむ歌を詠んだ。",
         "translation-en": "So a poem was recited.",
+	"translation-zh": "吟诵了和歌。",
         "translation-ja-natural": "と歌を詠んだのでした。",
-        "translation-en-natural": "So a poem was recited."
+        "translation-en-natural": "So a poem was recited.",
+	"translation-zh-natural": "吟诵了和歌。"
       },
       {
         "date": "20250322",
@@ -11067,8 +11123,10 @@
         "koutei-yamagen": "さて十日あまりなれば、月おもしろし。",
         "translation-ja": "さて、一月十日を過ぎたので、月が趣深い。",
         "translation-en": "Now, as the tenth day of the month has passed, the moon is delightful.",
+	"translation-zh": "那样地，到十日有余，因此月亮很美。",
         "translation-ja-natural": "さて、一月十日を過ぎたころで、月がとても美しく感じられました。",
         "translation-en-natural": "Now that it's past the tenth day of the month, the moon looked especially beautiful.",
+	"translation-zh-natural": "就这样，现在已经过了十日，月亮显得格外美丽。",
         "notes-ja": {
           "十日あまりの解釈": "「十日あまりなれば」は一月十日を過ぎた日（十一日以降）を指し、「十日間経った」という意味ではない。旧暦においては十日過ぎの月が美しく見える時期であるため、月の趣を述べた文となっている。"
         }
@@ -11081,15 +11139,23 @@
         "koutei-yamagen": "船に乗り始めし日より、船には紅濃くよききぬ着ず。",
         "translation-ja": "船に乗り始めた日から、船には紅の濃い良い着物を着て出ない。",
         "translation-en": "From the day we boarded the ship, no one wears a deep crimson, fine kimono on the boat.",
+	"translation-zh": "自开始乘船之日，在船上，没穿红色浓的好衣服。",
         "translation-ja-natural": "船に乗ってからは、海の上では濃い紅の立派な着物は身につけないことになっていました。",
         "translation-en-natural": "Ever since we set sail, no one has worn fine crimson robes on the boat.",
+	"translation-zh-natural": "自从开始乘船以来，船上没有人穿着鲜艳的红色衣服。",
         "notes-ja": {
           "紅こくよき衣の意味": "「紅こくよき衣」は、鮮やかな紅色で上等な衣服を指す。視認性が高く、船上で目立つ装いであることを意味している。",
           "性別の明示なし": "原文では「女」「女性」といった語は用いられておらず、性別は明示されていない。ただし、濃い紅の着物は当時女性の装いとされていた可能性が高く、間接的に女性を指しているとも解釈できる。",
           "船にはの解釈": "「船には」は「船上では」の意味であり、「船の中」または「船にいる間は」という限定的な空間を示している。",
           "背景事情": "この後に続く文章から、海の神にさらわれることを恐れて、目立つ衣装を避けているという当時の信仰や慣習がうかがえる。",
           "翻訳上の補足": "逐語訳・自然訳ともに、性別を明示しない訳にすることで原文のニュアンスに忠実にしている。"
-        }
+        },
+	"notes-zh": {
+	  "红色浓的好衣服的含义": "“红色浓的好衣服”指的是鲜艳的红色且上等的衣服，意味着这种服装在船上非常显眼。",
+	  "未明确性别": "原文中没有使用“女”或“女性”等词汇，性别未被明确指出。然而，当时浓红色的衣服很可能是女性的装束，因此也可以间接地理解为指女性。",
+	  "船上之解读": "“船には”意为“在船上”，表示限定的空间，即“在船内”或“在船上期间”。",
+	  "背景情况": "从后续的文章可以看出，当时人们害怕被海神掳走，因此避免穿着显眼的服装，这反映了当时的信仰和习俗。",
+	  "翻译上的补充": "无论是逐字翻译还是自然翻译，都没有明确性别，以忠实于原文的语气。"
       },
       {
         "date": "20250324",
@@ -11099,8 +11165,10 @@
         "koutei-yamagen": "それは海の神に怖ぢてと言ひて、何の葦影にことづけて、ほやのつまのいずしすしあはびを心にもあらぬはぎにあげて見せける。",
         "translation-ja": "それは海の神を恐れてと言って、どの葦の陰にか隠れて、海鼠の妻のいずし・すしあわびを、心にもなく脛にあげて見せた。",
         "translation-en": "Saying it was out of fear of the sea god, they hid in some reed’s shadow, and, not even meaning to, raised up the pickled sea cucumber’s wife’s sushi and abalone to their shins and showed it.",
+	"translation-zh": "那是说着害怕海之神，借口到某个芦苇的阴影，把（与）海鞘【男性器】成对的贻贝的寿司、寿司（用的）鲍鱼【女性器】，举到无心的胡枝子（向神）展示了起来【毫不在意地把（衣物）掀到小腿（向男人）展示了起来】。",
         "translation-ja-natural": "それは、海の神にさらわれるのを恐れてと言い、どこかの葦の陰に隠れて、恥ずかしいとも思わずに、老いた海女のように、身につけたものをまくし上げて見せたのです。",
-        "translation-en-natural": "They said it was out of fear of the sea god, and, hiding in some reed’s shade, shamelessly lifted their garments like an old fisherwoman and showed themselves."
+        "translation-en-natural": "They said it was out of fear of the sea god, and, hiding in some reed’s shade, shamelessly lifted their garments like an old fisherwoman and showed themselves.",
+	"translation-zh-natural": "（不穿红衣）说是因为害怕海神，就借口跑到某处芦苇的阴影，把与海鞘（=男性器）成对的贻贝寿司和寿司用的鲍鱼（=女性器），抬到无心的胡枝子（hagi=萩=小腿=胡枝子）上，向神展示了起来。【其实是，跑到遮不住人的芦苇丛中，把毫不在意地把衣物掀到小腿，向男人展示了起来自己的生殖器】。"
       },
       {
         "date": "20250324",
