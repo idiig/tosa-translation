@@ -11178,8 +11178,10 @@
         "koutei-yamagen": "十四日、暁より雨降れば、同じ所にとまれり。",
         "translation-ja": "十四日、夜明けから雨が降ったので、同じ所に泊まった。",
         "translation-en": "On the fourteenth, rain fell at dawn, so we stayed at the same place.",
+	"translation-zh": "十四日，自黎明下雨，于是在同处停留了。",
         "translation-ja-natural": "十四日は、夜明けから雨が降り出したので、同じ場所に留まりました。",
-        "translation-en-natural": "On the morning of the fourteenth, it started raining at dawn, so we stayed where we were."
+        "translation-en-natural": "On the morning of the fourteenth, it started raining at dawn, so we stayed where we were.",
+	"translation-zh-natural": "十四日，从黎明时分开始下雨，所以国守一行留在了原地。"
       },
       {
         "date": "20250324",
@@ -11189,14 +11191,19 @@
         "koutei-yamagen": "船君せちみす。",
         "translation-ja": "船君が節忌をする。",
         "translation-en": "The ship's master is performing a ritual.",
+	"translation-zh": "船主举办节忌。", 
         "translation-ja-natural": "船の主人が節忌を行いました。",
         "translation-en-natural": "The ship's master performed a purification rite.",
+	"translation-zh-natural": "船主举行了节忌仪式。",
         "notes-ja": {
           "節忌の意味": "「節忌」は、節分や彼岸などの節目に行う儀式や供養のことを指す。船君が節忌をするとは、船旅の途中で特別な儀式を行うことを意味している。"
         },
         "notes-en": {
           "節忌(sechimi)": "A ritual performed at a turning point or seasonal festival, such as Setsubun or Higan."
-        }
+        },
+	"notes-zh": {
+	  "节忌的含义": "“节忌”指的是在节分或彼岸等节日进行的仪式或供养。船君举行节忌，意味着在船旅途中进行特别的仪式。"
+	}
       },
       {
         "date": "20250325",
@@ -11206,8 +11213,10 @@
         "koutei-yamagen": "精進物なければ、午の時より後に楫取の昨日釣りたりし鯛に、錢なければ、米をとりかけて、落ちられぬ。",
         "translation-ja": "精進物がないので、正午以降に楫取りが昨日釣った鯛に、銭がないので、米を代価にして、落しができた。",
         "translation-en": "Since there were no side dishes, after noon, the oarsman used the sea bream he had caught the day before. As there was no money, rice was given as payment, and they were able to break the abstinence.",
+	"translation-zh": "没有斋菜，于是在中午以后，船夫把昨日钓到的鲷鱼，因为没有钱，代替了米得以结束（斋戒）。",
         "translation-ja-natural": "精進物がなかったので、昼を過ぎてから、楫取りが昨日釣った鯛を米と引き換えに、精進落しとすることができました。",
         "translation-en-natural": "Since there were no side dishes, after midday, they were able to break their fast with a sea bream the oarsman had caught the day before, exchanging it for rice.",
+	"translation-zh-natural": "船上没有斋菜也没有钱，于是在中午以后，船夫吃了昨天钓到的鲷鱼，而不是米，结束斋戒。",
         "notes-ja": {
           "オリジナルの校訂": "さうじものなければ午の時より後に※(「楫＋戈」、第3水準1-86-21)取の昨日釣りたりし鯛に、錢なければよねをとりかけておちられぬ。",
           "「楫＋戈」の意味": "「楫＋戈」は、『楫』と『戈』の合字で、『楫』は船を漕ぐための漕ぎ手、『戈』は魚を捕るための道具を指す。この合字は、船上での漁の様子を表している。",
@@ -11216,7 +11225,14 @@
           "よねをとりかけての解釈": "『米を鯛にかけた』と読むと調理行為のように誤解される可能性がありますが、文脈上は『米を代価にして鯛を受け取った』という意味であり、物品交換が行われたことを示します。",
           "落ちられぬの解釈": "『落つ』はここでは『精進を終える』『精進明けを迎える』という意味の自動詞として使われており、『落ちられぬ』は可能の助動詞が付いた形です。つまり『精進を終えることができた』という自然な解釈が適切です。",
           "文化的背景": "当時の船旅では現金の代わりに米などの物資を交換することが一般的でした。精進の期間が終わると、肉や魚を口にする『精進落し』の習慣があり、この文はその一例を描いたものと考えられます。"
-        }
+        },
+	"notes-zh": {
+	  "“楫＋戈”的含义": "“楫＋戈”是“楫”和“戈”的合字，“楫”指的是划船的桨手，“戈”指的是捕鱼的工具。这个合字表现了在船上捕鱼的情景。",
+	  "“斋菜”的词义与译词选择": "“斋菜”源自佛教语“精进物”（指避免食用肉类和鱼类的饮食），但在此语境中，它更多地指一般的“配菜”或副菜，翻译为“斋菜”可能会引起误解。因此，在现代译文中，使用“配菜”或“副菜”的表达更为自然。",
+	  "“取掛けて”的词义": "“取掛けて”在古语中意为“作为代价交出”或“交换”，在这里表示用米换取鲷鱼的物物交换行为。",
+	  "“用米交换”的解读": "如果将其理解为“用米烹饪鲷鱼”，可能会引起误解，但从语境来看，它表示“用米作为代价换取鲷鱼”，体现了物品交换的行为。",
+	  "“落ちられぬ”的解读": "“落つ”在这里作为自动词，意为“结束斋戒”或“迎来斋戒结束”，“落ちられぬ”是可能助动词的形式，表示“能够结束斋戒”的意思，这是一种自然的解读。",
+	  "文化背景": "当时的船旅中，使用米等物资进行交换而非现金是很常见的。斋戒期结束后，食用肉类和鱼类的“斋戒结束”习俗在这里得到了体现，这段文字描绘了这一习俗的一个例子。"
       },
       {
         "date": "20250325",
@@ -11226,8 +11242,10 @@
         "koutei-yamagen": "かかること、なおありぬ。",
         "translation-ja": "このようなことが、まだあった。",
         "translation-en": "There were still things like this.",
+	"translation-zh": "这样的事仍然持续着。",
         "translation-ja-natural": "まだまだこんなことが続きます。",
-        "translation-en-natural": "There are still things like this."
+        "translation-en-natural": "There are still things like this.",
+	"translation-zh-natural": "这样的事仍然持续着。"
       },
       {
         "date": "20250325",
@@ -11237,8 +11255,10 @@
         "koutei-yamagen": "楫取又鯛もてきたり。",
         "translation-ja": "楫取りがまた鯛を持ってきた。",
         "translation-en": "The oarsman brought a sea bream again.",
+	"translation-zh": "船夫又带来了鲷鱼。",
         "translation-ja-natural": "楫取りが再び鯛を持ってきました。",
         "translation-en-natural": "The oarsman brought a sea bream again.",
+	"translation-zh-natural": "船夫又带来了鲷鱼。",
         "notes-ja": {
           "オリジナルの校訂": "※(「楫＋戈」、第3水準1-86-21)取又鯛もてきたり。"
         }
@@ -11251,8 +11271,10 @@
         "koutei-yamagen": "米酒、しばしばくる。",
         "translation-ja": "よねさけ、しばしばあたえる。",
         "translation-en": "We frequently gave him rice and sake.",
+	"translation-zh": "米、酒，常给。",
         "translation-ja-natural": "そのうち、米酒、しょっちゅうあたえた。",
-        "translation-en-natural": "Before long, we often gave the oarsman rice and sake."
+        "translation-en-natural": "Before long, we often gave the oarsman rice and sake.",
+	"translation-zh-natural": "于是，国守经常给船夫米和酒。",
       },
       {
         "date": "20250325",
@@ -11262,8 +11284,10 @@
         "koutei-yamagen": "楫取、けしきあしからず。",
         "translation-ja": "楫取は、様子が悪くない。",
         "translation-en": "The oarsman's demeanor is not bad.",
+	"translation-zh": "船夫，心情不错。",
         "translation-ja-natural": "楫取りは、どことなく機嫌がよさそうでした。",
         "translation-en-natural": "The oarsman seemed to be in unusually good spirits.",
+	"translation-zh-natural": "每次船夫都心情不错。",
         "notes-ja": {
           "楫取の様子": "『楫取』は船を漕ぐ人を指し、ここでは舵取りの様子を表している。『けしき』は『様子』『機嫌』を意味し、『あしからず』は『悪くない』『気色が悪くない』という意味である。",
           "楫取の機嫌の良さ": "この一文は、楫取りが機嫌が良いことを示しており、前文の『米酒』の頻繁な訪問に対して、楫取りが好意的に応じていることを示唆している。",
@@ -11284,8 +11308,10 @@
         "koutei-yamagen": "十五日、今日、小豆粥煮ず。",
         "translation-ja": "十五日、今日は小豆粥を煮ない。",
         "translation-en": "On the fifteenth, today we did not cook red bean porridge.",
+	"translation-zh": "十五日，今日没煮红豆粥。",
         "translation-ja-natural": "十五日、今日は小豆粥を煮ませんでした。",
-        "translation-en-natural": "On the fifteenth, we did not cook red bean porridge today."
+        "translation-en-natural": "On the fifteenth, we did not cook red bean porridge today.",
+	"translation-zh-natural": "十五日，今天没有煮红豆粥。"
       },
       {
         "date": "20250326",
@@ -11295,11 +11321,16 @@
         "koutei-yamagen": "口をしくなほ日の足ければ、居ざるほどに、今日廿日あまり経ぬる。",
         "translation-ja": "残念で、さらに天気が悪いので、のろのろ進行で、今日で二十日以上が過ぎた。",
         "translation-en": "Regretful, and additionally the weather is bad, so with sluggish progress, today more than twenty days have passed.",
+	"translation-zh": "令人遗憾地，今日（天气）还不好，因此行进缓慢，今日已经过二十余日了。",
         "translation-ja-natural": "天気は相変わらず悪いし、進みも遅いし、なんだかんだでもう二十日以上たってしまいました。",
         "translation-en-natural": "The weather's still bad, the progress is slow, and somehow it's already been more than twenty days.",
+	"translation-zh-natural": "令人遗憾，天气依然不好，因此行进缓慢，到今天不知不觉已经过去二十多天了。",
         "notes-ja": {
           "「居ざるほどに」": "「居ざる」は、動作動詞「ゐざる」（座ったまま少しずつ進む）を用いた表現であり、この文では旅の進行が極めて遅い様子を表している。「不在」ではなく、進まない旅路を身体的な動きにたとえている用法である。"
-        }
+        },
+	"notes-zh": {
+	  "“居ざるほどに”": "“居ざる”是动词“ゐざる”（坐着慢慢前进）的表达方式，在这里表示旅程进展非常缓慢的情形。它不是“不在”，而是用身体动作来比喻旅程的停滞不前。"
+	}
       },
       {
         "date": "20250326",
@@ -11309,8 +11340,10 @@
         "koutei-yamagen": "いたづらに日を経れば、人々海を眺めつつぞある。",
         "translation-ja": "無為に日を過ごしていると、人々はただ海を眺めている。",
         "translation-en": "Passing the days idly, people are simply gazing at the sea.",
+	"translation-zh": "无所事事地，日子过去，于是人们一直眺望着大海。",
         "translation-ja-natural": "何をするでもなく日々が過ぎ、人々はただ海を眺めて過ごしているだけでした。",
-        "translation-en-natural": "The days passed with nothing in particular to do, and people spent their time just gazing out at the sea."
+        "translation-en-natural": "The days passed with nothing in particular to do, and people spent their time just gazing out at the sea.",
+	"translation-zh-natural": "日子无所事事地过去了，人们只是一直眺望着大海。"
       },
       {
         "date": "20250326",
@@ -11320,8 +11353,10 @@
         "koutei-yamagen": "女の童の言へる、",
         "translation-ja": "女の子が言った。",
         "translation-en": "One little girl said,...",
+	"translation-zh": "小女孩说道，...",
         "translation-ja-natural": "小さな女の子がこう言いました。",
-        "translation-en-natural": "One little girl said,..."
+        "translation-en-natural": "One little girl said,...",
+	"translation-zh-natural": "一个小女孩说道，..."
       },
       {
         "date": "20250326",
@@ -11331,8 +11366,10 @@
         "koutei-yamagen": "立てば立つ、いればまた立つ、吹く風と浪とは思うどちにやあるらむ。",
         "translation-ja": "立てば立つ、ゐればまたゐる、吹く風と波のことを思う。仲間なのだろうか。",
         "translation-en": "If one stands, the other stands; if one sits, the other sits. Thinking of the blowing wind and the waves, I wonder...are they companions?",
+	"translation-zh": "起则起/止则又止/吹拂的风与/浪，想知道/是朋友吗",
         "translation-ja-natural": "風が立てば波も立ち、風がおさまれば波も静かになる。まるで親しい友だちみたいだ。",
         "translation-en-natural": "When the wind rises, the waves rise too. When the wind calms, so do the waves. Aren’t they just like close friends?",
+	"translation-zh-natural": "风起时，波也起；风静时，波也静。吹拂的风与浪，我想知道，他们是不是朋友啊。",
         "notes-ja": {
           "オリジナルの校訂": "「立てばたつゐれば［＃「ゐれば」は底本では「ゐれは」］又ゐる吹く風と浪とは思ふどちにやあるらむ」。"
         }
@@ -11345,8 +11382,10 @@
         "koutei-yamagen": "言ふかひなき者の言へるには、いと似つかはし。",
         "translation-ja": "幼い子どもが言ったこととしては、実に似つかわしい。",
         "translation-en": "That which was said by a small child is, indeed, fitting.",
+	"translation-zh": "作为说话没有意义者所说的话，实在很贴切。",
         "translation-ja-natural": "幼い子が言ったことばとしては、とてもふさわしいものでした。",
-        "translation-en-natural": "What the child said was very fitting for a child."
+        "translation-en-natural": "What the child said was very fitting for a child.",
+	"translation-zh-natural": "虽说是童言，倒也实在很贴切。"
       },
       {
         "date": "20250327",
