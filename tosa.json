@@ -11408,14 +11408,19 @@
         "koutei-yamagen": "ただ、海に浪なくして、いつしか岬という所渡らむとのみなむ思ふ。",
         "translation-ja": "ただ、海に波がなくなり、いつになったら岬という所を渡るのだろうとばかり思う。",
         "translation-en": "Simply, the waves not having calmed down on the sea, we thought only about when we might cross the place called Misaki.",
+	"translation-zh": "只是想着何时海无浪，能过叫岬的地方。",
         "translation-ja-natural": "ただただ、海が穏やかになって、いつになったら岬という場所を渡れるのか、そればかりが気にかかっていた。",
         "translation-en-natural": "All we could think about was when the sea would calm down enough to cross Misaki, the cape.",
+	"translation-zh-natural": "大家只是想着什么时候海能平静下来，能渡过那个叫做岬的地方。",
         "notes-ja": {
           "「みさき」": "「みさき」は具体的には「室戸岬」のことで、菊地の注釈によると「ここを回ればもう土佐は見えない」とのこと。"
         },
         "notes-en": {
           "Misaki": "\"Misaki\" refers specifically to Cape Muroto, and according to Kikuchi's note, it means \"once we pass this point, we won't be able to see Tosa anymore.\""
-        }
+        },
+	"notes-zh": {
+	  "“岬”": "“岬”具体指的是室户岬，根据菊地的注释，意思是“一旦我们经过这里，就再也看不到土佐了”。"
+	}
       },
       {
         "date": "20250327",
@@ -11425,8 +11430,10 @@
         "koutei-yamagen": "風浪ともにやむべくもあらず。",
         "translation-ja": "風も波もともに止みそうもない。",
         "translation-en": "The wind and waves are not likely to die down.",
+	"translation-zh": "风浪都似乎不会停。",
         "translation-ja-natural": "風も波も止みそうもありません。",
-        "translation-en-natural": "The wind and waves show no sign of letting up."
+        "translation-en-natural": "The wind and waves show no sign of letting up.",
+	"translation-zh-natural": "但是风和浪似乎都不会停。"
       },
       {
         "date": "20250328",
@@ -11436,8 +11443,10 @@
         "koutei-yamagen": "ある人のこの浪立つを見て詠める歌、",
         "translation-ja": "ある人が、この波が立つのを見て詠んだ歌、",
         "translation-en": "A song composed by someone who saw these waves rise.",
+	"translation-zh": "某人见此浪起所作的和歌，",
         "translation-ja-natural": "ある人が、この波が立つのを見て詠んだ歌は、",
-        "translation-en-natural": "A song composed by someone who saw these waves rise."
+        "translation-en-natural": "A song composed by someone who saw these waves rise.",
+	"translation-zh-natural": "（这是）某人见此浪起所作的和歌，"
       },
       {
         "date": "20250328",
@@ -11447,12 +11456,18 @@
         "koutei-yamagen": "霜だにもおかぬかたぞと言ふなれど浪の中には雪ぞ降りける",
         "translation-ja": "霜すら置かない地方だと言うけれど、波の中には雪が降ったのだった。",
         "translation-en": "They say it is a place where not even frost settles, but within the waves, snow did fall.",
+	"translation-zh": "连霜也/不落之地/据说（如此），但/在浪里/落了雪",
         "translation-ja-natural": "霜すら降らない暖かい地方だと言われていますが、波の中には雪が降っていました。",
         "translation-en-natural": "They say not even frost falls here, and yet—there was snow falling in the waves.",
+	"translation-zh-natural": "据说这里是连霜都不落的地方，然而波浪里却下起了雪。",
         "notes-ja": {
           "「霜だにもおかぬかたぞ」": "『白氏文集』巻十一令誰力言フ南国霜雪無ント」",
           "解釈": "実際に雪が降っているのではなく、荒れる海の波しぶきがまるで雪が降っているかのように見えるさまを詠んでいる。霜すら降らぬと伝え聞いた南国の海で、寒さや過酷さを感じさせる情景を『雪が降っている』と表現することで、自然の荒々しさと旅の困難さを際立たせている。"
-        }
+        },
+	"notes-zh": {
+	  "“霜だにもおかぬかたぞ”": "出自《白氏文集》第十一卷《令誰力言フ南国霜雪無ント》",
+	  "解读": "这里并不是实际下雪，而是形容波涛汹涌的海浪飞沫，看起来就像在下雪一样。听说这里是连霜都不落的南国海域，通过将这种景象描述为“下雪”，突显了自然的狂暴和旅途的艰难。"
+	}
       },
       {
         "date": "20250328",
@@ -11462,8 +11477,10 @@
         "koutei-yamagen": "さて船に乗りし日より、今日までに二十日あまり五日になりにけり。",
         "translation-ja": "さて、船に乗った日から今日までで、二十五日になってしまった。",
         "translation-en": "From the day we boarded the ship until today, it has been twenty-five days.",
+	"translation-zh": "此般，自登船之日至今，已有廿五日了。",
         "translation-ja-natural": "船に乗り込んだ日から今日までで、二十五日が経過しました。",
-        "translation-en-natural": "From the day we boarded the ship until today, it has been twenty-five days."
+        "translation-en-natural": "From the day we boarded the ship until today, it has been twenty-five days.",
+	"translation-zh-natural": "就这样，从登上船到今天，已经过去二十五天了。"
       },
       {
         "date": "20250328",
@@ -11473,8 +11490,10 @@
         "koutei-yamagen": "十七日、曇れる雲なくなりて、曉月夜、いとおもしろければ、船を出だして漕ぎ行く。",
         "translation-ja": "十七日、曇っていた雲がなくなり、曉月夜がたいそう趣深かったので、船を出して漕ぎ行く。",
         "translation-en": "On the seventeenth, the clouds that had made the sky overcast disappeared, and because the dawn moonlit night was very delightful, we set out and rowed on.",
+	"translation-zh": "十七日，阴沉着的云消失，拂暁的月光非常美丽，因此我们出船驶离。",
         "translation-ja-natural": "十七日、雲が晴れて夜明けの月がとてもきれいだったので、船を出して漕ぎ出しました。",
         "translation-en-natural": "On the seventeenth, the clouds cleared and the dawn moon was so beautiful that we set out and began to row.",
+	"translation-zh-natural": "十七日，阴云散去，拂晓的月光非常美丽，于是我们出船划行。",
         "notes-ja": {
           "漕ぎ行く": "「漕ぎ行く」とあるので、港を出航したのかと思うと実はまた戻ることになる"
         }
@@ -11487,8 +11506,10 @@
         "koutei-yamagen": "このあひだに、雲の上も海の底も同じ如くになむありける。",
         "translation-ja": "この間、雲の上も海の底も同じようだった。",
         "translation-en": "In the meantime, the clouds above and the sea below were the same.",
+	"translation-zh": "这期间，云之上和海之底都像一样了。",
         "translation-ja-natural": "この間、雲の上も海の底も同じようになっていました。",
-        "translation-en-natural": "During that time, the clouds above and the sea below blended into one."
+        "translation-en-natural": "During that time, the clouds above and the sea below blended into one.",
+	"translation-zh-natural": "在这段时间里，云上与海底都好像一样了。"
       },
       {
         "date": "20250329",
@@ -11498,8 +11519,10 @@
         "koutei-yamagen": "うべも昔の男は「棹は穿つ波の上の月を、船は襲ふ海のうちの空を」とはいひけむ。",
         "translation-ja": "昔の男は「棹は穿つ波の上の月を、船はおそふ海のうちの空を」と言ったものだ。",
         "translation-en": "A man of old said, \"The pole pierces the moon upon the waves, and the ship presses the sky within the sea.\"",
+	"translation-zh": "果真，过去的男人说过：“桨穿波上月，船袭海中天”。",
         "translation-ja-natural": "昔の男はかつて、「棹は波の上の月を突き、舟は海に映った空を圧えつけている）」と言いました。",
         "translation-en-natural": "The man of old once said, \"The pole pierces the moon upon the waves, and the ship presses the sky within the sea.\"",
+	"translation-zh-natural": "果真如过去有人说道那般：“桨穿波上月，船压海中天（棹穿波底月，船压水中天）”。",
         "notes-ja": {
           "唐の詩人買島(かとう)": "原作は「樟ハ穿ツ波ノ底ノヲ、舟ハ圧フ水ノ中ノ天ヲ」である。それを「波の上の月」「海の中の空」と改変している。"
         }
@@ -11512,8 +11535,10 @@
         "koutei-yamagen": "聞きざれに聞けるなり。",
         "translation-ja": "本気にせずに聞いていた。",
         "translation-en": "I heard it in jest.",
+	"translation-zh": "听起来是戏言。",
         "translation-ja-natural": "冗談だと思って聞いていました。",
         "translation-en-natural": "I heard it in jest.",
+	"translation-zh-natural": "听到时我只是当作玩笑话。",
         "notes-ja": [
           {
             "title": "きゝされに",
@@ -11565,7 +11590,33 @@
             "title": "Conclusion",
             "note": "Classics are not just written works but a form of performance and enjoyment. Engaging with them in a fun and entertaining way is a more natural approach than analysis."
           }
-        ]
+        ],
+	"notes-zh": [
+	  {
+	    "title": "“听戏言”",
+	    "note": "“きゝされに”意为假装不懂汉诗，以便改编原文，暗示说话者并未认真对待。"
+	  },
+	  {
+	    "title": "古典文学作为娱乐",
+	    "note": "古典文学不仅仅是用墨水写在纸上的文字，它是一个充满故事和互动的世界。"
+	  },
+	  {
+	    "title": "形式与处理",
+	    "note": "虽然古典文学现在被视为书面作品，但在学校教育中，它常常被当作语法或考试材料来处理。"
+	  },
+	  {
+	    "title": "原始内容",
+	    "note": "然而，其内容可以被视为娱乐性的，核心是讲故事和互动。"
+	  },
+	  {
+	    "title": "经典作为智力游戏",
+	    "note": "\"kikizareni kikeru nari\"这句话暗示了一种智力游戏，即假装不懂，通过改变叙述来进行有趣的互动。"
+	  },
+	  {
+	    "title": "结论",
+	    "note": "经典不仅仅是书面作品，更是一种表演和享受的形式。以一种有趣和娱乐的方式与之互动，比分析更自然。"
+	  }
+	]
       },
       {
         "date": "20250330",
@@ -11575,8 +11626,10 @@
         "koutei-yamagen": "また、ある人のよめる歌、",
         "translation-ja": "また、ある人が詠んだ歌は、",
         "translation-en": "Also, a song composed by a certain person,",
+	"translation-zh": "又，某人所作的和歌，",
         "translation-ja-natural": "また、ある人が詠んだ歌は、",
-        "translation-en-natural": "Also, a song composed by someone..."
+        "translation-en-natural": "Also, a song composed by someone...",
+	"translation-zh-natural": "另外，有一个人作了这首和歌，"
       },
       {
         "date": "20250330",
@@ -11586,8 +11639,10 @@
         "koutei-yamagen": "水底の月の上より漕ぐ舟の棹にさはるは桂なるらし",
         "translation-ja": "水底から月の上へと漕いでいく船の棹に触れるものは、桂であるらしい。",
         "translation-en": "That which touches the pole of the boat rowing up from the surface of the water toward the moon must be a katsura tree.",
+	"translation-zh": "水底的/月亮之上，自（此）/划过的船的/桨所触的/似乎是桂木",
         "translation-ja-natural": "水の底から月へと漕ぎ出す船。その棹に触れるのは、どうやら桂の木かもしれませんね。",
         "translation-en-natural": "A boat rows up from the depths toward the moon. What brushes against its pole must be the katsura tree, they say grows on the moon.",
+	"translation-zh-natural": "有一艘从水底的月亮上触发的船，它的船浆所触碰到，似乎是（传说中生长在月亮上的）桂木。",
         "notes-ja": {
           "オリジナルの校訂": "「みなそこの月のうへより漕ぐふねの棹にさはるは桂なるら（べイ）し」。",
           "桂": "「桂」は伝説的に月に生える木とされており、文脈的に重要。",
@@ -11601,7 +11656,14 @@
           "Interpretation": "This poem depicts a fantastical scene. The structure \"that which touches the pole of the boat rowing up from the surface of the water toward the moon must be a katsura tree\" creates a scene full of movement, interweaving legendary elements. The \"katsura\" is a legendary tree that has been said to grow on the moon since ancient times, often appearing in Chinese mythology and Japanese literature. By reading this with the legend in mind, one can appreciate the fantasy and symbolism of the poem more deeply.",
           "Katsura naru rashi": "The phrase \"Katsura naru rashi\" means \"like a sweet osmanthus tree\".",
           "換骨奪胎": "\"Kankotsudattai\" refers to a technique in classical literature where the form of an old poem or song is borrowed to express new content. The original meaning is \"to replace the old bones and give new flesh,\" and in classical literature, it refers to the act of mimicking existing works while adding new interpretations or perspectives. According to Kikuchi's annotation (p. 31: Note 24), the original text is \"樟ハ穿ツ波ノ底ノヲ、舟ハ圧フ水ノ中ノ天ヲ\". This has been modified to \"波の上の月\" and \"海の中の空\"."
-        }
+        },
+	"notes-zh": {
+	  "原文": "原文是“みなそこの月のうへより漕ぐふねの棹にさわるは桂なるら（べイ）し”。",
+	  "桂木": "“桂木”在传统上被认为是生长在月亮上的树，在文中具有重要意义。",
+	  "解读": "这首和歌描绘了一个幻想的场景。结构为“水底から月の上へと漕いでいく船の棹に触れるものは桂であるらしい”，创造了一个充满动感的场景，交织着传说元素。“桂木”自古以来就被认为是生长在月亮上的传说之树，经常出现在中国神话和日本文学中。通过带着传说的背景来阅读，可以更深刻地欣赏这首和歌的幻想性和象征性。",
+	  "桂なるら（べイ）し": "“桂なるら（べイ）し”意为“像桂花树一样美丽”。",
+	  "换骨夺胎": "“换骨夺胎”是古典文学中的一种技法，指借用旧诗或歌的形式来表达新的内容。其原义是“更换旧骨，赋予新肉”，在古典文学中指模仿现有作品，同时加入新的解释或视角。根据菊地的注释（第31页：注释24），原文是“樟ハ穿ツ波ノ底ノヲ、舟ハ圧フ水ノ中ノ天ヲ”。这被修改为“波の上の月”和“海の中の空”。"
+	}
       },
       {
         "date": "20250330",
@@ -11611,8 +11673,10 @@
         "koutei-yamagen": "これを聞きて、ある人のまたよめる、",
         "translation-ja": "これを聞いて、ある人がまた詠んだ歌は、",
         "translation-en": "Upon hearing this, a certain person composed a poem,",
+	"translation-zh": "听此，有人又作了，",
         "translation-ja-natural": "これを聞いて、別のある人がまた詠んだ歌は、",
-        "translation-en-natural": "Upon hearing this, another person composed a poem..."
+        "translation-en-natural": "Upon hearing this, another person composed a poem...",
+	"translation-zh-natural": "听到这首和歌后，另有一人又作了一首，"
       },
       {
         "date": "20250330",
@@ -11622,8 +11686,10 @@
         "koutei-yamagen": "かげ見れば浪の底なるひさかたの空漕ぎわたるわれぞさびしき",
         "translation-ja": "影を見れば、波の底にある久方の空を漕ぎ渡る私は寂しくて。",
         "translation-en": "When I look at the shadow, rowing across the long sky beneath the waves, I am so lonely.",
+	"translation-zh": "看了光影/浪底的/悠久的/空，划过的/我，寂寥",
         "translation-ja-natural": "波の底に映る空を漕いでいる自分の影を見ていると、なんだか、ひどく寂しい気がしてくる。",
         "translation-en-natural": "As I look at the shadow of myself rowing through the sky reflected beneath the waves, a deep loneliness quietly washes over me.",
+	"translation-zh-natural": "看着倒影，船浆划过波底的长空，我心中涌起一阵深深的寂寞。",
         "notes-ja": {
           "オリジナルの校訂": "「かげ見れば浪の底なるひさかたの空こぎわたるわれぞさびしき」。",
           "影": "波の底に映っているのは実体としての自分ではなく、ゆらぐ影である。つまり、自分自身の存在が不確かなものとして認識されている。",
@@ -11647,7 +11713,25 @@
             },
             "まとめ": "両歌はともに換骨奪胎によって成立しているが、その方向性はまったく異なる。前の歌は幻想の素材を現実の遊びに落とし込み、軽やかに展開する。対してこの歌は、定型的な構図を用いつつ、現実の不安と向き合いながら沈み込むように展開する。"
           }
-        }
+        },
+	"note-zh": {
+	  "title": "比较",
+	  "note": {
+	    "视点与叙述性质": {
+	      "前一首歌": "通过将触及桨的东西比作“桂木”，展现了传说与现实交织的幽默机智。享受幻想世界的余裕，叙述者保持着某种距离感。",
+	      "这一首歌": "看到自己划过天空的影子，面对无法前进的现实。不是玩笑或幻想，而是流露出无法前进的不安、无助和虚无感。"
+	    },
+	    "换骨夺胎的方向性": {
+	      "前一首歌": "利用古典传说（桂木、月亮）作为“骨”，通过具体动作（触及桨）赋予“肉”，以幽默的方式呈现。借用幻想世界的形式，重叠于现实的划船游玩。",
+	      "这一首歌": "继承了定型化的自然描写（波浪、天空、桨、影子）作为骨架，将其全部沉浸于主观情感中。叙述者不再是“比喻”，而是持续凝视着“自己的影子”。"
+	    },
+	    "情感基调": {
+	      "前一首歌": "充满发现和机智的趣味，结构的巧妙胜过情感。",
+	      "这一首歌": "通过摇曳的影子和被自己动作摇动的自我形象，表达了无法前进的痛苦、现实与情感的错位以及存在的不确定性等多层次的心理状态。"
+	    },
+	    "总结": "两首歌都通过换骨夺胎而成，但其方向性截然不同。前一首歌将幻想素材融入现实游戏中，轻快地展开。而这一首歌则利用定型化的构图，面对现实的不安，沉浸式地展开。"
+	  }
+	}
       },
       {
         "date": "20250331",
@@ -11657,8 +11741,10 @@
         "koutei-yamagen": "かくいふあひだに夜やうやく明けゆくに、楫取ら、「黒き雲にはかに出できぬ。",
         "translation-ja": "こう言っている間に、夜がようやく明けてきたので、楫取りたちは「黒い雲がにわかに出てきた。",
         "translation-en": "While saying this, the night gradually began to brighten, and the oarsmen said, \"A black cloud has suddenly appeared.\"",
+	"translation-zh": "此般说着之间，夜渐渐亮了起来，于是船夫说：“黑云忽然出来了。",
         "translation-ja-natural": "こう言っているうちに、夜がようやく明けてきたので、楫取りたちは「黒い雲がにわかに出てきたぞ。",
         "translation-en-natural": "While saying this, the night gradually began to brighten, and the oarsmen said, \"A black cloud has suddenly appeared.\"",
+	"translation-zh-natural": "正说着这些的时候，夜色渐渐明亮起来，船夫们说：“乌云突然冒出来了。",
         "notes-ja": {
           "「楫＋戈」": "「楫」は「かじ」とも読まれるが、ここでは「かじ」と読む。",
           "オリジナルの校訂": "かくいふあひだに夜やうやく明けゆくに、※(「楫＋戈」、第3水準1-86-21)取等「黒き雲にはかに出できぬ。"
@@ -11672,8 +11758,10 @@
         "koutei-yamagen": "風も吹きぬべし。",
         "translation-ja": "風も、きっと吹くはずだ。",
         "translation-en": "The wind too will surely blow.",
+	"translation-zh": "风也应该会吹起来。",
         "translation-ja-natural": "風も吹くに違いない。",
-        "translation-en-natural": "The wind must be blowing, huh."
+        "translation-en-natural": "The wind must be blowing, huh.",
+	"translation-zh-natural": "接着肯定会起风。",
       },
       {
         "date": "20250331",
@@ -11683,8 +11771,10 @@
         "koutei-yamagen": "御船返してむ」といひてかへる。",
         "translation-ja": "「お船を返そう」と言って、返る。",
         "translation-en": "Saying, \"We shall turn the ship back,\" they return.",
+	"translation-zh": "把船折返吧”，就回去了。",
         "translation-ja-natural": "「船を返してしまおう」と言って、戻ってきました。",
-        "translation-en-natural": "They said, \"Let's turn the ship back,\" and turned back."
+        "translation-en-natural": "They said, \"Let's turn the ship back,\" and turned back.",
+	"translation-zh-natural": "把船掉头吧”。我们就原路返回了。",
       },
       {
         "date": "20250401",
@@ -11694,8 +11784,10 @@
         "koutei-yamagen": "このあひだに雨ふりぬ。",
         "translation-ja": "この間に雨が降った。",
         "translation-en": "Rain fell during this time.",
+	"translation-zh": "这期间雨了起来。",
         "translation-ja-natural": "この間に雨が降りました。",
-        "translation-en-natural": "It rained during this time."
+        "translation-en-natural": "It rained during this time.",
+	"translation-zh-natural": "在这段时间里下起了雨。",
       },
       {
         "date": "20250401",
@@ -11705,8 +11797,10 @@
         "koutei-yamagen": "いとわびし。",
         "translation-ja": "とてもわびしい。",
         "translation-en": "so miserable.",
+	"translation-zh": "非常凄冷。",
         "translation-ja-natural": "とても情けない。",
-        "translation-en-natural": "It is so miserable."
+        "translation-en-natural": "It is so miserable.",
+	"translation-zh-natural": "真是凄凉。",
       },
       {
         "date": "20250401",
