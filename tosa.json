@@ -5934,15 +5934,49 @@
         "translation-en-natural": "Here is a place without such things."
       },
       {
-        "date": "20250127",
+        "date": [
+          20250127,
+          20250826
+        ],
         "id": 59,
         "text": "求めもおかず。",
         "kana": "もとめもおかず。",
         "koutei-yamagen": "求めもおかず。",
         "translation-ja": "求めてもおかなかった。",
         "translation-en": "We did not seek it in advance.",
-        "translation-ja-natural": "求めてもおきませんでした。",
-        "translation-en-natural": "We didn't buy them in advance."
+        "phrase-gloss": [
+          {
+            "phrase": "求めも",
+            "gloss": "even seeking",
+            "words": [
+              {
+                "word": "求め",
+                "gloss": "request.ADV"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              }
+            ]
+          },
+          {
+            "phrase": "おかず",
+            "gloss": "did not put/prepare",
+            "words": [
+              {
+                "word": "おか",
+                "gloss": "put.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "求めて用意することもしなかった。",
+        "translation-en-natural": "They did not even bother to prepare for it by requesting it."
       },
       {
         "date": "20250128",
