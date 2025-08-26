@@ -11810,8 +11810,10 @@
         "koutei-yamagen": "十八日、なほ、同じところにあり。",
         "translation-ja": "十八日、まだ同じところにいる。",
         "translation-en": "On the eighteenth, we are still in the same place.",
+	"translation-zh": "十八日，仍在同处。",
         "translation-ja-natural": "十八日、まだ同じところにいます。",
-        "translation-en-natural": "On the eighteenth, we are still in the same place."
+        "translation-en-natural": "On the eighteenth, we are still in the same place.",
+	"translation-zh-natural": "到了十八日，我们仍然在同一个地方。"
       },
       {
         "date": "20250401",
@@ -11821,8 +11823,10 @@
         "koutei-yamagen": "海あらければ、船いださず。",
         "translation-ja": "海が荒れているので、船を出さない。",
         "translation-en": "The sea is rough, so no sailing.",
+	"translation-zh": "海况恶劣，因此不出船。",
         "translation-ja-natural": "海が荒れているので、出航できません。",
-        "translation-en-natural": "The sea is rough, so we can't set sail."
+        "translation-en-natural": "The sea is rough, so we can't set sail.",
+	"translation-zh-natural": "海况恶劣，所以我们无法出航。"
       },
       {
         "date": "20250402",
@@ -11832,8 +11836,10 @@
         "koutei-yamagen": "この泊遠く見れども近く見れどもいとおもしろし。",
         "translation-ja": "この港は遠くを見ても近くを見てもとても趣がある。",
         "translation-en": "Whether seen from far or near, this harbor is very charming.",
+	"translation-zh": "此港，即使远看，即使近看，都很有情趣。",
         "translation-ja-natural": "この港の景色は遠くを見ても近くを見ても、とても風情があります。",
-        "translation-en-natural": "The view from this harbor is full of charm, whether looking far or near."
+        "translation-en-natural": "The view from this harbor is full of charm, whether looking far or near.",
+	"translation-zh-natural": "这个港口，无论是远看还是近看，都别有一番风味。",
       },
       {
         "date": "20250402",
@@ -11843,8 +11849,10 @@
         "koutei-yamagen": "かかれども、苦しければ、何事も思ほえず。",
         "translation-ja": "そうであっても、苦しいので、何事も思われない。",
         "translation-en": "Even so, since my distress, nothing comes to mind.",
+	"translation-zh": "即便如此，因为痛苦，什么事也想不了。",
         "translation-ja-natural": "そうではあるけれども、今の状況がつらくて、何も気の利いたことが思い浮かびません。",
         "translation-en-natural": "Even so, since things are so hard right now, nothing comes to mind.",
+	"translation-zh-natural": "即便如此，因为处境艰难，什么东西也想不出来。",
         "notes-ja": {
           "「かかれども」": "「かかれども」は「そうではあるけれども」という意味で、前の文を受けている。",
           "「何事もおもほえず」": "「何事もおもほえず」は「何事も思い浮かばない」という意味で、苦しみのために詩的な発想ができないことを表している。",
@@ -11854,7 +11862,16 @@
             "文法性と時間性の分離": "即時文法では、構文的判断（＝正しいかどうか）は句の内部で完結し、句の時間的連鎖においては意味の継続だけが保持される。これにより、即時文法は発話単位ごとの厳格さと、文全体の柔軟な進行とを両立させている。",
             "非文の禁止": "即時文法は調整文法より柔軟ではあるが、非文を許容するものではない。非文を避け、自然で文法的に成立する句のみが出力されるという前提は崩さない。"
           }
-        }
+        },
+	"notes-zh": {
+	  "「かかれども」": "“かかれども”意为“虽是如此”，承接前文。",
+	  "「何事もおもほえず」": "“何事もおもほえず”意为“什么事也想不起来”，表示因痛苦而无法进行诗意的思考。",
+	  "即時文法研究ノート": {
+	    "句内的语法性": "在即時文法中，句子内部不能是非句。句子是一个瞬间被语法判断的单位，母语者会觉得不自然的结构是不可接受的。",
+	    "句间的关系": "在句子之间，前一个句子已经作为意义表象被听者接受，不会对下一个句子产生语法影响。因此，句子之间的关系可以基于时间和意义的流动灵活构成。",
+	    "语法性与时间性的分离": "在即時文法中，语法判断（即是否正确）在句子内部完成，在句子的时间连锁中只有意义的连续性被保持。这使得即時文法能够兼顾发话单位的严格性和整个句子的灵活进展。",
+	    "非句的禁止": "即時文法虽然比调节文法更灵活，但并不允许非句。非句必须避免，只有自然且语法上成立的句子才能被输出，这一前提不会被破坏。"
+	}
       },
       {
         "date": "20250403",
@@ -11864,8 +11881,10 @@
         "koutei-yamagen": "男どちは心やりにやあらむ、からうたなどいふべし。",
         "translation-ja": "男たちは心やりのためなのだろうか、漢詩などを言っているのだろう。",
         "translation-en": "Perhaps the men are saying Chinese poems as a way to relieve their hearts.",
+	"translation-zh": "男人们是为了散心，吟诵汉诗之类吧。",
         "translation-ja-natural": "男たちは心を慰めるために、漢詩などを吟じているのだろうか。",
-        "translation-en-natural": "Maybe the men are reciting Chinese poems to ease their minds."
+        "translation-en-natural": "Maybe the men are reciting Chinese poems to ease their minds.",
+	"translation-zh-natural": "男人们应该是在吟诵汉诗之类来安慰自己的心情吧。"
       },
       {
         "date": "20250403",
@@ -11875,8 +11894,10 @@
         "koutei-yamagen": "船も出ださで、いたづらなれば、ある人の詠める、",
         "translation-ja": "船も出さず、むなしく過ごしていたので、ある人の詠んだ歌は、",
         "translation-en": "Since the ship was not set out and it was idle time, a certain person's composed poem is:",
+	"translation-zh": "也没出船，出于无所事事，有人咏唱，",,
         "translation-ja-natural": "船も出せず、何もすることがないので、ある人が詠んだその歌は、",
-        "translation-en-natural": "Since the ship is still unable to set sail and there is nothing to do, a poem that a certain person composed is..."
+        "translation-en-natural": "Since the ship is still unable to set sail and there is nothing to do, a poem that a certain person composed is...",
+	"translation-zh-natural": "也没有出船，出于没事可做，有人作了这样一首歌，"
       },
       {
         "date": "20250403",
@@ -11886,8 +11907,10 @@
         "koutei-yamagen": "いそぶりの寄する磯には年月をいつとも分かぬ雪のみぞふる",
         "translation-ja": "荒波の寄せる磯には、年月をいつとも分からぬ雪だけが降っている。",
         "translation-en": "On the shore where the waves strike, only snow falls, not knowing when in months or years.",
+	"translation-zh": "拍打在礁石的大浪的/拍打的礁石上/年月/不知何时的/雪下着",
         "translation-ja-natural": "荒波の寄せる磯には、年月をいつとも分からない雪ばかりが降っています。",
-        "translation-en-natural": "On the rocky shore where the waves crash, snow falls without distinguishing the years and months."
+        "translation-en-natural": "On the rocky shore where the waves crash, snow falls without distinguishing the years and months.",
+	"translation-zh-natural": "在大浪拍打着礁石的海岸上，不知何时年月的雪落着"
       },
       {
         "date": "20250403",
@@ -11897,8 +11920,10 @@
         "koutei-yamagen": "この歌は常にせぬ人のごとなり。",
         "translation-ja": "この歌は、ふだん歌を詠まない人のことばだ。",
         "translation-en": "This poem is the word of a person who does not usually compose poetry.",
+	"translation-zh": "此歌是平时不作（歌）之人的话。",
         "translation-ja-natural": "この歌は、普段は歌を詠まない人の歌です。",
-        "translation-en-natural": "This poem is from a person who usually does not compose poetry."
+        "translation-en-natural": "This poem is from a person who usually does not compose poetry.",
+	"translation-zh-natural": "这首歌是平时不作和歌之人的作品。"
       },
       {
         "date": "20250404",
@@ -11908,8 +11933,10 @@
         "koutei-yamagen": "又人のよめる、",
         "translation-ja": "また、別の人が詠んだ歌は、",
         "translation-en": "Also, another person composed a poem, which is:",
+	"translation-zh": "另外（有）人又咏唱了（一首），",
         "translation-ja-natural": "また、別の人が詠んだ歌は、",
-        "translation-en-natural": "Also, another person composed a poem, which is..."
+        "translation-en-natural": "Also, another person composed a poem, which is...",
+	"translation-zh-natural": "另外，又有人作了这样一首歌，"
       },
       {
         "date": "20250404",
@@ -11918,8 +11945,10 @@
         "kana": "かぜによる/なみのいそには/うぐひすも/はるもえしらぬ/はなのみぞさく",
         "koutei-yamagen": "風による浪のいそにはうぐひすも春もえしらぬ花のみぞ咲く",
         "translation-en": "On the shore of waves by the wind, only flowers bloom that neither the warbler nor spring knows.",
+	"translation-zh": "随风的/浪（拍打）的礁石上/莺也/春也不知的/花只是开着",
         "translation-ja-natural": "風によって波の寄せる磯には、鶯も春も知らない花ばかりが咲いています。",
         "translation-en-natural": "On the shore where the wind blows and the waves rise, only flowers bloom that neither the warbler nor spring knows.",
+	"translation-zh-natural": "波浪随风拍打的礁石上，只开着不知道莺、也不知道春天的花。",
         "notes-ja": {
           "即時文法と調整文法の役割の違い": "即時文法は、状況や背景が共有されており、発話の瞬間に意味が直感的に理解されるような文に適用される。一方、調整文法は、状況が通常と異なる、または因果関係や例外を説明する必要があるときに使われ、意味関係を論理的に整理して伝える役割を担う。",
           "即時文法における省略の許容": "『waves by the wind』のような表現は、風による波という関係が文脈から明白であるため、'blown' や 'caused' といった語を補わずとも意味が伝わる。この省略は、発話の即時性・軽快さを優先する即時文法の特徴である。",
@@ -11951,7 +11980,22 @@
             "When to Use Plural": "Use the plural form 'birds' when the poem clearly describes multiple birds in action or emphasizes their collective presence (e.g., a flock taking flight or birds singing together).",
             "Difference from Fish/Sheep": "'Fish' and 'sheep' are often treated as collective or mass nouns in English, and singular form covers the plural meaning. 'Bird', by contrast, is usually pluralized due to its perceived individuality. However, poetic usage permits symbolic singular forms."
           }
-        }
+        },
+	"notes-zh": {
+	  "即時文法と調整文法の役割の違い": "即時文法适用于情境和背景已被共享，发话瞬间意义能被直观理解的句子。而调节文法则在情境异常或需要解释因果关系时使用，承担通过逻辑结构传达意义的角色。",
+	  "即時文法における省略の許容": "像“waves by the wind”这样的表达在即時文法中是可以接受的，因为风与波的因果关系从语境中显而易见。无需明确添加“blown”或“caused”等动词，表达依然清晰流畅。",
+	  "調整文法における補完の必要性": "在调节文法中，需要像“waves blown by the wind”这样明确指出因果关系或行为主体，以确保清晰和语法完整性，特别是在需要物理或逻辑解释的情况下。",
+	  "物理現象と調整文法の関係": "描述风、雪等自然现象时，简单观察可用即時文法。但当解释原因或机制（如“由于冷锋降雪”）时，则需用调节文法以传达精确信息。",
+	  "即時文法における理解の前提": "即時文法的成立依赖于说话者与听者之间一定程度的情境共享。例如，在风和波可见的情况下，仅说“waves by the wind”即可实现相互理解。",
+	  "調整文法における構文の完成性": "调节文法避免省略，偏好语法完整性。“waves by the wind”被视为结构不完整，需要用“waves blown by the wind”等分词结构或关系从句来完成语法。",
+	  "即時文法における自然性と言いやすさ": "即時文法重视句子的简短、易说和节奏感。“waves by the wind”是其典型例子，作为自然流畅的发话成立。",
+	  "調整文法への切り替えの条件": "当说话者想解释因果关系、听者不了解情境，或需引起对异常现象的注意时，需从即時文法自动切换到调节文法，以满足解释性和明确性的需求。",
+	  "和歌における鳥の英訳の単複判断": {
+	    "基本原則": "在英语中，'bird'通常强调个体性和视觉多样性，基本使用复数形式'birds'。但在和歌中，'uguisu'（莺）、'tsuru'（鹤）、'hototogisu'（杜鹃）等常作为季节或情感的象征出现。",
+	    "詩的訳出の指針": "翻译和歌时，如果鸟是象征性使用，建议用单数加定冠词，如'the warbler'、'the crane'，以表达其作为整体或诗意存在的角色。",
+	    "複数形を使う場合": "当明确描写多只鸟的行为（如飞翔、鸣叫）且强调其集体存在时，使用复数形式'birds'更为合适。",
+	    "fish / sheep との違い": "'fish'和'sheep'在英语中常作为群体名词处理，单复同形。而'bird'因其个体差异和种类差异较强，通常使用复数形式。但在诗意或象征性语境中，单数形式也能有效发挥作用。"
+	}
       },
       {
         "date": "20250405",
@@ -11961,11 +12005,16 @@
         "koutei-yamagen": "この歌どもを、少しよろしと聞きて、船の長しける翁、月日頃の苦しき心やりに詠める、",
         "translation-ja": "この歌どもを、少しよろしと聞いて、船をおさめていた翁が、月頃の苦しき心の晴らしに詠んだ歌は、",
         "translation-en": "Hearing that these songs were somewhat good, the old man who had been commanding the ship composed this poem to ease his painful feelings of about a month, which is...",
+	"translation-zh": "听闻此歌等稍好，曾管船的老翁，为排解一个月来的苦闷，吟咏道，",
         "translation-ja-natural": "この歌が少しはましだろうと聞いて、船の長をしていたおじいさんが、この一ヶ月のつらさをまぎらわせるために詠んだ歌は、",
         "translation-en-natural": "Hearing that these songs were rather decent, the old man who had been in charge of the ship composed this poem to soothe the pain he'd been feeling for about a month, which is...",
+	"translation-zh-natural": "听说（有人评价）这些歌不错，曾经掌管船只的老翁，为了排解一个月来的苦闷，作了这样一首歌，",
         "notes-ja": {
           "この歌どもを少しよろしと聞きて": "ここで語り手は、誰かが前に詠まれた和歌を「少しよろし」と評したことに触れている。この評価を聞いた船長（船のをさしける翁）は、それをきっかけに、自分もと歌を詠んだ。"
-        }
+        },
+	"notes-zh": {
+	  "この歌どもを少しよろしと聞きて": "这里的叙述者提到，有人评价之前所作的和歌“稍好”。这评价被船长（船のをさしける翁）听到，促使他也作了一首歌。"
+	}
       },
       {
         "date": "20250406",
@@ -11975,8 +12024,10 @@
         "koutei-yamagen": "立つなみを雪か花かと吹く風ぞよせつつ人をはかるべらなる",
         "translation-ja": "立つ波を、雪か花かと、吹く風が寄せて、人をだましているらしい。",
         "translation-en": "The wind, blowing waves toward us, makes them seem like snow or flowers, and appears to deceive people.",
+	"translation-zh": "升起的波浪/雪还是花？/吹拂的风/一边聚集着，一边把人/欺骗似的",
         "translation-ja-natural": "立つ波を、雪か花かと吹く風が寄せて、人を惑わせるようだ。",
-        "translation-en-natural": "The rising waves and the blowing wind make one wonder if it is snow or flowers, as they seem to deceive people."
+        "translation-en-natural": "The rising waves and the blowing wind make one wonder if it is snow or flowers, as they seem to deceive people.",
+	"translation-zh-natural": "吹拂的风聚集着升起的波浪，似乎是为了让人分不清是雪还是花。"
       },
       {
         "date": "20250406",
@@ -11986,8 +12037,10 @@
         "koutei-yamagen": "この歌どもを人の何かといふを、ある人の又聞きふけりて詠める。",
         "translation-ja": "この歌どもを、人が何かと言うのを、ある人がまた聞き入って詠んだ。",
         "translation-en": "These poems, being spoken of as something or other by people, were heard again attentively by a certain person, who then composed a poem.",
+	"translation-zh": "这些歌们，人说着什么的，（对此）有人又听了进去，吟咏了。",
         "translation-ja-natural": "この歌について人があれこれ言っているのを、ある人がまた聞き込んで、歌を詠みまして。",
-        "translation-en-natural": "Hearing people say various things about these poems, someone listened again and composed a poem in response."
+        "translation-en-natural": "Hearing people say various things about these poems, someone listened again and composed a poem in response.",
+	"translation-zh-natural": "听说有人对这些歌有各种各样的评价，又有人仔细听了进去，作了一首和歌。"
       },
       {
         "date": "20250406",
@@ -11997,8 +12050,10 @@
         "koutei-yamagen": "その歌よめるもじ三十文字あまり七文字、人皆えあらで笑ふやうなり。",
         "translation-ja": "その歌は詠んだ文字が三十文字あまり七文字で、人々はみな笑わないではいられないようだ。",
         "translation-en": "That poem, having thirty-seven characters, thirty plus seven more, seems to make everyone unable to refrain from laughing.",
+	"translation-zh": "那歌，所咏的文字三十余七字，人都似乎都忍不住笑了。",
         "translation-ja-natural": "その歌は、詠んだ文字が三十七文字の字あまりで、人々はみな笑わずにはいられないようでした。",
-        "translation-en-natural": "The poem has thirty-seven characters in all, and everyone seems unable to help but laugh."
+        "translation-en-natural": "The poem has thirty-seven characters in all, and everyone seems unable to help but laugh.",
+	"translation-zh-natural": "那首歌总共有三十七个字，大家似乎都忍不住笑了。"
       },
       {
         "date": "20250407",
@@ -12008,8 +12063,10 @@
         "koutei-yamagen": "歌ぬし、いと氣色あしくて怨ず。",
         "translation-ja": "歌の詠み手は、とても不機嫌になって、不満を漏らす。",
         "translation-en": "The poet, visibly upset, begins to grumble.",
+	"translation-zh": "和歌的作者，很不高兴地怨道。",
         "translation-ja-natural": "歌の詠み手は、すっかり不機嫌になって、つい不満を口にしてしまう。",
-        "translation-en-natural": "The poet gets visibly upset and can't help but grumble."
+        "translation-en-natural": "The poet gets visibly upset and can't help but grumble.",
+	"translation-zh-natural": "这首和歌的作者很不高兴，抱怨道："
       },
       {
         "date": "20250407",
@@ -12019,14 +12076,19 @@
         "koutei-yamagen": "まねべどもえまねばず。",
         "translation-ja": "真似しようとしても、真似できない。",
         "translation-en": "Even if I try to imitate, I cannot.",
+	"translation-zh": "虽然模仿了，没能模仿。",
         "translation-ja-natural": "真似しようとしても、真似できません。",
-        "translation-en-natural": "Even if I try to imitate, I cannot.",
+        "translation-en-natural": "Even if I try to imitate, I cannot.",,
+	"translation-zh-natural": "虽然想模仿，但就是模仿不了。",
         "notes-ja": {
           "まねべどもえまねばず": "この発言は、前に詠まれた二首、語り手が自分ではとても真似できないと感じたことを示す。船旅が難航しているので、気の効いた歌を詠むことができないという意味である。"
         },
         "notes-en": {
           "manebedomo emane bazu": "This remark reflects the narrator's feeling that he cannot imitate the two previously composed poems. Due to the hardships of the sea voyage, he finds himself unable to produce a clever or refined poem."
-        }
+        },
+	"notes-zh": {
+	  "まねべどもえまねばず": "这句话反映了叙述者觉得自己无法模仿之前所作的两首歌。由于海上旅程的艰难，他发现自己无法作出巧妙或精致的和歌。"
+	}
       },
       {
         "date": "20250407",
@@ -12036,8 +12098,10 @@
         "koutei-yamagen": "書けりともえ讀みあへがたかるべし。",
         "translation-ja": "書けたとしても、読んで理解できそうもないだろう。",
         "translation-en": "Even if it is written, it would likely be hard to read through it.",
+	"translation-zh": "就算写了，也应该是难读的吧。",
         "translation-ja-natural": "たとえ書き取れたとしても、とてもじゃないけど読んでわかるというものではないでしょう。",
         "translation-en-natural": "Even if someone managed to write it down, there's no way anyone could really read and make sense of it.",
+	"translation-zh-natural": "就算有人写下来了，也绝对不是能读懂的东西。",
         "notes-ja": {
           "読みあへがたし／読みすへがたし": "写本によって異同があり、『読みあへがたし』は通読困難を、『読みすへがたし』は据ゑて読む困難を意味するが、後者は本来『読みすゑがたし』と表記すべきである。",
           "書けりとも": "『書けり』は完了を表す助動詞『り』の形で、形式上は過去ではなく成立を示す。文脈によって可能の達成を含意することがあり、『書けた』とも訳し得る。",
@@ -12059,7 +12123,17 @@
           "imperative-like perfective and 'ta'": "In expressions like 'Saa, kaetta, kaetta', the 'ta' form is used not as a past tense but to prompt action by asserting completion, functioning rhetorically like an imperative.",
           "perfective vs past: the role of 'mou'": "The adverb 'mou' helps distinguish perfective from past: 'mou + ta' often signals perfective (e.g. present result), while it sounds unnatural with clearly past temporal contexts.",
           "kakeri tomo, e yomi ahe zu": "This sentence uses the perfective 'kakeri' to indicate that something was written, but adds that even so, it cannot be easily read. Translating as 'even if it was written' or 'even if it had been written' captures both the completion and the difficulty in comprehension."
-        }
+        },
+	"notes-zh": {
+	  "yomi-ahe-gatashi / yomi-sue-gatashi": "这里有手稿的差异。'yomi-ahe-gatashi' 意为“难以通读”，而 'yomi-sue-gatashi' 则暗示难以专心阅读，应正确写作 'yomi-sue-gatashi'，源自动词 'sueru'（放置）。",
+	  "kakeri tomo": "'Kakeri' 是使用助动词 'ri' 的完了形，表示一个动作已经完成。虽然不是可能形，但在语境中可能暗示成功实现，因此翻译为“能够写”是可能的。",
+	  "even if it was written": "当强调成功完成时，翻译为“能够写”自然传达了努力和成就感。“写了”并不是唯一有效的翻译。",
+	  "relation between perfective and possibility": "完了体显示一个动作已经完成，这暗示它是可能的。因此，完了形通常带有实现可能性的语用意义。",
+	  "perfective, possibility, and conditionals": "完了体暗示潜力的实现，不允许直接否定。可能形的否定用未然形 + 'zu' 表达，而假设性的完了体用已然形 + 'ba' 结构。",
+	  "non-past perfective and 'ta'": "日语的 'ta' 形式，虽然标记为过去时，但也在现在或将来语境中表达完了意义。没有单独的非过去完了形；'ta' 根据语境灵活运作。",
+	  "imperative-like perfective and 'ta'": "在像 'Saa, kaetta, kaetta'这样的表达中，'ta' 形式不是作为过去时使用，而是通过断言完成来促进行动，修辞上类似于命令式。",
+	  "perfective vs past: the role of 'mou'": "副词 'mou' 有助于区分完了体和过去时：'mou + ta' 通常表示完了体（例如现在结果），而在明确的过去时间语境中听起来不自然。",
+	  "kakeri tomo, e yomi ahe zu": "这句话使用完了形 'kakeri' 表示某事已被写下，但补充说即使如此，也不能轻易阅读。翻译为“即使写了”或“即使已经写了”捕捉了完成和理解困难的双重含义。"
       },
       {
         "date": "20250408",
@@ -12069,8 +12143,10 @@
         "koutei-yamagen": "今日だにいひ難し。",
         "translation-ja": "今日であっても言いにくい。",
         "translation-en": "Even today, it is hard to say.",
+	"translation-zh": "即使是今天，也难说。",
         "translation-ja-natural": "今日で聞いたばかりでも簡単に言えるものではありません。",
-        "translation-en-natural": "Even though we just heard it today, it's not something one can easily say aloud."
+        "translation-en-natural": "Even though we just heard it today, it's not something one can easily say aloud.",
+	"translation-zh-natural": "即使是今天刚听说的，也不是能轻易说出口的事。"
       },
       {
         "date": "20250408",
@@ -12080,8 +12156,10 @@
         "koutei-yamagen": "まして後にはいかならむ。",
         "translation-ja": "まして、後にはどうなるのか。",
         "translation-en": "Even more so...what will it be like afterward?",
+	"translation-zh": "更何况，之后会怎样呢？",
         "translation-ja-natural": "まして、後にはどうなるのでしょうか。",
-        "translation-en-natural": "Even more so...what will it be like later, I wonder."
+        "translation-en-natural": "Even more so...what will it be like later, I wonder.",
+	"translation-zh-natural": "更何况是之后听说的。之后的话会怎样呢？"
       },
       {
         "date": "20250408",
