@@ -12169,8 +12169,10 @@
         "koutei-yamagen": "十九日、日あしければ、船いださず。",
         "translation-ja": "十九日、天気が悪いので、船を出さない。",
         "translation-en": "On the nineteenth, the weather is bad, so we do not set sail.",
+	"translation-zh": "十九日，天气不好，因此没出船。",
         "translation-ja-natural": "十九日は天気が悪くて、船が出せませんでした。",
-        "translation-en-natural": "On the nineteenth, the weather was bad, so we couldn't set sail."
+        "translation-en-natural": "On the nineteenth, the weather was bad, so we couldn't set sail.",
+	"translation-zh-natural": "十九日，因为天气不好，所以没能出船。"
       },
       {
         "date": "20250408",
@@ -12180,8 +12182,10 @@
         "koutei-yamagen": "二十日、昨日のやうなれば船いださず、皆人々憂へ歎く。",
         "translation-ja": "二十日、昨日のようであるので船を出さず、皆人々、心配して嘆く。",
         "translation-en": "On the twentieth, since it is like yesterday, we do not set sail, and everyone worries and laments.",
+	"translation-zh": "二十日，与昨日一样，因此没出船，所有人们忧心忡忡，叹息着。",
         "translation-ja-natural": "二十日は昨日のようだったので船を出さず、皆が心配して嘆いていました。",
-        "translation-en-natural": "On the twentieth, the weather was like the day before, so we didn't set sail, and everyone was worried and lamenting."
+        "translation-en-natural": "On the twentieth, the weather was like the day before, so we didn't set sail, and everyone was worried and lamenting.",
+	"translation-zh-natural": "二十日，天气和昨天一样，所以也没能出船，大家都忧心忡忡，叹息着。"
       },
       {
         "date": "20250408",
@@ -12191,8 +12195,10 @@
         "koutei-yamagen": "苦しく心もとなければ、ただ、日の経ぬる数を、今日いくか、二十日、三十日とかぞふれば、指もそこなはれぬべし。",
         "translation-ja": "苦しくて心もとないので、ただ、日の経ぬる数を、今日いくか、二十日、三十日と数えると、指もそこなわれてしまうだろう。",
         "translation-en": "Because it is painful and anxious, they just count the number of days that have passed: today, how many days? the twentieth, the thirtieth—and if they do so, even their fingers may become damaged.",
+	"translation-zh": "痛苦、焦虑，因此只是数着太阳经过的次数：今天第几日？二十日、三十日。这样下去，手指也可能会受损吧。",
         "translation-ja-natural": "苦しくてなかなか心安らかに過ごせず、ただ過ぎた日を、今日で何日、二十日目、三十日目と指折り数えるうちに、指まで折ってしまったようです。",
         "translation-en-natural": "It was so painful and uneasy that, just by counting the days...today, the twentieth, the thirtieth...on their fingers, they seemed to have ended up almost breaking them.",
+	"translation-zh-natural": "因为痛苦和焦虑，我只是数着过了多少天...今天第几天？第二十天、第三十日天...要是这样数下去，连手指都会数断了吧。",
         "notes-ja": {
           "およびもそこなはれぬべし": {
             "content": "「指折り数える」ことに「そこなふ（損なう／傷める）」という表現を組み合わせることで、現実には起こりえないような比喩的な怪我を述べている。これは、貫之特有の軽妙なユーモアであり、過ぎた日々を数えることしかできない無力感を、あえて滑稽な表現で包み込んでいると解釈できる。",
@@ -12214,7 +12220,18 @@
               "narrator's charm"
             ]
           }
-        }
+        },
+	"notes-zh": {
+	  "およびもそこなはれぬべし": {
+	    "content": "这是贯之特有的幽默夸张。仅仅数日子就伤到手指的想法是不现实的，但它表达了日子流逝的徒劳感。这种讽刺幽默增添了叙述者的魅力，使旅途的阴郁更易引起共鸣。",
+	    "type": "humor",
+	    "tags": [
+	      "joke",
+	      "metaphor",
+	      "narrator's charm"
+	    ]
+	  }
+	}
       },
       {
         "date": "20250409",
@@ -12224,8 +12241,10 @@
         "koutei-yamagen": "いとわびし。",
         "translation-ja": "とても寂しい。",
         "translation-en": "Very lonely.",
+	"translation-zh": "非常寂寥。",
         "translation-ja-natural": "とても寂しいです。",
-        "translation-en-natural": "It is very lonely."
+        "translation-en-natural": "It is very lonely.",
+	"translation-zh-natural": "多么惆怅。"
       },
       {
         "date": "20250410",
@@ -12235,8 +12254,10 @@
         "koutei-yamagen": "夜はいも寝ず。",
         "translation-ja": "夜は寝ても寝られない。",
         "translation-en": "At night, I cannot sleep.",
+	"translation-zh": "晚上睡也睡不着。",
         "translation-ja-natural": "夜は寝ても寝られません。",
-        "translation-en-natural": "At night, I cannot sleep."
+        "translation-en-natural": "At night, I cannot sleep.",
+	"translation-zh-natural": "夜不能寐。"
       },
       {
         "date": "20250410",
@@ -12246,8 +12267,10 @@
         "koutei-yamagen": "二十日の夜の月出でにけり。",
         "translation-ja": "二十日の夜の月が出た。",
         "translation-en": "The moon rose on the night of the twentieth.",
+	"translation-zh": "二十日的夜晚的月亮出来了。",
         "translation-ja-natural": "二十日の夜に月が出ました。",
-        "translation-en-natural": "The moon rose on the night of the twentieth."
+        "translation-en-natural": "The moon rose on the night of the twentieth.",
+	"translation-zh-natural": "二十日的夜晚的月亮出来了。"
       },
       {
         "date": "20250410",
@@ -12257,8 +12280,10 @@
         "koutei-yamagen": "山のはもなくて海の中よりぞ出でくる。",
         "translation-ja": "山の端もなくて、海の中から出てくる。",
         "translation-en": "There are no mountain peaks, and it rises from the sea.",
+	"translation-zh": "没有山的边际，自海中升起。",
         "translation-ja-natural": "山の端も見えず、まるで海の中から昇ってくるようです。",
-        "translation-en-natural": "With no mountain ridge in sight, it rises as if from the sea itself."
+        "translation-en-natural": "With no mountain ridge in sight, it rises as if from the sea itself.",
+	"translation-zh-natural": "月亮不是从山的边际，而是从海中升起。"
       },
       {
         "date": "20250411",
@@ -12268,8 +12293,10 @@
         "koutei-yamagen": "かうやうなるを見てや、むかし安倍仲麻呂といひける人は、もろこしに渡りて帰りきける時に、船に乗るべきところにて、かの国人、馬の餞し、わかれ惜しみて、かしこのからうた作りなどしける。",
         "translation-ja": "このようなことを見て、昔、安倍の仲麻呂という人は、唐に渡って帰ってきたとき、船に乗るべき所で、かの国の人々が餞別をし、別れを惜しんで、そこで漢詩を作ったりした。",
         "translation-en": "Seeing such a thing, long ago, a man called Abe no Nakamaro, who had crossed over to China, when he was returning, at the place where he was to board the ship, the people of that country held a farewell and, regretting their parting, composed Chinese poems there.",
+	"translation-zh": "见此般，过去叫作安倍仲麻呂之人，在渡唐土归来之时，于应登船之处，那国的人，行马饯惜别，作了那里的唐诗等。",
         "translation-ja-natural": "こうした場面を見て、昔、安倍仲麻呂という人が唐からの帰国の際、船に乗ろうとした港で、現地の人々が餞別をして、別れを惜しみ、そこで漢詩を作ったという話を思い出したのです。",
-        "translation-en-natural": "Seeing a scene like this, it reminded them of the story of Abe no Nakamaro long ago...when he was returning from China, the locals saw him off at the port where he was to board the ship, regretting the parting and composing farewell poems in Chinese."
+        "translation-en-natural": "Seeing a scene like this, it reminded them of the story of Abe no Nakamaro long ago...when he was returning from China, the locals saw him off at the port where he was to board the ship, regretting the parting and composing farewell poems in Chinese.",
+	"translation-zh-natural": "见到此情此景，（让人想起了）过去名叫安倍仲麻呂之人。在他渡唐归来时，当地的人在他登船的港口为他行了马饯的仪式，依依惜别，他们作了那里的唐诗。"
       },
       {
         "date": "20250411",
@@ -12279,7 +12306,10 @@
         "koutei-yamagen": "あかずやありけむ、二十日の夜の月出づるまでぞありける。",
         "translation-ja": "飽き足りなかったのであろう、二十日の夜の月が出るまでいた。",
         "translation-en": "Perhaps they were not satisfied, for they remained until the moon rose on the night of the twentieth.",
+	"translation-zh": "由于没满足吧，留到了二十日的夜晚的月亮出来为止。",
         "translation-ja-natural": "名残惜しかったのでしょうか。二十日の夜、月が昇るまでずっと皆はそこにいたのです。",
+	"translation-en-natural": "Perhaps they were reluctant to part, for everyone stayed there until the moon rose on the night of the twentieth.",
+	"translation-zh-natural": "或许是因为意犹未尽吧，大家留在那里，直到二十日的夜晚的月亮升起。",
         "notes-ja": {
           "阿倍仲麻呂の挿話": {
             "content": "貫之は、自分たちの送別の場面に重ねて、阿倍仲麻呂の唐での送別の逸話を引く。仲麻呂が和語で詠んだ歌を漢字だけで綴ったところ、唐人に理解されて賞賛されたという話だが、その文脈を受けて、ある人（おそらく貫之自身）は、三笠山ではなく目の前の海から出て海に入る月を詠む。この和歌は、過去と現在、空と海、日本と異国をつなぐ鏡のような構造を持つ。",
@@ -12327,7 +12357,31 @@
               "historical contrast"
             ]
           }
-        }
+        },
+	"notes-zh": {
+	  "阿倍仲麻呂的插话": {
+	    "content": "贯之回忆起阿倍仲麻呂在唐国被送别的故事。仲麻呂用日语作了一首和歌，当他用汉字抄写时，唐人能够理解并赞赏它。受此启发，“某人”——很可能是贯之自己——创作了一首和歌，不是关于三笠山，而是关于从海中升起和落下的月亮，将情感锚定在当前的旅程中。这一场景反映了跨越时间、地理和语言的诗意对话。",
+	    "type": "literary-reflection",
+	    "tags": [
+	      "allusion",
+	      "retrospective",
+	      "contrast",
+	      "self-projection",
+	      "poetic response"
+	    ]
+	  },
+	  "与阿倍仲麻呂的比较": {
+	    "content": "虽然情境类似于阿倍仲麻呂——在异国被送别并作诗——但氛围上有明显对比。贯之（“某人”）的和歌缺乏仲麻呂离开唐国时的英雄紧张感，而是静静地将个人情感层叠在海上升起和落下的月亮上。它反映的不是文化展示，而是基于日常离别的温柔敏感性。有两个对比尤为突出：（1）在仲麻呂的情况下，中国宾客在月亮升起时结束了宴会，但在贯之的情况下，送别聚会一直持续到黎明。（2）即使没有共同语言，仲麻呂的和歌也受到赞赏，而在贯之的插曲中，宴会的社交活力优先于诗本身。这些差异突显了传奇历史事件与单个旅行者生活经历之间的对比。",
+	    "type": "literary-contrast",
+	    "tags": [
+	      "comparison",
+	      "waka",
+	      "farewell",
+	      "tone shift",
+	      "historical contrast"
+	    ]
+	  }
+	}
       },
       {
         "date": "20250412",
@@ -12337,8 +12391,10 @@
         "koutei-yamagen": "その月は海よりぞ出でける。",
         "translation-ja": "その月は海から出た。",
         "translation-en": "That moon rose from the sea.",
+	"translation-zh": "那月亮是从海中升起的。",
         "translation-ja-natural": "その月は海から昇ってきました。",
-        "translation-en-natural": "That moon rose from the sea."
+        "translation-en-natural": "That moon rose from the sea.",
+	"translation-zh-natural": "那诗中的月亮是从海里升起的。"
       },
       {
         "date": "20250412",
@@ -12348,8 +12404,10 @@
         "koutei-yamagen": "これを見てぞ仲麻呂のぬし「我が国にはかゝる歌をなむ神代より神もよんたび、今は上中下の人もかうやうに別れ惜しみ、よろこびもあり、かなしみもある時には詠む」とてよめりける歌、",
         "translation-ja": "これを見て仲麻呂の主は「我が国にはこのような歌を神代より神も詠み、今は上中下の人もこのように別れ惜しみ、喜びもあり、悲しみもある時には詠む」と言って詠んだ歌は、",
         "translation-en": "Seeing this, Nakamaro's lord said, 'In our country, such songs have been sung since the age of the gods, and now all people, high and low, sing them in times of parting, joy, and sorrow.' He then recited a poem:",
+	"translation-zh": "见此，仲麻吕大人想着，“在我国，这样的歌，自神话时代，神也曾吟诵过。现在，上中下层的人也这样，惜别、亦有喜、亦有悲时吟诵。”，吟诵了和歌：",
         "translation-ja-natural": "これを見て仲麻呂の主は「我が国ではこのような歌を神代より神も詠み、今は上中下の人々もこのように別れを惜しみ、喜びや悲しみの時には詠む」と言って詠んだ歌は、",
-        "translation-en-natural": "Seeing this, Nakamaro's lord said, 'In our country, such songs have been sung since the age of the gods, and now all people, high and low, sing them in times of parting, joy, and sorrow.' He then recited a poem:"
+        "translation-en-natural": "Seeing this, Nakamaro's lord said, 'In our country, such songs have been sung since the age of the gods, and now all people, high and low, sing them in times of parting, joy, and sorrow.' He then recited a poem:",
+	"translation-zh-natural": "见到此情此景，仲麻吕想着，“在我国，这样的歌，自神话时代，神也曾吟诵过。现在，上中下层的人们也这样，惜别、亦有喜、亦有悲时吟诵。”，吟诵了和歌："
       },
       {
         "date": "20250412",
@@ -12359,8 +12417,10 @@
         "koutei-yamagen": "青海原/ふりさけ見れば/春日なる/三笠の山に/出でし月かも",
         "translation-ja": "青い海原を振り返ってみると、春日にある三笠山に出たのと同じ月なのだ。",
         "translation-en": "Looking back at the blue sea, the moon that rose over Mount Mikasa in Kasuga is the same moon that has now risen here.",
+	"translation-zh": "蓝色的大海/回望/春日的/三笠山/升起的月亮哉",
         "translation-ja-natural": "青い海原を振り返ってみると、春日にある三笠山に出たのと同じ月が昇っているのですね。",
-        "translation-en-natural": "Looking back at the blue sea, the same moon that rose over Mount Mikasa in Kasuga is now rising here."
+        "translation-en-natural": "Looking back at the blue sea, the same moon that rose over Mount Mikasa in Kasuga is now rising here.",
+	"translation-zh-natural": "回望那蓝色的大海，看到的是，（与我故乡的）春日三笠山上升起的同一轮月亮啊。"
       },
       {
         "date": "20250412",
@@ -12370,7 +12430,10 @@
         "koutei-yamagen": "とぞよめりける。",
         "translation-ja": "と詠んだ。",
         "translation-en": "So he recited.",
-        "translation-ja-natural": "と詠みました。"
+	"translation-zh": "吟诵了。",
+        "translation-ja-natural": "と詠みました。",
+	"translation-en-natural": "So he recited.",
+	"translation-zh-natural": "是这么吟诵的。"
       },
       {
         "date": "20250412",
@@ -12380,8 +12443,10 @@
         "koutei-yamagen": "かの国の人聞き知るまじくおもほえたれども、ことの心を男文字にさまを書き出して、ここの詞伝へたる人にいひ知らせければ、心をや聞き得たりけむ、いと思ひの外になむめでける。",
         "translation-ja": "その国の人には、わかるまいと思えたのだが、ことの心を男文字で様子を書き出して、ここの言葉を伝えていた人に言い知らせたところ、心を聞き得たのだろうか、思いのほかにとても賞賛したのだった。",
         "translation-en": "It seemed they would not understand it, but the essence of the poem was transcribed in Chinese characters and explained to someone who had conveyed the words here. Perhaps they grasped its meaning—for to my great surprise, they praised it most highly.",
+	"translation-zh": "虽然想着那国的人应该听不懂吧，把语言的要义，用男人的文字写出样子，告知了通晓这里的话的人，于是，或许听懂要义了吧，很意外地赞赏了（这首和歌）。",
         "translation-ja-natural": "相手の国の人には意味は通じないだろうと思っていたのですが、和歌の趣旨を漢字で書き表して、この地のことばで伝えられる人に頼んでみたところ、なんと、気持ちが通じたのか、思いがけないほど賞賛されたのです。",
-        "translation-en-natural": "I thought the people of that country wouldn't understand the meaning, but when I wrote out the intent of the poem in Chinese characters and had someone familiar with the language convey it, they somehow seemed to grasp it...and to my surprise, they praised it most warmly."
+        "translation-en-natural": "I thought the people of that country wouldn't understand the meaning, but when I wrote out the intent of the poem in Chinese characters and had someone familiar with the language convey it, they somehow seemed to grasp it...and to my surprise, they praised it most warmly.",
+	"translation-zh-natural": "虽然想着那国的人应该听不懂吧，但把和歌的心意用汉字写出来，请通晓这里话语的人传达给他们后，没想到他们似乎理解了，并出乎意料地赞赏了这首和歌。"
       },
       {
         "date": "20250412",
@@ -12391,8 +12456,10 @@
         "koutei-yamagen": "もろこしとこの國とは言異なるものなれど、月の影は同じことなるべければ人の心も同じことにやあらむ。",
         "translation-ja": "唐とこの国とは言葉は異なるものだが、月の影は同じことなので、人の心も同じことなのだろうか。",
         "translation-en": "Though the language of China and this country is different, the moon's shadow is the same, so perhaps human hearts are the same as well.",
+	"translation-zh": "唐土与此国，语言虽是不同之物，月光应是相同之物，因此人的心也是相同之物吧。",
         "translation-ja-natural": "唐とこの国とは言葉は異なるものですが、月の影は同じですから、人の心も同じことなのでしょうか。",
         "translation-en-natural": "Though the language of China and this country is different, the moon's shadow is the same, so perhaps human hearts are the same as well.",
+	"translation-zh-natural": "唐国与这个国家，语言虽然不同，但月光是相同的，所以人的心也是相同的吧。",
         "notes-ja": {
           "校訂のオリジナル": "もろこしとこの國とはこと（ばイ有）ことなるものなれど、月の影は同じことなるべければ人の心も同じことにやあらむ。"
         }
@@ -12405,8 +12472,10 @@
         "koutei-yamagen": "さて今、そのかみを思ひやりて、ある人の詠める歌、",
         "translation-ja": "さて、今、その時を思いやって、ある人が詠んだ歌は、",
         "translation-en": "Now, recalling that time, a poem composed by a certain person is:",
+	"translation-zh": "那么，现在，回想起那昔日，某人所吟诵的和歌：",
         "translation-ja-natural": "さて、今、その時を思い出して、ある人が詠んだ歌は、",
-        "translation-en-natural": "Now, recalling that time, a poem composed by a certain person is:"
+        "translation-en-natural": "Now, recalling that time, a poem composed by a certain person is:",
+	"translation-zh-natural": "就这样，某人，回想起那过去之事所吟诵的和歌是："
       },
       {
         "date": "20250413",
@@ -12416,8 +12485,10 @@
         "koutei-yamagen": "都にて/山の端に見し/月なれど/波より出でて/波にこそ入れ",
         "translation-ja": "都では山の端に見た月だが、波より出て波に入るのだ。",
         "translation-en": "In the capital, it was seen at the mountain's edge, but it rises from the waves and sinks into them.",
+	"translation-zh": "在京都/山的边际看到的/月亮，但（它）/从浪中升起/落入浪中",
         "translation-ja-natural": "都では山の端に見た月ですが、ここの月は波から出てまた波に入るのです。",
-        "translation-en-natural": "In the capital, it was seen at the mountain's edge, but here, the moon rises from the waves and sinks into them."
+        "translation-en-natural": "In the capital, it was seen at the mountain's edge, but here, the moon rises from the waves and sinks into them.",
+	"translation-zh-natural": "在京都，我是在山的边缘看到的月亮，但这里的月亮是从海浪中升起，又落入海浪中的。"
       },
       {
         "date": "20250413",
