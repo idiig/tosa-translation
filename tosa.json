@@ -12498,8 +12498,10 @@
         "koutei-yamagen": "二十一日、卯の時ばかりに船出だす。",
         "translation-ja": "二十一日、卯の時ばかりに船出した。",
         "translation-en": "On the twenty-first, we set sail at the hour of the rabbit.",
+	"translation-zh": "廿一日、于卯时左右、出船。",
         "translation-ja-natural": "二十一日、朝6時ごろに船を出しました。",
-        "translation-en-natural": "On the twenty-first, we set sail at around six in the morning."
+        "translation-en-natural": "On the twenty-first, we set sail at around six in the morning.",
+	"translation-zh-natural": "二十一日卯时左右，我们出航了。"
       },
       {
         "date": "20250413",
@@ -12509,8 +12511,10 @@
         "koutei-yamagen": "皆人々の船出づ。",
         "translation-ja": "皆、人々の船が出航する。",
         "translation-en": "Everyone's ships set sail.",
+	"translation-zh": "人们的船都出发。",
         "translation-ja-natural": "皆、人々の船が出航します。",
-        "translation-en-natural": "Everyone's ships set sail."
+        "translation-en-natural": "Everyone's ships set sail.",
+	"translation-zh-natural": "人们的船都出发了。"
       },
       {
         "date": "20250413",
@@ -12520,8 +12524,10 @@
         "koutei-yamagen": "これを見れば春の海に秋の木の葉しも散れるやうにぞありける。",
         "translation-ja": "これを見れば、春の海に秋の木の葉が散っているようであった。",
         "translation-en": "Looking at this, it was as if autumn leaves were scattered on the spring sea.",
+	"translation-zh": "见此，是在春天的海上飘落了秋天的树叶一样。",
         "translation-ja-natural": "これを見ると、まるで春の海に秋の木の葉が散っているようでした。",
-        "translation-en-natural": "Looking at this, it was as if autumn leaves were scattered on the spring sea."
+        "translation-en-natural": "Looking at this, it was as if autumn leaves were scattered on the spring sea.",
+	"translation-zh-natural": "看到此景，仿佛是秋天的树叶落在了春天的海上。"
       },
       {
         "date": "20250414",
@@ -12531,8 +12537,10 @@
         "koutei-yamagen": "おぼろげの願に依りてにやあらむ、風も吹かずよき日いできて漕ぎ行く。",
         "translation-ja": "並々でない願いによってであろうか、風も吹かず、よい日が現れて、漕いで行く。",
         "translation-en": "Due to an earnest prayer, perhaps, the wind does not blow, a good day appears, and it rows and goes.",
+	"translation-zh": "由于非同一般的祈愿吗，风也不吹，好太阳出来了，驶船而去。",
         "translation-ja-natural": "ひたすら願ったおかげでしょうか、風もなく、穏やかな日が訪れ、私たちはようやく船を漕ぎ出していけます。",
         "translation-en-natural": "Maybe it's thanks to our prayers. The wind is still, the day is calm, and we can finally row out at last.",
+	"translation-zh-natural": "或许是因为我们诚心的祈愿吧，没有起风，太阳也出来了，于是我们划船出发了。",
         "notes-ja": {
           "逐語訳における主語補完の原則": {
             "基本方針": "逐語訳では、原文に書かれていない主語の補完は極力避ける。ただし、英語として文法的に完結させるために必要最小限の形式的補足が求められる場合がある。",
@@ -12550,7 +12558,16 @@
               }
             }
           }
-        }
+        },
+	"notes-zh": {
+	  "逐字翻译中主语补充的原则": {
+	    "基本方针": "在逐字翻译中，应尽量避免补充原文中未出现的主语。然而，为了确保英文的语法完整，有时可能需要进行最小限度的形式补充。",
+	    "形式主语『it』的使用": "'it' 仅在指代对象在上下文中显而易见且保持抽象和中立时，才允许作为逐字翻译中的最小补充。例如：'风也不吹，好太阳出来了，驶船而去' → 'it rows and goes.'（这里的 'it' 可以自然地理解为 'the boat'，而无需明确指出）",
+	    "具体主语（he, she, the boat 等）": "在逐字翻译中，应避免补充原文中不存在的具体主语，如性别代词或具体名词（如 'the boat'）。这些补充会强加解释，消除源文本中保留的句法模糊性。",
+	    "推荐考虑顺序": "当原文缺少明确主语时，应首先尝试使用无主语结构（如命令式或仅动词短语）。只有在英语语法要求句子完整时，才应考虑使用 'it' 作为占位符。",
+	    "补充说明": "在逐字翻译中，补充应仅服务于语法形式，而非语义澄清。只有当读者能够从上下文推断出主语且句子否则会在语法上不完整时，这种补充才是有效的。"
+	  }
+	}
       },
       {
         "date": "20250414",
@@ -12560,8 +12577,10 @@
         "koutei-yamagen": "この間に使はれむとて、つきて来る童あり。",
         "translation-ja": "この間に使われようとして、ついてくる子供がいる。",
         "translation-en": "In the meantime, there is a child who comes along, wishing to be sent.",
+	"translation-zh": "有个说着这段时间想被差遣，跟来的孩子。",
         "translation-ja-natural": "この間に使われようとして、ついてくる子供がいます。",
-        "translation-en-natural": "In the meantime, a child comes along, hoping to be sent with us."
+        "translation-en-natural": "In the meantime, a child comes along, hoping to be sent with us.",
+	"translation-zh-natural": "有个孩子说着想在这段时间帮忙，跟了过来。"
       },
       {
         "date": "20250414",
@@ -12571,8 +12590,10 @@
         "koutei-yamagen": "それがうたふ舟うた、",
         "translation-ja": "その子が歌う舟歌は、",
         "translation-en": "The song that child sings is,",
+	"translation-zh": "那唱的船歌、",
         "translation-ja-natural": "その子が歌う舟歌は、",
-        "translation-en-natural": "The song that child sings is:"
+        "translation-en-natural": "The song that child sings is:",
+	"translation-zh-natural": "那孩子唱的船歌是："
       },
       {
         "date": "20250414",
@@ -12582,8 +12603,10 @@
         "koutei-yamagen": "なほこそ国のかたは見やらるれ、わが父母ありとし思へばかへらや",
         "translation-ja": "やっぱり、国の方を見てしまうなあ。わが父母がいると思えばさ。帰ろうか。",
         "translation-en": "Still, the direction of my home draws my gaze, I think my father and mother are there. Go home, go home.",
+	"translation-zh": "果然还是/故乡的方向/看着/我的父母所在/想着/回去吧。",
         "translation-ja-natural": "やっぱり、どうしても国のほうに目が向く...そこに父さん母さんがいるからさ...帰ろ、帰ろう...",
-        "translation-en-natural": "I can't help looking toward home...my parents are there, after all. Go home, go home."
+        "translation-en-natural": "I can't help looking toward home...my parents are there, after all. Go home, go home.",
+	"translation-zh-natural": "果然还是忍不住望向故乡的方向...因为父母就在那儿...回去吧..."
       },
       {
         "date": "20250414",
@@ -12593,8 +12616,10 @@
         "koutei-yamagen": "とうたふぞ哀れなる。",
         "translation-ja": "と歌うのが、なんとも哀れである。",
         "translation-en": "To sing that...how sorrowful.",
+	"translation-zh": "唱着令人伤感。",
         "translation-ja-natural": "あの子があんなふうに歌うなんて...なんとも切ない。",
-        "translation-en-natural": "The way that child sings it... it's just heartbreaking."
+        "translation-en-natural": "The way that child sings it... it's just heartbreaking.",
+	"translation-zh-natural": "孩子那样唱着，令人感伤。"
       },
       {
         "date": "20250415",
@@ -12604,8 +12629,10 @@
         "koutei-yamagen": "かくうたふを聞きつゝ漕ぎくるに、くろとりといふ鳥岩のうへに集まり居り。",
         "translation-ja": "こう歌うのを聞きながら漕いでくると、黒鳥という鳥が岩の上に集まっている。",
         "translation-en": "While listening to this singing, as we rowed along, a bird called the blackbird was gathered on the rock.",
+	"translation-zh": "听着此般唱着的（歌），边划船而来时，叫作黑鸟的鸟聚集停在岩石的上面。",
         "translation-ja-natural": "あの舟歌を聞きながら船を漕いでいくと、岩の上に黒鳥という鳥が集まってじっとしていた。",
-        "translation-en-natural": "Rowing along, listening to that singing, I saw birds called blackbirds gathered quietly on a rock."
+        "translation-en-natural": "Rowing along, listening to that singing, I saw birds called blackbirds gathered quietly on a rock.",
+	"translation-zh-natural": "听着那样的歌声，孩子划船而来时，岩石上聚集起一种叫做黑鸟的鸟儿。"
       },
       {
         "date": "20250415",
@@ -12615,14 +12642,19 @@
         "koutei-yamagen": "その岩のもとに、浪白くうち寄す。",
         "translation-ja": "その岩のもとに波が白く打ち寄せている。",
         "translation-en": "The white waves wash against the base of the rock.",
+	"translation-zh": "在那岩石的底部、浪花雪白，拍打冲刷着。",
         "translation-ja-natural": "その岩のふもとに白い波が打ち寄せています。",
         "translation-en-natural": "White waves are washing against the base of the rock.",
+	"translation-zh-natural": "白色的浪花拍打着那岩石的底部。",
         "notes-ja": {
           "逐語訳における副詞と形容詞の違い": "『浪しろくうち寄す』のように、原文が副詞的な描写（白く）を用いている場合、『白い波』のような名詞句で訳すことは、文法構造上の変換（形容詞＋名詞化）を伴うため、逐語訳としては慎重に扱う必要がある。原文の語順・文法に忠実であることを重視する逐語訳では、意味的に妥当であっても、名詞的要素の補完は抑えるべきとされる。これは『補って訳すことの自然さ』と『補わずに訳すことの忠実さ』とのあいだにある、翻訳実践上の繊細な判断点である。"
         },
         "notes-en": {
           "Adverbial vs. Attributive Translation in Literal Rendering": "In expressions like '浪しろくうち寄す' (waves striking white), the original Japanese uses an adverbial modification ('shiroku' = white-ly) rather than attributive ('shiroi nami' = white waves). While translating this as 'white waves' may convey the scene more naturally, it introduces a structural shift from verb-focused modification to a noun phrase. In literal translation, where fidelity to grammatical form is prioritized, such nominal supplements should be avoided even if semantically accurate. This highlights the tension between expressive clarity and structural loyalty in cross-linguistic rendering, a key concern in the Process Grammar framework."
-        }
+        },
+	"notes-zh": {
+	  "逐字翻译中副词与形容词的区别": "在像『浪しろくうち寄す』（浪花白白地拍打）这样的表达中，原文使用的是副词性修饰（'shiroku' = 白白地），而非形容词性修饰（'shiroi nami' = 白色的浪花）。虽然将其翻译为 'white waves' 可能更自然地传达场景，但这引入了从动词中心的修饰到名词短语的结构转变。在逐字翻译中，优先考虑语法形式的忠实性，应避免这种名词补充，即使在语义上是准确的。这突显了在跨语言表达中，表达清晰度与结构忠实性之间的张力，这是过程语法框架中的一个关键问题。"
+	}
       },
       {
         "date": "20250415",
@@ -12632,8 +12664,10 @@
         "koutei-yamagen": "楫取のいふやう、「黒き鳥のもとに白き浪をよす」とぞいふ。",
         "translation-ja": "楫取が言うには、「黒い鳥のもとに白い波を寄せる」と言う。",
         "translation-en": "The steersman says, \"White waves wash to the base of the black bird,\" he says.",
+	"translation-zh": "船夫所说一样、所谓“在黑色的鸟的底部、白色的浪花聚集”",
         "translation-ja-natural": "楫取いわく、「黒い鳥のもとに白い波を寄せる」ですって。",
         "translation-en-natural": "The steersman goes, \"White waves wash to the base of the black bird,\" or so he says.",
+	"translation-zh-natural": "如船夫所说那样，“白色的浪花拍打在黑色的鸟儿脚下”。",
         "notes-ja": {
           "オリジナルの校訂": "※(「楫＋戈」、第3水準1-86-21)取のいふやう「黒（きイ有）鳥のもとに白き浪をよす」とぞいふ。",
           "二重の「いふ」": "この文は語りの構造として「言うには」「と言う」のように二重に '言う' が用いられているが、これは文法的に整えられた形では、『言うには、〜とのことだった』や『〜と言っていた』のように、導入と結語を整理して訳すことが多い。しかし、現代語の日常会話においては、このような冗長な言い方はよくあることである。すなわち、『とぞいふ』には、語り手の臨場感や即時性が込められており、単なる報告というより、その場で語っているような効果を持っている。",
@@ -12648,7 +12682,14 @@
           "narrative style": "'Or so he says' corresponds to the Japanese 'desutte..', a stylish and slightly ironic way to report speech. It captures the narrator's sense of humor or detachment, which is characteristic of the narrative voice in the Tosa Diary.",
           "poetic structure and imagery": "The phrase 'white waves wash to the base of the black bird' likely refers to an actual black bird mentioned earlier, possibly a black duck, rather than a metaphor for a rock. This creates a striking image: the bird is motionless, and the waves are approaching it. The use of 'wo yoseru' (to send waves toward) without an explicit subject adds a sense of unseen agency, suggesting that something is driving the waves toward the bird, enhancing the poetic and mysterious quality of the scene.",
           "narrator's appreciation": "This phrase can be understood as a poetic remark made by the steersman, which the narrator, Ki no Tsurayuki, found worth quoting. Rather than interpreting it as a mere description, the narrator preserves the moment with immediacy ('to zo iu'), suggesting a subtle appreciation for the steersman's sense of poetic wit."
-        }
+        },
+	"notes-zh": {
+	  "双重使用“说”": "这句话中出现了双重使用“说”——既作为引入引语的“说”，又作为结尾的“他说”。虽然在现代英语中，为了避免这种冗余，通常会选择更精炼的表达方式，如“他说……”或“据他说……”，但在日常对话中，这种重复结构实际上很常见。这反映了一种即时性和参与感：结尾的“to zo iu”给人一种叙述者正在积极讲述场景，而不仅仅是在报告。",
+	  "叙述语气": "自然的英文翻译采用了口语化的叙述语气。使用“goes”而不是“says”增加了即时感和模仿意味，而“or so he says”则反映了叙述者的超然或略带戏谑的态度——类似于日语中的“desutte..”。",
+	  "叙述风格": "“or so he says”对应日语中的“desutte..”，这是一种时髦且略带讽刺意味的引用方式。它捕捉了叙述者的幽默感或超然态度，这是《土佐日记》中叙述声音的特点。",
+	  "诗意结构与意象": "短语“白色的浪花拍打在黑色的鸟儿脚下”很可能指的是前面提到的一只黑鸟，可能是一只黑鸭，而不是岩石的隐喻。这创造了一个引人注目的画面：鸟儿静止不动，浪花向它靠近。使用“wo yoseru”（将波浪送向）而没有明确的主语，增添了一种看不见的能动性，暗示有某种力量驱使波浪向鸟儿靠近，增强了场景的诗意和神秘感。",
+	  "叙述者的欣赏": "这句话可以理解为船夫所作的一句诗意评论，叙述者纪贯之认为值得引用。叙述者并未将其解读为单纯的描述，而是以即时性的方式保留了这一瞬间（'to zo iu'），暗示了对船夫诗意机智的微妙欣赏。"
+	}
       },
       {
         "date": "20250416",
@@ -12658,14 +12699,19 @@
         "koutei-yamagen": "この詞、何とにはなけれど、ものいふやうにぞ聞こえたる。",
         "translation-ja": "このことばは、何というものではないけれど、物を言うように聞こえた。",
         "translation-en": "This word was not something that could be clearly named, but it sounded as if it were saying something.",
+	"translation-zh": "此言不是什么（特别的东西），但听着是在说些什么一样。",
         "translation-ja-natural": "このことばは、はっきり何とは言えないけれど、まるで何かを語っているように聞こえた。",
         "translation-en-natural": "I couldn't quite say what kind of word it was, but it sounded like it was saying something.",
+	"translation-zh-natural": "这句话虽然也没什么特别的，但听着倒是很像那么一回事。",
         "notes-ja": {
           "語り手の感受性": "『このことばは、何というものではないけれど、物を言うように聞こえた』という文には、語り手である貫之の繊細な感受性があらわれている。言葉の意味を超えて響きや気配を感じとる姿勢は、和歌や洒落に通じるものであり、ただの観察ではなく、詩的体験として語られている。"
         },
         "notes-en": {
           "narrator's sensibility": "The phrase expresses the narrator's poetic sensitivity: even though the words could not be clearly defined, they sounded as if they were speaking. This moment suggests not mere observation but a kind of aesthetic experience, where the narrator senses meaning in the tone, rhythm, or presence of the utterance—much like a refined appreciation for poetic wit or verbal elegance."
-        }
+        },
+	"notes-zh": {
+	  "叙述者的感受性": "这句话表达了叙述者的诗意敏感性：尽管这些话无法明确定义，但它们听起来仿佛在说些什么。这一刻不仅仅是观察，而是一种审美体验，叙述者在话语的语调、节奏或存在感中感受到意义——这类似于对诗意机智或语言优雅的精致欣赏。"
+	}
       },
       {
         "date": "20250416",
@@ -12675,14 +12721,19 @@
         "koutei-yamagen": "人の程にあはねば、咎むるなり。",
         "translation-ja": "人の身分に合わないので、とがめるのである。",
         "translation-en": "It is criticized because it does not fit the person's rank.",
+	"translation-zh": "人的身份不符，因此令人不快。",
         "translation-ja-natural": "身分にふさわしくないという理由で、とがめられるのだ。",
         "translation-en-natural": "It's criticized for being inappropriate for their social standing.",
+	"translation-zh-natural": "（这句话）因为与身份不符，所以令人不快。",
         "notes-ja": {
           "語りの重層性": "この一連の記述は、楫取の洒落た一言をきっかけに、語り手（紀貫之）がそれを『物を言うように聞こえた』と受け取り、さらにその反応に対して世間的な評価（『人の程にあはねば咎むるなり』）を添えるという三層構造になっている。語り手は楫取の詩的感性に共鳴しつつも、世間の反応を冷静に引いた視点で語っており、即時的な驚きと後から整理された認識が交差している。また『咎むるなり』という断定的な言い方には、語り手自身がそう思っているのではなく、世間がそう咎めているという距離を取る語りの技巧も感じられる。"
         },
         "notes-en": {
           "narrative layering": "This passage consists of a three-layered narrative structure: (1) the steersman's poetic remark, (2) the narrator's emotional reaction ('it sounded as if it were saying something'), and (3) a general societal judgment ('it is criticized because it does not fit the person's rank'). The narrator sympathizes with the steersman's sensibility, but inserts a detached commentary about how society tends to judge based on social status. The phrase 'togamuru nari' carries a tone of objective distance—it is not the narrator himself who criticizes, but society at large. This creates a subtle interplay between immediate perception and reflective commentary."
-        }
+        },
+	"notes-zh": {
+	  "叙述的层次性": "这段话由三层叙述结构组成：（1）船夫的诗意评论，（2）叙述者的情感反应（“听起来仿佛在说些什么”），以及（3）一般社会的评判（“因为不符合人的身份而受到批判”）。叙述者同情船夫的感性，但插入了一段超然的评论，说明社会如何根据社会地位进行评判。“togamuru nari”这个短语带有一种客观距离的语气——批评的并非叙述者本人，而是整个社会。这在即时感知与反思性评论之间创造了一种微妙的互动。"
+	}
       },
       {
         "date": "20250417",
@@ -12692,8 +12743,10 @@
         "koutei-yamagen": "かくいひつつ行くに、船君なる人、浪を見て、「国よりはじめて海賊報いせむといふなることを思ふうへに、海のまた恐ろしければ、頭も皆、白けぬ。",
         "translation-ja": "こう言いながら行くと、船君という人が波を見て、「国を出て以来、はじめて、海賊が報復してくるだろうということを思う上に、海がまた恐ろしいので、頭も皆白くなってしまった。",
         "translation-en": "As we go on saying this, the steersman looks at the waves and says, 'Since leaving the country, I have begun to think that pirates will come to retaliate, and the sea is also terrifying, so my head has turned white.'",
+	"translation-zh": "这样说着一边前进时，船中要员看着波浪。“从（任命的）国（境）开始，想着海盗会不会报复的事，海也令人害怕，因此头发也都白了。",
         "translation-ja-natural": "そんなことを話しながら進んでいると、船君という人が波を見て、「国を出てから初めて、海賊が報復してくるんじゃないかと思えてきた。しかも、海の様子があまりに恐ろしくて、頭が真っ白になってしまった。",
-        "translation-en-natural": "As we were talking like that, the steersman looked at the waves and said, 'For the first time since we left home, I feel like the pirates might be coming to retaliate. And on top of that, the sea looks so terrifying—my head’s gone completely white,"
+        "translation-en-natural": "As we were talking like that, the steersman looked at the waves and said, 'For the first time since we left home, I feel like the pirates might be coming to retaliate. And on top of that, the sea looks so terrifying—my head’s gone completely white,",
+	"translation-zh-natural": "我们一边说着这些一边前进时，船中的要员看着波浪说，“自从离开土佐国境以来，我一直担忧海盗会不会来报复，加之海面也令人害怕，头发都白了。"
       },
       {
         "date": "20250418",
@@ -12703,8 +12756,10 @@
         "koutei-yamagen": "七十八十は海にあるものなりけり。",
         "translation-ja": "七十、八十は、海にあるものであった。",
         "translation-en": "Seventy and eighty are things found in the sea.",
+	"translation-zh": "七十、八十，乃是海中之人。",
         "translation-ja-natural": "七十、八十の老人は、海の中にでもいるんでしょうね。",
-        "translation-en-natural": "People who live to seventy or eighty? I guess they only exist out at sea."
+        "translation-en-natural": "People who live to seventy or eighty? I guess they only exist out at sea.",
+	"translation-zh-natural": "活到七十、八十岁的，是海里的（仙）人。"
       },
       {
         "date": "20250418",
@@ -12714,14 +12769,19 @@
         "koutei-yamagen": "わが髪の/ゆきといそべの/しら浪と/いづれまされり/おきつ島守",
         "translation-ja": "私の髪の雪と磯辺の白波と、どちらが勝っているのだ、沖の島守。",
         "translation-en": "Which surpasses the other, my snowy hair or the white waves on the shore, O guardian of the offing island?",
+	"translation-zh": "我的头发的/雪与礁边的/白浪/哪个更胜筹?/海岛的守护者",
         "translation-ja-natural": "私の白髪と、磯辺に打ち寄せる白波――どちらの方が白く目立っているかしらね、沖の島守さん。",
         "translation-en-natural": "Tell me, guardian of the island—what shines whiter, my snowy hair or the waves breaking on the shore?",
+	"translation-zh-natural": "告诉我，海岛的守护者——是我的雪白的头发更白，还是礁边拍打的浪花更白？",
         "notes-ja": {
           "語り手の感受性": "この歌は、語り手である紀貫之が、白髪を海の白波にたとえて詠んだ洒落た表現である。『沖つ島守』という呼びかけは、海にいる誰かに語りかける形をとっており、海の広がりや神秘性とともに、自身の老いをユーモラスに描いている。"
         },
         "notes-en": {
           "narrator's sensibility": "This poem is a witty and poetic expression by the narrator, Ki no Tsurayuki, who compares the whiteness of his hair to the white waves along the shore. The phrase 'O guardian of the offing island' is a rhetorical address to someone at sea, evoking both the vastness and mystery of the ocean while humorously reflecting on the narrator’s own aging."
-        }
+        },
+	"notes-zh": {
+	  "叙述者的感受性": "这句话表达了叙述者的诗意敏感性：尽管这些话无法明确定义，但它们听起来仿佛在说些什么。这一刻不仅仅是观察，而是一种审美体验，叙述者在话语的语调、节奏或存在感中感受到意义——这类似于对诗意机智或语言优雅的精致欣赏。"
+	}
       },
       {
         "date": "20250418",
@@ -12731,8 +12791,10 @@
         "koutei-yamagen": "楫取いへ」",
         "translation-ja": "楫取、言え」。",
         "translation-en": "Say it, the steersman.",
+	"translation-zh": "船夫，说吧",
         "translation-ja-natural": "楫取さん、言ってみよ」。",
         "translation-en-natural": "So, tell me—which one, steersman?",
+	"translation-zh-natural": "那么，船夫，说说看吧，哪个更白？”",
         "notes-ja": {
           "語り手の感受性": "この一文は、語り手が楫取に問いかける形をとっており、語り手の感受性やユーモアが表現されている。",
           "台詞の終止": "この『楫取いへ』の命令形によって、長く続いていた楫取の台詞がここで終わることが明確になる。語り手が命令として語りかけることで、先の和歌までもが楫取の発話であったことが文法的に示されている。"
@@ -12740,7 +12802,11 @@
         "notes-en": {
           "narrator's sensibility": "This line is framed as a direct address from the narrator to Kajitori, showcasing the narrator’s sensitivity and subtle sense of humor.",
           "end of quotation": "The imperative form 'Kajitori, say it' clearly marks the end of Kajitori’s long speech. By issuing a command, the narrator reveals that even the preceding waka was part of Kajitori’s utterance, and this is grammatically signaled through the structure."
-        }
+        },
+	"notes-zh": {
+	  "叙述者的感受性": "这句话以叙述者对船夫的直接称呼形式出现，展示了叙述者的敏感性和微妙的幽默感。",
+	  "引语的结束": "命令式的“船夫，说吧”明确标志着船夫长篇发言的结束。通过发出命令，叙述者揭示了前面的和歌也是船夫的话语的一部分，这在语法结构上得到了体现。"
+	}
       },
       {
         "date": "20250419",
