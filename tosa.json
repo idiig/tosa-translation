@@ -13114,8 +13114,10 @@
         "koutei-yamagen": "二十四日、昨日のおなじ所なり。",
         "translation-ja": "二十四日。昨日と同じ所にいる。",
         "translation-en": "On the twenty-fourth, we are in the same place as yesterday.",
+	"translation-zh": "廿四日，是昨日的相同之处。",
         "translation-ja-natural": "二十四日、昨日と同じ所にいる。",
-        "translation-en-natural": "On the twenty-fourth, we are in the same place as yesterday."
+        "translation-en-natural": "On the twenty-fourth, we are in the same place as yesterday.",
+	"translation-zh-natural": "二十四日，我们还在和昨天同一个地方。"
       },
       {
         "date": "20250423",
