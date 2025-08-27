@@ -6046,18 +6046,115 @@
         "translation-en-natural": "Just sucking the mouth of the pressed sweetfish."
       },
       {
-        "date": "20250129",
+        "date": [
+          20250129,
+          20250828
+        ],
         "id": 61,
         "text": "このすふ人々の口を押年魚もし思ふやうあらむや。",
         "kana": "このすふひとびとのくちをおしあゆもしおもふやうあらむや。",
         "koutei-yamagen": "この吸ふ人々の口を押年魚もし思ふやうあらむや。",
         "translation-ja": "この人々が口を吸う押年魚の方も、いったいどう思っているだろうか。",
         "translation-en": "I wonder what the sweetfish, pressed and sucked by these people's mouths, is thinking.",
+        "phrase-gloss": [
+          {
+            "phrase": "このすふ人々の口を",
+            "gloss": "these people’s mouths who suck (it)",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "すふ",
+                "gloss": "suck.ATTR"
+              },
+              {
+                "word": "人々",
+                "gloss": "people"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "口",
+                "gloss": "mouth"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              }
+            ]
+          },
+          {
+            "phrase": "押年魚も",
+            "gloss": "even the pressed sweetfish",
+            "words": [
+              {
+                "word": "押年魚",
+                "gloss": "pressed sweetfish"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              }
+            ]
+          },
+          {
+            "phrase": "し思ふやうあらむや",
+            "gloss": "might it have thoughts? (rhetorical)",
+            "words": [
+              {
+                "word": "し",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "思ふ",
+                "gloss": "think.ATTR"
+              },
+              {
+                "word": "やう",
+                "gloss": "way"
+              },
+              {
+                "word": "あら",
+                "gloss": "exist.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "この人々に口を吸われている押年魚（鮎）の方も、いったいどう思っているのだろうか。いや、おそらく『口惜しい鮎』（くちをしあゆ）とでも思っているのだろうか。",
         "translation-en-natural": "What might the pressed sweetfish, being sucked by these people's mouths, be thinking? Perhaps they are lamenting as 'kuchi-oshi ayu,' the regretful sweetfish.",
-        "notes-ja": {
-          "押年魚と押鮎の違い": "菊地版では「押鮎」と表記しているが、原文の翻刻「押年魚」に従うべき。「押年魚」という表記は、言葉遊びを強調する上で重要。「押鮎」に修正されることで、紀貫之の意図やユーモアが損なわれている。"
-        }
+        "notes-ja": [
+          {
+            "title": "言葉遊び",
+            "note": "「押年魚」（おしあゆ）と「口惜しい鮎」（くちをしあゆ）との言葉遊びが含まれている。紀貫之は、押し鮎が人々に吸われる様子を見て、鮎が「口惜しい」と感じているのではないかと想像している。"
+          },
+          {
+            "title": "押年魚と押鮎の違い",
+            "note": "菊地版では「押鮎」と表記しているが、原文の翻刻「押年魚」に従うべき。「押年魚」という表記は、言葉遊びを強調する上で重要。「押鮎」に修正されることで、紀貫之の意図やユーモアが損なわれている。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Wordplay",
+            "note": "The phrase contains a pun between '押年魚' (pressed sweetfish) and '口惜しい鮎' (regretful sweetfish). Ki no Tsurayuki imagines that the sweetfish, being sucked by people, might be feeling 'regretful.'"
+          },
+          {
+            "title": "Difference between '押年魚' and '押鮎'",
+            "note": "While Kikuchi's edition uses '押鮎' (pressed sweetfish), it is more appropriate to follow the original transcription '押年魚.' The term '押年魚' emphasizes the wordplay. Changing it to '押鮎' diminishes the intended humor and nuance of Ki no Tsurayuki's writing."
+          }
+        ]
       },
       {
         "date": "20250130",
