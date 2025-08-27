@@ -5979,14 +5979,70 @@
         "translation-en-natural": "They did not even bother to prepare for it by requesting it."
       },
       {
-        "date": "20250128",
+        "date": [
+          20250128,
+          20250827
+        ],
         "id": 60,
         "text": "唯おしあゆの口をのみぞ吸ふ。",
         "kana": "ただおしあゆのくちをのみそすふ。",
         "koutei-yamagen": "唯、押鮎の口をのみぞ吸ふ。",
         "translation-ja": "ただ、押鮎の口を吸うだけ。",
         "translation-en": "Only sucking the mouth of the pressed sweetfish.",
-        "translation-ja-natural": "ただ、押鮎の口をしゃぶっているだけでした。",
+        "phrase-gloss": [
+          {
+            "phrase": "唯",
+            "gloss": "only",
+            "words": [
+              {
+                "word": "唯",
+                "gloss": "only"
+              }
+            ]
+          },
+          {
+            "phrase": "おしあゆの口を",
+            "gloss": "the mouth of the pressed sweetfish",
+            "words": [
+              {
+                "word": "おしあゆ",
+                "gloss": "pressed sweetfish"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "口",
+                "gloss": "mouth"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              }
+            ]
+          },
+          {
+            "phrase": "のみぞ吸ふ",
+            "gloss": "only (emphatic) suck",
+            "words": [
+              {
+                "word": "のみ",
+                "gloss": "only"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "吸ふ",
+                "gloss": "suck"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "ただ、押鮎の口をしゃぶっているだけだった。",
         "translation-en-natural": "Just sucking the mouth of the pressed sweetfish."
       },
       {
