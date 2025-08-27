@@ -13174,14 +13174,19 @@
         "koutei-yamagen": "二十六日、まことにやあらむ、海賊追ふといへば夜はばかりより船をいだして漕ぎくる。",
         "translation-ja": "二十六日。本当だろうか、海賊が追ってくるというので、夜のうちに船を出して漕いでくる。",
         "translation-en": "On the twenty-sixth, indeed, since they say pirates are pursuing us, we set out the boat and row at night.",
+	"translation-zh": "二十六日。由于（担心）是真的吧，说是海盗追赶，因此自夜半出船驶去。",
         "translation-ja-natural": "二十六日。海賊が本当に追ってくるのかもしれないというので、夜のうちにあわてて船を出し、漕ぎ出した。",
         "translation-en-natural": "On the twenty-sixth, fearing the pirates might really be pursuing us, we launched the boat in the dark of night and began to row away.",
+	"translation-zh-natural": "二十六日。不知到是不是真的，据说海盗在追赶我们，所以我们在夜里匆忙出船，开始划船驶离。",
         "notes-ja": {
           "語りの緊迫感": "この一文は、前日の『海賊が追ってくるという噂』が現実味を帯びてきたことを背景にしており、『まことにやあらむ』は不安と動揺を含んだ語り手の心理を示している。また、夜のうちに船を出すという行動が、緊張と焦燥の表れとして描かれている。"
         },
         "notes-en": {
           "narrative tension": "This sentence reflects the narrator's rising anxiety as the rumor of pirates begins to feel real. The phrase 'might really be pursuing' shows psychological doubt, and the decision to set out the boat at night adds a sense of urgency and fear."
-        }
+        },
+	"notes-zh": {
+	  "叙述紧张感": "这句话反映了随着海盗传闻变得真实，叙述者日益增长的焦虑。“可能真的在追赶我们”这一短语显示了心理上的怀疑，而决定在夜里出船则增添了紧迫感和恐惧感。"
+	}
       },
       {
         "date": "20250424",
@@ -13191,8 +13196,10 @@
         "koutei-yamagen": "道に、たむけする所あり。",
         "translation-ja": "途中に、手向けをするところがある。",
         "translation-en": "There is a place to pray along the way.",
+	"translation-zh": "路上有个祈祷之处。",
         "translation-ja-natural": "道に曲げる所がある。",
         "translation-en-natural": "There is a place to turn on the road.",
+	"translation-zh-natural": "路上有个祈祷旅途安全的地方。",
         "notes-ja": {
           "location": {
             "name": "鹿ノ首岬",
@@ -13210,7 +13217,16 @@
             "notes-en": "Located on the western side of Abe district in Minami town, Tokushima Prefecture, it juts out into the Pacific Ocean. It is named 'Shikanokubi' because it resembles a deer's neck when viewed from above."
           },
           "Acceleration of the journey": "Between the 26th and the 30th, the narrative covers a remarkably fast progression—from setting out at night to passing Cape Kanokubi and reaching Tosa's harbor. This stands in stark contrast to the earlier passages, where unfavorable winds and pirate rumors delayed the journey. Geographically, the travelers have moved a significant distance, reaching what is now the Yuki area of Tokushima. This acceleration may reflect favorable winds, urgency due to fear of pirates, or a narrative strategy: the diarist deliberately omits ordinary progress to concentrate on key events. By expanding on hardship and compressing smooth passages, the narrative rhythm reflects the psychological flow of the journey."
-        }
+        },
+	"notes-zh": {
+	  "地点": {
+	    "name": "鹿之首岬",
+	    "latitude": 33.7417,
+	    "longitude": 134.4933,
+	    "notes-zh": "位于德岛县海部郡美波町阿部地区的西侧，突入太平洋的岬角。从空中看，它类似于鹿的脖子，因此被命名为“鹿之首”。"
+	  },
+	  "航行速度的加快": "从26日到30日，叙述涵盖了从夜间出发到经过鹿之首岬并抵达土佐港口的显著快速进展。这与之前由于不利风向和海盗传闻而延误旅程的段落形成了鲜明对比。从地理上看，旅行者已经移动了相当大的距离，达到了现在的德岛由岐地区。这种加速可能反映了有利的风向、对海盗的恐惧引发的紧迫感，或是一种叙述策略：日记作者故意省略了普通的进展，以集中于关键事件。通过扩展困难的部分并压缩顺利的部分，叙述节奏反映了旅程的心理流动。"
+	}
       },
       {
         "date": "20250425",
@@ -13220,15 +13236,20 @@
         "koutei-yamagen": "楫取して、幣たいまつらするに、幣のひんがしへちれば楫取の申し奉ることは、「この幣のちるかたにみふね速にこがしめ給へ」と申してたてまつる。",
         "translation-ja": "楫取に命じて、幣を奉らせたところ、幣が東の方に散ったので、楫取が申し上げたことは、「この幣の散った方角に、御船を速やかに漕がせてくださいませ」と申し上げ奉る。",
         "translation-en": "Having ordered the boatman, and had the sacred cloth offered, the cloth scattered toward the east, so what the boatman respectfully said was: ‘In the direction where this cloth has scattered, please have the august boat rowed swiftly,’ he respectfully said.",
+	"translation-zh": "命船夫奉上幣後，幣向东飘散，于是船夫恭敬地说的话是，“请向此幣所飘的方向速速划船。”说着",
         "translation-ja-natural": "楫取に幣を奉らせて祈らせたところ、幣が東の方へ舞ったので、楫取は「この幣の靡いた方へ、どうか御船を速やかに漕ぎ出してくださいませ」とお祈りしたのでした。",
         "translation-en-natural": "Having the boatman offer the sacred cloth and pray, the cloth drifted eastward. Seeing this, the boatman prayed, 'In the direction where this cloth has drifted, please let the august boat be rowed swiftly.'",
+	"translation-zh-natural": "让船夫奉上幣（神道教中献给神明的布条）并祈祷后，幣向东飘去。船夫看到后祈祷道，“请让御船向此幣飘散的方向速速划去。”",
         "notes-ja": {
           "オリジナルの校訂": "※(「楫＋戈」、第3水準1-86-21)取してぬさたいまつらするに、幣のひんがしへちれば※(「楫＋戈」、第3水準1-86-21)取の申し奉ることは、「この幣のちるかたにみふね速にこがしめ給へ」と申してたてまつる。",
           "儀礼の緊迫感": "この部分は、単なる航海祈願ではなく、海賊の出没を警戒して即時に船を出す必要性があったことを示している。幣が舞った方向を吉兆としつつ、実はそれが逃げ道として選ばれた方角である可能性がある。祈願の文言には形式的な敬語が使われつつも、その裏には切迫した緊張感が見える。"
         },
         "notes-en": {
           "urgency of the ritual": "This passage indicates that the offering of the sacred cloth is not merely a ritual for safe passage but is also a response to the immediate threat of pirates. The direction in which the cloth drifts may be interpreted as an auspicious sign, but it could also represent a chosen escape route. The formal language used in the prayer contrasts with the underlying tension and urgency of the situation."
-        }
+        },
+	"notes-zh": {
+	  "仪式的紧迫感": "这一段表明，奉上幣不仅仅是为了航行安全的仪式，也是对海盗即时威胁的回应。幣飘散的方向可能被解读为吉兆，但也可能代表选择的逃生路线。祈祷中使用的正式语言与潜在的紧张和紧迫感形成对比。"
+	}
       },
       {
         "date": "20250426",
@@ -13238,8 +13259,10 @@
         "koutei-yamagen": "これを聞きて、ある女の童のよめる、",
         "translation-ja": "これを聞いて、ある女の子が詠んだ歌は、",
         "translation-en": "Upon hearing this, a girl composed a poem:",
+	"translation-zh": "听此，某女童所吟诵，",
         "translation-ja-natural": "これを聞いて、ある女の子が詠んだ歌は、",
-        "translation-en-natural": "Upon hearing this, a girl composed a poem:"
+        "translation-en-natural": "Upon hearing this, a girl composed a poem:",
+	"translation-zh-natural": "听到这些话后，某个女童吟诵了一首诗，"
       },
       {
         "date": "20250426",
@@ -13249,8 +13272,10 @@
         "koutei-yamagen": "渡海の/ちふりの神に/手向けする/幣の追風や/まず吹かなむ",
         "translation-ja": "渡海の道触の神に手向けする幣の追風よ、まず吹いてほしい。",
         "translation-en": "O wind that follows the sacred cloth offered to the god of the sea route, may you blow without ceasing.",
+	"translation-zh": "大海的/道触之神/祈愿的/幣之顺风啊/就这样吹拂吧",
         "translation-ja-natural": "海路の道触の神に手向けする幣の追風よ、どうかこのまま吹き続けてほしい。",
-        "translation-en-natural": "O wind that follows the sacred cloth offered to the god of the sea route, may you blow without ceasing."
+        "translation-en-natural": "O wind that follows the sacred cloth offered to the god of the sea route, may you blow without ceasing.",
+	"translation-zh-natural": "向海中保佑旅途安全的神明献上的幣（所指明）的顺风啊，请就这样持续吹拂吧。",
       },
       {
         "date": "20250426",
@@ -13260,8 +13285,10 @@
         "koutei-yamagen": "とぞ詠める。",
         "translation-ja": "と詠んだ。",
         "translation-en": "So she composed.",
+	"translation-zh": "吟诵道。",
         "translation-ja-natural": "と詠みました。",
-        "translation-en-natural": "So she composed."
+        "translation-en-natural": "So she composed.",
+	"translation-zh-natural": ""
       },
       {
         "date": "20250426",
@@ -13271,23 +13298,29 @@
         "koutei-yamagen": "このあひだに風のよければ楫取いたくほこりて、船に帆あげなど喜ぶ。",
         "translation-ja": "この間、風がよいので、楫取は大いに誇って、船に帆を上げるなど、喜ぶ。",
         "translation-en": "Because the wind is favorable during this time, the boatman is very proud and raises the sails on the ship.",
+	"translation-zh": "其间，风（势）良好，因此船夫很得意，给船升起帆等，喜悦。",
         "translation-ja-natural": "その間、風が順調だったので、楫取は得意げになり、「船に帆を上げぇ」と掛け声をかけ、みな喜んでいた。",
         "translation-en-natural": "With the wind blowing favorably, the boatman, feeling proud, called out 'Raise the sails!' and they were delighted.",
+	"translation-zh-natural": "这期间，风势良好，船夫很得意，高兴道“升起帆来！”。",
         "notes-ja": {
           "オリジナルの校訂": "このあひだに風のよければ※(「楫＋戈」、第3水準1-86-21)取いたくほこりて、船に帆あ（かイ）げなど喜ぶ。"
         },
         "notes-en": {
           "original text": "If the wind is favorable in this area, the boatmen are very pleased and raise the sails on the ship."
-        }
+        },
+	"notes-zh": {
+	  "原文": "如果这附近的风势良好，船夫们会非常高兴，并给船升起帆。"
+	}
       },
       {
         "date": "20250426",
         "id": 301,
-        "text": "その音を聞きてわらはもおきなもいつしかとし思へばにやあらむ、いたく喜ぶ。",
+        "text": "その音を聞きてわらはもおむなもいつしかとし思へばにやあらむ、いたく喜ぶ。",
         "kana": "そのおとをききてわらはもおきなもいつしかとしおもへばにやあらむ、いたくよろこぶ。",
-        "koutei-yamagen": "その音を聞きて、わらはもおきなもいつしかとし思へばにやあらむ、いたく喜ぶ。",
+        "koutei-yamagen": "その音を聞きて、わらはもおむなもいつしかとし思へばにやあらむ、いたく喜ぶ。",
         "translation-ja": "その音を聞いて、子供も老女も、いつになったらと思っていたからだろうか、たいへん喜ぶ。",
-        "translation-en": "Hearing the sound, both the children and the old ladies, having been wondering when it would happen, were very happy."
+        "translation-en": "Hearing the sound, both the children and the old ladies, having been wondering when it would happen, were very happy.",
+	"translation-zh": "听到那声音，孩子和老妇都，由于想着什么时候吧，非常高兴。",
       },
       {
         "date": "20250426",
@@ -13296,7 +13329,8 @@
         "kana": "このなかにあはじのたうめといふひとのよめるうた、",
         "koutei-yamagen": "このなかに淡路のたうめといふ人のよめる歌、",
         "translation-ja": "この中に淡路の老女という人がいて、その人が詠んだ歌は、",
-        "translation-en": "Among them, there was an old lady from Awaji who composed a poem:"
+        "translation-en": "Among them, there was an old lady from Awaji who composed a poem:",
+	"translation-zh": "其中，叫作淡路的老妇，吟诵的和歌，",
       },
       {
         "date": "20250426",
@@ -13306,8 +13340,10 @@
         "koutei-yamagen": "追風の/吹きぬる時は/行く船の/帆手うちてこそ/うれしかりけれ",
         "translation-ja": "追い風が吹いたときには、行く船が帆手を打つのが、うれしい。",
         "translation-en": "When the following wind has blown, the moving ship strikes its sail, and that is delightful.",
+	"translation-zh": "顺风/吹起时/行进的船的/帆、手拍着才/令人愉快",
         "translation-ja-natural": "追い風が吹いて、行く船が帆を打つ。人が手を打つ。そう、それがうれしいのよ。",
         "translation-en-natural": "As the following wind blows, the sail of the moving ship flaps in the wind. Hands clap. Yes, that is delightful.",
+	"translation-zh-natural": "顺风吹起时，行进的船的帆和人们在拍手。这真令人愉快。",
         "notes-ja": {
           "複線構造": "この和歌「追風の吹きぬる時は〜」には、小松英雄が『仮名文の構文原理』で述べた「複線構造」が見られる。表面上は「船が帆を打つ」という描写だが、その背後に「人々が手を打って喜ぶ」という感情表現が重ねられている。和歌は短い詩でありながら、単線的な意味ではなく、複雑な織りまぜ（weave）によって成立している。この特性は、Richard Bowringが『紫式部日記』英訳の導入部で述べた「Japanese poetry may be short, but the result is often a complex weave of words: the texture is the poem」という指摘とも響き合う。逐語訳では片方の線しか拾えないが、自然訳では両方の線を意識して訳出することができる。",
           "係り結びと感情の中心": "文末の「こそ—うれしかりけれ」という係り結びは、特に「帆手を打ったこと」こそがうれしい、という老女の感情の中心を強く指し示している。現代語訳においては、「こそ」や「けれ」に特有の音声的な効果（強調・詠嘆）を無理に現代語で再現しようとせず、老女自身の素直な感情表現として「そう、それがうれしいのよ」と自然に表すのが適切である。",
@@ -13323,7 +13359,15 @@
           "Translation approach": "Similarly, instead of using a more explanatory expression like 'which pleases me so much,' the translation chooses the more natural and spontaneous 'Yes, that is delightful,' which better matches the directness and freshness of the old woman's feeling. In the translation, the distinction between 'flap' (for the sail) and 'clap' (for the hands) is carefully maintained to preserve the layered sound imagery embedded in the original poem.",
           "Do not fix the agent of clapping": "In this waka, the scene depicts the ship striking its sail and someone clapping hands, but it is not explicitly stated whether the old woman herself was among those clapping. In translation and annotation, it is important not to fix or specify who clapped, in order to preserve the natural ambiguity and openness of the waka. The old woman observed the entire scene and simply expressed her own feeling of delight; thus, it is inappropriate to speculate on detailed actions not mentioned in the original text.",
           "Expression of the Parallel Sound of Sail and Hands": "In the English translation, the structure 'the sail of the moving ship flaps in the wind' and 'hands clap' was intentionally adopted to naturally echo the parallel and contrasting sounds of the flapping sail and clapping hands. In the original waka, the flapping of the sail caught by the wind and the clapping of people's hands overlap rhythmically, forming a unified auditory scene. To preserve this rhythmic flow and avoid rigidly assigning subjects, the translation presents both actions side by side, directly conveying the natural sequence of the movements and sounds."
-        }
+        },
+	"notes-zh": {
+	  "双线结构": "这首和歌“顺风吹起时……”展现了小松英雄在其著作《假名文的句法原理》中描述的“双线结构”。表面上，它描绘了“船拍打帆绳”，但其背后同时暗示了“人们拍手欢呼”的情感表达。虽然和歌是短诗，但它们的意义并不简单；相反，它们通常是多重意义线交织的复杂结构。这一特性与Richard Bowring在其英文翻译《紫式部日记》导言中的评论相呼应：“日本诗歌可能很短，但结果往往是复杂的文字编织：质地即是诗。”在逐字翻译中，通常只能表达其中一条线，但在自然翻译中，可以有意识地反映出这两层含义。",
+	  "係り结び与情感焦点": "此外，助词“こそ”和结尾“うれしかりけれ”形成了日语古典语法结构“係り结び”，强调正是帆的拍打使说话者（老妇人）感到高兴。在现代翻译中，并没有强行保留“こそ”的强调和听觉特质，而是通过“是的，那真令人愉快”来尊重说话者的自然感受。",
+	  "自然的情感表达": "重要的是不要通过将“うれしかりけれ”翻译为“感到高兴”或“欢呼”来过度解读说话者的感受，而应保持其简单和即时性，译为“令人愉快”。老妇人的情感新鲜感应被传达出来，而不插入解释或额外的解读。",
+	  "翻译方法": "同样地，翻译选择了更自然和自发的“是的，那真令人愉快”，而不是使用更具解释性的表达，如“这让我非常高兴”，以更好地匹配老妇人情感的直接性和新鲜感。在翻译中，仔细区分了“flap”（帆）和“clap”（手）的声音，以保留原诗中嵌入的层次化声音意象。",
+	  "不要确定拍手的主体": "在这首和歌中，场景描绘了船拍打帆和有人拍手，但并未明确说明老妇人是否也在拍手。在翻译和注释中，重要的是不要确定或具体说明谁拍了手，以保留和歌的自然模糊性和开放性。老妇人观察了整个场景，并简单地表达了自己的喜悦感；因此，推测原文中未提及的详细动作是不合适的。",
+	  "帆与手的声音对比的表达": "在英文翻译中，采用了“the sail of the moving ship flaps in the wind”和“hands clap”的结构，旨在自然地呼应帆的拍打声与手的拍击声之间的并列和对比。在原和歌中，帆被风吹动拍打的声音与人们拍手的声音在节奏上重叠，形成了一个统一的听觉场景。为了保持这种节奏流动性并避免僵硬地指定主语，翻译将两种动作并列呈现，直接传达了动作和声音的自然顺序。"
+	}
       },
       {
         "date": "20250426",
@@ -13333,8 +13377,10 @@
         "koutei-yamagen": "とぞ。",
         "translation-ja": "と詠んだ。",
         "translation-en": "So she composed.",
+	"translation-zh": "",
         "translation-ja-natural": "と詠みました。",
-        "translation-en-natural": "So she composed."
+        "translation-en-natural": "So she composed.",
+	"translation-zh-natural": ""
       },
       {
         "date": "20250426",
@@ -13344,8 +13390,10 @@
         "koutei-yamagen": "天気のことにつけていのる。",
         "translation-ja": "天気のことにつけて祈る。",
         "translation-en": "Pray for the weather.",
+	"translation-zh": "天气如何都祈祷。",
         "translation-ja-natural": "なにかと天気のことを祈る。",
-        "translation-en-natural": "Pray for the weather on various occasion."
+        "translation-en-natural": "Pray for the weather on various occasion.",
+	"translation-zh-natural": "无论如何都祈祷天气。",
       },
       {
         "date": "20250428",
