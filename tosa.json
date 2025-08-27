@@ -12816,8 +12816,10 @@
         "koutei-yamagen": "二十二日、昨夜の泊より、異泊を追ひてぞ行く。",
         "translation-ja": "二十二日、昨夜の泊まりから、異なる泊まりを追って行く。",
         "translation-en": "On the 22nd, we left last night's stop, pursuing another harbor.",
+	"translation-zh": "廿二日，自昨夜的泊地，朝着其他泊地而去。",
         "translation-ja-natural": "二十二日。昨夜の泊まりをあとにして、また別の泊まりを目指して進んだ。",
-        "translation-en-natural": "On the 22nd, we left last night's anchorage and set off toward another."
+        "translation-en-natural": "On the 22nd, we left last night's anchorage and set off toward another.",
+	"translation-zh-natural": "二十二日，我们从昨晚的停泊地出发，向另一个停泊地进发。"
       },
       {
         "date": "20250419",
@@ -12827,8 +12829,10 @@
         "koutei-yamagen": "遙に山見ゆ。",
         "translation-ja": "遥かに山が見える。",
         "translation-en": "Mountains are seen far away.",
+	"translation-zh": "远远地看得到山。",
         "translation-ja-natural": "遥かに山が見えます。",
         "translation-en-natural": "Mountains are visible in the distance.",
+	"translation-zh-natural": "远远地可以看到山。",
         "notes-ja": {
           "語り手の感受性": "この一文は、語り手が遠くに見える山を描写しており、自然の美しさや広がりを感じさせる。",
           "風景の提示": "この一文は、旅の途中における一瞬の視界のひらけを、簡潔に表現している。語り手は余計な描写を加えず、ただ『見ゆ』という自然な知覚のかたちで山の存在を伝えている。"
@@ -12836,7 +12840,11 @@
         "notes-en": {
           "narrator's sensibility": "This line captures the narrator's observation of distant mountains, evoking a sense of natural beauty and expansiveness.",
           "landscape moment": "This short line captures a brief opening in the scenery during the journey. The narrator refrains from added commentary, using the passive-like form 'miyu' to simply convey that the mountains have come into view."
-        }
+        },
+	"notes-zh": {
+	  "叙述者的感受性": "这句话捕捉了叙述者对远处山脉的观察，唤起了一种自然美和广阔感。",
+	  "风景瞬间": "这简短的一句话捕捉了旅途中风景的一瞬间。叙述者没有添加额外的评论，而是使用类似被动的形式“miyu”来简单地传达山脉进入视野。"
+	}
       },
       {
         "date": "20250419",
@@ -12846,14 +12854,19 @@
         "koutei-yamagen": "年九つばかりなるをの童、年よりは幼くぞある。",
         "translation-ja": "年九つばかりの男の子がいて、この子は年よりは幼い。",
         "translation-en": "There is a boy of about nine years old, who seems younger than his age.",
+	"translation-zh": "年级九岁左右的男孩，看起来比年龄更小。",
         "translation-ja-natural": "年九つばかりの男の子がいて、年齢よりも幼く見える。",
         "translation-en-natural": "There is a boy of about nine years old, who looks younger than his age.",
+	"translation-zh-natural": "有一个大约九岁的男孩，看起来比他的年龄更小。",
         "notes-ja": {
           "語り手の観察": "この一文では、語り手が年齢を明示したうえで『年よりは幼くぞある』と評しており、単なる事実記述にとどまらず、その子の外見や雰囲気に対する語り手の印象が込められている。係り結びによって『幼い』という印象が強調されており、どこか愛らしさや哀れみを感じさせるやわらかいまなざしがうかがえる。"
         },
         "notes-en": {
           "narrator's observation": "In this line, the narrator gives the boy’s age explicitly, then adds that he seems younger than that age. The use of the emphatic structure ‘zo … aru’ highlights the narrator’s impression, suggesting not just physical youthfulness but perhaps a sense of vulnerability or tenderness. This brief description reflects a gentle, somewhat affectionate gaze."
-        }
+        },
+	"notes-zh": {
+	  "叙述者的观察": "在这句话中，叙述者明确给出了男孩的年龄，然后补充说他看起来比那个年龄更小。“zo ... aru”这种强调结构突出了叙述者的印象，不仅暗示了身体上的年轻，还可能暗示了一种脆弱或温柔的感觉。这简短的描述反映了一种温柔、略带亲切的目光。"
+	}
       },
       {
         "date": "20250419",
@@ -12863,8 +12876,10 @@
         "koutei-yamagen": "この童、船を漕ぐまにまに、山も行くと見ゆるを見て、あやしきこと歌をぞよめる。",
         "translation-ja": "この子は、船を漕ぐにつれて山も動いているように見えるのを見て、不思議なことだ！と歌を詠んだ。",
         "translation-en": "The boy, as the boat moved forward, saw the mountains moving too and thought, 'How strange!'—and composed a poem.",
+	"translation-zh": "这个孩子，看着随着划船山看起来也在走，怪异之事，吟诵了和歌。",
         "translation-ja-natural": "船が進むにつれて山までもが動いていくように見えたのだろう。その不思議さに心を動かされたのか、男の子は一首の歌を口にした。",
         "translation-en-natural": "As the boat moved forward, the mountains must have looked as if they were moving too. Touched by the strangeness of it all, the boy quietly recited a poem.",
+	"translation-zh-natural": "这个男孩，看到随着船只前进山脉看起来也在移动，感到真不可思议，于是吟诵了一首和歌。",
         "notes-ja": {
           "オリジナルの校訂": "この童、船を漕ぐ［＃「漕ぐ」は底本では「槽ぐ」］まにまに、山も行くと見ゆるを見て、あやしきこと歌をぞよめる。",
           "子どもの感受性": "この文における『あやしきこと』は、語り手が男児の歌詠みに驚いたという文化的視点からも解釈できるが、一方で、年齢よりも幼く見える子どもが、船の動きに合わせて山が動いているように見えたという素朴な視覚の驚きを抱き、それをそのまま歌にしたという自然な感受性の表れとも読める。語り手はその様子を少し不思議に、しかし愛おしさをもって描いているように見える。",
@@ -12900,7 +12915,25 @@
             "7. Finally, the natural translation was crafted to preserve the original verb forms, voice, and grammatical case structure while faithfully conveying the narrator’s tone, rhythm, and subtle perspective.",
             "8. This translation is not merely a rendering of events, but an attempt to recreate the narrator’s way of telling—a translation of narrative posture itself."
           ]
-        }
+        },
+	"notes-zh": {
+	  "原文": "原文使用了“sogu”（划船）而不是“sogu”（漂浮），这是一个变体读法。",
+	  "孩子的感知": "“奇怪的事”（ayashiki koto）这一短语在文化上被解释为叙述者对一个小男孩创作和歌的惊讶——正如一些学者如菊地靖彦所指出的那样，在平安时期，这一行为传统上与女性相关。然而，它也可以更直观地解读：一个大约九岁、看起来更年轻的男孩，看到随着船只划动，山似乎也在移动，感到一种真正的惊奇，并自然地将这种感觉融入到一首诗中。叙述者的语气暗示了一种安静的惊讶，但也流露出对孩子新鲜而直接感知世界的温柔和钦佩。",
+	  "“uta wo yomu”的结构": "短语“uta wo yomu”（创作诗歌）似乎涉及宾格助词“wo”标记直接宾语。然而，更准确的理解是将其视为一个固定搭配或习惯用语，其中“wo”的功能不那么严格作为语法标记，而更多地作为惯用表达的一部分。因此，在句子“ayashiki koto uta wo zo yomeru”中，核心语法结构集中在“ayashiki koto zo yomeru”（“这是一件奇怪的事”）上，而“uta wo”则自然地作为与“yomeru”相关的内容短语被整合进来。",
+	  "重新解释“ayashiki koto”": "短语“ayashiki koto uta wo zo yomeru”传统上被解释为叙述者对一个年幼的男孩——特别是一个被描述为特别不成熟的男孩——会创作和歌的惊讶。然而，对上下文和句法的仔细阅读表明，“ayashiki koto”并不是指创作行为本身，而是指男孩在看到随着船只划动，山似乎在移动时所感受到的奇妙感。叙述者并不是对男孩创作诗歌的行为表示惊讶，而是记录了诗歌的主题正是这种奇妙而直接的感官体验。因此，“ayashiki koto”不是叙述者的判断反映，而是男孩通过诗歌所捕捉的感知。",
+	  "与传统解释的比较": "菊地靖彦将“ayashiki koto”解释为叙述者对一个年轻男孩在文化背景下创作诗歌的惊讶——在平安时期，诗歌创作通常与女性相关。然而，对语法结构和叙述上下文的更深入阅读表明，“ayashiki koto”指的是男孩自己的奇妙感——特别是他感知到山似乎在移动的感觉——以及他对这种感知的诗意回应。这一短语反映了孩子的内心体验，而不是叙述者的文化判断。",
+	  "作为叙述再现的翻译": "这种自然翻译是在不改变动词形式、语态或语法格关系的情况下制作的，以忠实再现叙述者的视角、节奏和微妙的情感语调。男孩“山似乎在移动”的主观体验不仅在内容上得以保留，而且在叙述者如何观察和记录这一点上也得以保留。重点不仅仅是翻译事件，而是翻译叙述者讲述的方式。",
+	  "讨论流程": [
+	    "1. 讨论始于一个问题：谁感知了“ayashiki koto”（奇怪的事）——叙述者还是孩子？",
+	    "2. 由于前一句描述了孩子的视觉体验（“山似乎在移动”），因此认为将“ayashiki koto”解释为孩子自己的奇妙感更为自然。",
+	    "3. 从句法、上下文和叙述视角的角度，对菊地的传统解读——叙述者因为一个年轻男孩而不是女性创作和歌而感到惊讶——进行了批判性审视。",
+	    "4. “uta wo yomu”（创作诗歌）这一短语被重新分析为一个固定表达，其中助词“wo”更多地作为搭配的一部分而不是作为语法宾格。",
+	    "5. 基于这些发现，得出结论“ayashiki koto”指的是男孩的奇妙感，他随后在诗中表达了这种感受。",
+	    "6. 逐字翻译被修订以反映这一解释，将视角从叙述者的惊讶转向孩子的主观体验。",
+	    "7. 最后，自然翻译被制作出来，以保留原始动词形式、语态和语法格结构，同时忠实传达叙述者的语气、节奏和微妙的视角。",
+	    "8. 这种翻译不仅仅是对事件的呈现，而是试图再现叙述者的讲述方式——即“叙述姿态本身”的翻译。"
+	  ]
+	}
       },
       {
         "date": "20250419",
@@ -12910,14 +12943,19 @@
         "koutei-yamagen": "その歌、",
         "translation-ja": "その歌は、",
         "translation-en": "That poem,",
+	"translation-notes-zh": "那歌，",
         "translation-ja-natural": "その歌は、",
         "translation-en-natural": "That poem,",
+	"translation-zh-natural": "那首歌，",
         "notes-ja": {
           "オリジナルの校訂": "（四字イ無）とは「そのうた」の4文字が異本にはないということ。"
         },
         "notes-en": {
           "original text": "The phrase 'yoji i mu' indicates that the four characters 'sono uta' are absent in variant texts."
-        }
+        },
+	"notes-zh": {
+	  "原文": "“yoji i mu”表示在变体文本中缺少了“四字”的“sono uta”。"
+	}
       },
       {
         "date": "20250420",
@@ -12927,8 +12965,10 @@
         "koutei-yamagen": "漕ぎて行く/船にて見れば/あしびきの/山さへゆくを/松は知らずや",
         "translation-ja": "漕いで行く船で見ると、山さえも行くのを松は知らないのだろうか。",
         "translation-en": "Looking from the boat as it goes, even the mountains seem to go...do the pines not know this?",
+	"translation-zh": "划着移动的/船上，看过去/（拖着腿的）/山也移动/松树不知吗？",
         "translation-ja-natural": "漕いでいく船の上から見ると、山まで動いていく。松の木は、それを知らないのかな。",
-        "translation-en-natural": "Looking from the boat as it moves forward, even the mountains seem to move. I wonder if the pines know that."
+        "translation-en-natural": "Looking from the boat as it moves forward, even the mountains seem to move. I wonder if the pines know that.",
+	"translation-zh-natural": "从划动的船上看去，山都似乎在移动，山上的松树知道吗。"
       },
       {
         "date": "20250420",
@@ -12938,8 +12978,10 @@
         "koutei-yamagen": "とぞいへる。",
         "translation-ja": "という。",
         "translation-en": "So he recited.",
+	"translation-zh": "所谓。",
         "translation-ja-natural": "と詠みました。",
-        "translation-en-natural": "So he recited."
+        "translation-en-natural": "So he recited.",
+	"translation-zh-natural": ""
       },
       {
         "date": "20250420",
@@ -12949,8 +12991,10 @@
         "koutei-yamagen": "幼き童のことにては似つかはし。",
         "translation-ja": "幼い子どもの歌としては、ふさわしい。",
         "translation-en": "It is fitting for a child's song.",
+	"translation-zh": "幼童的和歌来说，相符。",
         "translation-ja-natural": "幼い子どもの歌としては、よくできています。",
-        "translation-en-natural": "It is well done for a child's song."
+        "translation-en-natural": "It is well done for a child's song.",
+	"translation-zh-natural": "作为幼童的和歌来看的话，倒也相符。"
       },
       {
         "date": "20250421",
@@ -12960,8 +13004,10 @@
         "koutei-yamagen": "けふ海あらげにて磯に雪ふり浪の花さけり。",
         "translation-ja": "今日は海が荒れて、磯に雪が降り、波の花が咲いている。",
         "translation-en": "Today, the sea is rough, snow falls on the shore, and wave-flowers are blooming.",
+	"translation-zh": "今日大海汹涌，因此雪落于海礁，绽开了浪花。",
         "translation-ja-natural": "今日は海が荒れ、磯に雪が降り、波の花が咲いています。",
         "translation-en-natural": "The sea was rough today, snow fell on the shore, and wave-flowers bloomed.",
+	"translation-zh-natural": "今天波涛汹涌，海岸落雪，浪花绽放。",
         "notes-ja": {
           "比喩表現の解釈": "「磯に雪ふり」は、実際の降雪ではなく、波しぶきが白く飛び散る様子を「雪」にたとえた比喩表現と解釈される。同様に「浪の花さけり」も、荒波のしぶきが花のように咲く様子を表現したものであり、視覚的・象徴的な表現として和歌的な美しさを備えている。",
           "逐語訳との対応": "直訳すれば「磯に雪が降り、波の花が咲く」となるが、「雪」や「花」はいずれも自然現象の詩的な言い換えであり、字義通りに解釈すると意味を取り違える恐れがある。逐語訳ではそのまま訳出し、自然訳では意味的解釈を反映して表現を整える。",
@@ -12975,7 +13021,14 @@
           "Scene composition": "The entire sentence presents a winter seascape in which stormy waves strike the shore, casting white spray like snow and bursting like flowers. The order of imagery—first snow, then flowers—follows the movement of spray and the visual progression of the scene, creating a balance between the harshness and beauty of nature.",
           "Risk in interpreting metaphor": "The phrase 'snow falls on the shore' (磯に雪ふり) can be interpreted either as a literal description of snowfall or as a metaphor referring to sea spray resembling snow. Therefore, translating it naturally as 'spray like snow' could become a mistranslation if actual snow was indeed falling. Since the expression allows for both literal and figurative readings, the translator must not assume metaphorical intent without supporting contextual evidence. It is advisable to retain this ambiguity in the literal translation and carefully justify any metaphorical rendering in the natural translation.",
           "Translation policy: when metaphor or literal meaning is ambiguous": "When it is unclear from context whether an expression is describing a factual event or employing a metaphor, the default translation strategy is to render it as a literal fact. For example, the phrase 'snow falls on the shore' (磯に雪ふり) could refer either to actual snowfall or metaphorically to sea spray resembling snow. In such cases, translating it as 'spray like snow' introduces the translator’s interpretation and risks mistranslation. On the other hand, in expressions like 'wave-flowers are blooming' (浪の花さけり), it is evident from common knowledge that waves are not literally flowers, and the metaphor is naturally understood by readers. Therefore, by retaining the original ambiguity in translation, the poetic openness and interpretive space for the reader are preserved."
-        }
+        },
+	"notes-zh": {
+	  "比喻表达的解释": "“磯に雪ふり”（雪落于海岸）这一短语并非指字面上的降雪，而是作为波浪拍打岩石时白色水花飞溅的比喻。同样，“浪の花さけり”（浪花绽放）描绘了汹涌波浪破碎成泡沫的视觉意象。这两者都是传达生动且象征性自然景观的诗意表达。",
+	  "直译与自然译的区别": "虽然直译会是“雪落于海岸，浪花绽放”，但在此语境中，“雪”和“花”都是比喻性的。逐字翻译可能导致误解，因此自然译更忠实地反映了其背后的意象。",
+	  "场景构成": "整句话描绘了一个冬季海景，暴风雨中的波浪拍打海岸，白色水花如雪般飞溅，波浪破碎如花般绽放。意象的顺序——先是雪，然后是花——遵循了水花的运动和视觉进展，在自然的严酷与美丽之间创造了平衡。",
+	  "解释比喻的风险": "“磯に雪ふり”（雪落于海岸）这一短语既可以解释为字面上的降雪，也可以解释为比喻，指海浪飞溅如雪。因此，将其自然译为“如雪般的水花”可能会在实际下雪的情况下成为误译。由于该表达允许字面和比喻两种解读，译者在没有上下文支持的情况下不得假设其为比喻意图。建议在逐字翻译中保留这种模糊性，并在自然译中谨慎地证明任何比喻性的表达。",
+	  "翻译政策：当比喻或字面意义模糊时": "当上下文不清楚某个表达是在描述事实事件还是使用比喻时，默认的翻译策略是将其作为字面事实进行翻译。例如，“磯に雪ふり”（雪落于海岸）这一短语既可以指实际的降雪，也可以比喻为如雪般的海浪飞溅。在这种情况下，将其译为“如雪般的水花”引入了译者的解释，并存在误译的风险。另一方面，在“浪の花さけり”（浪花绽放）这样的表达中，从常识上看，波浪不可能是字面上的花，读者自然会理解其为比喻。因此，通过在翻译中保留原始的模糊性，诗意的开放性和读者的解释空间得以保留。"
+	}
       },
       {
         "date": "20250421",
@@ -12985,8 +13038,10 @@
         "koutei-yamagen": "ある人のよめる、",
         "translation-ja": "ある人が詠んだ歌は、",
         "translation-en": "A poem someone composed is...",
+	"translation-zh": "有人所吟诵的，",
         "translation-ja-natural": "ある人が詠んだ歌は、",
         "translation-en-natural": "A poem someone composed is...",
+	"translation-zh-natural": "有人吟诵的和歌是，",
         "notes-ja": {
           "構文": "連体形『のよめる』は『詠んだもの（＝歌）』を指しており、次に続く和歌を導く前置きである。",
           "省略構造": "『歌は』は原文にはないが、文脈上、詠まれたものが和歌であることは明らかであり、自然訳では明示している。"
@@ -12994,7 +13049,11 @@
         "notes-en": {
           "Grammatical structure": "The phrase 'no yomeru' is a relative clause modifying an omitted noun, most likely a poem. It literally means 'someone (who) composed (something),' leading into the poem that follows.",
           "Ellipsis": "Although the word 'poem' does not appear in the original text, it is clearly implied by the context. Therefore, the natural translation adds 'poem' explicitly for clarity."
-        }
+        },
+	"notes-zh": {
+	  "句法结构": "“no yomeru”是一个修饰省略的名词的关系从句，很可能指的是一首和歌。字面意思是“某人（谁）创作了（某物）”，引出接下来的和歌。",
+	  "省略": "虽然原文中没有出现“和歌”一词，但从上下文中可以清楚地推断出来。因此，自然译中明确添加了“和歌”以提高清晰度。"
+	}
       },
       {
         "date": "20250421",
@@ -13004,8 +13063,10 @@
         "koutei-yamagen": "浪とのみ/ひとへに聞けど/いろ見れば/雪と花とに/まがひけるかな",
         "translation-ja": "波だとばかり聞いていたが、その色を見ると、雪と花に紛れていたのだなあ。",
         "translation-en": "Though I had heard it only as waves, when I looked at their color, they were mingled with snow and flowers—indeed!",
+	"translation-zh": "浪而已/听着一直以为，但/见到颜色时/在雪与花中/分不清了啊",
         "translation-ja-natural": "波の音だとばかり思って聞いていたけれど、その色を見たら、雪や花と見間違えてしまうところでしたよ。",
         "translation-en-natural": "I had thought it was only the sound of waves, but when I looked at its color, I almost mistook it for snow or blossoms.",
+	"translation-zh-natural": "听着一直以为只是浪，但当看到它的颜色时，不知它是雪还是花。",
         "notes-ja": {
           "比喩の順序性と語りの演出": "『けふ海あらげにて磯に雪ふり浪の花さけり』の一文では、雪や波の花が比喩であるかどうかが明示されていない。しかし、直後の和歌『まがひけるかな』において語り手自身が波と雪・花を見間違えたことを詠嘆しているため、散文の段階では比喩として訳しすぎないほうがよい。先に比喩を明示してしまうと、和歌に込められた驚きや気づきの効果が失われてしまう。これは、文学における比喩の立ち上がりが語りの順序に強く依存することを示しており、翻訳においては読者に『後から気づかせる構造』を壊さない配慮が必要である。",
           "主題的連関": "この和歌に見られる『音で波と理解していたが、目で見ると雪や花だと思ってしまうではないか』という知覚の揺らぎは、土佐日記にたびたび現れる『あやしきこと』と呼ばれる子どもの視点の描写と深く共鳴している。いずれも、大人の常識的認識からずれた瞬間に生じる驚き、そして、感覚の交差点で物事を捉え直す文学的仕掛けとして注目される。文章を再解釈する際に、言語から得られる情報を立体的に再構築することが必要である。従来の注釈書ではあまり取り上げられてこなかった可能性があるが、本作品の核心的魅力の一つである。"
@@ -13013,7 +13074,11 @@
         "notes-en": {
           "Order of metaphor and narrative effect": "In the sentence 'Kefu umi arage nite iso ni yuki furi nami no hana sakeri', it is not explicitly stated whether the references to snow and wave-flowers are metaphorical. However, in the following waka poem, the speaker exclaims 'magai keru kana', realizing that the waves were indistinguishable from snow and blossoms. Therefore, translating the earlier prose with overt metaphors (e.g., 'spray like snow') would eliminate the poetic effect of discovery and surprise in the poem. This illustrates how the emergence of metaphor in classical literature often depends on narrative order, and translators should avoid revealing metaphorical intent too early when it is meant to be discovered later by the reader.",
           "Thematic connection": "This waka describes a sensory dissonance—while one thought it was just the sound of waves, upon seeing their color, one feels they might actually be snow or blossoms. This moment of perceptual confusion resonates deeply with the 'ayashiki koto' (strange things) in the Tosa Nikki, where a child's perspective disrupts adult assumptions. Both cases highlight a literary device in which common understanding is destabilized at the intersection of different senses, prompting a reevaluation of reality. Interpreting such passages requires reconstructing meaning through a multi-dimensional integration of linguistic cues. Although rarely discussed in conventional commentaries, this intersensory awareness is a central source of the poem’s poetic power."
-        }
+        },
+	"notes-zh": {
+	  "比喻的顺序性与叙述效果": "在“けふ海あらげにて磯に雪ふり浪の花さけり”这一句中，并未明确指出“雪”和“浪花”是否为比喻。然而，在接下来的和歌“まがひけるかな”中，叙述者自己感叹道，波浪与雪花几乎无法区分。因此，如果在前面的散文中就过早地将其翻译为比喻（例如“如雪般的水花”），就会削弱和歌中发现与惊讶的诗意效果。这说明在古典文学中，比喻的出现往往依赖于叙述的顺序，译者应避免过早揭示比喻意图，以便读者能够在后续文本中自行发现。",
+	  "主题联系": "这首和歌描述了一种感官错位——起初以为只是浪的声音，但看到其颜色后，竟觉得可能是雪或花。这种感知上的混乱与《土佐日记》中“あやしきこと”（奇怪的事）的描写深刻共鸣，在那里，孩子的视角打破了成年人的假设。两者都突显了一种文学手法，即在不同感官的交汇处动摇常识，引发对现实的重新评估。解读此类段落需要通过多维度整合语言线索来重构意义。尽管在传统注释中很少被讨论，但这种跨感官的意识是这首诗诗意力量的核心来源之一。"
+	}
       },
       {
         "date": "20250422",
@@ -13023,8 +13088,10 @@
         "koutei-yamagen": "二十三日、日照りて曇りぬ。",
         "translation-ja": "二十三日。日が照って曇った。",
         "translation-en": "On the twenty-third, the sun shone and then it clouded over.",
+	"translation-zh": "廿三日，日晒后转阴了。",
         "translation-ja-natural": "二十三日、日が照って、後、曇りました。",
-        "translation-en-natural": "On the twenty-third, the sun shone and then it clouded over."
+        "translation-en-natural": "On the twenty-third, the sun shone and then it clouded over.",
+	"translation-zh-natural": "二十三日，晴天转阴。"
       },
       {
         "date": "20250422",
@@ -13034,8 +13101,10 @@
         "koutei-yamagen": "このわたり、海賊のおそりありといへば神佛を祈る。",
         "translation-ja": "このあたりは、海賊の恐れがあるというので、神仏を祈る。",
         "translation-en": "In this area, there is a fear of pirates, so we pray to the gods and Buddhas.",
+	"translation-zh": "这附近，说有海盗的担忧，于是祈求神佛。",
         "translation-ja-natural": "このあたりは海賊の恐れがあるとのこと、神仏に安全を祈る。",
-        "translation-en-natural": "They say pirates may be lurking in these waters, so we offer prayers to the gods and Buddhas."
+        "translation-en-natural": "They say pirates may be lurking in these waters, so we offer prayers to the gods and Buddhas.",
+	"translation-zh-natural": "据说这附近有海盗的风险，所以我们祈求神佛（保佑平安）。"
       },
       {
         "date": "20250422",
