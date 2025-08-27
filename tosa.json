@@ -13403,68 +13403,111 @@
         "koutei-yamagen": "二十七日、風吹き浪あらければ船いださず。",
         "translation-ja": "二十七日、風吹き、波が荒れるので、船を出さない。",
         "translation-en": "On the 27th, the wind blows and the waves grow rough, so we do not put out the boat.",
+	"translation-zh": "廿七日，风吹，波涛汹涌，因此不出船。",
         "phrase-gloss": [
           {
             "phrase": "廿七日",
             "gloss": "the 27th day",
+	    "gloss-morph": "twentith.day.plus+seventh.day",
+	    "gloss-zh": "二十日 七日",
+	    "gloss-zh-morph": "二十日余+七日",
             "words": [
               {
-                "word": "廿七",
-                "gloss": "twenty-seven"
+                "word": "廿",
+                "gloss": "twentieth",
+		"gloss-morph": "twentieth.day.plus",
+		"gloss-zh": "二十日",
+		"gloss-zh-morph": "二十日余"
               },
               {
-                "word": "日",
-                "gloss": "day"
+                "word": "七日",
+                "gloss": "seventh.day",
+		"gloss-morph": "seventh.day",
+		"gloss-zh": "七日",
+		"gloss-zh-morph": "七日"
               }
             ]
           },
           {
             "phrase": "風吹き",
             "gloss": "the wind blows",
+	    "gloss-morph": "wind blow-THM.SEQ",
+	    "gloss-zh": "风 吹-着",
+	    "gloss-zh-morph": "风 吹-THM.SEQ",
             "words": [
               {
                 "word": "風",
-                "gloss": "wind"
+                "gloss": "wind",
+		"gloss-morph": "wind",
+		"gloss-zh": "风",
+		"gloss-zh-morph": "风"
               },
               {
                 "word": "吹き",
-                "gloss": "blow.ADV.F"
+                "gloss": "blow.ADV.F",
+		"gloss-morph": "blow-THM.SEQ",
+		"gloss-zh": "吹-着",
+		"gloss-zh-morph": "吹-THM.SEQ"
               }
             ]
           },
           {
             "phrase": "浪あらければ",
             "gloss": "because the waves grow rough",
+	    "gloss-morph": "waves rough-INC=HCD",
+	    "gloss-zh": "波涛 汹涌 因为",
+	    "gloss-zh-morph": "波涛 汹涌-INC=HCD",
             "words": [
               {
                 "word": "浪",
-                "gloss": "waves"
+                "gloss": "waves",
+		"gloss-morph": "waves",
+		"gloss-zh": "波涛",
+		"gloss-zh-morph": "波涛"
               },
               {
                 "word": "あらけれ",
-                "gloss": "rough.ADV.F"
+                "gloss": "rough.ADV.F",
+		"gloss-morph": "rough-INC",
+		"gloss-zh": "汹涌",
+		"gloss-zh-morph": "汹涌-INC"
               },
               {
                 "word": "ば",
-                "gloss": "COND"
+                "gloss": "COND",
+		"gloss-morph": "because",
+		"gloss-zh": "因为",
+		"gloss-zh-morph": "=HCD"
               }
             ]
           },
           {
             "phrase": "船いださず",
             "gloss": "do not put out the boat",
+	    "gloss-morph": "boat put.out-THM=NEG.CCL",
+	    "gloss-zh": "船 出 不",
+	    "gloss-zh-morph": "船 出-THM=NEG.CCL",
             "words": [
               {
                 "word": "船",
-                "gloss": "boat"
+                "gloss": "boat",
+		"gloss-morph": "boat",
+		"gloss-zh": "船",
+		"gloss-zh-morph": "船"
               },
               {
                 "word": "いださ",
-                "gloss": "put out.NEG.BASE"
+                "gloss": "put out.NEG.BASE",
+		"gloss-morph": "put.out-THM",
+		"gloss-zh": "出",
+		"gloss-zh-morph": "出-THM"
               },
               {
                 "word": "ず",
-                "gloss": "NEG"
+                "gloss": "NEG",
+		"gloss-morph": "NEG.CCL",
+		"gloss-zh": "不",
+		"gloss-zh-morph": "=NEG.CCL"
               }
             ]
           }
@@ -13472,6 +13515,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "二十七日、風が強く、波が荒れたので、船を出さなかった。",
         "translation-en-natural": "On the 27th, the wind was strong and the waves were rough, so we did not set out the boat.",
+	"translation-zh-natural": "二十七日，风很大，波涛汹涌，因此我们没有出船。",
         "notes-ja": [
           {
             "title": "自然訳における表現選択",
@@ -13483,7 +13527,13 @@
             "title": "Choice of expressions in the natural translation",
             "note": "\"風吹き\" (the wind blows) simply describes the blowing of the wind, but given the context, it suggests strong winds; thus, the natural translation renders it as 'the wind was strong.' \"浪あらければ\" (because the waves grow rough) uses the already-realized form (izenkei) of the adjective 'rough,' combined with the conditional particle 'ba,' indicating a reason. The natural translation reflects this by rendering it in the past tense: 'the waves were rough.' \"いださず\" (did not put out the boat) is the negative form of 'idasu' (to put out), expressing the decision not to set sail, thus translated naturally as 'did not set out the boat.'"
           }
-        ]
+        ],
+	"notes-zh": [
+	  {
+	    "title": "自然翻译中的表达选择",
+	    "note": "\"風吹き\"（风吹）仅描述风的吹动，但根据上下文，它暗示了强风；因此，自然翻译将其表达为“风很大”。\"浪あらければ\"（波涛汹涌）使用了形容词“荒い”（汹涌）的已然形，结合条件助词“ば”，表示原因。自然翻译通过使用过去时态“波涛汹涌”来反映这一点。\"いださず\"（不出船）是“出す”（出船）的否定形式，表达了不出航的决定，因此自然翻译为“不出船”。"
+	  }
+	]
       },
       {
         "date": "20250428",
@@ -13493,38 +13543,60 @@
         "koutei-yamagen": "これかれかしこく歎く。",
         "translation-ja": "これかれ、かしこく歎く。",
         "translation-en": "Everyone, both here and there, laments.",
+	"translation-zh": "这个那个，大大地叹气。",
         "phrase-gloss": [
           {
             "phrase": "これかれ",
             "gloss": "everyone, here and there",
+	    "gloss-morph": "DEM DEM",
+	    "gloss-zh": "所有人",
+	    "gloss-zh-morph": "DEM DEM",
             "words": [
               {
                 "word": "これ",
-                "gloss": "this"
+                "gloss": "this",
+		"gloss-morph": "DEM",
+		"gloss-zh": "这个",
+		"gloss-zh-morph": "DEM"
               },
               {
                 "word": "かれ",
-                "gloss": "that"
+                "gloss": "that",
+		"gloss-morph": "DEM",
+		"gloss-zh": "那个",
+		"gloss-zh-morph": "DEM"
               }
             ]
           },
           {
             "phrase": "かしこく",
             "gloss": "greatly",
+	    "gloss-morph": "great-SER",
+	    "gloss-zh": "大大地",
+	    "gloss-zh-morph": "大-SER",
             "words": [
               {
                 "word": "かしこく",
-                "gloss": "greatly.ADV"
+                "gloss": "greatly.ADV",
+		"gloss-morph": "great-SER",
+		"gloss-zh": "大大地",
+		"gloss-zh-morph": "大-SER"
               }
             ]
           },
           {
             "phrase": "歎く",
             "gloss": "lament",
+	    "gloss-morph": "lament-CCL",
+	    "gloss-zh": "叹气",
+	    "gloss-zh-morph": "叹气-CCL",
             "words": [
               {
                 "word": "歎く",
-                "gloss": "lament"
+                "gloss": "lament",
+		"gloss-morph": "lament-CCL",
+		"gloss-zh": "叹气",
+		"gloss-zh-morph": "叹气-CCL"
               }
             ]
           }
@@ -13532,6 +13604,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "あの人もこの人も、ひどく嘆く。",
         "translation-en-natural": "Everyone, both here and there, laments.",
+	"translation-zh-natural": "大家都在大大地叹气。",
         "notes-ja": [
           {
             "title": "オリジナルの校訂",
@@ -13543,7 +13616,13 @@
             "title": "Original text",
             "note": "This is a direct quote from the original text, which reads: \"これかれかしこく（八字誰も誰もおそれイ）歎く。\""
           }
-        ]
+        ],
+	"notes-zh": [
+	  {
+	    "title": "原文",
+	    "note": "这是原文的直接引用，内容为：“これかれかしこく（八字誰も誰もおそれイ）歎く。”"
+	  }
+	]
       },
       {
         "date": "20250428",
@@ -13553,146 +13632,246 @@
         "koutei-yamagen": "男たちの心なぐさめに、からうたに「日を望めば都遠し」などいふなる事のさまを聞きて、ある女のよめる歌、",
         "translation-ja": "男たちの心をなぐさめるために、から歌に「日を望めば都遠し」などと言うことのさまを聞いて、ある女が詠んだ歌は、",
         "translation-en": "To comfort the hearts of the men, hearing the manner of things such as saying 'When one looks toward the sun, the capital is far away' in Chinese poetry, a song composed by a certain woman is:",
+	"translation-zh": "作为男人们的心的慰藉，听着唐诗中所谓“望日都远”等情景，有女人所吟诵的和歌：",
         "phrase-gloss": [
           {
             "phrase": "男たちの心なぐさめに",
             "gloss": "to comfort the hearts of the men",
+	    "gloss-morph": "man=PL=GEN heart+comfort-NML=DAT",
+	    "gloss-zh": "男人 们 的 心+慰藉 作为",
+	    "gloss-zh-morph": "男人=PL=GEN 心+慰藉-NML＝DAT",
             "words": [
               {
                 "word": "男たち",
-                "gloss": "men"
+                "gloss": "men",
+		"gloss-morph": "man=PL",
+		"gloss-zh": "男人 们",
+		"gloss-zh-morph": "男人=PL"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "心",
-                "gloss": "heart"
+                "gloss": "heart",
+		"gloss-morph": "heart",
+		"gloss-zh": "心",
+		"gloss-zh-morph": "心"
               },
               {
                 "word": "なぐさめ",
-                "gloss": "comfort.NMLZ"
+                "gloss": "comfort.NMLZ",
+		"gloss-morph": "comfort-NML",
+		"gloss-zh": "慰藉",
+		"gloss-zh-morph": "慰藉-NML"
               },
               {
                 "word": "に",
-                "gloss": "PURP"
+                "gloss": "PURP",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "作为",
+		"gloss-zh-morph": "=DAT"
               }
             ]
           },
           {
             "phrase": "からうたに",
             "gloss": "in Chinese poetry",
+	    "gloss-morph": "Chinese+poetry=DAT",
+	    "gloss-zh": "唐诗 于",
+	    "gloss-zh-morph": "唐+诗=DAT",
             "words": [
               {
                 "word": "からうた",
-                "gloss": "Chinese poetry"
+                "gloss": "Chinese poetry",
+		"gloss-morph": "Chinese+poetry",
+		"gloss-zh": "唐诗",
+		"gloss-zh-morph": "唐+诗"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "于",
+		"gloss-zh-morph": "=DAT"
               }
             ]
           },
           {
             "phrase": "「日を望めば都遠し」などいふなる事のさまを",
             "gloss": "the manner of things such as saying 'When one looks toward the sun, the capital is far away'",
+	    "gloss-morph": "sun=ACC look.toward-THM=HCD capital far.CCL=EXE say.CCL=COP-ADN thing=GEN manner=ACC",
+	    "gloss-zh": "日 ACC 望-于是 都城 远 等等 说 是 事 的 样子 ACC",
+	    "gloss-zh-morph": "日=ACC 望-THM=HCD 都城 远-CCL=EXE 说-CCL=COP-ADN 事=GEN 样子=ACC",
             "words": [
               {
                 "word": "日",
-                "gloss": "sun"
+                "gloss": "sun",
+		"gloss-morph": "sun",
+		"gloss-zh": "日",
+		"gloss-zh-morph": "日"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "ACC",
+		"gloss-zh-morph": "=ACC"
               },
               {
                 "word": "望め",
-                "gloss": "look toward.CONJ"
+                "gloss": "look toward.CONJ",
+		"gloss-morph": "look.toward-THM",
+		"gloss-zh": "望",
+		"gloss-zh-morph": "望-THM"
               },
               {
                 "word": "ば",
-                "gloss": "COND"
+                "gloss": "COND",
+		"gloss-morph": "=HCD",
+		"gloss-zh": "于是",
+		"gloss-zh-morph": "=HCD"
               },
               {
                 "word": "都",
-                "gloss": "capital"
+                "gloss": "capital",
+		"gloss-morph": "capital",
+		"gloss-zh": "都城",
+		"gloss-zh-morph": "都城"
               },
               {
                 "word": "遠し",
-                "gloss": "far"
+                "gloss": "far",
+		"gloss-morph": "far-CCL",
+		"gloss-zh": "远",
+		"gloss-zh-morph": "远-CCL"
               },
               {
                 "word": "など",
-                "gloss": "etc."
+                "gloss": "etc.",
+		"gloss-morph": "EXE",
+		"gloss-zh": "等等",
+		"gloss-zh-morph": "EXE"
               },
               {
                 "word": "いふ",
-                "gloss": "say"
+                "gloss": "say",
+		"gloss-morph": "say-CCL",
+		"gloss-zh": "说",
+		"gloss-zh-morph": "说-CCL"
               },
               {
                 "word": "なる",
-                "gloss": "COP"
+                "gloss": "COP",
+		"gloss-morph": "=COP-THM",
+		"gloss-zh": "是",
+		"gloss-zh-morph": "=COP-THM"
               },
               {
                 "word": "事",
-                "gloss": "thing"
+                "gloss": "thing",
+		"gloss-morph": "thing",
+		"gloss-zh": "事",
+		"gloss-zh-morph": "事"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "さま",
-                "gloss": "manner"
+                "gloss": "manner",
+		"gloss-morph": "manner",
+		"gloss-zh": "样子",
+		"gloss-zh-morph": "样子"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "ACC",
+		"gloss-zh-morph": "=ACC"
               }
             ]
           },
           {
             "phrase": "聞きて",
             "gloss": "hearing",
+	    "gloss-morph": "hear-THM=SEQ",
+	    "gloss-zh": "听-着",
+	    "gloss-zh-morph": "听-THM=SEQ",
             "words": [
               {
                 "word": "聞き",
-                "gloss": "hear.CONJ"
+                "gloss": "hear.CONJ",
+		"gloss-morph": "hear-THM",
+		"gloss-zh": "听",
+		"gloss-zh-morph": "听-THM"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "着",
+		"gloss-zh-morph": "-SEQ"
               }
             ]
           },
           {
             "phrase": "ある女のよめる歌",
             "gloss": "a song composed by a certain woman",
+	    "gloss-morph": "exist.ADN+woman=GEN compose-THM+STA-ADN song",
+	    "gloss-zh": "有-的 女人 的 吟-了-的 和歌",
+	    "gloss-zh-morph": "有-ADN+女人=GEN 吟-THM+STA-ADN 和歌",
             "words": [
               {
                 "word": "ある",
-                "gloss": "certain"
+                "gloss": "certain",
+		"gloss-morph": "exist-THM",
+		"gloss-zh": "有-的",
+		"gloss-zh-morph": "有-THM"
               },
               {
                 "word": "女",
-                "gloss": "woman"
+                "gloss": "woman",
+		"gloss-morph": "women",
+		"gloss-zh": "女人",
+		"gloss-zh-morph": "女人"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "よめ",
-                "gloss": "compose"
+                "gloss": "compose",
+		"gloss-morph": "compose-THM",
+		"gloss-zh": "吟",
+		"gloss-zh-morph": "吟-THM"
               },
               {
                 "word": "る",
-                "gloss": "PST"
+                "gloss": "PST",
+		"gloss-morph": "+STA-ADN",
+		"gloss-zh": "了-的",
+		"gloss-zh-morph": "+STA-ADN"
               },
               {
                 "word": "歌",
-                "gloss": "song"
+                "gloss": "song",
+		"gloss-morph": "song",
+		"gloss-zh": "和歌",
+		"gloss-zh-morph": "和歌"
               }
             ]
           }
@@ -13700,6 +13879,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "男たちの心を慰めようと、唐の詩で「日を望めば都遠し」などと言うありさまを聞いて、ある女が詠んだ歌は、",
         "translation-en-natural": "To comfort the men's hearts, upon hearing a scene where lines like 'When one looks toward the sun, the capital is far away' are recited in Chinese poetry, a certain woman composed a song:",
+	"translation-zh-natural": "为了慰藉男人们的心，借着唐诗中所谓“望日都远”等情景，有女人所吟诵了一首和歌：",
         "notes-ja": [
           {
             "title": "自然訳における表現と文化的背景",
@@ -13711,7 +13891,13 @@
             "title": "Expression choice and cultural background in the natural translation",
             "note": "The quoted line 'When one looks toward the sun, the capital is far away' reflects the sentiment that although the distant sun can be seen, the capital, which should be closer, remains unseen and thus feels even farther away. This imagery conveys a deep sense of longing for one's home or lamenting the separation from the capital. In the natural translation, the phrase is rendered directly to preserve this nuance."
           }
-        ]
+        ],
+	"notes-zh": [
+	  {
+	    "title": "自然翻译中的表达选择与文化背景",
+	    "note": "引用的“望日都远”表达了这样一种情感：虽然可以看到遥远的太阳，但本应更近的都城却看不见，因此感觉更加遥远。这种意象传达了对故乡的深切思念或对与都城分离的哀叹。在自然翻译中，这句话被直接翻译，以保留这种细微差别。"
+	  }
+	]
       },
       {
         "date": "20250428",
@@ -13721,90 +13907,155 @@
         "koutei-yamagen": "日をだにも/あま雲ちかく/見るものを/都へとおもふ/道のはるけさ",
         "translation-ja": "太陽さえも、天の雲の近くで見るのに、都へと思う道のはるかさ。",
         "translation-en": "Even the sun, seen near the heavenly clouds, yet the road I think of toward the capital feels so far away.",
+	"translation-zh": "连太阳也/天、云近近地/看，明明（是这样）/想着向都城的/道路遥远",
         "phrase-gloss": [
           {
             "phrase": "日をだにも",
             "gloss": "even the sun",
+	    "gloss-morph": "sun=ACC=ANL=IFO",
+	    "gloss-zh": "日 ACC 连 也",
+	    "gloss-zh-morph": "日=ACC=ANL=IFO",
             "words": [
               {
                 "word": "日",
-                "gloss": "sun"
+                "gloss": "sun",
+		"gloss-morph": "sun",
+		"gloss-zh": "日",
+		"gloss-zh-morph": "日"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "ACC",
+		"gloss-zh-morph": "=ACC"
               },
               {
                 "word": "だに",
-                "gloss": "even"
-              }
-            ]
+                "gloss": "even",
+		"gloss-morph": "=ANL",
+		"gloss-zh": "连",
+		"gloss-zh-morph": "=ANL"
+              },
+	      {
+		"word": "も",
+		"gloss": "also",
+		"gloss-morph": "=IFO",
+		"gloss-zh": "也",
+		"gloss-zh-morph": "=IFO"
+	      }
+	    ]
           },
           {
             "phrase": "あま雲ちかく",
             "gloss": "near the heavenly clouds",
+	    "gloss-morph": "heaven+clouds near-SER",
+	    "gloss-zh": "天上的云 近-地",
+	    "gloss-zh-morph": "天+云 近-SER",
             "words": [
               {
                 "word": "あま雲",
-                "gloss": "heavenly clouds"
+                "gloss": "heavenly clouds",
+		"gloss-morph": "heaven+clouds",
+		"gloss-zh": "天上的云",
+		"gloss-zh-morph": "天 云"
               },
               {
                 "word": "ちかく",
-                "gloss": "near.ADV"
+                "gloss": "near.ADV",
+		"gloss-morph": "near-SER",
+		"gloss-zh": "近-地",
+		"gloss-zh-morph": "近-SER"
               }
             ]
           },
           {
             "phrase": "見るものを",
             "gloss": "although seeing",
+	    "gloss-morph": "see-ADN=CON",
+	    "gloss-zh": "看-的 虽然",
+	    "gloss-zh-morph": "看-ADN=CON",
             "words": [
               {
                 "word": "見る",
-                "gloss": "see"
+                "gloss": "see",
+		"gloss-morph": "see-ADN",
+		"gloss-zh": "看",
+		"gloss-zh-morph": "看-ADN"
               },
               {
                 "word": "ものを",
-                "gloss": "although"
+                "gloss": "although",
+		"gloss-morph": "=CON",
+		"gloss-zh": "虽然",
+		"gloss-zh-morph": "=CON"
               }
             ]
           },
           {
             "phrase": "都へとおもふ",
             "gloss": "thinking toward the capital",
+	    "gloss-morph": "capital=ALL=QT think-ADN",
+	    "gloss-zh": "都城 向 想",
+	    "gloss-zh-morph": "都城=ALL=QT 想-ADN",
             "words": [
               {
                 "word": "都",
-                "gloss": "capital"
+                "gloss": "capital",
+		"gloss-morph": "capital",
+		"gloss-zh": "都城",
+		"gloss-zh-morph": "都城"
               },
               {
                 "word": "へ",
-                "gloss": "ALL"
+                "gloss": "ALL",
+		"gloss-morph": "=ALL",
+		"gloss-zh": "向",
+		"gloss-zh-morph": "=ALL"
               },
               {
                 "word": "と",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-morph": "=QT",
+		"gloss-zh": "QT",
+		"gloss-zh-morph": "=QT"
               },
               {
                 "word": "おもふ",
-                "gloss": "think"
+                "gloss": "think",
+		"gloss-morph": "think-ADN",
+		"gloss-zh": "想",
+		"gloss-zh-morph": "想-ADN"
               }
             ]
           },
           {
             "phrase": "道のはるけさ",
             "gloss": "the distance of the road",
+	    "gloss-morph": "road=GEN remote=NML",
+	    "gloss-zh": "道路 的 遥远",
+	    "gloss-zh-morph": "道路=GEN 遥远=NML",
             "words": [
               {
                 "word": "道",
-                "gloss": "road"
+                "gloss": "road",
+		"gloss-morph": "road",
+		"gloss-zh": "道路",
+		"gloss-zh-morph": "道路"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "はるけさ",
-                "gloss": "remoteness"
+                "gloss": "remoteness",
+		"gloss-morph": "remote=NML",
+		"gloss-zh": "遥远",
+		"gloss-zh-morph": "遥远=NML"
               }
             ]
           }
@@ -13812,6 +14063,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "あの太陽さえ、天の雲の近くに見えるというのに、都へ続く道の、なんと遠いことか。",
         "translation-en-natural": "Even the sun can be seen near the heavenly clouds, and yet how distant is the road leading to the capital.",
+	"translation-zh-natural": "连太阳也能在天上的云边近近地看到，然而想想那通向都城的道路，是多么遥远啊。",
         "notes-ja": [
           {
             "title": "自然訳における表現選択と情景描写",
@@ -13823,7 +14075,13 @@
             "title": "Choice of expressions and depiction of distance in the natural translation",
             "note": "This waka expresses the sentiment that even the sun, which should be far away, appears close among the heavenly clouds, and yet the road to the capital feels far beyond comparison. In the natural translation, to emphasize the contrast between the visible proximity of the sun and the extreme remoteness of the road, expressions like 'Even the sun' and 'how distant' were used. These choices convey the deep sense of distance and longing embedded in the original poem."
           }
-        ]
+        ],
+	"notes-zh": [
+	  {
+	    "title": "自然翻译中的表达选择与距离描写",
+	    "note": "这首和歌表达了这样一种情感：连本应遥远的太阳也显得近在天边，而通往都城的道路却感觉遥不可及。在自然翻译中，为了强调太阳的可见近距离与道路的极度遥远之间的对比，使用了“连太阳也”和“多么遥远啊”等表达。这些选择传达了原诗中蕴含的深刻距离感和渴望之情。"
+	  }
+	]
       },
       {
         "date": "20250428",
@@ -13833,41 +14091,64 @@
         "koutei-yamagen": "またある人のよめる。",
         "translation-ja": "また、ある人が詠んだ。",
         "translation-en": "Another person composed.",
+	"translation-zh": "又有人吟诵了。",
         "phrase-gloss": [
           {
             "phrase": "またある人のよめる",
             "gloss": "another person composed",
+	    "gloss-morph": "again exist-ADN+person=GEN compose-THM+STA-ADN.NL",
+	    "gloss-zh": "又 有-的 人 GEN 吟-了的",
+	    "gloss-zh-morph": "又 有-ADN+人=GEN 吟-THM+STA-ADN.NL",
             "words": [
               {
                 "word": "また",
-                "gloss": "again"
+                "gloss": "again",
+		"gloss-morph": "again",
+		"gloss-zh": "又",
+		"gloss-zh-morph": "又"
               },
               {
                 "word": "ある",
-                "gloss": "certain"
+                "gloss": "certain",
+		"gloss-morph": "exist-ADN",
+		"gloss-zh": "有-的",
+		"gloss-zh-morph": "有-ADN"
               },
               {
                 "word": "人",
-                "gloss": "person"
+                "gloss": "person",
+		"gloss-morph": "person",
+		"gloss-zh": "人",
+		"gloss-zh-morph": "人"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "よめ",
-                "gloss": "compose"
+                "gloss": "compose",
+		"gloss-morph": "compose-THM",
+		"gloss-zh": "吟",
+		"gloss-zh-morph": "吟-THM"
               },
               {
                 "word": "る",
-                "gloss": "PST"
+                "gloss": "PST",
+		"gloss-morph": "+STA-ADN.NL",
+		"gloss-zh": "了的",
+		"gloss-zh-morph": "了-ADN.NL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "また、ある人が詠みました。",
-        "translation-en-natural": "Another person composed."
+        "translation-en-natural": "Another person composed.",
+	"translation-zh-natural": "又有人吟诵了一首诗。",
       },
       {
         "date": "20250428",
@@ -13877,101 +14158,163 @@
         "koutei-yamagen": "吹くかぜの/絶えぬ限りし/立ちくれば/波路はいとゞ/はるけかりけり",
         "translation-ja": "吹く風が絶えぬ限り、波が立ち寄せてくるので、波路はますますはるかになったことだ。",
         "translation-en": "As long as the blowing wind does not cease, the waves rise and approach, and the path of the waves has become all the more distant.",
+	"translation-zh": "吹着的风/只要不停/浪起而来，因此/海路更加/变得遥远了",
         "phrase-gloss": [
           {
             "phrase": "吹くかぜの",
             "gloss": "of the blowing wind",
+	    "gloss-morph": "blow-ADN wind=GEN",
+	    "gloss-zh": "吹-的 风",
+	    "gloss-zh-morph": "吹-ADN 风=GEN",
             "words": [
               {
                 "word": "吹く",
-                "gloss": "blow"
+                "gloss": "blow",
+		"gloss-morph": "blow-ADN",
+		"gloss-zh": "吹-的",
+		"gloss-zh-morph": "吹-ADN"
               },
               {
                 "word": "かぜ",
-                "gloss": "wind"
+                "gloss": "wind",
+		"gloss-morph": "wind",
+		"gloss-zh": "风",
+		"gloss-zh-morph": "风"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               }
             ]
           },
           {
             "phrase": "絶えぬ限りし",
             "gloss": "as long as (the wind) does not cease",
+	    "gloss-morph": "cease-THM=NEG.ADN limit-NML=EMP",
+	    "gloss-zh": "不停-的 只要 EMP",
+	    "gloss-zh-morph": "不停-THM=NEG.ADN 限制-NML=EMP",
             "words": [
               {
                 "word": "絶え",
-                "gloss": "cease"
+                "gloss": "cease",
+		"gloss-morph": "cease-THM",
+		"gloss-zh": "停",
+		"gloss-zh-morph": "停-THM"
               },
               {
                 "word": "ぬ",
-                "gloss": "NEG"
+                "gloss": "NEG",
+		"gloss-morph": "=NEG.ADN",
+		"gloss-zh": "不",
+		"gloss-zh-morph": "=NEG.ADN"
               },
               {
                 "word": "限り",
-                "gloss": "limit, extent, as long as"
+                "gloss": "limit, extent, as long as",
+		"gloss-morph": "limit-NML",
+		"gloss-zh": "只要",
+		"gloss-zh-morph": "限制-NML"
               },
               {
                 "word": "し",
-                "gloss": "ATTR"
+                "gloss": "ATTR",
+		"gloss-morph": "=EMP",
+		"gloss-zh": "EMP",
+		"gloss-zh-morph": "=EMP"
               }
             ]
           },
           {
             "phrase": "立ちくれば",
             "gloss": "since the waves rise and approach",
+	    "gloss-morph": "rise-THM.SEQ come-THM=HCD",
+	    "gloss-zh": "起 来 因为",
+	    "gloss-zh-morph": "起-THM.SEQ 来-THM=HCD",
             "words": [
               {
                 "word": "立ち",
-                "gloss": "rise"
+                "gloss": "rise",
+		"gloss-morph": "rise-THM",
+		"gloss-zh": "起",
+		"gloss-zh-morph": "起-THM"
               },
               {
                 "word": "くれ",
-                "gloss": "come, approach"
+                "gloss": "come, approach",
+		"gloss-morph": "come-THM",
+		"gloss-zh": "来",
+		"gloss-zh-morph": "来-THM"
               },
               {
                 "word": "ば",
-                "gloss": "COND"
+                "gloss": "COND",
+		"gloss-morph": "=HCD",
+		"gloss-zh": "因为",
+		"gloss-zh-morph": "=HCD"
               }
             ]
           },
           {
             "phrase": "波路はいとゞ",
             "gloss": "the path of the waves becomes all the more distant",
+	    "gloss-morph": "waves+path=TOP even.more",
+	    "gloss-zh": "浪路 TOP 更加",
+	    "gloss-zh-morph": "浪+路=TOP 更加",
             "words": [
               {
                 "word": "波路",
-                "gloss": "path of the waves"
+                "gloss": "path of the waves",
+		"gloss-morph": "waves+path",
+		"gloss-zh": "浪路",
+		"gloss-zh-morph": "浪+路"
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "TOP",
+		"gloss-zh-morph": "=TOP"
               },
               {
                 "word": "いとゞ",
-                "gloss": "even more, all the more"
+                "gloss": "even more, all the more",
+		"gloss-morph": "even.more",
+		"gloss-zh": "更加",
+		"gloss-zh-morph": "更加"
               }
             ]
           },
           {
             "phrase": "はるけかりけり",
             "gloss": "became distant",
+	    "gloss-morph": "distant-VBL-THM+RET-CCL",
+	    "gloss-zh": "变得遥远 了",
+	    "gloss-zh-morph": "遥远-VBL-THM+RET-CCL",
             "words": [
               {
                 "word": "はるけかり",
-                "gloss": "be distant"
+                "gloss": "be distant",
+		"gloss-morph": "distant-VBL-THM",
+		"gloss-zh": "变得遥远",
+		"gloss-zh-morph": "遥远-VBL-THM"
               },
               {
                 "word": "けり",
-                "gloss": "PAST.EXCL"
+                "gloss": "PAST.EXCL",
+		"gloss-morph": "+RET-CCL",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "了+RET-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "吹きすさぶ風が止まないかぎり、寄せる波はあとを絶たず、波路はますます遠くなっていくのだった。",
-        "translation-en-natural": "As long as the relentless wind keeps blowing, the waves continue to rise and approach, making the path across the sea seem ever more distant."
+        "translation-en-natural": "As long as the relentless wind keeps blowing, the waves continue to rise and approach, making the path across the sea seem ever more distant.",
+	"translation-zh-natural": "只要那风不停地吹着，涌来的波浪就不会停下，海路也因此变得越来越遥远了。",
       },
       {
         "date": "20250428",
@@ -13981,47 +14324,73 @@
         "koutei-yamagen": "日ひと日風やまず。",
         "translation-ja": "日一日、風がやまない。",
         "translation-en": "Day after day, the wind does not cease.",
+	"translation-zh": "白天一整日，风不停。",
         "phrase-gloss": [
           {
             "phrase": "日ひと日",
             "gloss": "day after day",
+	    "gloss-morph": "day one+day",
+	    "gloss-zh": "日 一整天",
+	    "gloss-zh-morph": "日 一+日",
             "words": [
               {
                 "word": "日",
-                "gloss": "day"
+                "gloss": "day",
+		"gloss-morph": "day",
+		"gloss-zh": "日",
+		"gloss-zh-morph": "日"
               },
               {
                 "word": "ひと",
-                "gloss": "one"
+                "gloss": "one",
+		"gloss-morph": "one+",
+		"gloss-zh": "一整",
+		"gloss-zh-morph": "一+"
               },
               {
                 "word": "日",
-                "gloss": "day"
+                "gloss": "day",
+		"gloss-morph": "day",
+		"gloss-zh": "天",
+		"gloss-zh-morph": "日"
               }
             ]
           },
           {
             "phrase": "風やまず",
             "gloss": "the wind does not cease",
+	    "gloss-morph": "wind stop-THM=NEG.CCL",
+	    "gloss-zh": "风 不停",
+	    "gloss-zh-morph": "风 停-THM=NEG.CCL",
             "words": [
               {
                 "word": "風",
-                "gloss": "wind"
+                "gloss": "wind",
+		"gloss-morph": "wind",
+		"gloss-zh": "风",
+		"gloss-zh-morph": "风"
               },
               {
-                "word": "や",
-                "gloss": "TOP"
+                "word": "やま",
+                "gloss": "stop",
+		"gloss-morph": "stop-THM",
+		"gloss-zh": "停",
+		"gloss-zh-morph": "停-THM"
               },
               {
-                "word": "まず",
-                "gloss": "NEG"
+                "word": "ず",
+                "gloss": "NEG",
+		"gloss-morph": "=NEG.CCL",
+		"gloss-zh": "不",
+		"gloss-zh-morph": "=NEG.CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "毎日毎日、風が吹き止むことがない。",
-        "translation-en-natural": "The wind keeps blowing, day after day."
+        "translation-en-natural": "The wind keeps blowing, day after day.",
+	"translation-zh-natural": "风一整天不停地吹着。"
       },
       {
         "date": "20250428",
@@ -14031,36 +14400,58 @@
         "koutei-yamagen": "つまはじきして寝ぬ。",
         "translation-ja": "爪弾きをして寝た。",
         "translation-en": "Plucked his own fingers and slept.",
+	"translation-zh": "弹着指头睡了",
         "phrase-gloss": [
           {
             "phrase": "つまはじきして",
             "gloss": "plucked his own fingers",
+	    "gloss-morph": "finger+plucking do-THM=SEQ",
+	    "gloss-zh": "弹指 做-着",
+	    "gloss-zh-morph": "指+弹 做-THM=SEQ",
             "words": [
               {
                 "word": "つま",
-                "gloss": "finger"
+                "gloss": "finger",
+		"gloss-morph": "finger",
+		"gloss-zh": "指",
+		"gloss-zh-morph": "指"
               },
               {
                 "word": "はじき",
-                "gloss": "plucking"
+                "gloss": "plucking",
+		"gloss-morph": "plucking",
+		"gloss-zh": "弹",
+		"gloss-zh-morph": "弹"
               },
               {
                 "word": "して",
-                "gloss": "do.GER"
+                "gloss": "do.GER",
+		"gloss-morph": "do-THM=SEQ",
+		"gloss-zh": "做-着",
+		"gloss-zh-morph": "做-THM=SEQ"
               }
             ]
           },
           {
             "phrase": "ねぬ",
             "gloss": "slept",
+	    "gloss-morph": "sleep-THM+MNF-CCL",
+	    "gloss-zh": "睡 了",
+	    "gloss-zh-morph": "睡-THM+MNF-CCL",
             "words": [
               {
                 "word": "ね",
-                "gloss": "sleep"
+                "gloss": "sleep",
+		"gloss-morph": "sleep-THM",
+		"gloss-zh": "睡",
+		"gloss-zh-morph": "睡-THM"
               },
               {
                 "word": "ぬ",
-                "gloss": "PFV"
+                "gloss": "PFV",
+		"gloss-morph": "+MNF-CCL",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "+MNF-CCL"
               }
             ]
           }
@@ -14068,6 +14459,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "指をはじいて、寝てしまった。",
         "translation-en-natural": "Flicking their fingers, they lay down to sleep.",
+	"translation-zh-natural": "弹着指头，睡着了。",
         "notes-ja": [
           {
             "title": "「つまはじき」",
@@ -14079,7 +14471,13 @@
             "title": "\"つまはじき\" (plucking fingers)",
             "note": "\"Tsumahajiki\" refers to the action of placing the fingernail (typically the middle finger) against the pad of the thumb and flicking to produce a sound. Originally derived from the esoteric Buddhist practice known as \"danji\" (弾指), it carried a sacred meaning. In later secular contexts, however, it came to signify gestures made when things went wrong or when expressing disdain or alienation. In this context, the act may not merely describe a physical motion but also subtly suggest feelings of loneliness, fatigue, or resignation."
           }
-        ]
+        ],
+	"notes-zh": [
+	  {
+	    "title": "「つまはじき」",
+	    "note": "「つまはじき」是指用中指等手指的指甲抵住拇指的指腹，然后弹出声音的动作。它最初源自密教的“弹指”修行，具有宗教意义。但在后来的世俗语境中，这个动作被用来表示事情不顺利时的手势，或表达对人的疏远和憎恶。在这里，这个动作不仅仅是对身体动作的描述，还可能暗示内心的寂寞、疲惫或无奈。"
+	  }
+	]
       },
       {
         "date": "20250429",
