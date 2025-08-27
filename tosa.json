@@ -13127,8 +13127,10 @@
         "koutei-yamagen": "二十五日、楫取らの北風あしといへば、船いださず。",
         "translation-ja": "二十五日、楫取らが「北風が悪い」というので、船を出さない。",
         "translation-en": "On the twenty-fifth, since the north wind is strong, we do not set out the boat.",
+	"translation-zh": "廿五日，船夫们说“北风，险”，因此没出船。",
         "translation-ja-natural": "二十五日、楫取たちが、「北風が強い」というので、船を出さない。",
         "translation-en-natural": "On the twenty-fifth, since the north wind is strong, we do not set out the boat.",
+	"translation-zh-natural": "二十五日，船夫们说“北风很大”，所以没有出船。",
         "notes-ja": {
           "オリジナルの校訂": "廿五日、※(「楫＋戈」、第3水準1-86-21)取らの北風あしといへば、船いださず。",
           "語りと時間": "「北風あしといへば」という語りは、当日の出来事を現在進行形のように語っており、即時性の高い語り口になっている。"
@@ -13136,7 +13138,11 @@
         "notes-en": {
           "original text": "The characters 'kaji' (楫) and 'tori' (取) are combined with the radical for 'spear' (戈) in the original text, indicating a specific kanji variant.",
           "narrative perspective": "The phrase 'since the north wind is strong' reflects a present-oriented viewpoint. The sentence structure suggests immediacy and the narrator’s real-time observation."
-        }
+        },
+	"notes-zh": {
+	  "原文": "原文中“kaji”（楫）和“tori”（取）与“spear”（戈）的偏旁结合，表示特定的汉字变体。",
+	  "叙述视角": "“因为北风很大”这一短语反映了一种面向现在的视角。句子结构暗示了即时性和叙述者的实时观察。"
+	}
       },
       {
         "date": "20250423",
@@ -13146,14 +13152,19 @@
         "koutei-yamagen": "海賊追ひくといふ事絶えずきこゆ。",
         "translation-ja": "海賊が追ってくるという噂は、絶えず聞こえてくる。",
         "translation-en": "The rumor that pirates are pursuing us is constantly heard.",
+	"translation-zh": "所谓海盗追来的传闻不断听说。",
         "translation-ja-natural": "海賊が追ってくるという噂は、絶えず聞こえてくる。",
         "translation-en-natural": "The rumor that pirates are pursuing us is constantly heard.",
+	"translation-zh-natural": "我们不断听说海盗追来的传闻。",
         "notes-ja": {
           "伝聞と不安": "『絶えずきこゆ』という表現は、客観的な情報というよりも、海上の噂や伝聞を意味しており、聞こえてくる範囲の不安感が漂っている。このような『聞こえてくる』という記述は、貫之が語り手として自分の体験を主観的に挿し挟まず、状況をそのまま記録していることを示す。"
         },
         "notes-en": {
           "rumor and anxiety": "The phrase 'is constantly heard' conveys the idea of rumors or ambient talk, rather than confirmed reports. This reflects a sea-bound environment filled with tension, and the narrator’s choice to report without subjective embellishment enhances the documentary style of the diary."
-        }
+        },
+	"notes-zh": {
+	  "传闻与不安": "“不断听说”这一表达传达了传闻或环境谈话的概念，而非确凿的报告。这反映了一个充满紧张气氛的海上环境，叙述者选择不加主观修饰地报道，增强了日记的纪实风格。"
+	}
       },
       {
         "date": "20250424",
