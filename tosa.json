@@ -14487,46 +14487,74 @@
         "koutei-yamagen": "二十八日、よもすがら雨やまず。",
         "translation-ja": "二十八日、夜通し雨がやまない。",
         "translation-en": "On the 28th, the rain does not cease all night.",
+	"translation-zh": "廿八日，一整夜雨不停。", 
         "phrase-gloss": [
           {
             "phrase": "廿八日",
             "gloss": "the 28th day",
+	    "gloss-morph": "twentieth.day.plus+ eighth.day",
+	    "gloss-zh": "廿八日",
+	    "gloss-zh-morph": "廿日余+ 八日",
             "words": [
               {
-                "word": "廿八",
-                "gloss": "twenty-eight"
-              },
-              {
-                "word": "日",
-                "gloss": "day"
+                "word": "廿",
+                "gloss": "twentieth",
+		"gloss-morph": "twentieth.day.plus+",
+		"gloss-zh": "廿",
+		"gloss-zh-morph": "廿日余+"
+	      },
+	      {
+		"word": "八日",
+		"gloss": "eighth.day",
+		"gloss-morph": "eighth.day",
+		"gloss-zh": "八日",
+		"gloss-zh-morph": "八日"
               }
             ]
           },
           {
             "phrase": "よもすがら",
             "gloss": "all night",
+	    "gloss-morph": "all.night",
+	    "gloss-zh": "整夜",
+	    "gloss-zh-morph": "整夜",
             "words": [
               {
                 "word": "よもすがら",
-                "gloss": "all night"
+                "gloss": "all night",
+		"gloss-morph": "all.night",
+		"gloss-zh": "整夜",
+		"gloss-zh-morph": "整夜"
               }
             ]
           },
           {
             "phrase": "雨やまず",
             "gloss": "the rain does not cease",
+	    "gloss-morph": "rain stop-THM=NEG.CCL",
+	    "gloss-zh": "雨 不停",
+	    "gloss-zh-morph": "雨 停-THM=NEG.CCL",
             "words": [
               {
                 "word": "雨",
-                "gloss": "rain"
+                "gloss": "rain",
+		"gloss-morph": "rain",
+		"gloss-zh": "雨",
+		"gloss-zh-morph": "雨"
               },
               {
                 "word": "やま",
-                "gloss": "stop"
+                "gloss": "stop",
+		"gloss-morph": "stop-THM",
+		"gloss-zh": "停",
+		"gloss-zh-morph": "停-THM"
               },
               {
                 "word": "ず",
-                "gloss": "NEG"
+                "gloss": "NEG",
+		"gloss-morph": "=NEG.CCL",
+		"gloss-zh": "不",
+		"gloss-zh-morph": "=NEG.CCL"
               }
             ]
           }
@@ -14534,6 +14562,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "二十八日、夜通し雨がやまない。",
         "translation-en-natural": "On the 28th, the rain does not cease all night.",
+	"translation-zh-natural": "二十八日，一整夜雨不停地下。",
         "notes-ja": [
           {
             "title": "「よもすがら」",
@@ -14545,7 +14574,13 @@
             "title": "\"よもすがら\" (all night)",
             "note": "\"Yomosugara\" means all night or throughout the night, often used to emphasize the sound of rain or wind. This expression serves to highlight the harshness of nature and the sense of solitude during a long night."
           }
-        ]
+        ],
+	"notes-zh": [
+	  {
+	    "title": "「よもすがら」",
+	    "note": "「よもすがら」意为整夜或通宵，常用于强调雨声或风声。这个表达用来突出自然的严酷以及漫长夜晚中的孤独感。"
+	  }
+	]
       },
       {
         "date": "20250429",
@@ -14555,24 +14590,35 @@
         "koutei-yamagen": "けさも。",
         "translation-ja": "今朝も。",
         "translation-en": "This morning too.",
+	"translation-zh": "今晨也。",
         "phrase-gloss": [
           {
             "phrase": "けさも",
             "gloss": "this morning too",
+	    "gloss-morph": "this.morning=IFO",
+	    "gloss-zh": "今晨 也",
+	    "gloss-zh-morph": "今晨=IFO",
             "words": [
               {
                 "word": "けさ",
-                "gloss": "this morning"
+                "gloss": "this morning",
+		"gloss-morph": "this.morning",
+		"gloss-zh": "今晨",
+		"gloss-zh-morph": "今晨"
               },
               {
                 "word": "も",
-                "gloss": "also"
+                "gloss": "also",
+		"gloss-morph": "=IFO",
+		"gloss-zh": "也",
+		"gloss-zh-morph": "=IFO"
               }
             ]
           }
         ],
         "translation-ja-natural": "今朝も。",
         "translation-en-natural": "This morning too.",
+	"translation-zh-natural": "今早也是（如此）。",
         "notes-ja": [
           {
             "title": "「けさも」",
@@ -14584,7 +14630,13 @@
             "title": "\"けさも\" (this morning too)",
             "note": "\"Kesa mo\" means 'this morning too,' emphasizing the continuation of the previous day's rain or the harshness of the weather."
           }
-        ]
+        ],
+	"notes-zh": [
+	  {
+	    "title": "「けさも」",
+	    "note": "「けさも」意为“今晨也是”，用来强调前一天的雨仍在继续，或天气的严酷。"
+	  }
+	]
       },
       {
         "date": "20250429",
