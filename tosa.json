@@ -15202,7 +15202,7 @@
                 "gloss": "although",
 		"gloss-morph": "=XCC",
 		"gloss-zh": "但是",
-		"gloss-zh-morph": "=但是"
+		"gloss-zh-morph": "=XCC"
               }
             ]
           },
@@ -16917,39 +16917,59 @@
         "koutei-yamagen": "三十日、雨風ふかず。",
         "translation-ja": "三十日、雨も風も吹かない。",
         "translation-en": "On the thirtieth, neither rain nor wind blows.",
+	"translation-zh": "三十日，带雨的风不吹。",
         "phrase-gloss": [
           {
             "phrase": "三十日",
             "gloss": "thirtieth day",
+	    "gloss-morph": "thirtieth.day",
+	    "gloss-zh": "三十日",
+	    "gloss-zh-morph": "三十日",
             "words": [
               {
                 "word": "三十日",
-                "gloss": "thirtieth day"
+                "gloss": "thirtieth day",
+		"gloss-morph": "thirtieth.day",
+		"gloss-zh": "三十日",
+		"gloss-zh-morph": "三十日"
               }
             ]
           },
           {
             "phrase": "雨風ふかず",
             "gloss": "neither rain nor wind blows",
+	    "gloss-morph": "rain+wind blow-THM=NEG.CCL",
+	    "gloss-zh": "雨+风 吹-着=不",
+	    "gloss-zh-morph": "雨+风 吹-THM=NEG.CCL",
             "words": [
               {
                 "word": "雨風",
-                "gloss": "rain and wind"
+                "gloss": "rain and wind",
+		"gloss-morph": "rain+wind",
+		"gloss-zh": "带雨的风",
+		"gloss-zh-morph": "带雨的风"
               },
               {
                 "word": "ふか",
-                "gloss": "blow"
+                "gloss": "blow",
+		"gloss-morph": "blow-THM",
+		"gloss-zh": "吹",
+		"gloss-zh-morph": "吹-THM"
               },
               {
                 "word": "ず",
-                "gloss": "NEG"
+                "gloss": "NEG",
+		"gloss-morph": "=NEG.CCL",
+		"gloss-zh": "不",
+		"gloss-zh-morph": "不"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "三十日、雨も風も吹かない。",
-        "translation-en-natural": "On the thirtieth, neither rain nor wind blows."
+        "translation-en-natural": "On the thirtieth, neither rain nor wind blows.",
+	"translation-zh-natural": "三十日没有起带雨的风。"
       },
       {
         "date": "20250504",
@@ -16959,122 +16979,204 @@
         "koutei-yamagen": "海賊は、夜歩きせざなりと聞きて、夜中ばかりに船を出だして、阿波の水門をわたる。",
         "translation-ja": "海賊は夜には歩き回らないと聞いて、夜中ごろに船を出し、阿波の水門を渡る。",
         "translation-en": "Hearing that pirates do not walk around at night, we put out the boat around midnight and crossed the water gate of Awa.",
+	"translation-zh": "听说海盗是夜晚不出没的，于半夜左右出船，渡过阿波的水门。",
         "phrase-gloss": [
           {
             "phrase": "海賊は",
             "gloss": "as for the pirates",
+	    "gloss-morph": "pirates=TOP",
+	    "gloss-zh": "海盗=TOP",
+	    "gloss-zh-morph": "海盗=TOP",
             "words": [
               {
                 "word": "海賊",
-                "gloss": "pirates"
+                "gloss": "pirates",
+		"gloss-morph": "pirates",
+		"gloss-zh": "海盗",
+		"gloss-zh-morph": "海盗"
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "TOP",
+		"gloss-zh-morph": "=TOP"
               }
             ]
           },
           {
             "phrase": "夜ありきせざなりと聞きて",
             "gloss": "hearing that they do not walk around at night",
+	    "gloss-morph": "night walk.around-NML+do-THM=NEG+COP-CCL=QT hear-THM=SEQ",
+	    "gloss-zh": "夜 走动做 不 是 QUOT 听说 SEQ",
+	    "gloss-zh-morph": "夜 走动-NML+做-THM=NEG+COP-CCL=QT 听说-THM=SEQ",
             "words": [
               {
                 "word": "夜",
-                "gloss": "night"
+                "gloss": "night",
+		"gloss-morph": "night",
+		"gloss-zh": "夜",
+		"gloss-zh-morph": "夜"
               },
               {
                 "word": "ありき",
-                "gloss": "walk around"
+                "gloss": "walk around",
+		"gloss-morph": "walk.around-NML",
+		"gloss-zh": "走动",
+		"gloss-zh-morph": "走动-NML"
               },
               {
                 "word": "せ",
-                "gloss": "do"
+                "gloss": "do",
+		"gloss-morph": "+do-THM",
+		"gloss-zh": "做",
+		"gloss-zh-morph": "做-THM"
               },
               {
                 "word": "ざ",
-                "gloss": "NEG"
+                "gloss": "NEG",
+		"gloss-morph": "=NEG+",
+		"gloss-zh": "不",
+		"gloss-zh-morph": "=NEG+"
               },
               {
                 "word": "なり",
-                "gloss": "COP"
+                "gloss": "COP",
+		"gloss-morph": "=COP-CCL",
+		"gloss-zh": "是",
+		"gloss-zh-morph": "=COP-CCL"
               },
               {
                 "word": "と",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-morph": "=QT",
+		"gloss-zh": "QUOT",
+		"gloss-zh-morph": "=QT"
               },
               {
                 "word": "聞き",
-                "gloss": "hear"
+                "gloss": "hear",
+		"gloss-morph": "hear-THM",
+		"gloss-zh": "听说",
+		"gloss-zh-morph": "听说-THM"
               },
               {
                 "word": "て",
-                "gloss": "CVB"
+                "gloss": "CVB",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "着",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "夜中ばかりに",
             "gloss": "around midnight",
+	    "gloss-morph": "midnight=APPR=DAT",
+	    "gloss-zh": "半夜 左右 于",
+	    "gloss-zh-morph": "半夜=APPR=DAT",
             "words": [
               {
                 "word": "夜中",
-                "gloss": "midnight"
+                "gloss": "midnight",
+		"gloss-morph": "midnight",
+		"gloss-zh": "半夜",
+		"gloss-zh-morph": "半夜"
               },
               {
                 "word": "ばかり",
-                "gloss": "approximately"
+                "gloss": "approximately",
+		"gloss-morph": "=APPR",
+		"gloss-zh": "左右",
+		"gloss-zh-morph": "=APPR"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "于",
+		"gloss-zh-morph": "=DAT"
               }
             ]
           },
           {
             "phrase": "船を出して",
             "gloss": "put out the boat",
+	    "gloss-morph": "boat=ACC put.out-THM=SEQ",
+	    "gloss-zh": "船 ACC 出-着",
+	    "gloss-zh-morph": "船=ACC 出-THM=SEQ",
             "words": [
               {
                 "word": "船",
-                "gloss": "boat"
+                "gloss": "boat",
+		"gloss-morph": "boat",
+		"gloss-zh": "船",
+		"gloss-zh-morph": "船"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "ACC",
+		"gloss-zh-morph": "=ACC"
               },
               {
                 "word": "出し",
-                "gloss": "put out"
+                "gloss": "put out",
+		"gloss-morph": "put.out-THM",
+		"gloss-zh": "出",
+		"gloss-zh-morph": "出-THM"
               },
               {
                 "word": "て",
-                "gloss": "CVB"
+                "gloss": "CVB",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "着",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "阿波のみとを渡る",
             "gloss": "cross the water gate of Awa",
+	    "gloss-morph": "Awa=GEN water.gate=ACC cross-CCL",
+	    "gloss-zh": "阿波 的 水门 ACC 过",
+	    "gloss-zh-morph": "阿波=GEN 水门=ACC 过-CCL",
             "words": [
               {
                 "word": "阿波",
-                "gloss": "Awa"
+                "gloss": "Awa",
+		"gloss-morph": "Awa",
+		"gloss-zh": "阿波",
+		"gloss-zh-morph": "阿波"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "みと",
-                "gloss": "water gate"
+                "gloss": "water gate",
+		"gloss-morph": "water.gate",
+		"gloss-zh": "水门",
+		"gloss-zh-morph": "水门"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "ACC",
+		"gloss-zh-morph": "=ACC"
               },
               {
                 "word": "渡る",
-                "gloss": "cross"
+                "gloss": "cross",
+		"gloss-morph": "cross-CCL",
+		"gloss-zh": "过",
+		"gloss-zh-morph": "过-CCL"
               }
             ]
           }
@@ -17099,9 +17201,20 @@
             "note": "Literally 'water gate'; an archaic term referring to port entrances or water passages. In this context, it likely denotes a sea channel or port area in Awa (present-day Tokushima)."
           }
         ],
-        "glossary-abbreviations": null,
+	"gloss－notes-zh": [
+	  {
+	    "term": "ありき",
+	    "note": "这是“歩く”（走动）的连用形，在这里起到古典意义上的“走动”的作用。在“夜ありき”（夜晚走动）等表达中，它通常暗示夜间的游荡或活动，并与盗贼或不法分子有关。在这种情况下，它指的是海盗在夜间的移动或袭击。"
+	  },
+	  {
+	    "term": "みと",
+	    "note": "字面意思是“水门”；一个古老的术语，指港口入口或水道。在这种情况下，它很可能指的是阿波（现今的德岛县）的一条海峡或港口区域。"
+	  }
+	],
+	"glossary-abbreviations": null,
         "translation-ja-natural": "海賊は夜には出歩かないと聞いていたので、私たちは夜中に船を出して、阿波の水門をこっそりと渡った。",
-        "translation-en-natural": "We had heard that pirates don't go out at night, so we set sail around midnight and quietly passed through the water gate of Awa."
+        "translation-en-natural": "We had heard that pirates don't go out at night, so we set sail around midnight and quietly passed through the water gate of Awa.",
+	"translation-zh-natural": "听说海盗夜晚不出没，所以我们在半夜驶船，渡过阿波的水门。"
       },
       {
         "date": "20250504",
@@ -17111,104 +17224,174 @@
         "koutei-yamagen": "夜中なれば、西東も見えず、男女辛く神佛を祈りてこの水門を渡りぬ。",
         "translation-ja": "夜中なので、西も東も見えず、男女、つらく神仏を祈って、この水門を渡った。",
         "translation-en": "As it was the middle of the night, west and east could not be seen; men and women prayed painfully to the gods and Buddhas and crossed this water gate.",
+	"translation-zh": "因为是夜半，看不见东、西，男人女人痛苦地祈祷神佛，渡过了此水门。",
         "phrase-gloss": [
           {
             "phrase": "夜中なれば",
             "gloss": "as it was the middle of the night",
+	    "gloss-morph": "midnight=COP-THM=HCD",
+	    "gloss-zh": "半夜 是 因此",
+	    "gloss-zh-morph": "半夜=COP-THM=HCD",
             "words": [
               {
                 "word": "夜中",
-                "gloss": "midnight"
+                "gloss": "midnight",
+		"gloss-morph": "midnight",
+		"gloss-zh": "半夜",
+		"gloss-zh-morph": "半夜"
               },
               {
                 "word": "なれ",
-                "gloss": "COP.CONJ"
+                "gloss": "COP.CONJ",
+		"gloss-morph": "=COP-THM",
+		"gloss-zh": "是",
+		"gloss-zh-morph": "=COP-THM"
               },
               {
                 "word": "ば",
-                "gloss": "COND"
+                "gloss": "COND",
+		"gloss-morph": "=HCD",
+		"gloss-zh": "因此",
+		"gloss-zh-morph": "=HCD"
               }
             ]
           },
           {
             "phrase": "西ひんがしも見えず",
             "gloss": "neither west nor east could be seen",
+	    "gloss-morph": "west+east=IFO be.visible－THM=NEG.CCL",
+	    "gloss-zh": "西+东 也 能-看见 不",
+	    "gloss-zh-morph": "西+东=IFO 能看见-THM=NEG.CCL",
             "words": [
               {
                 "word": "西",
-                "gloss": "west"
+                "gloss": "west",
+		"gloss-morph": "west",
+		"gloss-zh": "西",
+		"gloss-zh-morph": "西"
               },
               {
                 "word": "ひんがし",
-                "gloss": "east"
+                "gloss": "east",
+		"gloss-morph": "east",
+		"gloss-zh": "东",
+		"gloss-zh-morph": "东"
               },
               {
                 "word": "も",
-                "gloss": "ADD"
+                "gloss": "ADD",
+		"gloss-morph": "=IFO",
+		"gloss-zh": "也",
+		"gloss-zh-morph": "=IFO"
               },
               {
                 "word": "見え",
-                "gloss": "be visible"
+                "gloss": "be visible",
+		"gloss-morph": "be.visible-THM",
+		"gloss-zh": "能-看见",
+		"gloss-zh-morph": "能看见-THM"
               },
               {
                 "word": "ず",
-                "gloss": "NEG"
+                "gloss": "NEG",
+		"gloss-morph": "=NEG.CCL",
+		"gloss-zh": "不",
+		"gloss-zh-morph": "=NEG.CCL"
               }
             ]
           },
           {
             "phrase": "男女辛く神佛を祈りて",
             "gloss": "men and women painfully prayed to the gods and Buddhas",
+	    "gloss-morph": "men.and.women painful-SER gods+Buddhas=ACC pray-THM=SEQ",
+	    "gloss-zh": "男人和女人 痛苦-地 神佛 ACC 祈祷-着",
+	    "gloss-zh-morph": "男人.和.女人 痛苦-SER 神+佛=ACC 祈祷-THM=SEQ",
             "words": [
               {
                 "word": "男女",
-                "gloss": "men and women"
+                "gloss": "men and women",
+		"gloss-morph": "men.and.women",
+		"gloss-zh": "男人和女人",
+		"gloss-zh-morph": "男人.和.女人"
               },
               {
                 "word": "辛く",
-                "gloss": "painfully"
+                "gloss": "painfully",
+		"gloss-morph": "painful-SER",
+		"gloss-zh": "痛苦-地",
+		"gloss-zh-morph": "痛苦-SER"
               },
               {
                 "word": "神佛",
-                "gloss": "gods and Buddhas"
+                "gloss": "gods and Buddhas",
+		"gloss-morph": "gods+Buddhas",
+		"gloss-zh": "神佛",
+		"gloss-zh-morph": "神+佛"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "ACC",
+		"gloss-zh-morph": "=ACC"
               },
               {
                 "word": "祈り",
-                "gloss": "pray"
+                "gloss": "pray",
+		"gloss-morph": "pray-THM",
+		"gloss-zh": "祈祷",
+		"gloss-zh-morph": "祈祷-THM"
               },
               {
                 "word": "て",
-                "gloss": "CVB"
+                "gloss": "CVB",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "着",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "このみとを渡りぬ",
             "gloss": "crossed this water gate",
+	    "gloss-morph": "DET+water.gate=ACC cross-THM=MNF-CCL",
+	    "gloss-zh": "这水门 ACC 过-了",
+	    "gloss-zh-morph": "DET+水门=ACC 过-THM=MNF-CCL",
             "words": [
               {
                 "word": "この",
-                "gloss": "this"
+                "gloss": "this",
+		"gloss-morph": "DET+",
+		"gloss-zh": "这",
+		"gloss-zh-morph": "这+"
               },
               {
                 "word": "みと",
-                "gloss": "water gate"
+                "gloss": "water gate",
+		"gloss-morph": "water.gate",
+		"gloss-zh": "水门",
+		"gloss-zh-morph": "水门"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "ACC",
+		"gloss-zh-morph": "=ACC"
               },
               {
                 "word": "渡り",
-                "gloss": "cross"
+                "gloss": "cross",
+		"gloss-morph": "cross-THM",
+		"gloss-zh": "过",
+		"gloss-zh-morph": "过-THM"
               },
               {
                 "word": "ぬ",
-                "gloss": "PFV"
+                "gloss": "PFV",
+		"gloss-morph": "=MNF-CCL",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "=MNF-CCL"
               }
             ]
           }
@@ -17233,9 +17416,20 @@
             "note": "A perfective auxiliary verb indicating the completion of an action. In 'watari-nu' (渡りぬ), it marks the successful crossing, often carrying a nuance of relief or achievement."
           }
         ],
+	"gloss-notes-zh": [
+	  {
+	    "term": "辛く",
+	    "note": "这里读作“つらく”，表示在困境中切实地祈祷的样子。它不仅仅表示努力，还包含了在痛苦中依赖地祈祷的意思。"
+	  },
+	  {
+	    "term": "ぬ",
+	    "note": "表示动作完成的助动词“ぬ”。在“渡りぬ”中，表示“渡过了（完成）”，但从语境上也可以理解为顺利渡过后的成就感和安心感。"
+	  }
+	],
         "glossary-abbreviations": null,
         "translation-ja-natural": "夜中だったので、東も西も見えず、男も女も、不安の中で神仏にすがりながら、この水門を渡った。",
-        "translation-en-natural": "In the middle of the night, unable to see east or west, both men and women clung to prayer as they passed through the water gate in fear."
+        "translation-en-natural": "In the middle of the night, unable to see east or west, both men and women clung to prayer as they passed through the water gate in fear.",
+	"translation-zh-natural": "因为是夜半，分不清东与西，男人女人们在不安中向神佛祈求平安，渡过了此水门。"
       },
       {
         "date": "20250504",
@@ -17245,98 +17439,165 @@
         "koutei-yamagen": "寅卯の時ばかりに、沼島といふ所を過ぎて、たな川といふ所を渡る。",
         "translation-ja": "寅卯の時ばかりに、沼島という所を過ぎて、たな川という所を渡る。",
         "translation-en": "Around the time of the Tiger and Rabbit hours, passing a place called Nushima, crossing a place called Tanakawa.",
+	"translation-zh": "于寅卯之时左右，经过叫作沼岛之地，渡过叫作棚川之地。",
         "phrase-gloss": [
           {
             "phrase": "寅卯の時ばかりに",
             "gloss": "around the time of the Tiger and Rabbit hours",
+	    "gloss-morph": "Tiger+Rabbit=GEN hour=APPR=DAT",
+	    "gloss-zh": "寅.卯 的 时刻 于",
+	    "gloss-zh-morph": "寅.卯=GEN 时刻=APPR=DAT",
             "words": [
               {
                 "word": "寅",
-                "gloss": "Tiger (3–5 a.m.)"
+                "gloss": "Tiger (3–5 a.m.)",
+		"gloss-morph": "Tiger",
+		"gloss-zh": "寅",
+		"gloss-zh-morph": "寅"
               },
               {
                 "word": "卯",
-                "gloss": "Rabbit (5–7 a.m.)"
+                "gloss": "Rabbit (5–7 a.m.)",
+		"gloss-morph": "Rabbit",
+		"gloss-zh": "卯",
+		"gloss-zh-morph": "卯"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "時",
-                "gloss": "time"
+                "gloss": "time",
+		"gloss-morph": "hour",
+		"gloss-zh": "时刻",
+		"gloss-zh-morph": "时刻"
               },
               {
                 "word": "ばかり",
-                "gloss": "approximately"
+                "gloss": "approximately",
+		"gloss-morph": "=APPR",
+		"gloss-zh": "左右",
+		"gloss-zh-morph": "=APPR"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "于",
+		"gloss-zh-morph": "=DAT"
               }
             ]
           },
           {
             "phrase": "ぬ島といふ所を過ぎて",
             "gloss": "passing a place called Nushima",
+	    "gloss-morph": "Nushima=QT say-ADN place=ACC pass-THM=SEQ",
+	    "gloss-zh": "沼岛 QUOT 叫-的 地方 ACC 过-着",
+	    "gloss-zh-morph": "沼岛=QT 叫-ADN 地方=ACC 过-THM=SEQ",
             "words": [
               {
                 "word": "ぬ島",
-                "gloss": "Nushima"
+                "gloss": "Nushima",
+		"gloss-morph": "Nushima",
+		"gloss-zh": "沼岛",
+		"gloss-zh-morph": "沼岛"
               },
               {
                 "word": "と",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-morph": "=QT",
+		"gloss-zh": "QUOT",
+		"gloss-zh-morph": "=QT"
               },
               {
                 "word": "いふ",
-                "gloss": "say/call"
+                "gloss": "say/call",
+		"gloss-morph": "say-ADN",
+		"gloss-zh": "叫-的",
+		"gloss-zh-morph": "叫-ADN"
               },
               {
                 "word": "所",
-                "gloss": "place"
+                "gloss": "place",
+		"gloss-morph": "place",
+		"gloss-zh": "地方",
+		"gloss-zh-morph": "地方"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "ACC",
+		"gloss-zh-morph": "=ACC"
               },
               {
                 "word": "過ぎ",
-                "gloss": "pass"
+                "gloss": "pass",
+		"gloss-morph": "pass-THM",
+		"gloss-zh": "过",
+		"gloss-zh-morph": "过-THM"
               },
               {
                 "word": "て",
-                "gloss": "CVB"
+                "gloss": "CVB",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "着",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "たな川といふ所を渡る",
             "gloss": "crossing a place called Tanakawa",
+	    "gloss-morph": "Tanakawa=QT say-ADN place=ACC cross-CCL",
+	    "gloss-zh": "棚川 QUOT 叫-的 地方 ACC 过",
+	    "gloss-zh-morph": "棚川=QT 叫-ADN 地方=ACC 过-CCL",
             "words": [
               {
                 "word": "たな川",
-                "gloss": "Tanakawa"
+                "gloss": "Tanakawa",
+		"gloss-morph": "Tanakawa",
+		"gloss-zh": "棚川",
+		"gloss-zh-morph": "棚川"
               },
               {
                 "word": "と",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-morph": "=QT",
+		"gloss-zh": "QUOT",
+		"gloss-zh-morph": "=QT"
               },
               {
                 "word": "いふ",
-                "gloss": "say/call"
+                "gloss": "say/call",
+		"gloss-morph": "say-ADN",
+		"gloss-zh": "叫-的",
+		"gloss-zh-morph": "叫-ADN"
               },
               {
                 "word": "所",
-                "gloss": "place"
+                "gloss": "place",
+		"gloss-morph": "place",
+		"gloss-zh": "地方",
+		"gloss-zh-morph": "地方"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "ACC",
+		"gloss-zh-morph": "=ACC"
               },
               {
                 "word": "渡る",
-                "gloss": "cross"
+                "gloss": "cross",
+		"gloss-morph": "cross-CCL",
+		"gloss-zh": "过",
+		"gloss-zh-morph": "过-CCL"
               }
             ]
           }
@@ -17369,9 +17630,24 @@
             "note": "Exact location unknown. Possibly refers to a river or waterway along the Kii Peninsula coastline. Due to variation in place name orthography during the Heian period, exact identification is uncertain."
           }
         ],
+	"gloss-notes-zh": [
+	  {
+	    "term": "寅卯",
+	    "note": "根据十二生肖的时间表示法：寅（上午3点至5点）和卯（上午5点至7点）。连用时，指早晨的时间段。"
+	  },
+	  {
+	    "term": "ぬ島",
+	    "note": "被认为是现今兵库县南淡路市的沼岛（ぬしま）。位于纪伊水道北部，自古以来作为航海的标志。"
+	  },
+	  {
+	    "term": "たな川",
+	    "note": "确切位置不详。可能指纪伊半岛沿岸的一条河流或水道。由于平安时期地名和自然地形的书写多有变化，准确识别较为困难。"
+	  }
+	],
         "glossary-abbreviations": null,
         "translation-ja-natural": "寅の刻から卯の刻にかけて、ぬ島という島を通り過ぎ、たな川という川を渡った。",
-        "translation-en-natural": "Sometime between the Tiger and Rabbit hours, we passed by the island called Nushima and crossed a river called Tanakawa."
+        "translation-en-natural": "Sometime between the Tiger and Rabbit hours, we passed by the island called Nushima and crossed a river called Tanakawa.",
+	"translation-zh-natural": "在寅卯时分，我们经过了名为沼岛的岛屿，渡过了名为棚川的河流。"
       },
       {
         "date": "20250504",
@@ -17381,64 +17657,107 @@
         "koutei-yamagen": "辛く急ぎて、和泉の灘といふ所に至りぬ。",
         "translation-ja": "かろうじて急いで、和泉の灘という所に至った。",
         "translation-en": "Barely hurrying, we reached a place called the Izumi coast.",
+	"translation-zh": "勉强急行抵达叫作和泉之灘的地方。",
         "phrase-gloss": [
           {
             "phrase": "からく急ぎて",
             "gloss": "hastily and with difficulty",
+	    "gloss-morph": "difficult-SER hurry-THM=SEQ",
+	    "gloss-zh": "勉强-地 急行-着",
+	    "gloss-zh-morph": "勉强-SER 急行-THM=SEQ",
             "words": [
               {
                 "word": "からく",
-                "gloss": "with difficulty, barely"
+                "gloss": "with difficulty, barely",
+		"gloss-morph": "difficult-SER",
+		"gloss-zh": "勉强-地",
+		"gloss-zh-morph": "勉强-SER"
               },
               {
                 "word": "急ぎ",
-                "gloss": "hurry"
+                "gloss": "hurry",
+		"gloss-morph": "hurry-THM",
+		"gloss-zh": "急行",
+		"gloss-zh-morph": "急行-THM"
               },
               {
                 "word": "て",
-                "gloss": "CVB"
+                "gloss": "CVB",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "着",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "和泉の灘といふ所に至りぬ",
             "gloss": "we arrived at a place called Izumi no Nada",
+	    "gloss-morph": "Izumi=GEN+coast=QT say-ADN place=DAT arrive-THM=MNF-CCL",
+	    "gloss-zh": "和泉 的 海岸 QUOT 叫－的 地方 于 抵达-了",
+	    "gloss-zh-morph": "和泉=GEN+海岸=QT 叫-ADN 地方=DAT 抵达-THM=MNF-CCL",
             "words": [
               {
                 "word": "和泉",
-                "gloss": "Izumi"
+                "gloss": "Izumi",
+		"gloss-morph": "Izumi",
+		"gloss-zh": "和泉",
+		"gloss-zh-morph": "和泉"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "灘",
-                "gloss": "coast/rough sea"
+                "gloss": "coast/rough sea",
+		"gloss-morph": "coast",
+		"gloss-zh": "海岸",
+		"gloss-zh-morph": "海岸"
               },
               {
                 "word": "と",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-morph": "=QT",
+		"gloss-zh": "QUOT",
+		"gloss-zh-morph": "=QT"
               },
               {
                 "word": "いふ",
-                "gloss": "say/call"
+                "gloss": "say/call",
+		"gloss-morph": "say－ADN",
+		"gloss-zh": "叫-的",
+		"gloss-zh-morph": "叫-ADN"
               },
               {
                 "word": "所",
-                "gloss": "place"
+                "gloss": "place",
+		"gloss-morph": "place",
+		"gloss-zh": "地方",
+		"gloss-zh-morph": "地方"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "于",
+		"gloss-zh-morph": "=DAT"
               },
               {
                 "word": "至り",
-                "gloss": "arrive"
+                "gloss": "arrive",
+		"gloss-morph": "arrive-THM",
+		"gloss-zh": "抵达",
+		"gloss-zh-morph": "抵达-THM"
               },
               {
                 "word": "ぬ",
-                "gloss": "PFV"
+                "gloss": "PFV",
+		"gloss-morph": "=MNF-CCL",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "=MNF-CCL"
               }
             ]
           }
@@ -17463,9 +17782,20 @@
             "note": "'Izumi' refers to an old province in the southern part of present-day Osaka Prefecture. 'Nada' signifies a rough coastal sea area, suggesting that this part of the journey was particularly treacherous to navigate."
           }
         ],
+	"gloss-notes-zh": [
+	  {
+	    "term": "からく",
+	    "note": "相当于现代日语的“かろうじて”，表示“勉强”、“好不容易”，带有困难的意味。与“急ぎて”结合，强调危机感和紧张感的副词表达。"
+	  },
+	  {
+	    "term": "和泉の灘",
+	    "note": "“和泉”是指现今大阪府南部一带的旧国名。“灘”指波涛汹涌的海岸或海域，暗示该地区航行的困难。被认为是旅途中的一个难关。"
+	  }
+	],
         "glossary-abbreviations": null,
         "translation-ja-natural": "なんとか急いで進み、ようやく和泉の灘という難所にたどり着いた。",
-        "translation-en-natural": "We pushed forward with all our might and finally reached the treacherous waters known as Izumi no Nada."
+        "translation-en-natural": "We pushed forward with all our might and finally reached the treacherous waters known as Izumi no Nada.",
+	"translation-zh-natural": "我们勉强赶路，终于抵达了被称为和泉之灘的险地。"
       },
       {
         "date": "20250504",
@@ -17475,55 +17805,87 @@
         "koutei-yamagen": "今日、海に浪に似たる物なし。",
         "translation-ja": "今日は、海に波に似たるものはない。",
         "translation-en": "Today, there is nothing in the sea that resembles a wave.",
+	"translation-zh": "今天海上没有像波浪的东西。",
         "phrase-gloss": [
           {
             "phrase": "今日海に",
             "gloss": "today, in the sea",
+	    "gloss-morph": "today sea=DAT",
+	    "gloss-zh": "今日 海 于",
+	    "gloss-zh-morph": "今天 海=DAT",
             "words": [
               {
                 "word": "今日",
-                "gloss": "today"
+                "gloss": "today",
+		"gloss-morph": "today",
+		"gloss-zh": "今日",
+		"gloss-zh-morph": "今天"
               },
               {
                 "word": "海",
-                "gloss": "sea"
+                "gloss": "sea",
+		"gloss-morph": "sea",
+		"gloss-zh": "海",
+		"gloss-zh-morph": "海"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "于",
+		"gloss-zh-morph": "=DAT"
               }
             ]
           },
           {
             "phrase": "浪に似たる物なし",
             "gloss": "there is nothing that resembles a wave",
+	    "gloss-morph": "wave+DAT resemble-THM+STA-ADN thing not.exist-CCL",
+	    "gloss-zh": "波浪 于 类似-着-的 事物 不-存在",
+	    "gloss-zh-morph": "波浪=DAT 相似-THM+STA-ADN 事物 不存在-CCL",
             "words": [
               {
                 "word": "浪",
-                "gloss": "wave"
+                "gloss": "wave",
+		"gloss-morph": "wave",
+		"gloss-zh": "波浪",
+		"gloss-zh-morph": "波浪"
               },
               {
                 "word": "に",
-                "gloss": "DAT"
+                "gloss": "DAT",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "于",
+		"gloss-zh-morph": "=DAT"
               },
               {
                 "word": "似たる",
-                "gloss": "resembling"
+                "gloss": "resembling",
+		"gloss-morph": "resemble-THM+STA-ADN",
+		"gloss-zh": "类似-着-的",
+		"gloss-zh-morph": "相似-THM+STA-ADN"
               },
               {
                 "word": "物",
-                "gloss": "thing"
+                "gloss": "thing",
+		"gloss-morph": "thing",
+		"gloss-zh": "事物",
+		"gloss-zh-morph": "事物"
               },
               {
                 "word": "なし",
-                "gloss": "NEG.exist"
+                "gloss": "NEG.exist",
+		"gloss-morph": "not.exist-CCL",
+		"gloss-zh": "不存在",
+		"gloss-zh-morph": "不存在-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "今日は、海に波らしい波は見られない。",
-        "translation-en-natural": "Today, there isn't a single wave on the sea that even resembles a proper one."
+        "translation-en-natural": "Today, there isn't a single wave on the sea that even resembles a proper one.",
+	"translation-zh-natural": "今天海上没有像样的波浪。"
       },
       {
         "date": "20250504",
@@ -17533,47 +17895,73 @@
         "koutei-yamagen": "神佛の惠蒙ぶれるに似たり。",
         "translation-ja": "神仏の恵みを蒙ったのに似ている。",
         "translation-en": "It resembles having received the blessings of the gods and Buddhas.",
+	"translation-zh": "似乎是受了神佛之恩。",
         "phrase-gloss": [
           {
             "phrase": "神佛の惠",
             "gloss": "blessings of the gods and Buddhas",
+	    "gloss-morph": "gods+Buddhas=GEN blessing",
+	    "gloss-zh": "神佛 的 恩惠",
+	    "gloss-zh-morph": "神+佛=GEN 恩惠",
             "words": [
               {
                 "word": "神佛",
-                "gloss": "gods and Buddhas"
+                "gloss": "gods and Buddhas",
+		"gloss-morph": "gods+Buddhas",
+		"gloss-zh": "神佛",
+		"gloss-zh-morph": "神+佛"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "惠",
-                "gloss": "blessing"
+                "gloss": "blessing",
+		"gloss-morph": "blessing",
+		"gloss-zh": "恩惠",
+		"gloss-zh-morph": "恩惠"
               }
             ]
           },
           {
             "phrase": "蒙ぶれるに似たり",
             "gloss": "resembles having received",
+	    "gloss-morph": "receive-THM+STA-ADN.NL=DAT resemble-THM+STA-CCL",
+	    "gloss-zh": "受-着-的 于 类似-着",
+	    "gloss-zh-morph": "受-THM+STA-ADN.NL=DAT 相似-THM+STA-CCL",
             "words": [
               {
                 "word": "蒙ぶれる",
-                "gloss": "having received"
+                "gloss": "having received",
+		"gloss-morph": "receive-THM+STA-ADN.NL",
+		"gloss-zh": "受-着-的",
+		"gloss-zh-morph": "受-THM+STA-ADN.NL"
               },
               {
                 "word": "に",
-                "gloss": "DAT"
+                "gloss": "DAT",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "于",
+		"gloss-zh-morph": "=DAT"
               },
               {
                 "word": "似たり",
-                "gloss": "resembles"
+                "gloss": "resembles",
+		"gloss-morph": "resemble-THM+STA-CCL",
+		"gloss-zh": "类似-着",
+		"gloss-zh-morph": "相似-THM+STA-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "まるで神仏の恵みを受けたかのように思われた。",
-        "translation-en-natural": "It felt just like receiving the blessings of the gods and Buddhas."
+        "translation-en-natural": "It felt just like receiving the blessings of the gods and Buddhas.",
+	"translation-zh-natural": "就像是蒙受了神佛之恩一般。"
       },
       {
         "date": "20250505",
@@ -17583,105 +17971,170 @@
         "koutei-yamagen": "今日、船に乘りし日より數ふれば、みそかあまり九日になりにけり。",
         "translation-ja": "今日、船に乗った日から数えると、三十九日になってしまった。",
         "translation-en": "Today, counting from the day I boarded the ship, it has become thirty days plus nine days.",
+	"translation-zh": "今日，自登船之日数起，已是三十日有余九日了。",
         "phrase-gloss": [
           {
             "phrase": "けふ",
             "gloss": "today",
+	    "gloss-morph": "today",
+	    "gloss-zh": "今日",
+	    "gloss-zh-morph": "今日",
             "words": [
               {
                 "word": "けふ",
-                "gloss": "today"
+                "gloss": "today",
+		"gloss-morph": "today",
+		"gloss-zh": "今日",
+		"gloss-zh-morph": "今日"
               }
             ]
           },
           {
             "phrase": "船に乘りし日より",
             "gloss": "from the day (I) boarded the boat",
+	    "gloss-morph": "boat=DAT board-THM+PST.ADN day=ABL",
+	    "gloss-zh": "船 于 乘-了-的 日 从",
+	    "gloss-zh-morph": "船=DAT 乘-THM+PST.ADN 日=ABL",
             "words": [
               {
                 "word": "船",
-                "gloss": "boat"
+                "gloss": "boat",
+		"gloss-morph": "boat",
+		"gloss-zh": "船",
+		"gloss-zh-morph": "船"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "于",
+		"gloss-zh-morph": "=DAT"
               },
               {
                 "word": "乘り",
-                "gloss": "board"
+                "gloss": "board",
+		"gloss-morph": "board-THM",
+		"gloss-zh": "乘",
+		"gloss-zh-morph": "乘-THM"
               },
               {
                 "word": "し",
-                "gloss": "PTCP"
+                "gloss": "PTCP",
+		"gloss-morph": "+PST.ADN",
+		"gloss-zh": "了-的",
+		"gloss-zh-morph": "+PST.ADN"
               },
               {
                 "word": "日",
-                "gloss": "day"
+                "gloss": "day",
+		"gloss-morph": "day",
+		"gloss-zh": "日",
+		"gloss-zh-morph": "日"
               },
               {
                 "word": "より",
-                "gloss": "ABL"
+                "gloss": "ABL",
+		"gloss-morph": "=ABL",
+		"gloss-zh": "从",
+		"gloss-zh-morph": "=ABL"
               }
             ]
           },
           {
             "phrase": "數ふれば",
             "gloss": "when (I) count",
+	    "gloss-morph": "count-THM=HCD",
+	    "gloss-zh": "数 于是",
+	    "gloss-zh-morph": "数-THM=HCD",
             "words": [
               {
                 "word": "數ふれ",
-                "gloss": "count"
+                "gloss": "count",
+		"gloss-morph": "count-THM",
+		"gloss-zh": "数",
+		"gloss-zh-morph": "数-THM"
               },
               {
                 "word": "ば",
-                "gloss": "COND"
+                "gloss": "COND",
+		"gloss-morph": "=HCD",
+		"gloss-zh": "于是",
+		"gloss-zh-morph": "=HCD"
               }
             ]
           },
           {
             "phrase": "みそかあまり九日に",
             "gloss": "to thirty days plus nine days",
+	    "gloss-morph": "thirty.days+plus+nine.days=DAT",
+	    "gloss-zh": "三十日 有余 九日 于",
+	    "gloss-zh-morph": "三十日+有余+九日=DAT",
             "words": [
               {
                 "word": "みそか",
-                "gloss": "thirty.days"
+                "gloss": "thirty.days",
+		"gloss-morph": "thirty.days",
+		"gloss-zh": "三十日",
+		"gloss-zh-morph": "三十日"
               },
               {
                 "word": "あまり",
-                "gloss": "plus"
+                "gloss": "plus",
+		"gloss-morph": "plus",
+		"gloss-zh": "有余",
+		"gloss-zh-morph": "有余"
               },
               {
                 "word": "九日",
-                "gloss": "nine.days"
+                "gloss": "nine.days",
+		"gloss-morph": "nine.days",
+		"gloss-zh": "九日",
+		"gloss-zh-morph": "九日"
               },
               {
                 "word": "に",
-                "gloss": "DAT"
+                "gloss": "DAT",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "于",
+		"gloss-zh-morph": "=DAT"
               }
             ]
           },
           {
             "phrase": "なりにけり",
             "gloss": "has become",
+	    "gloss-morph": "become-THM+MNF-THM+RET-CCL",
+	    "gloss-zh": "变成-了-了",
+	    "gloss-zh-morph": "变成-THM+MNF-THM+RET-CCL",
             "words": [
               {
                 "word": "なり",
-                "gloss": "become"
+                "gloss": "become",
+		"gloss-morph": "become-THM",
+		"gloss-zh": "变成",
+		"gloss-zh-morph": "变成-THM"
               },
               {
                 "word": "に",
-                "gloss": "PFV"
+                "gloss": "PFV",
+		"gloss-morph": "=MNF-THM",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "了-THM"
               },
               {
                 "word": "けり",
-                "gloss": "PAST.EXCL"
+                "gloss": "PAST.EXCL",
+		"gloss-morph": "+RET-CCL",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "了-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "今日、船に乗った日から数えてみると、もう三十九日にもなってしまった。",
-        "translation-en-natural": "Today, counting from the day I boarded the boat, it’s already been thirty-nine days."
+        "translation-en-natural": "Today, counting from the day I boarded the boat, it’s already been thirty-nine days.",
+	"translation-zh-natural": "从登船之日数起，今天已经是第三十九天了。"
       },
       {
         "date": "20250505",
@@ -17691,87 +18144,140 @@
         "koutei-yamagen": "今は和泉の国に来ぬれば、海賊ものならず。",
         "translation-ja": "今は和泉の国に来たので、海賊というものではない。",
         "translation-en": "Now, having come to the land of Izumi, it is not the case that there are pirates.",
+	"translation-zh": "现在已到和泉之国，因此海盗不成问题。",
         "phrase-gloss": [
           {
             "phrase": "今は",
             "gloss": "now (as for now)",
+	    "gloss-morph": "now=TOP",
+	    "gloss-zh": "现在 TOP",
+	    "gloss-zh-morph": "现在=TOP",
             "words": [
               {
                 "word": "今",
-                "gloss": "now"
+                "gloss": "now",
+		"gloss-morph": "now",
+		"gloss-zh": "现在",
+		"gloss-zh-morph": "现在"
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "TOP",
+		"gloss-zh-morph": "=TOP"
               }
             ]
           },
           {
             "phrase": "和泉の國に",
             "gloss": "to the land of Izumi",
+	    "gloss-morph": "Izumi=GEN+province=DAT",
+	    "gloss-zh": "和泉国 于",
+	    "gloss-zh-morph": "和泉=GEN+国=DAT",
             "words": [
               {
                 "word": "和泉",
-                "gloss": "Izumi"
+                "gloss": "Izumi",
+		"gloss-morph": "Izumi",
+		"gloss-zh": "和泉",
+		"gloss-zh-morph": "和泉"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "之",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "國",
-                "gloss": "province"
+                "gloss": "province",
+		"gloss-morph": "province",
+		"gloss-zh": "国",
+		"gloss-zh-morph": "国"
               },
               {
                 "word": "に",
-                "gloss": "DAT"
+                "gloss": "DAT",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "于",
+		"gloss-zh-morph": "=DAT"
               }
             ]
           },
           {
             "phrase": "來ぬれば",
             "gloss": "having come, since",
+	    "gloss-morph": "come-THM+MNF-THM=HCD",
+	    "gloss-zh": "来-了 于是",
+	    "gloss-zh-morph": "来-THM+MNF-THM=HCD",
             "words": [
               {
                 "word": "來",
-                "gloss": "come"
+                "gloss": "come",
+		"gloss-morph": "come-THM",
+		"gloss-zh": "来",
+		"gloss-zh-morph": "来-THM"
               },
               {
                 "word": "ぬれ",
-                "gloss": "PFV"
+                "gloss": "PFV",
+		"gloss-morph": "=MNF-THM",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "了-THM"
               },
               {
                 "word": "ば",
-                "gloss": "COND"
+                "gloss": "COND",
+		"gloss-morph": "=HCD",
+		"gloss-zh": "于是",
+		"gloss-zh-morph": "=HCD"
               }
             ]
           },
           {
             "phrase": "海賊ものならず",
             "gloss": "it is not the case that (it is) pirates",
+	    "gloss-morph": "pirates thing+COP-THM=NEG.CCL",
+	    "gloss-zh": "海盗 没问题",
+	    "gloss-zh-morph": "海盗 东西+COP-THM=NEG.CCL",
             "words": [
               {
                 "word": "海賊",
-                "gloss": "pirates"
+                "gloss": "pirates",
+		"gloss-morph": "pirates",
+		"gloss-zh": "海盗",
+		"gloss-zh-morph": "海盗"
               },
               {
                 "word": "もの",
-                "gloss": "thing/one"
+                "gloss": "thing/one",
+		"gloss-morph": "thing",
+		"gloss-zh": "东西",
+		"gloss-zh-morph": "东西"
               },
               {
                 "word": "なら",
-                "gloss": "be-COND"
+                "gloss": "be-COND",
+		"gloss-morph": "=COP-THM",
+		"gloss-zh": "是",
+		"gloss-zh-morph": "=COP-THM"
               },
               {
                 "word": "ず",
-                "gloss": "NEG"
+                "gloss": "NEG",
+		"gloss-morph": "=NEG.CCL",
+		"gloss-zh": "不",
+		"gloss-zh-morph": "=NEG.CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "今は和泉の国まで来たから、もう海賊の心配はない。",
-        "translation-en-natural": "Now that we've arrived in the province of Izumi, there's no more danger from pirates."
+        "translation-en-natural": "Now that we've arrived in the province of Izumi, there's no more danger from pirates.",
+	"translation-zh-natural": "现在已经来到了和泉之国，我们不用再担心海盗的问题了。"
       },
       {
         "date": "20250505",
