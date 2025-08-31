@@ -14372,9 +14372,9 @@
           {
             "phrase": "絶えぬ限りし",
             "gloss": "as long as (the wind) does not cease",
-	    "gloss-morph": "cease-THM=NEG.ADN limit-NML=EMP",
+	    "gloss-morph": "cease-THM=NEG-ADN limit-NML=EMP",
 	    "gloss-zh": "不停-的 只要 EMP",
-	    "gloss-zh-morph": "不停-THM=NEG.ADN 限制-NML=EMP",
+	    "gloss-zh-morph": "不停-THM=NEG-ADN 限制-NML=EMP",
             "words": [
               {
                 "word": "絶え",
@@ -14386,9 +14386,9 @@
               {
                 "word": "ぬ",
                 "gloss": "NEG",
-		"gloss-morph": "=NEG.ADN",
+		"gloss-morph": "=NEG-ADN",
 		"gloss-zh": "不",
-		"gloss-zh-morph": "=NEG.ADN"
+		"gloss-zh-morph": "=NEG-ADN"
               },
               {
                 "word": "限り",
@@ -19186,9 +19186,9 @@
           {
             "phrase": "今、ひといろぞ足らぬ。",
             "gloss": "now, one more color is lacking.",
-	    "gloss-morph": "now one+color=FOC suffice-THM=NEG.ADN",
+	    "gloss-morph": "now one+color=FOC suffice-THM=NEG-ADN",
 	    "gloss-zh": "现在 一色 FOC 不足",
-	    "gloss-zh-morph": "现在 一+色=FOC 足-THM=NEG.ADN",
+	    "gloss-zh-morph": "现在 一+色=FOC 足-THM=NEG-ADN",
             "words": [
               {
                 "word": "今",
@@ -19221,9 +19221,9 @@
               {
                 "word": "ぬ",
                 "gloss": "NEG",
-		"gloss-morph": "=NEG.ADN",
+		"gloss-morph": "=NEG-ADN",
 		"gloss-zh": "不",
-		"gloss-zh-morph": "=NEG.ADN"
+		"gloss-zh-morph": "=NEG-ADN"
               }
             ]
           }
@@ -19572,9 +19572,9 @@
           {
             "phrase": "たたぬ日は",
             "gloss": "on days when (the waves) do not rise",
-	    "gloss-morph": "rise-THM=NEG.ADN day=TOP",
+	    "gloss-morph": "rise-THM=NEG-ADN day=TOP",
 	    "gloss-zh": "起 不-的 日 TOP",
-	    "gloss-zh-morph": "起-THM=NEG.ADN 日=TOP",
+	    "gloss-zh-morph": "起-THM=NEG-ADN 日=TOP",
             "words": [
               {
                 "word": "たた",
@@ -19586,9 +19586,9 @@
               {
                 "word": "ぬ",
                 "gloss": "NEG",
-		"gloss-morph": "=NEG.ADN",
+		"gloss-morph": "=NEG-ADN",
 		"gloss-zh": "不",
-		"gloss-zh-morph": "=NEG.ADN"
+		"gloss-zh-morph": "=NEG-ADN"
               },
               {
                 "word": "日",
@@ -20632,43 +20632,66 @@
         "koutei-yamagen": "二日、雨風止まず。",
         "translation-ja": "二日、雨風は止まない。",
         "translation-en": "On the second day, the rain and wind did not stop.",
+	"translation-zh": "二日，雨、风没有停。",
         "phrase-gloss": [
           {
             "phrase": "二日",
             "gloss": "the second day",
+	    "gloss-morph": "two-day",
+	    "gloss-zh": "二日",
+	    "gloss-zh-morph": "二日",
             "words": [
               {
                 "word": "二",
-                "gloss": "two"
+                "gloss": "two",
+		"gloss-morph": "two",
+		"gloss-zh": "二",
+		"gloss-zh-morph": "二"
               },
               {
                 "word": "日",
-                "gloss": "day"
+                "gloss": "day",
+		"gloss-morph": "day",
+		"gloss-zh": "日",
+		"gloss-zh-morph": "日"
               }
             ]
           },
           {
             "phrase": "雨風止まず",
             "gloss": "the rain and wind did not stop",
+	    "gloss-morph": "rain+wind stop-THM=NEG.CCL",
+	    "gloss-zh": "雨风 停止-不",
+	    "gloss-zh-morph": "雨+风 停止-THM=NEG.CCL",
             "words": [
               {
                 "word": "雨風",
-                "gloss": "rain and wind"
+                "gloss": "rain and wind",
+		"gloss-morph": "rain+wind",
+		"gloss-zh": "雨风",
+		"gloss-zh-morph": "雨+风"
               },
               {
                 "word": "止ま",
-                "gloss": "stop"
+                "gloss": "stop",
+		"gloss-morph": "stop-THM",
+		"gloss-zh": "停止",
+		"gloss-zh-morph": "停止-THM"
               },
               {
                 "word": "ず",
-                "gloss": "NEG"
+                "gloss": "NEG",
+		"gloss-morph": "=NEG.CCL",
+		"gloss-zh": "不",
+		"gloss-zh-morph": "=NEG.CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "二日、雨と風は止まなかった。",
-        "translation-en-natural": "On the second day, the rain and wind did not cease."
+        "translation-en-natural": "On the second day, the rain and wind did not cease.",
+	"translation-zh-natural": "二日，夹雨的风没有停。"
       },
       {
         "date": "20250509",
@@ -20678,65 +20701,103 @@
         "koutei-yamagen": "日ひとひ夜もすがら神佛をいのる。",
         "translation-ja": "日一日、夜もすがら、神仏を祈る。",
         "translation-en": "Day by day, night after night, I pray to the gods and Buddhas.",
+	"translation-zh": "日又一日，夜晚整夜，祈祷神佛。",
         "phrase-gloss": [
           {
             "phrase": "日ひとひ",
             "gloss": "day by day",
+	    "gloss-morph": "day whole.day",
+	    "gloss-zh": "日 整日",
+	    "gloss-zh-morph": "日 整日",
             "words": [
               {
                 "word": "日",
-                "gloss": "day"
+                "gloss": "day",
+		"gloss-morph": "day",
+		"gloss-zh": "日",
+		"gloss-zh-morph": "日"
               },
               {
                 "word": "ひと",
-                "gloss": "one"
+                "gloss": "one",
+		"gloss-morph": "one",
+		"gloss-zh": "一",
+		"gloss-zh-morph": "一"
               },
               {
                 "word": "ひ",
-                "gloss": "day"
+                "gloss": "day",
+		"gloss-morph": "day",
+		"gloss-zh": "日",
+		"gloss-zh-morph": "日"
               }
             ]
           },
           {
             "phrase": "夜もすがら",
             "gloss": "night after night",
+	    "gloss-morph": "night-IFO whole",
+	    "gloss-zh": "夜 也 整",
+	    "gloss-zh-morph": "夜=IFO 整",
             "words": [
               {
                 "word": "夜",
-                "gloss": "night"
+                "gloss": "night",
+		"gloss-morph": "night",
+		"gloss-zh": "夜",
+		"gloss-zh-morph": "夜"
               },
               {
                 "word": "も",
-                "gloss": "ADD"
+                "gloss": "ADD",
+		"gloss-morph": "=IFO",
+		"gloss-zh": "也",
+		"gloss-zh-morph": "=IFO"
               },
               {
                 "word": "すがら",
-                "gloss": "(all) night long"
+                "gloss": "(all) night long",
+		"gloss-morph": "whole",
+		"gloss-zh": "整",
+		"gloss-zh-morph": "整"
               }
             ]
           },
           {
             "phrase": "神佛をいのる",
             "gloss": "(I) pray to the gods and Buddhas",
+	    "gloss-morph": "god+Buddha=ACC pray-CCL",
+	    "gloss-zh": "神佛 ACC 祈祷",
+	    "gloss-zh-morph": "神+佛=ACC 祈祷-CCL",
             "words": [
               {
                 "word": "神佛",
-                "gloss": "(gods and) Buddhas"
+                "gloss": "(gods and) Buddhas",
+		"gloss-morph": "god+Buddha",
+		"gloss-zh": "神佛",
+		"gloss-zh-morph": "神+佛"
               },
               {
                 "word": "を",
-                "gloss": "(ACC)"
+                "gloss": "(ACC)",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "ACC",
+		"gloss-zh-morph": "=ACC"
               },
               {
                 "word": "いのる",
-                "gloss": "(I) pray"
+                "gloss": "(I) pray",
+		"gloss-morph": "pray-CCL",
+		"gloss-zh": "祈祷",
+		"gloss-zh-morph": "祈祷-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "一日中、一晩中、神仏に祈りを捧げる。",
-        "translation-en-natural": "Day after day, night after night, I pray to the gods and Buddhas."
+        "translation-en-natural": "Day after day, night after night, I pray to the gods and Buddhas.",
+	"translation-zh-natural": "我们整日整夜，向神佛祈祷。",
       },
       {
         "date": "20250510",
@@ -20746,83 +20807,133 @@
         "koutei-yamagen": "三日、海のうへ昨日のやうなれば船いださず。",
         "translation-ja": "三日、海の上が、昨日のようであったので、船を出さない。",
         "translation-en": "On the third day, the sea was as it had been yesterday, so we did not set sail.",
+	"translation-zh": "三日，海上，昨日一般，因此没有出船。",
         "phrase-gloss": [
           {
             "phrase": "三日、",
             "gloss": "on the third day,",
+	    "gloss-morph": "third.day",
+	    "gloss-zh": "三日",
+	    "gloss-zh-morph": "三日",
             "words": [
               {
                 "word": "三日",
-                "gloss": "three-day"
+                "gloss": "three-day",
+		"gloss-morph": "third.day",
+		"gloss-zh": "三日",
+		"gloss-zh-morph": "三日"
               }
             ]
           },
           {
             "phrase": "海のうへ",
             "gloss": "the sea surface",
+	    "gloss-morph": "sea=GEN top/above",
+	    "gloss-zh": "海 的 上",
+	    "gloss-zh-morph": "海=GEN 上",
             "words": [
               {
                 "word": "海",
-                "gloss": "sea"
+                "gloss": "sea",
+		"gloss-morph": "sea",
+		"gloss-zh": "海",
+		"gloss-zh-morph": "海"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "うへ",
-                "gloss": "top/above"
+                "gloss": "top/above",
+		"gloss-morph": "top/above",
+		"gloss-zh": "上",
+		"gloss-zh-morph": "上"
               }
             ]
           },
           {
             "phrase": "昨日のやうなれば",
             "gloss": "being like yesterday,",
+	    "gloss-morph": "yesterday=GEN appearance/manner=COP-THM=HCD",
+	    "gloss-zh": "昨日 的 样子 是 因此",
+	    "gloss-zh-morph": "昨日=GEN 样子=COP-THM=HCD",
             "words": [
               {
                 "word": "昨日",
-                "gloss": "yesterday"
+                "gloss": "yesterday",
+		"gloss-morph": "yesterday",
+		"gloss-zh": "昨日",
+		"gloss-zh-morph": "昨日"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "やう",
-                "gloss": "appearance/manner"
+                "gloss": "appearance/manner",
+		"gloss-morph": "appearance/manner",
+		"gloss-zh": "样子",
+		"gloss-zh-morph": "样子"
               },
               {
                 "word": "なれ",
-                "gloss": "COP.PST"
+                "gloss": "COP.PST",
+		"gloss-morph": "=COP-THM",
+		"gloss-zh": "是",
+		"gloss-zh-morph": "=COP-THM"
               },
               {
                 "word": "ば",
-                "gloss": "COND"
+                "gloss": "COND",
+		"gloss-morph": "=HCD",
+		"gloss-zh": "因此",
+		"gloss-zh-morph": "=HCD"
               }
             ]
           },
           {
             "phrase": "船いださず。",
             "gloss": "we did not set sail.",
+	    "gloss-morph": "boat set.out-THM=NEG.CCL",
+	    "gloss-zh": "船 出 不",
+	    "gloss-zh-morph": "船 出-THM=NEG.CCL",
             "words": [
               {
                 "word": "船",
-                "gloss": "boat"
+                "gloss": "boat",
+		"gloss-morph": "boat",
+		"gloss-zh": "船",
+		"gloss-zh-morph": "船"
               },
               {
                 "word": "いださ",
-                "gloss": "set-out"
+                "gloss": "set-out",
+		"gloss-morph": "set.out-THM",
+		"gloss-zh": "出",
+		"gloss-zh-morph": "出-THM"
               },
               {
                 "word": "ず",
-                "gloss": "NEG"
+                "gloss": "NEG",
+		"gloss-morph": "=NEG.CCL",
+		"gloss-zh": "不",
+		"gloss-zh-morph": "=NEG.CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "三日目も、海の様子が昨日と同じだったので、船は出さなかった。",
-        "translation-en-natural": "On the third day as well, the sea looked just like it had the day before, so we didn’t set sail."
+        "translation-en-natural": "On the third day as well, the sea looked just like it had the day before, so we didn’t set sail.",
+	"translation-zh-natural": "三日，海上的情况同昨日一样，因此我们没有出船。",
       },
       {
         "date": "20250511",
@@ -20832,67 +20943,108 @@
         "koutei-yamagen": "風の吹くことやまねば岸の浪たちかへる。",
         "translation-ja": "風が吹くことがやまないので、岸の波が立ち返る。",
         "translation-en": "As the wind does not cease, the waves on the shore come and go.",
+	"translation-zh": "风吹不停，因此岸上的海浪涨又落。",
         "phrase-gloss": [
           {
             "phrase": "風の吹くことやまねば",
             "gloss": "as the wind does not cease",
+	    "gloss-morph": "wind=GEN blow-ADN=NML stop-THM=NEG-THM=HCD",
+	    "gloss-zh": "风 的 吹-的 停 不 因此",
+	    "gloss-zh-morph": "风=GEN 吹-ADN=NML 停-THM=NEG-THM=HCD",
             "words": [
               {
                 "word": "風",
-                "gloss": "wind"
+                "gloss": "wind",
+		"gloss-morph": "wind=GEN",
+		"gloss-zh": "风",
+		"gloss-zh-morph": "风"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "吹く",
-                "gloss": "blow"
+                "gloss": "blow",
+		"gloss-morph": "blow-ADN",
+		"gloss-zh": "吹-的",
+		"gloss-zh-morph": "吹-ADN"
               },
               {
                 "word": "こと",
-                "gloss": "(thing)"
+                "gloss": "(thing)",
+		"gloss-morph": "=NML",
+		"gloss-zh": "NML",
+		"gloss-zh-morph": "=NML"
               },
               {
                 "word": "やま",
-                "gloss": "(cease)"
+                "gloss": "(cease)",
+		"gloss-morph": "stop-THM",
+		"gloss-zh": "停",
+		"gloss-zh-morph": "停-THM"
               },
               {
                 "word": "ね",
-                "gloss": "NEG"
+                "gloss": "NEG",
+		"gloss-morph": "=NEG-THM",
+		"gloss-zh": "不",
+		"gloss-zh-morph": "=不-THM"
               },
               {
                 "word": "ば",
-                "gloss": "COND"
+                "gloss": "COND",
+		"gloss-morph": "=HCD",
+		"gloss-zh": "因此",
+		"gloss-zh-morph": "=THM"
               }
             ]
           },
           {
             "phrase": "岸の浪たちかへる。",
             "gloss": "(the) waves on the shore come and go.",
+	    "gloss-morph": "shore=GEN wave rise-THM.SEQ+fall-CCL",
+	    "gloss-zh": "岸 的 浪 涨落",
+	    "gloss-zh-morph": "岸=GEN 浪 涨-THM.SEQ+落-CCL",
             "words": [
               {
                 "word": "岸",
-                "gloss": "(the) shore"
+                "gloss": "(the) shore",
+		"gloss-morph": "shore",
+		"gloss-zh": "岸",
+		"gloss-zh-morph": "风"
               },
               {
                 "word": "の",
-                "gloss": "(GEN)"
+                "gloss": "(GEN)",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "浪",
-                "gloss": "(the) waves"
+                "gloss": "(the) waves",
+		"gloss-morph": "wave",
+		"gloss-zh": "浪",
+		"gloss-zh-morph": "浪"
               },
               {
                 "word": "たちかへる",
-                "gloss": "rise and fall"
+                "gloss": "rise and fall",
+		"gloss-morph": "rise-THM.SEQ+fall-CCL",
+		"gloss-zh": "涨落",
+		"gloss-zh-morph": "涨-THM.SEQ+落-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "風が吹くことがやまないので、岸の波が立ち返る。",
-        "translation-en-natural": "As the wind does not cease, the waves on the shore rise and fall."
+        "translation-en-natural": "As the wind does not cease, the waves on the shore rise and fall.",
+	"translation-zh-natural": "风吹不停，因此岸上海浪涨又落。",
       },
       {
         "date": "20250511",
@@ -20902,51 +21054,80 @@
         "koutei-yamagen": "これにつけてよめる歌、",
         "translation-ja": "これにつけて詠んだ歌、",
         "translation-en": "The poem I composed in connection with this is,",
+	"translation-zh": "借此所咏的和歌，",
         "phrase-gloss": [
           {
             "phrase": "これにつけて",
             "gloss": "in connection with this",
+	    "gloss-morph": "DEM=DAT connect-THM=SEQ",
+	    "gloss-zh": "此-于 关联 SEQ",
+	    "gloss-zh-morph": "DEM=DAT 关联-THM=SEQ",
             "words": [
               {
                 "word": "これ",
-                "gloss": "this"
+                "gloss": "this",
+		"gloss-morph": "DEM",
+		"gloss-zh": "这",
+		"gloss-zh-morph": "DEM"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "于",
+		"gloss-zh-morph": "=DAT"
               },
               {
                 "word": "つけ",
-                "gloss": "connect"
+                "gloss": "connect",
+		"gloss-morph": "connect-THM",
+		"gloss-zh": "关联",
+		"gloss-zh-morph": "关联-THM"
               },
               {
                 "word": "て",
-                "gloss": "SEQ"
+                "gloss": "SEQ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "SEQ",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "よめる歌、",
             "gloss": "(the) poem I composed,",
+	    "gloss-morph": "compose-THM+MNF-ADN poem",
+	    "gloss-zh": "咏-了-的 和歌",
+	    "gloss-zh-morph": "咏-THM+MNF-ADN 和歌",
             "words": [
               {
                 "word": "よめ",
-                "gloss": "compose."
+                "gloss": "compose.",
+		"gloss-morph": "compose-THM",
+		"gloss-zh": "咏",
+		"gloss-zh-morph": "咏-THM"
               },
               {
                 "word": "る",
-                "gloss": "PST"
+                "gloss": "PST",
+		"gloss-morph": "+MNF-ADN",
+		"gloss-zh": "了-的",
+		"gloss-zh-morph": "了-THM+MNF-ADN"
               },
               {
                 "word": "歌",
-                "gloss": "(the) poem"
+                "gloss": "(the) poem",
+		"gloss-morph": "poem",
+		"gloss-zh": "和歌",
+		"gloss-zh-morph": "和歌"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "これについて詠んだ歌は、",
-        "translation-en-natural": "The poem I composed in connection with this is,"
+        "translation-en-natural": "The poem I composed in connection with this is,",
+	"translation-zh-natural": "借此所咏了一首和歌：",
       },
       {
         "date": "20250511",
@@ -20956,113 +21137,184 @@
         "koutei-yamagen": "緒をよりてかひなきものは落ちつもる涙の玉をぬかぬなりけり",
         "translation-ja": "糸をよって、甲斐のないものは、落ちつもる涙の玉を貫かかったことだ。",
         "translation-en": "Twisting the thread, it is of no use; the tears that fall and accumulate cannot be pierced through.",
+	"translation-zh": "捻了线/没有意义之事是/落下积起的/泪珠/穿不了（线）",
         "phrase-gloss": [
           {
             "phrase": "緒をよりて",
             "gloss": "twisting the thread",
+	    "gloss-morph": "thread=ACC twist-THM=SEQ",
+	    "gloss-zh": "线 ACC 捻 SEQ",
+	    "gloss-zh-morph": "线=ACC 捻-THM=SEQ",
             "words": [
               {
                 "word": "緒",
-                "gloss": "thread"
+                "gloss": "thread",
+		"gloss-morph": "thread",
+		"gloss-zh": "线",
+		"gloss-zh-morph": "线"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "ACC",
+		"gloss-zh-morph": "=ACC"
               },
               {
                 "word": "より",
-                "gloss": "to twist"
+                "gloss": "to twist",
+		"gloss-morph": "twist-THM",
+		"gloss-zh": "捻",
+		"gloss-zh-morph": "捻-THM"
               },
               {
                 "word": "て",
-                "gloss": "SEQ"
+                "gloss": "SEQ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "SEQ",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "かひなきものは",
             "gloss": "(it) is of no use",
+	    "gloss-morph": "use+NEG-ADN thing=TOP",
+	    "gloss-zh": "意义 没有-的 事 TOP",
+	    "gloss-zh-morph": "意义+NEG-ADN 事=TOP",
             "words": [
               {
                 "word": "かひ",
-                "gloss": "use"
+                "gloss": "use",
+		"gloss-morph": "use",
+		"gloss-zh": "意义",
+		"gloss-zh-morph": "意义"
               },
               {
                 "word": "なき",
-                "gloss": "NEG"
+                "gloss": "NEG",
+		"gloss-morph": "+NEG-ADN",
+		"gloss-zh": "没有-的",
+		"gloss-zh-morph": "+NEG-ADN"
               },
               {
                 "word": "もの",
-                "gloss": "thing"
+                "gloss": "thing",
+		"gloss-morph": "thing",
+		"gloss-zh": "事",
+		"gloss-zh-morph": "事"
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "TOP",
+		"gloss-zh-morph": "=TOP"
               }
             ]
           },
           {
             "phrase": "落ちつもる",
             "gloss": "(it) falls and accumulates",
+	    "gloss-morph": "fall-THM.SEQ accumulate-ADN",
+	    "gloss-zh": "落下 积起-的",
+	    "gloss-zh-morph": "落下-THM.SEQ 积起-ADN",
             "words": [
               {
                 "word": "落ち",
-                "gloss": "to fall"
+                "gloss": "to fall",
+		"gloss-morph": "fall-THM.SEQ",
+		"gloss-zh": "落下",
+		"gloss-zh-morph": "落下-THM.SEQ"
               },
               {
                 "word": "つもる",
-                "gloss": "to accumulate"
+                "gloss": "to accumulate",
+		"gloss-morph": "accumulate-ADN",
+		"gloss-zh": "积起-的",
+		"gloss-zh-morph": "积起-ADN"
               }
             ]
           },
           {
             "phrase": "涙の玉を",
             "gloss": "the ball of tears",
+	    "gloss-morph": "tears=GEN ball=ACC",
+	    "gloss-zh": "泪 的 珠 ACC",
+	    "gloss-zh-morph": "泪=GEN 珠=ACC",
             "words": [
               {
                 "word": "涙",
-                "gloss": "tears"
+                "gloss": "tears",
+		"gloss-morph": "tears",
+		"gloss-zh": "泪",
+		"gloss-zh-morph": "泪"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=的"
               },
               {
                 "word": "玉",
-                "gloss": "ball"
+                "gloss": "ball",
+		"gloss-morph": "ball",
+		"gloss-zh": "珠",
+		"gloss-zh-morph": "珠"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "ACC",
+		"gloss-zh-morph": "=ACC"
               }
             ]
           },
           {
             "phrase": "ぬかぬなりけり",
             "gloss": "could not be pierced through",
+	    "gloss-morph": "pierce-THM=NEG-ADN=COP-THM+RET-CCL",
+	    "gloss-zh": "穿 不-的 是 了",
+	    "gloss-zh-morph": "穿-THM=NEG-ADN=COP-THM+RET-CCL",
             "words": [
               {
                 "word": "ぬか",
-                "gloss": "to pierce"
+                "gloss": "to pierce",
+		"gloss-morph": "pierce-THM",
+		"gloss-zh": "穿",
+		"gloss-zh-morph": "穿-THM"
               },
               {
                 "word": "ぬ",
-                "gloss": "NEG"
+                "gloss": "NEG",
+		"gloss-morph": "=NEG-ADN",
+		"gloss-zh": "不-的",
+		"gloss-zh-morph": "=NEG-ADN"
               },
               {
                 "word": "なり",
-                "gloss": "to be"
-              },
+                "gloss": "to be",
+		"gloss-morph": "=COP-THM",
+		"gloss-zh": "是",
+		"gloss-zh-morph": "=COP-THM"
+	      },
               {
                 "word": "けり",
-                "gloss": "PAST"
+                "gloss": "PAST",
+		"gloss-morph": "+RET-CCL",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "+RET-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "糸をより合わせても、無駄なものは、落ちつもる涙の玉を貫くことができないからだ。",
-        "translation-en-natural": "Even if you twist the thread together, it is of no use; the tears that fall and accumulate cannot be pierced through."
+        "translation-en-natural": "Even if you twist the thread together, it is of no use; the tears that fall and accumulate cannot be pierced through.",
+	"translation-zh-natural": "捻了线也没有意义，是因为落下又积起的泪珠是穿不了线的。"
       },
       {
         "date": "20250511",
@@ -21072,47 +21324,73 @@
         "koutei-yamagen": "かくて、今日暮れぬ。",
         "translation-ja": "このようにして、今日は暮れた。",
         "translation-en": "Thus, today has come to an end.",
+	"translation-zh": "此般，今日结束了。",
         "phrase-gloss": [
           {
             "phrase": "かくて、",
             "gloss": "thus,",
+	    "gloss-morph": "thus=SEQ",
+	    "gloss-zh": "此般-地",
+	    "gloss-zh-morph": "此般=SEQ",
             "words": [
               {
                 "word": "かく",
-                "gloss": "this"
+                "gloss": "this",
+		"gloss-morph": "thus",
+		"gloss-zh": "此般",
+		"gloss-zh-morph": "此般"
               },
               {
                 "word": "て",
-                "gloss": "SEQ"
+                "gloss": "SEQ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "-地",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "今日は暮れぬ。",
             "gloss": "(today) has come to an end.",
+	    "gloss-morph": "today=TOP end-THM+MNF-CCL",
+	    "gloss-zh": "今日 TOP 结束-了",
+	    "gloss-zh-morph": "今日=TOP 结束-THM+MNF-CCL",
             "words": [
               {
                 "word": "今日",
-                "gloss": "today"
+                "gloss": "today",
+		"gloss-morph": "today=TOP",
+		"gloss-zh": "今日",
+		"gloss-zh-morph": "今日=TOP"
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "TOP",
+		"gloss-zh-morph": "=TOP"
               },
               {
                 "word": "暮れ",
-                "gloss": "to end"
+                "gloss": "to end",
+		"gloss-morph": "end-THM",
+		"gloss-zh": "结束-了",
+		"gloss-zh-morph": "结束-THM"
               },
               {
                 "word": "ぬ",
-                "gloss": "PFV"
+                "gloss": "PFV",
+		"gloss-morph": "+MNF-CCL",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "+MNF-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "このようにして、今日は暮れた。",
-        "translation-en-natural": "Thus, today has come to an end."
+        "translation-en-natural": "Thus, today has come to an end.",
+	"translation-zh-natural": "就这样，今天结束了。",
       },
       {
         "date": "20250511",
