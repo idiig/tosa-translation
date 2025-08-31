@@ -6157,26 +6157,185 @@
         ]
       },
       {
-        "date": "20250130",
+        "date": [
+          20250130,
+          20250830
+        ],
         "id": 62,
         "text": "今日は都のみぞ思ひやらるゝ。",
         "kana": "けふはみやこのみぞおもひやらるゝ。",
         "koutei-yamagen": "今日は都のみぞ思ひやらるる。",
         "translation-ja": "今日は都のみぞ思いやられる。",
         "translation-en": "Today, only the capital weighs on my mind.",
-        "translation-ja-natural": "今日は都のことばかりが思いやられます。",
+        "phrase-gloss": [
+          {
+            "phrase": "今日は",
+            "gloss": "as for today,",
+            "words": [
+              {
+                "word": "今日",
+                "gloss": "today"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "都のみぞ",
+            "gloss": "only the capital (with emphasis)",
+            "words": [
+              {
+                "word": "都",
+                "gloss": "capital"
+              },
+              {
+                "word": "のみ",
+                "gloss": "only"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              }
+            ]
+          },
+          {
+            "phrase": "思ひやらるゝ",
+            "gloss": "is emotionally imagined (involuntarily)",
+            "words": [
+              {
+                "word": "思ひ",
+                "gloss": "think.ADV"
+              },
+              {
+                "word": "やら",
+                "gloss": "do.IRR"
+              },
+              {
+                "word": "るゝ",
+                "gloss": "SPONT.ATTR"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "今日は都のことばかりが思いやられる。",
         "translation-en-natural": "Today, I can't help but worry about the capital."
       },
       {
-        "date": "20250131",
+        "date": [
+          20250131,
+          20250831
+        ],
         "id": 63,
         "text": "「九重の門のしりくめ繩のなよしの頭ひゝら木らいかに」とぞいひあへる。",
         "kana": "「こへのかどのしりくめなはのなよしのかしらひひらぎいかに」とぞいひあへる。",
         "koutei-yamagen": "「九重の門のしりくめ繩の鯔の頭、柊ら、いかに」とぞ言ひあへる。",
-        "translation-ja": "「小家の門のしめ繩についた鯔の頭や柊はどうしているだろう」と言い合っている。",
-        "translation-en": "They are talking about how the heads of the zui on the cords of the gates of the commoners' houses are doing.",
-        "translation-ja-natural": "「民家の門のしめ繩についた鯔の頭や柊は、どうしているのだろう」と話しているようです。",
-        "translation-en-natural": "They are talking about how the heads of the zui on the cords of the gates of the commoners' houses are doing."
+        "translation-ja": "「九重の門のしりくめ縄にあるなよしの頭や柊はどうしているのか」と言い合っている。",
+        "translation-en": "They were saying to each other, 'How are the heads of the zui fish and the holly on the twisted rope of the palace gates?'",
+        "phrase-gloss": [
+          {
+            "phrase": "九重の門の",
+            "gloss": "of the ninefold gate",
+            "words": [
+              {
+                "word": "九重",
+                "gloss": "ninefold"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "門",
+                "gloss": "gate"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "しりくめ繩の",
+            "gloss": "of the twisted rope",
+            "words": [
+              {
+                "word": "しりくめ繩",
+                "gloss": "twisted.sacred.rope"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "なよしの頭",
+            "gloss": "head of the zui fish",
+            "words": [
+              {
+                "word": "なよし",
+                "gloss": "zui.fish"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "頭",
+                "gloss": "head"
+              }
+            ]
+          },
+          {
+            "phrase": "ひゝら木らいかに",
+            "gloss": "what of the holly and such",
+            "words": [
+              {
+                "word": "ひひら木",
+                "gloss": "holly"
+              },
+              {
+                "word": "ら",
+                "gloss": "PL"
+              },
+              {
+                "word": "いかに",
+                "gloss": "how"
+              }
+            ]
+          },
+          {
+            "phrase": "とぞいひあへる",
+            "gloss": "they were saying to each other",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "あへ",
+                "gloss": "together.ADV"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              }
+            ]
+          }
+        ],
+        "translation-ja-natural": "庶民の家の門のしめ縄に飾られた鯔の頭や柊は、今ごろどうしているのか、と話していた。",
+        "translation-en-natural": "They were wondering aloud how the heads of the fish and the holly on the New Year’s ropes at commoners’ gates were doing."
       },
       {
         "date": "20250201",
@@ -7656,9 +7815,16 @@
         "translation-en": "At dawn on the thirteenth day, a slight drizzle falls.",
         "translation-ja-natural": "十三日の夜明けに小雨が降っていました。",
         "translation-en-natural": "On the thirteenth, light rain fell at dawn.",
-        "notes-ja": {
-          "オリジナルの校訂": "十三日の曉にいさか小（にイ）雨ふる。"
-        }
+        "notes-ja": [
+          {
+            "title": "オリジナルの校訂",
+            "note": "十三日の曉にいさか小（にイ）雨ふる。"
+          },
+          {
+            "title": "「いささかに」or 「小雨」",
+            "note": "いささか小（にイ）雨ふる。"
+          }
+        ]
       },
       {
         "date": "20250321",
@@ -7675,11 +7841,11 @@
         "date": "20250321",
         "id": 181,
         "text": "男女これかれ、ゆあみなどせむとてあたりのよろしき所におりて行く。",
-        "kana": "をとこをむなこれから、ゆあみなどせむとてあたりのよろしきところにおりてゆく。",
+        "kana": "をとこをむなこれかれ、ゆあみなどせむとてあたりのよろしきところにおりてゆく。",
         "koutei-yamagen": "男女これかれ、湯浴みなどせむとて、あたりの良しき所に降りて行く。",
         "translation-ja": "男女の誰彼が、湯に入ろうとして、周囲の良い場所に降りて行く。",
         "translation-en": "Some men and women go down to a good place nearby to bathe.",
-        "translation-ja-natural": "男女はこれから湯に入ろうとして、周囲の良い場所に降りて行きました。",
+        "translation-ja-natural": "男女はおのおの湯に入ろうとして、周囲の良い場所に降りて行った。",
         "translation-en-natural": "Men and women went down to a suitable spot nearby to bathe."
       },
       {
@@ -7696,8 +7862,8 @@
       {
         "date": "20250322",
         "id": 183,
-        "text": "雲もみな浪とぞ見ゆる海士もがないづれか海と問ひて知るべく",
-        "kana": "くももみななみとぞみゆるあまもがないづれかうみととひてしるべく",
+        "poem": "雲もみな/浪とぞ見ゆる/海士もがな/いづれか海と/問ひて知るべく",
+        "kana": "くももみな/なみとぞみゆる/あまもがな/いづれかうみと/とひてしるべく",
         "koutei-yamagen": "雲も皆波とぞ見ゆる、海士もがな、いづれか海と問いて知るべく",
         "translation-ja": "雲もみな波と見える。海士がいればなあ。どちらが海かと尋ねて知りたい。",
         "translation-en": "Clouds all look like waves. I wish there were a fisherman...to ask which is the sea.",
@@ -7707,7 +7873,6 @@
           "視覚的錯覚と空間の曖昧さ": "「雲もみな波とぞ見ゆる」という描写は、空と海の境界が曖昧になり、視覚的錯覚を引き起こす状況を表している。船旅の途中における自然の混然とした風景が詠まれており、旅人の戸惑いや不安を暗示している。",
           "海士もがなの意味": "「海士もがな」は『海士がいてくれたらなあ』という願望を表す表現。知識や経験をもつ海の案内人に尋ねたいという思いが込められており、自らの無力さと外界の不明瞭さへの反応が読み取れる。",
           "問ひて知るべくの意図": "『いづれか海と問ひて知るべく』は、混乱した風景に対してどれが本当の『海』であるのかを確認したいという意志を表している。ここでの『問ふ』という行為は、見えているものを言語化し確定しようとする、人間の知の働きの象徴でもある。",
-          "係り結びの緩み": "『ぞ見ゆる』という形は、係り結びとしては破格であり、本来なら連体形『見ゆるる』が来るべきところ。こうした文法の緩さも、認識の混乱や曖昧さというテーマと呼応していると解釈できる。",
           "翻訳上の工夫": "英訳では『which one was the real sea』と訳すことで、視覚的に判別できない状況を自然な英語で表現している。『fisherman』を単数形にすることで、象徴的な存在としての『海士』を際立たせている。",
           "文脈における意味": "この和歌は、旅のなかでの感覚の揺らぎや認識の不確かさを表すものであり、『土佐日記』全体に通底する『見ること・知ること・書くこと』の主題にも連なる一首である。"
         }
@@ -7761,10 +7926,16 @@
         "text": "それは海の神に怖ぢてといひて、何の蘆蔭にことづけてほやのつまのいずしすしあはびをぞ心にもあらぬはぎにあげて見せける。",
         "kana": "それはうみのかみにおぢてといひて、なにのあしかげにことづけてほやのつまのいずしすしあはびをぞこころにもあらぬはぎにあげてみせける。",
         "koutei-yamagen": "それは海の神に怖ぢてと言ひて、何の葦影にことづけて、ほやのつまのいずしすしあはびを心にもあらぬはぎにあげて見せける。",
-        "translation-ja": "それは海の神を恐れてと言って、どの葦の陰にか隠れて、海鼠の妻のいずし・すしあわびを、心にもなく脛にあげて見せた。",
+        "translation-ja": "それは海の神を恐れてと言って、どの葦の陰にか隠れて、海鼠の妻のいずし・すしあわびを、心にもなくはぎにあげて見せた。",
         "translation-en": "Saying it was out of fear of the sea god, they hid in some reed’s shadow, and, not even meaning to, raised up the pickled sea cucumber’s wife’s sushi and abalone to their shins and showed it.",
         "translation-ja-natural": "それは、海の神にさらわれるのを恐れてと言い、どこかの葦の陰に隠れて、恥ずかしいとも思わずに、老いた海女のように、身につけたものをまくし上げて見せたのです。",
-        "translation-en-natural": "They said it was out of fear of the sea god, and, hiding in some reed’s shade, shamelessly lifted their garments like an old fisherwoman and showed themselves."
+        "translation-en-natural": "They said it was out of fear of the sea god, and, hiding in some reed’s shade, shamelessly lifted their garments like an old fisherwoman and showed themselves.",
+        "notes-ja": [
+          {
+            "title": "露骨に訳さないほうがよい部分(注意)",
+            "note": "それは、海の神にさらわれるのを恐れてと言い、どこかの葦の陰に隠れて、恥ずかしいとも思わずに、老いた海女のように、身につけたものをまくし上げて見せたのです。"
+          }
+        ]
       },
       {
         "date": "20250324",
@@ -7912,7 +8083,7 @@
         "date": "20250326",
         "id": 198,
         "text": "めの童のいへる、",
-        "kana": "めのわらべのいへる、",
+        "kana": "めのわらはのいへる、",
         "koutei-yamagen": "女の童の言へる、",
         "translation-ja": "女の子が言った。",
         "translation-en": "One little girl said,...",
@@ -8730,7 +8901,7 @@
         "kana": "これをみてぞなかまろのぬし「わがくににはかかるうたをなむかみよよりかみもよんたび、いまはかみなかしものひともかうやうにわかれおしみ、よろこびもあり、かなしみもあるときにはよむ」とてよめりけるうた、",
         "koutei-yamagen": "これを見てぞ仲麻呂のぬし「我が国にはかゝる歌をなむ神代より神もよんたび、今は上中下の人もかうやうに別れ惜しみ、よろこびもあり、かなしみもある時には詠む」とてよめりける歌、",
         "translation-ja": "これを見て仲麻呂の主は「我が国にはこのような歌を神代より神も詠み、今は上中下の人もこのように別れ惜しみ、喜びもあり、悲しみもある時には詠む」と言って詠んだ歌は、",
-        "translation-en": "Seeing this, Nakamaro's lord said, 'In our country, such songs have been sung since the age of the gods, and now all people, high and low, sing them in times of parting, joy, and sorrow.' He then recited a poem:",
+        "translation-en": "Seeing this, the Load, Nakamaro said, 'In our country, such songs have been sung since the age of the gods, and now all people, high and low, sing them in times of parting, joy, and sorrow.' He then recited a poem:",
         "translation-ja-natural": "これを見て仲麻呂の主は「我が国ではこのような歌を神代より神も詠み、今は上中下の人々もこのように別れを惜しみ、喜びや悲しみの時には詠む」と言って詠んだ歌は、",
         "translation-en-natural": "Seeing this, Nakamaro's lord said, 'In our country, such songs have been sung since the age of the gods, and now all people, high and low, sing them in times of parting, joy, and sorrow.' He then recited a poem:"
       },
@@ -8773,8 +8944,8 @@
         "kana": "もろこしとこのくにとはことことなるものなれど、つきのかげはおなじことなるべければひとのこころもおなじことにやあらむ。",
         "koutei-yamagen": "もろこしとこの國とは言異なるものなれど、月の影は同じことなるべければ人の心も同じことにやあらむ。",
         "translation-ja": "唐とこの国とは言葉は異なるものだが、月の影は同じことなので、人の心も同じことなのだろうか。",
-        "translation-en": "Though the language of China and this country is different, the moon's shadow is the same, so perhaps human hearts are the same as well.",
-        "translation-ja-natural": "唐とこの国とは言葉は異なるものですが、月の影は同じですから、人の心も同じことなのでしょうか。",
+        "translation-en": "Though the language of China and this country is different, the moon light is the same, so perhaps human hearts are the same as well.",
+        "translation-ja-natural": "唐とこの国とは言葉は異なるものですが、月の光は同じですから、人の心も同じことなのでしょうか。",
         "translation-en-natural": "Though the language of China and this country is different, the moon's shadow is the same, so perhaps human hearts are the same as well.",
         "notes-ja": {
           "校訂のオリジナル": "もろこしとこの國とはこと（ばイ有）ことなるものなれど、月の影は同じことなるべければ人の心も同じことにやあらむ。"
@@ -9331,7 +9502,11 @@
         }
       },
       {
-        "date": "20250424",
+        "date": [
+          20250424,
+          20250829,
+          20250000
+        ],
         "id": 289,
         "text": "廿六日、まことにやあらむ、海賊追ふといへば夜はばかりより船をいだして漕ぎくる。",
         "kana": "にじふろくにち、まことにやあらむ、かいぞくおふといへばよるはばかりよりふねをいだしてこぎくる。",
@@ -9355,8 +9530,8 @@
         "koutei-yamagen": "道に、たむけする所あり。",
         "translation-ja": "途中に、手向けをするところがある。",
         "translation-en": "There is a place to pray along the way.",
-        "translation-ja-natural": "道に曲げる所がある。",
-        "translation-en-natural": "There is a place to turn on the road.",
+        "translation-ja-natural": "道に手向ける所がある。",
+        "translation-en-natural": "There is a place to pray on the road.",
         "notes-ja": {
           "location": {
             "name": "鹿ノ首岬",
@@ -10125,11 +10300,11 @@
                 "gloss": "wind"
               },
               {
-                "word": "や",
-                "gloss": "TOP"
+                "word": "やま",
+                "gloss": "stop.ADV"
               },
               {
-                "word": "まず",
+                "word": "ず",
                 "gloss": "NEG"
               }
             ]
@@ -10425,7 +10600,7 @@
         "kana": "つまのいとながくなりにたるをみてひをかぞふれば、きょうはこひなりければきらず。",
         "koutei-yamagen": "爪のいと長くなりにたるを見て日を數ふれば、今日は子の日なりければ切らず。",
         "translation-ja": "爪がとても長くなっているのを見て、日を数えると、今日は子の日なので切らない。",
-        "translation-en": "Seeing that my nails have grown very long, I count the days and find that today is the day of the mouse, so I do not cut them.",
+        "translation-en": "Seeing that my nails have grown very long, I count the days and find that today is the day of the rat, so I do not cut them.",
         "phrase-gloss": [
           {
             "phrase": "爪の",
@@ -10562,7 +10737,7 @@
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "爪がとても長くなっているのを見て、日を数えると、今日は子の日なので切らない。",
-        "translation-en-natural": "Seeing that my nails have grown very long, I count the days and find that today is the day of the child, so I do not cut them.",
+        "translation-en-natural": "Seeing that my nails have grown very long, I count the days and find that today is the day of the rat, so I do not cut them.",
         "notes-ja": [
           {
             "title": "子の日に爪を切らない習慣",
@@ -10572,7 +10747,7 @@
         "notes-en": [
           {
             "title": "Custom of not cutting nails on the Day of the Rat",
-            "note": "The character 「子」is read as 'ne' and represents the rat in the Chinese zodiac. In the Heian period, it was considered auspicious to cut fingernails on the Day of the Ox and toenails on the Day of the Tiger, while cutting nails on other days was avoided. This custom is recorded in 'Kujō-dono Ikkai,' a book of admonitions written by Fujiwara no Morosuke. Therefore, it was considered preferable not to cut nails on the Day of the Rat."
+            "note": "The character 「子」is read as 'ne' and represents the rat in the Chinese zodiac. In the Heian period, it was considered auspicious to cut fingernails on the Day of the Ox and toenails on the Day of the Tiger, while cutting nails on other days was avoided. This custom is recorded in 'Kujo-dono Ikkai,' a book of admonitions written by Fujiwara no Morosuke. Therefore, it was considered preferable not to cut nails on the Day of the Rat."
           }
         ]
       },
