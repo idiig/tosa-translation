@@ -6338,14 +6338,68 @@
         "translation-en-natural": "They were wondering aloud how the heads of the fish and the holly on the New Year’s ropes at commoners’ gates were doing."
       },
       {
-        "date": "20250201",
+        "date": [
+          20250201,
+          20250901
+        ],
         "id": 64,
         "text": "二日、なほ大湊にとまれり。",
         "kana": "ふつか、なほおほみなとにとまれり。",
         "koutei-yamagen": "二日、なほ大湊に泊まれり。",
-        "translation-ja": "二日目も、まだ大湊に泊まっている。",
-        "translation-en": "On the second day, we are still staying at Ominato.",
-        "translation-ja-natural": "二日目も、まだ大湊に泊まっています。",
+        "translation-ja": "二日、なお大湊に泊まっている。",
+        "translation-en": "On the second day, still at Ominato, (we) stayed.",
+        "phrase-gloss": [
+          {
+            "phrase": "二日、",
+            "gloss": "on the second day,",
+            "words": [
+              {
+                "word": "二日",
+                "gloss": "second.day"
+              }
+            ]
+          },
+          {
+            "phrase": "なほ",
+            "gloss": "still",
+            "words": [
+              {
+                "word": "なほ",
+                "gloss": "still"
+              }
+            ]
+          },
+          {
+            "phrase": "大湊に",
+            "gloss": "at Ominato",
+            "words": [
+              {
+                "word": "大湊",
+                "gloss": "Ominato"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "とまれり。",
+            "gloss": "stayed / have stayed.",
+            "words": [
+              {
+                "word": "とまれ",
+                "gloss": "stay.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "二日目も、まだ大湊に泊まっている。",
         "translation-en-natural": "On the second day, we are still staying at Ominato."
       },
       {
