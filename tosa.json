@@ -23423,91 +23423,147 @@
         "koutei-yamagen": "五日、今日、辛くして和泉の灘より小津のとまりをおふ。",
         "translation-ja": "五日。今日、かろうじて、和泉の灘から小津の泊をたどる。",
         "translation-en": "On the fifth day—today—barely, I make my way from the coast of Izumi to the harbor of Ozu.",
+	"translation-zh": "五日，今日，勉强地自和泉的海岸前往小津的港口",
         "phrase-gloss": [
           {
             "phrase": "五日、けふ",
             "gloss": "on the fifth day, today",
+	    "gloss-morph": "fifth.day today",
+	    "gloss-zh": "五日 今日",
+	    "gloss-zh-morph": "五日 今日",
             "words": [
               {
                 "word": "五日",
-                "gloss": "fifth day"
+                "gloss": "fifth day",
+		"gloss-morph": "fifth.day",
+		"gloss-zh": "五日",
+		"gloss-zh-morph": "五日"
               },
               {
                 "word": "けふ",
-                "gloss": "today"
+                "gloss": "today",
+		"gloss-morph": "today",
+		"gloss-zh": "今日",
+		"gloss-zh-morph": "今日"
               }
             ]
           },
           {
             "phrase": "辛くして",
             "gloss": "barely, with difficulty",
+	    "gloss-morph": "difficultly-SER do-THM=SEQ",
+	    "gloss-zh": "勉强 做 SEQ",
+	    "gloss-zh-morph": "勉强-SER 做-THM=SEQ",
             "words": [
               {
                 "word": "辛く",
-                "gloss": "difficultly-ADV"
+                "gloss": "difficultly-ADV",
+		"gloss-morph": "difficultly-SER",
+		"gloss-zh": "勉强",
+		"gloss-zh-morph": "勉强-SER"
               },
               {
                 "word": "し",
-                "gloss": "do"
+                "gloss": "do",
+		"gloss-morph": "do-THM",
+		"gloss-zh": "做",
+		"gloss-zh-morph": "做-THM"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "而",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "和泉の灘より",
             "gloss": "from the coast of Izumi",
+	    "gloss-morph": "Izumi=GEN coast=ABL",
+	    "gloss-zh": "和泉 的 海岸 从",
+	    "gloss-zh-morph": "和泉=GEN 海岸=ABL",
             "words": [
               {
                 "word": "和泉",
-                "gloss": "Izumi"
+                "gloss": "Izumi",
+		"gloss-morph": "Izumi",
+		"gloss-zh": "和泉",
+		"gloss-zh-morph": "和泉"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "灘",
-                "gloss": "coast, open sea"
+                "gloss": "coast, open sea",
+		"gloss-morph": "coast",
+		"gloss-zh": "海岸",
+		"gloss-zh-morph": "海岸"
               },
               {
                 "word": "より",
-                "gloss": "ABL"
+                "gloss": "ABL",
+		"gloss-morph": "=ABL",
+		"gloss-zh": "从",
+		"gloss-zh-morph": "=ABL"
               }
             ]
           },
           {
             "phrase": "小津のとまりをおふ。",
             "gloss": "proceed to the harbor of Ozu",
+	    "gloss-morph": "Ozu=GEN harbor=ACC head.toward-CCL",
+	    "gloss-zh": "小津 的 港口 ACC 前往",
+	    "gloss-zh-morph": "小津=GEN 港口=ACC 前往-CCL",
             "words": [
               {
                 "word": "小津",
-                "gloss": "Ozu"
+                "gloss": "Ozu",
+		"gloss-morph": "Ozu",
+		"gloss-zh": "小津",
+		"gloss-zh-morph": "小津"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "とまり",
-                "gloss": "harbor, anchorage"
+                "gloss": "harbor, anchorage",
+		"gloss-morph": "harbor",
+		"gloss-zh": "港口",
+		"gloss-zh-morph": "港口"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "ACC",
+		"gloss-zh-morph": "=ACC"
               },
               {
                 "word": "おふ",
-                "gloss": "follow, head toward"
+                "gloss": "follow, head toward",
+		"gloss-morph": "head.toward-CCL",
+		"gloss-zh": "前往",
+		"gloss-zh-morph": "前往-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "五日。今日、ようやくの思いで、和泉の灘を発ち、小津の泊へ向かった。",
-        "translation-en-natural": "On the fifth day—today—I just barely managed to leave the coast of Izumi and head toward the harbor of Ozu."
+        "translation-en-natural": "On the fifth day—today—I just barely managed to leave the coast of Izumi and head toward the harbor of Ozu.",
+	"translation-zh-natural": "五日，今天，我们勉勉强强离开和泉的海岸，前往小津的港口",
       },
       {
         "date": "20250514",
@@ -23517,43 +23573,66 @@
         "koutei-yamagen": "松原めもはるばるなり。",
         "translation-ja": "松原の眺めもまた、はるかである。",
         "translation-en": "Even the sight of the pine grove is distant.",
+	"translation-zh": "松原景色也遥远",
         "phrase-gloss": [
           {
             "phrase": "松原めも",
             "gloss": "even the sight of the pine grove",
+	    "gloss-morph": "pine+grove+sight=IFO",
+	    "gloss-zh": "松原 景色 也",
+	    "gloss-zh-morph": "松+原+景色=IFO",
             "words": [
               {
                 "word": "松原",
-                "gloss": "pine grove"
+                "gloss": "pine grove",
+		"gloss-morph": "pine+grove",
+		"gloss-zh": "松原",
+		"gloss-zh-morph": "松+原"
               },
               {
                 "word": "め",
-                "gloss": "view, sight"
+                "gloss": "view, sight",
+		"gloss-morph": "sight",
+		"gloss-zh": "景色",
+		"gloss-zh-morph": "景色"
               },
               {
                 "word": "も",
-                "gloss": "ADD"
+                "gloss": "ADD",
+		"gloss-morph": "=IFO",
+		"gloss-zh": "也",
+		"gloss-zh-morph": "=IFO"
               }
             ]
           },
           {
             "phrase": "はるばるなり。",
             "gloss": "is far-reaching",
+	    "gloss-morph": "distant=COP",
+	    "”gloss-zh": "遥远 是",
+	    "gloss-zh-morph": "遥远=COP",
             "words": [
               {
                 "word": "はるばる",
-                "gloss": "far, distant"
+                "gloss": "far, distant",
+		"gloss-morph": "distant",
+		"gloss-zh": "遥远",
+		"gloss-zh-morph": "遥远"
               },
               {
                 "word": "なり",
-                "gloss": "COP"
+                "gloss": "COP",
+		"gloss-morph": "=COP",
+		"gloss-zh": "是",
+		"gloss-zh-morph": "=COP"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "松原の眺めまでも、果てしなく続いているように見える。",
-        "translation-en-natural": "Even the view of the pine grove seems to stretch endlessly into the distance."
+        "translation-en-natural": "Even the view of the pine grove seems to stretch endlessly into the distance.",
+	"translation-zh-natural": "松原的景色也很遥远。",
       },
       {
         "date": "20250515",
@@ -23563,40 +23642,65 @@
         "koutei-yamagen": "かれこれ苦しければ詠めるうた、",
         "translation-ja": "いろいろと苦しかったので、詠んだ歌は、",
         "translation-en": "Because there were various sufferings, the poem composed is:",
+	"translation-zh": "因为那般这般苦闷所咏的和歌，",
         "phrase-gloss": [
           {
             "phrase": "かれこれ苦しければ",
             "gloss": "because (things were) variously painful",
+	    "gloss-morph": "various painful-THM=HCD",
+	    "gloss-zh": "那般这般 苦闷 因为",
+	    "gloss-zh-morph": "那般这般 苦闷-THM=HCD",
             "words": [
               {
                 "word": "かれこれ",
-                "gloss": "various things / this and that"
+                "gloss": "various things / this and that",
+		"gloss-morph": "various",
+		"gloss-zh": "那般这般",
+		"gloss-zh-morph": "那般这般"
               },
               {
                 "word": "苦しけれ",
-                "gloss": "painful-CONJ"
+                "gloss": "painful-CONJ",
+		"gloss-morph": "painful-THM",
+		"gloss-zh": "苦闷",
+		"gloss-zh-morph": "苦闷-THM"
               },
               {
                 "word": "ば",
-                "gloss": "COND"
+                "gloss": "COND",
+		"gloss-morph": "=HCD",
+		"gloss-zh": "因为",
+		"gloss-zh-morph": "=HCD"
               }
             ]
           },
           {
             "phrase": "詠めるうた",
             "gloss": "poem composed",
+	    "gloss-morph": "compose-THM+STA-ADN poem",
+	    "gloss-zh": "咏-了-的 和歌",
+	    "gloss-zh-morph": "咏-THM+STA-ADN 和歌",
             "words": [
               {
                 "word": "詠め",
-                "gloss": "compose"
+                "gloss": "compose",
+		"gloss-morph": "compose-THM",
+		"gloss-zh": "咏",
+		"gloss-zh-morph": "咏-THM"
               },
               {
                 "word": "る",
-                "gloss": "PST-ATTR"
+                "gloss": "PST-ATTR",
+		"gloss-morph": "+STA-ADN",
+		"gloss-zh": "了-的",
+		"gloss-zh-morph": "+STA-ADN"
               },
               {
                 "word": "うた",
-                "gloss": "poem"
+                "gloss": "poem",
+		"gloss-morph": "poem",
+		"gloss-zh": "和歌",
+		"gloss-zh-morph": "和歌"
               }
             ]
           }
@@ -23604,6 +23708,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "いろいろとつらかったので、詠んだ歌は、",
         "translation-en-natural": "Since it was such a hard time in so many ways, the poem composed is:",
+	"translation-zh-natural": "因为种种苦闷，咏了一首和歌，",
         "notes-ja": [
           {
             "title": "「かれこれ」の解釈",
@@ -23615,7 +23720,13 @@
             "title": "Interpretation of 'かれこれ'",
             "note": "'Kare kore' (かれこれ) is typically used adverbially to refer to the variety or content of suffering, rather than the subjects (people) experiencing it. Therefore, 'kare kore kurushikereba' is more accurately translated as 'because there were various sufferings.' Interpreting it as 'everyone was suffering,' as in Kikuchi's translation, would require a clearer construction such as 'kare mo kore mo' (かれもこれも)."
           }
-        ]
+        ],
+	"notes-zh": [
+	  {
+	    "title": "「かれこれ」的解释",
+	    "note": "「かれこれ」通常作为副词使用，表示苦闷的内容或多样性（事物），而不是经历苦闷的主体（人）。因此，「かれこれ苦しければ」更准确地翻译为「因为有各种各样的苦闷」。将其解释为「每个人都在受苦」，如菊地的翻译所示，则需要更明确的结构，如「かれもこれも」（かれもこれも）。"
+	  }
+	]
       },
       {
         "date": "20250515",
@@ -23625,100 +23736,167 @@
         "koutei-yamagen": "ゆけどなほ行きやられぬはいもがうむをつの浦なるきしの松原",
         "translation-ja": "行けども、なお行きつくせないのは、妹が糸をつむぐ小津の浦の岸の松原である。",
         "translation-en": "Though I go, still I cannot go all the way—it is the pine grove on the shore of Ozu, where my beloved spins her thread.",
+	"translation-zh": "即使走也/走不完的是/小妹所纺织的/小津的海湾的/岸上的松原。",
         "phrase-gloss": [
           {
             "phrase": "ゆけどなほ行きやられぬは",
             "gloss": "though I go, still I cannot let my heart go—",
+	    "gloss-morph": "go-THM=XCC still go-THM.SEQ send.off-THM=NEG-ADN.NL=TOP",
+	    "gloss-zh": "走 但 仍 走 不 TOP",
+	    "gloss-zh-morph": "走-THM=XCC 仍 走-THM.SEQ 送-THM=NEG-ADN.NL=TOP",
             "words": [
               {
                 "word": "ゆけ",
-                "gloss": "go"
+                "gloss": "go",
+		"gloss-morph": "go-THM",
+		"gloss-zh": "走",
+		"gloss-zh-morph": "走-THM"
               },
               {
                 "word": "ど",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=XCC",
+		"gloss-zh": "但",
+		"gloss-zh-morph": "=XCC"
               },
               {
                 "word": "なほ",
-                "gloss": "still"
+                "gloss": "still",
+		"gloss-morph": "still",
+		"gloss-zh": "仍",
+		"gloss-zh-morph": "仍"
               },
               {
                 "word": "行き",
-                "gloss": "go"
+                "gloss": "go",
+		"gloss-morph": "go-THM.SEQ",
+		"gloss-zh": "走",
+		"gloss-zh-morph": "走-THM.SEQ"
               },
               {
                 "word": "やら",
-                "gloss": "send off"
+                "gloss": "send off",
+		"gloss-morph": "send.off-THM",
+		"gloss-zh": "送",
+		"gloss-zh-morph": "送-THM"
               },
               {
                 "word": "れ",
-                "gloss": "POT/AUT"
+                "gloss": "POT/AUT",
+		"gloss-morph": "PAS",
+		"gloss-zh": "PAS",
+		"gloss-zh-morph": "PAS"
               },
               {
                 "word": "ぬ",
-                "gloss": "NEG.ATTR"
+                "gloss": "NEG-ADN.NL",
+		"gloss-morph": "=NEG-ADN.NL",
+		"gloss-zh": "不",
+		"gloss-zh-morph": "=NEG-ADN.NL"
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "TOP",
+		"gloss-zh-morph": "=TOP"
               }
             ]
           },
           {
             "phrase": "妹が績む",
             "gloss": "my beloved spins thread",
+	    "gloss-morph": "beloved.woman-GEN spin.thread-ADN",
+	    "gloss-zh": "小妹 纺织-的",
+	    "gloss-zh-morph": "小妹=GEN 纺织-ADN",
             "words": [
               {
                 "word": "妹",
-                "gloss": "beloved woman"
+                "gloss": "beloved woman",
+		"gloss-morph": "beloved.woman",
+		"gloss-zh": "小妹",
+		"gloss-zh-morph": "小妹"
               },
               {
                 "word": "が",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "績む",
-                "gloss": "spin thread"
+                "gloss": "spin thread",
+		"gloss-morph": "spin.thread-ADN",
+		"gloss-zh": "纺织-的",
+		"gloss-zh-morph": "纺织-ADN"
               }
             ]
           },
           {
             "phrase": "小津の浦なる",
             "gloss": "in Ozu's bay",
+	    "gloss-morph": "Ozu=GEN bay=COP-ADN",
+	    "gloss-zh": "小津 的 海湾 的",
+	    "gloss-zh-morph": "小津=GEN 海湾=COP-ADN",
             "words": [
               {
                 "word": "小津",
-                "gloss": "Ozu"
+                "gloss": "Ozu",
+		"gloss-morph": "Ozu",
+		"gloss-zh": "小津",
+		"gloss-zh-morph": "小津"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "浦",
-                "gloss": "bay"
+                "gloss": "bay",
+		"gloss-morph": "bay",
+		"gloss-zh": "海湾",
+		"gloss-zh-morph": "海湾"
               },
               {
                 "word": "なる",
-                "gloss": "be-ATTR"
+                "gloss": "be-ATTR",
+		"gloss-morph": "=COP-ADN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=COP-ADN"
               }
             ]
           },
           {
             "phrase": "岸の松原",
             "gloss": "pine grove on the shore",
+	    "gloss-morph": "shore=GEN pine+grove",
+	    "gloss-zh": "岸 的 松原",
+	    "gloss-zh-morph": "岸=GEN 松+原",
             "words": [
               {
                 "word": "岸",
-                "gloss": "shore"
+                "gloss": "shore",
+		"gloss-morph": "shore",
+		"gloss-zh": "岸",
+		"gloss-zh-morph": "岸"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "松原",
-                "gloss": "pine grove"
+                "gloss": "pine grove",
+		"gloss-morph": "pine+grove",
+		"gloss-zh": "松原",
+		"gloss-zh-morph": "松+原"
               }
             ]
           }
@@ -23726,6 +23904,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "行っても行っても、まだ続いているんですね、小津の浦の岸の松原が。",
         "translation-en-natural": "No matter how far I go, the pine grove along the shore of Ozu just keeps going on and on.",
+	"translation-zh-natural": "走也走步完的小津海湾岸边的松原，像爱女所纺织的一般绵延不绝。",
         "notes-ja": [
           {
             "title": "「妹が績む」の枕詞機能",
@@ -23753,7 +23932,21 @@
             "title": "Focus on the Scenic Continuity of the Pine Grove",
             "note": "This waka expresses the unending expanse of the pine groves along the shore of Ozu Bay, described as something that stretches endlessly no matter how far one goes. The poem’s main focus is on the landscape’s continuity and spatial impression, not on feelings of longing or personal attachment. The phrase 'imo ga umu' functions as a makurakotoba modifying 'Ozu' and should not be overinterpreted as a reference to romantic love, as doing so would blur the poem's true subject—the vastness of the coastal scenery."
           }
-        ]
+        ],
+	"notes-zh": [
+	  {
+	    "title": "「妹が績む」的枕词功能",
+	    "note": "「妹が績む」（小妹纺织）作为修辞手法中的枕词，修饰「小津」。纺织的行为引发了对「绪」和「小」的联想，从而在音韵和象征上引导到「小津」。虽然该短语具有字面意义，但在这首和歌中的主要功能是修辞连接。逐字翻译应保留原文，同时注释其作为诗歌手法的作用。"
+	  },
+	  {
+	    "title": "「妹」的含义",
+	    "note": "在古典日语中，「妹」指的不是亲妹妹，而是指恋人或妻子等亲密的女性。在这首和歌中，「妹が績む」作为枕词，情感上唤起了对所爱之人的存在感。"
+	  },
+	  {
+	    "title": "松原景色的连续性焦点",
+	    "note": "这首和歌表达了小津湾岸边松林的无尽延伸，无论走多远都无法走完。诗歌的主要焦点在于景色的连续性和空间印象，而非对渴望或个人依恋的感受。「妹が績む」作为修辞手法中的枕词，修饰「小津」，不应过度解读为对浪漫爱情的引用，因为这样会模糊诗歌的真实主题——沿海景色的广阔。"
+	  }
+	]
       },
       {
         "date": "20250515",
