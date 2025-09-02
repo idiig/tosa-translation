@@ -23956,126 +23956,209 @@
         "koutei-yamagen": "かくいひつゞくる程に「船疾くこげ、日のよきに」と催せば楫取船子どもにいはく「御船より仰せたぶなり。",
         "translation-ja": "こう言いながらやって来るうちに、「船を早く漕げ、天候がいいんだから」と催促すると、楫取が水夫たちに言う、「船君が仰せになったぞ。",
         "translation-en": "As I was saying this, the boatman urged, 'Row the boat quickly, for the weather is fine,' and the steersman said to the crew, 'The captain has given his orders.'",
+	"translation-zh": "这样持续说着时，催促道“船快划，因为天好”，于是划桨的人对船夫说的是：来自船客大人的吩咐。",
         "phrase-gloss": [
           {
             "phrase": "かくいひつゞくる程に",
             "gloss": "while saying thus continuously",
+	    "gloss-morph": "thus say-THM.SEQ+keep-ADN while/duration=DAT",
+	    "gloss-zh": "这样 持续说 时=LOC",
+	    "gloss-zh-morph": "这样 说-THM.SEQ+持续-ADN duration=DAT",
             "words": [
               {
                 "word": "かく",
-                "gloss": "thus"
+                "gloss": "thus",
+		"gloss-morph": "thus",
+		"gloss-zh": "这样地",
+		"gloss-zh-morph": "这样地"
               },
               {
                 "word": "いひ",
-                "gloss": "say"
+                "gloss": "say",
+		"gloss-morph": "say-THM",
+		"gloss-zh": "说",
+		"gloss-zh-morph": "说-THM"
               },
               {
                 "word": "つゞくる",
-                "gloss": "continue-PROG"
+                "gloss": "continue-PROG",
+		"gloss-morph": "keep-ADN",
+		"gloss-zh": "持续",
+		"gloss-zh-morph": "持续-ADN"
               },
               {
                 "word": "程",
-                "gloss": "while/duration"
+                "gloss": "while/duration",
+		"gloss-morph": "while/duration",
+		"gloss-zh": "时",
+		"gloss-zh-morph": "时"
               },
               {
                 "word": "に",
-                "gloss": "LOC/TEMP"
+                "gloss": "LOC/TEMP",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "=DAT",
+		"gloss-zh-morph": "=DAT"
               }
             ]
           },
           {
             "phrase": "船疾くこげ、日のよきに",
             "gloss": "row the boat quickly, for the day is fine",
+	    "words-gloss": "boat quick-SER row-THM.IMP day=GEN good-ADN.NL=CAS",
+	    "gloss-zh": "船 快-地 划 天气 的 好 因为",
+	    "gloss-zh-morph": "船 快-SER 划-THM.IMP 天气=GEN 好-ADN.NL=CAS",
             "words": [
               {
                 "word": "船",
-                "gloss": "boat"
+                "gloss": "boat",
+		"gloss-morph": "boat",
+		"gloss-zh": "船",
+		"gloss-zh-morph": "船"
               },
               {
                 "word": "疾く",
-                "gloss": "quickly"
+                "gloss": "quickly",
+		"gloss-morph": "quick-SER",
+		"gloss-zh": "快-地",
+		"gloss-zh-morph": "快-SER"
               },
               {
                 "word": "こげ",
-                "gloss": "row-IMP"
+                "gloss": "row-IMP",
+		"gloss-morph": "row-THM.IMP",
+		"gloss-zh": "划",
+		"gloss-zh-morph": "划-THM.IMP"
               },
               {
                 "word": "日",
-                "gloss": "day"
+                "gloss": "day",
+		"gloss-morph": "day",
+		"gloss-zh": "天气",
+		"gloss-zh-morph": "天气"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "よき",
-                "gloss": "good-ATTR"
+                "gloss": "good-ATTR",
+		"gloss-morph": "good-ADN.NL",
+		"gloss-zh": "好",
+		"gloss-zh-morph": "好-ADN.NL"
               },
               {
                 "word": "に",
-                "gloss": "REASON"
+                "gloss": "REASON",
+		"gloss-morph": "=CAS",
+		"gloss-zh": "因为",
+		"gloss-zh-morph": "=CAS"
               }
             ]
           },
           {
             "phrase": "催せば",
             "gloss": "when urged",
+	    "gloss-morph": "urge-THM=HCD",
+	    "gloss-zh": "催促 因为",
+	    "gloss-zh-morph": "催促=HCD",
             "words": [
               {
                 "word": "催せ",
-                "gloss": "urge"
+                "gloss": "urge",
+		"gloss-morph": "urge-THM",
+		"gloss-zh": "催促",
+		"gloss-zh-morph": "催促-THM"
               },
               {
                 "word": "ば",
-                "gloss": "COND"
+                "gloss": "COND",
+		"gloss-morph": "=HCD",
+		"gloss-zh": "因为",
+		"gloss-zh-morph": "=HCD"
               }
             ]
           },
           {
             "phrase": "楫取船子どもにいはく",
             "gloss": "the steersman said to the boatmen",
+	    "gloss-morph": "steersman boatmen=PL=DAT say-THM-NML",
+	    "gloss-zh": "划桨的人 船员 们 对 说",
+	    "gloss-zh-morph": "划桨的人 船员=PL=DAT 说-THM-NML",
             "words": [
               {
                 "word": "楫取",
-                "gloss": "steersman"
+                "gloss": "steersman",
+		"gloss-morph": "steersman",
+		"gloss-zh": "划桨的人",
+		"gloss-zh-morph": "划桨的人"
               },
               {
                 "word": "船子",
-                "gloss": "boatmen"
+                "gloss": "boatmen",
+		"gloss-morph": "boatmen",
+		"gloss-zh": "船员",
+		"gloss-zh-morph": "船员"
               },
               {
                 "word": "ども",
-                "gloss": "PL"
+                "gloss": "PL",
+		"gloss-morph": "=PL",
+		"gloss-zh": "们",
+		"gloss-zh-morph": "=PL"
               },
               {
                 "word": "に",
-                "gloss": "DAT"
+                "gloss": "DAT",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "对",
+		"gloss-zh-morph": "=DAT"
               },
               {
                 "word": "いはく",
-                "gloss": "say:QUOT"
+                "gloss": "say:QUOT",
+		"gloss-morph": "say-THM-NML",
+		"gloss-zh": "说",
+		"gloss-zh-morph": "说-THM-NML"
               }
             ]
           },
           {
             "phrase": "御船より仰せたぶなり",
             "gloss": "it is an order from the Lord of the ship",
+	    "gloss-morph": "Lord.of.ship=ABL command.HON-THM.NML=COP-CCL",
+	    "gloss-zh": "船客大人 来自 吩咐 是",
+	    "gloss-zh-morph": "船客大人=ABL 吩咐-HON-THM.NML=COP-CCL",
             "words": [
               {
                 "word": "御船",
-                "gloss": "Lord-of-ship"
+                "gloss": "Lord-of-ship",
+		"gloss-morph": "Lord.of.ship",
+		"gloss-zh": "船客大人",
+		"gloss-zh-morph": "船客大人"
               },
               {
                 "word": "より",
-                "gloss": "ABL"
+                "gloss": "ABL",
+		"gloss-morph": "=ABL",
+		"gloss-zh": "来自",
+		"gloss-zh-morph": "=ABL"
               },
               {
                 "word": "仰せ",
-                "gloss": "command"
+                "gloss": "command",
+		"gloss-morph": "command-THM.SEQ",
+		"gloss-zh": "吩咐",
+		"gloss-zh-morph": "吩咐-THM.SEQ"
               },
               {
                 "word": "たぶ",
-                "gloss": "HON"
+                "gloss": "HON",
+		"
               },
               {
                 "word": "なり",
