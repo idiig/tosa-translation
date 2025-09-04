@@ -246,9 +246,9 @@
           {
             "phrase": "それの年の",
             "gloss": "that year-GEN",
-	    "gloss-morph": "DEM=GEN+year=GEN",
+	    "gloss-morph": "DEM=GEN year=GEN",
 	    "gloss-zh": "那年-GEN",
-	    "gloss-zh": "DEM=GEN+年=GEN",
+	    "gloss-zh": "DEM=GEN 年=GEN",
             "words": [
               {
                 "word": "それ",
@@ -421,16 +421,16 @@
           {
             "phrase": "そのよしいさゝか",
             "gloss": "a little of that matter",
-	    "gloss-morph": "DET+matter little",
+	    "gloss-morph": "DEM=GEN matter little",
 	    "gloss-zh": "若干原由",
-	    "gloss-morph-zh": "DET+原由 若干",
+	    "gloss-morph-zh": "DEM=GEN 原由 若干",
             "words": [
               {
                 "word": "その",
                 "gloss": "that",
-		"gloss-morph": "DET+",
+		"gloss-morph": "DEM=GEN",
 		"gloss-zh": "那",
-		"gloss-morph-zh": "DEM=GEN (DET)?+"
+		"gloss-morph-zh": "DEM=GEN"
               },
               {
                 "word": "よし",
@@ -978,16 +978,16 @@
           {
             "phrase": "その日頻にとかくしつゝ",
             "gloss": "that-day frequently this-and-that doing",
-	    "gloss-morph": "DET+whole.day=ADV this.and.that do-THM+ITR (ひしきりに?)",
+	    "gloss-morph": "DEM=GEN whole.day=ADV this.and.that do-THM+ITR (ひしきりに?)",
 	    "gloss-zh": "那 日 频繁地 这般那般 做 ITR",
-	    "gloss-morph-zh": "DET+终日=ADV 这般那般 做-THM+ITR",
+	    "gloss-morph-zh": "DEM=GEN 终日=ADV 这般那般 做-THM+ITR",
             "words": [
               {
                 "word": "その日",
                 "gloss": "that-day",
-		"gloss-morph": "DET+day",
-		"gloss-zh": "DET+日",
-		"gloss-morph-zh": "DET+日"
+		"gloss-morph": "DEM=GEN day",
+		"gloss-zh": "那日",
+		"gloss-morph-zh": "DEM=GEN 日"
 	      },
               {
                 "word": "頻に",
@@ -1641,16 +1641,16 @@
           {
             "phrase": "この人",
             "gloss": "this person",
-	    "gloss-morph": "DET+person",
+	    "gloss-morph": "DEM=GEN person",
 	    "gloss-zh": "此人",
-	    "gloss-morph-zh": "DET+人",
+	    "gloss-morph-zh": "DEM=GEN 人",
             "words": [
               {
                 "word": "この",
                 "gloss": "this",
-		"gloss-morph": "DET+",
+		"gloss-morph": "DEM=GEN",
 		"gloss-zh": "此",
-		"gloss-morph-zh": "DET+"
+		"gloss-morph-zh": "DEM=GEN"
               },
               {
                 "word": "人",
@@ -4794,16 +4794,16 @@
           {
             "phrase": "この頃の出立いそぎを見れど",
             "gloss": "seeing the preparations for departure at this time",
-	    "gloss-morph": "DET+time=GEN departure+preparation-NML=ACC see-THM=XCC",
+	    "gloss-morph": "DEM=GEN time=GEN departure+preparation-NML=ACC see-THM=XCC",
 	    "gloss-zh": "此 时 的 出发+准备 见 虽",
-	    "gloss-morph-zh": "DET+time=GEN 出发+准备-NML=ACC 见-THM=XCC",
+	    "gloss-morph-zh": "DEM=GEN time=GEN 出发+准备-NML=ACC 见-THM=XCC",
             "words": [
               {
                 "word": "この頃",
                 "gloss": "this time",
-		"gloss-morph": "DET+time=GEN",
+		"gloss-morph": "DEM=GEN time=GEN",
 		"gloss-zh": "此 时",
-		"gloss-morph-zh": "DET+time=GEN"
+		"gloss-morph-zh": "DEM=GEN time=GEN"
 	      },
               {
                 "word": "の",
@@ -5123,16 +5123,16 @@
           {
             "phrase": "この間に",
             "gloss": "during this time",
-	    "gloss-morph": "DET+interval=DAT",
+	    "gloss-morph": "DEM=GEN interval=DAT",
 	    "gloss-zh": "此 期间",
-	    "gloss-morph-zh": "DET+interval=DAT",
+	    "gloss-morph-zh": "DEM=GEN interval=DAT",
             "words": [
               {
                 "word": "この",
                 "gloss": "this",
-		"gloss-morph": "DET+",
+		"gloss-morph": "DEM=GEN",
 		"gloss-zh": "此",
-		"gloss-morph-zh": "DET+"
+		"gloss-morph-zh": "DEM=GEN"
               },
               {
                 "word": "間",
@@ -7079,16 +7079,16 @@
           {
             "phrase": "この折に",
             "gloss": "at this time",
-	    "gloss-morph": "DET+occasion=DAT",
+	    "gloss-morph": "DEM=GEN occasion=DAT",
 	    "gloss-zh": "这个时节 在",
-	    "gloss-morph-zh": "DET+时节=DAT",
+	    "gloss-morph-zh": "DEM=GEN 时节=DAT",
             "words": [
               {
                 "word": "この",
                 "gloss": "this",
-		"gloss-morph": "DET+",
+		"gloss-morph": "DEM=GEN",
 		"gloss-zh": "这个",
-		"gloss-morph-zh": "DET+"
+		"gloss-morph-zh": "DEM=GEN"
               },
               {
                 "word": "折",
@@ -7885,16 +7885,16 @@
           {
             "phrase": "この間に",
             "gloss": "during this time",
-	    "gloss-morph": "DET+interval=DAT",
+	    "gloss-morph": "DEM=GEN interval=DAT",
 	    "gloss-zh": "这 期间 在",
-	    "gloss-morph-zh": "DET+期间=DAT",
+	    "gloss-morph-zh": "DEM=GEN 期间=DAT",
             "words": [
               {
                 "word": "この",
                 "gloss": "this",
-		"gloss-morph": "DET+",
+		"gloss-morph": "DEM=GEN",
 		"gloss-zh": "这",
-		"gloss-morph-zh": "DET+"
+		"gloss-morph-zh": "DEM=GEN"
 	      },
               {
                 "word": "間",
@@ -16625,16 +16625,16 @@
           {
             "phrase": "この船にまじれりけり",
             "gloss": "was aboard this boat",
-	    "gloss-morph": "DET+boat=DAT mix-THM+STA-THM+RET-CCL",
+	    "gloss-morph": "DEM=GEN boat=DAT mix-THM+STA-THM+RET-CCL",
 	    "gloss-zh": "这 船 在 混-着-了",
-	    "gloss-zh-morph": "DET+船=DAT 混-THM+STA-THM+RET-CCL",
+	    "gloss-zh-morph": "DEM=GEN 船=DAT 混-THM+STA-THM+RET-CCL",
             "words": [
               {
                 "word": "この",
                 "gloss": "this",
-		"gloss-morph": "DET+",
+		"gloss-morph": "DEM=GEN",
 		"gloss-zh": "这",
-		"gloss-zh-morph": "DET+"
+		"gloss-zh-morph": "DEM=GEN"
               },
               {
                 "word": "船",
@@ -17536,16 +17536,16 @@
           {
             "phrase": "このみとを渡りぬ",
             "gloss": "crossed this water gate",
-	    "gloss-morph": "DET+water.gate=ACC cross-THM=MNF-CCL",
+	    "gloss-morph": "DEM=GEN water.gate=ACC cross-THM=MNF-CCL",
 	    "gloss-zh": "这水门 ACC 过-了",
-	    "gloss-zh-morph": "DET+水门=ACC 过-THM=MNF-CCL",
+	    "gloss-zh-morph": "DEM=GEN 水门=ACC 过-THM=MNF-CCL",
             "words": [
               {
                 "word": "この",
                 "gloss": "this",
-		"gloss-morph": "DET+",
+		"gloss-morph": "DEM=GEN",
 		"gloss-zh": "这",
-		"gloss-zh-morph": "这+"
+		"gloss-zh-morph": "DEM=GEN"
               },
               {
                 "word": "みと",
@@ -19347,16 +19347,16 @@
           {
             "phrase": "この間に",
             "gloss": "in the meantime",
-	    "gloss-morph": "DET+interval=DAT",
+	    "gloss-morph": "DEM=GEN interval=DAT",
 	    "gloss-zh": "此间 于",
-	    "gloss-zh-morph": "DET+间=DAT",
+	    "gloss-zh-morph": "DEM=GEN 间=DAT",
             "words": [
               {
                 "word": "この",
                 "gloss": "this",
-		"gloss-morph": "DET+",
+		"gloss-morph": "DEM=GEN",
 		"gloss-zh": "此",
-		"gloss-zh-morph": "DET+"
+		"gloss-zh-morph": "DEM=GEN"
               },
               {
                 "word": "間",
@@ -19762,16 +19762,16 @@
           {
             "phrase": "この月までなりぬること",
             "gloss": "that it has come to this month",
-	    "gloss-morph": "DET+month=ALL COP-THM+MNF-ADN=INTJ",
+	    "gloss-morph": "DEM=GEN month=ALL COP-THM+MNF-ADN=INTJ",
 	    "gloss-zh": "此月 为止 是 了 啊",
-	    "gloss-zh-morph": "DET+月=ALL COP-THM+MNF-ADN=INTJ",
+	    "gloss-zh-morph": "DEM=GEN 月=ALL COP-THM+MNF-ADN=INTJ",
             "words": [
               {
                 "word": "この",
                 "gloss": "this",
-		"gloss-morph": "DET+",
+		"gloss-morph": "DEM=GEN",
 		"gloss-zh": "此",
-		"gloss-zh-morph": "DET+"
+		"gloss-zh-morph": "DEM=GEN"
               },
               {
                 "word": "月",
@@ -21657,16 +21657,16 @@
           {
             "phrase": "この楫取は",
             "gloss": "this helmsman",
-	    "gloss-morph": "DET+helmsman=TOP",
+	    "gloss-morph": "DEM=GEN helmsman=TOP",
 	    "gloss-zh": "此 船夫 TOP",
-	    "gloss-zh-morph": "DET+船夫=TOP",
+	    "gloss-zh-morph": "DEM=GEN 船夫=TOP",
             "words": [
               {
                 "word": "この",
                 "gloss": "this",
-		"gloss-morph": "DET",
+		"gloss-morph": "DEM=GEN",
 		"gloss-zh": "此",
-		"gloss-zh-morph": "DET"
+		"gloss-zh-morph": "DEM=GEN"
               },
               {
                 "word": "楫取",
@@ -21786,16 +21786,16 @@
           {
             "phrase": "この泊の濱には",
             "gloss": "on the beach of this harbor",
-	    "words-morph": "DET+harbor=GEN beach=DAT=TOP",
+	    "words-morph": "DEM=GEN harbor=GEN beach=DAT=TOP",
 	    "gloss-zh": "此 港 的 海滩 DAT TOP",
-	    "gloss-zh-morph": "DET+港=GEN 海滩=DAT=TOP",
+	    "gloss-zh-morph": "DEM=GEN 港=GEN 海滩=DAT=TOP",
             "words": [
               {
                 "word": "この",
                 "gloss": "this",
-		"gloss-morph": "DET",
+		"gloss-morph": "DEM=GEN",
 		"gloss-zh": "此",
-		"gloss-zh-morph": "DET"
+		"gloss-zh-morph": "DEM=GEN"
               },
               {
                 "word": "泊",
