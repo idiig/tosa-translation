@@ -39,9 +39,9 @@
               {
                 "word": "も",
                 "gloss": "also",
-		"gloss-morph": "=IFO inclusive focus (包括的焦点)? COP??",
+		"gloss-morph": "=IFO",
 		"gloss-zh": "也",
-		"gloss-morph-zh": "=IFO?"
+		"gloss-morph-zh": "=IFO"
               },
               {
                 "word": "す",
@@ -106,9 +106,9 @@
           {
             "phrase": "女もしてみむとてするなり",
             "gloss": "woman also do-CONJ try-VOL QUOT do COP",
-	    "gloss-morph": "woman=IFO do-THM=SEQ try-THM+VOL-CCL=SCM do-ADN=COP-CCL",
-	    "gloss-zh": "女人 也 做-SEQ 试-VOL SCM 做 COP",
-	    "gloss-morph-zh": "女人=IFO 做-THM=SEQ 试-THM+VOL-CCL=SCM 做-ADN=COP-CCL",
+	    "gloss-morph": "woman=IFO do-THM=SEQ try-THM+VOL-CCL=SCM do-ADN+HEV-CCL",
+	    "gloss-zh": "女人 也 做-SEQ 试-VOL SCM 做 传闻",
+	    "gloss-morph-zh": "女人=IFO 做-THM=SEQ 试-THM+VOL-CCL=SCM 做-ADN+HEV-CCL",
             "words": [
               {
                 "word": "女",
@@ -122,49 +122,49 @@
                 "gloss": "also",
 		"gloss-morph": "=IFO",
 		"gloss-zh": "也",
-		"gloss-morph-zh": "=IFO?"
+		"gloss-morph-zh": "=IFO"
               },
               {
                 "word": "し",
                 "gloss": "do",
-		"gloss-morph": "do-THM?",
+		"gloss-morph": "do-THM",
 		"gloss-zh": "做",
-		"gloss-morph-zh": "做-THM?"
+		"gloss-morph-zh": "做-THM"
               },
               {
                 "word": "て",
                 "gloss": "CONJ",
-		"gloss-morph": "-SEQ?",
+		"gloss-morph": "=SEQ",
 		"gloss-zh": "SEQ",
-		"gloss-morph-zh": "-SEQ?"
+		"gloss-morph-zh": "=SEQ"
               },
               {
                 "word": "みむ",
                 "gloss": "try-VOL",
-		"gloss-morph": "try-THM+VOL-CCL?",
+		"gloss-morph": "try-THM+CJT",
 		"gloss-zh": "试-VOL",
-		"gloss-morph-zh": "试-THM+VOL-CCL?"
+		"gloss-morph-zh": "试-THM+CJT"
               },
               {
                 "word": "とて",
                 "gloss": "QUOT",
-		"gloss-morph": "=SCM sequential complementizer (継起補語表示)?",
+		"gloss-morph": "=SCM",
 		"gloss-zh": "SCM",
-		"gloss-morph-zh": "=SCM?"
+		"gloss-morph-zh": "=SCM"
               },
               {
                 "word": "する",
                 "gloss": "do",
-		"gloss-morph": "do-ADN?",
+		"gloss-morph": "do-ADN+",
 		"gloss-zh": "做",
-		"gloss-morph-zh": "做-ADN?",
+		"gloss-morph-zh": "做-ADN+",
               },
               {
                 "word": "なり",
                 "gloss": "COP",
-		"gloss-morph": "=COP-CCL",
-		"gloss-zh": "COP",
-		"gloss-morph-zh": "=COP-CCL"
+		"gloss-morph": "+HEV-CCL",
+		"gloss-zh": "HEV",
+		"gloss-morph-zh": "+HEV-CCL"
               }
             ]
           }
@@ -837,9 +837,9 @@
           {
             "phrase": "知る知らぬ",
             "gloss": "know or not know",
-	    "gloss-morph": "know-ADN.NL know-THM-NEG.NL",
+	    "gloss-morph": "know-ADN.NL know-THM=NEG.NL",
 	    "gloss-zh": "认识的（人）和不认识的（人）",
-	    "gloss-morph-zh": "认识-ADN.NL 认识-THM-NEG.NL",
+	    "gloss-morph-zh": "认识-ADN.NL 认识-THM=NEG.NL",
             "words": [
               {
                 "word": "知る",
@@ -858,9 +858,9 @@
               {
                 "word": "ぬ",
                 "gloss": "NEG",
-		"gloss-morph": "-NEG.NL?",
+		"gloss-morph": "=NEG.NL?",
 		"gloss-zh": "不",
-		"gloss-zh": "-NEG.NL?"
+		"gloss-zh": "=NEG.NL?"
               }
             ]
           },
@@ -1249,9 +1249,9 @@
           {
             "phrase": "船路なれど",
             "gloss": "boat.travel COP.REALIS.F COND.F",
-	    "gloss-morph": "boat+travel=COP-INC=XCC",
+	    "gloss-morph": "boat+travel COP-INC=XCC",
 	    "gloss-zh": "船旅 COP XCC",
-	    "gloss-morph-zh": "船+旅=COP-INC=XCC",
+	    "gloss-morph-zh": "船+旅 COP-INC=XCC",
             "words": [
               {
                 "word": "船路",
@@ -1263,9 +1263,9 @@
 	      {
                 "word": "なれ",
                 "gloss": "COP.REALIS.F",
-		"gloss-morph": "COP-INC",
-		"gloss-zh": "COP-INC",
-		"gloss-morph-zh": "COP-INC"
+		"gloss-morph": "COP-THM",
+		"gloss-zh": "COP",
+		"gloss-morph-zh": "COP-THM"
               },
               {
                 "word": "ど",
@@ -1746,10 +1746,10 @@
           },
           {
             "phrase": "あらざるなり",
-            "gloss": "exist-NEG.ATTR COP.EXP",
-	    "gloss-morph": "exist-THM-NEG-ADN=COP-CCL",
-	    "gloss-zh": "存在-不-的 COP",
-	    "gloss-morph-zh": "存在-THM-NEG-ADN=COP-CCL",
+            "gloss": "exist=NEG.ATTR COP.EXP",
+	    "gloss-morph": "exist-THM=NEG.VBL-ADN+HEV-CCL",
+	    "gloss-zh": "存在-不-的 HEV",
+	    "gloss-morph-zh": "存在-THM=NEG.VBL-ADN+HEV-CCL",
             "words": [
               {
                 "word": "あら",
@@ -1761,16 +1761,16 @@
               {
                 "word": "ざる",
                 "gloss": "NEG.ATTR",
-		"gloss-morph": "-NEG-ADN",
+		"gloss-morph": "=NEG.VBL-ADN",
 		"gloss-zh": "不-的",
-		"gloss-morph-zh": "-NEG-ADN"
+		"gloss-morph-zh": "=NEG.VBL-ADN"
               },
               {
                 "word": "なり",
                 "gloss": "COP.EXP",
-		"gloss-morph": "=COP-CCL",
-		"gloss-zh": "COP",
-		"gloss-morph-zh": "=COP-CCL"
+		"gloss-morph": "+HEV-CCL",
+		"gloss-zh": "听说",
+		"gloss-morph-zh": "+HEV-CCL"
               }
             ]
           }
@@ -2017,9 +2017,9 @@
           {
             "phrase": "今はとて見えざなるを",
             "gloss": "now FOC QUOT appear NEG be.ATTR ACC",
-	    "gloss-morph": "now=TOP=SCM see?-THM-NEG=COP-ADN.NL=ACC",
+	    "gloss-morph": "now=TOP=SCM see?-THM=NEG+HEV-ADN.NL=ACC",
 	    "gloss-zh": "现在 TOP? QUOT 见-不-的 ACC",
-	    "gloss-morph-zh": "现在=TOP=SCM 见-THM-NEG=COP-ADN.NL=ACC",
+	    "gloss-morph-zh": "现在=TOP=SCM 见-THM=NEG+HEV-ADN.NL=ACC",
             "words": [
               {
                 "word": "今",
@@ -2052,16 +2052,16 @@
               {
                 "word": "ざ",
                 "gloss": "NEG",
-		"gloss-morph": "-THM-NEG",
+		"gloss-morph": "=NEG",
 		"gloss-zh": "不",
-		"gloss-morph-zh": "-NEG"
+		"gloss-morph-zh": "=NEG"
               },
               {
                 "word": "なる",
                 "gloss": "be.ATTR",
-		"gloss-morph": "=COP-ADN",
+		"gloss-morph": "+HEV-ADN",
 		"gloss-zh": "的",
-		"gloss-morph-zh": "=COP-ADN"
+		"gloss-morph-zh": "+HEV-ADN"
 	      },
               {
                 "word": "を",
@@ -2112,9 +2112,9 @@
           {
             "phrase": "恥ぢずきなむきける",
             "gloss": "hesitate NEG come EMPH come.ADV.F PST.REP",
-	    "gloss-morph": "hesitate-THM-NEG come=FOC come-THM+RET-ADN",
+	    "gloss-morph": "hesitate-THM=NEG.SER come=FOC come-THM+RET-ADN",
 	    "gloss-zh": "介意-不 来-EMPH 来 PST",
-	    "gloss-morph-zh": "介意-THM-NEG 来=FOC 来-THM+RET-ADN",
+	    "gloss-morph-zh": "介意-THM-NEG.SER 来=FOC 来-THM+RET-ADN",
             "words": [
               {
                 "word": "恥ぢ",
@@ -2126,9 +2126,9 @@
               {
                 "word": "ず",
                 "gloss": "NEG",
-		"gloss-morph": "-NEG",
+		"gloss-morph": "=NEG.SER",
 		"gloss-zh": "不",
-		"gloss-morph-zh": "-NEG"
+		"gloss-morph-zh": "=NEG.SER"
               },
               {
                 "word": "き",
@@ -2242,7 +2242,7 @@
           {
             "phrase": "譽むるにしもあらず",
             "gloss": "praise.ATTR LOC EMPH NEG",
-	    "gloss-morph": "praise-ADN=DAT=EMPH exist-THM-NEG.CCL",
+	    "gloss-morph": "praise-ADN=DAT=EMPH exist-THM=NEG.CCL",
             "words": [
               {
                 "word": "譽むる",
@@ -2275,9 +2275,9 @@
               {
                 "word": "ず",
                 "gloss": "NEG",
-		"gloss-morph": "-NEG.CCL",
+		"gloss-morph": "=NEG.CCL",
 		"gloss-zh": "不",
-		"gloss-morph-zh": "-NEG.CCL"
+		"gloss-morph-zh": "=NEG.CCL"
               }
             ]
           }
@@ -2493,9 +2493,9 @@
           {
             "phrase": "一文字をだに知らぬもの",
             "gloss": "one.character ACC even know NEG person TOP",
-	    "gloss-morph": "one+character=ACC=ANL know-THM-NEG-ADN person=EMP=NOM?",
+	    "gloss-morph": "one+character=ACC=ANL know-THM=NEG-ADN person=EMP=NOM?",
 	    "gloss-zh": "一字 ACC 甚至 不认识 的 人 TOP",
-	    "gloss-morph-zh": "一+字=ACC=ANL 认识-THM-NEG-ADN 人=EMP=NOM?",
+	    "gloss-morph-zh": "一+字=ACC=ANL 认识-THM=NEG-ADN 人=EMP=NOM?",
             "words": [
               {
                 "word": "一文字",
@@ -2528,9 +2528,9 @@
               {
                 "word": "ぬ",
                 "gloss": "NEG.ATTR",
-		"gloss-morph": "-NEG-ADN",
+		"gloss-morph": "=NEG-ADN",
 		"gloss-zh": "不",
-		"gloss-morph-zh": "-NEG-ADN"
+		"gloss-morph-zh": "=NEG-ADN"
               },
               {
                 "word": "もの",
@@ -3391,16 +3391,16 @@
           {
             "phrase": "え書かず",
             "gloss": "POT.NEG write NEG",
-	    "gloss-morph": "NEG write-THM－NEG",
-	    "gloss-zh": "NEG 写-NEG",
-	    "gloss-morph-zh": "NEG 写-THM-NEG",
+	    "gloss-morph": "POT write-THM=NEG",
+	    "gloss-zh": "（不）得 写 NEG",
+	    "gloss-morph-zh": "POT 写-THM=NEG",
             "words": [
               {
                 "word": "え",
                 "gloss": "POT.NEG",
-		"gloss-morph": "NEG",
-		"gloss-zh": "NEG",
-		"gloss-morph-zh": "NEG"
+		"gloss-morph": "POT",
+		"gloss-zh": "POT",
+		"gloss-morph-zh": "POT"
               },
               {
                 "word": "書か",
@@ -3412,9 +3412,9 @@
               {
                 "word": "ず",
                 "gloss": "NEG",
-		"gloss-morph": "-NEG",
+		"gloss-morph": "=NEG",
 		"gloss-zh": "NEG",
-		"gloss-morph-zh": "-NEG"
+		"gloss-morph-zh": "=NEG"
               }
             ]
           }
@@ -4035,9 +4035,9 @@
           {
             "phrase": "たれならなくに",
             "gloss": "it is no one (but)",
-	    "gloss-morph": "who be-THM-NEG-ADV=DAT",
+	    "gloss-morph": "who COP-THM=NEG-SER=DAT",
 	    "gloss-zh": "谁 都不是 明明",
-	    "gloss-morph-zh": "谁=DAT 是-THM-NEG-ADV=DAT",
+	    "gloss-morph-zh": "谁 COP-THM=NEG-SER=DAT",
             "words": [
               {
                 "word": "たれ",
@@ -4049,16 +4049,16 @@
               {
                 "word": "なら",
                 "gloss": "COP.IRR",
-		"gloss-morph": "be-THM",
+		"gloss-morph": "COP-THM",
 		"gloss-zh": "是",
-		"gloss-morph-zh": "是-THM"
+		"gloss-morph-zh": "COP-THM"
 	      },
               {
                 "word": "なく",
                 "gloss": "NEG.ADV",
-		"gloss-morph": "NEG-ADV",
+		"gloss-morph": "NEG-SER",
 		"gloss-zh": "没有-地",
-		"gloss-morph-zh": "NEG-ADV"
+		"gloss-morph-zh": "NEG-SER"
               },
               {
                 "word": "に",
@@ -4418,9 +4418,9 @@
           {
             "phrase": "ゑひごとに心よげなることして",
             "gloss": "doing something cheerful under the influence of drink",
-	    "gloss-morph": "drink-THM+thing=CAS cheerful=COP-ADN thing do-THM=SEQ",
+	    "gloss-morph": "drink-THM+thing=CAS cheerful=ADN thing do-THM=SEQ",
 	    "gloss-zh": "醉酒之事 因 欢愉-的 事 做",
-	    "gloss-morph-zh": "醉-THM+事=CAS 欢愉=COP-ADN 事 做-THM=SEQ",
+	    "gloss-morph-zh": "醉-THM+事=CAS 欢愉=ADN 事 做-THM=SEQ",
             "words": [
               {
                 "word": "ゑひごと",
@@ -4439,16 +4439,16 @@
               {
                 "word": "心よげ",
                 "gloss": "cheerful",
-		"gloss-morph": "cheerful=COP",
-		"gloss-zh": "欢愉-的",
-		"gloss-morph-zh": "欢愉=COP"
+		"gloss-morph": "cheerful",
+		"gloss-zh": "欢愉",
+		"gloss-morph-zh": "欢愉"
               },
               {
                 "word": "なる",
                 "gloss": "be.ATTR",
-		"gloss-morph": "=COP-ADN",
+		"gloss-morph": "=ADN",
 		"gloss-zh": "的",
-		"gloss-morph-zh": "=COP-ADN"
+		"gloss-morph-zh": "=ADN"
               },
               {
                 "word": "こと",
@@ -4852,9 +4852,9 @@
           {
             "phrase": "何事もえいはず",
             "gloss": "cannot say anything",
-	    "gloss-morph": "what+thing=IFO NEG+say-THM-NEG-CCL",
+	    "gloss-morph": "what+thing=IFO NEG+say-THM=NEG-CCL",
 	    "gloss-zh": "什么事 也 说不出",
-	    "gloss-morph-zh": "什么+事=IFO NEG+说-THM-NEG-CCL",
+	    "gloss-morph-zh": "什么+事=IFO NEG+说-THM=NEG-CCL",
             "words": [
               {
                 "word": "何事",
@@ -4887,9 +4887,9 @@
               {
                 "word": "ず",
                 "gloss": "NEG",
-		"gloss-morph": "-NEG-CCL",
+		"gloss-morph": "=NEG-CCL",
 		"gloss-zh": "不出",
-		"gloss-morph-zh": "-NEG-CCL"
+		"gloss-morph-zh": "=NEG-CCL"
               }
             ]
           }
@@ -5074,9 +5074,9 @@
           {
             "phrase": "え堪へず",
             "gloss": "could not endure",
-	    "gloss-morph": "NEG+endure-THM-NEG-CCL",
+	    "gloss-morph": "NEG+endure-THM=NEG-CCL",
 	    "gloss-zh": "（打消） 忍受 不",
-	    "gloss-morph-zh": "NEG+忍受-THM-NEG-CCL",
+	    "gloss-morph-zh": "NEG+忍受-THM=NEG-CCL",
             "words": [
               {
                 "word": "え",
@@ -5095,9 +5095,9 @@
               {
                 "word": "ず",
                 "gloss": "NEG",
-		"gloss-morph": "-NEG-CCL",
+		"gloss-morph": "=NEG-CCL",
 		"gloss-zh": "不",
-		"gloss-morph-zh": "-NEG-CCL"
+		"gloss-morph-zh": "=NEG-CCL"
               }
             ]
           }
@@ -5337,7 +5337,7 @@
           {
             "phrase": "かへらぬ人の",
             "gloss": "of the person who does not return",
-	    "gloss-morph": "return-THM-NEG-ADN person=GEN",
+	    "gloss-morph": "return-THM=NEG-ADN person=GEN",
             "words": [
               {
                 "word": "かへら",
@@ -5349,9 +5349,9 @@
               {
                 "word": "ぬ",
                 "gloss": "NEG.ATTR",
-		"gloss-morph": "-NEG",
+		"gloss-morph": "=NEG",
 		"gloss-zh": "不",
-		"gloss-morph-zh": "-NEG"
+		"gloss-morph-zh": "=NEG"
               },
               {
                 "word": "人",
@@ -5372,9 +5372,9 @@
           {
             "phrase": "あればなりけり",
             "gloss": "it is because there is",
-	    "gloss-morph": "exist-THM=XCD=COP-THM-RET-CCL",
+	    "gloss-morph": "exist-THM=XCD COP-THM-RET-CCL",
 	    "gloss-zh": "有-了-的 因为 PST",
-	    "gloss-morph-zh": "有-THM=XCD=COP-THM+RET-CCL",
+	    "gloss-morph-zh": "有-THM=XCD COP-THM+RET-CCL",
             "words": [
               {
                 "word": "あれ",
@@ -5393,9 +5393,9 @@
               {
                 "word": "なり",
                 "gloss": "be",
-		"gloss-morph": "=COP-THM",
+		"gloss-morph": "COP-THM",
 		"gloss-zh": "是",
-		"gloss-morph-zh": "=COP-THM"
+		"gloss-morph-zh": "COP-THM"
               },
               {
                 "word": "けり",
@@ -7291,9 +7291,9 @@
           {
             "phrase": "西國なれど",
             "gloss": "though from the western provinces",
-	    "gloss-morph": "western.provinces=COP-THM=XCC",
+	    "gloss-morph": "western.provinces COP-THM=XCC",
 	    "gloss-zh": "西国 COP 虽",
-	    "gloss-morph-zh": "西国=COP-THM=XCC",
+	    "gloss-morph-zh": "西国 COP-THM=XCC",
             "words": [
               {
                 "word": "西國",
@@ -7305,9 +7305,9 @@
               {
                 "word": "なれ",
                 "gloss": "COP.REALIS",
-		"gloss-morph": "=COP-THM",
+		"gloss-morph": "COP-THM",
 		"gloss-zh": "COP",
-		"gloss-morph-zh": "=COP-THM"
+		"gloss-morph-zh": "COP-THM"
               },
               {
                 "word": "ど",
@@ -7502,9 +7502,9 @@
           {
             "phrase": "とぞいふなる",
             "gloss": "it is said",
-	    "gloss-morph": "=QUOT=EMP say-ADN.NL=COP-ADN",
-	    "gloss-zh": "QUOT EMP 说-的 COP",
-	    "gloss-morph-zh": "=QUOT=EMP 说-ADN.NL=COP-ADN",
+	    "gloss-morph": "=QUOT=EMP say-ADN+HEV-ADN",
+	    "gloss-zh": "QUOT EMP 说-的 HEV",
+	    "gloss-morph-zh": "=QUOT=EMP 说-ADN+HEV-ADN",
             "words": [
               {
                 "word": "と",
@@ -7523,16 +7523,16 @@
               {
                 "word": "いふ",
                 "gloss": "say.ATTR",
-		"gloss-morph": "say-ADN.NL",
+		"gloss-morph": "say-ADN",
 		"gloss-zh": "说-的",
-		"gloss-morph-zh": "说-ADN.NL"
+		"gloss-morph-zh": "说-ADN"
 	      },
               {
                 "word": "なる",
                 "gloss": "REP",
-		"gloss-morph": "=COP-ADN",
-		"gloss-zh": "COP",
-		"gloss-morph-zh": "=COP-ADN"
+		"gloss-morph": "+HEV-ADN",
+		"gloss-zh": "HEV",
+		"gloss-morph-zh": "+HEV-ADN"
               }
             ]
           }
@@ -8920,16 +8920,16 @@
           {
             "phrase": "え飮まずなりぬ",
             "gloss": "was unable to drink",
-	    "gloss-morph": "NEG drink-THM=NEG.CCL COP-THM+MNF-CCL",
-	    "gloss-zh": "NEG 饮-不 是-了",
-	    "gloss-morph-zh": "NEG drink-THM=NEG.CCL COP-THM+MNF-CCL",
+	    "gloss-morph": "POT drink-THM=NEG.CCL COP-THM+MNF-CCL",
+	    "gloss-zh": "（不）能 饮-不 是-了",
+	    "gloss-morph-zh": "POT drink-THM=NEG.CCL COP-THM+MNF-CCL",
             "words": [
               {
                 "word": "え",
                 "gloss": "NEG.POT",
-		"gloss-morph": "NEG",
-		"gloss-zh": "不能",
-		"gloss-morph-zh": "NEG"
+		"gloss-morph": "POT",
+		"gloss-zh": "（不）能",
+		"gloss-morph-zh": "POT"
 	      },
               {
                 "word": "飮ま",
@@ -9173,9 +9173,9 @@
           {
             "phrase": "國なり",
             "gloss": "it is a country",
-	    "gloss-morph": "country=COP-CCL",
+	    "gloss-morph": "country COP-CCL",
 	    "gloss-zh": "国 是",
-	    "gloss-morph-zh": "国=COP-CCL",
+	    "gloss-morph-zh": "国 COP-CCL",
             "words": [
               {
                 "word": "國",
@@ -9187,9 +9187,9 @@
               {
                 "word": "なり",
                 "gloss": "COP",
-		"gloss-morph": "=COP-CCL",
+		"gloss-morph": "COP-CCL",
 		"gloss-zh": "是",
-		"gloss-morph-zh": "=COP-CCL"
+		"gloss-morph-zh": "COP-CCL"
               }
             ]
           }
@@ -13883,9 +13883,9 @@
           {
             "phrase": "「日を望めば都遠し」などいふなる事のさまを",
             "gloss": "the manner of things such as saying 'When one looks toward the sun, the capital is far away'",
-	    "gloss-morph": "sun=ACC look.toward-THM=HCD capital far.CCL=EXE say.CCL=COP-ADN thing=GEN manner=ACC",
+	    "gloss-morph": "sun=ACC look.toward-THM=HCD capital far.CCL=EXE say-ADN+HEV-ADN thing=GEN manner=ACC",
 	    "gloss-zh": "日 ACC 望-于是 都城 远 等等 说 是 事 的 样子 ACC",
-	    "gloss-zh-morph": "日=ACC 望-THM=HCD 都城 远-CCL=EXE 说-CCL=COP-ADN 事=GEN 样子=ACC",
+	    "gloss-zh-morph": "日=ACC 望-THM=HCD 都城 远-CCL=EXE 说-ADN+HEV-ADN 事=GEN 样子=ACC",
             "words": [
               {
                 "word": "日",
@@ -13939,16 +13939,16 @@
               {
                 "word": "いふ",
                 "gloss": "say",
-		"gloss-morph": "say-CCL",
+		"gloss-morph": "say-ADN",
 		"gloss-zh": "说",
-		"gloss-zh-morph": "说-CCL"
+		"gloss-zh-morph": "说-ADN"
               },
               {
                 "word": "なる",
                 "gloss": "COP",
-		"gloss-morph": "=COP-THM",
-		"gloss-zh": "是",
-		"gloss-zh-morph": "=COP-THM"
+		"gloss-morph": "+HEV-THM",
+		"gloss-zh": "听闻",
+		"gloss-zh-morph": "+HEV-THM"
               },
               {
                 "word": "事",
@@ -15136,9 +15136,9 @@
           {
             "phrase": "今日は子の日なりければ",
             "gloss": "today-TOP Rat-GEN+Day COP-PFV.EXCL-COND",
-	    "gloss-morph": "today=TOP Rat=GEN+Day=COP-THM+RET-THM=HCD",
+	    "gloss-morph": "today=TOP Rat=GEN+Day COP-THM+RET-THM=HCD",
 	    "gloss-zh": "今天 TOP 子之日 是 了 如果",
-	    "gloss-zh-morph": "今天=TOP 子=GEN 日=COP-THM+是-THM=HCD",
+	    "gloss-zh-morph": "今天=TOP 子=GEN 日 COP-THM+是-THM=HCD",
             "words": [
               {
                 "word": "今日",
@@ -15178,9 +15178,9 @@
               {
                 "word": "なり",
                 "gloss": "COP",
-		"gloss-morph": "=COP-THM",
+		"gloss-morph": "COP-THM",
 		"gloss-zh": "是",
-		"gloss-zh-morph": "=是-THM"
+		"gloss-zh-morph": "=COP-THM"
               },
               {
                 "word": "けれ",
@@ -15258,9 +15258,9 @@
           {
             "phrase": "正月なれば",
             "gloss": "since it is the New Year",
-	    "gloss-morph": "New.Year=COP-THM=HCD",
+	    "gloss-morph": "New.Year COP-THM=HCD",
 	    "gloss-zh": "正月 是 因为",
-	    "gloss-zh-morph": "正月=是-THM=因为",
+	    "gloss-zh-morph": "正月 COP-THM=HCD",
             "words": [
               {
                 "word": "正月",
@@ -15272,9 +15272,9 @@
               {
                 "word": "なれ",
                 "gloss": "COP.PST",
-		"gloss-morph": "=COP-THM",
+		"gloss-morph": "COP-THM",
 		"gloss-zh": "是",
-		"gloss-zh-morph": "=是-THM"
+		"gloss-zh-morph": "COP-THM"
               },
               {
                 "word": "ば",
@@ -15390,9 +15390,9 @@
           {
             "phrase": "海中なれば難しかし",
             "gloss": "since (we are) in the middle of the sea, it is difficult!",
-	    "gloss-morph": "sea+middle=COP-THM=HCD difficult-CCL=CNF",
+	    "gloss-morph": "sea+middle COP-THM=HCD difficult-CCL=CNF",
 	    "gloss-zh": "海里 是 因此 困难 确实",
-	    "gloss-zh-morph": "海+中=COP-THM=HCD 困难-CCL=CNF",
+	    "gloss-zh-morph": "海+中 COP-THM=HCD 困难-CCL=CNF",
             "words": [
               {
                 "word": "海中",
@@ -15404,9 +15404,9 @@
               {
                 "word": "なれ",
                 "gloss": "COP.PST",
-		"gloss-morph": "=COP-THM",
+		"gloss-morph": "COP-THM",
 		"gloss-zh": "是",
-		"gloss-zh-morph": "=是-THM"
+		"gloss-zh-morph": "COP-THM"
               },
               {
                 "word": "ば",
@@ -15638,9 +15638,9 @@
           {
             "phrase": "あまならば",
             "gloss": "if (I) were a sea diver",
-	    "gloss-morph": "sea.diver=COP-THM=HCD",
+	    "gloss-morph": "sea.diver COP-THM=HCD",
 	    "gloss-zh": "海女 是 如果",
-	    "gloss-zh-morph": "海女=是-THM=如果",
+	    "gloss-zh-morph": "海女 COP-THM=如果",
             "words": [
               {
                 "word": "あま",
@@ -15652,7 +15652,7 @@
               {
                 "word": "なら",
                 "gloss": "COP.IRR",
-		"gloss-morph": "=COP-THM",
+		"gloss-morph": "COP-THM",
 		"gloss-zh": "是",
 		"gloss-zh-morph": "=是-THM"
               },
@@ -16062,9 +16062,9 @@
           {
             "phrase": "けふなれど",
             "gloss": "Though it is today",
-	    "gloss-morph": "today=COP-THM=CON",
+	    "gloss-morph": "today COP-THM=CON",
 	    "gloss-zh": "今天 是 但是",
-	    "gloss-zh-morph": "今天=COP-THM=CON",
+	    "gloss-zh-morph": "今天 COP-THM=CON",
             "words": [
               {
                 "word": "けふ",
@@ -16076,9 +16076,9 @@
               {
                 "word": "なれ",
                 "gloss": "COP.PST",
-		"gloss-morph": "=COP-THM",
+		"gloss-morph": "COP-THM",
 		"gloss-zh": "是",
-		"gloss-zh-morph": "=COP-THM"
+		"gloss-zh-morph": "COP-THM"
               },
               {
                 "word": "ど",
@@ -16727,8 +16727,9 @@
           {
             "phrase": "昔しばしありし所の名たぐひにぞあなる。",
             "gloss": "it bears a name like a place where I once stayed",
-	    "gloss-morph": "long.ago for.a.while exist-THM+PST.ADN place=GEN name similarity=DAT=FOC exist=COP-ADN",
+	    "gloss-morph": "long.ago for.a.while exist-THM+PST.ADN place=GEN name similarity=DAT=FOC exist+COP-ADN",
 	    "gloss-zh": "过去 一段时间 存在-了-的 地方 的 名字 类似 于 FOC 是",
+	    "gloss-zh-morph": "过去 一段时间 存在-THM+PST.ADN 地方=GEN 名字 类似=DAT=FOC 存在+COP-ADN",
             "words": [
               {
                 "word": "昔",
@@ -16803,16 +16804,16 @@
               {
                 "word": "あ",
                 "gloss": "be",
-		"gloss-morph": "exist",
+		"gloss-morph": "exist+",
 		"gloss-zh": "是",
-		"gloss-zh-morph": "是"
+		"gloss-zh-morph": "存在+"
               },
               {
                 "word": "なる",
                 "gloss": "COP",
-		"gloss-morph": "=COP-ADN",
+		"gloss-morph": "COP-ADN",
 		"gloss-zh": "是",
-		"gloss-zh-morph": "是"
+		"gloss-zh-morph": "COP-ADN"
               }
             ]
           },
@@ -17188,9 +17189,9 @@
           {
             "phrase": "夜ありきせざなりと聞きて",
             "gloss": "hearing that they do not walk around at night",
-	    "gloss-morph": "night walk.around-NML+do-THM=NEG+COP-CCL=QT hear-THM=SEQ",
+	    "gloss-morph": "night walk.around-NML+do-THM=NEG+HEV-CCL=QT hear-THM=SEQ",
 	    "gloss-zh": "夜 走动做 不 是 QUOT 听说 SEQ",
-	    "gloss-zh-morph": "夜 走动-NML+做-THM=NEG+COP-CCL=QT 听说-THM=SEQ",
+	    "gloss-zh-morph": "夜 走动-NML+做-THM=NEG+HEV-CCL=QT 听说-THM=SEQ",
             "words": [
               {
                 "word": "夜",
@@ -17216,16 +17217,16 @@
               {
                 "word": "ざ",
                 "gloss": "NEG",
-		"gloss-morph": "=NEG+",
+		"gloss-morph": "=NEG.VBL.ADN+",
 		"gloss-zh": "不",
-		"gloss-zh-morph": "=NEG+"
+		"gloss-zh-morph": "=NEG.VBL.ADN+"
               },
               {
                 "word": "なり",
                 "gloss": "COP",
-		"gloss-morph": "=COP-CCL",
-		"gloss-zh": "是",
-		"gloss-zh-morph": "=COP-CCL"
+		"gloss-morph": "+HEV-CCL",
+		"gloss-zh": "HEV",
+		"gloss-zh-morph": "+HEV-CCL"
               },
               {
                 "word": "と",
@@ -17410,9 +17411,9 @@
           {
             "phrase": "夜中なれば",
             "gloss": "as it was the middle of the night",
-	    "gloss-morph": "midnight=COP-THM=HCD",
+	    "gloss-morph": "midnight COP-THM=HCD",
 	    "gloss-zh": "半夜 是 因此",
-	    "gloss-zh-morph": "半夜=COP-THM=HCD",
+	    "gloss-zh-morph": "半夜 COP-THM=HCD",
             "words": [
               {
                 "word": "夜中",
@@ -17424,9 +17425,9 @@
               {
                 "word": "なれ",
                 "gloss": "COP.CONJ",
-		"gloss-morph": "=COP-THM",
+		"gloss-morph": "COP-THM",
 		"gloss-zh": "是",
-		"gloss-zh-morph": "=COP-THM"
+		"gloss-zh-morph": "COP-THM"
               },
               {
                 "word": "ば",
@@ -18434,16 +18435,16 @@
               {
                 "word": "もの",
                 "gloss": "thing/one",
-		"gloss-morph": "thing",
+		"gloss-morph": "thing+",
 		"gloss-zh": "东西",
-		"gloss-zh-morph": "东西"
+		"gloss-zh-morph": "东西+"
               },
               {
                 "word": "なら",
                 "gloss": "be-COND",
-		"gloss-morph": "=COP-THM",
+		"gloss-morph": "COP-THM",
 		"gloss-zh": "是",
-		"gloss-zh-morph": "=COP-THM"
+		"gloss-zh-morph": "COP-THM"
               },
               {
                 "word": "ず",
@@ -19761,9 +19762,9 @@
           {
             "phrase": "この月までなりぬること",
             "gloss": "that it has come to this month",
-	    "gloss-morph": "DET+month=ALL=COP-THM+MNF-ADN=INTJ",
+	    "gloss-morph": "DET+month=ALL COP-THM+MNF-ADN=INTJ",
 	    "gloss-zh": "此月 为止 是 了 啊",
-	    "gloss-zh-morph": "DET+月=ALL=COP-THM+MNF-ADN=INTJ",
+	    "gloss-zh-morph": "DET+月=ALL COP-THM+MNF-ADN=INTJ",
             "words": [
               {
                 "word": "この",
@@ -20268,9 +20269,9 @@
           {
             "phrase": "なぞたゞごとなると",
             "gloss": "'Why is it just a trivial matter,'",
-	    "gloss-morph": "what=FOC trivial.thing=COP-ADN=QT",
+	    "gloss-morph": "what=FOC trivial.thing COP-ADN=QT",
 	    "gloss-zh": "为何 FOC 琐事 是-的 QT",
-	    "gloss-zh-morph": "what=FOC 琐事=COP-ADN=QT",
+	    "gloss-zh-morph": "what=FOC 琐事 COP-ADN=QT",
             "words": [
               {
                 "word": "なぞ",
@@ -20858,9 +20859,9 @@
           {
             "phrase": "昨日のやうなれば",
             "gloss": "being like yesterday,",
-	    "gloss-morph": "yesterday=GEN appearance/manner=COP-THM=HCD",
+	    "gloss-morph": "yesterday=GEN likely+COP-THM=HCD",
 	    "gloss-zh": "昨日 的 样子 是 因此",
-	    "gloss-zh-morph": "昨日=GEN 样子=COP-THM=HCD",
+	    "gloss-zh-morph": "昨日=GEN 样子+COP-THM=HCD",
             "words": [
               {
                 "word": "昨日",
@@ -20879,16 +20880,16 @@
               {
                 "word": "やう",
                 "gloss": "appearance/manner",
-		"gloss-morph": "appearance/manner",
-		"gloss-zh": "样子",
-		"gloss-zh-morph": "样子"
+		"gloss-morph": "likely+",
+		"gloss-zh": "像",
+		"gloss-zh-morph": "像+"
               },
               {
                 "word": "なれ",
                 "gloss": "COP.PST",
-		"gloss-morph": "=COP-THM",
+		"gloss-morph": "COP-THM",
 		"gloss-zh": "是",
-		"gloss-zh-morph": "=COP-THM"
+		"gloss-zh-morph": "COP-THM"
               },
               {
                 "word": "ば",
@@ -21276,9 +21277,9 @@
           {
             "phrase": "ぬかぬなりけり",
             "gloss": "could not be pierced through",
-	    "gloss-morph": "pierce-THM=NEG-ADN=COP-THM+RET-CCL",
+	    "gloss-morph": "pierce-THM=NEG-ADN+HEV-THM+RET-CCL",
 	    "gloss-zh": "穿 不-的 是 了",
-	    "gloss-zh-morph": "穿-THM=NEG-ADN=COP-THM+RET-CCL",
+	    "gloss-zh-morph": "穿-THM=NEG-ADN+HEV-THM+RET-CCL",
             "words": [
               {
                 "word": "ぬか",
@@ -21297,9 +21298,9 @@
               {
                 "word": "なり",
                 "gloss": "to be",
-		"gloss-morph": "=COP-THM",
+		"gloss-morph": "+HEV-THM",
 		"gloss-zh": "是",
-		"gloss-zh-morph": "=COP-THM"
+		"gloss-zh-morph": "+HEV-THM"
 	      },
               {
                 "word": "けり",
@@ -21500,9 +21501,9 @@
           {
             "phrase": "船出さずなりぬ。",
             "gloss": "(we) did not set sail.",
-	    "gloss-morph": "boat set.out-THM=NEG.CCL=COP-THM+MNF-CCL",
+	    "gloss-morph": "boat set.out-THM=NEG.CCL COP-THM+MNF-CCL",
 	    "gloss-zh": "船 出 不 了",
-	    "gloss-zh-morph": "船 出-THM=NEG.CCL=COP-THM+MNF-CCL",
+	    "gloss-zh-morph": "船 出-THM=NEG.CCL COP-THM+MNF-CCL",
             "words": [
               {
                 "word": "船",
@@ -21522,13 +21523,15 @@
                 "word": "ず",
                 "gloss": "NEG",
 		"gloss-morph": "=NEG.CCL",
+		"gloss-zh": "不",
+		"gloss-zh-morph": "=NEG.CCL"
               },
               {
                 "word": "なり",
                 "gloss": "to be",
-		"gloss-morph": "=COP-THM",
+		"gloss-morph": "COP-THM",
 		"gloss-zh": "是",
-		"gloss-zh-morph": "=COP-THM"
+		"gloss-zh-morph": "COP-THM"
               },
               {
                 "word": "ぬ",
@@ -21684,9 +21687,9 @@
           {
             "phrase": "日も得計らぬかたゐなりけり。",
             "gloss": "(he) could not even predict the weather.",
-	    "gloss-morph": "weather=IFO (im)possible predict-THM=NEG-ADN fool=COP-THM+RET-CCL",
+	    "gloss-morph": "weather=IFO (im)possible predict-THM=NEG-ADN fool COP-THM+RET-CCL",
 	    "gloss-zh": "天气 也 （不）能 预测-不-的 愚者 是 了",
-	    "gloss-zh-morph": "天气=IFO （不）能 预测-THM=NEG-ADN 愚者=COP-THM+RET-CCL",
+	    "gloss-zh-morph": "天气=IFO （不）能 预测-THM=NEG-ADN 愚者 COP-THM+RET-CCL",
             "words": [
               {
                 "word": "日",
@@ -21733,9 +21736,9 @@
               {
                 "word": "なり",
                 "gloss": "to be",
-		"gloss-morph": "=COP-THM",
+		"gloss-morph": "COP-THM",
 		"gloss-zh": "是",
-		"gloss-zh-morph": "=COP-THM"
+		"gloss-zh-morph": "COP-THM"
               },
               {
                 "word": "けり",
@@ -21989,9 +21992,9 @@
           {
             "phrase": "船なる人の詠める、",
             "gloss": "the person on the ship composed,",
-	    "gloss-morph": "ship=COP-ADN person=GEN compose-THM+STA-ADN.NL",
+	    "gloss-morph": "ship COP-ADN person=GEN compose-THM+STA-ADN.NL",
 	    "gloss-zh": "船 的 人 所 吟诵-的",
-	    "gloss-zh-morph": "船=COP-ADN 人=GEN 吟诵-THM+STA-ADN.NL",
+	    "gloss-zh-morph": "船 COP-ADN 人=GEN 吟诵-THM+STA-ADN.NL",
             "words": [
               {
                 "word": "船",
@@ -22003,9 +22006,9 @@
               {
                 "word": "なる",
                 "gloss": "to be",
-		"gloss-morph": "=COP-ADN",
+		"gloss-morph": "COP-ADN",
 		"gloss-zh": "的",
-		"gloss-zh-morph": "=COP-ADN"
+		"gloss-zh-morph": "COP-ADN"
               },
               {
                 "word": "人",
@@ -22790,30 +22793,30 @@
           {
             "phrase": "玉ならずも",
             "gloss": "even not being a jewel",
-	    "gloss-morph": "jewel=COP-THM=NEG.NML=IFO",
-	    "gloss-zh": "玉 不成 也",
-	    "gloss-zh-morph": "玉=COP-THM=NEG.NML=IFO",
+	    "gloss-morph": "jewel+COP-THM=NEG.NML=IFO",
+	    "gloss-zh": "不成玉 也",
+	    "gloss-zh-morph": "玉+COP-THM=NEG.NML=IFO",
             "words": [
               {
                 "word": "玉",
                 "gloss": "jewel",
-		"gloss-morph": "jewel",
+		"gloss-morph": "jewel+",
 		"gloss-zh": "玉",
-		"gloss-zh-morph": "玉"
+		"gloss-zh-morph": "玉+"
               },
               {
                 "word": "なら",
-                "gloss": "=COP",
-		"gloss-morph": "=COP-THM",
+                "gloss": "COP",
+		"gloss-morph": "COP-THM",
 		"gloss-zh": "成",
-		"gloss-zh-morph": "=COP-THM"
+		"gloss-zh-morph": "COP-THM"
               },
               {
                 "word": "ず",
                 "gloss": "NEG",
-		"gloss-morph": "=NEG.NML",
+		"gloss-morph": "=NEG.CCL.NL",
 		"gloss-zh": "不",
-		"gloss-zh-morph": "=NEG.NML"
+		"gloss-zh-morph": "=NEG.CCL.NL"
               },
               {
                 "word": "も",
@@ -23608,23 +23611,23 @@
           {
             "phrase": "はるばるなり。",
             "gloss": "is far-reaching",
-	    "gloss-morph": "distant=COP",
+	    "gloss-morph": "distant+COP-CCL",
 	    "”gloss-zh": "遥远 是",
-	    "gloss-zh-morph": "遥远=COP",
+	    "gloss-zh-morph": "遥远+COP-CCL",
             "words": [
               {
                 "word": "はるばる",
                 "gloss": "far, distant",
-		"gloss-morph": "distant",
+		"gloss-morph": "distant+",
 		"gloss-zh": "遥远",
-		"gloss-zh-morph": "遥远"
+		"gloss-zh-morph": "遥远+"
               },
               {
                 "word": "なり",
                 "gloss": "COP",
-		"gloss-morph": "=COP",
+		"gloss-morph": "COP-CCL",
 		"gloss-zh": "是",
-		"gloss-zh-morph": "=COP"
+		"gloss-zh-morph": "COP-CCL"
               }
             ]
           }
@@ -23836,9 +23839,9 @@
           {
             "phrase": "小津の浦なる",
             "gloss": "in Ozu's bay",
-	    "gloss-morph": "Ozu=GEN bay=COP-ADN",
+	    "gloss-morph": "Ozu=GEN bay COP-ADN",
 	    "gloss-zh": "小津 的 海湾 的",
-	    "gloss-zh-morph": "小津=GEN 海湾=COP-ADN",
+	    "gloss-zh-morph": "小津=GEN 海湾 COP-ADN",
             "words": [
               {
                 "word": "小津",
@@ -23864,9 +23867,9 @@
               {
                 "word": "なる",
                 "gloss": "be-ATTR",
-		"gloss-morph": "=COP-ADN",
+		"gloss-morph": "COP-ADN",
 		"gloss-zh": "的",
-		"gloss-zh-morph": "=COP-ADN"
+		"gloss-zh-morph": "COP-ADN"
               }
             ]
           },
@@ -24130,9 +24133,9 @@
           {
             "phrase": "御船より仰せたぶなり",
             "gloss": "it is an order from the Lord of the ship",
-	    "gloss-morph": "Lord.of.ship=ABL command.HON-THM.NML=COP-CCL",
-	    "gloss-zh": "船客大人 来自 吩咐 是",
-	    "gloss-zh-morph": "船客大人=ABL 吩咐-HON-THM.NML=COP-CCL",
+	    "gloss-morph": "Lord.of.ship=ABL command-THM+RSP-ADN+HEV-CCL",
+	    "gloss-zh": "船客大人 来自 吩咐-RSP 是",
+	    "gloss-zh-morph": "船客大人=ABL 吩咐-THM+RSP-ADN+HEV-CCL",
             "words": [
               {
                 "word": "御船",
@@ -24145,24 +24148,29 @@
                 "word": "より",
                 "gloss": "ABL",
 		"gloss-morph": "=ABL",
-		"gloss-zh": "来自",
+		"gloss-zh": "自",
 		"gloss-zh-morph": "=ABL"
               },
               {
                 "word": "仰せ",
                 "gloss": "command",
-		"gloss-morph": "command-THM.SEQ",
+		"gloss-morph": "command-THM",
 		"gloss-zh": "吩咐",
-		"gloss-zh-morph": "吩咐-THM.SEQ"
+		"gloss-zh-morph": "吩咐-THM"
               },
               {
                 "word": "たぶ",
                 "gloss": "HON",
-		"
+		"gloss-morph": "+RSP-ADN.NL",
+		"gloss-zh": "尊敬",
+		"gloss-zh-morph": "+RSP-ADN.NL"
               },
               {
                 "word": "なり",
-                "gloss": "COP"
+                "gloss": "COP",
+		"gloss-morph": "+HEV-CCL",
+		"gloss-zh": "HEV",
+		"gloss-zh-morph": "+HEV-CCL"
               }
             ]
           }
