@@ -25,9 +25,9 @@
           {
             "phrase": "男もすなる日記",
             "gloss": "man also do-ATTR diary",
-	    "gloss-morph": "man=IFO do-CCL+HEV-ADN diary",
+	    "gloss-morph": "man=IFO do-CCL HEV-ADN diary",
 	    "gloss-zh": "男人 也 做-的 日记",
-	    "gloss-morph-zh": "男人=IFO 做-CCL+HEV-ADN 日记",
+	    "gloss-morph-zh": "男人=IFO 做-CCL HEV-ADN 日记",
             "words": [
               {
                 "word": "男",
@@ -53,9 +53,9 @@
               {
                 "word": "なる",
                 "gloss": "ATTR",
-		"gloss-morph": "+HEV-ADN",
+		"gloss-morph": " HEV-ADN",
 		"gloss-zh": "的",
-		"gloss-morph-zh": "+HEV-ADN"
+		"gloss-morph-zh": " HEV-ADN"
               },
               {
                 "word": "日記",
@@ -8933,9 +8933,9 @@
           {
             "phrase": "え飮まずなりぬ",
             "gloss": "was unable to drink",
-	    "gloss-morph": "POT drink-THM=NEG.CCL+HEV-ADV+MNF-CCL",
+	    "gloss-morph": "POT drink-THM=NEG.CCL HEV-ADV+MNF-CCL",
 	    "gloss-zh": "（不）能 饮-不 是-了",
-	    "gloss-morph-zh": "POT drink-THM=NEG.CCL+HEV-ADV+MNF-CCL",
+	    "gloss-morph-zh": "POT drink-THM=NEG.CCL HEV-ADV+MNF-CCL",
             "words": [
               {
                 "word": "え",
@@ -8961,9 +8961,9 @@
               {
                 "word": "なり",
                 "gloss": "become.ADV",
-		"gloss-morph": "+HEV-ADV",
+		"gloss-morph": " HEV-ADV",
 		"gloss-zh": "HEV",
-		"gloss-morph-zh": "+HEV-ADV"
+		"gloss-morph-zh": " HEV-ADV"
               },
               {
                 "word": "ぬ",
@@ -21514,9 +21514,9 @@
           {
             "phrase": "船出さずなりぬ。",
             "gloss": "(we) did not set sail.",
-	    "gloss-morph": "boat set.out-THM=NEG.CCL+HEV-ADV+MNF-CCL",
+	    "gloss-morph": "boat set.out-THM=NEG.CCL HEV-ADV+MNF-CCL",
 	    "gloss-zh": "船 出 不 了",
-	    "gloss-zh-morph": "船 出-THM=NEG.CCL+HEV-ADV+MNF-CCL",
+	    "gloss-zh-morph": "船 出-THM=NEG.CCL HEV-ADV+MNF-CCL",
             "words": [
               {
                 "word": "船",
@@ -21542,9 +21542,9 @@
               {
                 "word": "なり",
                 "gloss": "to be",
-		"gloss-morph": "+HEV-ADV",
+		"gloss-morph": " HEV-ADV",
 		"gloss-zh": "是",
-		"gloss-zh-morph": "+HEV-ADV"
+		"gloss-zh-morph": " HEV-ADV"
               },
               {
                 "word": "ぬ",
