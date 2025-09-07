@@ -6403,26 +6403,112 @@
         "translation-en-natural": "On the second day, we are still staying at Ominato."
       },
       {
-        "date": "20250202",
+        "date": [
+          20250202,
+          20250906
+        ],
         "id": 65,
         "text": "講師、物、酒などおこせたり。",
         "kana": "こうじ、もの、さけなどおこせたり。",
         "koutei-yamagen": "講師、物、酒など起こせたり。",
         "translation-ja": "講師が、物や酒などを送ってきた。",
         "translation-en": "The koshi sent things, sake, and other items.",
-        "translation-ja-natural": "講師が、食べ物やお酒などを差し入れてくれました。",
+        "phrase-gloss": [
+          {
+            "phrase": "講師、",
+            "gloss": "koshi",
+            "words": [
+              {
+                "word": "講師",
+                "gloss": "koshi (official)"
+              }
+            ]
+          },
+          {
+            "phrase": "物、酒など",
+            "gloss": "things, sake, and other items",
+            "words": [
+              {
+                "word": "物",
+                "gloss": "things"
+              },
+              {
+                "word": "酒",
+                "gloss": "sake"
+              },
+              {
+                "word": "など",
+                "gloss": "and so on"
+              }
+            ]
+          },
+          {
+            "phrase": "おこせたり。",
+            "gloss": "sent (them) over",
+            "words": [
+              {
+                "word": "おこせ",
+                "gloss": "send over.REALIS"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "translation-ja-natural": "講師が、食べ物やお酒などを差し入れてくれた。",
         "translation-en-natural": "The official kindly brought over some food and sake."
       },
       {
-        "date": "20250203",
+        "date": [
+          20250203,
+          20250907
+        ],
         "id": 66,
         "text": "三日、同じ所なり。",
         "kana": "みっか、おなじところなり。",
         "koutei-yamagen": "三日、同じところなり。",
         "translation-ja": "三日、同じ所にいる。",
         "translation-en": "On the third, we are in the same place.",
-        "translation-ja-natural": "三日、まだ同じ場所にいます。",
-        "translation-en-natural": "On the third, we are still in the same place."
+        "phrase-gloss": [
+          {
+            "phrase": "三日、",
+            "gloss": "on the third day,",
+            "words": [
+              {
+                "word": "三日",
+                "gloss": "third day"
+              }
+            ]
+          },
+          {
+            "phrase": "同じ所",
+            "gloss": "same place",
+            "words": [
+              {
+                "word": "同じ",
+                "gloss": "same"
+              },
+              {
+                "word": "所",
+                "gloss": "place"
+              }
+            ]
+          },
+          {
+            "phrase": "なり。",
+            "gloss": "be",
+            "words": [
+              {
+                "word": "なり",
+                "gloss": "COP"
+              }
+            ]
+          }
+        ],
+        "translation-ja-natural": "三日、同じ所にいる。",
+        "translation-en-natural": "On the third, we are in the same place."
       },
       {
         "date": "20250204",
