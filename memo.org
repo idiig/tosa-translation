@@ -188,3 +188,18 @@ poemのはず
 ** id=387
 だれがよむのか
 ** すみのゑ、住吉
+** 幣には御心のいかねば
+かみのこころにとどかねば？ぬさに真心がこめられねば？
+** "猶うれしと思ひたぶべき" フレーズとしてどうか
+** -ADV+
+** -INC=XCD
+** lexical morpheme? tamapu
+non-lexical morpheme (affix) keri ri?
+
+kak-i-ker-i => kak-THM-RET-CCL?
+
+kak-ADV-RET-CCL? kak-ADV+RET-CCL?
+
+補助動詞の場合、参考になっている資料では + としている
+** =IRT => +IRT
+** THMをADV, INCに明示的にしめす理由
