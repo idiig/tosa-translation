@@ -27911,95 +27911,154 @@
         "koutei-yamagen": "ただ一つある鏡をたいまつる」とて海にうちはめつればいとくちをし。",
         "translation-ja": "「ただ一つしかない鏡を奉りなさい」と言って、海に打ち込んでしまったところ、まことに口惜しかった。",
         "translation-en": "Saying, 'Offer the only mirror,' I cast it into the sea, and it was truly regrettable.",
+	"translation-zh": "奉上唯一的镜子”，投入了海中，实在可惜。",
         "phrase-gloss": [
           {
             "phrase": "ただ一つある鏡をたいまつる",
             "gloss": "offer the only mirror there is",
+	    "words-gloss": "only one exist-ADN mirror=ACC offer.HON-CCL",
+	    "gloss-zh": "奉上唯有一面的镜子",
+	    "gloss-zh-morph": "唯 一 有-ADN 镜=ACC 奉上.HON-CCL",
             "words": [
               {
                 "word": "ただ",
-                "gloss": "only / merely"
+                "gloss": "only / merely",
+		"gloss-morph": "only",
+		"gloss-zh": "唯",
+		"gloss-zh-morph": "唯"
               },
               {
                 "word": "一つ",
-                "gloss": "one"
+                "gloss": "one",
+		"gloss-morph": "one",
+		"gloss-zh": "一面",
+		"gloss-zh-morph": "一"
               },
               {
                 "word": "ある",
-                "gloss": "exist"
+                "gloss": "exist",
+		"gloss-morph": "exist-ADN",
+		"gloss-zh": "有-的",
+		"gloss-zh-morph": "有-ADN"
               },
               {
                 "word": "鏡",
-                "gloss": "mirror"
+                "gloss": "mirror",
+		"gloss-morph": "mirror",
+		"gloss-zh": "镜",
+		"gloss-zh-morph": "镜"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "ACC",
+		"gloss-zh-morph": "=ACC"
               },
               {
                 "word": "たいまつる",
-                "gloss": "offer (HUM)"
+                "gloss": "offer (HUM)",
+		"gloss-morph": "offer.HON-CCL",
+		"gloss-zh": "奉上",
+		"gloss-zh-morph": "奉上.HON-CCL"
               }
             ]
           },
           {
             "phrase": "とて",
             "gloss": "saying that",
+	    "words-gloss": "=SCM",
+	    "gloss-zh": "想着",
+	    "gloss-zh-morph": "=SCM",
             "words": [
               {
                 "word": "と",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-morph": "=CMP",
+		"gloss-zh": "QUOT",
+		"gloss-zh-morph": "=CMP"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "想着",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "海にうちはめつれば",
             "gloss": "having cast it into the sea",
+	    "words-gloss": "sea=DAT EMP+throw.in-ADV+ATT-INC=XCD",
+	    "gloss-zh": "投入了海中",
+	    "gloss-zh-morph": "海=DAT EMP+投入-ADV+ATT-INC=XCD",
             "words": [
               {
                 "word": "海",
-                "gloss": "sea"
+                "gloss": "sea",
+		"gloss-morph": "sea",
+		"gloss-zh": "海",
+		"gloss-zh-morph": "海"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "入",
+		"gloss-zh-morph": "=DAT"
               },
               {
                 "word": "うちはめ",
-                "gloss": "cast / throw in"
+                "gloss": "cast / throw in",
+		"gloss-morph": "EMP+throw.in-ADV",
+		"gloss-zh": "投入",
+		"gloss-zh-morph": "EMP+投入-ADV"
               },
               {
                 "word": "つれ",
-                "gloss": "PERF"
+                "gloss": "PERF",
+		"gloss-morph": "+ATT-INC",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "+ATT-INC"
               },
               {
                 "word": "ば",
-                "gloss": "CAUSAL"
+                "gloss": "CAUSAL",
+		"gloss-morph": "=XCD",
+		"gloss-zh": "因此",
+		"gloss-zh-morph": "=XCD"
               }
             ]
           },
           {
             "phrase": "いとくちをし",
             "gloss": "truly regrettable",
+	    "words-gloss": "very regrettable-CCL",
+	    "gloss-zh": "实在可惜",
+	    "gloss-zh-morph": "实在 可惜-CCL",
             "words": [
               {
                 "word": "いと",
-                "gloss": "very / truly"
+                "gloss": "very / truly",
+		"gloss-morph": "very",
+		"gloss-zh": "实在",
+		"gloss-zh-morph": "实在"
               },
               {
                 "word": "くちをし",
-                "gloss": "regrettable / unfortunate"
+                "gloss": "regrettable / unfortunate",
+		"gloss-morph": "regrettable-CCL",
+		"gloss-zh": "可惜",
+		"gloss-zh-morph": "可惜-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "「たった一つの鏡をお供えなさい」と言われて、それを海に投げ入れたとき、本当に残念でたまらなかった。",
-        "translation-en-natural": "When I was told to offer the only mirror I had, I threw it into the sea—and I truly regretted it."
+        "translation-en-natural": "When I was told to offer the only mirror I had, I threw it into the sea—and I truly regretted it.",
+	"translation-zh-natural": "那就只好献上唯有一面的镜子了”，把它投入了海中，实在可惜。"
       },
       {
         "date": "20250520",
@@ -28009,89 +28068,145 @@
         "koutei-yamagen": "さればうちつけに海は鏡のごとなりぬれば、或人のよめるうた、",
         "translation-ja": "それゆえ、にわかに海が鏡のようになってしまったので、ある人が詠んだ歌。",
         "translation-en": "Therefore, as the sea suddenly turned into something like a mirror,  a poem a certain person composed is:",
+	"translation-zh": "因为那样，海突然变得如镜子一般，于是有人所咏的和歌：",
         "phrase-gloss": [
           {
             "phrase": "されば",
             "gloss": "therefore / because of that",
+	    "words-gloss": "thus-VBL-INC=XCD",
+	    "gloss-zh": "因为那样",
+	    "gloss-zh-morph": "那样-VBL-INC=XCD",
             "words": [
               {
                 "word": "されば",
-                "gloss": "therefore"
+                "gloss": "therefore",
+		"gloss-morph": "thus-VBL-INC=XCD",
+		"gloss-zh": "因为那样",
+		"gloss-zh-morph": "那样-VBL-INC=XCD"
               }
             ]
           },
           {
             "phrase": "うちつけに海は鏡のごとなりぬれば",
             "gloss": "as the sea suddenly became like a mirror",
+	    "words-gloss": "suddenly=SER sea=TOP mirror=GEN resemble+COP-ADV+MNF-INC=XCD",
+	    "gloss-zh": "海突然变得如镜子一般，因此",
+	    "gloss-zh-morph": "突然=SER 海=TOP 镜=GEN 如同+COP-ADV+MNF-INC=XCD",
             "words": [
               {
                 "word": "うちつけに",
-                "gloss": "suddenly / unexpectedly"
+                "gloss": "suddenly / unexpectedly",
+		"gloss-morph": "suddenly=SER",
+		"gloss-zh": "突然",
+		"gloss-zh-morph": "突然=SER"
               },
               {
                 "word": "海",
-                "gloss": "sea"
+                "gloss": "sea",
+		"gloss-morph": "sea",
+		"gloss-zh": "海",
+		"gloss-zh-morph": "海"
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "是",
+		"gloss-zh-morph": "=TOP"
               },
               {
                 "word": "鏡",
-                "gloss": "mirror"
+                "gloss": "mirror",
+		"gloss-morph": "mirror",
+		"gloss-zh": "镜",
+		"gloss-zh-morph": "镜"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "ごと",
-                "gloss": "like / as"
+                "gloss": "like / as",
+		"gloss-morph": "resemble+",
+		"gloss-zh": "如同",
+		"gloss-zh-morph": "如同+"
               },
               {
                 "word": "なり",
-                "gloss": "become"
+                "gloss": "become",
+		"gloss-morph": "COP-ADV",
+		"gloss-zh": "变得",
+		"gloss-zh-morph": "COP-ADV"
               },
               {
                 "word": "ぬれ",
-                "gloss": "PERF"
+                "gloss": "PERF",
+		"gloss-morph": "+MNF-INC",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "+MNF-INC"
               },
               {
                 "word": "ば",
-                "gloss": "CAUSAL"
+                "gloss": "CAUSAL",
+		"gloss-morph": "=XCD",
+		"gloss-zh": "因此",
+		"gloss-zh-morph": "=XCD"
               }
             ]
           },
           {
             "phrase": "或人のよめるうた",
             "gloss": "a poem composed by a certain person",
+	    "words-gloss": "exist-ADN+person=GEN compose-INC+STA-ADN poem",
+	    "gloss-zh": "有人所咏的和歌",
+	    "gloss-zh-morph": "有-ADN+人=GEN 咏-INC+STA-ADN 和歌",
             "words": [
               {
                 "word": "或人",
-                "gloss": "a certain person"
+                "gloss": "a certain person",
+		"gloss-morph": "exist-ADN+person",
+		"gloss-zh": "有人",
+		"gloss-zh-morph": "有-ADN+人"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "よめ",
-                "gloss": "compose.REALIS.F"
-              },
-              {
-                "word": "る",
-                "gloss": "PST"
-              },
-              {
-                "word": "うた",
-                "gloss": "poem / song"
-              }
-            ]
+                "gloss": "compose.REALIS.F",
+		"gloss-morph": "compose-INC",
+		"gloss-zh": "咏",
+		"gloss-zh-morph": "咏-INC"
+	      },
+	      {
+		"word": "る",
+		"gloss": "STA",
+		"gloss-morph": "+STA-ADN",
+		"gloss-zh": "了-的",
+		"gloss-zh-morph": "+STA-ADN"
+	      },
+	      {
+		"word": "うた",
+		"gloss": "poem",
+		"gloss-morph": "poem",
+		"gloss-zh": "和歌",
+		"gloss-zh-morph": "和歌"
+	      }
+	    ]    
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "それで、思いがけず海が鏡のように静まり返ったので、ある人が詠んだ歌は、",
-        "translation-en-natural": "Then, quite unexpectedly, the sea became still like a mirror, and a poem someone composed is:"
+        "translation-en-natural": "Then, quite unexpectedly, the sea became still like a mirror, and a poem someone composed is:",
+	"translation-zh-natural": "把镜子投入海中后，海面突然平静得如同镜子一般，就此有人咏了一首和歌："
       },
       {
         "date": "20250521",
@@ -28101,105 +28216,170 @@
         "koutei-yamagen": "ちはやぶる神の心のあるる海に鏡を入れてかつ見つるかな",
         "translation-ja": "千早振る神の心の荒れる海に鏡を入れて、また見たのだなあ。",
         "translation-en": "Into the raging sea, the heart of the mighty god, I placed a mirror and then saw it.",
+	"translation-zh": "（千振之）/神之心的/汹涌的海里/投入镜子/马上见到了啊",
         "phrase-gloss": [
           {
             "phrase": "ちはやぶる",
             "gloss": "mighty, fierce (pillow word)",
+	    "words-gloss": "mighty-ADN (pillow)",
+	    "gloss-zh": "（千振之）",
+	    "gloss-zh-morph": "强大-ADN (pillow)",
             "words": [
               {
                 "word": "ちはやぶる",
-                "gloss": "mighty, fierce (枕詞)"
+                "gloss": "mighty, fierce (枕詞)",
+		"gloss-morph": "mighty-ADN (pillow)",
+		"gloss-zh": "（千振之）",
+		"gloss-zh-morph": "强大-ADN (pillow)"
               }
             ]
           },
           {
             "phrase": "神のこゝろの",
             "gloss": "of the god's heart",
+	    "words-gloss": "god=GEN heart=GEN",
+	    "gloss-zh": "神之心的",
+	    "gloss-zh-morph": "神=GEN 心=GEN",
             "words": [
               {
                 "word": "神",
-                "gloss": "god"
+                "gloss": "god",
+		"gloss-morph": "god",
+		"gloss-zh": "神",
+		"gloss-zh-morph": "神"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "之",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "こゝろ",
-                "gloss": "heart, spirit"
+                "gloss": "heart, spirit",
+		"gloss-morph": "heart",
+		"gloss-zh": "心",
+		"gloss-zh-morph": "心"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               }
             ]
           },
           {
             "phrase": "荒るる海に",
             "gloss": "in the raging sea",
+	    "words-gloss": "rage-ADN sea=DAT",
+	    "gloss-zh": "所在之海",
+	    "gloss-zh-morph": "汹涌-ADN 海=DAT",
             "words": [
               {
                 "word": "荒るる",
-                "gloss": "rage.ATTR"
+                "gloss": "rage.ATTR",
+		"gloss-morph": "rage-ADN",
+		"gloss-zh": "汹涌的",
+		"gloss-zh-morph": "汹涌-ADN"
               },
               {
                 "word": "海",
-                "gloss": "sea"
+                "gloss": "sea",
+		"gloss-morph": "sea",
+		"gloss-zh": "海",
+		"gloss-zh-morph": "海"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "于",
+		"gloss-zh-morph": "=DAT"
               }
             ]
           },
           {
             "phrase": "鏡を入れて",
             "gloss": "placing a mirror",
+	    "words-gloss": "mirror=ACC put.in-ADV=SEQ",
+	    "gloss-zh": "投入镜子",
+	    "gloss-zh-morph": "镜=ACC 投入-ADV=SEQ",
             "words": [
               {
                 "word": "鏡",
-                "gloss": "mirror"
+                "gloss": "mirror",
+		"gloss-morph": "mirror",
+		"gloss-zh": "镜",
+		"gloss-zh-morph": "镜"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "投入",
+		"gloss-zh-morph": "=ACC"
               },
               {
                 "word": "入れ",
-                "gloss": "put in.ADV.F"
+                "gloss": "put in.ADV.F",
+		"gloss-morph": "put.in-ADV",
+		"gloss-zh": "投入",
+		"gloss-zh-morph": "投入-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "かつ見つるかな",
             "gloss": "and then saw it (with exclamation)",
+	    "words-gloss": "soon see-ADV+ATT-ADN XCL",
+	    "gloss-zh": "马上见到了啊",
+	    "gloss-zh-morph": "马上 见-ADV+ATT-ADN.NL XCL",
             "words": [
               {
                 "word": "かつ",
-                "gloss": "also, and then"
+                "gloss": "also, and then",
+		"gloss-morph": "soon",
+		"gloss-zh": "马上",
+		"gloss-zh-morph": "马上"
               },
               {
                 "word": "見",
-                "gloss": "see.ADV.F"
+                "gloss": "see.ADV.F",
+		"gloss-morph": "see-ADV",
+		"gloss-zh": "见",
+		"gloss-zh-morph": "见-ADV"
               },
               {
                 "word": "つる",
-                "gloss": "PST.ATTR"
+                "gloss": "PST.ATTR",
+		"gloss-morph": "+ATT-ADN.NL",
+		"gloss-zh": "了-的",
+		"gloss-zh-morph": "+ATT-ADN.NL"
               },
               {
                 "word": "かな",
-                "gloss": "EXCL"
+                "gloss": "EXCL",
+		"gloss-morph": "XCL",
+		"gloss-zh": "啊",
+		"gloss-zh-morph": "XCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "激しい神の心が宿る荒れる海に鏡を入れて、また見たのだなあ。",
-        "translation-en-natural": "I placed a mirror into the raging sea where the mighty god’s spirit dwells, and then saw it."
+        "translation-en-natural": "I placed a mirror into the raging sea where the mighty god’s spirit dwells, and then saw it.",
+	"translation-zh-natural": "在神之心所驻的汹涌海里投入镜子，马上又见到了（一面镜子）啊。"
       },
       {
         "date": "20250522",
@@ -28209,92 +28389,146 @@
         "koutei-yamagen": "いたく住の江の忘草、岸の姫松などいふ神にはあらずかし。",
         "translation-ja": "たいそう住の江の忘れ草や岸の姫松などという神ではないのだなあ。",
         "translation-en": "It is certainly not a deity called Wasuregusa of Suminoe or Hime Matsu of the shore.",
+	"translation-zh": "绝非住之江的忘忧草、岸上的姬松等，所谓的神啊。",
         "phrase-gloss": [
           {
             "phrase": "いたく",
             "gloss": "greatly / intensely",
+	    "words-gloss": "greatly-ADV",
+	    "gloss-zh": "非常地",
+	    "gloss-zh-morph": "非常-ADV",
             "words": [
               {
                 "word": "いたく",
-                "gloss": "intensely.ADV.F"
+                "gloss": "intensely.ADV.F",
+		"gloss-morph": "greatly-ADV",
+		"gloss-zh": "非常地",
+		"gloss-zh-morph": "非常-ADV"
               }
             ]
           },
           {
             "phrase": "住の江の忘草、岸の姫松など",
             "gloss": "Wasuregusa of Suminoe, Hime Matsu of the shore, and such",
+	    "words-gloss": "Suminoe=GEN forget-NML+grass shore=GEN princess+pine=EXE",
+	    "gloss-zh": "住之江的忘忧草、岸上的姬松等",
+	    "gloss-zh-morph": "住之江=GEN 忘-NML+草 岸=GEN 姬+松=EXE",
             "words": [
               {
                 "word": "住の江",
-                "gloss": "Suminoe (place name)"
+                "gloss": "Suminoe (place name)",
+		"gloss-morph": "Suminoe",
+		"gloss-zh": "住之江",
+		"gloss-zh-morph": "住之江"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "忘草",
-                "gloss": "wasuregusa (lit. forget-me-herb)"
-              },
-              {
-                "word": "、",
-                "gloss": "PUNCT"
+                "gloss": "wasuregusa (lit. forget-me-herb)",
+		"gloss-morph": "forget-NML+grass",
+		"gloss-zh": "忘忧草",
+		"gloss-zh-morph": "忘-NML+草"
               },
               {
                 "word": "岸",
-                "gloss": "shore"
+                "gloss": "shore",
+		"gloss-morph": "shore",
+		"gloss-zh": "岸",
+		"gloss-zh-morph": "岸"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "姫松",
-                "gloss": "hime-matsu (lit. princess pine)"
+                "gloss": "hime-matsu (lit. princess pine)",
+		"gloss-morph": "princess+pine",
+		"gloss-zh": "姬松",
+		"gloss-zh-morph": "姬+松"
               },
               {
                 "word": "など",
-                "gloss": "etc. / such as"
+                "gloss": "etc. / such as",
+		"gloss-morph": "=EXE",
+		"gloss-zh": "等",
+		"gloss-zh-morph": "=EXE"
               }
             ]
           },
           {
             "phrase": "いふ神にはあらず",
             "gloss": "not a god so called",
+	    "words-gloss": "say-ADN god=DAT+TOP COP-THM=NEG.CCL",
+	    "gloss-zh": "非所谓的神",
+	    "gloss-zh-morph": "说-ADN 神=DAT=TOP COP-THM=NEG.CCL",
             "words": [
               {
                 "word": "いふ",
-                "gloss": "say / call (ATTR)"
+                "gloss": "say / call (ATTR)",
+		"gloss-morph": "say-ADN",
+		"gloss-zh": "说的",
+		"gloss-zh-morph": "说-ADN"
               },
               {
                 "word": "神",
-                "gloss": "god / deity"
+                "gloss": "god / deity",
+		"gloss-morph": "god",
+		"gloss-zh": "神",
+		"gloss-zh-morph": "神"
               },
               {
                 "word": "に",
-                "gloss": "DAT"
+                "gloss": "DAT",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "于",
+		"gloss-zh-morph": "=DAT"
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "是",
+		"gloss-zh-morph": "=TOP"
               },
               {
                 "word": "あら",
-                "gloss": "be.NEG.BASE"
+                "gloss": "be.NEG.BASE",
+		"gloss-morph": "COP-THM",
+		"gloss-zh": "非",
+		"gloss-zh-morph": "COP-THM"
               },
               {
                 "word": "ず",
-                "gloss": "NEG"
+                "gloss": "NEG",
+		"gloss-morph": "=NEG.CCL",
+		"gloss-zh": "不",
+		"gloss-zh-morph": "=NEG.CCL"
               }
             ]
           },
           {
             "phrase": "かし",
             "gloss": "indeed / I say",
+	    "words-gloss": "CNF",
+	    "gloss-zh": "吧",
+	    "gloss-zh-morph": "CNF",
             "words": [
               {
                 "word": "かし",
-                "gloss": "EXCL"
+                "gloss": "EXCL",
+		"gloss-morph": "CNF",
+		"gloss-zh": "吧",
+		"gloss-zh-morph": "CNF"
               }
             ]
           }
@@ -28317,9 +28551,46 @@
             "note": "詠嘆または念押しの終助詞で、話者の感情や主張を込める。"
           }
         ],
+	"gloss-notes-en": [
+	  {
+	    "term": "itaku",
+	    "note": "Adverbial form of the adjective 'itashi,' meaning 'very' or 'extremely.'"
+	  },
+	  {
+	    "term": "wasuregusa",
+	    "note": "Wasuregusa (forget-me-herb) symbolizes forgetting sorrow and is often used in waka poetry."
+	  },
+	  {
+	    "term": "hime-matsu",
+	    "note": "Refers to small, charming pine trees, also carrying poetic imagery."
+	  },
+	  {
+	    "term": "kashi",
+	    "note": "An emphatic sentence-ending particle expressing the speaker's emotion or assertion."
+	  }
+	],
+	"gloss-zh-notes": [
+	  {
+	    "term": "いたく",
+	    "note": "形容词『いたし』的连用形，意为『非常地』、『极其』。"
+	  },
+	  {
+	    "term": "忘草",
+	    "note": "忘忧草（わすれぐさ）象征着忘记悲伤的植物，常用于和歌中。"
+	  },
+	  {
+	    "term": "姫松",
+	    "note": "指小巧可爱的松树，也具有和歌的意象。"
+	  },
+	  {
+	    "term": "かし",
+	    "note": "感叹或强调的终助词，表达说话者的情感或主张。"
+	  }
+	],
         "glossary-abbreviations": null,
         "translation-ja-natural": "この神さまは、住の江の忘れ草や岸の姫松といった雅な神とは違うんだなあ。",
-        "translation-en-natural": "This is clearly not one of those refined deities like the Wasuregusa of Suminoe or the Princess Pine by the shore."
+        "translation-en-natural": "This is clearly not one of those refined deities like the Wasuregusa of Suminoe or the Princess Pine by the shore.",
+	"translation-zh-natural": "此神绝非住之江的忘忧草、岸上的姬松等那样雅致的神啊。"
       },
       {
         "date": "20250522",
@@ -28329,90 +28600,141 @@
         "koutei-yamagen": "目もうつらうつら鏡に神の心をこそは見つれ。",
         "translation-ja": "まのあたりはっきりと、鏡に神の心を見たのだった。",
         "translation-en": "I clearly saw the heart of the god in the mirror — that is what I truly saw!",
+	"translation-zh": "眼睛也清晰地，清晰地，在镜中见到了神的心啊。",
         "phrase-gloss": [
           {
             "phrase": "目も",
             "gloss": "even the eyes",
+	    "words-gloss": "eye=IFO",
+	    "gloss-zh": "眼睛也",
+	    "gloss-zh-morph": "眼=IFO",
             "words": [
               {
                 "word": "目",
-                "gloss": "eye"
+                "gloss": "eye",
+		"gloss-morph": "eye",
+		"gloss-zh": "眼",
+		"gloss-zh-morph": "眼"
               },
               {
                 "word": "も",
-                "gloss": "FOC.PRT"
+                "gloss": "FOC.PRT",
+		"gloss-morph": "=IFO",
+		"gloss-zh": "也",
+		"gloss-zh-morph": "=IFO"
               }
             ]
           },
           {
             "phrase": "うつらうつら",
             "gloss": "clearly / vividly",
+	    "words-gloss": "clearly",
+	    "gloss-zh": "清晰地",
+	    "gloss-zh-morph": "清晰地",
             "words": [
               {
                 "word": "うつらうつら",
-                "gloss": "clearly"
+                "gloss": "clearly",
+		"gloss-morph": "clearly",
+		"gloss-zh": "清晰地",
+		"gloss-zh-morph": "清晰地"
               }
             ]
           },
           {
             "phrase": "鏡に",
             "gloss": "in the mirror",
+	    "words-gloss": "mirror=DAT",
+	    "gloss-zh": "在镜中",
+	    "gloss-zh-morph": "镜=DAT",
             "words": [
               {
                 "word": "鏡",
-                "gloss": "mirror"
+                "gloss": "mirror",
+		"gloss-morph": "mirror",
+		"gloss-zh": "镜",
+		"gloss-zh-morph": "镜"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "在",
+		"gloss-zh-morph": "=DAT"
               }
             ]
           },
           {
             "phrase": "神の心を",
             "gloss": "the heart of the god",
+	    "words-gloss": "god=GEN heart=ACC",
+	    "gloss-zh": "神之心",
+	    "gloss-zh-morph": "神=GEN 心=ACC",
             "words": [
               {
                 "word": "神",
-                "gloss": "god"
+                "gloss": "god",
+		"gloss-morph": "god",
+		"gloss-zh": "神",
+		"gloss-zh-morph": "神"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "之",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "心",
-                "gloss": "heart"
+                "gloss": "heart",
+		"gloss-morph": "heart",
+		"gloss-zh": "心",
+		"gloss-zh-morph": "心"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "ACC",
+		"gloss-zh-morph": "=ACC"
               }
             ]
           },
           {
             "phrase": "こそは見つれ",
             "gloss": "indeed saw it",
+	    "words-gloss": "=FOC=TOP see-ADV+ATT-INC",
+	    "gloss-zh": "见到了啊",
+	    "gloss-zh-morph": "=FOC=TOP 见-ADV+ATT-INC",
             "words": [
               {
                 "word": "こそ",
-                "gloss": "EMPH"
+                "gloss": "EMPH",
+		"gloss-morph": "=FOC",
+		"gloss-zh": "啊",
+		"gloss-zh-morph": "=FOC"
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "是",
+		"gloss-zh-morph": "=TOP"
               },
               {
                 "word": "見",
-                "gloss": "see.ADV.F"
+                "gloss": "see.ADV.F",
+		"gloss-morph": "see-ADV",
+		"gloss-zh": "见",
+		"gloss-zh-morph": "见-ADV"
               },
               {
-                "word": "つ",
-                "gloss": "COMP.ATTR"
-              },
-              {
-                "word": "れ",
-                "gloss": "PST"
+                "word": "つれ",
+                "gloss": "COMP.ATTR",
+		"gloss-morph": "+ATT-INC",
+		"gloss-zh": "了（啊）",
+		"gloss-zh-morph": "+ATT-INC"
               }
             ]
           }
@@ -28437,9 +28759,20 @@
             "note": "This construction emphasizes the action of seeing, with 'こそ' and 'は' serving to highlight the certainty and emotional impact of the experience."
           }
         ],
+	"gloss-zh-notes": [
+	  {
+	    "term": "うつらうつら",
+	    "note": "在古语中，意为『清晰地』、『明确地』，表示视觉上的明确感知的副词。"
+	  },
+	  {
+	    "term": "こそは見つれ",
+	    "note": "由强调助词『こそ』和副助词『は』构成的强调结构，修饰『见了（完了＋过去）』。表示『确实看到了』的确信和感动。"
+	  }
+	],
         "glossary-abbreviations": null,
         "translation-ja-natural": "この目でたしかに、鏡に神の心を見たのです！",
-        "translation-en-natural": "With my very eyes, I truly saw the heart of the god in that mirror!"
+        "translation-en-natural": "With my very eyes, I truly saw the heart of the god in that mirror!",
+	"translation-zh-natural": "这双眼睛，确实在镜中见到了神之心啊！"
       },
       {
         "date": "20250522",
@@ -28449,58 +28782,95 @@
         "koutei-yamagen": "楫取の心は、神の御心なりけり。",
         "translation-ja": "楫取の心は神の御心であったのだ！",
         "translation-en": "The heart of the helmsman was, indeed, the heart of the god!",
+	"translation-zh": "划桨人的心，乃是神之心。",
         "phrase-gloss": [
           {
             "phrase": "楫取の心は",
             "gloss": "the heart of the helmsman (as topic)",
+	    "words-gloss": "helmsman=GEN heart=TOP",
+	    "gloss-zh": "划桨人的心乃",
+	    "gloss-zh-morph": "划桨人=GEN 心=TOP",
             "words": [
               {
                 "word": "楫取",
-                "gloss": "helmsman"
+                "gloss": "helmsman",
+		"gloss-morph": "helmsman",
+		"gloss-zh": "划桨人",
+		"gloss-zh-morph": "划桨人"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "心",
-                "gloss": "heart"
+                "gloss": "heart",
+		"gloss-morph": "heart",
+		"gloss-zh": "心",
+		"gloss-zh-morph": "心"
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "乃",
+		"gloss-zh-morph": "=TOP"
               }
             ]
           },
           {
             "phrase": "神の御心",
             "gloss": "the god's heart",
+	    "words-gloss": "god=GEN RSP+heart",
+	    "gloss-zh": "神之心",
+	    "gloss-zh-morph": "神=GEN RSP+心",
             "words": [
               {
                 "word": "神",
-                "gloss": "god"
+                "gloss": "god",
+		"gloss-morph": "god",
+		"gloss-zh": "神",
+		"gloss-zh-morph": "神"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "之",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "御心",
-                "gloss": "honorific.heart"
+                "gloss": "honorific.heart",
+		"gloss-morph": "RSP+heart",
+		"gloss-zh": "心",
+		"gloss-zh-morph": "RSP+心"
               }
             ]
           },
           {
             "phrase": "なりけり",
             "gloss": "was (indeed)",
+	    "words-gloss": "COP-ADV+RET-CCL",
+	    "gloss-zh": "是",
+	    "gloss-zh-morph": "COP-ADV+RET-CCL",
             "words": [
               {
                 "word": "なり",
-                "gloss": "COP"
+                "gloss": "COP",
+		"gloss-morph": "COP-ADV",
+		"gloss-zh": "是",
+		"gloss-zh-morph": "COP-ADV"
               },
               {
                 "word": "けり",
-                "gloss": "PAST.EXCL"
+                "gloss": "PAST.EXCL",
+		"gloss-morph": "+RET-CCL",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "+RET-CCL"
               }
             ]
           }
@@ -28515,9 +28885,30 @@
             "note": "『みこころ』は神や天皇に対する敬意を込めた語で、ここでは神の意志やご加護を象徴的に示す。"
           }
         ],
+	"gloss-notes-en": [
+	  {
+	    "term": "keri",
+	    "note": "A past tense and exclamatory auxiliary verb expressing realization, discovery, or emotional response to a past event. Here, it conveys the exclamation of 'Ah, so that was it!'"
+	  },
+	  {
+	    "term": "mikokoro",
+	    "note": "'Mikokoro' is an honorific term used for gods or emperors, symbolizing divine will or blessings."
+	  }
+	],
+	"gloss-zh-notes": [
+	  {
+	    "term": "けり",
+	    "note": "表示过去和感叹的助动词，表达对过去事件的领悟、发现或情感反应。在这里，它传达了『啊，原来是这样啊！』的感叹。"
+	  },
+	  {
+	    "term": "御心",
+	    "note": "『みこころ』是对神或天皇表示敬意的词语，象征着神的意志或祝福。"
+	  }
+	],
         "glossary-abbreviations": null,
         "translation-ja-natural": "舵取りの心は、まさに神の心だったのだ。",
-        "translation-en-natural": "The helmsman's heart was truly the will of the god."
+        "translation-en-natural": "The helmsman's heart was truly the will of the god.",
+	"translation-zh-natural": "划桨人的心，真乃神之心啊。"
       },
       {
         "date": "20250522",

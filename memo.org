@@ -203,3 +203,5 @@ kak-ADV-RET-CCL? kak-ADV+RET-CCL?
 補助動詞の場合、参考になっている資料では + としている
 ** =IRT => +IRT
 ** THMをADV, INCに明示的にしめす理由
+** かつ、soon, then
+** かし 
