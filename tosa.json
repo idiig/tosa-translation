@@ -6457,6 +6457,7 @@
             ]
           }
         ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "講師が、食べ物やお酒などを差し入れてくれた。",
         "translation-en-natural": "The official kindly brought over some food and sake."
       },
@@ -6507,17 +6508,86 @@
             ]
           }
         ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "三日、同じ所にいる。",
         "translation-en-natural": "On the third, we are in the same place."
       },
       {
-        "date": "20250204",
+        "date": [
+          20250204,
+          20250908
+        ],
         "id": 67,
         "text": "もし風浪のしばしと惜む心やあらむ、心もとなし。",
         "kana": "もしかぜなみのしばしとをしむこころやあらむ、こころもとなし。",
         "koutei-yamagen": "もし風浪のしばしと惜しむ心やあらむ。心もとなし。",
         "translation-ja": "風浪を少しの間惜しむ心があるのだろうか。不安でならない。",
         "translation-en": "Is there a heart that feels reluctant to part with the brief calm amid the wind and waves? I feel uneasy.",
+        "phrase-gloss": [
+          {
+            "phrase": "もし、",
+            "gloss": "if",
+            "words": [
+              {
+                "word": "もし",
+                "gloss": "if, supposing"
+              }
+            ]
+          },
+          {
+            "phrase": "風浪のしばしと惜む心やあらむ、",
+            "gloss": "there might be a heart that regrets even a brief moment of the wind and waves,",
+            "words": [
+              {
+                "word": "風浪",
+                "gloss": "wind and waves"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "しばし",
+                "gloss": "brief time"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "惜む",
+                "gloss": "begrudge.ATTR"
+              },
+              {
+                "word": "心",
+                "gloss": "heart"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "あら",
+                "gloss": "exist.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "SUPP"
+              }
+            ]
+          },
+          {
+            "phrase": "心もとなし。",
+            "gloss": "feel uneasy.",
+            "words": [
+              {
+                "word": "心もとなし",
+                "gloss": "uneasy, anxious"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "この風と波を、少しでも惜しむ心があるのだろうか。不安で落ち着かない。",
         "translation-en-natural": "I wonder if there's anyone who still feels attached to the brief calm amid these winds and waves. It makes me feel uneasy."
       },
@@ -11068,19 +11138,23 @@
               },
               {
                 "word": "書き",
-                "gloss": "write.IPFV"
+                "gloss": "write.ADV"
               },
               {
                 "word": "て",
-                "gloss": "CVB"
+                "gloss": "CONJ"
               },
               {
-                "word": "出だせ",
+                "word": "出だ",
                 "gloss": "send.out.IRR"
               },
               {
+                "word": "せ",
+                "gloss": "make.REALIS"
+              },
+              {
                 "word": "る",
-                "gloss": "PRF.REL"
+                "gloss": "PERF.ATTR"
               },
               {
                 "word": "歌",
