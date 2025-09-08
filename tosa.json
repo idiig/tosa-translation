@@ -20,13 +20,13 @@
         "koutei-yamagen": "男もすなる日記といふものを、女もしてみむとてするなり。",
         "translation-ja": "男手で書くという日記というものを、女手で書いてみようと思って書くのである。",
         "translation-en": "A diary is something written in the masculine style, but I will try writing it in the feminine style.",
-	"translation-zh": "虽说日记是男性书写之物，但我欲作为女性尝试书写。",
+	"translation-zh": "听说是男性所做的叫日记的东西，但想着女性也做着试试吧，便做了。",
         "phrase-gloss": [
           {
             "phrase": "男もすなる日記",
             "gloss": "man also do-ATTR diary",
 	    "gloss-morph": "man=IFO do-CCL HEV-ADN diary",
-	    "gloss-zh": "男人 也 做-的 日记",
+	    "gloss-zh": "（传闻）男人也做的日记",
 	    "gloss-morph-zh": "男人=IFO 做-CCL HEV-ADN 日记",
             "words": [
               {
@@ -53,9 +53,9 @@
               {
                 "word": "なる",
                 "gloss": "ATTR",
-		"gloss-morph": " HEV-ADN",
-		"gloss-zh": "的",
-		"gloss-morph-zh": " HEV-ADN"
+		"gloss-morph": "HEV-ADN",
+		"gloss-zh": "传闻...的",
+		"gloss-morph-zh": "HEV-ADN"
               },
               {
                 "word": "日記",
@@ -69,37 +69,37 @@
           {
             "phrase": "といふものを",
             "gloss": "QUOT say thing ACC",
-	    "gloss-morph": "QUOT say-ADN [thing=ACC(=CON)]",
-	    "gloss-zh": "QUOT 说 物 ACC",
-	    "gloss-morph-zh": "QUOT 说-ADN [物=ACC(=CON)]",
+	    "gloss-morph": "QUOT say-ADN [thing=ACC](=CON)",
+	    "gloss-zh": "所谓的东西（让步）",
+	    "gloss-morph-zh": "QUOT 说-ADN [物=ACC](=CON)",
             "words": [
               {
                 "word": "と",
                 "gloss": "QUOT",
 		"gloss-morph": "=CMP",
-		"gloss-zh": "QUOT",
+		"gloss-zh": "（补语）",
 		"gloss-morph-zh": "=CMP"
 	      },
 	      {
 		"word": "いふ",
 		"gloss": "say",
 		"gloss-morph": "say-ADN",
-		"gloss-zh": "说",
-		"gloss-morph-zh": "说-ADN？"
+		"gloss-zh": "所谓的",
+		"gloss-morph-zh": "说-ADN"
               },
               {
                 "word": "もの",
                 "gloss": "thing",
 		"gloss-morph": "thing",
-		"gloss-zh": "物",
-		"gloss-morph-zh": "物"
+		"gloss-zh": "东西",
+		"gloss-morph-zh": "东西"
               },
               {
                 "word": "を",
                 "gloss": "ACC",
-		"gloss-morph": "=ACC",
-		"gloss-zh": "ACC",
-		"gloss-morph-zh": "=ACC"
+		"gloss-morph": "=CON",
+		"gloss-zh": "（让步）",
+		"gloss-morph-zh": "=CON"
               }
             ]
           },
@@ -107,7 +107,7 @@
             "phrase": "女もしてみむとてするなり",
             "gloss": "woman also do-CONJ try-VOL QUOT do COP",
 	    "gloss-morph": "woman=IFO do-ADV=SEQ try-ADV+VOL-CCL=SCM do-ADN COP-CCL",
-	    "gloss-zh": "女人 也 做-SEQ 试-VOL SCM 做 传闻",
+	    "gloss-zh": "想着女人也做着试试吧，便做了",
 	    "gloss-morph-zh": "女人=IFO 做-ADV=SEQ 试-ADV+VOL-CCL=SCM 做-ADN COP-CCL",
             "words": [
               {
@@ -135,14 +135,14 @@
                 "word": "て",
                 "gloss": "CONJ",
 		"gloss-morph": "=SEQ",
-		"gloss-zh": "SEQ",
+		"gloss-zh": "着",
 		"gloss-morph-zh": "=SEQ"
               },
               {
                 "word": "みむ",
                 "gloss": "try-VOL",
 		"gloss-morph": "try-ADV+CJT",
-		"gloss-zh": "试-VOL",
+		"gloss-zh": "试试吧",
 		"gloss-morph-zh": "试-ADV+CJT"
               },
               {
@@ -157,13 +157,13 @@
                 "gloss": "do",
 		"gloss-morph": "do-ADN",
 		"gloss-zh": "做",
-		"gloss-morph-zh": "做-ADN",
+		"gloss-morph-zh": "做-ADN"
               },
               {
                 "word": "なり",
                 "gloss": "COP",
 		"gloss-morph": "COP-CCL",
-		"gloss-zh": "COP",
+		"gloss-zh": "是",
 		"gloss-morph-zh": "COP-CCL"
               }
             ]
@@ -172,7 +172,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "男の書き方で書くという日記を、女の書き方で書いてみようと思って書いているのです。",
         "translation-en-natural": "So, diaries are usually done up in this formal, masculine style... but here I am, giving it a go in a bit more of a feminine touch.",
-        "translation-zh-natural": "虽说日记通常是用男人的写法来写的，但我想试着用女人的写法来写。",
+        "translation-zh-natural": "虽说日记通常是用男人写的东西，但我想试着用作为女人来写写看，于是便写下了这本日记。",
 	"notes-ja": [
           {
             "title": "土佐日記の仮名使用に関する説",
@@ -8961,9 +8961,9 @@
               {
                 "word": "なり",
                 "gloss": "become.ADV",
-		"gloss-morph": " HEV-ADV",
+		"gloss-morph": "HEV-ADV",
 		"gloss-zh": "HEV",
-		"gloss-morph-zh": " HEV-ADV"
+		"gloss-morph-zh": "HEV-ADV"
               },
               {
                 "word": "ぬ",
@@ -21542,9 +21542,9 @@
               {
                 "word": "なり",
                 "gloss": "to be",
-		"gloss-morph": " HEV-ADV",
+		"gloss-morph": "HEV-ADV",
 		"gloss-zh": "是",
-		"gloss-zh-morph": " HEV-ADV"
+		"gloss-zh-morph": "HEV-ADV"
               },
               {
                 "word": "ぬ",
@@ -28918,97 +28918,156 @@
         "koutei-yamagen": "六日、澪標のもとより出でゝ難波につきて河尻に入る。",
         "translation-ja": "六日、澪標のもとから出て、難波に着いて、河尻に入る。",
         "translation-en": "On the sixth day, departing from the base of the Miotsukushi, I arrive at Naniwa and enter the river mouth.",
+	"translation-zh": "六日，自澪标的附近出发，抵达难波，进入河口。",
         "phrase-gloss": [
           {
             "phrase": "六日",
             "gloss": "the sixth day",
+	    "words-gloss": "sixth.day",
+	    "gloss-zh": "六日",
+	    "gloss-zh-morph": "六日",
             "words": [
               {
                 "word": "六日",
-                "gloss": "sixth.day"
+                "gloss": "sixth.day",
+		"gloss-morph": "sixth.day",
+		"gloss-zh": "六日",
+		"gloss-zh-morph": "六日"
               }
             ]
           },
           {
             "phrase": "澪標のもとより",
             "gloss": "from the base of the Miozuku (channel marker)",
+	    "words-gloss": "Miozuku=GEN base=ABL",
+	    "gloss-zh": "自澪标的附近",
+	    "gloss-zh-morph": "澪标=GEN 附近=ABL",
             "words": [
               {
                 "word": "澪標",
-                "gloss": "Miozuku (channel marker)"
+                "gloss": "Miozuku (channel marker)",
+		"gloss-morph": "Miozuku",
+		"gloss-zh": "澪标",
+		"gloss-zh-morph": "澪标"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "もと",
-                "gloss": "base / foot / near"
+                "gloss": "base / foot / near",
+		"gloss-morph": "base",
+		"gloss-zh": "附近",
+		"gloss-zh-morph": "附近"
               },
               {
                 "word": "より",
-                "gloss": "ABL"
+                "gloss": "ABL",
+		"gloss-morph": "=ABL",
+		"gloss-zh": "自",
+		"gloss-zh-morph": "=ABL"
               }
             ]
           },
           {
             "phrase": "出でゝ",
             "gloss": "departing",
+	    "words-gloss": "leave-ADV=SEQ",
+	    "gloss-zh": "出发",
+	    "gloss-zh-morph": "出发=SEQ",
             "words": [
               {
                 "word": "出で",
-                "gloss": "leave.ADV.F"
+                "gloss": "leave.ADV.F",
+		"gloss-morph": "leave-ADV",
+		"gloss-zh": "出发",
+		"gloss-zh-morph": "出发-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "難波につきて",
             "gloss": "arriving at Naniwa",
+	    "words-gloss": "Naniwa=DAT arrive-ADV=SEQ",
+	    "gloss-zh": "抵达难波",
+	    "gloss-zh-morph": "难波=DAT 抵达-ADV=SEQ",
             "words": [
               {
                 "word": "難波",
-                "gloss": "Naniwa"
+                "gloss": "Naniwa",
+		"gloss-morph": "Naniwa",
+		"gloss-zh": "难波",
+		"gloss-zh-morph": "难波"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "于",
+		"gloss-zh-morph": "=DAT"
               },
               {
                 "word": "つき",
-                "gloss": "arrive.ADV.F"
+                "gloss": "arrive.ADV.F",
+		"gloss-morph": "arrive-ADV",
+		"gloss-zh": "抵达",
+		"gloss-zh-morph": "抵达-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "河尻に入る",
             "gloss": "enter the river mouth",
+	    "words-gloss": "river.mouth=DAT enter-CCL",
+	    "gloss-zh": "进入河口",
+	    "gloss-zh-morph": "河口=DAT 进入-CCL",
             "words": [
               {
                 "word": "河尻",
-                "gloss": "river.mouth"
+                "gloss": "river.mouth",
+		"gloss-morph": "river.mouth",
+		"gloss-zh": "河口",
+		"gloss-zh-morph": "河口"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "于",
+		"gloss-zh-morph": "=DAT"
               },
               {
                 "word": "入る",
-                "gloss": "enter.PRS"
+                "gloss": "enter.PRS",
+		"gloss-morph": "enter-CCL",
+		"gloss-zh": "进入",
+		"gloss-zh-morph": "进入-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "六日、澪標のあたりから出発して、難波に着き、河の河口へと入っていく。",
-        "translation-en-natural": "On the sixth day, I set off from around the Miozuku and, after reaching Naniwa, entered the river mouth."
+        "translation-en-natural": "On the sixth day, I set off from around the Miozuku and, after reaching Naniwa, entered the river mouth.",
+	"translation-zh-natural": "六日，我们从澪标附近出发，抵达难波，进入河口。"
       },
       {
         "date": "20250522",
@@ -29018,84 +29077,139 @@
         "koutei-yamagen": "みな人々を女おきなひたひに手をあてゝ喜ぶこと二つなし。",
         "translation-ja": "みな人々、女も翁も、額に手を当てて喜ぶことは二つとない。",
         "translation-en": "All the people, both women and old men, placed their hands on each other's foreheads and rejoiced like never before.",
+	"translation-zh": "人们，女人，老人，都把手搭在额头，欢喜无双。",
         "phrase-gloss": [
           {
             "phrase": "みな人々",
             "gloss": "all the people",
+	    "words-gloss": "all person+person",
+	    "gloss-zh": "人们都",
+	    "gloss-zh-morph": "都 人+人",
             "words": [
               {
                 "word": "みな",
-                "gloss": "all"
+                "gloss": "all",
+		"gloss-morph": "all",
+		"gloss-zh": "都",
+		"gloss-zh-morph": "都"
               },
               {
                 "word": "人々",
-                "gloss": "people"
+                "gloss": "people",
+		"gloss-morph": "person+person",
+		"gloss-zh": "人们",
+		"gloss-zh-morph": "人+人"
               }
             ]
           },
           {
             "phrase": "女おきな",
             "gloss": "women and old men",
+	    "words-gloss": "woman old.men",
+	    "gloss-zh": "女人和老人",
+	    "gloss-zh-morph": "女人 老人",
             "words": [
               {
                 "word": "女",
-                "gloss": "woman"
+                "gloss": "woman",
+		"gloss-morph": "woman",
+		"gloss-zh": "女人",
+		"gloss-zh-morph": "女人"
               },
               {
                 "word": "おきな",
-                "gloss": "old.man"
+                "gloss": "old.man",
+		"gloss-morph": "old.men",
+		"gloss-zh": "老人",
+		"gloss-zh-morph": "老人"
               }
             ]
           },
           {
             "phrase": "ひたひに手をあてゝ",
             "gloss": "placing hands on (each other's) foreheads",
+	    "words-gloss": "forehead=DAT hand=ACC put-ADV=SEQ",
+	    "gloss-zh": "把手搭在额头",
+	    "gloss-zh-morph": "额头=DAT 手=ACC 搭-ADV=SEQ",
             "words": [
               {
                 "word": "ひたひ",
-                "gloss": "forehead"
+                "gloss": "forehead",
+		"gloss-morph": "forehead",
+		"gloss-zh": "额头",
+		"gloss-zh-morph": "额头"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "于",
+		"gloss-zh-morph": "=DAT"
               },
               {
                 "word": "手",
-                "gloss": "hand"
+                "gloss": "hand",
+		"gloss-morph": "hand",
+		"gloss-zh": "手",
+		"gloss-zh-morph": "手"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=ACC"
               },
               {
                 "word": "あて",
-                "gloss": "place.ADV.F"
+                "gloss": "place.ADV.F",
+		"gloss-morph": "put-ADV",
+		"gloss-zh": "搭",
+		"gloss-zh-morph": "搭-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "喜ぶこと二つなし",
             "gloss": "their joy was unparalleled",
+	    "words-gloss": "rejoice-ADN=NML two NEG.CCL",
+	    "gloss-zh": "欢喜无双",
+	    "gloss-zh-morph": "欢喜-ADN=NML 二 NEG.CCL",
             "words": [
               {
                 "word": "喜ぶ",
-                "gloss": "rejoice.ATTR"
+                "gloss": "rejoice.ATTR",
+		"gloss-morph": "rejoice-ADN",
+		"gloss-zh": "欢喜-的",
+		"gloss-zh-morph": "欢喜-ADN"
               },
               {
                 "word": "こと",
-                "gloss": "NMLZ"
+                "gloss": "NMLZ",
+		"gloss-morph": "=NMLZ",
+		"gloss-zh": "事",
+		"gloss-zh-morph": "=NMLZ"
               },
               {
                 "word": "二つ",
-                "gloss": "two"
+                "gloss": "two",
+		"gloss-morph": "two",
+		"gloss-zh": "二",
+		"gloss-zh-morph": "二"
               },
               {
                 "word": "なし",
-                "gloss": "NEG.exist"
+                "gloss": "NEG.exist",
+		"gloss-morph": "NEG.CCL",
+		"gloss-zh": "无",
+		"gloss-zh-morph": "NEG.CCL"
               }
             ]
           }
@@ -29110,9 +29224,30 @@
             "note": "身体的な接触を通して喜びを分かち合う様子。額に手を置くのは祝福や感謝のしるしとして儀礼的意味合いがあると解釈できる。"
           }
         ],
+	"gloss-notes-en": [
+	  {
+	    "term": "futatsu nashi",
+	    "note": "Literally 'there are not two (equal things),' but idiomatically used to mean 'unparalleled' or 'very much so,' containing a strong affirmation within a negative expression."
+	  },
+	  {
+	    "term": "hitahi ni te o atete",
+	    "note": "Describes the act of sharing joy through physical contact. Placing hands on each other's foreheads can be interpreted as a ritualistic gesture symbolizing blessing or gratitude."
+	  }
+	],
+	"gloss-zh-notes": [
+	  {
+	    "term": "二つなし",
+	    "note": "直译为『没有两个（同等的东西）』，但习惯上用来表示『无与伦比』或『非常』，在否定表达中包含强烈的肯定意味。"
+	  },
+	  {
+	    "term": "ひたひに手をあてゝ",
+	    "note": "通过身体接触来分享喜悦的情景。把手搭在额头上可以被解读为象征祝福或感恩的仪式性动作。"
+	  }
+	],
         "glossary-abbreviations": null,
         "translation-ja-natural": "みんなが、女も翁も、額に手を当てて、本当にこの上なく喜び合った。",
-        "translation-en-natural": "Everyone—women and old men alike—touched foreheads and rejoiced with unmatched happiness."
+        "translation-en-natural": "Everyone—women and old men alike—touched foreheads and rejoiced with unmatched happiness.",
+	"translation-zh-natural": "无论女人还是老人，人们都把手搭在额头上，欢喜无比。"
       },
       {
         "date": "20250522",
@@ -29122,143 +29257,238 @@
         "koutei-yamagen": "かの船醉の淡路の島のおほい子、都近くなりぬといふを喜びて、船底より頭をもたげてかくぞいへる、",
         "translation-ja": "あの船酔いの淡路の島の老女が、都が近くなったというのを喜び、船底から頭をもたげてこう言ったのだ。",
         "translation-en": "That seasick old woman of Awaji Island rejoiced at the words that the capital had come near, raised her head from the bottom of the boat, and thus indeed said:",
+	"translation-zh": "那位晕船的淡路岛的老妇，高兴着京都变近了的消息，从船底抬起头来，这样说道：",
         "phrase-gloss": [
           {
             "phrase": "かの船醉の淡路の島のおほい子",
             "gloss": "that old woman of Awaji Island who was seasick",
+	    "words-gloss": "DEM=GEN boat+be.sick-NML=GEN Awaji=GEN island=GEN old.woman",
+	    "gloss-zh": "那位晕船的淡路岛的老妇",
+	    "gloss-zh-morph": "DEM=GEN 船+晕-NML=GEN 淡路=GEN 岛=GEN 老妇",
             "words": [
               {
                 "word": "かの",
-                "gloss": "that"
-              },
+                "gloss": "that",
+		"gloss-morph": "DEM=GEN",
+		"gloss-zh": "那",
+		"gloss-zh-morph": "DEM=GEN"
+	      },
               {
                 "word": "船醉",
-                "gloss": "seasickness"
+                "gloss": "seasickness",
+		"gloss-morph": "boat+be.sick-NML",
+		"gloss-zh": "晕船",
+		"gloss-zh-morph": "船+晕-NML"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "淡路",
-                "gloss": "Awaji"
+                "gloss": "Awaji",
+		"gloss-morph": "Awaji",
+		"gloss-zh": "淡路",
+		"gloss-zh-morph": "淡路"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "島",
-                "gloss": "island"
+                "gloss": "island",
+		"gloss-morph": "island",
+		"gloss-zh": "岛",
+		"gloss-zh-morph": "岛"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "おほい子",
-                "gloss": "old.woman"
+                "gloss": "old.woman",
+		"gloss-morph": "old.woman",
+		"gloss-zh": "老妇",
+		"gloss-zh-morph": "老妇"
               }
             ]
           },
           {
             "phrase": "都近くなりぬといふを喜びて",
             "gloss": "rejoicing at the words that the capital had come near",
+	    "words-gloss": "capital close-ADV become-ADV+MNF-CCL=CMP say-ADN.NL=ACC rejoice-ADV=SEQ",
+	    "gloss-zh": "高兴着京都变近了的消息",
+	    "gloss-zh-morph": "京都 近-ADV 变-ADV+MNF-CCL=CMP 说-ADN.NL=ACC 为...高兴-ADV=SEQ",
             "words": [
               {
                 "word": "都",
-                "gloss": "capital"
+                "gloss": "capital",
+		"gloss-morph": "capital",
+		"gloss-zh": "京都",
+		"gloss-zh-morph": "京都"
               },
               {
                 "word": "近く",
-                "gloss": "near.ADV.F"
+                "gloss": "near.ADV.F",
+		"gloss-morph": "close-ADV",
+		"gloss-zh": "近",
+		"gloss-zh-morph": "近-ADV"
               },
               {
                 "word": "なり",
-                "gloss": "become.ADV.F"
+                "gloss": "become.ADV.F",
+		"gloss-morph": "become-ADV",
+		"gloss-zh": "变",
+		"gloss-zh-morph": "变-ADV"
               },
               {
                 "word": "ぬ",
-                "gloss": "COMP.PRF"
+                "gloss": "COMP.PRF",
+		"gloss-morph": "+MNF-CCL",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "+MNF-CCL"
               },
               {
                 "word": "と",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-morph": "=CMP",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=CMP"
               },
               {
                 "word": "いふ",
-                "gloss": "say.ATTR"
+                "gloss": "say.ATTR",
+		"gloss-morph": "say-ADN.NL",
+		"gloss-zh": "消息",
+		"gloss-zh-morph": "说-ADN.NL"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=ACC"
               },
               {
                 "word": "喜び",
-                "gloss": "rejoice.ADV.F"
+                "gloss": "rejoice.ADV.F",
+		"gloss-morph": "rejoice-ADV",
+		"gloss-zh": "为...高兴",
+		"gloss-zh-morph": "为..。高兴-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "船底より頭をもたげて",
             "gloss": "raising her head from the bottom of the boat",
+	    "words-gloss": "boat+bottom=ABL head=ACC raise-ADV=SEQ",
+	    "gloss-zh": "从船底抬头",
+	    "gloss-zh-morph": "船+底=ABL 头=ACC 抬-ADV=SEQ",
             "words": [
               {
                 "word": "船底",
-                "gloss": "boat.bottom"
+                "gloss": "boat.bottom",
+		"gloss-morph": "boat+bottom",
+		"gloss-zh": "船底",
+		"gloss-zh-morph": "船+底"
               },
               {
                 "word": "より",
-                "gloss": "ABL"
+                "gloss": "ABL",
+		"gloss-morph": "=ABL",
+		"gloss-zh": "从",
+		"gloss-zh-morph": "=ABL"
               },
               {
                 "word": "頭",
-                "gloss": "head"
+                "gloss": "head",
+		"gloss-morph": "head",
+		"gloss-zh": "头",
+		"gloss-zh-morph": "头"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=ACC"
               },
               {
                 "word": "もたげ",
-                "gloss": "raise.ADV.F"
+                "gloss": "raise.ADV.F",
+		"gloss-morph": "raise-ADV",
+		"gloss-zh": "抬",
+		"gloss-zh-morph": "抬-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "かくぞいへる",
             "gloss": "thus indeed said",
+	    "words-gloss": "thus=TOP=FOC say-INC+STA-ADN",
+	    "gloss-zh": "这样说道",
+	    "gloss-zh-morph": "这样=TOP=FOC 说-INC+STA-ADN",
             "words": [
               {
                 "word": "かく",
-                "gloss": "thus"
+                "gloss": "thus",
+		"gloss-morph": "thus=TOP",
+		"gloss-zh": "这样",
+		"gloss-zh-morph": "这样=TOP"
               },
               {
                 "word": "ぞ",
-                "gloss": "EMPH"
+                "gloss": "EMPH",
+		"gloss-morph": "=FOC",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=FOC"
               },
               {
                 "word": "いへ",
-                "gloss": "say.Realis.F"
+                "gloss": "say.Realis.F",
+		"gloss-morph": "say-INC",
+		"gloss-zh": "说",
+		"gloss-zh-morph": "说-INC"
               },
               {
                 "word": "る",
-                "gloss": "PRF.ATTR"
+                "gloss": "PRF.ATTR",
+		"gloss-morph": "+STA-ADN",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "+STA-ADN"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "船酔いしていた、あの淡路の島の老女が、都が近くなったと聞いて、船底から頭をあげてこう言ったのです。",
-        "translation-en-natural": "The elderly woman from Awaji Island, who had been seasick, happily lifted her head from the bottom of the boat upon hearing that the capital was near, and said this."
+        "translation-en-natural": "The elderly woman from Awaji Island, who had been seasick, happily lifted her head from the bottom of the boat upon hearing that the capital was near, and said this.",
+	"translation-zh-natural": "那位晕船的淡路岛老妇，听说京都近了，高兴地从船底抬起头来，说道。"
       },
       {
         "date": "20250522",
@@ -29268,86 +29498,141 @@
         "koutei-yamagen": "いつしかといぶせかりつる難波がた、蘆こぎそけて御船きにけり。",
         "translation-ja": "早くそうなればと願っていた難波潟を、蘆を漕ぎ分けて、御船が来たのだった。",
         "translation-en": "Wishing it would be soon, through the reeds at Naniwa Bay, the honored boat came at last.",
+	"translation-zh": "“什么时候才能？”，这样/焦躁（盼望）着的/难波的浅滩/划开芦苇丛/船到了",
         "phrase-gloss": [
           {
             "phrase": "いつしかと",
             "gloss": "wishing it would be soon",
+	    "words-gloss": "when+EMP+XCL=CMP",
+	    "gloss-zh": "何时才能？（希望快点）",
+	    "gloss-zh-morph": "何时+EMP+XCL=CMP",
             "words": [
               {
                 "word": "いつしか",
-                "gloss": "soon.HOPE"
+                "gloss": "soon.HOPE",
+		"gloss-morph": "when+EMP+XCL",
+		"gloss-zh": "何时才",
+		"gloss-zh-morph": "何时+EMP+XCL"
               },
               {
                 "word": "と",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-morph": "=CMP",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=CMP"
               }
             ]
           },
           {
             "phrase": "いぶせかりつる",
             "gloss": "had felt stifled and uneasy",
+	    "words-gloss": "uneasy.VBL-ADV+ATT-ADN",
+	    "gloss-zh": "焦躁（盼望）着",
+	    "gloss-zh-morph": "焦躁.VBL-ADV+ATT-ADN",
             "words": [
               {
                 "word": "いぶせかり",
-                "gloss": "be.uneasy.ADV.F"
+                "gloss": "uneasy-",
+		"gloss-morph": "uneasy.VBL-ADV",
+		"gloss-zh": "焦躁",
+		"gloss-zh-morph": "焦躁.VBL-ADV"
               },
               {
                 "word": "つる",
-                "gloss": "PRF.ATTR"
+                "gloss": "PRF.ATTR",
+		"gloss-morph": "+ATT-ADN",
+		"gloss-zh": "了的",
+		"gloss-zh-morph": "+ATT-ADN"
               }
             ]
           },
           {
             "phrase": "難波がた",
             "gloss": "Naniwa Bay",
+	    "words-gloss": "Naniwa+bay",
+	    "gloss-zh": "难波的浅滩",
+	    "gloss-zh-morph": "难波+浅滩",
             "words": [
               {
                 "word": "難波がた",
-                "gloss": "Naniwa bay"
+                "gloss": "Naniwa bay",
+		"gloss-morph": "Naniwa+bay",
+		"gloss-zh": "难波的浅滩",
+		"gloss-zh-morph": "难波+浅滩"
               }
             ]
           },
           {
             "phrase": "蘆こぎそけて",
             "gloss": "pushing through the reeds",
+	    "words-gloss": "reed row-ADV push.aside-ADV=SEQ",
+	    "gloss-zh": "划开芦苇丛",
+	    "gloss-zh-morph": "芦苇 划-ADV 推开-ADV=SEQ",
             "words": [
               {
                 "word": "蘆",
-                "gloss": "reed"
+                "gloss": "reed",
+		"gloss-morph": "reed",
+		"gloss-zh": "芦苇",
+		"gloss-zh-morph": "芦苇"
               },
               {
                 "word": "こぎ",
-                "gloss": "row.ADV.F"
+                "gloss": "row.ADV.F",
+		"gloss-morph": "row-ADV",
+		"gloss-zh": "划",
+		"gloss-zh-morph": "划-ADV"
               },
               {
                 "word": "そけ",
-                "gloss": "push.aside.ADV.F"
+                "gloss": "push.aside.ADV.F",
+		"gloss-morph": "push.aside-ADV",
+		"gloss-zh": "推开",
+		"gloss-zh-morph": "推开-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "御船きにけり",
             "gloss": "the honored boat came, indeed",
+	    "words-gloss": "RSP+boat come-ADV+MNF-ADV+RET-CCL",
+	    "gloss-zh": "船到了",
+	    "gloss-zh-morph": "RSP+船 抵达-ADV+MNF-ADV+RET-CCL",
             "words": [
               {
                 "word": "御船",
-                "gloss": "honorific.boat"
+                "gloss": "honorific.boat",
+		"gloss-morph": "RSP+boat",
+		"gloss-zh": "船",
+		"gloss-zh-morph": "RSP+船"
               },
               {
                 "word": "き",
-                "gloss": "come.PST"
+                "gloss": "come.PST",
+		"gloss-morph": "come-ADV",
+		"gloss-zh": "抵达",
+		"gloss-zh-morph": "抵达-ADV"
               },
               {
                 "word": "に",
-                "gloss": "COMP"
+                "gloss": "COMP",
+		"gloss-morph": "+MNF-ADV",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "+MNF-ADV"
               },
               {
                 "word": "けり",
-                "gloss": "PAST.EXCL"
+                "gloss": "PAST.EXCL",
+		"gloss-morph": "+RET-CCL",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "+RET-CCL"
               }
             ]
           }
@@ -29372,9 +29657,20 @@
             "note": "The adjective 'ibuseshi' (to feel uneasy) is in the perfective form, indicating a completed state of feeling anxious or stifled."
           }
         ],
+	"gloss-zh-notes": [
+	  {
+	    "term": "いつしか",
+	    "note": "这个副词表达了对某事尽快发生的渴望，常用于诗歌中传达希望或焦急的情感。"
+	  },
+	  {
+	    "term": "いぶせかりつる",
+	    "note": "形容词 'ibuseshi'（感到不安）处于完成形式，表示一种焦虑或压抑感的完成状态。"
+	  }
+	],
         "glossary-abbreviations": null,
         "translation-ja-natural": "待ち遠しく思っていた難波潟を、蘆を漕ぎ分けながら、御船がついにやって来たのだった。",
-        "translation-en-natural": "Longing for the moment, through the reeds at Naniwa Bay, the honored ship finally arrived."
+        "translation-en-natural": "Longing for the moment, through the reeds at Naniwa Bay, the honored ship finally arrived.",
+	"translation-zh-natural": "要到什么时候才能抵达？划开芦苇丛，船终于来到了望乡心切的难波湾。"
       },
       {
         "date": "20250522",
@@ -29384,67 +29680,108 @@
         "koutei-yamagen": "いとおもひの外なる人のいへれば、人々あやしがる。",
         "translation-ja": "まったく思いもよらない人が言ったので、人々は不思議に思った。",
         "translation-en": "Since a person who was completely unexpected said it, the people were astonished.",
+	"translation-zh": "非常想像之外的人咏了，因此人们感到惊讶。",
         "phrase-gloss": [
           {
             "phrase": "いとおもひの外なる人のいへれば",
             "gloss": "since a completely unexpected person said it",
+	    "words-gloss": "very think-NML=GEN+outside COP-ADN person=GEN say-INC+STA-INC=XCD",
+	    "gloss-zh": "非常想像之外的人咏了，因此",
+	    "gloss-zh-morph": "非常 想-NML=GEN+外 COP-ADN 人=GEN 说-INC+STA-INC=XCD",
             "words": [
               {
                 "word": "いと",
-                "gloss": "very"
+                "gloss": "very",
+		"gloss-morph": "very",
+		"gloss-zh": "非常",
+		"gloss-zh-morph": "非常"
               },
               {
                 "word": "おもひ",
-                "gloss": "thought"
+                "gloss": "thought",
+		"gloss-morph": "think-NML",
+		"gloss-zh": "想",
+		"gloss-zh-morph": "想-NML"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "外",
-                "gloss": "outside / beyond"
+                "gloss": "outside / beyond",
+		"gloss-morph": "+outside",
+		"gloss-zh": "外",
+		"gloss-zh-morph": "+外"
               },
               {
                 "word": "なる",
-                "gloss": "be.ATTR"
+                "gloss": "be.ATTR",
+		"gloss-morph": "COP-ADN",
+		"gloss-zh": "是...的",
+		"gloss-zh-morph": "COP-ADN"
               },
               {
                 "word": "人",
-                "gloss": "person"
+                "gloss": "person",
+		"gloss-morph": "person",
+		"gloss-zh": "人",
+		"gloss-zh-morph": "人"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "いへ",
-                "gloss": "say.REALIS.F"
+                "gloss": "say.REALIS.F",
+		"gloss-morph": "say-INC",
+		"gloss-zh": "说",
+		"gloss-zh-morph": "说-INC"
               },
               {
                 "word": "れば",
-                "gloss": "CONJ.CAUSAL"
+                "gloss": "CONJ.CAUSAL",
+		"gloss-morph": "+STA-INC=XCD",
+		"gloss-zh": "了，因此",
+		"gloss-zh-morph": "+STA-INC=XCD"
               }
             ]
           },
           {
             "phrase": "人々あやしがる",
             "gloss": "the people were astonished",
+	    "words-gloss": "person+person astonished-EMO-CCL",
+	    "gloss-zh": "人们感到惊讶",
+	    "gloss-zh-morph": "人+人 惊讶的-EMO-CCL",
             "words": [
               {
                 "word": "人々",
-                "gloss": "people"
+                "gloss": "people",
+		"gloss-morph": "person+person",
+		"gloss-zh": "人们",
+		"gloss-zh-morph": "人+人"
               },
               {
                 "word": "あやしがる",
-                "gloss": "be.astonished"
+                "gloss": "be.astonished",
+		"gloss-morph": "astonished-EMO-CCL",
+		"gloss-zh": "感到惊讶",
+		"gloss-zh-morph": "惊讶的-EMO-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "まったく予想もしなかった人が言ったので、人々は驚いた。",
-        "translation-en-natural": "Since someone completely unexpected said it, everyone was surprised."
+        "translation-en-natural": "Since someone completely unexpected said it, everyone was surprised.",
+	"translation-zh-natural": "因为是非常意想不到的人说的，所以人们都感到惊讶。"
       },
       {
         "date": "20250522",
@@ -29454,135 +29791,224 @@
         "koutei-yamagen": "これが中に心ちなやむ船君いたくめでゝ、「船醉したうべりし御顏には、似ずもあるかな」といひける。",
         "translation-ja": "この中で心を悩ませていた船君は、ひどく感心して、「船酔いしていたに違いないような御顔とは、まったく似ていないなあ」と言ったのだった。",
         "translation-en": "Among them, the ship lord, troubled in heart, was deeply moved and said, 'It is surely not like the seasick face, is it!'",
+	"translation-zh": "在其中，状态不佳的船中贵客非常赞赏，说道：“不符合晕船了的脸啊”",
         "phrase-gloss": [
           {
             "phrase": "これが中に",
             "gloss": "among these people",
+	    "words-gloss": "DEM=GEN inside=DAT",
+	    "gloss-zh": "在其中",
+	    "gloss-zh-morph": "这=GEN 中=DAT",
             "words": [
               {
                 "word": "これ",
-                "gloss": "this"
+                "gloss": "this",
+		"gloss-morph": "DEM",
+		"gloss-zh": "这",
+		"gloss-zh-morph": "这"
               },
               {
                 "word": "が",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "中",
-                "gloss": "inside / among"
+                "gloss": "inside / among",
+		"gloss-morph": "inside",
+		"gloss-zh": "中",
+		"gloss-zh-morph": "中"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "在",
+		"gloss-zh-morph": "=DAT"
               }
             ]
           },
           {
             "phrase": "心ちなやむ船君いたくめでゝ",
             "gloss": "the ship lord, troubled in heart, greatly admired",
+	    "words-gloss": "feeling troubled-ADN ship.lord great-ADV admire-ADV=SEQ",
+	    "gloss-zh": "状态不佳的船中贵客非常赞赏",
+	    "gloss-zh-morph": "心 得病-ADN 船中贵客 很-ADV 赞赏-ADV=SEQ",
             "words": [
               {
                 "word": "心ち",
-                "gloss": "feeling / heart"
+                "gloss": "feeling / heart",
+		"gloss-morph": "feeling",
+		"gloss-zh": "心",
+		"gloss-zh-morph": "心"
               },
               {
                 "word": "なやむ",
-                "gloss": "suffer / be.troubled"
+                "gloss": "suffer / be.troubled",
+		"gloss-morph": "troubled-ADN",
+		"gloss-zh": "得病",
+		"gloss-zh-morph": "得病-ADN"
               },
               {
                 "word": "船君",
-                "gloss": "ship.lord"
+                "gloss": "ship.lord",
+		"gloss-morph": "ship.lord",
+		"gloss-zh": "船中贵客",
+		"gloss-zh-morph": "船中贵客"
               },
               {
                 "word": "いたく",
-                "gloss": "greatly.ADV"
+                "gloss": "greatly.ADV",
+		"gloss-morph": "great-ADV",
+		"gloss-zh": "很",
+		"gloss-zh-morph": "很-ADV"
               },
               {
                 "word": "めで",
-                "gloss": "admire.ADV.F"
+                "gloss": "admire.ADV.F",
+		"gloss-morph": "admire-ADV",
+		"gloss-zh": "赞赏",
+		"gloss-zh-morph": "赞赏-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "船醉したうべりし御顏には似ずもあるかな",
             "gloss": "it is surely not like the seasick face",
+	    "words-gloss": "boat+be.sick-NML+do-ADV+RSP-ADV+STA-THM+PST.ADN RSP+face=DAT=TOP resemble.THM=NEG.ADV=IFO COP-ADN.NL XCL",
+	    "gloss-zh": "不符合晕船了的脸啊",
+	    "gloss-zh-morph": "船+晕-NML+做-ADV+RSP-ADV+STA-THM+PST.ADN RSP+脸=DAT=TOP 像.THM=NEG.ADV=IFO COP-AND.NL XCL",
             "words": [
               {
                 "word": "船醉し",
-                "gloss": "be.seasick.ADV.F"
+                "gloss": "be.seasick.ADV.F",
+		"gloss-morph": "boat+be.sick-NML+do-ADV",
+		"gloss-zh": "晕船",
+		"gloss-zh-morph": "船+晕-NML+做-ADV"
               },
               {
                 "word": "たうべ",
-                "gloss": "give.HON.ALR"
+                "gloss": "give.HON.ALR",
+		"gloss-morph": "+RSP-ADV",
+		"gloss-zh": "",
+		"gloss-zh-morph": "+RSP-ADV"
               },
               {
                 "word": "り",
-                "gloss": "PRF"
+                "gloss": "PRF",
+		"gloss-morph": "+STA-THM",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "+STA-THM"
               },
               {
                 "word": "し",
-                "gloss": "ATTR"
+                "gloss": "ATTR",
+		"gloss-morph": "+PST.ADN",
+		"gloss-zh": "了的",
+		"gloss-zh-morph": "+PST.ADN"
               },
               {
                 "word": "御顏",
-                "gloss": "honorific.face"
+                "gloss": "honorific.face",
+		"gloss-morph": "RSP+face",
+		"gloss-zh": "脸",
+		"gloss-zh-morph": "RSP+脸"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "在",
+		"gloss-zh-morph": "=DAT"
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "是",
+		"gloss-zh-morph": "=TOP"
               },
               {
                 "word": "似",
-                "gloss": "resemble.NEG.BASE"
+                "gloss": "resemble.NEG.BASE",
+		"gloss-morph": "resemble.THM",
+		"gloss-zh": "符合",
+		"gloss-zh-morph": "符合"
               },
               {
                 "word": "ず",
-                "gloss": "NEG"
+                "gloss": "NEG",
+		"gloss-morph": "=NEG.ADV",
+		"gloss-zh": "不",
+		"gloss-zh-morph": "=NEG.ADV"
               },
               {
                 "word": "も",
-                "gloss": "FOC"
+                "gloss": "FOC",
+		"gloss-morph": "=IFO",
+		"gloss-zh": "也",
+		"gloss-zh-morph": "=IFO"
               },
               {
                 "word": "ある",
-                "gloss": "exist"
+                "gloss": "exist",
+		"gloss-morph": "COP-ADN.NL",
+		"gloss-zh": "是",
+		"gloss-zh-morph": "是-ADN.NL"
               },
               {
                 "word": "かな",
-                "gloss": "EXCL"
+                "gloss": "EXCL",
+		"gloss-morph": "XCL",
+		"gloss-zh": "啊",
+		"gloss-zh-morph": "XCL"
               }
             ]
           },
           {
             "phrase": "といひける",
             "gloss": "said indeed",
+	    "words-gloss": "=CMP say-ADV+STA-ADN",
+	    "gloss-zh": "说道",
+	    "gloss-zh-morph": "=CMP 说-ADV+STA-ADN",
             "words": [
               {
                 "word": "と",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-morph": "=CMP",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=CMP"
               },
               {
                 "word": "いひ",
-                "gloss": "say"
+                "gloss": "say",
+		"gloss-morph": "say-ADV",
+		"gloss-zh": "说",
+		"gloss-zh-morph": "说-ADV"
               },
               {
                 "word": "ける",
-                "gloss": "PAST.EXCL"
+                "gloss": "PAST.EXCL",
+		"gloss-morph": "+STA-ADN",
+		"gloss-zh": "了的",
+		"gloss-zh-morph": "+STA-ADN"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "心を悩ませていた船君が、しみじみ感動して、『船酔いしていたはずの顔とはまるで違うものだなあ』と言ったのである。",
-        "translation-en-natural": "The ship lord, though troubled in spirit, was deeply moved and said, 'It surely doesn't resemble the face of someone who must have been seasick!'"
+        "translation-en-natural": "The ship lord, though troubled in spirit, was deeply moved and said, 'It surely doesn't resemble the face of someone who must have been seasick!'",
+	"translation-zh-natural": "那位郁郁寡欢的船中贵客非常感动，说：“这首和歌可不像是您这张晕船了的脸说出来的啊！”"
       },
       {
         "date": "20250522",

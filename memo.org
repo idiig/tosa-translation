@@ -204,4 +204,8 @@ kak-ADV-RET-CCL? kak-ADV+RET-CCL?
 ** =IRT => +IRT
 ** THMをADV, INCに明示的にしめす理由
 ** かつ、soon, then
-** かし 
+** かし
+** id=408
+*** ここちなやむ、気分がわるい
+こころちになっています
+*** 係り結びになっていない
