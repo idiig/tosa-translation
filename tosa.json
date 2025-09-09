@@ -11383,10 +11383,10 @@
         "koutei-yamagen": "船君せちみす。",
         "translation-ja": "船君が節忌をする。",
         "translation-en": "The ship's master is performing a ritual.",
-	"translation-zh": "船主举办节忌。", 
+	"translation-zh": "船中贵客举办节忌。", 
         "translation-ja-natural": "船の主人が節忌を行いました。",
         "translation-en-natural": "The ship's master performed a purification rite.",
-	"translation-zh-natural": "船中的重要人物举行了节忌仪式。",
+	"translation-zh-natural": "船中贵客举行了节忌仪式。",
         "notes-ja": {
           "節忌の意味": "「節忌」は、節分や彼岸などの節目に行う儀式や供養のことを指す。船君が節忌をするとは、船旅の途中で特別な儀式を行うことを意味している。"
         },
@@ -12935,7 +12935,7 @@
         "koutei-yamagen": "かくいひつつ行くに、船君なる人、浪を見て、「国よりはじめて海賊報いせむといふなることを思ふうへに、海のまた恐ろしければ、頭も皆、白けぬ。",
         "translation-ja": "こう言いながら行くと、船君という人が波を見て、「国を出て以来、はじめて、海賊が報復してくるだろうということを思う上に、海がまた恐ろしいので、頭も皆白くなってしまった。",
         "translation-en": "As we go on saying this, the steersman looks at the waves and says, 'Since leaving the country, I have begun to think that pirates will come to retaliate, and the sea is also terrifying, so my head has turned white.'",
-	"translation-zh": "这样说着一边前进时，船中要员看着波浪。“从（任命的）国（境）开始，想着海盗会不会报复的事，海也令人害怕，因此头发也都白了。",
+	"translation-zh": "这样说着一边前进时，船中贵客看着波浪。“从（任命的）国（境）开始，想着海盗会不会报复的事，海也令人害怕，因此头发也都白了。",
         "translation-ja-natural": "そんなことを話しながら進んでいると、船君という人が波を見て、「国を出てから初めて、海賊が報復してくるんじゃないかと思えてきた。しかも、海の様子があまりに恐ろしくて、頭が真っ白になってしまった。",
         "translation-en-natural": "As we were talking like that, the steersman looked at the waves and said, 'For the first time since we left home, I feel like the pirates might be coming to retaliate. And on top of that, the sea looks so terrifying—my head’s gone completely white,",
 	"translation-zh-natural": "我们一边说着这些一边前进时，船中的要员看着波浪说，“自从离开土佐国境以来，我一直担忧海盗会不会来报复，加之海面也令人害怕，头发都白了。"
@@ -19733,14 +19733,14 @@
         "koutei-yamagen": "又船君のいはく「この月までなりぬること」と歎きて苦しきに堪へずして、人もいふことゝて心やりにいへる歌、",
         "translation-ja": "また、船君が言うには、「この月までになってしまったこと」と嘆いて、苦しみに堪えきれず、人も言うことだと思って、心の慰めに言った歌、",
         "translation-en": "Again, the ship's lord said, 'That it has come to this month,' lamenting, unable to endure the pain, and thinking it was something others also say, spoke this poem to ease his heart.",
-	"translation-zh": "又，船客中的中心人物所谓：“到了此月为止了啊。”叹着，不堪苦闷，想着（别的）人也（会）说，为宽慰心情而咏之歌，",
+	"translation-zh": "又，船中贵客所谓：“到了此月为止了啊。”叹着，不堪苦闷，想着（别的）人也（会）说，为宽慰心情而咏之歌，",
         "phrase-gloss": [
           {
             "phrase": "又船君のいはく",
             "gloss": "Again, the ship's lord said",
-	    "gloss-morph": "again ship's.lord=GEN say-THM=NML",
-	    "gloss-zh": "又 船.主-的 所言",
-	    "gloss-zh-morph": "又 船.主=GEN 说-THM=NML",
+	    "gloss-morph": "again ship+important.person.RSP=GEN say-THM=NML",
+	    "gloss-zh": "船中贵客又说道",
+	    "gloss-zh-morph": "又 船+重要人物.RSP=GEN 说-THM=NML",
             "words": [
               {
                 "word": "又",
@@ -19752,9 +19752,9 @@
               {
                 "word": "船君",
                 "gloss": "ship's lord",
-		"gloss-morph": "ship's.lord",
-		"gloss-zh": "船.主",
-		"gloss-zh-morph": "船.主"
+		"gloss-morph": "ship+important.person.RSP",
+		"gloss-zh": "船中贵客",
+		"gloss-zh-morph": "船+重要人物.RSP"
               },
               {
                 "word": "の",
@@ -19996,7 +19996,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "また、船君が言うには、「とうとう今月まで来てしまった」と、嘆き、苦しみに耐えきれずに、人もそうするものだと、気を紛らわせるように詠んだ歌は、",
         "translation-en-natural": "Again, the ship's lord said, 'At last, it has come to this month,' and, lamenting, unable to endure the pain, he thought, 'This is something people do,' and composed a poem to ease his mind.",
-	"translation-zh-natural": "船客中的中心人物又说道：“还是拖到这个月了啊。”他叹息着，不堪苦闷，又想着其他人也会这么说，便为宽慰心情而咏了一首和歌，"
+	"translation-zh-natural": "船中贵客又说道：“还是拖到这个月了啊。”他叹息着，不堪苦闷，又想着其他人也会这么说，便为宽慰心情而咏了一首和歌，"
       },
       {
         "date": "20250508",
@@ -20378,21 +20378,21 @@
         "koutei-yamagen": "「船君の辛くひねり出してよしと思へる事をえしもこそしいへ」とてつゝめきてやみぬ。",
         "translation-ja": "「船君が、かろうじてひねり出して、いいと思った歌を。そんなことは言えない」とのことで、ひそひそいうのはやんだ。",
         "translation-en": "\"The ship's lord barely managed to twist it out and thought the poem good. Such a thing cannot be said,\" they said, and the whispering ceased.",
-	"translation-zh": "想着“船客的中心人物辛苦地苦思冥想想出了，并觉得好的和歌，（说不好的话会不会被）记恨”，悄悄说了就停了。",
+	"translation-zh": "想着“船中贵客辛苦地苦思冥想想出了，并觉得好的和歌，（说不好的话会不会被）记恨”，悄悄说了就停了。",
         "phrase-gloss": [
           {
             "phrase": "船君の辛くひねり出して",
             "gloss": "the ship's lord, with difficulty, composed",
-	    "gloss-morph": "ship+lord=GEN difficult-SER twist-ADV make-ADV=SEQ",
-	    "gloss-zh": "船客的中心人物 的 辛苦-地 苦思冥想 咏出 SEQ",
-	    "gloss-zh-morph": "船+君=GEN 辛苦-SER 苦思冥想-ADV 咏出-ADV=SEQ",
+	    "gloss-morph": "ship+important.person.RSP=GEN difficult-SER twist-ADV make-ADV=SEQ",
+	    "gloss-zh": "船中贵客 的 辛苦-地 苦思冥想 咏出 SEQ",
+	    "gloss-zh-morph": "船+重要人物.RSP=GEN 辛苦-SER 苦思冥想-ADV 咏出-ADV=SEQ",
             "words": [
               {
                 "word": "船君",
                 "gloss": "ship.lord",
-		"gloss-morph": "ship+lord",
-		"gloss-zh": "船客的中心人物",
-		"gloss-zh-morph": "船+君"
+		"gloss-morph": "ship+important.person.RSP",
+		"gloss-zh": "船中贵客",
+		"gloss-zh-morph": "船+重要人物.RSP"
               },
               {
                 "word": "の",
@@ -29833,9 +29833,9 @@
           {
             "phrase": "心ちなやむ船君いたくめでゝ",
             "gloss": "the ship lord, troubled in heart, greatly admired",
-	    "words-gloss": "feeling troubled-ADN ship.lord great-ADV admire-ADV=SEQ",
+	    "words-gloss": "feeling troubled-ADN ship+important.person.RSP great-ADV admire-ADV=SEQ",
 	    "gloss-zh": "状态不佳的船中贵客非常赞赏",
-	    "gloss-zh-morph": "心 得病-ADN 船中贵客 很-ADV 赞赏-ADV=SEQ",
+	    "gloss-zh-morph": "心 得病-ADN 船+重要人物.RSP 很-ADV 赞赏-ADV=SEQ",
             "words": [
               {
                 "word": "心ち",
@@ -29854,9 +29854,9 @@
               {
                 "word": "船君",
                 "gloss": "ship.lord",
-		"gloss-morph": "ship.lord",
+		"gloss-morph": "ship+important.person.RSP",
 		"gloss-zh": "船中贵客",
-		"gloss-zh-morph": "船中贵客"
+		"gloss-zh-morph": "船+重要人物.RSP"
               },
               {
                 "word": "いたく",
@@ -30018,111 +30018,182 @@
         "koutei-yamagen": "七日、けふは川尻に船入り立ちて漕ぎのぼるに、川の水ひて惱みわづらふ。",
         "translation-ja": "七日、今日は川尻に船を入れて出発し、漕いで上ると、川の水が引いて難儀してしまった。",
         "translation-en": "On the seventh day, today, we launched the boat at the river mouth and began rowing upstream, but the river's water had receded and we were troubled.",
+	"translation-zh": "七日，今日船进入河口出发，划上去时，河水枯了，烦恼为难。",
         "phrase-gloss": [
           {
             "phrase": "七日、けふは",
             "gloss": "on the seventh day, today",
+	    "words-gloss": "seven.day today=TOP",
+	    "gloss-zh": "七日，今日",
+	    "gloss-zh-morph": "七日 今天=TOP",
             "words": [
               {
                 "word": "七日",
-                "gloss": "seventh.day"
+                "gloss": "seventh.day",
+		"gloss-morph": "seven.day",
+		"gloss-zh": "七日",
+		"gloss-zh-morph": "七日"
               },
               {
                 "word": "けふ",
-                "gloss": "today"
+                "gloss": "today",
+		"gloss-morph": "today",
+		"gloss-zh": "今日",
+		"gloss-zh-morph": "今日"
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=TOP"
               }
             ]
           },
           {
             "phrase": "川尻に船入り立ちて",
             "gloss": "put the boat in at the river mouth and set out",
+	    "words-gloss": "river+mouth=DAT boat enter-ADV set.out-ADV=SEQ",
+	    "gloss-zh": "船进入河口出发",
+	    "gloss-zh-morph": "河+口=DAT 船 进入-ADV 出发-ADV=SEQ",
             "words": [
               {
                 "word": "川尻",
-                "gloss": "river.mouth"
+                "gloss": "river.mouth",
+		"gloss-morph": "river+mouth",
+		"gloss-zh": "河口",
+		"gloss-zh-morph": "河+口"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "在",
+		"gloss-zh-morph": "=DAT"
               },
               {
                 "word": "船",
-                "gloss": "boat"
+                "gloss": "boat",
+		"gloss-morph": "boat",
+		"gloss-zh": "船",
+		"gloss-zh-morph": "船"
               },
               {
                 "word": "入り",
-                "gloss": "enter.ADV.F"
+                "gloss": "enter.ADV.F",
+		"gloss-morph": "enter-ADV",
+		"gloss-zh": "进入",
+		"gloss-zh-morph": "进入-ADV"
               },
               {
                 "word": "立ち",
-                "gloss": "set.out.ADV.F"
+                "gloss": "set.out.ADV.F",
+		"gloss-morph": "set.out-ADV",
+		"gloss-zh": "出发",
+		"gloss-zh-morph": "出发-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "漕ぎのぼるに",
             "gloss": "when rowing upstream",
+	    "words-gloss": "row-ADV go.up-ADN.NL=XCD",
+	    "gloss-zh": "划上去，结果",
+	    "gloss-zh-morph": "划-ADV 上去-ADN.NL=XCD",
             "words": [
               {
                 "word": "漕ぎ",
-                "gloss": "row.ADV.F"
+                "gloss": "row.ADV.F",
+		"gloss-morph": "row-ADV",
+		"gloss-zh": "划",
+		"gloss-zh-morph": "划-ADV"
               },
               {
                 "word": "のぼる",
-                "gloss": "go.up"
+                "gloss": "go.up",
+		"gloss-morph": "go.up-ADN.NL",
+		"gloss-zh": "上去",
+		"gloss-zh-morph": "上去-ADN.NL"
               },
               {
                 "word": "に",
-                "gloss": "CONJ.TEMP"
+                "gloss": "CONJ.TEMP",
+		"gloss-morph": "=XCD",
+		"gloss-zh": "，结果",
+		"gloss-zh-morph": "=XCD"
               }
             ]
           },
           {
             "phrase": "川の水ひて惱みわづらふ",
             "gloss": "the river's water receded, and we were troubled and distressed",
+	    "words-gloss": "river=GEN water recede-ADV=SEQ suffer-ADV be.troubled-CCL",
+	    "gloss-zh": "河水枯了，烦恼为难",
+	    "gloss-zh-morph": "河=GEN 水 枯-ADV=SEQ 恼-ADV 烦-CCL",
             "words": [
               {
                 "word": "川",
-                "gloss": "river"
+                "gloss": "river",
+		"gloss-morph": "river",
+		"gloss-zh": "河",
+		"gloss-zh-morph": "河"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "水",
-                "gloss": "water"
+                "gloss": "water",
+		"gloss-morph": "water",
+		"gloss-zh": "水",
+		"gloss-zh-morph": "水"
               },
               {
                 "word": "ひ",
-                "gloss": "recede.ADV.F"
+                "gloss": "recede.ADV.F",
+		"gloss-morph": "recede-ADV",
+		"gloss-zh": "枯",
+		"gloss-zh-morph": "枯-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=SEQ"
               },
               {
                 "word": "惱み",
-                "gloss": "suffer.ADV.F"
+                "gloss": "suffer.ADV.F",
+		"gloss-morph": "suffer-ADV",
+		"gloss-zh": "恼",
+		"gloss-zh-morph": "恼-ADV"
               },
               {
                 "word": "わづらふ",
-                "gloss": "be.troubled"
+                "gloss": "be.troubled",
+		"gloss-morph": "be.troubled-CCL",
+		"gloss-zh": "烦",
+		"gloss-zh-morph": "烦-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "七日、今日は川尻から船を出して上流に漕ぎ出したが、水が引いて難儀した。",
-        "translation-en-natural": "On the seventh day, we launched the boat at the river mouth and rowed upstream, but the water had receded and we ran into trouble."
+        "translation-en-natural": "On the seventh day, we launched the boat at the river mouth and rowed upstream, but the water had receded and we ran into trouble.",
+	"translation-zh-natural": "七日，今天我们从河口划船向上游出发，结果河水枯了，大家烦恼不已。"
       },
       {
         "date": "20250522",
@@ -30132,47 +30203,73 @@
         "koutei-yamagen": "船ののぼることいと難し。",
         "translation-ja": "船が上るのは、非常に難しい。",
         "translation-en": "It is very difficult for the boat to go upstream.",
+	"translation-zh": "船向上划非常困难。",
         "phrase-gloss": [
           {
             "phrase": "船ののぼること",
             "gloss": "for the boat to go upstream",
+	    "words-gloss": "boat=GEN go.up-ADN=NML",
+	    "gloss-zh": "船向上划（之事）",
+	    "gloss-zh-morph": "船=GEN 上去-ADN=NML",
             "words": [
               {
                 "word": "船",
-                "gloss": "boat"
+                "gloss": "boat",
+		"gloss-morph": "boat",
+		"gloss-zh": "船",
+		"gloss-zh-morph": "船"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "のぼる",
-                "gloss": "go.up.ATTR"
+                "gloss": "go.up.ATTR",
+		"gloss-morph": "go.up-ADN",
+		"gloss-zh": "上去",
+		"gloss-zh-morph": "上去-ADN"
               },
               {
                 "word": "こと",
-                "gloss": "NMLZ"
+                "gloss": "NMLZ",
+		"gloss-morph": "=NML",
+		"gloss-zh": "（之事）",
+		"gloss-zh-morph": "=NML"
               }
             ]
           },
           {
             "phrase": "いと難し",
             "gloss": "very difficult",
+	    "words-gloss": "very difficult-CCL",
+	    "gloss-zh": "非常困难",
+	    "gloss-zh-morph": "非常 困难-CCL",
             "words": [
               {
                 "word": "いと",
-                "gloss": "very"
+                "gloss": "very",
+		"gloss-morph": "very",
+		"gloss-zh": "非常",
+		"gloss-zh-morph": "非常"
               },
               {
                 "word": "難し",
-                "gloss": "difficult"
+                "gloss": "difficult",
+		"gloss-morph": "difficult-CCL",
+		"gloss-zh": "困难",
+		"gloss-zh-morph": "困难-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "船が上るのは本当に大変だ。",
-        "translation-en-natural": "It's really hard for the boat to make its way upstream."
+        "translation-en-natural": "It's really hard for the boat to make its way upstream.",
+	"translation-zh-natural": "船要向上划非常困难。"
       },
       {
         "date": "20250523",
@@ -30182,103 +30279,164 @@
         "koutei-yamagen": "かゝる間に船君の病者もとよりこちごちしき人にて、かうやうの事更に知らざりけり。",
         "translation-ja": "こうしている間に、船君という人は病人で、もともと無風流な人だったので、このようなことはまったく知らなかった。",
         "translation-en": "While this was going on, the ship lord was a sick man, and since he was originally a dull, unrefined person, he did not know such matters at all.",
+	"translation-zh": "于此间，船中贵客是病人、本来不讲究的人，因此完全不知道这样的事。",
         "phrase-gloss": [
           {
             "phrase": "かゝる間に",
             "gloss": "while this was going on",
+	    "words-gloss": "thus-VBL-ADN interval=DAT",
+	    "gloss-zh": "于此间",
+	    "gloss-zh-morph": "这样的-VBL-ADN 期间=DAT",
             "words": [
               {
                 "word": "かゝる",
-                "gloss": "like this"
+                "gloss": "like this",
+		"gloss-morph": "thus-VBL-ADN",
+		"gloss-zh": "这样的",
+		"gloss-zh-morph": "这样的-VBL-ADN"
               },
               {
                 "word": "間",
-                "gloss": "interval; while"
+                "gloss": "interval; while",
+		"gloss-morph": "interval",
+		"gloss-zh": "期间",
+		"gloss-zh-morph": "期间"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "于",
+		"gloss-zh-morph": "=DAT"
               }
             ]
           },
           {
             "phrase": "船君の病者",
             "gloss": "the ship lord was a sick man",
+	    "words-gloss": "ship+important.person.RSP=NOM illness+person",
+	    "gloss-zh": "船中贵客是病人",
+	    "gloss-zh-morph": "船+重要人物.RSP=NOM 病+人",
             "words": [
               {
                 "word": "船君",
-                "gloss": "ship lord; boat master"
+                "gloss": "ship lord; boat master",
+		"gloss-morph": "ship+important.person.RSP",
+		"gloss-zh": "船中贵客",
+		"gloss-zh-morph": "船+重要人物.RSP"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=NOM",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=NOM"
               },
               {
                 "word": "病者",
-                "gloss": "sick person"
+                "gloss": "sick person",
+		"gloss-morph": "illness+person",
+		"gloss-zh": "病人",
+		"gloss-zh-morph": "病+人"
               }
             ]
           },
           {
             "phrase": "もとよりこちごちしき人にて",
             "gloss": "being originally an unrefined person",
+	    "words-gloss": "origin=ABL unrefined-ADN person=CSL",
+	    "gloss-zh": "本来不讲究的人",
+	    "gloss-zh-morph": "原本=ABL 不讲究-ADN 人=CSL",
             "words": [
               {
                 "word": "もとより",
-                "gloss": "originally"
+                "gloss": "originally",
+		"gloss-morph": "origin=ABL",
+		"gloss-zh": "本来",
+		"gloss-zh-morph": "原本=ABL"
               },
               {
                 "word": "こちごちしき",
-                "gloss": "dull; unrefined"
+                "gloss": "dull; unrefined",
+		"gloss-morph": "unrefined-ADN",
+		"gloss-zh": "不讲究的",
+		"gloss-zh-morph": "不讲究-ADN"
               },
               {
                 "word": "人",
-                "gloss": "person"
+                "gloss": "person",
+		"gloss-morph": "person",
+		"gloss-zh": "人",
+		"gloss-zh-morph": "人"
               },
               {
                 "word": "にて",
-                "gloss": "COP.ADJ"
+                "gloss": "COP.ADJ",
+		"gloss-morph": "=CSL",
+		"gloss-zh": "因为",
+		"gloss-zh-morph": "=CSL"
               }
             ]
           },
           {
             "phrase": "かうやうの事更に知らざりけり",
             "gloss": "did not know such matters at all",
+	    "words-gloss": "DEM+manner=GEN matter=TOP complete=SER know-THM=NEG.VBL-ADV+RET-CCL",
+	    "gloss-zh": "完全不知道那样的事",
+	    "gloss-zh-morph": "DEM+样=GEN 事情=TOP 完全=SER 知道-THM=NEG.VBL-ADV+RET-CCL",
             "words": [
               {
                 "word": "かうやう",
-                "gloss": "such"
+                "gloss": "such",
+		"gloss-morph": "DEM+manner",
+		"gloss-zh": "那样",
+		"gloss-zh-morph": "DEM+样"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "事",
-                "gloss": "matter; thing"
+                "gloss": "matter; thing",
+		"gloss-morph": "matter",
+		"gloss-zh": "事情",
+		"gloss-zh-morph": "事情"
               },
               {
                 "word": "更に",
-                "gloss": "at all; completely"
+                "gloss": "at all; completely",
+		"gloss-morph": "complete=SER",
+		"gloss-zh": "完全",
+		"gloss-zh-morph": "完全=SER"
               },
               {
                 "word": "知ら",
-                "gloss": "know.NEG.BASE"
+                "gloss": "know.NEG.BASE",
+		"gloss-morph": "know-THM",
+		"gloss-zh": "知道",
+		"gloss-zh-morph": "知道"
               },
               {
                 "word": "ざり",
-                "gloss": "NEG.ADV.F"
+                "gloss": "NEG.ADV.F",
+		"gloss-morph": "=NEG.VBL-ADV",
               },
               {
                 "word": "けり",
-                "gloss": "PST.EXCL"
+                "gloss": "PST.EXCL",
+		"gloss-morph": "+RET-CCL",
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "そんなことをしている間、船君は病人で、もともと無趣味な人だったので、そういうことには全然気づかなかったのです。",
-        "translation-en-natural": "While all this was happening, the ship captain, being a sickly and rather unrefined man, had no awareness of such things at all."
+        "translation-en-natural": "While all this was happening, the ship captain, being a sickly and rather unrefined man, had no awareness of such things at all.",
+	"translation-zh-natural": "在这期间，船中贵客是个病人，又是个本不讲究的人，因此完全不知道这样的情况。"
       },
       {
         "date": "20250524",
@@ -30288,135 +30446,217 @@
         "koutei-yamagen": "かゝれども淡路のたうめの歌にめでゝ、みやこぼこりにもやあらむ、からくしてあやしき歌ひねり出だせり。",
         "translation-ja": "けれども淡路の島の老女の歌に感心し、都が近いせいでもあろうか、かろうじて不思議な歌をひねり出したのだ。",
         "translation-en": "However, being moved by the song of the old woman of Awaji Island, perhaps because we were near the capital, we barely managed to produce a strange song.",
+	"translation-zh": "虽然那样，在于赞赏淡路老妇的歌，邻近京都了吧，勉强地想出了奇怪的和歌。",
         "phrase-gloss": [
           {
             "phrase": "かゝれども",
             "gloss": "however; though that was so",
+	    "words-gloss": "thus-VBL-INC=XCD",
+	    "gloss-zh": "虽然那样",
+	    "gloss-zh-morph": "这样的-VBL-INC=XCD",
             "words": [
               {
                 "word": "かゝれ",
-                "gloss": "though that was so"
+                "gloss": "though that was so",
+		"gloss-morph": "thus-VBL-INC",
+		"gloss-zh": "这样的",
+		"gloss-zh-morph": "这样的-VBL-INC"
               },
               {
                 "word": "ども",
-                "gloss": "CONJ.but"
+                "gloss": "CONJ.but",
+		"gloss-morph": "=XCD=IFO",
+		"gloss-zh": "但是",
+		"gloss-zh-morph": "=XCD=IFO"
               }
             ]
           },
           {
             "phrase": "淡路のたうめの歌にめでゝ",
             "gloss": "being moved by the song of the old woman of Awaji",
+	    "words-gloss": "Awaji=GEN old.woman=GEN poem=DAT admire-ADV=SEQ",
+	    "gloss-zh": "赞赏淡路老妇的歌",
+	    "gloss-zh-morph": "淡路=GEN 老妇=GEN 和歌=DAT 赞赏-ADV=SEQ",
             "words": [
               {
                 "word": "淡路",
-                "gloss": "Awaji (Island)"
+                "gloss": "Awaji (Island)",
+		"gloss-morph": "Awaji",
+		"gloss-zh": "淡路",
+		"gloss-zh-morph": "淡路"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "たうめ",
-                "gloss": "old woman"
+                "gloss": "old woman",
+		"gloss-morph": "old.woman",
+		"gloss-zh": "老妇",
+		"gloss-zh-morph": "老妇"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "歌",
-                "gloss": "song"
+                "gloss": "song",
+		"gloss-morph": "poem",
+		"gloss-zh": "和歌",
+		"gloss-zh-morph": "和歌"
               },
               {
                 "word": "に",
-                "gloss": "DAT"
+                "gloss": "DAT",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "于",
+		"gloss-zh-morph": "=DAT"
               },
               {
                 "word": "めで",
-                "gloss": "be moved by; admire.ADV.F"
+                "gloss": "be moved by; admire.ADV.F",
+		"gloss-morph": "admire-ADV",
+		"gloss-zh": "赞赏",
+		"gloss-zh-morph": "赞赏-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "みやこぼこりにもやあらむ",
             "gloss": "perhaps because we were near the capital",
+	    "words-gloss": "capital+honor.NML=DAT=IFO=XCL COP-THM=CJT-CCL",
+	    "gloss-zh": "是不是因为邻近京都了",
+	    "gloss-zh-morph": "京都+自豪.NML=DAT=IFO=XCL 是-THM=CJT-CCL",
             "words": [
               {
-                "word": "みやこ",
-                "gloss": "capital"
-              },
-              {
-                "word": "ぼこり",
-                "gloss": "nearness; proximity"
+                "word": "みやこぼこり",
+                "gloss": "be near to capital",
+		"gloss-morph": "capital+honor.NML",
+		"gloss-zh": "邻近京都",
+		"gloss-zh-morph": "京都+自豪.NML"
               },
               {
                 "word": "に",
-                "gloss": "DAT"
+                "gloss": "DAT",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "于",
+		"gloss-zh-morph": "=DAT"
               },
               {
                 "word": "も",
-                "gloss": "FOC"
+                "gloss": "FOC",
+		"gloss-morph": "=IFO",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=IFO"
               },
               {
                 "word": "や",
-                "gloss": "INTERROG"
+                "gloss": "INTERROG",
+		"gloss-morph": "=XCL",
+		"gloss-zh": "吗",
+		"gloss-zh-morph": "=XCL"
               },
               {
                 "word": "あら",
-                "gloss": "be.NEG.BASE"
+                "gloss": "be.NEG.BASE",
+		"gloss-morph": "COP-THM",
+		"gloss-zh": "是",
+		"gloss-zh-morph": "COP-THM"
               },
               {
                 "word": "む",
-                "gloss": "FUT"
+                "gloss": "FUT",
+		"gloss-morph": "=CJT-CCL",
+		"gloss-zh": "吧",
+		"gloss-zh-morph": "=CJT-CCL"
               }
             ]
           },
           {
             "phrase": "からくしてあやしき歌ひねり出せり",
             "gloss": "barely managed to produce a strange song",
+	    "words-gloss": "bare-SER+do-ADV=SEQ strange-ADN poem twist-ADV put.out-INC+STA-CCL",
+	    "gloss-zh": "勉强地挤出了（一首）奇怪的和歌",
+	    "gloss-zh-morph": "勉强-SER+做-ADV=SEQ 奇怪-ADN 和歌 挤-ADV 出-INC+STA-CCL",
             "words": [
               {
                 "word": "からく",
-                "gloss": "barely"
+                "gloss": "barely",
+		"gloss-morph": "bare-SER",
+		"gloss-zh": "勉强地",
+		"gloss-zh-morph": "勉强-SER"
               },
               {
                 "word": "し",
-                "gloss": "do.ADV.F"
+                "gloss": "do.ADV.F",
+		"gloss-morph": "+do-ADV",
+		"gloss-zh": "地",
+		"gloss-zh-morph": "+做-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=SEQ"
               },
               {
                 "word": "あやしき",
-                "gloss": "strange.ATTR"
+                "gloss": "strange.ATTR",
+		"gloss-morph": "strange-ADN",
+		"gloss-zh": "奇怪的",
+		"gloss-zh-morph": "奇怪-ADN"
               },
               {
                 "word": "歌",
-                "gloss": "song"
+                "gloss": "song",
+		"gloss-morph": "poem",
+		"gloss-zh": "和歌",
+		"gloss-zh-morph": "和歌"
               },
               {
                 "word": "ひねり",
-                "gloss": "twist out.ADV.F"
+                "gloss": "twist out.ADV.F",
+		"gloss-morph": "twist-ADV",
+		"gloss-zh": "挤",
+		"gloss-zh-morph": "挤-ADV"
               },
               {
                 "word": "出せ",
-                "gloss": "produce.REALIS.F"
+                "gloss": "produce.REALIS.F",
+		"gloss-morph": "put.out-INC",
+		"gloss-zh": "出",
+		"gloss-zh-morph": "出-INC"
               },
               {
                 "word": "り",
-                "gloss": "PERF"
+                "gloss": "PERF",
+		"gloss-morph": "+STA-CCL",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "+STA-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "それでも淡路島の老女の歌に感心し、都が近づいてきたせいもあるのか、なんとか不思議な歌をひねり出したのです。",
-        "translation-en-natural": "Even so, moved by the old woman's song from Awaji Island, perhaps because we were nearing the capital, they somehow managed to come up with a strange song."
+        "translation-en-natural": "Even so, moved by the old woman's song from Awaji Island, perhaps because we were nearing the capital, they somehow managed to come up with a strange song.",
+	"translation-zh-natural": "虽然如此，或许是因为他被淡路岛老妇的歌所打动，京都也邻近了吧，他总算勉强地想出了一首奇怪的和歌。"
       },
       {
         "date": "20250524",
@@ -30426,29 +30666,43 @@
         "koutei-yamagen": "そのうたは、",
         "translation-ja": "その歌は、",
         "translation-en": "The song was,",
+	"translation-zh": "那首歌是，",
         "phrase-gloss": [
           {
             "phrase": "そのうたは",
             "gloss": "the song was",
+	    "words-gloss": "DEM=DEM poem=TOP",
+	    "gloss-zh": "那首歌是",
+	    "gloss-zh-morph": "DEM=DEM 和歌=TOP",
             "words": [
               {
                 "word": "その",
-                "gloss": "that"
+                "gloss": "that",
+		"gloss-morph": "DEM=DEM",
+		"gloss-zh": "那",
+		"gloss-zh-morph": "DEM=DEM"
               },
               {
                 "word": "うた",
-                "gloss": "song"
+                "gloss": "song",
+		"gloss-morph": "poem",
+		"gloss-zh": "和歌",
+		"gloss-zh-morph": "和歌"
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "是",
+		"gloss-zh-morph": "=TOP"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "その歌は、",
-        "translation-en-natural": "The song was,"
+        "translation-en-natural": "The song was,",
+	"translation-zh-natural": "那首歌是，"
       },
       {
         "date": "20250524",
@@ -30458,125 +30712,205 @@
         "koutei-yamagen": "きときては/川のほりえの/水をあさみ/船も我が身も/なづむけふかな",
         "translation-ja": "やっと来たが、川の堀江の水が浅いため、船も我が身も停滞する、今日だなあ。",
         "translation-en": "Having finally come, because the water in the river's channel is shallow, both the boat and I are bogged down today.",
+	"translation-zh": "远到而来/河渠的/水浅，因此/船与我身都/搁浅的今日哉",
         "phrase-gloss": [
           {
             "phrase": "きときては",
             "gloss": "having finally come; having just arrived",
+	    "gloss-morph": "come-ADV=CMP come-ADV=TOP",
+	    "gloss-zh": "远到而来",
+	    "gloss-zh-morph": "来-ADV=CMP 来-ADV=TOP",
             "words": [
               {
                 "word": "きと",
-                "gloss": "finally; at last"
+                "gloss": "finally; at last",
+		"gloss-morph": "come-ADV",
+		"gloss-zh": "路遥遥地",
+		"gloss-zh-morph": "来-ADV"
               },
               {
                 "word": "き",
-                "gloss": "come.ADV.F"
+                "gloss": "come.ADV.F",
+		"gloss-morph": "come-ADV",
+		"gloss-zh": "来",
+		"gloss-zh-morph": "来-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=CMP",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=CMP"
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=TOP"
               }
             ]
           },
           {
             "phrase": "川のほりえの",
             "gloss": "of the river's channel",
+	    "words-gloss": "river=GEN dig-NML+channel=GEN",
+	    "gloss-zh": "河渠的",
+	    "gloss-zh-morph": "河=GEN 挖-NML+水道=GEN",
             "words": [
               {
                 "word": "川",
-                "gloss": "river"
+                "gloss": "river",
+		"gloss-morph": "river",
+		"gloss-zh": "河",
+		"gloss-zh-morph": "河"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "ほりえ",
-                "gloss": "channel; moat"
+                "gloss": "channel; moat",
+		"gloss-morph": "dig-NML+channel",
+		"gloss-zh": "水道",
+		"gloss-zh-morph": "挖-NML+水道"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               }
             ]
           },
           {
             "phrase": "水をあさみ",
             "gloss": "because the water is shallow",
+	    "words-gloss": "water=XCL? shallow.NML=CSL",
+	    "gloss-zh": "水浅，因此",
+	    "gloss-zh-morph": "水=XCL? 浅.NML=CSL",
             "words": [
               {
                 "word": "水",
-                "gloss": "water"
+                "gloss": "water",
+		"gloss-morph": "water",
+		"gloss-zh": "水",
+		"gloss-zh-morph": "水"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=XCL?",
+		"gloss-zh": "因为",
+		"gloss-zh-morph": "=XCL?"
               },
               {
                 "word": "あさ",
-                "gloss": "be shallow.ADV.F"
+                "gloss": "be shallow.ADV.F",
+		"gloss-morph": "shallow.NML",
+		"gloss-zh": "浅",
+		"gloss-zh-morph": "浅.NML"
               },
               {
                 "word": "み",
-                "gloss": "SUF.REASON"
+                "gloss": "SUF.REASON",
+		"gloss-morph": "=CSL",
+		"gloss-zh": "因此",
+		"gloss-zh-morph": "=CSL"
               }
             ]
           },
           {
             "phrase": "船も我が身も",
             "gloss": "both the boat and I",
+	    "words-gloss": "boat=IFO 1SG=GEN body=IFO",
+	    "gloss-zh": "船与我身都",
+	    "gloss-zh-morph": "船=IFO 1SG=GEN 身=IFO",
             "words": [
               {
                 "word": "船",
-                "gloss": "boat"
+                "gloss": "boat",
+		"gloss-morph": "boat",
+		"gloss-zh": "船",
+		"gloss-zh-morph": "船"
               },
               {
                 "word": "も",
-                "gloss": "FOC"
+                "gloss": "FOC",
+		"gloss-morph": "=IFO",
+		"gloss-zh": "都",
+		"gloss-zh-morph": "=IFO"
               },
               {
                 "word": "我",
-                "gloss": "I; myself"
+                "gloss": "I; myself",
+		"gloss-morph": "1SG",
+		"gloss-zh": "我",
+		"gloss-zh-morph": "1SG"
               },
               {
                 "word": "が",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "身",
-                "gloss": "body; self"
+                "gloss": "body; self",
+		"gloss-morph": "body",
+		"gloss-zh": "身",
+		"gloss-zh-morph": "身"
               },
               {
                 "word": "も",
-                "gloss": "FOC"
+                "gloss": "FOC",
+		"gloss-morph": "=IFO",
+		"gloss-zh": "也",
+		"gloss-zh-morph": "=IFO"
               }
             ]
           },
           {
             "phrase": "なづむけふかな",
             "gloss": "are bogged down today, oh",
+	    "words-gloss": "be.bogged.down-ADN today XCL",
+	    "gloss-zh": "搁浅的今日哉",
+	    "gloss-zh-morph": "搁浅－ADN 今日 哉",
             "words": [
               {
                 "word": "なづむ",
-                "gloss": "be bogged down; stagnate"
+                "gloss": "be bogged down; stagnate",
+		"gloss-morph": "be.bogged.down-ADN",
+		"gloss-zh": "搁浅的",
+		"gloss-zh-morph": "搁浅-ADN"
               },
               {
                 "word": "けふ",
-                "gloss": "today"
+                "gloss": "today",
+		"gloss-morph": "today",
+		"gloss-zh": "今日",
+		"gloss-zh-morph": "今日"
               },
               {
                 "word": "かな",
-                "gloss": "EXCL"
+                "gloss": "EXCL",
+		"gloss-morph": "XCL",
+		"gloss-zh": "哉",
+		"gloss-zh-morph": "哉"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "やっとの思いでたどり着いたが、川の堀江の水が浅いため、船も私自身も進まず、もたつく今日だなあ。",
-        "translation-en-natural": "Having finally arrived, the river's channel is so shallow that both the boat and I are stuck, struggling through the day."
+        "translation-en-natural": "Having finally arrived, the river's channel is so shallow that both the boat and I are stuck, struggling through the day.",
+	"translation-zh-natural": "路遥遥地来到这里，却因为河渠的水很浅，今日，船搁浅了，我也被困住了。"
       },
       {
         "date": "20250524",
@@ -30586,75 +30920,119 @@
         "koutei-yamagen": "これは病をすればよめるなるべし。",
         "translation-ja": "これは病をしたから、詠んだのだろう。",
         "translation-en": "This must have been composed because of the illness.",
+	"translation-zh": "这应该是因郁闷而咏的吧。",
         "phrase-gloss": [
           {
             "phrase": "これは",
             "gloss": "this; as for this",
+	    "gloss-morph": "DEM=TOP",
+	    "gloss-zh": "这是",
+	    "gloss-zh-morph": "DEM=TOP",
             "words": [
               {
                 "word": "これ",
-                "gloss": "this"
+                "gloss": "this",
+		"gloss-morph": "DEM",
+		"gloss-zh": "这",
+		"gloss-zh-morph": "DEM"
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "是",
+		"gloss-zh-morph": "=TOP"
               }
             ]
           },
           {
             "phrase": "病をすれば",
             "gloss": "because of being ill; because of falling sick",
+	    "words-gloss": "illness=ACC do-INC=XCD",
+	    "gloss-zh": "因为郁闷",
+	    "gloss-zh-morph": "病=ACC 做-INC=XCD",
             "words": [
               {
                 "word": "病",
-                "gloss": "illness; sickness"
+                "gloss": "illness; sickness",
+		"gloss-morph": "illness",
+		"gloss-zh": "郁闷",
+		"gloss-zh-morph": "郁闷"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=ACC"
               },
               {
                 "word": "すれ",
-                "gloss": "do.REALIS.F"
+                "gloss": "do.REALIS.F",
+		"gloss-morph": "do-INC",
+		"gloss-zh": "得",
+		"gloss-zh-morph": "做-INC"
               },
               {
                 "word": "ば",
-                "gloss": "COND"
+                "gloss": "COND",
+		"gloss-morph": "=XCD",
+		"gloss-zh": "因为",
+		"gloss-zh-morph": "=XCD"
               }
             ]
           },
           {
             "phrase": "よめる",
             "gloss": "has composed; composed",
+	    "gloss-morph": "compose-INC+STA-ADN.NL",
+	    "gloss-zh": "咏的",
+	    "gloss-zh-morph": "咏-INC+STA-ADN.NL",
             "words": [
               {
                 "word": "よめ",
-                "gloss": "compose.REALIS.F"
+                "gloss": "compose.REALIS.F",
+		"gloss-morph": "compose-INC",
+		"gloss-zh": "咏",
+		"gloss-zh-morph": "咏-INC"
               },
               {
                 "word": "る",
-                "gloss": "PERF"
+                "gloss": "PERF",
+		"gloss-morph": "+STA-ADN.NL",
+		"gloss-zh": "了的",
+		"gloss-zh-morph": "了+STA-ADN.NL"
               }
             ]
           },
           {
             "phrase": "なるべし",
             "gloss": "must be; probably is",
+	    "words-gloss": "HEV-ADN NEC-CCL",
+	    "gloss-zh": "听说应该是",
+	    "gloss-zh-morph": "HEV-ADN 应该-CCL",
             "words": [
               {
                 "word": "なる",
-                "gloss": "be.ATTR"
+                "gloss": "be.ATTR",
+		"gloss-morph": "HEV-ADN",
+		"gloss-zh": "听说是",
+		"gloss-zh-morph": "HEV-ADN"
               },
               {
                 "word": "べし",
-                "gloss": "should; must; probably"
+                "gloss": "should; must; probably",
+		"gloss-morph": "NEC-CCL",
+		"gloss-zh": "应该",
+		"gloss-zh-morph": "应该-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "これは、病気をしたから詠んだものなのだろう。",
-        "translation-en-natural": "This was probably composed because of the illness."
+        "translation-en-natural": "This was probably composed because of the illness.",
+	"translation-zh-natural": "这大概是因为郁闷而咏的吧。"
       },
       {
         "date": "20250524",
@@ -30664,69 +31042,110 @@
         "koutei-yamagen": "ひとうたにことのあかねばいまひとつ、",
         "translation-ja": "一首では満足しなかったので、もう一つ、",
         "translation-en": "Since one poem was not satisfying, here is another,",
+	"translation-zh": "一首和歌语言不够，因此现在（又）一首，",
         "phrase-gloss": [
           {
             "phrase": "ひとうたに",
             "gloss": "with one poem; in one poem",
-            "words": [
+	    "gloss-morph": "one+poem=DAT",
+	    "gloss-zh": "一首和歌",
+	    "gloss-zh-morph": "一+和歌=DAT",
+	    "words": [
               {
                 "word": "ひと",
-                "gloss": "one"
+                "gloss": "one",
+		"gloss-morph": "one",
+		"gloss-zh": "一首",
+		"gloss-zh-morph": "一"
               },
               {
                 "word": "うた",
-                "gloss": "poem; song"
+                "gloss": "poem; song",
+		"gloss-morph": "poem",
+		"gloss-zh": "和歌",
+		"gloss-zh-morph": "和歌"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=DAT"
               }
             ]
           },
           {
             "phrase": "ことの飽かねば",
             "gloss": "since the matter was not satisfying",
+	    "words-gloss": "words=NOM be.enough-THM=NEG-INC=XCD",
+	    "gloss-zh": "语言不够，因此",
+	    "gloss-zh-morph": "语言=NOM 足够-THM=NEG-INC=XCD",
             "words": [
               {
                 "word": "こと",
-                "gloss": "matter; thing"
+                "gloss": "matter; thing",
+		"gloss-morph": "words=NOM",
+		"gloss-zh": "语言",
+		"gloss-zh-morph": "语言=NOM"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "飽か",
-                "gloss": "be satisfied.NEG.BASE"
+                "gloss": "be satisfied.NEG.BASE",
+		"gloss-morph": "be.enough-THM",
+		"gloss-zh": "足够",
+		"gloss-zh-morph": "足够-THM"
               },
               {
                 "word": "ね",
-                "gloss": "NEG.REALIS.F"
+                "gloss": "NEG.REALIS.F",
+		"gloss-morph": "=NEG-INC",
+		"gloss-zh": "不",
+		"gloss-zh-morph": "=NEG-INC"
               },
               {
                 "word": "ば",
-                "gloss": "REASON"
+                "gloss": "REASON",
+		"gloss-morph": "=XCD",
+		"gloss-zh": "因此",
+		"gloss-zh-morph": "=XCD"
               }
             ]
           },
           {
             "phrase": "今ひとつ",
             "gloss": "now another; one more",
+	    "words-gloss": "now one.more",
+	    "gloss-zh": "现在（又）一首",
+	    "gloss-zh-morph": "现在 一首",
             "words": [
               {
                 "word": "今",
-                "gloss": "now"
+                "gloss": "now",
+		"gloss-morph": "now",
+		"gloss-zh": "现在",
+		"gloss-zh-morph": "现在"
               },
               {
                 "word": "ひとつ",
-                "gloss": "one more; another"
+                "gloss": "one more; another",
+		"gloss-morph": "one.more",
+		"gloss-zh": "（又）一首",
+		"gloss-zh-morph": "一"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "一首では物足りなかったので、もう一首詠んだのだろう。",
-        "translation-en-natural": "Since one poem wasn't enough, they composed another."
+        "translation-en-natural": "Since one poem wasn't enough, they composed another.",
+	"translation-zh-natural": "一首和歌说不尽心中苦闷，因此又咏了一首。"
       },
       {
         "date": "20250524",
@@ -30736,102 +31155,169 @@
         "koutei-yamagen": "とくと思ふ/船なやますは/我がために/水のこころの/あさきなりけり",
         "translation-ja": "早くと思う、船を悩ますのは、私のためで、水の心が浅いからである。",
         "translation-en": "I think 'quickly'; what troubles the boat is because of me, for the water's heart is shallow.",
+	"translation-zh": "想着快点的/船，（把它）困住的是/因为我/水之心/是浅的",
         "phrase-gloss": [
           {
             "phrase": "とくと思ふ",
             "gloss": "I think 'quickly'; I think hastily",
+	    "words-gloss": "quick-ADV=CMP think-ADN",
+	    "gloss-zh": "想着快点的",
+	    "gloss-zh-morph": "快-ADV=CMP 想-ADN",
             "words": [
               {
                 "word": "とく",
-                "gloss": "quickly; soon"
+                "gloss": "quickly; soon",
+		"gloss-morph": "quick-ADV",
+		"gloss-zh": "快点",
+		"gloss-zh-morph": "快-ADV"
               },
               {
                 "word": "と",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-morph": "=CMP",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=CMP"
               },
               {
                 "word": "思ふ",
-                "gloss": "think"
+                "gloss": "think",
+		"gloss-morph": "think-ADN",
+		"gloss-zh": "想",
+		"gloss-zh-morph": "想-ADN"
               }
             ]
           },
           {
             "phrase": "船なやますは",
             "gloss": "what troubles the boat is",
+	    "words-gloss": "boat trouble-THM+CAU.NL=TOP",
+	    "gloss-zh": "船，（把它）困住的是",
+	    "gloss-zh-morph": "船 困住-THM+CAU.NL=TOP",
             "words": [
               {
                 "word": "船",
-                "gloss": "boat"
+                "gloss": "boat",
+		"gloss-morph": "boat",
+		"gloss-zh": "船",
+		"gloss-zh-morph": "船"
               },
               {
                 "word": "なやます",
-                "gloss": "trouble; distress"
+                "gloss": "trouble; distress",
+		"gloss-morph": "trouble-THM+CAU.NL",
+		"gloss-zh": "使...困住的",
+		"gloss-zh-morph": "困住-THM+CAU.NL"
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "是",
+		"gloss-zh-morph": "=TOP"
               }
             ]
           },
           {
             "phrase": "我がために",
             "gloss": "because of me; for my sake",
+	    "words-gloss": "1SG=GEN reason=DAT",
+	    "gloss-zh": "因为我",
+	    "gloss-zh-morph": "1SG=GEN 原因=DAT",
             "words": [
               {
                 "word": "我",
-                "gloss": "I; myself"
+                "gloss": "I; myself",
+		"gloss-morph": "1SG",
+		"gloss-zh": "我",
+		"gloss-zh-morph": "1SG"
               },
               {
                 "word": "が",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "ため",
-                "gloss": "sake; reason"
+                "gloss": "sake; reason",
+		"gloss-morph": "reason",
+		"gloss-zh": "原因",
+		"gloss-zh-morph": "原因"
               },
               {
                 "word": "に",
-                "gloss": "DAT"
+                "gloss": "DAT",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "因为",
+		"gloss-zh-morph": "=DAT"
               }
             ]
           },
           {
             "phrase": "水のこゝろの",
             "gloss": "the heart of the water; the nature of the water",
+	    "words-gloss": "water=GEN heart=GEN",
+	    "gloss-zh": "水之心的",
+	    "gloss-zh-morph": "水=GEN 心=GEN",
             "words": [
               {
                 "word": "水",
-                "gloss": "water"
+                "gloss": "water",
+		"gloss-morph": "water",
+		"gloss-zh": "水",
+		"gloss-zh-morph": "水"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "之",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "こゝろ",
-                "gloss": "heart; mind"
+                "gloss": "heart; mind",
+		"gloss-morph": "heart",
+		"gloss-zh": "心",
+		"gloss-zh-morph": "心"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               }
             ]
           },
           {
             "phrase": "あさきなりけり",
             "gloss": "was shallow; turned out to be shallow",
+	    "words-gloss": "shallow-ADN.NL COP-ADV+RET-CCL",
+	    "gloss-zh": "是浅的",
+	    "gloss-zh-morph": "浅-ADN.NL COP-ADV+RET-CCL",
             "words": [
               {
                 "word": "あさき",
-                "gloss": "shallow"
+                "gloss": "shallow",
+		"gloss-morph": "shallow-ADN.NL",
+		"gloss-zh": "浅的",
+		"gloss-zh-morph": "浅-ADN.NL"
               },
               {
                 "word": "なり",
-                "gloss": "be.ADV.F"
+                "gloss": "be.ADV.F",
+		"gloss-morph": "COP-ADV",
+		"gloss-zh": "是",
+		"gloss-zh-morph": "COP-ADV"
               },
               {
                 "word": "けり",
-                "gloss": "PST.EXCL"
+                "gloss": "PST.EXCL",
+		"gloss-morph": "+RET-CCL",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "+RET-CCL"
               }
             ]
           }
@@ -30839,6 +31325,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "早くと思って、船を悩ませているのは、私のせいで、水の状態が浅いからだったのだ。",
         "translation-en-natural": "I think 'quickly'; what troubles the boat is because of me, for the water's nature is shallow.",
+	"translation-zh-natural": "把心切归乡的船困住了的，是我。因为我的平庸让水之心变浅了。",
         "notes-ja": [
           {
             "title": "省略の多さと背景の補完",
@@ -30882,7 +31369,29 @@
             "title": "Balancing Literal, Sense, and Annotated Translation",
             "note": "Translating waka involves balancing literal (word-for-word), sense (meaning-based), and annotated (contextual explanatory) approaches. Literal translations preserve structural clarity but can obscure meaning. Sense translations enhance readability but risk erasing poetic gaps. Annotated translations provide depth but increase reader burden. The translator's choices depend on the target audience and purpose."
           }
-        ]
+        ],
+	"notes-zh": [
+	  {
+	    "title": "省略之多与背景补全",
+	    "note": "和歌在31音的短小形式中，常常省略主语、宾语、因果关系等。因此，译者必须从上下文、时代背景以及和歌的整体流动中推断并补全这些省略的要素。这超出了简单的词典式翻译的范畴。"
+	  },
+	  {
+	    "title": "拟人化与诗意表达",
+	    "note": "和歌中常用拟人化手法，赋予自然或事物以“心”“意志”“情感”等属性。例如“水之心”不仅指物理状态，更具有诗意和心理层面的意义。译者需权衡是保留这种拟人化，还是转换为更符合现代语言习惯的表达。"
+	  },
+	  {
+	    "title": "多义性与解读空间",
+	    "note": "和歌的一大特点是其表达的多义性，允许多重意义共存，而不强求单一解读。译者需决定如何传达这种多义性，或选择其中一种解读，但过度意译可能会削弱原诗的层次感和魅力。"
+	  },
+	  {
+	    "title": "文化与历史隔阂",
+	    "note": "和歌依赖于当时人们共同理解的风物、景象和情感，这些对于现代或跨文化读者来说可能较为陌生。译者需决定是保持原貌、添加注释，还是进行文化适应，以便读者理解。"
+	  },
+	  {
+	    "title": "直译、意译与注释译的平衡",
+	    "note": "和歌翻译需要在直译（逐字）、意译（意群）和注释译（附加解释）之间取得平衡。直译保留结构但可能晦涩难懂；意译易于理解但可能丧失诗意空白；注释译提供深度但增加阅读负担。选择哪种方法取决于目标读者和翻译目的。"
+	  }
+	]
       },
       {
         "date": "20250524",
@@ -30892,99 +31401,161 @@
         "koutei-yamagen": "この歌は、みやこ近くなりぬるよろこびに堪へずして言へるなるべし。",
         "translation-ja": "この歌は、都が近くなった喜びに耐えられずに言ったのだろう。",
         "translation-en": "This poem must have been said because of an inability to contain the joy of nearing the capital.",
+	"translation-zh": "此歌，大概是因为抑制不住京都变近了的喜悦而咏的吧。",
         "phrase-gloss": [
           {
             "phrase": "この歌は",
             "gloss": "this poem is; as for this poem",
+	    "gloss-morph": "DEM=GEN poem=TOP",
+	    "gloss-zh": "这首和歌是",
+	    "gloss-zh-morph": "DEM=GEN 和歌=TOP",
             "words": [
               {
                 "word": "この",
-                "gloss": "this"
+                "gloss": "this",
+		"gloss-morph": "DEM=GEN",
+		"gloss-zh": "这",
+		"gloss-zh-morph": "DEM=GEN"
               },
               {
                 "word": "歌",
-                "gloss": "poem"
+                "gloss": "poem",
+		"gloss-morph": "poem",
+		"gloss-zh": "和歌",
+		"gloss-zh-morph": "和歌"
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=TOP"
               }
             ]
           },
           {
             "phrase": "みやこ近くなりぬる",
             "gloss": "has come near to the capital",
+	    "words-gloss": "capital near-ADV become-ADV+MNF-ADN",
+	    "gloss-zh": "京都变近了的",
+	    "gloss-zh-morph": "京都 近的-ADV 变-ADV+MNF-ADN",
             "words": [
               {
                 "word": "みやこ",
-                "gloss": "capital"
+                "gloss": "capital",
+		"gloss-morph": "capital",
+		"gloss-zh": "京都",
+		"gloss-zh-morph": "京都"
               },
               {
                 "word": "近く",
-                "gloss": "near"
+                "gloss": "near",
+		"gloss-morph": "near-ADV",
+		"gloss-zh": "近地",
+		"gloss-zh-morph": "近的-ADV"
               },
               {
                 "word": "なり",
-                "gloss": "become.ADV.F"
+                "gloss": "become.ADV.F",
+		"gloss-morph": "become-ADV",
+		"gloss-zh": "变",
+		"gloss-zh-morph": "变-ADV"
               },
               {
                 "word": "ぬる",
-                "gloss": "PERF"
+                "gloss": "PERF",
+		"gloss-morph": "+MNF-ADN",
+		"gloss-zh": "了的",
+		"gloss-zh-morph": "+MNF-ADN"
               }
             ]
           },
           {
             "phrase": "よろこびに堪へずして",
             "gloss": "unable to contain the joy; unable to endure the joy",
+	    "words-gloss": "be.joyful-NML=DAT endure-THM=NEG.ADV+do-ADV=SEQ",
+	    "gloss-zh": "抑制不住喜悦而",
+	    "gloss-zh-morph": "喜悦-NML=DAT 忍受-THM=NEG.ADV+做-ADV=SEQ",
             "words": [
               {
                 "word": "よろこび",
-                "gloss": "joy; delight"
+                "gloss": "joy; delight",
+		"gloss-morph": "be.joyful-NML",
+		"gloss-zh": "喜悦",
+		"gloss-zh-morph": "喜悦的-NML"
               },
               {
                 "word": "に",
-                "gloss": "DAT"
+                "gloss": "DAT",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=DAT"
               },
               {
                 "word": "堪へ",
-                "gloss": "endure.NEG.BASE"
+                "gloss": "endure.NEG.BASE",
+		"gloss-morph": "endure-THM",
+		"gloss-zh": "忍受",
+		"gloss-zh-morph": "忍受-THM"
               },
               {
                 "word": "ず",
-                "gloss": "NEG"
+                "gloss": "NEG",
+		"gloss-morph": "=NEG.ADV",
+		"gloss-zh": "不能",
+		"gloss-zh-morph": "=NEG.ADV"
               },
               {
                 "word": "して",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "+do-ADV=SEQ",
+		"gloss-zh": "而",
+		"gloss-zh-morph": "+做-ADV=SEQ"
               }
             ]
           },
           {
             "phrase": "言へるなるべし",
             "gloss": "must have been said; must have been uttered",
+	    "words-gloss": "say-INC+STA-ADN.NL COP-ADN NEC-CCL",
+	    "gloss-zh": "应该是咏了",
+	    "gloss-zh-morph": "说-INC+STA-ADN.NL COP-ADN NEC-CCL",
             "words": [
               {
                 "word": "言へ",
-                "gloss": "say.REALIS.F"
+                "gloss": "say.REALIS.F",
+		"gloss-morph": "say-INC",
+		"gloss-zh": "说",
+		"gloss-zh-morph": "说-INC"
               },
               {
                 "word": "る",
-                "gloss": "PERF"
+                "gloss": "PERF",
+		"gloss-morph": "+STA-ADN.NL",
+		"gloss-zh": "了的",
+		"gloss-zh-morph": "+STA-ADN.NL"
               },
               {
-                "word": "なり",
-                "gloss": "become.ADV.F"
+                "word": "なる",
+                "gloss": "become.ADV.F",
+		"gloss-morph": "COP-ADN",
+		"gloss-zh": "是",
+		"gloss-zh-morph": "COP-ADN"
               },
               {
                 "word": "べし",
-                "gloss": "should; must; probably"
+                "gloss": "should; must; probably",
+		"gloss-morph": "NEC-CCL",
+		"gloss-zh": "应该",
+		"gloss-zh-morph": "NEC-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "この歌は、都が近くなった嬉しさを抑えきれずに詠んだものなのだろう。",
-        "translation-en-natural": "This poem was probably composed out of the uncontrollable joy of nearing the capital."
+        "translation-en-natural": "This poem was probably composed out of the uncontrollable joy of nearing the capital.",
+	"translation-zh-natural": "这首和歌，应该是他因为抑制不住京都变近了的喜悦而咏的吧。"
       },
       {
         "date": "20250525",
@@ -30994,61 +31565,96 @@
         "koutei-yamagen": "淡路の御の歌におとれり。",
         "translation-ja": "淡路の御の歌に劣っている。",
         "translation-en": "It is inferior to the song of the Awaji lady.",
+	"translation-zh": "劣于淡路的老女的和歌。",
         "phrase-gloss": [
           {
             "phrase": "淡路の",
             "gloss": "the lady of Awaji; the old woman of Awaji",
+	    "gloss-morph": "Awaji=GEN",
+	    "gloss-zh": "淡路的",
+	    "gloss-zh-morph": "淡路=GEN",
             "words": [
               {
                 "word": "淡路",
-                "gloss": "Awaji (Island)"
+                "gloss": "Awaji (Island)",
+		"gloss-morph": "Awaji",
+		"gloss-zh": "淡路",
+		"gloss-zh-morph": "淡路"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               }
             ]
           },
           {
             "phrase": "御の歌に",
             "gloss": "; in comparison to the song",
+	    "words-gloss": "woman.RSP=GEN poem=DAT",
+	    "gloss-zh": "老女的和歌",
+	    "gloss-zh-morph": "老女.RSP=GEN 和歌=DAT",
             "words": [
               {
                 "word": "御",
-                "gloss": "honorific"
+                "gloss": "honorific",
+		"gloss-morph": "woman.RSP",
+		"gloss-zh": "老女",
+		"gloss-zh-morph": "老女.RSP"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "歌",
-                "gloss": "song; poem"
+                "gloss": "song; poem",
+		"gloss-morph": "poem",
+		"gloss-zh": "和歌",
+		"gloss-zh-morph": "和歌"
               },
               {
                 "word": "に",
-                "gloss": "DAT; in comparison to"
+                "gloss": "DAT; in comparison to",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "于",
+		"gloss-zh-morph": "=DAT"
               }
             ]
           },
           {
             "phrase": "おとれり",
             "gloss": "is inferior; has fallen behind",
+	    "words-gloss": "be.inferior-INC+STA-CCL",
+	    "gloss-zh": "劣",
+	    "gloss-zh-morph": "劣-INC+STA-CCL",
             "words": [
               {
                 "word": "おとれ",
-                "gloss": "be inferior.REALIS.F"
+                "gloss": "be inferior.REALIS.F",
+		"gloss-morph": "be.inferior-INC",
+		"gloss-zh": "劣",
+		"gloss-zh-morph": "劣-INC"
               },
               {
                 "word": "り",
-                "gloss": "PERF"
+                "gloss": "PERF",
+		"gloss-morph": "+STA-CCL",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "+STA-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "淡路の老女の歌に負けている。",
-        "translation-en-natural": "It falls short compared to the song of the old woman from Awaji."
+        "translation-en-natural": "It falls short compared to the song of the old woman from Awaji.",
+	"translation-zh-natural": "这首和歌，劣于淡路的老女的和歌。"
       },
       {
         "date": "20250525",
@@ -31058,93 +31664,152 @@
         "koutei-yamagen": "ねたき、いはざらましものをとくやしがるうちによるになりてねにけり。",
         "translation-ja": "「いまいましい、言わなければよかったのに」と悔しがっているうちに、夜になり、寝てしまった。",
         "translation-en": "Lamenting, 'How frustrating! I should not have said it,' and while doing so, night fell and I went to sleep.",
+	"translation-zh": "懊恼着“可恶的，明明不说就好了”的时候，变晚上了，睡了。",
         "phrase-gloss": [
           {
             "phrase": "ねたき、いはざらましものを",
             "gloss": "'How frustrating! I should not have said it;'",
+	    "words-gloss": "frustrating-ADN say-THM=NEG.VBL-THM+CTF.ADN=CON",
+	    "gloss-zh": "可恶的，明明不说就好了",
+	    "gloss-zh-morph": "可恶的-ADN 说-THM=NEG.VBL-THM+CTF.ADN=CON",
             "words": [
               {
                 "word": "ねたき",
-                "gloss": "frustrating; vexing"
+                "gloss": "frustrating; vexing",
+		"gloss-morph": "frustrating-ADN",
+		"gloss-zh": "可恶的",
+		"gloss-zh-morph": "可恶的-ADN"
               },
               {
                 "word": "いは",
-                "gloss": "say.NEG.BASE"
+                "gloss": "say.NEG.BASE",
+		"gloss-morph": "say-THM",
+		"gloss-zh": "说",
+		"gloss-zh-morph": "说-THM"
               },
               {
                 "word": "ざら",
-                "gloss": "NEG.NEG.BASE"
+                "gloss": "NEG.NEG.BASE",
+		"gloss-morph": "=NEG.VBL-THM",
+		"gloss-zh": "不",
+		"gloss-zh-morph": "=NEG.VBL-THM"
               },
               {
                 "word": "まし",
-                "gloss": "counterfactual"
+                "gloss": "counterfactual",
+		"gloss-morph": "+CTF.ADN",
+		"gloss-zh": "就好了",
+		"gloss-zh-morph": "+CTF.ADN"
               },
               {
                 "word": "ものを",
-                "gloss": "although; but"
+                "gloss": "although; but",
+		"gloss-morph": "=CON",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=CON"
               }
             ]
           },
           {
             "phrase": "とくやしがるうちに",
             "gloss": "while lamenting; while regretting",
+	    "words-gloss": "=CMP counterfactual-EMO-ADN interval=DAT",
+	    "gloss-zh": "在懊恼着的时候",
+	    "gloss-zh-morph": "=CMP 反事实-EMO-ADN 间隔=DAT",
             "words": [
               {
                 "word": "と",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-morph": "=CMP",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=CMP"
               },
               {
                 "word": "くやしがる",
-                "gloss": "lament; regret"
+                "gloss": "lament; regret",
+		"gloss-morph": "counterfactual-EMO-ADN",
+		"gloss-zh": "懊恼",
+		"gloss-zh-morph": "懊恼-EMO-ADN"
               },
               {
                 "word": "うち",
-                "gloss": "inside; while"
+                "gloss": "inside; while",
+		"gloss-morph": "interval",
+		"gloss-zh": "时候",
+		"gloss-zh-morph": "时候"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "在",
+		"gloss-zh-morph": "在"
               }
             ]
           },
           {
             "phrase": "よるになりて寢にけり",
             "gloss": "night fell and (I) went to sleep",
+	    "words-gloss": "night=DAT become-ADV=SEQ sleep-ADV+MNF-ADV+RET-CCL",
+	    "gloss-zh": "到了晚上，睡了",
+	    "gloss-zh-morph": "晚上=DAT 变-ADV=SEQ 睡-ADV+MNF-ADV+RET-CCL",
             "words": [
               {
                 "word": "よる",
-                "gloss": "night"
+                "gloss": "night",
+		"gloss-morph": "night",
+		"gloss-zh": "晚上",
+		"gloss-zh-morph": "晚上"
               },
               {
                 "word": "に",
-                "gloss": "DAT"
+                "gloss": "DAT",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=DAT"
               },
               {
                 "word": "なり",
-                "gloss": "become"
+                "gloss": "become",
+		"gloss-morph": "become-ADV",
+		"gloss-zh": "变",
+		"gloss-zh-morph": "变-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=SEQ"
               },
               {
                 "word": "寢",
-                "gloss": "sleep"
+                "gloss": "sleep",
+		"gloss-morph": "sleep-ADV",
+		"gloss-zh": "睡",
+		"gloss-zh-morph": "睡-ADV"
               },
               {
                 "word": "に",
-                "gloss": "DAT"
+                "gloss": "DAT",
+		"gloss-morph": "+MNF-ADV",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "+MNF-ADV"
               },
               {
                 "word": "けり",
-                "gloss": "PST.EXCL"
+                "gloss": "PST.EXCL",
+		"gloss-morph": "+RET-CCL",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "+RET-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "「悔しい、言わなければよかったのに」と悔しがっているうちに、夜になり、寝てしまった。",
-        "translation-en-natural": "'How frustrating! I shouldn't have said that,' I kept lamenting, and before I knew it, night fell and I went to sleep."
+        "translation-en-natural": "'How frustrating! I shouldn't have said that,' I kept lamenting, and before I knew it, night fell and I went to sleep.",
+	"translation-zh-natural": "他懊恼着“可恶的，明明不说就好了”，不知不觉天就黑了，然后睡了过去。"
       },
       {
         "date": "20250525",
