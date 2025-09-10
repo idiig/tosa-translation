@@ -262,7 +262,7 @@
                 "gloss": "GEN",
 		"gloss-morph": "=GEN",
 		"gloss-zh": "GEN",
-		"gloss-morph-zh": "=GEN",
+		"gloss-morph-zh": "=GEN"
               },
               {
                 "word": "年",
@@ -481,7 +481,7 @@
                 "gloss": "attach",
 		"gloss-morph": "attach-CCL?",
 		"gloss-zh": "下",
-		"gloss-morph-zh": "下-CCL?",
+		"gloss-morph-zh": "下-CCL?"
               }
             ]
           }
@@ -573,7 +573,7 @@
                 "gloss": "end.ADV.F",
 		"gloss-morph": "end-ADV",
 		"gloss-zh": "结束",
-		"gloss-morph-zh": "结束-ADV",
+		"gloss-morph-zh": "结束-ADV"
               },
               {
                 "word": "ゝ",
@@ -610,7 +610,7 @@
                 "gloss": "matters",
 		"gloss-morph": "matter=PL",
 		"gloss-zh": "事",
-		"gloss-morph-zh": "事=PL",
+		"gloss-morph-zh": "事=PL"
               },
               {
                 "word": "皆",
@@ -631,7 +631,7 @@
                 "gloss": "finish.ADV.F",
 		"gloss-morph": "+finish-ADV",
 		"gloss-zh": "完-SEQ?",
-		"gloss-morph-zh": "+完-ADV",
+		"gloss-morph-zh": "+完-ADV"
               },
               {
                 "word": "て",
@@ -668,14 +668,14 @@
                 "gloss": "take.ADV.F",
 		"gloss-morph": "take-ADV=SEQ",
 		"gloss-zh": "取得-SEQ?",
-		"gloss-morph-zh": "取得-ADV=SEQ",
+		"gloss-morph-zh": "取得-ADV=SEQ"
               },
               {
                 "word": "て",
                 "gloss": "CONJ",
 		"gloss-morph": "=SEQ?",
 		"gloss-zh": "SEQ?",
-		"gloss-morph-zh": "=SEQ?",
+		"gloss-morph-zh": "=SEQ?"
               },
               {
                 "word": "住む",
@@ -1127,7 +1127,7 @@
                 "gloss": "QUOT",
 		"gloss-morph": "=CMP",
 		"gloss-zh": "QUOT",
-		"gloss-morph-zh": "=CMP",
+		"gloss-morph-zh": "=CMP"
               }
             ]
           },
@@ -1317,7 +1317,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "藤原の言實が、船の旅なのに、馬の餞別を贈った。",
         "translation-en-natural": "Fujiwara no Tokizane sent off a farewell gift called 'Uma no Hanamuke' (horse nose heading)—even though it was a sea voyage. Go figure.",
-	"translation-zh-natural": "虽说国司走的是海路，藤原言实却为他操办了名为“马饯”的送别仪式。",
+	"translation-zh-natural": "虽说国司走的是海路，藤原言实却为他操办了名为“马饯”的送别仪式。"
       },
       {
         "date": [
@@ -1778,7 +1778,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "この人物は、地方では特に重用されるような者ではなかった。",
         "translation-en-natural": "This fellow was not someone who held an important position in the province.",
-	"translation-zh-natural": "这个人并非该地受重用的人。",
+	"translation-zh-natural": "这个人并非该地受重用的人。"
       },
       {
         "date": [
@@ -2396,7 +2396,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "二十四日、講師が馬の餞別のためにお越しになった。",
         "translation-en-natural": "On the 24th, the lecturer came to present a farewell gift involving a horse.",
-	"translation-zh-natural": "在二十四日，高僧前来参加送行仪式。",
+	"translation-zh-natural": "在二十四日，高僧前来参加送行仪式。"
       },
       {
         "date": [
@@ -2540,7 +2540,7 @@
 		"gloss-morph": "person",
 		"gloss-zh": "者",
 		"gloss-morph-zh": "者"
-	      },
+	      }
             ]
           },
           {
@@ -2952,7 +2952,7 @@
                 "gloss": "twentith.day.plus+",
 		"gloss-morph": "twentith.day.plus+",
 		"gloss-zh": "廿",
-		"gloss-morph-zh": "廿+",
+		"gloss-morph-zh": "廿+"
               },
 	      {
                 "word": "六日",
@@ -3108,7 +3108,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "二十六日、また守の館で酒宴が催され、騒ぎもあって、男たちにまで贈り物が配られた。",
         "translation-en-natural": "On the 26th, there was yet another banquet at the governor's residence, with lively revelry, and even the men received gifts.",
-	"translation-zh-natural": "在二十六日，仍在国守的宅邸举行了酒宴，宅主吵吵闹闹，甚至给男士们也送了礼",
+	"translation-zh-natural": "在二十六日，仍在国守的宅邸举行了酒宴，宅主吵吵闹闹，甚至给男士们也送了礼"
       },
       {
         "date": [
@@ -3196,7 +3196,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "みんな声を張り上げて、漢詩を唱えた。",
         "translation-en-natural": "They all raised their voices and recited a Chinese poem.",
-	"translation-zh-natural": "大家都高声吟诵了汉诗。",
+	"translation-zh-natural": "大家都高声吟诵了汉诗。"
       },
       {
         "date": [
@@ -6454,6 +6454,8 @@
 		"word": "ば",
 		"gloss": "COND",
 		"gloss-morph": "=XCD",
+		"gloss-zh": "于是",
+		"gloss-morph-zh": "=XCD"
 	      }
 	    ]
 	  },
@@ -9439,8 +9441,17 @@
             "title": "Difference between '押年魚' and '押鮎'",
             "note": "While Kikuchi's edition uses '押鮎' (pressed sweetfish), it is more appropriate to follow the original transcription '押年魚.' The term '押年魚' emphasizes the wordplay. Changing it to '押鮎' diminishes the intended humor and nuance of Ki no Tsurayuki's writing."
           }
-        ]
-      },
+        ],
+	"notes-zh": [
+	  {
+	    "title": "文字游戏",
+	    "note": "这句话包含了“押年魚”（压制的甜鱼）和“口惜しい鮎”（可惜的甜鱼）之间的文字游戏。纪贯之想象着被人吸吮的甜鱼可能会感到“可惜”。"
+	  },
+	  {
+	    "title": "‘押年魚’与‘押鮎’的区别",
+	    "note": "虽然菊地版使用了‘押鮎’（压制的甜鱼），但更适合遵循原始的转录‘押年魚’。‘押年魚’这个词强调了文字游戏。将其改为‘押鮎’会削弱纪贯之写作中所意图的幽默和细微之处。"
+	  }
+	]
       },
       {
         "date": "20250130",
@@ -9531,7 +9542,7 @@
 	"translation-zh": "四日，因风起，不能出发。",
         "translation-ja-natural": "四日、風が強く吹いて、港を出ることができません。",
         "translation-en-natural": "On the fourth, we can't set sail because of the strong wind.",
-	"translation-zh-natural": "第四天，由于风大，无法出航。",
+	"translation-zh-natural": "第四天，由于风大，无法出航。"
       },
       {
         "date": "20250206",
@@ -10177,7 +10188,7 @@
 	"translation-zh": "今宵的月亮入海。",
         "translation-ja-natural": "今夜の月は、海に沈んでいきました。",
         "translation-en-natural": "Tonight's moon has set into the sea.",
-	"translation-zh-natural": "今晚的月亮沉入海中。",
+	"translation-zh-natural": "今晚的月亮沉入海中。"
       },
       {
         "date": "20250303",
@@ -10326,7 +10337,7 @@
 	"translation-zh": "自此，现在驶船离开前往。",
         "translation-ja-natural": "ここから今、船を漕ぎ出して陸から離れていきます。",
         "translation-en-natural": "Now, they row away from here and leave the shore.",
-	"translation-zh-natural": "从这里开始，现在驶船离开岸边，前往远方。",
+	"translation-zh-natural": "从这里开始，现在驶船离开岸边，前往远方。"
       },
       {
         "date": "20250310",
@@ -10339,7 +10350,7 @@
 	"translation-zh": "想着送行，这些人们跟随而来了。",
         "translation-ja-natural": "これを見送ろうとして、人々はあとを追いかけてきました。",
         "translation-en-natural": "Wishing to see them off, the people hurried after them.",
-	"translation-zh-natural": "为了送行，这些人们追了上来。",
+	"translation-zh-natural": "为了送行，这些人们追了上来。"
       },
       {
         "date": "20250311",
@@ -10378,7 +10389,7 @@
 	"translation-zh": "岸可能也有要说的话，船可能也有所想之事，但没有意义。",
         "translation-ja-natural": "岸にいる人たちにも言いたいことはあるだろうし、船にいる人たちにも思うことはあるけれど、どうにもなりません。",
         "translation-en-natural": "Those on the shore may have things to say, and those on the boat may have thoughts of their own, but nothing can be done.",
-	"translation-zh-natural": "岸上的人可能有话要说，船上的人也有自己的想法，但一切都是徒劳的。",
+	"translation-zh-natural": "岸上的人可能有话要说，船上的人也有自己的想法，但一切都是徒劳的。"
       },
       {
         "date": "20250313",
@@ -10623,7 +10634,7 @@
 	"translation-zh": "那唱的歌是",
         "translation-ja-natural": "船人が歌う歌は、",
         "translation-en-natural": "The song they sing is...",
-	"translation-zh-natural": "船夫们唱的歌是",
+	"translation-zh-natural": "船夫们唱的歌是"
       },
       {
         "date": "20250315",
@@ -10863,7 +10874,7 @@
 	"translation-zh": "此般，听了船夫所唱的歌，",
         "translation-ja-natural": "船人たちが歌う歌を聞いて、",
         "translation-en-natural": "Listening to the song sung by the boatmen,",
-	"translation-zh-natural": "就这样，听着船夫们唱的歌，",
+	"translation-zh-natural": "就这样，听着船夫们唱的歌，"
       },
       {
         "date": "20250315",
@@ -11024,7 +11035,7 @@
 	"translation-zh": "在这样之间，夜晚过去了，洗了手，做了平常的事等，到了中午。",
         "translation-ja-natural": "こうしているうちに夜が明け、手を洗ったり、いつものことをしたりしているうちに昼になった。",
         "translation-en-natural": "In the meantime, the dawn broke, and as people washed their hands and did their usual things, it became noon.",
-	"translation-zh-natural": "在这期间，天亮了，人们洗了手，做了平常的事，到了中午。",
+	"translation-zh-natural": "在这期间，天亮了，人们洗了手，做了平常的事，到了中午。"
       },
       {
         "date": "20250318",
@@ -11037,7 +11048,7 @@
 	"translation-zh": "现在，到了名为羽根之地。",
         "translation-ja-natural": "今、羽根という所に着きました。",
         "translation-en-natural": "Now, I've arrived at a place called Hane.",
-	"translation-zh-natural": "现在，我们来到了一个叫羽根的地方。",
+	"translation-zh-natural": "现在，我们来到了一个叫羽根的地方。"
       },
       {
         "date": "20250318",
@@ -11063,7 +11074,7 @@
 	"translation-zh": "因为是幼小的孩子说的话，人们大笑。",
         "translation-ja-natural": "幼い子がそんなことを言うので、人々は笑った。",
         "translation-en-natural": "Since a little child said that, people laughed.",
-	"translation-zh-natural": "因为是小孩子说的话，人们都笑了。",
+	"translation-zh-natural": "因为是小孩子说的话，人们都笑了。"
       },
       {
         "date": "20250318",
@@ -11115,7 +11126,7 @@
 	"translation-zh": "男人也女人也有想着“无论如何快点到京城就好了”的心情，因此此歌虽然不好，但人们想着“确实”，没忘记。",
         "translation-ja-natural": "男も女も、なんとかして早く都へ帰りたいと願っていたので、この歌が特に優れているわけではないが、確かにその通りだと思い、皆が心に留めた。",
         "translation-en-natural": "Both men and women longed to return to the capital as soon as possible, so while this poem was not particularly outstanding, they felt it truly resonated and kept it in their hearts.",
-	"translation-zh-natural": "男人和女人都渴望尽快回到京城，所以虽然这首歌并不特别出色，但他们确实觉得很有道理，并且铭记在心。",
+	"translation-zh-natural": "男人和女人都渴望尽快回到京城，所以虽然这首歌并不特别出色，但他们确实觉得很有道理，并且铭记在心。"
       },
       {
         "date": "20250319",
@@ -11281,8 +11292,7 @@
         "notes-ja": {
           "視覚的錯覚と空間の曖昧さ": "「雲もみな波とぞ見ゆる」という描写は、空と海の境界が曖昧になり、視覚的錯覚を引き起こす状況を表している。船旅の途中における自然の混然とした風景が詠まれており、旅人の戸惑いや不安を暗示している。",
           "海士もがなの意味": "「海士もがな」は『海士がいてくれたらなあ』という願望を表す表現。知識や経験をもつ海の案内人に尋ねたいという思いが込められており、自らの無力さと外界の不明瞭さへの反応が読み取れる。",
-          "問ひて知るべくの意図": "『いづれか海と問ひて知るべく』は、混乱した風景に対してどれが本当の『海』であるのかを確認したいという
-意志を表している。ここでの『問ふ』という行為は、見えているものを言語化し確定しようとする、人間の知の働きの象徴でもある。",
+          "問ひて知るべくの意図": "『いづれか海と問ひて知るべく』は、混乱した風景に対してどれが本当の『海』であるのかを確認したいという意志を表している。ここでの『問ふ』という行為は、見えているものを言語化し確定しようとする、人間の知の働きの象徴でもある。",
           "翻訳上の工夫": "英訳では『which one was the real sea』と訳すことで、視覚的に判別できない状況を自然な英語で表現している。『fisherman』を単数形にすることで、象徴的な存在としての『海士』を際立たせている。",
           "文脈における意味": "この和歌は、旅のなかでの感覚の揺らぎや認識の不確かさを表すものであり、『土佐日記』全体に通底する『見ること・知ること・書くこと』の主題にも連なる一首である。"
         },
@@ -11348,8 +11358,9 @@
 	  "船上之解读": "“船には”意为“在船上”，表示限定的空间，即“在船内”或“在船上期间”。",
 	  "背景情况": "从后续的文章可以看出，当时人们害怕被海神掳走，因此避免穿着显眼的服装，这反映了当时的信仰和习俗。",
 	  "翻译上的补充": "无论是逐字翻译还是自然翻译，都没有明确性别，以忠实于原文的语气。"
-	},
-	{
+	}
+      },
+      {
         "date": "20250324",
         "id": 187,
         "text": "それは海の神に怖ぢてといひて、何の蘆蔭にことづけてほやのつまのいずしすしあはびをぞ心にもあらぬはぎにあげて見せける。",
@@ -11425,8 +11436,9 @@
 	  "“用米交换”的解读": "如果将其理解为“用米烹饪鲷鱼”，可能会引起误解，但从语境来看，它表示“用米作为代价换取鲷鱼”，体现了物品交换的行为。",
 	  "“落ちられぬ”的解读": "“落つ”在这里作为自动词，意为“结束斋戒”或“迎来斋戒结束”，“落ちられぬ”是可能助动词的形式，表示“能够结束斋戒”的意思，这是一种自然的解读。",
 	  "文化背景": "当时的船旅中，使用米等物资进行交换而非现金是很常见的。斋戒期结束后，食用肉类和鱼类的“斋戒结束”习俗在这里得到了体现，这段文字描绘了这一习俗的一个例子。"
-	},
-	{
+	}
+      },
+      {
         "date": "20250325",
         "id": 191,
         "text": "かゝる事なほありぬ。",
@@ -11466,7 +11478,7 @@
 	"translation-zh": "米、酒，常给。",
         "translation-ja-natural": "そのうち、米酒、しょっちゅうあたえた。",
         "translation-en-natural": "Before long, we often gave the oarsman rice and sake.",
-	"translation-zh-natural": "于是，国守经常给船夫米和酒。",
+	"translation-zh-natural": "于是，国守经常给船夫米和酒。"
       },
       {
         "date": "20250325",
@@ -11953,7 +11965,7 @@
 	"translation-zh": "风也应该会吹起来。",
         "translation-ja-natural": "風も吹くに違いない。",
         "translation-en-natural": "The wind must be blowing, huh.",
-	"translation-zh-natural": "接着肯定会起风。",
+	"translation-zh-natural": "接着肯定会起风。"
       },
       {
         "date": "20250331",
@@ -11966,7 +11978,7 @@
 	"translation-zh": "把船折返吧”，就回去了。",
         "translation-ja-natural": "「船を返してしまおう」と言って、戻ってきました。",
         "translation-en-natural": "They said, \"Let's turn the ship back,\" and turned back.",
-	"translation-zh-natural": "把船掉头吧”。我们就原路返回了。",
+	"translation-zh-natural": "把船掉头吧”。我们就原路返回了。"
       },
       {
         "date": "20250401",
@@ -11979,7 +11991,7 @@
 	"translation-zh": "这期间雨了起来。",
         "translation-ja-natural": "この間に雨が降りました。",
         "translation-en-natural": "It rained during this time.",
-	"translation-zh-natural": "在这段时间里下起了雨。",
+	"translation-zh-natural": "在这段时间里下起了雨。"
       },
       {
         "date": "20250401",
@@ -11992,7 +12004,7 @@
 	"translation-zh": "非常凄冷。",
         "translation-ja-natural": "とても情けない。",
         "translation-en-natural": "It is so miserable.",
-	"translation-zh-natural": "真是凄凉。",
+	"translation-zh-natural": "真是凄凉。"
       },
       {
         "date": "20250401",
@@ -12031,7 +12043,7 @@
 	"translation-zh": "此港，即使远看，即使近看，都很有情趣。",
         "translation-ja-natural": "この港の景色は遠くを見ても近くを見ても、とても風情があります。",
         "translation-en-natural": "The view from this harbor is full of charm, whether looking far or near.",
-	"translation-zh-natural": "这个港口，无论是远看还是近看，都别有一番风味。",
+	"translation-zh-natural": "这个港口，无论是远看还是近看，都别有一番风味。"
       },
       {
         "date": "20250402",
@@ -12064,8 +12076,9 @@
 	    "语法性与时间性的分离": "在即時文法中，语法判断（即是否正确）在句子内部完成，在句子的时间连锁中只有意义的连续性被保持。这使得即時文法能够兼顾发话单位的严格性和整个句子的灵活进展。",
 	    "非句的禁止": "即時文法虽然比调节文法更灵活，但并不允许非句。非句必须避免，只有自然且语法上成立的句子才能被输出，这一前提不会被破坏。"
 	  }
-	},
-	{
+	}
+      },
+      {
         "date": "20250403",
         "id": 224,
         "text": "男どちは心やりにやあらむ、からうたなどいふべし。",
@@ -12086,7 +12099,7 @@
         "koutei-yamagen": "船も出ださで、いたづらなれば、ある人の詠める、",
         "translation-ja": "船も出さず、むなしく過ごしていたので、ある人の詠んだ歌は、",
         "translation-en": "Since the ship was not set out and it was idle time, a certain person's composed poem is:",
-	"translation-zh": "也没出船，出于无所事事，有人咏唱，",,
+	"translation-zh": "也没出船，出于无所事事，有人咏唱，",
         "translation-ja-natural": "船も出せず、何もすることがないので、ある人が詠んだその歌は、",
         "translation-en-natural": "Since the ship is still unable to set sail and there is nothing to do, a poem that a certain person composed is...",
 	"translation-zh-natural": "也没有出船，出于没事可做，有人作了这样一首歌，"
@@ -12188,8 +12201,9 @@
 	    "複数形を使う場合": "当明确描写多只鸟的行为（如飞翔、鸣叫）且强调其集体存在时，使用复数形式'birds'更为合适。",
 	    "fish / sheep との違い": "'fish'和'sheep'在英语中常作为群体名词处理，单复同形。而'bird'因其个体差异和种类差异较强，通常使用复数形式。但在诗意或象征性语境中，单数形式也能有效发挥作用。"
 	  }
-	},
-	{
+	}
+      },
+      {
         "date": "20250405",
         "id": 230,
         "text": "この歌どもを少しよろしと聞きて、船のをさしける翁、月頃の苦しき心やりに詠める、",
@@ -12270,7 +12284,7 @@
         "translation-en": "Even if I try to imitate, I cannot.",
 	"translation-zh": "虽然模仿了，没能模仿。",
         "translation-ja-natural": "真似しようとしても、真似できません。",
-        "translation-en-natural": "Even if I try to imitate, I cannot.",,
+        "translation-en-natural": "Even if I try to imitate, I cannot.",
 	"translation-zh-natural": "虽然想模仿，但就是模仿不了。",
         "notes-ja": {
           "まねべどもえまねばず": "この発言は、前に詠まれた二首、語り手が自分ではとても真似できないと感じたことを示す。船旅が難航しているので、気の効いた歌を詠むことができないという意味である。"
@@ -12326,8 +12340,9 @@
 	  "imperative-like perfective and 'ta'": "在像 'Saa, kaetta, kaetta'这样的表达中，'ta' 形式不是作为过去时使用，而是通过断言完成来促进行动，修辞上类似于命令式。",
 	  "perfective vs past: the role of 'mou'": "副词 'mou' 有助于区分完了体和过去时：'mou + ta' 通常表示完了体（例如现在结果），而在明确的过去时间语境中听起来不自然。",
 	  "kakeri tomo, e yomi ahe zu": "这句话使用完了形 'kakeri' 表示某事已被写下，但补充说即使如此，也不能轻易阅读。翻译为“即使写了”或“即使已经写了”捕捉了完成和理解困难的双重含义。"
-	},
-	{
+	}
+      },
+      {
         "date": "20250408",
         "id": 237,
         "text": "今日だにいひ難し。",
@@ -13467,7 +13482,7 @@
 	"translation-zh": "大海的/道触之神/祈愿的/幣之顺风啊/就这样吹拂吧",
         "translation-ja-natural": "海路の道触の神に手向けする幣の追風よ、どうかこのまま吹き続けてほしい。",
         "translation-en-natural": "O wind that follows the sacred cloth offered to the god of the sea route, may you blow without ceasing.",
-	"translation-zh-natural": "向海中保佑旅途安全的神明献上的幣（所指明）的顺风啊，请就这样持续吹拂吧。",
+	"translation-zh-natural": "向海中保佑旅途安全的神明献上的幣（所指明）的顺风啊，请就这样持续吹拂吧。"
       },
       {
         "date": "20250426",
@@ -13522,7 +13537,7 @@
         "koutei-yamagen": "このなかに淡路のたうめといふ人のよめる歌、",
         "translation-ja": "この中に淡路の老女という人がいて、その人が詠んだ歌は、",
         "translation-en": "Among them, there was an old lady from Awaji who composed a poem:",
-	"translation-zh": "其中，叫做淡路的老妇，吟诵的和歌，",
+	"translation-zh": "其中，叫做淡路的老妇，吟诵的和歌，"
       },
       {
         "date": "20250426",
@@ -13585,7 +13600,7 @@
 	"translation-zh": "天气如何都祈祷。",
         "translation-ja-natural": "なにかと天気のことを祈る。",
         "translation-en-natural": "Pray for the weather on various occasion.",
-	"translation-zh-natural": "无论如何都祈祷天气。",
+	"translation-zh-natural": "无论如何都祈祷天气。"
       },
       {
         "date": "20250428",
@@ -14340,7 +14355,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "また、ある人が詠みました。",
         "translation-en-natural": "Another person composed.",
-	"translation-zh-natural": "又有人吟诵了一首和歌。",
+	"translation-zh-natural": "又有人吟诵了一首和歌。"
       },
       {
         "date": "20250428",
@@ -14506,7 +14521,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "吹きすさぶ風が止まないかぎり、寄せる波はあとを絶たず、波路はますます遠くなっていくのだった。",
         "translation-en-natural": "As long as the relentless wind keeps blowing, the waves continue to rise and approach, making the path across the sea seem ever more distant.",
-	"translation-zh-natural": "只要那风不停地吹着，涌来的波浪就不会停下，海路也因此变得越来越遥远了。",
+	"translation-zh-natural": "只要那风不停地吹着，涌来的波浪就不会停下，海路也因此变得越来越遥远了。"
       },
       {
         "date": "20250428",
@@ -15576,7 +15591,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "ある女の人が書いて出した歌は、",
         "translation-en-natural": "A poem that a woman wrote and presented is as the following:",
-	"translation-zh-natural": "有一个女子写下并寄出的和歌是，",
+	"translation-zh-natural": "有一个女子写下并寄出的和歌是，"
       },
       {
         "date": "20250430",
@@ -20553,7 +20568,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "船君が苦労してひねり出し、自分ではよいと思っていることなのに、それについてどうして口にできようか。そう思って、慎んで黙ってしまったのだ。",
         "translation-en-natural": "The ship's lord had struggled to come up with it, believing it to be good—and yet, how could anyone possibly speak of it? Thinking so, they chose to hold back and said nothing.",
-	"translation-zh-natural": "人们想着“是大人辛苦地想出了，并且觉得好的和歌，说出来会不会被记恨”，于是就悄悄地闭口不言了。",
+	"translation-zh-natural": "人们想着“是大人辛苦地想出了，并且觉得好的和歌，说出来会不会被记恨”，于是就悄悄地闭口不言了。"
       },
       {
         "date": "20250509",
@@ -20636,7 +20651,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "急に風と波が高くなったので、同じ港に留まった。",
         "translation-en-natural": "The wind and waves suddenly grew high, so we stayed at the same port.",
-	"translation-zh-natural": "风浪突然变大，于是我们停在了同一个港口。",
+	"translation-zh-natural": "风浪突然变大，于是我们停在了同一个港口。"
       },
       {
         "date": "20250509",
@@ -20811,7 +20826,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "一日中、一晩中、神仏に祈りを捧げる。",
         "translation-en-natural": "Day after day, night after night, I pray to the gods and Buddhas.",
-	"translation-zh-natural": "我们整日整夜，向神佛祈祷。",
+	"translation-zh-natural": "我们整日整夜，向神佛祈祷。"
       },
       {
         "date": "20250510",
@@ -20947,7 +20962,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "三日目も、海の様子が昨日と同じだったので、船は出さなかった。",
         "translation-en-natural": "On the third day as well, the sea looked just like it had the day before, so we didn’t set sail.",
-	"translation-zh-natural": "三日，海上的情况同昨日一样，因此我们没有出船。",
+	"translation-zh-natural": "三日，海上的情况同昨日一样，因此我们没有出船。"
       },
       {
         "date": "20250511",
@@ -21058,7 +21073,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "風が吹くことがやまないので、岸の波が立ち返る。",
         "translation-en-natural": "As the wind does not cease, the waves on the shore rise and fall.",
-	"translation-zh-natural": "风吹不停，因此岸上海浪涨又落。",
+	"translation-zh-natural": "风吹不停，因此岸上海浪涨又落。"
       },
       {
         "date": "20250511",
@@ -21141,7 +21156,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "これについて詠んだ歌は、",
         "translation-en-natural": "The poem I composed in connection with this is,",
-	"translation-zh-natural": "借此所咏了一首和歌：",
+	"translation-zh-natural": "借此所咏了一首和歌："
       },
       {
         "date": "20250511",
@@ -21404,7 +21419,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "このようにして、今日は暮れた。",
         "translation-en-natural": "Thus, today has come to an end.",
-	"translation-zh-natural": "就这样，今天结束了。",
+	"translation-zh-natural": "就这样，今天结束了。"
       },
       {
         "date": "20250511",
@@ -21655,7 +21670,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "しかし、終日波風は立たなかった。",
         "translation-en-natural": "However, the waves and wind did not rise all day long.",
-	"translation-zh-natural": "然而，一整日都没有起风浪。",
+	"translation-zh-natural": "然而，一整日都没有起风浪。"
       },
       {
         "date": "20250511",
@@ -21902,7 +21917,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "この泊の浜には、さまざまの美しい貝や石などが多かった。",
         "translation-en-natural": "On the beach of this harbor, there were many beautiful shells and stones.",
-	"translation-zh-natural": "在这个港口的海滩上，有许多美丽的贝壳和石头。",
+	"translation-zh-natural": "在这个港口的海滩上，有许多美丽的贝壳和石头。"
       },
       {
         "date": "20250512",
@@ -22404,7 +22419,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "そう言われると、ある人がこらえきれず、船の上で気を紛らすように詠んだ歌がこちら。",
         "translation-en-natural": "When that was said, someone couldn't hold back and composed this poem as a way to ease their heart aboard the boat.",
-	"translation-zh-natural": "咏完这首和歌，有人不忍，作为船上的心灵慰藉，又咏了一首。",
+	"translation-zh-natural": "咏完这首和歌，有人不忍，作为船上的心灵慰藉，又咏了一首。"
       },
       {
         "date": "20250514",
@@ -22660,7 +22675,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "と詠んでいる。",
         "translation-en-natural": "So it is said.",
-	"translation-zh-natural": "",
+	"translation-zh-natural": ""
       },
       {
         "date": "20250514",
@@ -22791,7 +22806,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "娘のこととなると、親は子どものようになってしまうものだ。",
         "translation-en-natural": "When it comes to their daughter, a parent can’t help but become like a child.",
-	"translation-zh-natural": "一想到女儿，父母就会变得像个孩子。",
+	"translation-zh-natural": "一想到女儿，父母就会变得像个孩子。"
       },
       {
         "date": "20250514",
@@ -22925,7 +22940,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "あの子が宝石のようでなかった時があるなんて、誰が言えるだろうか。",
         "translation-en-natural": "Who could ever say there was a time when she wasn’t like a jewel?",
-	"translation-zh-natural": "谁会说“她有过不成玉的时候”呢？",
+	"translation-zh-natural": "谁会说“她有过不成玉的时候”呢？"
       },
       {
         "date": "20250514",
@@ -23061,7 +23076,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "それでも、「死にし子は顔のよき子であった」と言うような声もある。",
         "translation-en-natural": "Even so, there are those who say, 'The child who passed away had a fine face.'",
-	"translation-zh-natural": "不过，也有说“死去的孩子，脸很漂亮”的",
+	"translation-zh-natural": "不过，也有说“死去的孩子，脸很漂亮”的"
       },
       {
         "date": "20250514",
@@ -23225,13 +23240,13 @@
 		"gloss-morph": "poem",
 		"gloss-zh": "和歌",
 		"gloss-zh-morph": "和歌"
-              },
+              }
             ]
           }
         ],
         "translation-ja-natural": "やはり、同じ所で日を過ごすことを嘆いて、ある女が詠んだ歌は、",
         "translation-en-natural": "Lamenting, once again, the days spent in the same place, a woman composed the following poem:",
-	"translation-zh-natural": "有女人感叹在同一个地方日子一天天地过去，咏了一首和歌，",
+	"translation-zh-natural": "有女人感叹在同一个地方日子一天天地过去，咏了一首和歌，"
       },
       {
         "date": "20250514",
@@ -23430,7 +23445,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "手を差し入れて、冷たさも忘れる泉で、水を汲むわけでもなく、いつしか日々が過ぎていた。",
         "translation-en-natural": "With my hands in the water, forgetting even the cold, not really trying to draw any, I've let the days quietly pass.",
-	"translation-zh-natural": "把手浸在不知寒冷的泉中，不想着汲水，日子就这样过去了。",
+	"translation-zh-natural": "把手浸在不知寒冷的泉中，不想着汲水，日子就这样过去了。"
       },
       {
         "date": "20250514",
@@ -23580,7 +23595,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "五日。今日、ようやくの思いで、和泉の灘を発ち、小津の泊へ向かった。",
         "translation-en-natural": "On the fifth day—today—I just barely managed to leave the coast of Izumi and head toward the harbor of Ozu.",
-	"translation-zh-natural": "五日，今天，我们勉勉强强离开和泉的海岸，前往小津的港口",
+	"translation-zh-natural": "五日，今天，我们勉勉强强离开和泉的海岸，前往小津的港口"
       },
       {
         "date": "20250514",
@@ -23649,7 +23664,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "松原の眺めまでも、果てしなく続いているように見える。",
         "translation-en-natural": "Even the view of the pine grove seems to stretch endlessly into the distance.",
-	"translation-zh-natural": "松原的景色也很遥远。",
+	"translation-zh-natural": "松原的景色也很遥远。"
       },
       {
         "date": "20250515",
@@ -24330,7 +24345,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "朝の北風が出てこないうちに、早く綱手を引け」と言う。",
         "translation-en-natural": "They say, 'Before the morning north wind comes up, quickly pull the rope.'",
-	"translation-zh-natural": "趁着早晨没刮北风之前，快快拉绳。”他说道。",
+	"translation-zh-natural": "趁着早晨没刮北风之前，快快拉绳。”他说道。"
       },
       {
         "date": "20250516",
@@ -24595,6 +24610,8 @@
                 "word": "なる",
                 "gloss": "ATTR",
 		"gloss-morph": "=ADN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=ADN"
               },
               {
                 "word": "事",
@@ -25108,7 +25125,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "「今日は波が立ちませんように」と人々が一日中祈ったところ、その願いが通じたのか、風も波も穏やかだったのです。",
         "translation-en-natural": "People spent the whole day praying, 'Please, let the waves stay calm today,' and their prayers seemed to work—the sea remained still, with no wind or waves.",
-	"translation-zh-natural": "人们整日祈祷着“千万不要起浪”，终于灵验了，没有起什么风浪。",
+	"translation-zh-natural": "人们整日祈祷着“千万不要起浪”，终于灵验了，没有起什么风浪。"
       },
       {
         "date": "20250517",
@@ -25213,7 +25230,7 @@
         ],
         "translation-ja-natural": "ちょうど今、鴎たちが群れて遊んでいる場所が見えた。",
         "translation-en-natural": "Just now, I saw a spot where seagulls were gathered and playing.",
-	"translation-zh-natural": "就在刚才，（可以看到）有（一处）海鸥群聚玩耍的地方。",
+	"translation-zh-natural": "就在刚才，（可以看到）有（一处）海鸥群聚玩耍的地方。"
       },
       {
         "date": "20250517",
@@ -25356,7 +25373,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "京が近づいてくるのがうれしくて、ある子どもが詠んだ歌です。",
         "translation-en-natural": "Filled with joy as they neared Kyoto, a child composed this poem.",
-	"translation-zh-natural": "有个孩子因为京都临近而喜出望外，咏了一首和歌。",
+	"translation-zh-natural": "有个孩子因为京都临近而喜出望外，咏了一首和歌。"
       },
       {
         "date": "20250517",
@@ -25454,7 +25471,7 @@
           {
             "phrase": "鴎さへだに",
             "gloss": "even the gulls, of all things",
-	     "words-gloss": "gull=ANL=ANL",
+	    "words-gloss": "gull=ANL=ANL",
 	    "gloss-zh": "海鸥 甚至 也",
 	    "gloss-zh-morph": "海鸥=ANL=ANL",
             "words": [
@@ -25522,7 +25539,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "風が吹かないようにと祈ってきて、今こそ風の止んだ時だと思うのに、なんとも不思議なことに、鴎でさえ風にあおられて立つ波のように見えてしまう。",
         "translation-en-natural": "I've been praying for the wind to calm, and I thought this must be the still moment I've been waiting for—yet strangely, even the gulls look like wind-blown waves.",
-	"translation-zh-natural": "原以为（我们）祈祷得来风停的时刻，没想到，毫无缘由地，连海鸥也看起来都像海浪。",
+	"translation-zh-natural": "原以为（我们）祈祷得来风停的时刻，没想到，毫无缘由地，连海鸥也看起来都像海浪。"
       },
       {
         "date": "20250518",
@@ -25657,6 +25674,7 @@
                 "gloss": "beautiful",
 		"gloss-morph": "beautiful-SER",
 		"gloss-zh": "美丽-地",
+		"gloss-zh-morph": "美丽-SER"
               },
               {
                 "word": "て",
@@ -26376,7 +26394,8 @@
                 "word": "て",
                 "gloss": "CONJ",
 		"gloss-morph": "=SEQ",
-		"gloss-zh": "去",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=SEQ"
               },
               {
                 "word": "行く",
@@ -30424,11 +30443,15 @@
                 "word": "ざり",
                 "gloss": "NEG.ADV.F",
 		"gloss-morph": "=NEG.VBL-ADV",
+		"gloss-zh": "不",
+		"gloss-zh-morph": "NEG=VBL-ADV"
               },
               {
                 "word": "けり",
                 "gloss": "PST.EXCL",
 		"gloss-morph": "+RET-CCL",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "+RET-CCL"
               }
             ]
           }
@@ -31819,86 +31842,144 @@
         "koutei-yamagen": "八日、なほ川のほとりになづみて、鳥養の御牧といふほとりにとまる。",
         "translation-ja": "八日。やはり川の岸辺で難渋して、鳥飼の御牧というあたりに泊まる。",
         "translation-en": "On the eighth day, still stuck at the riverside, we stayed at a place called Tori-kai no Mimaki.",
+	"translation-zh": "八日，仍困在河边，停在叫做鸟养御牧的河边。",
         "phrase-gloss": [
           {
             "phrase": "八日",
             "gloss": "the eighth day",
+	    "words-gloss": "eight+day",
+	    "gloss-zh": "八日",
+	    "gloss-zh-morph": "八+日",
             "words": [
               {
                 "word": "八日",
-                "gloss": "eighth day"
+                "gloss": "eighth day",
+		"gloss-morph": "eight+day",
+		"gloss-zh": "八日",
+		"gloss-zh-morph": "八+日"
               }
             ]
           },
           {
             "phrase": "なほ川のほとりになづみて",
             "gloss": "still stuck at the riverside",
+	    "words-gloss": "still river=GEN edge=DAT be.bogged.down-ADV=SEQ",
+	    "gloss-zh": "仍困在河边",
+	    "gloss-zh-morph": "仍 河=GEN 边=DAT 被...困-ADV=SEQ",
             "words": [
               {
                 "word": "なほ",
-                "gloss": "still; yet"
+                "gloss": "still; yet",
+		"gloss-morph": "still",
+		"gloss-zh": "仍",
+		"gloss-zh-morph": "仍"
               },
               {
                 "word": "川",
-                "gloss": "river"
+                "gloss": "river",
+		"gloss-morph": "river",
+		"gloss-zh": "河",
+		"gloss-zh-morph": "河"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "ほとり",
-                "gloss": "edge; bank; riverside"
+                "gloss": "edge; bank; riverside",
+		"gloss-morph": "edge",
+		"gloss-zh": "边",
+		"gloss-zh-morph": "边"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "在",
+		"gloss-zh-morph": "=DAT"
               },
               {
                 "word": "なづみ",
-                "gloss": "be bogged down.ADV.F"
+                "gloss": "be bogged down.ADV.F",
+		"gloss-morph": "be.bogged.down-ADV",
+		"gloss-zh": "被...困",
+		"gloss-zh-morph": "被...困-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "鳥養の御牧といふほとりにとまる",
             "gloss": "stayed at a place called Tori-kai no Mimaki",
+	    "words-gloss": "Bird+Nurture.NML.PN=GEN RSP+pasture.PN=CMP say-ADN vicinity=DAT stay-CCL",
+	    "gloss-zh": "停在叫做鸟养御牧的附近",
+	    "gloss-zh-morph": "鸟+养.NML.PN=GEN RSP+牧场.PN=CMP 说-ADN 附近=DAT 停-CCL",
             "words": [
               {
                 "word": "鳥養",
-                "gloss": "Tori-kai (place name)"
+                "gloss": "Tori-kai (place name)",
+		"gloss-morph": "Bird+Nurture.NML.PN",
+		"gloss-zh": "鸟养",
+		"gloss-zh-morph": "鸟+养.NML.PN"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "御牧",
-                "gloss": "imperial pasture"
+                "gloss": "imperial pasture",
+		"gloss-morph": "RSP+pasture.PN",
+		"gloss-zh": "御牧",
+		"gloss-zh-morph": "RSP+牧场.PN"
               },
               {
                 "word": "と",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-morph": "=CMP",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=CMP"
               },
               {
                 "word": "いふ",
-                "gloss": "say; call"
+                "gloss": "say; call",
+		"gloss-morph": "say-ADN",
+		"gloss-zh": "叫做",
+		"gloss-zh-morph": "说-ADN"
               },
               {
                 "word": "ほとり",
-                "gloss": "area; vicinity"
+                "gloss": "area; vicinity",
+		"gloss-morph": "vicinity",
+		"gloss-zh": "附近",
+		"gloss-zh-morph": "附近"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "在",
+		"gloss-zh-morph": "=DAT"
               },
               {
                 "word": "とまる",
-                "gloss": "stay; lodge"
+                "gloss": "stay; lodge",
+		"gloss-morph": "stay-CCL",
+		"gloss-zh": "停留",
+		"gloss-zh-morph": "停-CCL"
               }
             ]
           }
@@ -31906,6 +31987,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "八日。やはり川岸で苦労し、鳥飼の御牧というあたりに泊まった。",
         "translation-en-natural": "On the eighth day, still struggling by the riverbank, we stayed at a place called Tori-kai no Mimaki.",
+	"translation-zh-natural": "八日，我们仍在困在河边，船停在一个叫做鸟养御牧的地方的附近。",
         "notes-ja": [
           {
             "title": "『川のほとりになづみて』の解釈",
@@ -31917,7 +31999,13 @@
             "title": "Interpretation of 'kawa no hotori ni nadzumi te'",
             "note": "The literal meaning is 'being stuck at the riverside,' referring to difficulties at the riverbank. However, contextually, it may also imply the broader difficulty of ascending the river, including struggles due to shallow waters, strong currents, or riverbank obstacles. Both readings are plausible and provide nuance to the passage."
           }
-        ]
+        ],
+	"notes-zh": [
+	  {
+	    "title": "「川のほとりになづみて」的解读",
+	    "note": "逐字译为“困在河边”，指的是在河岸边遇到的困难。然而，从上下文来看，也可能暗示更广泛的上溯河流的困难，包括由于浅水、急流或河岸障碍而引起的挣扎。这两种解读都是合理的，为这段文字增添了细微差别。"
+	  }
+	]
       },
       {
         "date": "20250525",
@@ -31927,64 +32015,104 @@
         "koutei-yamagen": "こよひ船君例の病起りていたく惱む。",
         "translation-ja": "今夜、船君はいつもの病が起こり、たいそう苦しんでいる。",
         "translation-en": "Tonight, the boatman is suffering greatly from his usual illness.",
+	"translation-zh": "今夜，船中贵客的一直以来的病犯了，非常痛苦。",
         "phrase-gloss": [
           {
             "phrase": "こよひ",
             "gloss": "tonight",
+	    "words-gloss": "tonight",
+	    "gloss-zh": "今夜",
+	    "gloss-zh-morph": "今夜",
             "words": [
               {
                 "word": "こよひ",
-                "gloss": "tonight"
+                "gloss": "tonight",
+		"gloss-morph": "tonight",
+		"gloss-zh": "今夜",
+		"gloss-zh-morph": "今夜"
               }
             ]
           },
           {
             "phrase": "船君",
             "gloss": "the boat master; the ship's lord",
+	    "words-gloss": "boat+important.person.RSP",
+	    "gloss-zh": "船中贵客",
+	    "gloss-zh-morph": "船+重要人物.RSP",
             "words": [
               {
                 "word": "船君",
-                "gloss": "boat master; ship lord"
+                "gloss": "boat master; ship lord",
+		"gloss-morph": "boat+important.person.RSP",
+		"gloss-zh": "船中贵客",
+		"gloss-zh-morph": "船+重要人物.RSP"
               }
             ]
           },
           {
             "phrase": "例の病",
             "gloss": "usual illness; habitual sickness",
+	    "words-gloss": "usual=GEN sickness",
+	    "gloss-zh": "一直以来的病",
+	    "gloss-zh-morph": "惯例=GEN 病",
             "words": [
               {
                 "word": "例",
-                "gloss": "usual; customary"
+                "gloss": "usual; customary",
+		"gloss-morph": "usual",
+		"gloss-zh": "惯例",
+		"gloss-zh-morph": "惯例"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "病",
-                "gloss": "illness; sickness"
+                "gloss": "illness; sickness",
+		"gloss-morph": "sickness",
+		"gloss-zh": "病",
+		"gloss-zh-morph": "病"
               }
             ]
           },
           {
             "phrase": "起りていたく惱む",
             "gloss": "having occurred, suffer greatly",
+	    "words-gloss": "occur-ADV=SEQ great-ADV suffer-CCL",
+	    "gloss-zh": "犯了，非常痛苦",
+	    "gloss-zh-morph": "发生-ADV=SEQ 很-ADV 痛苦-CCL",
             "words": [
               {
                 "word": "起り",
-                "gloss": "occur; arise.ADV.F"
+                "gloss": "occur; arise.ADV.F",
+		"gloss-morph": "occur-ADV",
+		"gloss-zh": "发生",
+		"gloss-zh-morph": "发生-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=SEQ"
               },
               {
                 "word": "いたく",
-                "gloss": "greatly; severely.ADV.F"
+                "gloss": "greatly; severely.ADV.F",
+		"gloss-morph": "great-ADV",
+		"gloss-zh": "很",
+		"gloss-zh-morph": "很-ADV"
               },
               {
                 "word": "惱む",
-                "gloss": "suffer; be in pain"
+                "gloss": "suffer; be in pain",
+		"gloss-morph": "suffer-CCL",
+		"gloss-zh": "痛苦",
+		"gloss-zh-morph": "痛苦-CCL"
               }
             ]
           }
@@ -31992,6 +32120,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "今夜、船君は例の持病が起きて、ひどく苦しんでいる。",
         "translation-en-natural": "Tonight, the boat master is severely suffering from his usual illness.",
+	"translation-zh-natural": "今晚，船中贵客的老毛病又犯了，非常痛苦。",
         "notes-ja": [
           {
             "title": "「船君」の意味",
@@ -32003,7 +32132,13 @@
             "title": "Meaning of 'funakimi' (船君)",
             "note": "'Funakimi' refers not merely to a boatman or sailor but to the master or chief of the boat, often with a respectful nuance. In English, options like 'boatman,' 'boat master,' or 'ship lord' can be used depending on the tone and formality."
           }
-        ]
+        ],
+	"notes-zh": [
+	  {
+	    "title": "「船君」的含义",
+	    "note": "「船君」不仅仅指普通的船夫或水手，而是指船的主人或船长，带有敬称的意味。在英文中，可以根据语境和正式程度选择使用“boatman”、“boat master”或“ship lord”等词汇。"
+	  }
+	]
       },
       {
         "date": "20250525",
@@ -32013,36 +32148,58 @@
         "koutei-yamagen": "ある人あさらかなる物もてきたり。",
         "translation-ja": "ある人が、新鮮なものを持ってきた。",
         "translation-en": "A certain person brought something fresh.",
+	"translation-zh": "有人带来了新鲜的东西。",
         "phrase-gloss": [
           {
             "phrase": "ある人",
             "gloss": "a certain person; someone",
+	    "words-gloss": "exist-ADN+person",
+	    "gloss-zh": "有人",
+	    "gloss-zh-morph": "有-ADN+人",
             "words": [
               {
                 "word": "ある",
-                "gloss": "certain; some"
+                "gloss": "certain; some",
+		"gloss-morph": "exist-ADN+",
+		"gloss-zh": "有",
+		"gloss-zh-morph": "有-ADN+"
               },
               {
                 "word": "人",
-                "gloss": "person"
+                "gloss": "person",
+		"gloss-morph": "person",
+		"gloss-zh": "人",
+		"gloss-zh-morph": "人"
               }
             ]
           },
           {
             "phrase": "あさらかなる物",
             "gloss": "fresh thing; fresh item",
+	    "words-gloss": "fresh=ADN thing",
+	    "gloss-zh": "新鲜的东西",
+	    "gloss-zh-morph": "新鲜=ADN 东西",
             "words": [
               {
                 "word": "あさらか",
-                "gloss": "fresh; newly caught"
+                "gloss": "fresh; newly caught",
+		"gloss-morph": "fresh=ADN",
+		"gloss-zh": "新鲜",
+		"gloss-zh-morph": "新鲜=ADN"
               },
               {
                 "word": "なる",
-                "gloss": "be (attributive)"
+                "gloss": "be (attributive)",
+		"gloss-morph": "=ADN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "的"
               },
               {
                 "word": "物",
-                "gloss": "thing; item"
+                "gloss": "thing; item",
+		"gloss-morph": "thing",
+		"gloss-zh": "东西",
+		"gloss-zh-morph": "东西"
               }
             ]
           },
