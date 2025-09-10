@@ -32206,24 +32206,37 @@
           {
             "phrase": "もてきたり",
             "gloss": "brought (with completion)",
+	    "words-gloss": "bring+SEQ+come-ADV+STA-CCL",
+	    "gloss-zh": "带来了",
+	    "gloss-zh-morph": "带+SEQ+来-ADV+STA-CCL",
             "words": [
               {
                 "word": "もて",
-                "gloss": "carry; bring"
+                "gloss": "carry; bring",
+		"gloss-morph": "bring+SEQ",
+		"gloss-zh": "带",
+		"gloss-zh-morph": "带+SEQ"
               },
               {
                 "word": "き",
-                "gloss": "come"
+                "gloss": "come",
+		"gloss-morph": "come-ADV",
+		"gloss-zh": "来",
+		"gloss-zh-morph": "来-ADV"
               },
               {
                 "word": "たり",
-                "gloss": "PERF"
+                "gloss": "PERF",
+		"gloss-morph": "+STA-CCL",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "+STA-CCL"
               }
             ]
           }
         ],
         "translation-ja-natural": "ある人が、新鮮な魚を持ってきた。",
         "translation-en-natural": "Someone brought fresh fish.",
+	"translation-zh-natural": "有人带来了新鲜的东西。",
         "notes-ja": [
           {
             "title": "「あさらかなる物」の意味",
@@ -32235,7 +32248,13 @@
             "title": "Meaning of 'asaraka naru mono'",
             "note": "'Asaraka' is an old Japanese word meaning 'fresh' or 'newly caught,' often used specifically to refer to fresh fish or seafood. In this context, it likely refers to fresh fish, though strictly speaking, it can be translated more broadly as 'something fresh.'"
           }
-        ]
+        ],
+	"notes-zh": [
+	  {
+	    "title": "「あさらかなる物」的含义",
+	    "note": "「あさらか」是一个古日语词，意为“新鲜的”或“刚捕获的”，通常特别指新鲜的鱼或海鲜。在这个语境中，很可能指的是新鲜的鱼，尽管严格来说，它可以更广泛地翻译为“新鲜的东西”。"
+	  }
+	]
       },
       {
         "date": "20250525",
@@ -32245,43 +32264,66 @@
         "koutei-yamagen": "よねしてかへりごとす。",
         "translation-ja": "米をして、返礼する。",
         "translation-en": "I will return the favor with rice.",
+	"translation-zh": "以米回礼。",
         "phrase-gloss": [
           {
             "phrase": "よねして",
             "gloss": "with rice; using rice",
+	    "words-gloss": "rice+do-ADV=SEQ",
+	    "gloss-zh": "用米",
+	    "gloss-zh-morph": "米+做-ADV=SEQ",
             "words": [
               {
                 "word": "よね",
-                "gloss": "rice"
+                "gloss": "rice",
+		"gloss-morph": "rice",
+		"gloss-zh": "米",
+		"gloss-zh-morph": "米"
               },
               {
                 "word": "して",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "+do-ADV=SEQ",
+		"gloss-zh": "用...做",
+		"gloss-zh-morph": "做-ADV=SEQ"
               }
             ]
           },
           {
             "phrase": "かへりごとす",
             "gloss": "return the favor; reciprocate",
+	    "words-gloss": "return-ADV=NML+do-CCL",
+	    "gloss-zh": "回礼",
+	    "gloss-zh-morph": "返回-ADV=NML+做-CCL",
             "words": [
               {
                 "word": "かへり",
-                "gloss": "return.ADV.F"
+                "gloss": "return.ADV.F",
+		"gloss-morph": "return-ADV",
+		"gloss-zh": "返回",
+		"gloss-zh-morph": "返回-ADV"
               },
               {
                 "word": "ごと",
-                "gloss": "thing"
+                "gloss": "thing",
+		"gloss-morph": "=NML",
+		"gloss-zh": "事",
+		"gloss-zh-morph": "=NML"
               },
               {
                 "word": "す",
-                "gloss": "do"
+                "gloss": "do",
+		"gloss-morph": "+do-CCL",
+		"gloss-zh": "做",
+		"gloss-zh-morph": "+做-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "米を以って、返礼する。",
-        "translation-en-natural": "I will reciprocate with rice."
+        "translation-en-natural": "I will reciprocate with rice.",
+	"translation-zh-natural": "我们用米作为回礼。"
       },
       {
         "date": "20250525",
@@ -32291,60 +32333,100 @@
         "koutei-yamagen": "男ども密にいうなり「いひぼしてもてる」とや。",
         "translation-ja": "男たちは、密かに言う。「飯を干して持ってきた」と。",
         "translation-en": "The men secretly say, 'Brought dried rice.'",
+	"translation-zh": "男人们悄悄地说：“带来了干米。”",
         "phrase-gloss": [
           {
             "phrase": "男ども密にいふなり",
             "gloss": "The men secretly say",
+	    "words-gloss": "men=PL secret=SER say-ADN.NL COP-CCL",
+	    "gloss-zh": "男人们悄悄地说",
+	    "gloss-zh-morph": "男人=PL 秘密=SER 说-ADN.NL COP-CCL",
             "words": [
               {
                 "word": "男ども",
-                "gloss": "men"
+                "gloss": "men",
+		"gloss-morph": "men=PL",
+		"gloss-zh": "男人们",
+		"gloss-zh-morph": "男人=PL"
               },
               {
                 "word": "密に",
-                "gloss": "secretly; quietly"
+                "gloss": "secretly; quietly",
+		"gloss-morph": "secret=SER",
+		"gloss-zh": "悄悄地",
+		"gloss-zh-morph": "秘密=SER"
               },
               {
                 "word": "いふ",
-                "gloss": "say"
+                "gloss": "say",
+		"gloss-morph": "say-ADN.NL",
+		"gloss-zh": "说",
+		"gloss-zh-morph": "说-ADN.NL"
               },
               {
                 "word": "なり",
-                "gloss": "REPORTED"
+                "gloss": "REPORTED",
+		"gloss-morph": "COP-CCL",
+		"gloss-zh": "",
+		"gloss-zh-morph": "COP-CCL"
               }
             ]
           },
           {
             "phrase": "「いひぼしてもてる」とや",
             "gloss": "'Brought dried rice,' they say",
+	    "words-gloss": "rice+grain+do-ADV=SEQ bring-INC+STA-ADN.NL=CMP XCL",
+	    "gloss-zh": "带来了米”，说道",
+	    "gloss-zh-morph": "米+粒+做-ADV=SEQ 带来-INC+STA-ADN.NL=CMP XCL",
             "words": [
               {
-                "word": "いひ",
-                "gloss": "rice"
+                "word": "いひぼ",
+                "gloss": "rice grain",
+		"gloss-morph": "rice+grain",
+		"gloss-zh": "米粒",
+		"gloss-zh-morph": "米+粒"
               },
               {
-                "word": "ぼし",
-                "gloss": "dried; desiccated"
+                "word": "し",
+                "gloss": "do",
+		"gloss-morph": "do-ADV=SEQ",
+		"gloss-zh": "做",
+		"gloss-zh-morph": "做-ADV=SEQ"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=SEQ"
               },
               {
                 "word": "もて",
-                "gloss": "brought.REALIS.F"
+                "gloss": "brought.REALIS.F",
+		"gloss-morph": "bring-INC",
+		"gloss-zh": "带",
+		"gloss-zh-morph": "带-INC"
               },
               {
                 "word": "る",
-                "gloss": "PERF"
+                "gloss": "PERF",
+		"gloss-morph": "+STA-ADN.NL",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "+STA-ADN.NL"
               },
               {
                 "word": "と",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-morph": "=CMP",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=CMP"
               },
               {
                 "word": "や",
-                "gloss": "QUESTION"
+                "gloss": "QUESTION",
+		"gloss-morph": "XCL",
+		"gloss-zh": "",
+		"gloss-zh-morph": "XCL"
               }
             ]
           }
@@ -32352,6 +32434,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "男たちは、ひそひそと言い合った。「結局、干し飯で返礼しただけだな。」",
         "translation-en-natural": "The men whispered among themselves, 'In the end, he just gave back some dried rice.'",
+	"translation-zh-natural": "男人们悄悄地说：“结果他只是带来了米粒。”",
         "notes-ja": [
           {
             "title": "翻刻尊重の立場",
@@ -32371,7 +32454,13 @@
             "title": "Kikuchi's emended reading",
             "note": "Professor Kikuchi proposes an emended reading: 'ihi tsubu shite, motsu tsuru,' interpreting the men as sarcastically saying 'he's baiting with rice grains to catch fish,' suggesting profiting from the exchange. However, this involves significant textual change, and some argue that such emendation overreaches and should be cautiously evaluated."
           }
-        ]
+        ],
+	"notes-zh": [
+	  {
+	    "title": "尊重逐字转录的立场",
+	    "note": "原文写作“いひぼしてもてる”，逐字译为“带来了干米”。在这种情况下，男人们可能在嘲笑回礼只是干米，突显出与所赠鲜鱼的价值差距。"
+	  }
+	]
       },
       {
         "date": "20250525",
@@ -32381,46 +32470,72 @@
         "koutei-yamagen": "かうやうの事所々にあり。",
         "translation-ja": "このようなことは、あちこちにある。",
         "translation-en": "Such things exist here and there.",
+	"translation-zh": "这样的事到处有。",
         "phrase-gloss": [
           {
             "phrase": "かうやうの事",
             "gloss": "such things; things like this",
+	    "words-gloss": "such+manner=GEN thing",
+	    "gloss-zh": "这样的事",
+	    "gloss-zh-morph": "这+样=GEN 事",
             "words": [
               {
                 "word": "かうやう",
-                "gloss": "such; like this"
+                "gloss": "such; like this",
+		"gloss-morph": "such+manner",
+		"gloss-zh": "这样",
+		"gloss-zh-morph": "这+样"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "事",
-                "gloss": "thing; matter"
+                "gloss": "thing; matter",
+		"gloss-morph": "thing",
+		"gloss-zh": "事",
+		"gloss-zh-morph": "事"
               }
             ]
           },
           {
             "phrase": "所々にあり",
             "gloss": "exist in various places; are present here and there",
+	    "words-gloss": "place+place=DAT exist-CCL",
+	    "gloss-zh": "到处有",
+	    "gloss-zh-morph": "处+处=DAT 有-CCL",
             "words": [
               {
                 "word": "所々",
-                "gloss": "places; various locations"
+                "gloss": "places; various locations",
+		"gloss-morph": "place+place",
+		"gloss-zh": "到处",
+		"gloss-zh-morph": "处+处"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "在",
+		"gloss-zh-morph": "=DAT"
               },
               {
                 "word": "あり",
-                "gloss": "exist; be"
+                "gloss": "exist; be",
+		"gloss-morph": "exist-CCL",
+		"gloss-zh": "有",
+		"gloss-zh-morph": "有-CCL"
               }
             ]
           }
         ],
         "translation-ja-natural": "こういうことは、あちこちにある。",
-        "translation-en-natural": "Things like this can be found everywhere."
+        "translation-en-natural": "Things like this can be found everywhere.",
+	"translation-zh-natural": "这样的事到处都有。"
       },
       {
         "date": "20250525",
@@ -32430,54 +32545,79 @@
         "koutei-yamagen": "今日節みすればいをもちゐず。",
         "translation-ja": "今日は、節忌なので、魚を用いない。",
         "translation-en": "Today, since it is a seasonal observance, (we) do not use fish.",
+	"translation-zh": "今日行节忌，因此不用鱼。",
         "phrase-gloss": [
           {
             "phrase": "今日節みすれば",
             "gloss": "since today is a seasonal observance",
+	    "words-gloss": "today seasonal.observance-NML+do-INC=XCD",
+	    "gloss-zh": "今日行节忌",
+	    "gloss-zh-morph": "今日 节+忌-NML+做-INC=XCD",
             "words": [
               {
                 "word": "今日",
-                "gloss": "today"
+                "gloss": "today",
+		"gloss-morph": "today",
+		"gloss-zh": "今日",
+		"gloss-zh-morph": "今日"
               },
               {
                 "word": "節み",
-                "gloss": "seasonal observance; seasonal ritual"
+                "gloss": "seasonal observance; seasonal ritual",
+		"gloss-morph": "seasonal+observance-NML",
+		"gloss-zh": "节忌",
+		"gloss-zh-morph": "节+忌-NML"
               },
               {
                 "word": "すれ",
-                "gloss": "do.READLIS.F"
+                "gloss": "do.READLIS.F",
+		"gloss-morph": "+do-INC",
+		"gloss-zh": "做",
+		"gloss-zh-morph": "+做-INC"
               },
               {
                 "word": "ば",
-                "gloss": "because; since"
+                "gloss": "because; since",
+		"gloss-morph": "=XCD",
+		"gloss-zh": "因为",
+		"gloss-zh-morph": "=XCD"
               }
             ]
           },
           {
             "phrase": "いをもちゐず",
             "gloss": "do not use fish; do not employ fish",
+	    "words-gloss": "fish use-THM=NEG.CCL",
+	    "gloss-zh": "不用鱼",
+	    "gloss-zh-morph": "鱼 用-THM=NEG.CCL",
             "words": [
               {
-                "word": "い",
-                "gloss": "fish (archaic word)"
-              },
-              {
-                "word": "を",
-                "gloss": "ACC"
+                "word": "いを",
+                "gloss": "fish (archaic word)",
+		"gloss-morph": "fish",
+		"gloss-zh": "鱼",
+		"gloss-zh-morph": "鱼"
               },
               {
                 "word": "もちゐ",
-                "gloss": "use; employ.NEG.BASE"
+                "gloss": "use; employ.NEG.BASE",
+		"gloss-morph": "use-THM",
+		"gloss-zh": "用",
+		"gloss-zh-morph": "用-THM"
               },
               {
                 "word": "ず",
-                "gloss": "NEG"
+                "gloss": "NEG",
+		"gloss-morph": "=NEG.CCL",
+		"gloss-zh": "不",
+		"gloss-zh-morph": "=NEG.CCL"
               }
             ]
           }
         ],
         "translation-ja-natural": "今日は節の日なので、魚はいらない。",
-        "translation-en-natural": "Today is a seasonal festival day, so we do not need fish."
+        "translation-en-natural": "Today is a seasonal festival day, so we do not need fish.",
+	"translation-zh-natural": "今天行节忌的仪式，所以我们不需要鱼。"
       },
       {
         "date": "20250525",
