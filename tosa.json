@@ -6592,25 +6592,129 @@
         "translation-en-natural": "I wonder if there's anyone who still feels attached to the brief calm amid these winds and waves. It makes me feel uneasy."
       },
       {
-        "date": "20250205",
+        "date": [
+          20250205,
+          20250910
+        ],
         "id": 68,
         "text": "四日、風吹けばえ出でたゝず。",
         "kana": "よっか、かぜふけばえいでたたず。",
         "koutei-yamagen": "四日、風吹けば、え出でたたず。",
         "translation-ja": "四日、風が吹くので、出ていけない。",
         "translation-en": "On the fourth, because the wind blows, we can't go out.",
-        "translation-ja-natural": "四日、風が強く吹いて、港を出ることができません。",
+        "phrase-gloss": [
+          {
+            "phrase": "四日、",
+            "gloss": "on the fourth day,",
+            "words": [
+              {
+                "word": "四日",
+                "gloss": "fourth day"
+              }
+            ]
+          },
+          {
+            "phrase": "風吹けば",
+            "gloss": "because the wind blows",
+            "words": [
+              {
+                "word": "風",
+                "gloss": "wind"
+              },
+              {
+                "word": "吹け",
+                "gloss": "blow.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "え出でたゝず。",
+            "gloss": "cannot go out",
+            "words": [
+              {
+                "word": "え",
+                "gloss": "NEG.POT"
+              },
+              {
+                "word": "出で",
+                "gloss": "go out.ADV"
+              },
+              {
+                "word": "たた",
+                "gloss": "stand.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "四日、風が強く吹いて、港を出ることができない。",
         "translation-en-natural": "On the fourth, we can't set sail because of the strong wind."
       },
       {
-        "date": "20250206",
+        "date": [
+          20250206,
+          20250912
+        ],
         "id": 69,
         "text": "昌連酒よき物たてまつれり。",
         "kana": "まさつらさけよきものたてまつれり。",
         "koutei-yamagen": "昌連、酒、よき物たてまつれり。",
         "translation-ja": "昌連が、酒や良い品を奉る。",
         "translation-en": "Masatsura contributes sake and fine goods.",
-        "translation-ja-natural": "昌連が、航海の無事を祈って、酒や結構な品物をお供えしてくれました。",
+        "phrase-gloss": [
+          {
+            "phrase": "昌連",
+            "gloss": "Masatsura",
+            "words": [
+              {
+                "word": "昌連",
+                "gloss": "Masatsura.PN"
+              }
+            ]
+          },
+          {
+            "phrase": "酒よき物",
+            "gloss": "sake and fine goods",
+            "words": [
+              {
+                "word": "酒",
+                "gloss": "sake"
+              },
+              {
+                "word": "よき",
+                "gloss": "good.ATTR"
+              },
+              {
+                "word": "物",
+                "gloss": "thing"
+              }
+            ]
+          },
+          {
+            "phrase": "たてまつれり。",
+            "gloss": "offer.HON PERF",
+            "words": [
+              {
+                "word": "たてまつれ",
+                "gloss": "offer.HON.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "昌連が、航海の無事を祈って、酒や結構な品物をお供えしてくれた。",
         "translation-en-natural": "Masatsura contributed sake and fine goods as an offering to pray for a safe voyage.",
         "notes-ja": {
           "奉納の解釈": "菊地の訳「（一行の長に）さしあげる」では、意味をなさない。おそらく船には奉納すべき神棚があったので、昌連がその神棚に酒や品物を奉納したと考えられる。",
