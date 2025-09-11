@@ -36061,7 +36061,7 @@
                 "gloss": "QUESTION",
 		"gloss-morph": "XCL",
 		"gloss-zh": "吗",
-		"gloss-zh-morph": "吗"
+		"gloss-zh-morph": "XCL"
               }
             ]
           }
@@ -36263,7 +36263,7 @@
                 "gloss": "NEG",
 		"gloss-morph": "=NEG.CCL",
 		"gloss-zh": "不",
-		"gloss-zh-morph": "=NEG-CCL"
+		"gloss-zh-morph": "=NEG.CCL"
               }
             ]
           }
@@ -36281,57 +36281,89 @@
         "koutei-yamagen": "十一日、雨いさゝか降りてやみぬ。",
         "translation-ja": "十一日、雨が少し降って止んだ。",
         "translation-en": "On the eleventh day, it rained a little and then stopped.",
+	"translation-zh": "十一日，雨稍下后停了。",
         "phrase-gloss": [
           {
             "phrase": "十一日",
             "gloss": "eleventh day",
+	    "gloss-morph": "tenth.day+plus one+day",
+	    "gloss-zh": "十一日",
+	    "gloss-zh-morph": "十日+余 一+日",
             "words": [
               {
                 "word": "十一日",
-                "gloss": "eleventh day"
+                "gloss": "eleventh day",
+		"gloss-morph": "tenth.day+plus one+day",
+		"gloss-zh": "十一日",
+		"gloss-zh-morph": "十日+余 一+日"
               }
             ]
           },
           {
             "phrase": "雨いさゝか降りて",
             "gloss": "it rained a little",
+	    "gloss-morph": "rain a.little fall-ADV=SEQ",
+	    "gloss-zh": "雨稍下后",
+	    "gloss-zh-morph": "雨 稍微 下-ADV=SEQ",
             "words": [
               {
                 "word": "雨",
-                "gloss": "rain"
+                "gloss": "rain",
+		"gloss-morph": "rain",
+		"gloss-zh": "雨",
+		"gloss-zh-morph": "雨"
               },
               {
                 "word": "いさゝか",
-                "gloss": "a little, slightly"
+                "gloss": "a little, slightly",
+		"gloss-morph": "a.little",
+		"gloss-zh": "稍微",
+		"gloss-zh-morph": "稍微"
               },
               {
                 "word": "降り",
-                "gloss": "fall, rain.ADV.F"
+                "gloss": "fall, rain.ADV.F",
+		"gloss-morph": "fall-ADV",
+		"gloss-zh": "下",
+		"gloss-zh-morph": "下-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "やみぬ",
             "gloss": "and then stopped",
+	    "gloss-morph": "stop-ADV+MNF-CCL",
+	    "gloss-zh": "停了",
+	    "gloss-zh-morph": "停-ADV+MNF-CCL",
             "words": [
               {
                 "word": "やみ",
-                "gloss": "stop.ADV.F"
+                "gloss": "stop.ADV.F",
+		"gloss-morph": "stop-ADV",
+		"gloss-zh": "停",
+		"gloss-zh-morph": "停-ADV"
               },
               {
                 "word": "ぬ",
-                "gloss": "PERF"
+                "gloss": "PERF",
+		"gloss-morph": "+MNF-CCL",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "+MNF-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "十一日、雨が少し降って、やんだ。",
-        "translation-en-natural": "On the eleventh day, it rained a little and then stopped.."
+        "translation-en-natural": "On the eleventh day, it rained a little and then stopped..",
+	"translation-zh-natural": "十一日，雨稍微下了一会就停了。"
       },
       {
         "date": "20250529",
@@ -36341,129 +36373,212 @@
         "koutei-yamagen": "かくてさしのぼるに東のかたに山のよこをれるを見て人に問へば「八幡の宮」といふ。",
         "translation-ja": "こうして上ると、東の方に山の横を流れるのを見て、人に尋ねると、「八幡の宮」と言う。",
         "translation-en": "As we ascended, we saw something flowing beside the mountain to the east, and when we asked someone, they said, 'It's Hachiman Shrine.'",
+	"translation-zh": "这样向上划船时，见到东方山之横亘，问了人，说是“八幡宫”。",
         "phrase-gloss": [
           {
             "phrase": "かくてさしのぼるに",
             "gloss": "thus as (we) ascend",
+	    "gloss-morph": "thus=SEQ EMP-ADV+go.up-ADN.NL=DAT",
+	    "gloss-zh": "这样向上划船时",
+	    "gloss-zh-morph": "这样=SEQ EMP-ADV+向上行进-ADN.NL=DAT",
             "words": [
               {
                 "word": "かくて",
-                "gloss": "thus.CONJ"
+                "gloss": "thus.CONJ",
+		"gloss-morph": "thus=SEQ",
+		"gloss-zh": "这样",
+		"gloss-zh-morph": "这样=SEQ"
               },
               {
                 "word": "さしのぼる",
-                "gloss": "ascend"
+                "gloss": "ascend",
+		"gloss-morph": "EMP-ADV+go.up-ADN.NL",
+		"gloss-zh": "向上划船",
+		"gloss-zh-morph": "EMP-ADV+向上行进-ADN.NL"
               },
               {
                 "word": "に",
-                "gloss": "when"
+                "gloss": "when",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "时",
+		"gloss-zh-morph": "=DAT"
               }
             ]
           },
           {
             "phrase": "東のかたに",
             "gloss": "to the east",
+	    "gloss-morph": "east=GEN direction=DAT",
+	    "gloss-zh": "在东方",
+	    "gloss-zh-morph": "东=GEN 方向=DAT",
             "words": [
               {
                 "word": "東",
-                "gloss": "east"
+                "gloss": "east",
+		"gloss-morph": "east",
+		"gloss-zh": "东",
+		"gloss-zh-morph": "东"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "かた",
-                "gloss": "direction"
+                "gloss": "direction",
+		"gloss-morph": "direction",
+		"gloss-zh": "方向",
+		"gloss-zh-morph": "方向"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "在",
+		"gloss-zh-morph": "=DAT"
               }
             ]
           },
           {
             "phrase": "山のよこをれるを見て",
             "gloss": "seeing something flowing beside the mountain",
+	    "gloss-morph": "mountain=GEN horizon+bend-INC+STA-ADN.NL=ACC see.ADV=SEQ",
+	    "gloss-zh": "见到山之横亘",
+	    "gloss-zh-morph": "山=GEN 水平+曲折-INC+STA-ADN.NL=ACC 见.ADV=SEQ",
             "words": [
               {
                 "word": "山",
-                "gloss": "mountain"
+                "gloss": "mountain",
+		"gloss-morph": "mountain",
+		"gloss-zh": "山",
+		"gloss-zh-morph": "山"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "之",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "よこ",
-                "gloss": "side"
+                "gloss": "side",
+		"gloss-morph": "horizon+bend-INC",
+		"gloss-zh": "水平",
+		"gloss-zh-morph": "水平+曲折-INC"
               },
               {
                 "word": "をれる",
-                "gloss": "flow"
+                "gloss": "flow",
+		"gloss-morph": "+STA-ADN.NL",
+		"gloss-zh": "曲折",
+		"gloss-zh-morph": "曲折-STA-ADN.NL"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=ACC"
               },
               {
                 "word": "見て",
-                "gloss": "see.CONJ"
+                "gloss": "see.CONJ",
+		"gloss-morph": "see.ADV=SEQ",
+		"gloss-zh": "见到",
+		"gloss-zh-morph": "见.ADV=SEQ"
               }
             ]
           },
           {
             "phrase": "人に問へば",
             "gloss": "when (we) asked a person",
+	    "gloss-morph": "person=DAT ask-INC=XCD",
+	    "gloss-zh": "问了人后",
+	    "gloss-zh-morph": "人=DAT 问-INC=XCD",
             "words": [
               {
                 "word": "人",
-                "gloss": "person"
+                "gloss": "person",
+		"gloss-morph": "person",
+		"gloss-zh": "人",
+		"gloss-zh-morph": "人"
               },
               {
                 "word": "に",
-                "gloss": "DAT"
+                "gloss": "DAT",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "向",
+		"gloss-zh-morph": "=DAT"
               },
               {
                 "word": "問へ",
-                "gloss": "ask.REALIS.F"
+                "gloss": "ask.REALIS.F",
+		"gloss-morph": "ask-INC",
+		"gloss-zh": "询问",
+		"gloss-zh-morph": "问-INC"
               },
               {
                 "word": "ば",
-                "gloss": "when"
+                "gloss": "when",
+		"gloss-morph": "=XCD",
+		"gloss-zh": "后",
+		"gloss-zh-morph": "=XCD"
               }
             ]
           },
           {
             "phrase": "八幡の宮といふ",
             "gloss": "they say 'Hachiman Shrine'",
+	    "gloss-morph": "Hachiman.PN=GEN shrine=CMP say-CCL",
+	    "gloss-zh": "（那个人回答）说是“八幡宫”",
+	    "gloss-zh-morph": "八幡.PN=GEN 宫=CMP 说-CCL",
             "words": [
               {
                 "word": "八幡",
-                "gloss": "Hachiman"
+                "gloss": "Hachiman",
+		"gloss-morph": "Hachiman.PN",
+		"gloss-zh": "八幡",
+		"gloss-zh-morph": "八幡.PN"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "宮",
-                "gloss": "shrine"
+                "gloss": "shrine",
+		"gloss-morph": "shrine",
+		"gloss-zh": "宫",
+		"gloss-zh-morph": "宫"
               },
               {
                 "word": "と",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-morph": "=CMP",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=CMP"
               },
               {
                 "word": "いふ",
-                "gloss": "say"
+                "gloss": "say",
+		"gloss-morph": "say-CCL",
+		"gloss-zh": "说",
+		"gloss-zh-morph": "说-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "こうして上っていくと、東の方に山の脇を流れるものが見えたので、人に尋ねると「八幡の宮だ」と教えてくれた。",
-        "translation-en-natural": "As we climbed, we saw something flowing along the side of the mountain to the east, and when we asked someone, they told us, 'That’s the Hachiman Shrine.'"
+        "translation-en-natural": "As we climbed, we saw something flowing along the side of the mountain to the east, and when we asked someone, they told us, 'That’s the Hachiman Shrine.'",
+	"translation-zh-natural": "我们向上游划船时，见到东方山峦横亘，问了路人，路人回答说是那里就是“八幡宫”。"
       },
       {
         "date": "20250529",
@@ -36473,65 +36588,103 @@
         "koutei-yamagen": "これを聞きてよろこびて人々をがみ奉る。",
         "translation-ja": "これを聞いて喜び、人々は拝み奉る。",
         "translation-en": "Hearing this, the people rejoiced and worshiped the God.",
+	"translation-zh": "听此，喜悦，人们拜祭（神灵）。",
         "phrase-gloss": [
           {
             "phrase": "これを聞きて",
             "gloss": "hearing this",
+	    "gloss-morph": "DEM=ACC hear-ADV=SEQ",
+	    "gloss-zh": "听此",
+	    "gloss-zh-morph": "这=ACC 听-ADV=SEQ",
             "words": [
               {
                 "word": "これ",
-                "gloss": "this"
+                "gloss": "this",
+		"gloss-morph": "DEM",
+		"gloss-zh": "这",
+		"gloss-zh-morph": "DEM"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=ACC"
               },
               {
                 "word": "聞き",
-                "gloss": "hear.ADV.F"
+                "gloss": "hear.ADV.F",
+		"gloss-morph": "hear-ADV",
+		"gloss-zh": "听",
+		"gloss-zh-morph": "听-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "よろこびて",
             "gloss": "rejoicing",
+	    "gloss-morph": "rejoice-ADV=SEQ",
+	    "gloss-zh": "喜悦",
+	    "gloss-zh-morph": "喜悦-ADV=SEQ",
             "words": [
               {
                 "word": "よろこび",
-                "gloss": "rejoice.ADV.F"
+                "gloss": "rejoice.ADV.F",
+		"gloss-morph": "rejoice-ADV",
+		"gloss-zh": "喜悦",
+		"gloss-zh-morph": "喜悦-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "人々をがみ奉る",
             "gloss": "the people worshiped the God",
+	    "gloss-morph": "person+person=ACC worship-ADV+HUM-CCL",
+	    "gloss-zh": "人们拜祭（神灵）",
+	    "gloss-zh-morph": "人+人=ACC 拜祭-ADV+HUM-CCL",
             "words": [
               {
                 "word": "人々",
-                "gloss": "people"
+                "gloss": "people",
+		"gloss-morph": "person+person",
+		"gloss-zh": "人们",
+		"gloss-zh-morph": "人+人"
               },
               {
                 "word": "をがみ",
-                "gloss": "worship.ADV.F"
+                "gloss": "worship.ADV.F",
+		"gloss-morph": "worship-ADV",
+		"gloss-zh": "拜祭",
+		"gloss-zh-morph": "拜祭-ADV"
               },
               {
                 "word": "奉る",
-                "gloss": "HON"
+                "gloss": "HON",
+		"gloss-morph": "+HUM-CCL",
+		"gloss-zh": "",
+		"gloss-zh-morph": "+HUM-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "これを聞いて人々は喜び、神様を拝み奉った。",
-        "translation-en-natural": "Hearing this, the people rejoiced and worshiped the deity."
+        "translation-en-natural": "Hearing this, the people rejoiced and worshiped the deity.",
+	"translation-zh-natural": "听到这个消息，人们喜出望外，纷纷拜祭神灵。"
       },
       {
         "date": "20250529",
@@ -36541,39 +36694,59 @@
         "koutei-yamagen": "山崎の橋見ゆ。",
         "translation-ja": "山崎の橋が見える。",
         "translation-en": "The bridge at Yamazaki can be seen.",
+	"translation-zh": "山崎桥可见。",
         "phrase-gloss": [
           {
             "phrase": "山崎の橋",
             "gloss": "the bridge of Yamazaki",
+	    "gloss-morph": "Yamazaki.PN=GEN bridge",
+	    "gloss-zh": "山崎桥",
+	    "gloss-zh-morph": "山崎.PN=GEN 桥",
             "words": [
               {
                 "word": "山崎",
-                "gloss": "Yamazaki"
+                "gloss": "Yamazaki",
+		"gloss-morph": "Yamazaki.PN",
+		"gloss-zh": "山崎",
+		"gloss-zh-morph": "山崎.PN"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "橋",
-                "gloss": "bridge"
+                "gloss": "bridge",
+		"gloss-morph": "bridge",
+		"gloss-zh": "桥",
+		"gloss-zh-morph": "桥"
               }
             ]
           },
           {
             "phrase": "見ゆ",
             "gloss": "can be seen",
+	    "gloss-morph": "be.visible-CCL",
+	    "gloss-zh": "可见",
+	    "gloss-zh-morph": "可见-CCL",
             "words": [
               {
                 "word": "見ゆ",
-                "gloss": "see.POT"
+                "gloss": "see.POT",
+		"gloss-morph": "be.visible-CCL",
+		"gloss-zh": "可见",
+		"gloss-zh-morph": "可见-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "山崎の橋が見えている。",
-        "translation-en-natural": "I can see the bridge at Yamazaki."
+        "translation-en-natural": "I can see the bridge at Yamazaki.",
+	"translation-zh-natural": "已经可以看见山崎桥了。"
       },
       {
         "date": "20250529",
@@ -36583,39 +36756,59 @@
         "koutei-yamagen": "嬉しきこと限りなし。",
         "translation-ja": "嬉しいこと、限りない。",
         "translation-en": "There is no limit to the joy.",
+	"translation-zh": "喜悦之情没有极限。",
         "phrase-gloss": [
           {
             "phrase": "嬉しきこと",
             "gloss": "joyful thing",
+	    "gloss-morph": "joyful-ADN=NML",
+	    "gloss-zh": "喜悦的情",
+	    "gloss-zh-morph": "喜悦-ADN=NML",
             "words": [
               {
                 "word": "嬉しき",
-                "gloss": "joyful"
+                "gloss": "joyful",
+		"gloss-morph": "joyful-ADN",
+		"gloss-zh": "喜悦的",
+		"gloss-zh-morph": "喜悦-ADN"
               },
               {
                 "word": "こと",
-                "gloss": "thing"
+                "gloss": "thing",
+		"gloss-morph": "=NML",
+		"gloss-zh": "情绪",
+		"gloss-zh-morph": "=NML"
               }
             ]
           },
           {
             "phrase": "限りなし",
             "gloss": "without limit",
+	    "gloss-morph": "limit-NML+NEG-CCL",
+	    "gloss-zh": "没有极限",
+	    "gloss-zh-morph": "限度-NML+NEG-CCL",
             "words": [
               {
                 "word": "限り",
-                "gloss": "limit"
+                "gloss": "limit",
+		"gloss-morph": "limit-NML",
+		"gloss-zh": "限度",
+		"gloss-zh-morph": "限度-NML"
               },
               {
                 "word": "なし",
-                "gloss": "exist.NEG"
+                "gloss": "exist.NEG",
+		"gloss-morph": "+NEG-CCL",
+		"gloss-zh": "没有",
+		"gloss-zh-morph": "+NEG-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "喜びは限りがない。",
-        "translation-en-natural": "The joy knows no bounds."
+        "translation-en-natural": "The joy knows no bounds.",
+	"translation-zh-natural": "喜悦之情无穷无尽。"
       },
       {
         "date": "20250529",
@@ -36625,95 +36818,154 @@
         "koutei-yamagen": "こゝに相應寺のほとりに、しばし船をとゞめてとかく定むる事あり。",
         "translation-ja": "ここに、相応寺のほとりに、しばらく船を止めて、あれこれと決めることがある。",
         "translation-en": "Here, at the edge of Sououji Temple, the boat is stopped for a while, and various things are decided.",
+	"translation-zh": "在这里，相应寺的岸边，暂时停船，有各种事情要决定。",
         "phrase-gloss": [
           {
             "phrase": "こゝに",
             "gloss": "here",
+	    "gloss-morph": "here=DAT",
+	    "gloss-zh": "在这里",
+	    "gloss-zh-morph": "这里=DAT",
             "words": [
               {
                 "word": "こゝ",
-                "gloss": "here"
+                "gloss": "here",
+		"gloss-morph": "here",
+		"gloss-zh": "这里",
+		"gloss-zh-morph": "这里"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "在",
+		"gloss-zh-morph": "=DAT"
               }
             ]
           },
           {
             "phrase": "相應寺のほとりに",
             "gloss": "at the edge of Sōōji Temple",
+	    "gloss-morph": "Sououji.PN=GEN water.side=DAT",
+	    "gloss-zh": "在相应寺的岸边",
+	    "gloss-zh-morph": "相应寺.PN=GEN 岸边=DAT",
             "words": [
               {
                 "word": "相應寺",
-                "gloss": "Sououji.Temple"
+                "gloss": "Sououji.Temple",
+		"gloss-morph": "Sououji.Temple.PN",
+		"gloss-zh": "相应寺",
+		"gloss-zh-morph": "相应寺.PN"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "ほとり",
-                "gloss": "edge"
+                "gloss": "edge",
+		"gloss-morph": "water.side",
+		"gloss-zh": "岸边",
+		"gloss-zh-morph": "岸边"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "在",
+		"gloss-zh-morph": "=DAT"
               }
             ]
           },
           {
             "phrase": "しばし船をとゞめて",
             "gloss": "stopping the boat for a while",
+	    "gloss-morph": "for.a.while boat=ACC stop-ADV=SEQ",
+	    "gloss-zh": "暂时停船",
+	    "gloss-zh-morph": "暂时 船=ACC 停-ADV=SEQ",
             "words": [
               {
                 "word": "しばし",
-                "gloss": "for.a.while"
+                "gloss": "for.a.while",
+		"gloss-morph": "for.a.while",
+		"gloss-zh": "暂时",
+		"gloss-zh-morph": "暂时"
               },
               {
                 "word": "船",
-                "gloss": "boat"
+                "gloss": "boat",
+		"gloss-morph": "boat",
+		"gloss-zh": "船",
+		"gloss-zh-morph": "船"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=ACC"
               },
               {
                 "word": "とゞめ",
-                "gloss": "stop.ADV.F"
+                "gloss": "stop.ADV.F",
+		"gloss-morph": "stop-ADV",
+		"gloss-zh": "停",
+		"gloss-zh-morph": "停-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "とかく定むる事あり",
             "gloss": "there are various things to decide",
+	    "gloss-morph": "variously decide-ADN thing exist-CCL",
+	    "gloss-zh": "有各种要决定的事项",
+	    "gloss-zh-morph": "各种.ADV 决定-ADN 事 有-CCL",
             "words": [
               {
                 "word": "とかく",
-                "gloss": "various.things"
+                "gloss": "various.things",
+		"gloss-morph": "variously",
+		"gloss-zh": "各种",
+		"gloss-zh-morph": "各种.ADV"
               },
               {
                 "word": "定むる",
-                "gloss": "decide.ATTR"
+                "gloss": "decide.ATTR",
+		"gloss-morph": "decide-ADN",
+		"gloss-zh": "要决定的",
+		"gloss-zh-morph": "决定-ADN"
               },
               {
                 "word": "事",
-                "gloss": "thing"
+                "gloss": "thing",
+		"gloss-morph": "thing",
+		"gloss-zh": "事项",
+		"gloss-zh-morph": "事"
               },
               {
                 "word": "あり",
-                "gloss": "exist"
+                "gloss": "exist",
+		"gloss-morph": "exist-CCL",
+		"gloss-zh": "有",
+		"gloss-zh-morph": "有-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "ここ、相応寺のほとりで、しばらく船を止めて、いろいろなことを決めた。",
-        "translation-en-natural": "Here by the edge of Sōōji Temple, they stopped the boat for a while to settle various matters."
+        "translation-en-natural": "Here by the edge of Sōōji Temple, they stopped the boat for a while to settle various matters.",
+	"translation-zh-natural": "我们暂时在相应寺的岸边停船。在这里有有很多要定下来的事项。"
       },
       {
         "date": "20250529",
@@ -36723,63 +36975,101 @@
         "koutei-yamagen": "この寺の岸のほとりに柳多くあり。",
         "translation-ja": "この寺の岸のほとりに、柳が多くある。",
         "translation-en": "By the shore of this temple, there are many willows.",
+	"translation-zh": "此寺的岸边有很多柳树。",
         "phrase-gloss": [
           {
             "phrase": "この寺の岸のほとりに",
             "gloss": "by the shore of this temple",
+	    "gloss-morph": "DEM=GEN temple=GEN shore=GEN water.side=DAT",
+	    "gloss-zh": "在此寺的岸边",
+	    "gloss-zh-morph": "这=GEN 寺=GEN 岸=GEN 边=DAT",
             "words": [
               {
                 "word": "この",
-                "gloss": "this"
+                "gloss": "this",
+		"gloss-morph": "DEM",
+		"gloss-zh": "这",
+		"gloss-zh-morph": "DEM"
               },
               {
                 "word": "寺",
-                "gloss": "temple"
+                "gloss": "temple",
+		"gloss-morph": "temple",
+		"gloss-zh": "寺",
+		"gloss-zh-morph": "寺"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "岸",
-                "gloss": "shore"
+                "gloss": "shore",
+		"gloss-morph": "shore",
+		"gloss-zh": "岸",
+		"gloss-zh-morph": "岸"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "ほとり",
-                "gloss": "edge"
+                "gloss": "edge",
+		"gloss-morph": "water.side",
+		"gloss-zh": "边",
+		"gloss-zh-morph": "边"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "在",
+		"gloss-zh-morph": "=DAT"
               }
             ]
           },
           {
             "phrase": "柳多くあり",
             "gloss": "many willows exist",
+	    "gloss-morph": "willow many-SER exist-CCL",
+	    "gloss-zh": "有很多柳树",
+	    "gloss-zh-morph": "柳 多-SER 有-CCL",
             "words": [
               {
                 "word": "柳",
-                "gloss": "willow"
+                "gloss": "willow",
+		"gloss-morph": "willow",
+		"gloss-zh": "柳树",
+		"gloss-zh-morph": "柳"
               },
               {
                 "word": "多く",
-                "gloss": "many"
+                "gloss": "many",
+		"gloss-morph": "many-SER",
+		"gloss-zh": "多",
+		"gloss-zh-morph": "多-SER"
               },
               {
                 "word": "あり",
-                "gloss": "exist"
+                "gloss": "exist",
+		"gloss-morph": "exist-CCL",
+		"gloss-zh": "有",
+		"gloss-zh-morph": "有-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "この寺の岸辺には柳がたくさんある。",
-        "translation-en-natural": "There are many willows along the shore of this temple."
+        "translation-en-natural": "There are many willows along the shore of this temple.",
+	"translation-zh-natural": "这座寺庙的岸边种了很多柳树。"
       },
       {
         "date": "20250529",
@@ -36789,217 +37079,353 @@
         "koutei-yamagen": "ある人この柳のかげの川の底にうつれるを見てよめる歌、",
         "translation-ja": "ある人がこの柳の影が川の底に映っているのを見て詠んだ歌、",
         "translation-en": "A poem composed by someone who saw the shadow of this willow reflected on the riverbed,",
+	"translation-zh": "有人看着这柳树的影子映在河底所咏的和歌，",
         "phrase-gloss": [
           {
             "phrase": "ある人",
             "gloss": "a certain person",
+	    "gloss-morph": "exist-ADN+person",
+	    "gloss-zh": "有人",
+	    "gloss-zh-morph": "有-ADN+人",
             "words": [
               {
                 "word": "ある",
-                "gloss": "certain"
+                "gloss": "certain",
+		"gloss-morph": "exist-ADN",
+		"gloss-zh": "有的",
+		"gloss-zh-morph": "有-ADN"
               },
               {
                 "word": "人",
-                "gloss": "person"
+                "gloss": "person",
+		"gloss-morph": "person",
+		"gloss-zh": "人",
+		"gloss-zh-morph": "人"
               }
             ]
           },
           {
             "phrase": "この柳のかげの川の底に",
             "gloss": "in the bottom of the river, the shadow of this willow",
+	    "gloss-morph": "DEM=GEN willow=GEN shadow=GEN river=GEN bottom=DAT",
+	    "gloss-zh": "这柳树的影子在河底",
+	    "gloss-zh-morph": "DEM=GEN 柳树=GEN 影子=GEN 河流=GEN 底部=DAT",
             "words": [
               {
                 "word": "この",
-                "gloss": "this"
+                "gloss": "this",
+		"gloss-morph": "DEM",
+		"gloss-zh": "这",
+		"gloss-zh-morph": "DEM"
               },
               {
                 "word": "柳",
-                "gloss": "willow"
+                "gloss": "willow",
+		"gloss-morph": "willow",
+		"gloss-zh": "柳树",
+		"gloss-zh-morph": "柳树"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "かげ",
-                "gloss": "shadow"
+                "gloss": "shadow",
+		"gloss-morph": "shadow",
+		"gloss-zh": "影子",
+		"gloss-zh-morph": "影子"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "川",
-                "gloss": "river"
+                "gloss": "river",
+		"gloss-morph": "river",
+		"gloss-zh": "河流",
+		"gloss-zh-morph": "河流"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "底",
-                "gloss": "bottom"
+                "gloss": "bottom",
+		"gloss-morph": "bottom",
+		"gloss-zh": "底部",
+		"gloss-zh-morph": "底部"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "在",
+		"gloss-zh-morph": "=DAT"
               }
             ]
           },
           {
             "phrase": "うつれるを見て",
             "gloss": "seeing it reflected",
+	    "gloss-morph": "reflect-INC+STA-ADN.NL=ACC see.ADV=SEQ",
+	    "gloss-zh": "看着...倒映",
+	    "gloss-zh-morph": "映-INC+STA-ADN.NL=ACC 看-ADV=SEQ",
             "words": [
               {
                 "word": "うつれ",
-                "gloss": "reflect.REALIS.F"
+                "gloss": "reflect.REALIS.F",
+		"gloss-morph": "reflect-INC",
+		"gloss-zh": "倒映",
+		"gloss-zh-morph": "映-INC"
               },
               {
                 "word": "る",
-                "gloss": "PERF.ATTR"
+                "gloss": "PERF.ATTR",
+		"gloss-morph": "+STA-ADN.NL",
+		"gloss-zh": "着的",
+		"gloss-zh-morph": "+STA-ADN.NL"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=ACC"
               },
               {
                 "word": "見",
-                "gloss": "see.ADV.F"
+                "gloss": "see.ADV.F",
+		"gloss-morph": "see-ADV",
+		"gloss-zh": "看",
+		"gloss-zh-morph": "看-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "よめる歌",
             "gloss": "poem composed",
+	    "gloss-morph": "compose-INC+STA-ADN poem",
+	    "gloss-zh": "所咏的和歌",
+	    "gloss-zh-morph": "咏-INC+STA-ADN 和歌",
             "words": [
               {
                 "word": "よめ",
-                "gloss": "compose.REALIS.F"
+                "gloss": "compose.REALIS.F",
+		"gloss-morph": "compose-INC",
+		"gloss-zh": "咏",
+		"gloss-zh-morph": "咏-INC"
               },
               {
                 "word": "る",
-                "gloss": "PERF.ATTR"
+                "gloss": "PERF.ATTR",
+		"gloss-morph": "+STA-ADN",
+		"gloss-zh": "了的",
+		"gloss-zh-morph": "+STA-ADN"
               },
               {
                 "word": "歌",
-                "gloss": "poem"
+                "gloss": "poem",
+		"gloss-morph": "poem",
+		"gloss-zh": "和歌",
+		"gloss-zh-morph": "和歌"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "ある人が、この柳の影が川の底に映っているのを見て詠んだ歌。",
-        "translation-en-natural": "A poem written by someone who saw the shadow of this willow reflected on the riverbed."
+        "translation-en-natural": "A poem written by someone who saw the shadow of this willow reflected on the riverbed.",
+	"translation-zh-natural": "有人看着这柳树的影子映在河底，咏了一首和歌。"
       },
       {
         "date": "20250529",
         "id": 463,
-        "text": "さゞれ浪よするあやをば青柳のかげのいとして織るかとぞ見る",
-        "kana": "さゞれなみよするあやをばあをやぎのかげのいとしておるかとぞみる",
+        "text": "さゞれ浪/よするあやをば/青柳の/かげのいとして/織るかとぞ見る",
+        "kana": "さゞれなみ/よするあやをば/あをやぎの/かげのいとして/おるかとぞみる",
         "koutei-yamagen": "さゞれ浪よするあやをば青柳のかげのいとして織るかとぞ見る",
         "translation-ja": "さざ波が寄せる模様を、青柳の影の糸で織るのかと見る。",
         "translation-en": "I see the patterns made by rippling waves being woven with the threads of the blue willow's shadow.",
+	"translation-zh": "涟漪/（将之）泛起的花纹是/青柳/用影之丝/编织的吗，（我）看",
         "phrase-gloss": [
           {
             "phrase": "さゞれ浪よする",
             "gloss": "rippling waves approach",
+	    "gloss-morph": "rippling.wave approach-ADN",
+	    "gloss-zh": "涟漪泛起的",
+	    "gloss-zh-morph": "涟漪 泛起-ADN",
             "words": [
               {
                 "word": "さゞれ浪",
-                "gloss": "rippling.waves"
+                "gloss": "rippling.waves",
+		"gloss-morph": "rippling.wave",
+		"gloss-zh": "涟漪",
+		"gloss-zh-morph": "涟漪"
               },
               {
                 "word": "よする",
-                "gloss": "approach"
+                "gloss": "approach",
+		"gloss-morph": "approach-ADN",
+		"gloss-zh": "泛起的",
+		"gloss-zh-morph": "泛起-ADN"
               }
             ]
           },
           {
             "phrase": "あやをば",
             "gloss": "the patterns (ACC)",
+	    "gloss-morph": "pattern=FAC",
+	    "gloss-zh": "花纹",
+	    "gloss-zh-morph": "花纹=FAC",
             "words": [
               {
                 "word": "あや",
-                "gloss": "pattern"
+                "gloss": "pattern",
+		"gloss-morph": "pattern",
+		"gloss-zh": "花纹",
+		"gloss-zh-morph": "花纹"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=ACC"
               },
               {
                 "word": "ば",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=FAC",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=FAC"
               }
             ]
           },
           {
             "phrase": "青柳のかげのいとして",
             "gloss": "as threads of the blue willow's shadow",
+	    "gloss-morph": "blue+willow=GEN shadow=GEN thread+do-ADV=SEQ",
+	    "gloss-zh": "青柳用影子的丝",
+	    "gloss-zh-morph": "蓝+柳=GEN 影子=GEN 丝+用-ADV=SEQ",
             "words": [
               {
                 "word": "青柳",
-                "gloss": "blue.willow"
+                "gloss": "blue.willow",
+		"gloss-morph": "blue+willow",
+		"gloss-zh": "青柳",
+		"gloss-zh-morph": "蓝+柳"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "かげ",
-                "gloss": "shadow"
+                "gloss": "shadow",
+		"gloss-morph": "shadow",
+		"gloss-zh": "影子",
+		"gloss-zh-morph": "影子"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "いと",
-                "gloss": "thread"
+                "gloss": "thread",
+		"gloss-morph": "thread",
+		"gloss-zh": "丝",
+		"gloss-zh-morph": "丝"
               },
               {
                 "word": "し",
-                "gloss": "do.ADV.F"
+                "gloss": "do.ADV.F",
+		"gloss-morph": "+do-ADV",
+		"gloss-zh": "用",
+		"gloss-zh-morph": "+用-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "織るかとぞ見る",
             "gloss": "see as if they are weaving",
+	    "gloss-morph": "weave XCL=CMP=FOC see-ADN",
+	    "gloss-zh": "看着好像在编织",
+	    "gloss-zh-morph": "编织 XCL=CMP=FOC 看-ADN",
             "words": [
               {
                 "word": "織る",
-                "gloss": "weave"
+                "gloss": "weave",
+		"gloss-morph": "weave",
+		"gloss-zh": "编织",
+		"gloss-zh-morph": "编织"
               },
               {
                 "word": "か",
-                "gloss": "Q"
+                "gloss": "Q",
+		"gloss-morph": "XCL",
+		"gloss-zh": "吗",
+		"gloss-zh-morph": "XCL"
               },
               {
                 "word": "と",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-morph": "=CMP",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=CMP"
               },
               {
                 "word": "ぞ",
-                "gloss": "EMPH"
+                "gloss": "EMPH",
+		"gloss-morph": "=FOC",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=FOC"
               },
               {
                 "word": "見る",
-                "gloss": "see"
+                "gloss": "see",
+		"gloss-morph": "see-ADN",
+		"gloss-zh": "看",
+		"gloss-zh-morph": "看-ADN"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "さざ波が寄せる模様を、青柳の影の糸で織っているのかと見える。",
-        "translation-en-natural": "It looks as if the patterns made by the rippling waves are being woven with the threads of the blue willow's shadow."
+        "translation-en-natural": "It looks as if the patterns made by the rippling waves are being woven with the threads of the blue willow's shadow.",
+	"translation-zh-natural": "涟漪泛起的花纹，看起来好像是青柳用影子的丝编织的一样。"
       },
       {
         "date": "20250529",

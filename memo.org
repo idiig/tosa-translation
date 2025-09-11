@@ -230,3 +230,6 @@ kak-ADV-RET-CCL? kak-ADV+RET-CCL?
 こどもだった => こどもいなかった
 ** id=451
 こと => thing / language / chinese poem
+** よこをれる => よこほれる
+** id=463
+text => poem
