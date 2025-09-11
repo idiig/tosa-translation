@@ -36187,57 +36187,89 @@
         "koutei-yamagen": "十日、さはることありてのぼらず。",
         "translation-ja": "十日、妨げになることがあって、上らない。",
         "translation-en": "On the tenth day, there was a hindrance, did not go up.",
+	"translation-zh": "十日，因为有阻碍，船没有前进。",
         "phrase-gloss": [
           {
             "phrase": "十日",
             "gloss": "tenth day",
+	    "gloss-morph": "ten+day",
+	    "gloss-zh": "十日",
+	    "gloss-zh-morph": "十+日",
             "words": [
               {
                 "word": "十日",
-                "gloss": "tenth day"
+                "gloss": "tenth day",
+		"gloss-morph": "ten+day",
+		"gloss-zh": "十日",
+		"gloss-zh-morph": "十+日"
               }
             ]
           },
           {
             "phrase": "さはることありて",
             "gloss": "there was a hindrance",
+	    "gloss-morph": "hinder-ADN=NML exist-ADV=SEQ",
+	    "gloss-zh": "有阻碍",
+	    "gloss-zh-morph": "阻碍-ADN=NML 有-ADV=SEQ",
             "words": [
               {
                 "word": "さはる",
-                "gloss": "hinder, obstruct"
+                "gloss": "hinder, obstruct",
+		"gloss-morph": "hinder-ADN",
+		"gloss-zh": "阻碍",
+		"gloss-zh-morph": "阻碍-ADN"
               },
               {
                 "word": "こと",
-                "gloss": "thing, matter"
+                "gloss": "thing, matter",
+		"gloss-morph": "=NML",
+		"gloss-zh": "事",
+		"gloss-zh-morph": "=NML"
               },
               {
                 "word": "あり",
-                "gloss": "exist, be"
+                "gloss": "exist, be",
+		"gloss-morph": "exist-ADV",
+		"gloss-zh": "有",
+		"gloss-zh-morph": "有-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "のぼらず",
             "gloss": "did not go up",
+	    "gloss-morph": "go.up-THM=NEG.CCL",
+	    "gloss-zh": "没有向上前进",
+	    "gloss-zh-morph": "向上行进-THM=NEG.CCL",
             "words": [
               {
                 "word": "のぼら",
-                "gloss": "go up, ascend.NEG.BASE"
+                "gloss": "go up, ascend.NEG.BASE",
+		"gloss-morph": "go.up-THM",
+		"gloss-zh": "向上行进",
+		"gloss-zh-morph": "向上行进-THM"
               },
               {
                 "word": "ず",
-                "gloss": "NEG"
+                "gloss": "NEG",
+		"gloss-morph": "=NEG.CCL",
+		"gloss-zh": "不",
+		"gloss-zh-morph": "=NEG-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "十日、いろいろあって、船は上らない。",
-        "translation-en-natural": "On the tenth day, for various reasons, the boat still did not move on."
+        "translation-en-natural": "On the tenth day, for various reasons, the boat still did not move on.",
+	"translation-zh-natural": "十日，出了一些情况，船没有前进。"
       },
       {
         "date": "20250528",
