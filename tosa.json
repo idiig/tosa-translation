@@ -9454,7 +9454,10 @@
 	]
       },
       {
-        "date": "20250130",
+        "date": [
+          20250130,
+          20250830
+        ],
         "id": 62,
         "text": "今日は都のみぞ思ひやらるゝ。",
         "kana": "けふはみやこのみぞおもひやらるゝ。",
@@ -9462,38 +9465,251 @@
         "translation-ja": "今日は都のみぞ思いやられる。",
         "translation-en": "Today, only the capital weighs on my mind.",
 	"translation-zh": "今天只是想着京城。",
-        "translation-ja-natural": "今日は都のことばかりが思いやられます。",
+        "phrase-gloss": [
+          {
+            "phrase": "今日は",
+            "gloss": "as for today,",
+            "words": [
+              {
+                "word": "今日",
+                "gloss": "today"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "都のみぞ",
+            "gloss": "only the capital (with emphasis)",
+            "words": [
+              {
+                "word": "都",
+                "gloss": "capital"
+              },
+              {
+                "word": "のみ",
+                "gloss": "only"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              }
+            ]
+          },
+          {
+            "phrase": "思ひやらるゝ",
+            "gloss": "is emotionally imagined (involuntarily)",
+            "words": [
+              {
+                "word": "思ひ",
+                "gloss": "think.ADV"
+              },
+              {
+                "word": "やら",
+                "gloss": "do.IRR"
+              },
+              {
+                "word": "るゝ",
+                "gloss": "SPONT.ATTR"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "今日は都のことばかりが思いやられる。",
         "translation-en-natural": "Today, I can't help but worry about the capital.",
 	"translation-zh-natural": "今天他们只在遥想京城。"
       },
       {
-        "date": "20250131",
+        "date": [
+          20250131,
+          20250831
+        ],
         "id": 63,
         "text": "「九重の門のしりくめ繩のなよしの頭ひゝら木らいかに」とぞいひあへる。",
         "kana": "「こへのかどのしりくめなはのなよしのかしらひひらぎいかに」とぞいひあへる。",
         "koutei-yamagen": "「九重の門のしりくめ繩の鯔の頭、柊ら、いかに」とぞ言ひあへる。",
-        "translation-ja": "「小家の門のしめ繩についた鯔の頭や柊はどうしているだろう」と言い合っている。",
-        "translation-en": "They are talking about how the heads of the zui on the cords of the gates of the commoners' houses are doing.",
+        "translation-ja": "「九重の門のしりくめ縄にあるなよしの頭や柊はどうしているのか」と言い合っている。",
+        "translation-en": "They were saying to each other, 'How are the heads of the zui fish and the holly on the twisted rope of the palace gates?'",
 	"translation-zh": "“九重之门的注连绳的鲻鱼的头，柊木，如何了？”相互说道。",
-        "translation-ja-natural": "「民家の門のしめ繩についた鯔の頭や柊は、どうしているのだろう」と話しているようです。",
-        "translation-en-natural": "They are talking about how the heads of the zui on the cords of the gates of the commoners' houses are doing.",
+        "phrase-gloss": [
+          {
+            "phrase": "九重の門の",
+            "gloss": "of the ninefold gate",
+            "words": [
+              {
+                "word": "九重",
+                "gloss": "ninefold"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "門",
+                "gloss": "gate"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "しりくめ繩の",
+            "gloss": "of the twisted rope",
+            "words": [
+              {
+                "word": "しりくめ繩",
+                "gloss": "twisted.sacred.rope"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "なよしの頭",
+            "gloss": "head of the zui fish",
+            "words": [
+              {
+                "word": "なよし",
+                "gloss": "zui.fish"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "頭",
+                "gloss": "head"
+              }
+            ]
+          },
+          {
+            "phrase": "ひゝら木らいかに",
+            "gloss": "what of the holly and such",
+            "words": [
+              {
+                "word": "ひひら木",
+                "gloss": "holly"
+              },
+              {
+                "word": "ら",
+                "gloss": "PL"
+              },
+              {
+                "word": "いかに",
+                "gloss": "how"
+              }
+            ]
+          },
+          {
+            "phrase": "とぞいひあへる",
+            "gloss": "they were saying to each other",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "あへ",
+                "gloss": "together.ADV"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              }
+            ]
+          }
+        ],
+        "translation-ja-natural": "庶民の家の門のしめ縄に飾られた鯔の頭や柊は、今ごろどうしているのか、と話していた。",
+        "translation-en-natural": "They were wondering aloud how the heads of the fish and the holly on the New Year’s ropes at commoners’ gates were doing.",
 	"translation-zh-natural": "“今年不知民家门口的注连绳上的鲻鱼头和柊木怎么样了？”他们互相说道。"
       },
       {
-        "date": "20250201",
+        "date": [
+          20250201,
+          20250901
+        ],
         "id": 64,
         "text": "二日、なほ大湊にとまれり。",
         "kana": "ふつか、なほおほみなとにとまれり。",
         "koutei-yamagen": "二日、なほ大湊に泊まれり。",
-        "translation-ja": "二日目も、まだ大湊に泊まっている。",
-        "translation-en": "On the second day, we are still staying at Ominato.",
+        "translation-ja": "二日、なお大湊に泊まっている。",
+        "translation-en": "On the second day, still at Ominato, (we) stayed.",
 	"translation-zh": "二日，仍泊于大湊。",
-        "translation-ja-natural": "二日目も、まだ大湊に泊まっています。",
+        "phrase-gloss": [
+          {
+            "phrase": "二日、",
+            "gloss": "on the second day,",
+            "words": [
+              {
+                "word": "二日",
+                "gloss": "second.day"
+              }
+            ]
+          },
+          {
+            "phrase": "なほ",
+            "gloss": "still",
+            "words": [
+              {
+                "word": "なほ",
+                "gloss": "still"
+              }
+            ]
+          },
+          {
+            "phrase": "大湊に",
+            "gloss": "at Ominato",
+            "words": [
+              {
+                "word": "大湊",
+                "gloss": "Ominato"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "とまれり。",
+            "gloss": "stayed / have stayed.",
+            "words": [
+              {
+                "word": "とまれ",
+                "gloss": "stay.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "二日目も、まだ大湊に泊まっている。",
         "translation-en-natural": "On the second day, we are still staying at Ominato.",
 	"translation-zh-natural": "第二天，我们仍停泊在大湊。"
       },
       {
-        "date": "20250202",
+        "date": [
+          20250202,
+          20250906
+        ],
         "id": 65,
         "text": "講師、物、酒などおこせたり。",
         "kana": "こうじ、もの、さけなどおこせたり。",
@@ -9501,12 +9717,60 @@
         "translation-ja": "講師が、物や酒などを送ってきた。",
         "translation-en": "The koshi sent things, sake, and other items.",
 	"translation-zh": "讲师给了物品、酒等。",
-        "translation-ja-natural": "講師が、食べ物やお酒などを差し入れてくれました。",
+        "phrase-gloss": [
+          {
+            "phrase": "講師、",
+            "gloss": "koshi",
+            "words": [
+              {
+                "word": "講師",
+                "gloss": "koshi (official)"
+              }
+            ]
+          },
+          {
+            "phrase": "物、酒など",
+            "gloss": "things, sake, and other items",
+            "words": [
+              {
+                "word": "物",
+                "gloss": "things"
+              },
+              {
+                "word": "酒",
+                "gloss": "sake"
+              },
+              {
+                "word": "など",
+                "gloss": "and so on"
+              }
+            ]
+          },
+          {
+            "phrase": "おこせたり。",
+            "gloss": "sent (them) over",
+            "words": [
+              {
+                "word": "おこせ",
+                "gloss": "send over.REALIS"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "講師が、食べ物やお酒などを差し入れてくれた。",
         "translation-en-natural": "The official kindly brought over some food and sake.",
 	"translation-zh-natural": "高僧给我们送来了食物和酒等。"
       },
       {
-        "date": "20250203",
+        "date": [
+          20250203,
+          20250907
+        ],
         "id": 66,
         "text": "三日、同じ所なり。",
         "kana": "みっか、おなじところなり。",
@@ -9514,12 +9778,52 @@
         "translation-ja": "三日、同じ所にいる。",
         "translation-en": "On the third, we are in the same place.",
 	"translation-zh": "三日，为同处。",
-        "translation-ja-natural": "三日、まだ同じ場所にいます。",
-        "translation-en-natural": "On the third, we are still in the same place.",
+        "phrase-gloss": [
+          {
+            "phrase": "三日、",
+            "gloss": "on the third day,",
+            "words": [
+              {
+                "word": "三日",
+                "gloss": "third day"
+              }
+            ]
+          },
+          {
+            "phrase": "同じ所",
+            "gloss": "same place",
+            "words": [
+              {
+                "word": "同じ",
+                "gloss": "same"
+              },
+              {
+                "word": "所",
+                "gloss": "place"
+              }
+            ]
+          },
+          {
+            "phrase": "なり。",
+            "gloss": "be",
+            "words": [
+              {
+                "word": "なり",
+                "gloss": "COP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "三日、同じ所にいる。",
+        "translation-en-natural": "On the third, we are in the same place.",
 	"translation-zh-natural": "第三天，我们仍在同处。"
       },
       {
-        "date": "20250204",
+        "date": [
+          20250204,
+          20250908
+        ],
         "id": 67,
         "text": "もし風浪のしばしと惜む心やあらむ、心もとなし。",
         "kana": "もしかぜなみのしばしとをしむこころやあらむ、こころもとなし。",
@@ -9527,12 +9831,80 @@
         "translation-ja": "風浪を少しの間惜しむ心があるのだろうか。不安でならない。",
         "translation-en": "Is there a heart that feels reluctant to part with the brief calm amid the wind and waves? I feel uneasy.",
 	"translation-zh": "有没有珍惜风浪的片刻的心吗。不安。",
+        "phrase-gloss": [
+          {
+            "phrase": "もし、",
+            "gloss": "if",
+            "words": [
+              {
+                "word": "もし",
+                "gloss": "if, supposing"
+              }
+            ]
+          },
+          {
+            "phrase": "風浪のしばしと惜む心やあらむ、",
+            "gloss": "there might be a heart that regrets even a brief moment of the wind and waves,",
+            "words": [
+              {
+                "word": "風浪",
+                "gloss": "wind and waves"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "しばし",
+                "gloss": "brief time"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "惜む",
+                "gloss": "begrudge.ATTR"
+              },
+              {
+                "word": "心",
+                "gloss": "heart"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "あら",
+                "gloss": "exist.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "SUPP"
+              }
+            ]
+          },
+          {
+            "phrase": "心もとなし。",
+            "gloss": "feel uneasy.",
+            "words": [
+              {
+                "word": "心もとなし",
+                "gloss": "uneasy, anxious"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "この風と波を、少しでも惜しむ心があるのだろうか。不安で落ち着かない。",
         "translation-en-natural": "I wonder if there's anyone who still feels attached to the brief calm amid these winds and waves. It makes me feel uneasy.",
 	"translation-zh-natural": "不知是否有人会对这短暂的风浪感到留恋？这让我感到不安。"
       },
       {
-        "date": "20250205",
+        "date": [
+          20250205,
+          20250910
+        ],
         "id": 68,
         "text": "四日、風吹けばえ出でたゝず。",
         "kana": "よっか、かぜふけばえいでたたず。",
@@ -9540,12 +9912,68 @@
         "translation-ja": "四日、風が吹くので、出ていけない。",
         "translation-en": "On the fourth, because the wind blows, we can't go out.",
 	"translation-zh": "四日，因风起，不能出发。",
-        "translation-ja-natural": "四日、風が強く吹いて、港を出ることができません。",
+        "phrase-gloss": [
+          {
+            "phrase": "四日、",
+            "gloss": "on the fourth day,",
+            "words": [
+              {
+                "word": "四日",
+                "gloss": "fourth day"
+              }
+            ]
+          },
+          {
+            "phrase": "風吹けば",
+            "gloss": "because the wind blows",
+            "words": [
+              {
+                "word": "風",
+                "gloss": "wind"
+              },
+              {
+                "word": "吹け",
+                "gloss": "blow.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "え出でたゝず。",
+            "gloss": "cannot go out",
+            "words": [
+              {
+                "word": "え",
+                "gloss": "NEG.POT"
+              },
+              {
+                "word": "出で",
+                "gloss": "go out.ADV"
+              },
+              {
+                "word": "たた",
+                "gloss": "stand.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "四日、風が強く吹いて、港を出ることができない。",
         "translation-en-natural": "On the fourth, we can't set sail because of the strong wind.",
 	"translation-zh-natural": "第四天，由于风大，无法出航。"
       },
       {
-        "date": "20250206",
+        "date": [
+          20250206,
+          20250912
+        ],
         "id": 69,
         "text": "昌連酒よき物たてまつれり。",
         "kana": "まさつらさけよきものたてまつれり。",
@@ -9553,7 +9981,52 @@
         "translation-ja": "昌連が、酒や良い品を奉る。",
         "translation-en": "Masatsura contributes sake and fine goods.",
 	"translation-zh": "昌连献了酒、好物。",
-        "translation-ja-natural": "昌連が、航海の無事を祈って、酒や結構な品物をお供えしてくれました。",
+        "phrase-gloss": [
+          {
+            "phrase": "昌連",
+            "gloss": "Masatsura",
+            "words": [
+              {
+                "word": "昌連",
+                "gloss": "Masatsura.PN"
+              }
+            ]
+          },
+          {
+            "phrase": "酒よき物",
+            "gloss": "sake and fine goods",
+            "words": [
+              {
+                "word": "酒",
+                "gloss": "sake"
+              },
+              {
+                "word": "よき",
+                "gloss": "good.ATTR"
+              },
+              {
+                "word": "物",
+                "gloss": "thing"
+              }
+            ]
+          },
+          {
+            "phrase": "たてまつれり。",
+            "gloss": "offer.HON PERF",
+            "words": [
+              {
+                "word": "たてまつれ",
+                "gloss": "offer.HON.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+	"translation-ja-natural": "昌連が、航海の無事を祈って、酒や結構な品物をお供えしてくれました。",
         "translation-en-natural": "Masatsura contributed sake and fine goods as an offering to pray for a safe voyage.",
 	"translation-zh-natural": "昌连献上了酒和精美的物品，作为祈愿航海平安的供品。",
         "notes-ja": {
@@ -11234,9 +11707,16 @@
         "translation-ja-natural": "十三日の夜明けに小雨が降っていました。",
         "translation-en-natural": "On the thirteenth, light rain fell at dawn.",
 	"translation-zh-natural": "十三日黎明，下起了小雨。",
-        "notes-ja": {
-          "オリジナルの校訂": "十三日の曉にいささか小（にイ）雨ふる。"
-        }
+        "notes-ja": [
+          {
+            "title": "オリジナルの校訂",
+            "note": "十三日の曉にいさか小（にイ）雨ふる。"
+          },
+          {
+            "title": "「いささかに」or 「小雨」",
+            "note": "いささか小（にイ）雨ふる。"
+          }
+        ]
       },
       {
         "date": "20250321",
@@ -11260,7 +11740,7 @@
         "translation-ja": "男女の誰彼が、湯に入ろうとして、周囲の良い場所に降りて行く。",
         "translation-en": "Some men and women go down to a good place nearby to bathe.",
 	"translation-zh": "男人女人，这人那人，想着洗澡，向附近的好地方下（船）走去。",
-        "translation-ja-natural": "男女はおのおの湯に入ろうとして、周囲の良い場所に降りて行きました。",
+        "translation-ja-natural": "男女はおのおの湯に入ろうとして、周囲の良い場所に降りて行った。",
         "translation-en-natural": "Men and women went down to a suitable spot nearby to bathe.",
 	"translation-zh-natural": "男人和女人们打算去洗澡，便下船向附近的合适的地方走去。"
       },
@@ -11371,7 +11851,25 @@
 	"translation-zh": "那是，说着害怕海之神，借口到某处芦苇的阴影，把（与）海鞘的成对的寿司、寿司鲍鱼，举到不在意的胡枝子，展示了起来。",
         "translation-ja-natural": "それは、海の神にさらわれるのを恐れてと言い、どこかの葦の陰に隠れて、恥ずかしいとも思わずに、老いた海女のように、身につけたものをまくし上げて見せたのです。",
         "translation-en-natural": "They said it was out of fear of the sea god, and, hiding in some reed’s shade, shamelessly lifted their garments like an old fisherwoman and showed themselves.",
-	"translation-zh-natural": "不穿红衣的女人们说是因为害怕海神，就借口跑到某处芦苇的阴影里，把与海鞘（=男性器）成对的贻贝寿司和寿司用的鲍鱼（=女性器），高举到无心的胡枝子（hagi=萩=小腿=胡枝子）上，以示海神。【其实是女人们跑到遮不住人的芦苇丛中，不止廉耻地把衣物掀到小腿上，向男人展示了起来自己的女人味】"
+	"translation-zh-natural": "不穿红衣的女人们说是因为害怕海神，就借口跑到某处芦苇的阴影里，把与海鞘（=男性器）成对的贻贝寿司和寿司用的鲍鱼（=女性器），高举到无心的胡枝子（hagi=萩=小腿=胡枝子）上，以示海神。【其实是女人们跑到遮不住人的芦苇丛中，不止廉耻地把衣物掀到小腿上，向男人展示了起来自己的女人味】",
+        "notes-ja": [
+          {
+            "title": "露骨に訳さないほうがよい部分(注意)",
+            "note": "それは、海の神にさらわれるのを恐れてと言い、どこかの葦の陰に隠れて、恥ずかしいとも思わずに、老いた海女のように、身につけたものをまくし上げて見せたのです。"
+          }
+        ],
+	"notes-en": [
+	  {
+	    "title": "",
+	    "note": ""
+	  }
+	],
+	"notes-zh": [
+	  {
+	    "title": "",
+	    "note": ""
+	  }
+	]
       },
       {
         "date": "20250324",
@@ -12610,7 +13108,7 @@
         "kana": "これをみてぞなかまろのぬし「わがくににはかかるうたをなむかみよよりかみもよんたび、いまはかみなかしものひともかうやうにわかれおしみ、よろこびもあり、かなしみもあるときにはよむ」とてよめりけるうた、",
         "koutei-yamagen": "これを見てぞ仲麻呂のぬし「我が国にはかゝる歌をなむ神代より神もよんたび、今は上中下の人もかうやうに別れ惜しみ、よろこびもあり、かなしみもある時には詠む」とてよめりける歌、",
         "translation-ja": "これを見て仲麻呂の主は「我が国にはこのような歌を神代より神も詠み、今は上中下の人もこのように別れ惜しみ、喜びもあり、悲しみもある時には詠む」と言って詠んだ歌は、",
-        "translation-en": "Seeing this, Nakamaro's lord said, 'In our country, such songs have been sung since the age of the gods, and now all people, high and low, sing them in times of parting, joy, and sorrow.' He then recited a poem:",
+        "translation-en": "Seeing this, the Load, Nakamaro said, 'In our country, such songs have been sung since the age of the gods, and now all people, high and low, sing them in times of parting, joy, and sorrow.' He then recited a poem:",
 	"translation-zh": "见此，仲麻吕大人想着，“在我国，这样的歌，自神话时代，神也曾吟诵过。现在，上中下层的人也这样，惜别、亦有喜、亦有悲时吟诵。”，吟诵了和歌：",
         "translation-ja-natural": "これを見て仲麻呂の主は「我が国ではこのような歌を神代より神も詠み、今は上中下の人々もこのように別れを惜しみ、喜びや悲しみの時には詠む」と言って詠んだ歌は、",
         "translation-en-natural": "Seeing this, Nakamaro's lord said, 'In our country, such songs have been sung since the age of the gods, and now all people, high and low, sing them in times of parting, joy, and sorrow.' He then recited a poem:",
@@ -12662,9 +13160,9 @@
         "kana": "もろこしとこのくにとはことことなるものなれど、つきのかげはおなじことなるべければひとのこころもおなじことにやあらむ。",
         "koutei-yamagen": "もろこしとこの國とは言異なるものなれど、月の影は同じことなるべければ人の心も同じことにやあらむ。",
         "translation-ja": "唐とこの国とは言葉は異なるものだが、月の影は同じことなので、人の心も同じことなのだろうか。",
-        "translation-en": "Though the language of China and this country is different, the moon's shadow is the same, so perhaps human hearts are the same as well.",
 	"translation-zh": "唐土与此国，语言虽是不同之物，月光应是相同之物，因此人的心也是相同之物吧。",
-        "translation-ja-natural": "唐とこの国とは言葉は異なるものですが、月の影は同じですから、人の心も同じことなのでしょうか。",
+        "translation-en": "Though the language of China and this country is different, the moon light is the same, so perhaps human hearts are the same as well.",
+        "translation-ja-natural": "唐とこの国とは言葉は異なるものですが、月の光は同じですから、人の心も同じことなのでしょうか。",
         "translation-en-natural": "Though the language of China and this country is different, the moon's shadow is the same, so perhaps human hearts are the same as well.",
 	"translation-zh-natural": "唐国与这个国家，语言虽然不同，但月光是相同的，所以人的心也是相同的吧。",
         "notes-ja": {
@@ -13374,7 +13872,11 @@
 	}
       },
       {
-        "date": "20250424",
+        "date": [
+          20250424,
+          20250829,
+          20250000
+        ],
         "id": 289,
         "text": "廿六日、まことにやあらむ、海賊追ふといへば夜はばかりより船をいだして漕ぎくる。",
         "kana": "にじふろくにち、まことにやあらむ、かいぞくおふといへばよるはばかりよりふねをいだしてこぎくる。",
@@ -13404,8 +13906,8 @@
         "translation-ja": "途中に、手向けをするところがある。",
         "translation-en": "There is a place to pray along the way.",
 	"translation-zh": "路上有个祈祷之处。",
-        "translation-ja-natural": "道に曲げる所がある。",
-        "translation-en-natural": "There is a place to turn on the road.",
+        "translation-ja-natural": "道に手向ける所がある。",
+        "translation-en-natural": "There is a place to pray on the road.",
 	"translation-zh-natural": "路上有个祈祷旅途安全的地方。",
         "notes-ja": {
           "location": {
@@ -15024,7 +15526,7 @@
         "kana": "つまのいとながくなりにたるをみてひをかぞふれば、きょうはこひなりければきらず。",
         "koutei-yamagen": "爪のいと長くなりにたるを見て日を數ふれば、今日は子の日なりければ切らず。",
         "translation-ja": "爪がとても長くなっているのを見て、日を数えると、今日は子の日なので切らない。",
-        "translation-en": "Seeing that my nails have grown very long, I count the days and find that today is the day of the mouse, so I do not cut them.",
+        "translation-en": "Seeing that my nails have grown very long, I count the days and find that today is the day of the rat, so I do not cut them.",
 	"translation-zh": "看见指甲已变得很长，日子一数，今天到了子日，因此不剪。",
         "phrase-gloss": [
           {
@@ -15263,7 +15765,7 @@
         "notes-en": [
           {
             "title": "Custom of not cutting nails on the Day of the Rat",
-            "note": "The character 「子」is read as 'ne' and represents the rat in the Chinese zodiac. In the Heian period, it was considered auspicious to cut fingernails on the Day of the Ox and toenails on the Day of the Tiger, while cutting nails on other days was avoided. This custom is recorded in 'Kujō-dono Ikkai,' a book of admonitions written by Fujiwara no Morosuke. Therefore, it was considered preferable not to cut nails on the Day of the Rat."
+            "note": "The character 「子」is read as 'ne' and represents the rat in the Chinese zodiac. In the Heian period, it was considered auspicious to cut fingernails on the Day of the Ox and toenails on the Day of the Tiger, while cutting nails on other days was avoided. This custom is recorded in 'Kujo-dono Ikkai,' a book of admonitions written by Fujiwara no Morosuke. Therefore, it was considered preferable not to cut nails on the Day of the Rat."
           }
         ],
 	"notes-zh": [
