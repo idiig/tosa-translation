@@ -37435,53 +37435,82 @@
         "koutei-yamagen": "十二日、山崎にとまれり。",
         "translation-ja": "十二日、山崎に泊った。",
         "translation-en": "On the twelfth day, stayed at Yamazaki.",
+	"translation-zh": "十二日，停泊于山崎。",
         "phrase-gloss": [
           {
             "phrase": "十二日",
             "gloss": "twelfth day",
+	    "gloss-morph": "tenth.day+plus two+day",
+	    "gloss-zh": "十二日",
+	    "gloss-zh-morph": "十日+余 二+日",
             "words": [
               {
-                "word": "十二",
-                "gloss": "twelve"
+                "word": "十",
+                "gloss": "tenth.day+plus",
+		"gloss-morph": "tenth.day+plus",
+		"gloss-zh": "十日+余",
+		"gloss-zh-morph": "十日+余"
               },
               {
-                "word": "日",
-                "gloss": "day"
+                "word": "二日",
+                "gloss": "two+day",
+		"gloss-morph": "two+day",
+		"gloss-zh": "二日",
+		"gloss-zh-morph": "二+日"
               }
             ]
           },
           {
             "phrase": "山崎に",
             "gloss": "at Yamazaki",
+	    "gloss-morph": "Yamazaki.PN=DAT",
+	    "gloss-zh": "在山崎",
+	    "gloss-zh-morph": "山崎.PN=DAT",
             "words": [
               {
                 "word": "山崎",
-                "gloss": "Yamazaki.PN"
+                "gloss": "Yamazaki.PN",
+		"gloss-morph": "Yamazaki.PN",
+		"gloss-zh": "山崎",
+		"gloss-zh-morph": "山崎.PN"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "在",
+		"gloss-zh-morph": "=DAT"
               }
             ]
           },
           {
             "phrase": "とまれり",
             "gloss": "stayed",
+	    "gloss-morph": "stay-INC+STA-CCL",
+	    "gloss-zh": "停泊了",
+	    "gloss-zh-morph": "停泊-INC+STA-CCL",
             "words": [
               {
                 "word": "とまれ",
-                "gloss": "stay.REALIS"
+                "gloss": "stay.REALIS",
+		"gloss-morph": "stay-INC",
+		"gloss-zh": "停泊",
+		"gloss-zh-morph": "停泊-INC"
               },
               {
                 "word": "り",
-                "gloss": "PERF.FIN"
+                "gloss": "PERF.FIN",
+		"gloss-morph": "+STA-CCL",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "了"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "十二日、山崎に泊まった。",
-        "translation-en-natural": "On the twelfth day, they stayed at Yamazaki."
+        "translation-en-natural": "On the twelfth day, they stayed at Yamazaki.",
+	"translation-zh-natural": "十二日，我们停泊在了山崎。"
       },
       {
         "date": "20250529",
@@ -37491,43 +37520,66 @@
         "koutei-yamagen": "十三日、なほ山崎に。",
         "translation-ja": "十三日、なお山崎に。",
         "translation-en": "On the thirteenth day, still at Yamazaki.",
+	"translation-zh": "十三日，仍在山崎。",
         "phrase-gloss": [
           {
             "phrase": "十三日",
             "gloss": "thirteenth day",
+	    "gloss-morph": "tenth.day+plus three+day",
+	    "gloss-zh": "十三日",
+	    "gloss-zh-morph": "十日+余 三+日",
             "words": [
               {
-                "word": "十三",
-                "gloss": "thirteen"
+                "word": "十",
+                "gloss": "tenth.day+plus",
+		"gloss-morph": "tenth.day+plus",
+		"gloss-zh": "十",
+		"gloss-zh-morph": "十日+余"
               },
               {
-                "word": "日",
-                "gloss": "day"
+                "word": "三日",
+                "gloss": "three+day",
+		"gloss-morph": "three+day",
+		"gloss-zh": "三日",
+		"gloss-zh-morph": "三+日"
               }
             ]
           },
           {
             "phrase": "なほ山崎に",
             "gloss": "still at Yamazaki",
+	    "gloss-morph": "still Yamazaki.PN=DAT",
+	    "gloss-zh": "仍在山崎",
+	    "gloss-zh-morph": "仍 山崎.PN=DAT",
             "words": [
               {
                 "word": "なほ",
-                "gloss": "still"
+                "gloss": "still",
+		"gloss-morph": "still",
+		"gloss-zh": "仍",
+		"gloss-zh-morph": "仍"
               },
               {
                 "word": "山崎",
-                "gloss": "Yamazaki.PN"
+                "gloss": "Yamazaki.PN",
+		"gloss-morph": "Yamazaki.PN",
+		"gloss-zh": "山崎",
+		"gloss-zh-morph": "山崎.PN"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "在",
+		"gloss-zh-morph": "=DAT"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "十三日、まだ山崎にいる。",
-        "translation-en-natural": "On the thirteenth day, they were still at Yamazaki."
+        "translation-en-natural": "On the thirteenth day, they were still at Yamazaki.",
+	"translation-zh-natural": "十三日，我们仍在山崎。"
       },
       {
         "date": "20250529",
@@ -37537,38 +37589,58 @@
         "koutei-yamagen": "十四日、雨ふる。",
         "translation-ja": "十四日、雨が降る。",
         "translation-en": "On the fourteenth day, it rained.",
+	"translation-zh": "十四日，落雨。",
         "phrase-gloss": [
           {
             "phrase": "十四日",
             "gloss": "fourteenth day",
+	    "gloss-morph": "tenth.day+plus four+day",
+	    "gloss-zh": "十四日",
+	    "gloss-zh-morph": "十日+余 四+日",
             "words": [
               {
-                "word": "十四",
-                "gloss": "fourteen"
+                "word": "十",
+                "gloss": "tenth.day+plus",
+		"gloss-morph": "tenth.day+plus",
+		"gloss-zh": "十",
+		"gloss-zh-morph": "十日+余"
               },
               {
-                "word": "日",
-                "gloss": "day"
+                "word": "四日",
+                "gloss": "four+day",
+		"gloss-morph": "four+day",
+		"gloss-zh": "四日",
+		"gloss-zh-morph": "四+日"
               }
             ]
           },
           {
             "phrase": "雨ふる",
             "gloss": "it rains",
+	    "gloss-morph": "rain fall-CCL",
+	    "gloss-zh": "雨落",
+	    "gloss-zh-morph": "雨 落-CCL",
             "words": [
               {
                 "word": "雨",
-                "gloss": "rain"
+                "gloss": "rain",
+		"gloss-morph": "rain",
+		"gloss-zh": "雨",
+		"gloss-zh-morph": "雨"
               },
               {
                 "word": "ふる",
-                "gloss": "fall"
+                "gloss": "fall",
+		"gloss-morph": "fall-CCL",
+		"gloss-zh": "落",
+		"gloss-zh-morph": "落-CCL"
               }
             ]
           }
         ],
         "translation-ja-natural": "十四日、雨が降る。",
-        "translation-en-natural": "On the fourteenth day, it rained."
+        "translation-en-natural": "On the fourteenth day, it rained.",
+	"translation-zh-natural": "十四日，下雨了。"
       },
       {
         "date": "20250529",
@@ -37578,57 +37650,89 @@
         "koutei-yamagen": "けふ車京へとりにやる。",
         "translation-ja": "今日、車を京へ取りにやる。",
         "translation-en": "Today, (someone) is sent to Kyoto to fetch the carriage.",
+	"translation-zh": "今日，派（人）去京都取车。",
         "phrase-gloss": [
           {
             "phrase": "けふ",
             "gloss": "today",
+	    "gloss-morph": "today",
+	    "gloss-zh": "今日",
+	    "gloss-zh-morph": "今日",
             "words": [
               {
                 "word": "けふ",
-                "gloss": "today"
+                "gloss": "today",
+		"gloss-morph": "today",
+		"gloss-zh": "今日",
+		"gloss-zh-morph": "今日"
               }
             ]
           },
           {
             "phrase": "車京へ",
             "gloss": "the carriage to Kyoto",
+	    "gloss-morph": "carriage Kyoto.PN=ALL",
+	    "gloss-zh": "车到京都",
+	    "gloss-zh-morph": "车 京都.PN=ALL",
             "words": [
               {
                 "word": "車",
-                "gloss": "carriage"
+                "gloss": "carriage",
+		"gloss-morph": "carriage",
+		"gloss-zh": "车",
+		"gloss-zh-morph": "车"
               },
               {
                 "word": "京",
-                "gloss": "Kyoto"
+                "gloss": "Kyoto",
+		"gloss-morph": "Kyoto.PN",
+		"gloss-zh": "京都",
+		"gloss-zh-morph": "京都.PN"
               },
               {
                 "word": "へ",
-                "gloss": "ALL"
+                "gloss": "ALL",
+		"gloss-morph": "=ALL",
+		"gloss-zh": "到",
+		"gloss-zh-morph": "=ALL"
               }
             ]
           },
           {
             "phrase": "とりにやる",
             "gloss": "send to fetch",
+	    "gloss-morph": "fetch-NML=PUR send-CCL",
+	    "gloss-zh": "去取/派去",
+	    "gloss-zh-morph": "取-NML=PUR 派-CCL",
             "words": [
               {
                 "word": "とり",
-                "gloss": "fetch"
+                "gloss": "fetch",
+		"gloss-morph": "fetch-NML",
+		"gloss-zh": "取",
+		"gloss-zh-morph": "取-NML"
               },
               {
                 "word": "に",
-                "gloss": "PURP"
+                "gloss": "PURP",
+		"gloss-morph": "=PUR",
+		"gloss-zh": "去",
+		"gloss-zh-morph": "=PUR"
               },
               {
                 "word": "やる",
-                "gloss": "send"
+                "gloss": "send",
+		"gloss-morph": "send-CCL",
+		"gloss-zh": "派",
+		"gloss-zh-morph": "派-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "今日、車を取りに京都へ人をやった。",
-        "translation-en-natural": "Today, someone was sent to Kyoto to fetch the carriage."
+        "translation-en-natural": "Today, someone was sent to Kyoto to fetch the carriage.",
+	"translation-zh-natural": "今天，（国守）派人去京都取车。"
       },
       {
         "date": "20250529",
@@ -37638,65 +37742,103 @@
         "koutei-yamagen": "十五日、今日車ゐてきたれり。",
         "translation-ja": "十五日、今日、車を率いて来た。",
         "translation-en": "On the fifteenth day, (someone) brought the carriage here today.",
+	"translation-zh": "十五日，今日，领着车来了。",
         "phrase-gloss": [
           {
             "phrase": "十五日",
             "gloss": "fifteenth day",
+	    "gloss-morph": "tenth.day+plus five+day",
+	    "gloss-zh": "十五日",
+	    "gloss-zh-morph": "十日+余 五+日",
             "words": [
               {
-                "word": "十五",
-                "gloss": "fifteen"
+                "word": "十",
+                "gloss": "tenth.day+plus",
+		"gloss-morph": "tenth.day+plus",
+		"gloss-zh": "十",
+		"gloss-zh-morph": "十日+余"
               },
               {
-                "word": "日",
-                "gloss": "day"
+                "word": "五日",
+                "gloss": "five+day",
+		"gloss-morph": "five+day",
+		"gloss-zh": "五日",
+		"gloss-zh-morph": "五+日"
               }
             ]
           },
           {
             "phrase": "今日",
             "gloss": "today",
+	    "gloss-morph": "today",
+	    "gloss-zh": "今日",
+	    "gloss-zh-morph": "今日",
             "words": [
               {
                 "word": "今日",
-                "gloss": "today"
+                "gloss": "today",
+		"gloss-morph": "today",
+		"gloss-zh": "今日",
+		"gloss-zh-morph": "今日"
               }
             ]
           },
           {
             "phrase": "車ゐてきたれり",
             "gloss": "brought the carriage here",
+	    "gloss-morph": "carriage lead.ADV=SEQ come-ADV+STA-INC+STA-CCL",
+	    "gloss-zh": "领着车来了",
+	    "gloss-zh-morph": "车 领-ADV=SEQ 来-ADV+STA-INC+STA-CCL",
             "words": [
               {
                 "word": "車",
-                "gloss": "carriage"
+                "gloss": "carriage",
+		"gloss-morph": "carriage",
+		"gloss-zh": "车",
+		"gloss-zh-morph": "车"
               },
               {
                 "word": "ゐ",
-                "gloss": "lead.ADV.F"
+                "gloss": "lead.ADV.F",
+		"gloss-morph": "lead-ADV",
+		"gloss-zh": "领",
+		"gloss-zh-morph": "领-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=SEQ"
               },
               {
                 "word": "き",
-                "gloss": "come"
+                "gloss": "come",
+		"gloss-morph": "come-ADV",
+		"gloss-zh": "来",
+		"gloss-zh-morph": "来-ADV"
               },
               {
                 "word": "たれ",
-                "gloss": "PERF.REALIS"
+                "gloss": "PERF.REALIS",
+		"gloss-morph": "+STA-INC",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "+STA-INC"
               },
               {
                 "word": "り",
-                "gloss": "PERF.FIN"
+                "gloss": "PERF.FIN",
+		"gloss-morph": "+STA-CCL",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "+STA-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "十五日、今日、車を率いて来た。",
-        "translation-en-natural": "On the fifteenth day, someone brought the carriage here today."
+        "translation-en-natural": "On the fifteenth day, someone brought the carriage here today.",
+	"translation-zh-natural": "十五日，今天使者领着车来了。"
       },
       {
         "date": "20250529",
@@ -37706,73 +37848,117 @@
         "koutei-yamagen": "船のむつかしさに船より人の家にうつる。",
         "translation-ja": "船のむつかしさに、船から人の家に移る。",
         "translation-en": "Due to the difficulty of the boat, (we) moved from the boat to a person's house.",
+	"translation-zh": "因为船的难受，从船上移动到人的家里。",
         "phrase-gloss": [
           {
             "phrase": "船のむつかしさに",
             "gloss": "due to the difficulty of the boat",
+	    "gloss-morph": "boat=GEN difficulty-NML=CSL",
+	    "gloss-zh": "因为船的难受",
+	    "gloss-zh-morph": "船=GEN 难的-NML=CSL",
             "words": [
               {
                 "word": "船",
-                "gloss": "boat"
+                "gloss": "boat",
+		"gloss-morph": "boat",
+		"gloss-zh": "船",
+		"gloss-zh-morph": "船"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "むつかしさ",
-                "gloss": "difficulty"
+                "gloss": "difficulty",
+		"gloss-morph": "difficulty-NML",
+		"gloss-zh": "难的",
+		"gloss-zh-morph": "难的-NML"
               },
               {
                 "word": "に",
-                "gloss": "DAT/CAUSE"
+                "gloss": "DAT/CAUSE",
+		"gloss-morph": "=CSL",
+		"gloss-zh": "因为",
+		"gloss-zh-morph": "=CSL"
               }
             ]
           },
           {
             "phrase": "船より人の家に",
             "gloss": "from the boat to a person's house",
+	    "gloss-morph": "boat=ABL person=GEN house=ALL",
+	    "gloss-zh": "从船上到人的家里",
+	    "gloss-zh-morph": "船=ABL 人=GEN 家=ALL",
             "words": [
               {
                 "word": "船",
-                "gloss": "boat"
+                "gloss": "boat",
+		"gloss-morph": "boat",
+		"gloss-zh": "船",
+		"gloss-zh-morph": "船"
               },
               {
                 "word": "より",
-                "gloss": "ABL"
+                "gloss": "ABL",
+		"gloss-morph": "=ABL",
+		"gloss-zh": "从",
+		"gloss-zh-morph": "=ABL"
               },
               {
                 "word": "人",
-                "gloss": "person"
+                "gloss": "person",
+		"gloss-morph": "person",
+		"gloss-zh": "人",
+		"gloss-zh-morph": "人"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "家",
-                "gloss": "house"
+                "gloss": "house",
+		"gloss-morph": "house",
+		"gloss-zh": "家",
+		"gloss-zh-morph": "家"
               },
               {
                 "word": "に",
-                "gloss": "ALL"
+                "gloss": "ALL",
+		"gloss-morph": "=ALL",
+		"gloss-zh": "到",
+		"gloss-zh-morph": "=ALL"
               }
             ]
           },
           {
             "phrase": "うつる",
             "gloss": "move",
+	    "gloss-morph": "move-CCL",
+	    "gloss-zh": "移动",
+	    "gloss-zh-morph": "移动-CCL",
             "words": [
               {
                 "word": "うつる",
-                "gloss": "move"
+                "gloss": "move",
+		"gloss-morph": "move-CCL",
+		"gloss-zh": "移动",
+		"gloss-zh-morph": "移动-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "船が難儀なので、船から人の家に移った。",
-        "translation-en-natural": "Because the boat was difficult to endure, we moved from the boat to someone's house."
+        "translation-en-natural": "Because the boat was difficult to endure, we moved from the boat to someone's house.",
+	"translation-zh-natural": "因为船上不好受，我们从船上搬到了人的家里。"
       },
       {
         "date": "20250529",
@@ -37782,69 +37968,110 @@
         "koutei-yamagen": "この人の家よろこべるやうにてあるじしたり。",
         "translation-ja": "この人の家は喜ばしいようで、主人を務めた。",
         "translation-en": "This person's house seemed joyful, and (they) served as the host.",
+	"translation-zh": "此人的家（人）高兴的样子，作为主人招待了（我们）。",
         "phrase-gloss": [
           {
             "phrase": "この人の家",
             "gloss": "this person's house",
+	    "gloss-morph": "DEM=GEN person=GEN famaily",
+	    "gloss-zh": "此人的家（人）",
+	    "gloss-zh-morph": "此人=GEN 人=GEN 家",
             "words": [
               {
                 "word": "この",
-                "gloss": "this"
+                "gloss": "this",
+		"gloss-morph": "DEM=GEN",
+		"gloss-zh": "此人",
+		"gloss-zh-morph": "DEM=GEN"
               },
               {
                 "word": "人",
-                "gloss": "person"
+                "gloss": "person",
+		"gloss-morph": "person=GEN",
+		"gloss-zh": "人",
+		"gloss-zh-morph": "人=GEN"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "家",
-                "gloss": "house"
+                "gloss": "house",
+		"gloss-morph": "famaily",
+		"gloss-zh": "家（人）",
+		"gloss-zh-morph": "家（人）"
               }
             ]
           },
           {
             "phrase": "よろこべるやうにて",
             "gloss": "seeming joyful",
+	    "gloss-morph": "rejoice-INC+STA-ADN appearance=SEQ",
+	    "gloss-zh": "感到高兴的样子，于是",
+	    "gloss-zh-morph": "感到高兴-INC+STA-ADN 样子=SEQ",
             "words": [
               {
                 "word": "よろこべる",
-                "gloss": "rejoice.ATTR"
+                "gloss": "rejoice.ATTR",
+		"gloss-morph": "rejoice-INC+STA-ADN",
+		"gloss-zh": "感到了高兴的",
+		"gloss-zh-morph": "感到高兴-INC+STA-ADN"
               },
               {
                 "word": "やう",
-                "gloss": "appearance"
+                "gloss": "appearance",
+		"gloss-morph": "appearance",
+		"gloss-zh": "样子",
+		"gloss-zh-morph": "样子"
               },
               {
                 "word": "にて",
-                "gloss": "with"
+                "gloss": "with",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "于是",
+		"gloss-zh-morph": "=SEQ"
               }
             ]
           },
           {
             "phrase": "あるじしたり",
             "gloss": "acted as host",
+	    "gloss-morph": "host+do-ADV+STA-CCL",
+	    "gloss-zh": "招待了",
+	    "gloss-zh-morph": "主人+做-ADV+STA-CCL",
             "words": [
               {
                 "word": "あるじ",
-                "gloss": "host"
+                "gloss": "host",
+		"gloss-morph": "host",
+		"gloss-zh": "主人",
+		"gloss-zh-morph": "主人"
               },
               {
                 "word": "し",
-                "gloss": "do"
+                "gloss": "do",
+		"gloss-morph": "+do-ADV",
+		"gloss-zh": "做",
+		"gloss-zh-morph": "+做-ADV"
               },
               {
                 "word": "たり",
-                "gloss": "PERF.FIN"
+                "gloss": "PERF.FIN",
+		"gloss-morph": "+STA-CCL",
+		"gloss-zh": "了",
+		"gloss-zh-morph": "+STA-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "この人の家は嬉しそうに、主人役を務めてくれた。",
-        "translation-en-natural": "The people of this house happily served as hosts."
+        "translation-en-natural": "The people of this house happily served as hosts.",
+	"translation-zh-natural": "这户人家很高兴的样子，招待了（我们）。"
       },
       {
         "date": "20250529",
@@ -37854,77 +38081,124 @@
         "koutei-yamagen": "このあるじの又あるじのよきを見るに、うたておもほゆ。",
         "translation-ja": "このあるじの、またそのあるじの良さを見ると、なんとも言えない気持ちがする。",
         "translation-en": "Seeing the goodness of this host and the host of this host, it evokes an indescribable, uneasy feeling.",
+	"translation-zh": "看到这个家主、还有这招待的周到，感到不快。",
         "phrase-gloss": [
           {
             "phrase": "このあるじの又あるじのよきを",
             "gloss": "this host's and also that host's goodness",
+	    "gloss-morph": "DEM=GEN host=GEN also host.behavior=GEN good-ADN.NL=ACC",
+	    "gloss-zh": "这个家主的、还有这招待的周到",
+	    "gloss-zh-morph": "DEM=GEN 主人=GEN 还有 招待行为=GEN 好的-ADN.NL=ACC",
             "words": [
               {
                 "word": "この",
-                "gloss": "this"
+                "gloss": "this",
+		"gloss-morph": "DEM=GEN",
+		"gloss-zh": "这个",
+		"gloss-zh-morph": "DEM=GEN"
               },
               {
                 "word": "あるじ",
-                "gloss": "host"
+                "gloss": "host",
+		"gloss-morph": "host",
+		"gloss-zh": "主人",
+		"gloss-zh-morph": "主人"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=的"
               },
               {
                 "word": "又",
-                "gloss": "also"
+                "gloss": "also",
+		"gloss-morph": "also",
+		"gloss-zh": "还有",
+		"gloss-zh-morph": "还有"
               },
               {
                 "word": "あるじ",
-                "gloss": "host.of.host"
+                "gloss": "host.of.host",
+		"gloss-morph": "host.behavior",
+		"gloss-zh": "招待",
+		"gloss-zh-morph": "招待行为"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "よき",
-                "gloss": "goodness"
+                "gloss": "goodness",
+		"gloss-morph": "good-ADN.NL",
+		"gloss-zh": "周到",
+		"gloss-zh-morph": "好的-ADN.NL"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=ACC"
               }
             ]
           },
           {
             "phrase": "見るに",
             "gloss": "upon seeing",
+	    "gloss-morph": "see-ADN.NL=DAT",
+	    "gloss-zh": "看到...时",
+	    "gloss-zh-morph": "看-ADN.NL=DAT",
             "words": [
               {
                 "word": "見る",
-                "gloss": "see"
+                "gloss": "see",
+		"gloss-morph": "see-ADN.NL",
+		"gloss-zh": "看",
+		"gloss-zh-morph": "看-ADN.NL"
               },
               {
                 "word": "に",
-                "gloss": "TEMP"
+                "gloss": "TEMP",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "时",
+		"gloss-zh-morph": "=DAT"
               }
             ]
           },
           {
             "phrase": "うたておもほゆ",
             "gloss": "feel strange, uneasy",
+	    "gloss-morph": "strangely feel-CCL",
+	    "gloss-zh": "感到不快",
+	    "gloss-zh-morph": "不快地 感到-CCL",
             "words": [
               {
                 "word": "うたて",
-                "gloss": "strangely, uneasily"
+                "gloss": "strangely, uneasily",
+		"gloss-morph": "strangely",
+		"gloss-zh": "不快地",
+		"gloss-zh-morph": "不快地"
               },
               {
                 "word": "おもほゆ",
-                "gloss": "feel, think"
+                "gloss": "feel, think",
+		"gloss-morph": "(naturally)feel-CCL",
+		"gloss-zh": "感到",
+		"gloss-zh-morph": "（自然而然地）感到-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "この家の主人、そしてそのまた主人の良さを見ると、なんだか言いようのない気持ちになる。",
-        "translation-en-natural": "Seeing the goodness of this host and the host behind him stirs an indescribable, uneasy feeling within me."
+        "translation-en-natural": "Seeing the goodness of this host and the host behind him stirs an indescribable, uneasy feeling within me.",
+	"translation-zh-natural": "看到这个家主、还有他招待的周到，不知为何感到不快。"
       },
       {
         "date": "20250529",
@@ -37934,39 +38208,59 @@
         "koutei-yamagen": "いろいろにかへりごとす。",
         "translation-ja": "いろいろに返礼をする。",
         "translation-en": "Various courtesies are returned.",
+	"translation-zh": "做了各种回礼。",
         "phrase-gloss": [
           {
             "phrase": "いろいろに",
             "gloss": "in various ways",
+	    "gloss-morph": "various=SER",
+	    "gloss-zh": "各种各样地",
+	    "gloss-zh-morph": "各种各样=SER",
             "words": [
               {
                 "word": "いろいろ",
-                "gloss": "various"
+                "gloss": "various",
+		"gloss-morph": "various",
+		"gloss-zh": "各种各样",
+		"gloss-zh-morph": "各种各样"
               },
               {
                 "word": "に",
-                "gloss": "ADV"
+                "gloss": "ADV",
+		"gloss-morph": "=SER",
+		"gloss-zh": "地",
+		"gloss-zh-morph": "=SER"
               }
             ]
           },
           {
             "phrase": "かへりごとす",
             "gloss": "return courtesy",
+	    "gloss-morph": "return.courtesy-NML=NML+do-CCL",
+	    "gloss-zh": "回礼",
+	    "gloss-zh-morph": "回礼-NML=NML+做-CCL",
             "words": [
               {
                 "word": "かへりごと",
-                "gloss": "return.courtesy, offer.thanks"
+                "gloss": "return.courtesy, offer.thanks",
+		"gloss-morph": "return.courtesy-NML=NML",
+		"gloss-zh": "回礼",
+		"gloss-zh-morph": "回礼-NML=NML"
               },
               {
                 "word": "す",
-                "gloss": "do"
+                "gloss": "do",
+		"gloss-morph": "+do-CCL",
+		"gloss-zh": "做",
+		"gloss-zh-morph": "+做-CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "いろいろと返礼をする。",
-        "translation-en-natural": "They return various courtesies."
+        "translation-en-natural": "They return various courtesies.",
+	"translation-zh-natural": "我们回了很多礼。"
       },
       {
         "date": "20250529",
@@ -37976,79 +38270,126 @@
         "koutei-yamagen": "家の人の出で入り、にくげならず、ゐやゝかなり。",
         "translation-ja": "家の人たちの出入りは、愚かではなく、控えめである。",
         "translation-en": "The people of the house do not come and go foolishly; they are somewhat reserved.",
+	"translation-zh": "房中的人的举止不粗鲁，是矜持的。",
         "phrase-gloss": [
           {
             "phrase": "家の人の",
             "gloss": "of the people of the house",
+	    "gloss-morph": "house=GEN people=GEN",
+	    "gloss-zh": "这户人的",
+	    "gloss-zh-morph": "家=GEN 人=GEN",
             "words": [
               {
                 "word": "家",
-                "gloss": "house"
+                "gloss": "house",
+		"gloss-morph": "house",
+		"gloss-zh": "家",
+		"gloss-zh-morph": "家"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               },
               {
                 "word": "人",
-                "gloss": "people"
+                "gloss": "people",
+		"gloss-morph": "people",
+		"gloss-zh": "人",
+		"gloss-zh-morph": "人"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=GEN"
               }
             ]
           },
           {
             "phrase": "いで入り",
             "gloss": "coming and going",
+	    "gloss-morph": "go.out-NML+enter-NML",
+	    "gloss-zh": "行为举止",
+	    "gloss-zh-morph": "出-NML+入-NML",
             "words": [
               {
                 "word": "いで",
-                "gloss": "come.out.ADV.F"
+                "gloss": "come.out.ADV.F",
+		"gloss-morph": "go.out-NML",
+		"gloss-zh": "出",
+		"gloss-zh-morph": "出-NML"
               },
               {
                 "word": "入り",
-                "gloss": "enter.ADV.F"
+                "gloss": "enter.ADV.F",
+		"gloss-morph": "+enter-NML",
+		"gloss-zh": "入",
+		"gloss-zh-morph": "+入-NML"
               }
             ]
           },
           {
             "phrase": "にくげならず",
             "gloss": "not foolish, not crude",
+	    "gloss-morph": "ugly=ADN.VBL-THM=NEG.ADV",
+	    "gloss-zh": "不粗鄙",
+	    "gloss-zh-morph": "粗鄙=ADN.VBL-THM=NEG.ADV",
             "words": [
               {
                 "word": "にくげ",
-                "gloss": "foolish, crude"
+                "gloss": "foolish, crude",
+		"gloss-morph": "ugly",
+		"gloss-zh": "粗鄙",
+		"gloss-zh-morph": "粗鄙"
               },
               {
                 "word": "なら",
-                "gloss": "become.NEG.BASE"
+                "gloss": "become.NEG.BASE",
+		"gloss-morph": "=ADN.VBL-THM",
+		"gloss-zh": "",
+		"gloss-zh-morph": "=ADN.VBL-THM"
               },
               {
                 "word": "ず",
-                "gloss": "NEG"
+                "gloss": "NEG",
+		"gloss-morph": "=NEG.ADV",
+		"gloss-zh": "不",
+		"gloss-zh-morph": "=NEG.ADV"
               }
             ]
           },
           {
             "phrase": "ゐやゝかなり",
             "gloss": "somewhat reserved, composed",
+	    "gloss-morph": "reserved=ADN.CCL",
+	    "gloss-zh": "矜持的",
+	    "gloss-zh-morph": "矜持=ADN.CCL",
             "words": [
               {
                 "word": "ゐやゝか",
-                "gloss": "reserved, composed"
+                "gloss": "reserved, composed",
+		"gloss-morph": "reserved",
+		"gloss-zh": "矜持",
+		"gloss-zh-morph": "矜持"
               },
               {
                 "word": "なり",
-                "gloss": "be"
+                "gloss": "be",
+		"gloss-morph": "=ADN.CCL",
+		"gloss-zh": "的",
+		"gloss-zh-morph": "=ADN.CCL"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "家の人たちの出入りは軽々しいものではなく、控えめで落ち着いている。",
-        "translation-en-natural": "The household members do not move about carelessly; they are composed and somewhat reserved."
+        "translation-en-natural": "The household members do not move about carelessly; they are composed and somewhat reserved.",
+	"translation-zh-natural": "这家人的举止不粗鲁，很矜持。"
       },
       {
         "date": "20250529",
