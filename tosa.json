@@ -6700,7 +6700,7 @@
           },
           {
             "phrase": "たてまつれり。",
-            "gloss": "offer.HON PERF",
+            "gloss": "offer.HUN PERF",
             "words": [
               {
                 "word": "たてまつれ",
@@ -6724,13 +6724,127 @@
         }
       },
       {
-        "date": "20250207",
+        "date": [
+          20250207,
+          20250913
+        ],
         "id": 70,
         "text": "このかうやうの物もて來るひとになほしもえあらでいさゝげわざせさすものもなし。",
         "kana": "このかうやうのものもてくるひとになほしもえあらでいささげわざせさすものもなし。",
         "koutei-yamagen": "このかうやうの物持て来る人に、なほしもえあらでいさざげわざせさすものもなし。",
-        "translation-ja": "このこのような物を持って来る人をそのままにしておけなくて、わずかな施しをさせる物もない。",
-        "translation-en": "This this kind of thing bringing person cannot leave as is, small bestow let thing even not.",
+        "translation-ja": "このような物を持って来た人に、何もしないではいられなくて、わずかなお返しをさせる物もなかった。",
+        "translation-en": "To the person bringing such things, I could not just do nothing, but there was not even a thing to let me give as a small offering.",
+        "phrase-gloss": [
+          {
+            "phrase": "このかうやうの物",
+            "gloss": "this kind of thing",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "かうやう",
+                "gloss": "such kind"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "物",
+                "gloss": "thing"
+              }
+            ]
+          },
+          {
+            "phrase": "もて來るひとに",
+            "gloss": "to the person bringing (it)",
+            "words": [
+              {
+                "word": "も",
+                "gloss": "hold.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "來る",
+                "gloss": "come.ATTR"
+              },
+              {
+                "word": "ひと",
+                "gloss": "person"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          },
+          {
+            "phrase": "なほしもえあらで",
+            "gloss": "still could not just leave (them)",
+            "words": [
+              {
+                "word": "なほ",
+                "gloss": "still"
+              },
+              {
+                "word": "しも",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "え",
+                "gloss": "POT"
+              },
+              {
+                "word": "あら",
+                "gloss": "be"
+              },
+              {
+                "word": "で",
+                "gloss": "NEG.CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "いさゝげわざせさすものもなし。",
+            "gloss": "there wasn't even a thing to let (someone) bestow a small offering",
+            "words": [
+              {
+                "word": "いさゝげ",
+                "gloss": "small offering"
+              },
+              {
+                "word": "わざ",
+                "gloss": "act"
+              },
+              {
+                "word": "せ",
+                "gloss": "do.IRR"
+              },
+              {
+                "word": "さす",
+                "gloss": "CAUS.ATTR"
+              },
+              {
+                "word": "もの",
+                "gloss": "thing"
+              },
+              {
+                "word": "も",
+                "gloss": "FOC"
+              },
+              {
+                "word": "なし",
+                "gloss": "not.exist"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "このような物を持ってきてくれた人をそのままにしておくことができず、わずかなお返しをする物さえなかった。",
         "translation-en-natural": "I couldn't just leave the person who brought such a gift without doing anything, and I didn't even have anything to offer as a small token."
       },
@@ -14294,7 +14408,10 @@
         ]
       },
       {
-        "date": "20250509",
+        "date": [
+          20250509,
+          20250000
+        ],
         "id": 346,
         "text": "「船君の辛くひねり出してよしと思へる事をえしもこそしいへ」とてつゝめきてやみぬ。",
         "kana": "「ふなぎみのからくひねりだしてよしとおもへることをえしもこそしいへ」とてつゝめきてやみぬ。",
@@ -15390,7 +15507,7 @@
       {
         "date": "20250513",
         "id": 360,
-        "text": "よする浪うちも寄せなむわが戀ふる人わすれ貝おりてひろはむ",
+        "poem": "よする浪/うちも寄せなむ/わが戀ふる/人わすれ貝/おりてひろはむ",
         "kana": "よするなみうちもよせなむわがこふるひとわすれかひおりてひろはむ",
         "koutei-yamagen": "よする浪うちも寄せなむわが戀ふる人わすれ貝おりてひろはむ",
         "translation-ja": "寄せる波よ、打ち寄せてくれたらよいな、私が恋い慕う人を忘れさせてくれる忘れ貝を。そうしたら、下りて拾おう。",
@@ -16605,11 +16722,11 @@
               },
               {
                 "word": "いひ",
-                "gloss": "say"
+                "gloss": "say.ADV"
               },
               {
                 "word": "つゞくる",
-                "gloss": "continue-PROG"
+                "gloss": "continue.ATTR"
               },
               {
                 "word": "程",
@@ -18692,7 +18809,10 @@
         "translation-en-natural": "So, when told 'Please offer the sacred cloth,' I followed the instruction and presented the offering to the deity."
       },
       {
-        "date": "20250520",
+        "date": [
+          20250520,
+          20250000
+        ],
         "id": 394,
         "text": "かくたいまつれどももはら風やまで、いや吹きにいや立ちに風浪の危ふければ楫取又いはく「幣には御心のいかねば御船も行かぬなり。",
         "kana": "かくたいまつれどももはらかぜやまで、いやふきにいやたちにかぜなみのあやふければかぢとりまたいはく「ぬさにはおこころのいかねばおふねもいかぬなり。",
@@ -20207,7 +20327,7 @@
         "date": "20250522",
         "id": 408,
         "text": "これが中に心ちなやむ船君いたくめでゝ「船醉したうべりし御顏には似ずもあるかな」といひける。",
-        "kana": "これがなかにこころちなやむふねきみいたくめでゝ「ふなよいしたうべりしみかほにはにずもあるかな」といひける。",
+        "kana": "これがなかにここちなやむふなぎみいたくめでゝ「ふなよいしたうべりしみかほにはにずもあるかな」といひける。",
         "koutei-yamagen": "これが中に心ちなやむ船君いたくめでゝ、「船醉したうべりし御顏には、似ずもあるかな」といひける。",
         "translation-ja": "この中で心を悩ませていた船君は、ひどく感心して、「船酔いしていたに違いないような御顔とは、まったく似ていないなあ」と言ったのだった。",
         "translation-en": "Among them, the ship lord, troubled in heart, was deeply moved and said, 'It is surely not like the seasick face, is it!'",
@@ -20256,7 +20376,7 @@
               },
               {
                 "word": "めで",
-                "gloss": "admire.ADV.F"
+                "gloss": "admire.ADV"
               },
               {
                 "word": "て",
@@ -20434,7 +20554,7 @@
               },
               {
                 "word": "ひ",
-                "gloss": "recede.ADV.F"
+                "gloss": "recede.ADV"
               },
               {
                 "word": "て",
@@ -20442,7 +20562,7 @@
               },
               {
                 "word": "惱み",
-                "gloss": "suffer.ADV.F"
+                "gloss": "suffer.ADV"
               },
               {
                 "word": "わづらふ",
@@ -21296,15 +21416,15 @@
             "words": [
               {
                 "word": "言へ",
-                "gloss": "say.REALIS.F"
+                "gloss": "say.REALIS"
               },
               {
                 "word": "る",
-                "gloss": "PERF"
+                "gloss": "PERF-ATTR"
               },
               {
-                "word": "なり",
-                "gloss": "become.ADV.F"
+                "word": "なる",
+                "gloss": "become.ATTR"
               },
               {
                 "word": "べし",
@@ -21793,7 +21913,10 @@
         "translation-en-natural": "I will reciprocate with rice."
       },
       {
-        "date": "20250525",
+        "date": [
+          20250525,
+          20250000
+        ],
         "id": 425,
         "text": "男ども密にいふなり「いひぼしてもてる」とや。",
         "kana": "おとこどもひそかにいうなり「いひぼしてもてる」とや。",
@@ -21967,16 +22090,12 @@
             "gloss": "do not use fish; do not employ fish",
             "words": [
               {
-                "word": "い",
+                "word": "いを",
                 "gloss": "fish (archaic word)"
               },
               {
-                "word": "を",
-                "gloss": "ACC"
-              },
-              {
                 "word": "もちゐ",
-                "gloss": "use; employ.NEG.BASE"
+                "gloss": "use.IRR"
               },
               {
                 "word": "ず",
@@ -22193,8 +22312,8 @@
           }
         ],
         "glossary-abbreviations": null,
-        "translation-ja-natural": "このあたりに、和田の泊まりに「あかれのところ」という場所がある。",
-        "translation-en-natural": "Around here, at Wada's harbor, there's a place called Akare no Tokoro."
+        "translation-ja-natural": "このあいだに、和田の泊まりに「あかれのところ」という場所がある。",
+        "translation-en-natural": "At that moment, at Wada's harbor, there's a place called Akare no Tokoro."
       },
       {
         "date": "20250526",
@@ -23166,7 +23285,7 @@
       {
         "date": "20250526",
         "id": 442,
-        "poem": "君戀ひて/世をふる宿の/うめの花/むかしの香に/ぞなほにほひける",
+        "poem": "君戀ひて/世をふる宿の/うめの花/むかしの香にぞ/なほにほひける",
         "kana": "きみこひてよをふるやどのうめのはな/むかしのかにぞ/なほにほひける",
         "koutei-yamagen": "君戀ひて世をふる宿の梅の花、むかしの香にぞなほにほひける。",
         "translation-ja": "君を恋い慕って、世を経る宿の梅の花は、昔の香に、なお匂っている。",
@@ -23361,8 +23480,8 @@
         "text": "かくのぼる人々のなかに京よりくだりし時に、皆人子どもなかりき。",
         "kana": "かくのぼるひとびとのなかにきやうよりくだりしときに、みなひとこどもなかりき。",
         "koutei-yamagen": "かくのぼる人々のなかに、京よりくだりし時に、皆人子どもなかりき。",
-        "translation-ja": "こうして登る人々の中に、京から下りてきた時には、皆、子どもだった。",
-        "translation-en": "Among those who ascended in this way, when they came down from the capital, they were all children.",
+        "translation-ja": "こうして上る人々の中に、京から下った時には、皆、子どもはいなかった、",
+        "translation-en": "Among those who ascended in this way, when they came down from the capital, all of them did not have children.",
         "phrase-gloss": [
           {
             "phrase": "かくのぼる人々のなかに",
@@ -23448,8 +23567,8 @@
           }
         ],
         "glossary-abbreviations": null,
-        "translation-ja-natural": "こうして登る人々の中には、京から下ってきた頃、みんなまだ子どもだった人たちがいる。",
-        "translation-en-natural": "Among those now ascending, there are people who, when they once came down from the capital, were all just children."
+        "translation-ja-natural": "こうして上っる人々の中には、京から下ってきた頃、みんなまだ子どもはいなかったが、",
+        "translation-en-natural": "Among those who ascended in this way, when they had descended from the capital, none of them had children yet, but..."
       },
       {
         "date": "20250527",
@@ -24920,8 +25039,8 @@
       {
         "date": "20250529",
         "id": 463,
-        "text": "さゞれ浪よするあやをば青柳のかげのいとして織るかとぞ見る",
-        "kana": "さゞれなみよするあやをばあをやぎのかげのいとしておるかとぞみる",
+        "poem": "さゞれ浪/よするあやをば/青柳の/かげのいとして/織るかとぞ見る",
+        "kana": "さゞれなみ/よするあやをば/あをやぎの/かげのいとして/おるかとぞみる",
         "koutei-yamagen": "さゞれ浪よするあやをば青柳のかげのいとして織るかとぞ見る",
         "translation-ja": "さざ波が寄せる模様を、青柳の影の糸で織るのかと見る。",
         "translation-en": "I see the patterns made by rippling waves being woven with the threads of the blue willow's shadow.",
