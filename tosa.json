@@ -6849,28 +6849,153 @@
         "translation-en-natural": "I couldn't just leave the person who brought such a gift without doing anything, and I didn't even have anything to offer as a small token."
       },
       {
-        "date": "20250208",
+        "date": [
+          20250208,
+          20250914
+        ],
         "id": 71,
         "text": "にぎはゝしきやうなれどまくるこゝちす。",
         "kana": "にぎははしきやうなれどまくるここちす。",
         "koutei-yamagen": "にぎははしきやうなれど、まくる心地す。",
         "translation-ja": "賑やかなようであるが、負ける気持ちがする。",
         "translation-en": "Lively-like it is but, losing feeling does.",
-        "translation-ja-natural": "賑やかに見えるが、実のところ、うしろめたく、負い目を感じる。",
-        "translation-en-natural": "It looks lively, but deep down, I feel guilty and troubled by a sense of indebtedness.",
-        "notes-ja": {
-          "「まくる（負くる）心地す」の意味": "菊地の訳では『心はざわざわしている』とされているが、原文の『まくる（負くる）心地す』は実際には『うしろめたさ』と『負い目』を伴う心情を示している。文脈上、贈り物への返礼ができないことによる気まずさや負い目を表しており、単なる不安感ではなく、もらってばかりでお返しができないことへのうしろめたさと心苦しさを意味する。"
-        }
+        "phrase-gloss": [
+          {
+            "phrase": "五日、",
+            "gloss": "fifth-day",
+            "words": [
+              {
+                "word": "五日",
+                "gloss": "fifth-day"
+              }
+            ]
+          },
+          {
+            "phrase": "風浪やまねば、",
+            "gloss": "wind.waves cease-NEG-if",
+            "words": [
+              {
+                "word": "風浪",
+                "gloss": "wind.waves"
+              },
+              {
+                "word": "やま",
+                "gloss": "cease.IRR"
+              },
+              {
+                "word": "ねば",
+                "gloss": "NEG.REALIS.COND"
+              }
+            ]
+          },
+          {
+            "phrase": "猶同じ所にあり。",
+            "gloss": "still same place-LOC be",
+            "words": [
+              {
+                "word": "猶",
+                "gloss": "still"
+              },
+              {
+                "word": "同じ",
+                "gloss": "same"
+              },
+              {
+                "word": "所",
+                "gloss": "place"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "あり",
+                "gloss": "be"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "賑やかなようだが、負ける気がする。",
+        "translation-en-natural": "It seems lively, but it feels like losing.",
+        "notes-ja": [
+          {
+            "title": "「まくる（負くる）心地す」の意味",
+            "note": "菊地の訳では『心はざわざわしている』とされているが、原文の『まくる（負くる）心地す』は実際には『うしろめたさ』と『負い目』を伴う心情を示している。文脈上、贈り物への返礼ができないことによる気まずさや負い目を表しており、単なる不安感ではなく、もらってばかりでお返しができないことへのうしろめたさと心苦しさを意味する。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Meaning of 'makuru (負くる) kokochi su'",
+            "note": "In Kikuchi's translation, it is rendered as 'the heart is restless,' but the original phrase 'makuru (負くる) kokochi su' actually conveys a feeling accompanied by 'uneasiness' and a sense of 'obligation.' In the context, it expresses the awkwardness and sense of obligation due to the inability to reciprocate gifts, indicating not just anxiety but also a feeling of guilt and discomfort about receiving without being able to give back."
+          }
+        ]
       },
       {
-        "date": "20250209",
+        "date": [
+          20250209,
+          20250915
+        ],
         "id": 72,
         "text": "五日、風浪やまねば猶同じ所にあり。",
         "kana": "いつか、かぜなみやまねばなほおなじところにあり。",
         "koutei-yamagen": "五日、風浪やまねば、猶、同じ所にあり。",
         "translation-ja": "五日、風浪がやまないので、なお同じ所にいる。",
         "translation-en": "On the fifth, because the wind and waves have not subsided, we are still in the same place.",
-        "translation-ja-natural": "五日、風も波もおさまらず、まだ同じ場所にとどまっています。",
+        "phrase-gloss": [
+          {
+            "phrase": "五日、",
+            "gloss": "五日の日に",
+            "words": [
+              {
+                "word": "五日",
+                "gloss": "fifth-day"
+              }
+            ]
+          },
+          {
+            "phrase": "風浪やまねば、",
+            "gloss": "風と波がやまないので",
+            "words": [
+              {
+                "word": "風浪",
+                "gloss": "wind.and.waves"
+              },
+              {
+                "word": "やま",
+                "gloss": "cease-NEG.STEM"
+              },
+              {
+                "word": "ねば",
+                "gloss": "if.not / since.not"
+              }
+            ]
+          },
+          {
+            "phrase": "猶同じ所にあり。",
+            "gloss": "なお同じ場所にいる",
+            "words": [
+              {
+                "word": "猶",
+                "gloss": "still / yet"
+              },
+              {
+                "word": "同じ所",
+                "gloss": "same place"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist (be)"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "五日、風も波もおさまらず、まだ同じ場所にとどまっている。",
         "translation-en-natural": "On the fifth, with the wind and waves still raging, we’re stuck in the same place."
       },
       {
