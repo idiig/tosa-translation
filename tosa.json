@@ -544,8 +544,8 @@
                 "word": "縣",
                 "gloss": "governor",
                 "gloss-morph": "governor",
-                "gloss-zh": "县官（国司）",
-                "gloss-morph-zh": "县官（国司）"
+                "gloss-zh": "县官（国守）",
+                "gloss-morph-zh": "县官（国守）"
               },
               {
                 "word": "の",
@@ -794,7 +794,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "ある人が国司として四、五年の任期を終え、すべての儀式を済ませ、解由状を受け取って、住まいを出て船に乗る場所へ向かった。",
         "translation-en-natural": "A certain person, having completed his four- or five-year term as governor, finished all the customary ceremonies, received the geyu document, and left his residence to head to the place where he would board the ship.",
-        "translation-zh-natural": "某人结束了四、五年作为国司的任期，完成了所有的例行公事，拿到了解由状，于是从住所出发，前往乘船的地方。"
+        "translation-zh-natural": "某人结束了四、五年作为国守的任期，完成了所有的例行公事，拿到了解由状，于是从住所出发，前往乘船的地方。"
       },
       {
         "date": [
@@ -1062,7 +1062,7 @@
         "koutei-yamagen": "二十二日、和泉の国までと平らかに願立つ。",
         "translation-ja": "二十二日、和泉の国までと平穏に祈願を立てた。",
         "translation-en": "On the twenty-second day, I set up a prayer for a peaceful (safe) journey as far as the province of Izumi.",
-        "translation-zh": "廿二日，（国司）祈了愿，（愿）至和泉之国顺利。",
+        "translation-zh": "廿二日，（我们）许了愿，（愿）至和泉之国平安。",
         "phrase-gloss": [
           {
             "phrase": "廿二日",
@@ -1092,14 +1092,14 @@
             "gloss": "up to Izumi province QUOT",
             "gloss-morph": "Izumi=GEN province=TER=CMP",
             "gloss-zh": "到和泉之国-QUOT",
-            "gloss-morph-zh": "和泉=GEN 国=TER=CMP",
+            "gloss-morph-zh": "和泉.PN=GEN 国=TER=CMP",
             "words": [
               {
                 "word": "和泉",
                 "gloss": "Izumi.PN",
                 "gloss-morph": "Izumi.PN",
-                "gloss-zh": "和泉（实名）",
-                "gloss-morph-zh": "和泉（实名）"
+                "gloss-zh": "和泉",
+                "gloss-morph-zh": "和泉.PN"
               },
               {
                 "word": "の",
@@ -1181,7 +1181,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "二十二日、和泉の国まで無事に行けるようにと祈願した。",
         "translation-en-natural": "On the twenty-second day, I prayed for a safe journey as far as Izumi Province.",
-        "translation-zh-natural": "在二十二日，国司祈愿能平安抵达和泉国。",
+        "translation-zh-natural": "在二十二日，我们祈愿能平安抵达和泉国。",
         "notes-ja": [
           {
             "title": "ねがひたつ",
@@ -1214,7 +1214,7 @@
         "koutei-yamagen": "藤原のときざね、船路なれど、馬の餞す。",
         "translation-ja": "藤原のときざねが、船路の旅なのに餞をする。",
         "translation-en": "Fujiwara no Tokizane, though it is a sea journey, gives a farewell gift for a horse journey.",
-        "translation-zh": "藤原言实，（国司所走的）虽为海路，却操办了马饯（之仪）。",
+        "translation-zh": "藤原言实，（我们所走的）虽为海路，却操办了马饯（之仪）。",
         "phrase-gloss": [
           {
             "phrase": "藤原の言實",
@@ -1317,7 +1317,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "藤原の言實が、船の旅なのに、馬の餞別を贈った。",
         "translation-en-natural": "Fujiwara no Tokizane sent off a farewell gift called 'Uma no Hanamuke' (horse nose heading)—even though it was a sea voyage. Go figure.",
-        "translation-zh-natural": "虽说国司走的是海路，藤原言实却为他操办了名为“马饯”的送别仪式。"
+        "translation-zh-natural": "虽说走的是海路，藤原言实却为我们操办了名为“马饯”的送别仪式。"
       },
       {
         "date": [
