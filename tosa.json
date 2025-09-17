@@ -24695,14 +24695,14 @@
               },
               {
                 "word": "いひ",
-                "gloss": "say.ADV"
+                "gloss": "say.ADV",
                 "gloss-morph": "say-ADV",
                 "gloss-zh": "说",
                 "gloss-zh-morph": "说-ADV"
               },
               {
                 "word": "つゞくる",
-                "gloss": "continue.ATTR"
+                "gloss": "continue.ATTR",
                 "gloss-morph": "+keep-ADN",
                 "gloss-zh": "持续",
                 "gloss-zh-morph": "+持续-ADN"
@@ -30578,7 +30578,7 @@
               },
               {
                 "word": "めで",
-                "gloss": "admire.ADV"
+                "gloss": "admire.ADV",
                 "gloss-morph": "admire-ADV",
                 "gloss-zh": "赞赏",
                 "gloss-zh-morph": "赞赏-ADV"
@@ -30872,7 +30872,7 @@
               },
               {
                 "word": "ひ",
-                "gloss": "recede.ADV"
+                "gloss": "recede.ADV",
                 "gloss-morph": "recede-ADV",
                 "gloss-zh": "枯",
                 "gloss-zh-morph": "枯-ADV"
@@ -32238,7 +32238,7 @@
             "words": [
               {
                 "word": "言へ",
-                "gloss": "say.REALIS"
+                "gloss": "say.REALIS",
                 "gloss-morph": "say-INC",
                 "gloss-zh": "说",
                 "gloss-zh-morph": "说-INC"
