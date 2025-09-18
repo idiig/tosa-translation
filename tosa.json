@@ -948,9 +948,9 @@
           {
             "phrase": "なむわかれ難く思ひて",
             "gloss": "FOC hard-to-part feeling-CONJ",
-            "gloss-morph": "=FOC part-ADV+difficult-SER feel-ADV=SEQ",
+            "gloss-morph": "=FOC part-ADV+LAB-SER feel-ADV=SEQ",
             "gloss-zh": "感到难以分离",
-            "gloss-morph-zh": "=FOC 分离-ADV+难-SER 感觉-ADV=SEQ",
+            "gloss-morph-zh": "=FOC 分离-ADV+LAB-SER 感觉-ADV=SEQ",
             "words": [
               {
                 "word": "なむ",
@@ -962,9 +962,9 @@
               {
                 "word": "わかれ難く",
                 "gloss": "hard-to-part",
-                "gloss-morph": "part-ADV+difficult-SER",
+                "gloss-morph": "part-ADV+LAB-SER",
                 "gloss-zh": "难以分离地",
-                "gloss-morph-zh": "分离-ADV+难-SER"
+                "gloss-morph-zh": "分离-ADV+LAB-SER"
               },
               {
                 "word": "思ひて",
@@ -5924,9 +5924,9 @@
           {
             "phrase": "別れ難きことをいふ",
             "gloss": "say (that) parting is difficult",
-            "gloss-morph": "parting-ADV+difficult-ADN thing=ACC say-CCL",
+            "gloss-morph": "parting-ADV+LAB-ADN thing=ACC say-CCL",
             "gloss-zh": "分离难 事 说",
-            "gloss-morph-zh": "分离-ADV+难-ADN thing=ACC 说-CCL",
+            "gloss-morph-zh": "分离-ADV+LAB-ADN thing=ACC 说-CCL",
             "words": [
               {
                 "word": "別れ",
@@ -5938,9 +5938,9 @@
               {
                 "word": "難き",
                 "gloss": "difficult.ATTR",
-                "gloss-morph": "+difficult-ADN",
+                "gloss-morph": "+LAB-ADN",
                 "gloss-zh": "难",
-                "gloss-morph-zh": "+难-ADN"
+                "gloss-morph-zh": "+LAB-ADN"
               },
               {
                 "word": "こと",
@@ -21079,9 +21079,9 @@
               {
                 "word": "して",
                 "gloss": "CVB",
-                "gloss-morph": "do-ADV=SEQ",
+                "gloss-morph": "+do-ADV=SEQ",
                 "gloss-zh": "着",
-                "gloss-zh-morph": "do-ADV=SEQ"
+                "gloss-zh-morph": "+do-ADV=SEQ"
               }
             ]
           },
@@ -24666,7 +24666,7 @@
               {
                 "word": "辛く",
                 "gloss": "difficultly-ADV",
-                "gloss-morph": "difficultly-SER",
+                "gloss-morph": "difficult-SER",
                 "gloss-zh": "勉强",
                 "gloss-zh-morph": "勉强-SER"
               },
@@ -33448,9 +33448,9 @@
           {
             "phrase": "よねして",
             "gloss": "with rice; using rice",
-            "gloss-morph": "rice+do-ADV=SEQ",
+            "gloss-morph": "rice=INS",
             "gloss-zh": "用米",
-            "gloss-zh-morph": "米+做-ADV=SEQ",
+            "gloss-zh-morph": "米=INS",
             "words": [
               {
                 "word": "よね",
@@ -33462,9 +33462,9 @@
               {
                 "word": "して",
                 "gloss": "CONJ",
-                "gloss-morph": "+do-ADV=SEQ",
-                "gloss-zh": "用...做",
-                "gloss-zh-morph": "做-ADV=SEQ"
+                "gloss-morph": "=INS",
+                "gloss-zh": "用",
+                "gloss-zh-morph": "=INS"
               }
             ]
           },
@@ -33557,9 +33557,9 @@
           {
             "phrase": "「いひぼしてもてる」とや",
             "gloss": "'Brought dried rice,' they say",
-            "gloss-morph": "rice+grain+do-ADV=SEQ bring-INC+STA-ADN.NL=CMP XCL",
+            "gloss-morph": "rice+grain=INS bring-INC+STA-ADN.NL=CMP XCL",
             "gloss-zh": "带来了米”，说道",
-            "gloss-zh-morph": "米+粒+做-ADV=SEQ 带来-INC+STA-ADN.NL=CMP XCL",
+            "gloss-zh-morph": "米+粒=INS 带来-INC+STA-ADN.NL=CMP XCL",
             "words": [
               {
                 "word": "いひぼ",
@@ -33569,18 +33569,11 @@
                 "gloss-zh-morph": "米+粒"
               },
               {
-                "word": "し",
-                "gloss": "do",
-                "gloss-morph": "do-ADV=SEQ",
-                "gloss-zh": "做",
-                "gloss-zh-morph": "做-ADV=SEQ"
-              },
-              {
-                "word": "て",
-                "gloss": "CONJ",
-                "gloss-morph": "=SEQ",
-                "gloss-zh": "",
-                "gloss-zh-morph": "=SEQ"
+                "word": "して",
+                "gloss": "use",
+                "gloss-morph": "=INS",
+                "gloss-zh": "用",
+                "gloss-zh-morph": "=INS"
               },
               {
                 "word": "もて",
@@ -38504,9 +38497,9 @@
           {
             "phrase": "青柳のかげのいとして",
             "gloss": "as threads of the blue willow's shadow",
-            "gloss-morph": "blue+willow=GEN shadow=GEN thread+do-ADV=SEQ",
+            "gloss-morph": "blue+willow=GEN shadow=GEN thread=INS",
             "gloss-zh": "青柳用影子的丝",
-            "gloss-zh-morph": "蓝+柳=GEN 影子=GEN 丝+用-ADV=SEQ",
+            "gloss-zh-morph": "蓝+柳=GEN 影子=GEN 丝=INS",
             "words": [
               {
                 "word": "青柳",
@@ -38544,18 +38537,11 @@
                 "gloss-zh-morph": "丝"
               },
               {
-                "word": "し",
-                "gloss": "do.ADV.F",
-                "gloss-morph": "+do-ADV",
+                "word": "して",
+                "gloss": "use",
+                "gloss-morph": "=INS",
                 "gloss-zh": "用",
-                "gloss-zh-morph": "+用-ADV"
-              },
-              {
-                "word": "て",
-                "gloss": "CONJ",
-                "gloss-morph": "=SEQ",
-                "gloss-zh": "",
-                "gloss-zh-morph": "=SEQ"
+                "gloss-zh-morph": "=INS"
               }
             ]
           },
@@ -39035,7 +39021,7 @@
           {
             "phrase": "船のむつかしさに",
             "gloss": "due to the difficulty of the boat",
-            "gloss-morph": "boat=GEN difficulty-NML=CSL",
+            "gloss-morph": "boat=GEN difficult-NML=CSL",
             "gloss-zh": "因为船的难受",
             "gloss-zh-morph": "船=GEN 难的-NML=CSL",
             "words": [
@@ -39056,7 +39042,7 @@
               {
                 "word": "むつかしさ",
                 "gloss": "difficulty",
-                "gloss-morph": "difficulty-NML",
+                "gloss-morph": "difficult-NML",
                 "gloss-zh": "难的",
                 "gloss-zh-morph": "难的-NML"
               },
@@ -44170,9 +44156,9 @@
           {
             "phrase": "わすれがたく",
             "gloss": "hard-to-forget",
-            "gloss-morph": "forget-ADV+difficult-SER",
+            "gloss-morph": "forget-ADV+LAB-SER",
             "gloss-zh": "难忘的又",
-            "gloss-zh-morph": "忘记-ADV+困难-SER",
+            "gloss-zh-morph": "忘记-ADV+LAB-SER",
             "words": [
               {
                 "word": "わすれ",
@@ -44184,7 +44170,7 @@
               {
                 "word": "がたく",
                 "gloss": "hard-to",
-                "gloss-morph": "+difficult-SER",
+                "gloss-morph": "+LAB-SER",
                 "gloss-zh": "难的又",
                 "gloss-zh-morph": "+困难-SER"
               }
