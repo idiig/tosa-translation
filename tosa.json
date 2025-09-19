@@ -1508,7 +1508,7 @@
             "note": "「しほ海」塩海（淡海＝湖の反対；学研）？潮海？"
           },
           {
-            "title": "上中下＋しほ海のほとり",
+            "title": "上中下+しほ海のほとり",
             "note": "伊勢物語『渚の院』との関連性：https://classicstudies.jimdofree.com/%E5%9C%9F%E4%BD%90%E6%97%A5%E8%A8%98/%E4%B8%8A%E4%B8%AD%E4%B8%8B/"
           },
           {
@@ -1929,7 +1929,7 @@
               {
                 "word": "かみがら",
                 "gloss": "governor.character",
-                "gloss-morph": "governor＋character",
+                "gloss-morph": "governor+character",
                 "gloss-zh": "国守+人格",
                 "gloss-morph-zh": "国守+人格"
               },
@@ -3802,7 +3802,7 @@
             "gloss": "indeed it had been so, so",
             "gloss-morph": "=FOC exist-ADV+RET-INC=XCD",
             "gloss-zh": "FOC 有 于是",
-            "gloss-morph-zh": "=FOC 有-ADV＋RET-INC=XCD",
+            "gloss-morph-zh": "=FOC 有-ADV+RET-INC=XCD",
             "words": [
               {
                 "word": "なむ",
@@ -6743,7 +6743,7 @@
             "gloss": "while saying",
             "gloss-morph": "=CMP say-ADN interval=DAT",
             "gloss-zh": "QUOT 说-着的 期间 在",
-            "gloss-morph-zh": "=CMP 说-ADN 期间＝DAT",
+            "gloss-morph-zh": "=CMP 说-ADN 期间=DAT",
             "words": [
               {
                 "word": "と",
@@ -6792,7 +6792,7 @@
               {
                 "word": "ものゝ哀",
                 "gloss": "pathos",
-                "gloss-morph": "things=GEN＋pathos",
+                "gloss-morph": "things=GEN+pathos",
                 "gloss-zh": "物+之+哀",
                 "gloss-morph-zh": "物=GEN+哀"
               },
@@ -9022,7 +9022,7 @@
             "gloss": "arame seaweed also",
             "gloss-morph": "arame seaweed=IFO",
             "gloss-zh": "海藻 也",
-            "gloss-morph-zh": "海藻＝IFO",
+            "gloss-morph-zh": "海藻=IFO",
             "words": [
               {
                 "word": "あらめ",
@@ -15019,7 +15019,7 @@
             "gloss": "to comfort the hearts of the men",
             "gloss-morph": "man=PLU=GEN heart+comfort-NML=DAT",
             "gloss-zh": "男人 们 的 心+慰藉 作为",
-            "gloss-zh-morph": "男人=PLU=GEN 心+慰藉-NML＝DAT",
+            "gloss-zh-morph": "男人=PLU=GEN 心+慰藉-NML=DAT",
             "words": [
               {
                 "word": "男たち",
@@ -16802,7 +16802,7 @@
           {
             "phrase": "けふは子の日か",
             "gloss": "is today the Day of the Rat?",
-            "gloss-morph": "today＝TOP Rat＝GEN＋Day＝XCL",
+            "gloss-morph": "today=TOP Rat=GEN+Day=XCL",
             "gloss-zh": "今天 TOP 子之日 吗",
             "gloss-zh-morph": "今天=TOP 子=GEN+日=XCL",
             "words": [
@@ -19993,7 +19993,7 @@
             "gloss": "just like yesterday",
             "gloss-morph": "yesterday=GEN=SCO.SER",
             "gloss-zh": "昨日 之 如同－般",
-            "gloss-zh-morph": "昨日=GEN＝SCO",
+            "gloss-zh-morph": "昨日=GEN=SCO",
             "words": [
               {
                 "word": "昨日",
@@ -20367,7 +20367,7 @@
             "gloss": "to make five colors,",
             "gloss-morph": "five.colors=DAT",
             "gloss-zh": "五色 于",
-            "gloss-zh-morph": "五色＝DAT",
+            "gloss-zh-morph": "五色=DAT",
             "words": [
               {
                 "word": "五色",
@@ -21261,7 +21261,7 @@
             "gloss": "the spring days",
             "gloss-morph": "spring=GEN day=ACC",
             "gloss-zh": "春天 的 日子 ACC",
-            "gloss-zh-morph": "春＝GEN 日=ACC",
+            "gloss-zh-morph": "春=GEN 日=ACC",
             "words": [
               {
                 "word": "春",
@@ -24269,7 +24269,7 @@
             "gloss": "still in the same place",
             "gloss-morph": "still same place=DAT",
             "gloss-zh": "仍 同 处 于",
-            "gloss-zh-morph": "仍 同 处＝DAT",
+            "gloss-zh-morph": "仍 同 处=DAT",
             "words": [
               {
                 "word": "猶",
@@ -26679,7 +26679,7 @@
             "gloss": "appear to be waves",
             "gloss-morph": "wave=CMP look.like-CCL=CJT",
             "gloss-zh": "浪 QUOT 看起来 像",
-            "gloss-zh-morph": "浪＝QT 看起来-CCL=CJT",
+            "gloss-zh-morph": "浪=QT 看起来-CCL=CJT",
             "words": [
               {
                 "word": "なみ",
@@ -27327,7 +27327,7 @@
             "gloss": "not even for a single day or moment",
             "gloss-morph": "one.day single.moment=IFO",
             "gloss-zh": "一日 片刻 也",
-            "gloss-zh-morph": "一日 片刻＝IFO",
+            "gloss-zh-morph": "一日 片刻=IFO",
             "words": [
               {
                 "word": "一日",
@@ -34292,7 +34292,7 @@
             "gloss": "Nagisa no In-QUOT place-ACC",
             "gloss-morph": "Nagisa.no.In.PN=CMP say-ADN place=ACC",
             "gloss-zh": "叫做“渚之院”的地方",
-            "gloss-zh-morph": "渚之院.PN＝CMP 叫做-ADN 地方=ACC",
+            "gloss-zh-morph": "渚之院.PN=CMP 叫做-ADN 地方=ACC",
             "words": [
               {
                 "word": "渚の院",
