@@ -7004,21 +7004,84 @@
         "text": "人々絶えずとぶらひにく。",
         "kana": "ひとびとたえずとぶらひにく。",
         "koutei-yamagen": "人々絶えずとぶらひにく。",
-        "translation-ja": "人々が絶えず訪れてくる。",
-        "translation-en": "People, without ceasing, visit and come.",
+        "translation-ja": "人々が絶えず訪れに来る。",
+        "translation-en": "People come to visit without ceasing.",
+        "phrase-gloss": [
+          {
+            "phrase": "人々絶えずとぶらひにく。",
+            "gloss": "People come to visit without ceasing.",
+            "words": [
+              {
+                "word": "人々",
+                "gloss": "people"
+              },
+              {
+                "word": "絶えず",
+                "gloss": "without.ceasing"
+              },
+              {
+                "word": "とぶらひ",
+                "gloss": "visit.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "く",
+                "gloss": "come"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "人々がひっきりなしに訪ねてくる。",
         "translation-en-natural": "People keep coming to visit without a break."
       },
       {
-        "date": "20250211",
+        "date": [
+          20250211,
+          20250920
+        ],
         "id": 74,
         "text": "六日、きのふのごとし。",
         "kana": "むいか、きのふのごとし。",
         "koutei-yamagen": "六日、昨日のごとし。",
-        "translation-ja": "六日、昨日と同じようである。",
-        "translation-en": "On the sixth, it is like yesterday.",
+        "translation-ja": "六日、昨日のごとし。",
+        "translation-en": "The sixth day, it is like yesterday.",
+        "phrase-gloss": [
+          {
+            "phrase": "六日、",
+            "gloss": "sixth day",
+            "words": [
+              {
+                "word": "六日",
+                "gloss": "sixth day"
+              }
+            ]
+          },
+          {
+            "phrase": "きのふのごとし。",
+            "gloss": "like yesterday",
+            "words": [
+              {
+                "word": "きのふ",
+                "gloss": "yesterday"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ごとし",
+                "gloss": "be like"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "六日、昨日と同じようです。",
-        "translation-en-natural": "On the sixth, it is like yesterday."
+        "translation-en-natural": "On the sixth, it was like yesterday."
       },
       {
         "date": "20250211",
