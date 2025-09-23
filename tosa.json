@@ -7084,14 +7084,48 @@
         "translation-en-natural": "On the sixth, it was like yesterday."
       },
       {
-        "date": "20250211",
+        "date": [
+          20250211,
+          20250921
+        ],
         "id": 75,
         "text": "七日になりぬ。",
         "kana": "なぬかになりぬ。",
         "koutei-yamagen": "七日になりぬ。",
         "translation-ja": "七日になった。",
         "translation-en": "It has become the seventh.",
-        "translation-ja-natural": "七日になりました。",
+        "phrase-gloss": [
+          {
+            "phrase": "七日",
+            "gloss": "seventh day",
+            "words": [
+              {
+                "word": "七日",
+                "gloss": "seventh day"
+              }
+            ]
+          },
+          {
+            "phrase": "になりぬ。",
+            "gloss": "become-PERF",
+            "words": [
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "なり",
+                "gloss": "become.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "七日になった。",
         "translation-en-natural": "It's the seventh."
       },
       {
@@ -7102,16 +7136,100 @@
         "koutei-yamagen": "同じ湊にあり。",
         "translation-ja": "同じ港にいる。",
         "translation-en": "We are in the same port.",
-        "translation-ja-natural": "同じ港にいます。"
+        "phrase-gloss": [
+          {
+            "phrase": "同じ湊",
+            "gloss": "same port",
+            "words": [
+              {
+                "word": "同じ",
+                "gloss": "same"
+              },
+              {
+                "word": "湊",
+                "gloss": "port"
+              }
+            ]
+          },
+          {
+            "phrase": "にあり。",
+            "gloss": "be-LOC",
+            "words": [
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "あり",
+                "gloss": "be"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "同じ港にいる。",
+        "translation-en-natural": "We are in the same port."
       },
       {
-        "date": "20250212",
+        "date": [
+          20250212,
+          20250923
+        ],
         "id": 77,
         "text": "今日は白馬を思へどかひなし。",
         "kana": "けふはあをむまをおもへどかひなし。",
         "koutei-yamagen": "今日は白馬を思へど、かひなし。",
         "translation-ja": "今日は白馬を思うが、甲斐がない。",
         "translation-en": "Today, I think of the white horse, but it is in vain.",
+        "phrase-gloss": [
+          {
+            "phrase": "今日は",
+            "gloss": "today",
+            "words": [
+              {
+                "word": "今日",
+                "gloss": "today"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "白馬を思へど",
+            "gloss": "white.horse-ACC think-although",
+            "words": [
+              {
+                "word": "白馬",
+                "gloss": "white.horse"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "思へ",
+                "gloss": "think.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "although"
+              }
+            ]
+          },
+          {
+            "phrase": "かひなし。",
+            "gloss": "vain",
+            "words": [
+              {
+                "word": "かひなし",
+                "gloss": "vain, useless"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "今日は白馬の節会の日。でも、白馬の節会のことを思い出しても、ここにいるんじゃ意味がない。",
         "translation-en-natural": "Today is the day of the White Horse Festival. But thinking about the festival while stuck here feels pointless.",
         "notes-ja": {
