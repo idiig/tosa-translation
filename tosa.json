@@ -7238,24 +7238,251 @@
         }
       },
       {
-        "date": "20250213",
+        "date": [
+          20250213,
+          20250923
+        ],
         "id": 78,
         "text": "たゞ浪の白きのみぞ見ゆる。",
         "kana": "ただなみのしろきのみそみゆる。",
         "koutei-yamagen": "ただ、浪の白きのみそ見ゆる。",
         "translation-ja": "ただ、波の白いのだけが見える。",
         "translation-en": "Only the whiteness of the waves is visible.",
-        "translation-ja-natural": "ただ、白く泡立つ波が見えるだけでした。",
+        "phrase-gloss": [
+          {
+            "phrase": "たゞ",
+            "gloss": "only",
+            "words": [
+              {
+                "word": "たゞ",
+                "gloss": "only"
+              }
+            ]
+          },
+          {
+            "phrase": "浪の白きのみぞ見ゆる。",
+            "gloss": "waves-GEN white-ATTR only-FOC see-POT",
+            "words": [
+              {
+                "word": "浪",
+                "gloss": "waves"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "白き",
+                "gloss": "white.ATTR"
+              },
+              {
+                "word": "のみ",
+                "gloss": "only"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "FOC"
+              },
+              {
+                "word": "見ゆる",
+                "gloss": "see.POT.ATTR"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "ただ、白く泡立つ波が見えるだけだった。",
         "translation-en-natural": "All I can see are the white, foaming waves."
       },
       {
-        "date": "20250214,20250217",
+        "date": [
+          20250214,
+          20250217,
+          20250923
+        ],
         "id": 79,
         "text": "かゝる間に人の家（野イ）の池と名ある所より鯉はなくて鮒よりはじめて川のも、海のも、ことものども、ながびつにになひつゞけておこせたり。",
         "kana": "かかるあひだにひとのいへのいけとなあるところよりこひはなくてふなりよりはじめてかはのも、うみのも、ことものども、ながびつにになひつづけておこせたり。",
         "koutei-yamagen": "かかる間に人の家の池と名ある所より鯉はなくて鮒よりはじめて川のも、海のも、ことものども、長びつにになひつづけておこせたり。",
         "translation-ja": "こうしているうちに、『池』という名前の場所や、他の名のある場所から、鯉はいなくて、鮒をはじめとして、川の魚も海の魚も、その他のものも、長櫃に担いで運び続けて送った。",
         "translation-en": "While this was happening, from a place called 'Ike' and other well-known locations, there were no carp, but starting with crucian carp, river fish, sea fish, and other things were continuously carried in long chests and sent over.",
+        "phrase-gloss": [
+          {
+            "phrase": "かゝる間に",
+            "gloss": "in this interval",
+            "words": [
+              {
+                "word": "かゝる",
+                "gloss": "this kind"
+              },
+              {
+                "word": "間",
+                "gloss": "interval"
+              },
+              {
+                "word": "に",
+                "gloss": "in"
+              }
+            ]
+          },
+          {
+            "phrase": "人の家（野イ）の池と名ある所より",
+            "gloss": "person-GEN house-GEN pond-NOM name-ATTR place-from",
+            "words": [
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "家",
+                "gloss": "house"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "池",
+                "gloss": "pond"
+              },
+              {
+                "word": "と",
+                "gloss": "NOM"
+              },
+              {
+                "word": "名",
+                "gloss": "name"
+              },
+              {
+                "word": "ある",
+                "gloss": "be.ATTR"
+              },
+              {
+                "word": "所",
+                "gloss": "place"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              }
+            ]
+          },
+          {
+            "phrase": "鯉はなくて鮒よりはじめて",
+            "gloss": "carp-TOP not.exist-and crucian.carp-from beginning",
+            "words": [
+              {
+                "word": "鯉",
+                "gloss": "carp"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "なく",
+                "gloss": "not.exist.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "鮒",
+                "gloss": "crucian.carp"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              },
+              {
+                "word": "はじめ",
+                "gloss": "begin.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "川のも、海のも、ことものども、",
+            "gloss": "river-GEN also sea-GEN also other.things-PL",
+            "words": [
+              {
+                "word": "川",
+                "gloss": "river"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "こと物",
+                "gloss": "other.things"
+              },
+              {
+                "word": "ども",
+                "gloss": "PL"
+              }
+            ]
+          },
+          {
+            "phrase": "ながびつにになひつづけておこせたり。",
+            "gloss": "long.chest-LOC carry.ADV continue-ADV send-PERF",
+            "words": [
+              {
+                "word": "ながびつ",
+                "gloss": "long.chest"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "になひ",
+                "gloss": "carry.ADV"
+              },
+              {
+                "word": "つづけ",
+                "gloss": "continue.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "おこせ",
+                "gloss": "send.IRR"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "こうしているうちに、『池』という名の場所から、鯉はないが、鮒をはじめ、川の魚や海の魚、その他の食べ物が長櫃に詰められて次々と送られてきた。",
         "translation-en-natural": "Meanwhile, from a place called 'Ike,' there were no carp, but starting with crucian carp, river fish, sea fish, and other foods were packed into a long chest and sent over one after another."
       },
