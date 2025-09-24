@@ -1515,7 +1515,35 @@
             "title": "あざれあへり",
             "note": "あざる（鯘）に掛ける。鯘が海で腐らないはずだが、人は腐れ合う。cf. 菊地；https://classicstudies.jimdofree.com/%E5%9C%9F%E4%BD%90%E6%97%A5%E8%A8%98/%E4%B8%8A%E4%B8%AD%E4%B8%8B/"
           }
-        ]
+        ],
+	"notes-en": [
+	  {
+	    "title": "shio umi",
+	    "note": "'Shio umi' could mean 'salt sea' (as opposed to 'fresh sea' or lake; Gakken) or 'tide sea'?"
+	  },
+	  {
+	    "title": "jou chuu ge + shio umi no hotori",
+	    "note": "Connection to 'Nagisa no In' from the Ise Monogatari: https://classicstudies.jimdofree.com/%E5%9C%9F%E4%BD%90%E6%97%A5%E8%A8%98/%E4%B8%8A%E4%B8%AD%E4%B8%8B/"
+	  },
+	  {
+	    "title": "azare aeri",
+	    "note": "A pun on 'azaru' (a type of fish). While the fish doesn't rot in the sea, people rot together. cf. Kikuchi; https://classicstudies.jimdofree.com/%E5%9C%9F%E4%BD%90%E6%97%A5%E8%A8%98/%E4%B8%8A%E4%B8%AD%E4%B8%8B/"
+	  }
+	],
+	"notes-zh": [
+	  {
+	    "title": "しほうみ",
+	    "note": "「しほ海」是指盐海（与淡海即湖相对；学研）。或者是潮海。"
+	  },
+	  {
+	    "title": "上中下+しほ海のほとり",
+	    "note": "这里与《伊势物语·渚之院》有强关联：https://classicstudies.jimdofree.com/%E5%9C%9F%E4%BD%90%E6%97%A5%E8%A8%98/%E4%B8%8A%E4%B8%AD%E4%B8%8B/"
+	  },
+	  {
+	    "title": "あざれあへり",
+	    "note": "是对「あざる」（鯘，一种鱼）的双关。鯘在海里不会腐烂，但人会互相耍（くされあふ）。参见菊池注释；https://classicstudies.jimdofree.com/%E5%9C%9F%E4%BD%90%E6%97%A5%E8%A8%98/%E4%B8%8A%E4%B8%AD%E4%B8%8B/"
+	  }
+	]
       },
       {
         "date": [
@@ -1534,7 +1562,7 @@
             "phrase": "廿三日",
             "gloss": "23th-day",
             "gloss-morph": "twentith.day.plus+third.day",
-            "gloss-zh": "廿三日",
+            "gloss-zh": "二十三日",
             "gloss-morph-zh": "廿+三日",
             "words": [
               {
@@ -1688,9 +1716,9 @@
           {
             "phrase": "必ずしも",
             "gloss": "necessarily",
-            "gloss-morph": "necessary=EMP",
+            "gloss-morph": "necessary=EMP=IFO",
             "gloss-zh": "必",
-            "gloss-morph-zh": "必=EMP",
+            "gloss-morph-zh": "必=EMP=IFO",
             "words": [
               {
                 "word": "必ずしも",
@@ -1763,7 +1791,7 @@
                 "word": "ざる",
                 "gloss": "NEG.ATTR",
                 "gloss-morph": "=NEG.VBL-ADN.NL",
-                "gloss-zh": "非",
+                "gloss-zh": "不",
                 "gloss-morph-zh": "=NEG.VBL-ADN.NL"
               },
               {
@@ -1872,7 +1900,7 @@
                 "word": "餞",
                 "gloss": "farewell",
                 "gloss-morph": "farewell",
-                "gloss-zh": "饯行（仪式）",
+                "gloss-zh": "饯行",
                 "gloss-morph-zh": "饯行"
               },
               {
@@ -1895,7 +1923,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "これこそ、きちんとした形で馬の餞別をした人だった。",
         "translation-en-natural": "This, indeed, was someone who properly offered a farewell gift of a horse.",
-        "translation-zh-natural": "这个才是以正确的方式为操办马饯宴会的人。"
+        "translation-zh-natural": "这才是个以正确的方式为操办马饯宴会的人。"
       },
       {
         "date": [
@@ -2155,7 +2183,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "これは守の人柄ゆえなのだろうか。地方の人の常として、今さら会うこともあるまいと思って姿を見せないが、心ある人は気兼ねせずに、なんとかしてやって来てくれたのだった。",
         "translation-en-natural": "Could it be due to the governor's character? The locals, as is often the case, assumed there was no more need to visit, but those with sincere hearts came despite that, without hesitation.",
-        "translation-zh-natural": "或许是因为国守的人格吧。从当地人之常情来说，大家会想着事到如今明明不必见面了，但有心的人还是毫不犹豫地赶来赴宴。",
+        "translation-zh-natural": "或许是因为国守的人格魅力吧。从当地人之常情来说，大家会想着“事到如今，何必再见面”。所以我想我们不会见了。明明应该是这样，没想到有心的人却还是毫不犹豫地赶来赴宴。",
 	"notes-zh": [
 	  {
 	    "title": "みえざなる",
@@ -2167,7 +2195,7 @@
 	  },
 	  {
 	    "title": "みゆ",
-	    "note": "是指需要“见面”吗？这是辞典里最靠后的一个义项。也有可能译为“见得到”，因为主人公一行人已经出发走了一端距离，所以有的人可能觉得事到如今赶不上马饯了。这个解释跟后面，明明可能空来一趟，但还是不介意、不犹豫地来了的情节也比较搭配。"
+	    "note": "是指需要“见面”吗？这是辞典里最靠后的一个义项。也有可能译为“见得到”，因为主人公一行人已经出发走了一端距离，所以有的人可能觉得事到如今赶不上马饯了。这个解释跟后面，明明可能空来一趟，但还是不介意、不犹豫地来了的情节也比较搭配。另外，是我们见不到人们了，还是人们觉得见不到我们了也是一个问题。日语现代语还是可以保持这种模糊性，但在中英的翻译中很难维持，我在自然翻译中尽可能的保留了这些可能性。",
 	  }
 	]
       },
@@ -2292,7 +2320,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "これは、物をもらったからといって褒めるようなことではない。",
         "translation-en-natural": "This is not something to praise merely because of a gift.",
-        "translation-zh-natural": "他们也并非因为受到了国守的好处才去祝福他。",
+        "translation-zh-natural": "他们也并非因为受到了国守的好处才去溜须拍马地祝福他。我也不是因为我们得到了他们的好处才去夸奖他们的诚心。",
 	"notes-zh": [
 	  {
 	    "title": "褒む",
