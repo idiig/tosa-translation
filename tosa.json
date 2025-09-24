@@ -10770,38 +10770,135 @@
         "text": "人々絶えずとぶらひにく。",
         "kana": "ひとびとたえずとぶらひにく。",
         "koutei-yamagen": "人々絶えずとぶらひにく。",
-        "translation-ja": "人々が絶えず訪れてくる。",
-        "translation-en": "People, without ceasing, visit and come.",
-        "translation-zh": "人们不断地来拜访。",
+        "translation-ja": "人々が絶えず訪れに来る。",
+        "translation-en": "People come to visit without ceasing.",
+	"translation-zh": "人们不断地来拜访。",
+        "phrase-gloss": [
+          {
+            "phrase": "人々絶えずとぶらひにく。",
+            "gloss": "People come to visit without ceasing.",
+            "words": [
+              {
+                "word": "人々",
+                "gloss": "people"
+              },
+              {
+                "word": "絶えず",
+                "gloss": "without.ceasing"
+              },
+              {
+                "word": "とぶらひ",
+                "gloss": "visit.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "く",
+                "gloss": "come"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "人々がひっきりなしに訪ねてくる。",
         "translation-en-natural": "People keep coming to visit without a break.",
         "translation-zh-natural": "人们络绎不绝地来拜访。"
       },
       {
-        "date": "20250211",
+        "date": [
+          20250211,
+          20250920
+        ],
         "id": 74,
         "text": "六日、きのふのごとし。",
         "kana": "むいか、きのふのごとし。",
         "koutei-yamagen": "六日、昨日のごとし。",
-        "translation-ja": "六日、昨日と同じようである。",
-        "translation-en": "On the sixth, it is like yesterday.",
-        "translation-zh": "六日，与昨日相同。",
+        "translation-ja": "六日、昨日のごとし。",
+        "translation-en": "The sixth day, it is like yesterday.",
+	"translation-zh": "六日，与昨日相同。",
+        "phrase-gloss": [
+          {
+            "phrase": "六日、",
+            "gloss": "sixth day",
+            "words": [
+              {
+                "word": "六日",
+                "gloss": "sixth day"
+              }
+            ]
+          },
+          {
+            "phrase": "きのふのごとし。",
+            "gloss": "like yesterday",
+            "words": [
+              {
+                "word": "きのふ",
+                "gloss": "yesterday"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ごとし",
+                "gloss": "be like"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "六日、昨日と同じようです。",
-        "translation-en-natural": "On the sixth, it is like yesterday.",
-        "translation-zh-natural": "六日，和昨天一样。"
+        "translation-en-natural": "On the sixth, it was like yesterday.",
+	"translation-zh-natural": "六日，和昨天一样。"
       },
       {
-        "date": "20250211",
+        "date": [
+          20250211,
+          20250921
+        ],
         "id": 75,
         "text": "七日になりぬ。",
         "kana": "なぬかになりぬ。",
         "koutei-yamagen": "七日になりぬ。",
         "translation-ja": "七日になった。",
         "translation-en": "It has become the seventh.",
-        "translation-zh": "已是七日。",
-        "translation-ja-natural": "七日になりました。",
+	"translation-zh": "已是七日。",
+        "phrase-gloss": [
+          {
+            "phrase": "七日",
+            "gloss": "seventh day",
+            "words": [
+              {
+                "word": "七日",
+                "gloss": "seventh day"
+              }
+            ]
+          },
+          {
+            "phrase": "になりぬ。",
+            "gloss": "become-PERF",
+            "words": [
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "なり",
+                "gloss": "become.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "七日になった。",
         "translation-en-natural": "It's the seventh.",
-        "translation-zh-natural": "到了七日。"
+	"translation-zh-natural": "到了七日。"
       },
       {
         "date": "20250211",
@@ -10811,20 +10908,103 @@
         "koutei-yamagen": "同じ湊にあり。",
         "translation-ja": "同じ港にいる。",
         "translation-en": "We are in the same port.",
-        "translation-zh": "在同一港口。",
-        "translation-ja-natural": "同じ港にいます。",
+	"translation-zh": "在同一港口。",
+        "phrase-gloss": [
+          {
+            "phrase": "同じ湊",
+            "gloss": "same port",
+            "words": [
+              {
+                "word": "同じ",
+                "gloss": "same"
+              },
+              {
+                "word": "湊",
+                "gloss": "port"
+              }
+            ]
+          },
+          {
+            "phrase": "にあり。",
+            "gloss": "be-LOC",
+            "words": [
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "あり",
+                "gloss": "be"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "同じ港にいる。",
         "translation-en-natural": "We are in the same port.",
-        "translation-zh-natural": "仍停泊在同一港口。"
+	"translation-zh-natural": "仍停泊在同一港口。"
       },
       {
-        "date": "20250212",
+        "date": [
+          20250212,
+          20250923
+        ],
         "id": 77,
         "text": "今日は白馬を思へどかひなし。",
         "kana": "けふはあをむまをおもへどかひなし。",
         "koutei-yamagen": "今日は白馬を思へど、かひなし。",
         "translation-ja": "今日は白馬を思うが、甲斐がない。",
         "translation-en": "Today, I think of the white horse, but it is in vain.",
-        "translation-zh": "今日想着白马，却没有意义。",
+	"translation-zh": "今日想着白马，却没有意义。",
+        "phrase-gloss": [
+          {
+            "phrase": "今日は",
+            "gloss": "today",
+            "words": [
+              {
+                "word": "今日",
+                "gloss": "today"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "白馬を思へど",
+            "gloss": "white.horse-ACC think-although",
+            "words": [
+              {
+                "word": "白馬",
+                "gloss": "white.horse"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "思へ",
+                "gloss": "think.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "although"
+              }
+            ]
+          },
+          {
+            "phrase": "かひなし。",
+            "gloss": "vain",
+            "words": [
+              {
+                "word": "かひなし",
+                "gloss": "vain, useless"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "今日は白馬の節会の日。でも、白馬の節会のことを思い出しても、ここにいるんじゃ意味がない。",
         "translation-en-natural": "Today is the day of the White Horse Festival. But thinking about the festival while stuck here feels pointless.",
         "translation-zh-natural": "今天是白马节会的日子。但是，想起白马节会却无济于事。",
@@ -10838,27 +11018,254 @@
         }
       },
       {
-        "date": "20250213",
+        "date": [
+          20250213,
+          20250923
+        ],
         "id": 78,
         "text": "たゞ浪の白きのみぞ見ゆる。",
         "kana": "ただなみのしろきのみそみゆる。",
         "koutei-yamagen": "ただ、浪の白きのみそ見ゆる。",
         "translation-ja": "ただ、波の白いのだけが見える。",
         "translation-en": "Only the whiteness of the waves is visible.",
-        "translation-zh": "唯独只有浪之白可见。",
-        "translation-ja-natural": "ただ、白く泡立つ波が見えるだけでした。",
+	"translation-zh": "唯独只有浪之白可见。",
+        "phrase-gloss": [
+          {
+            "phrase": "たゞ",
+            "gloss": "only",
+            "words": [
+              {
+                "word": "たゞ",
+                "gloss": "only"
+              }
+            ]
+          },
+          {
+            "phrase": "浪の白きのみぞ見ゆる。",
+            "gloss": "waves-GEN white-ATTR only-FOC see-POT",
+            "words": [
+              {
+                "word": "浪",
+                "gloss": "waves"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "白き",
+                "gloss": "white.ATTR"
+              },
+              {
+                "word": "のみ",
+                "gloss": "only"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "FOC"
+              },
+              {
+                "word": "見ゆる",
+                "gloss": "see.POT.ATTR"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "ただ、白く泡立つ波が見えるだけだった。",
         "translation-en-natural": "All I can see are the white, foaming waves.",
-        "translation-zh-natural": "只能看到白色的浪花。"
+	"translation-zh-natural": "只能看到白色的浪花。"
       },
       {
-        "date": "20250214,20250217",
+        "date": [
+          20250214,
+          20250217,
+          20250923
+        ],
         "id": 79,
         "text": "かゝる間に人の家（野イ）の池と名ある所より鯉はなくて鮒よりはじめて川のも、海のも、ことものども、ながびつにになひつゞけておこせたり。",
         "kana": "かかるあひだにひとのいへのいけとなあるところよりこひはなくてふなりよりはじめてかはのも、うみのも、ことものども、ながびつにになひつづけておこせたり。",
         "koutei-yamagen": "かかる間に人の家の池と名ある所より鯉はなくて鮒よりはじめて川のも、海のも、ことものども、長びつにになひつづけておこせたり。",
         "translation-ja": "こうしているうちに、『池』という名前の場所や、他の名のある場所から、鯉はいなくて、鮒をはじめとして、川の魚も海の魚も、その他のものも、長櫃に担いで運び続けて送った。",
         "translation-en": "While this was happening, from a place called 'Ike' and other well-known locations, there were no carp, but starting with crucian carp, river fish, sea fish, and other things were continuously carried in long chests and sent over.",
-        "translation-zh": "在此般之间，从（某户）人家，有“池”之名之地，没有鲤鱼，始于鲫鱼，河里的、海里的，其他物们，于长箱里，不断抬着送来。",
+	"translation-zh": "在此般之间，从（某户）人家，有“池”之名之地，没有鲤鱼，始于鲫鱼，河里的、海里的，其他物们，于长箱里，不断抬着送来。",
+        "phrase-gloss": [
+          {
+            "phrase": "かゝる間に",
+            "gloss": "in this interval",
+            "words": [
+              {
+                "word": "かゝる",
+                "gloss": "this kind"
+              },
+              {
+                "word": "間",
+                "gloss": "interval"
+              },
+              {
+                "word": "に",
+                "gloss": "in"
+              }
+            ]
+          },
+          {
+            "phrase": "人の家（野イ）の池と名ある所より",
+            "gloss": "person-GEN house-GEN pond-NOM name-ATTR place-from",
+            "words": [
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "家",
+                "gloss": "house"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "池",
+                "gloss": "pond"
+              },
+              {
+                "word": "と",
+                "gloss": "NOM"
+              },
+              {
+                "word": "名",
+                "gloss": "name"
+              },
+              {
+                "word": "ある",
+                "gloss": "be.ATTR"
+              },
+              {
+                "word": "所",
+                "gloss": "place"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              }
+            ]
+          },
+          {
+            "phrase": "鯉はなくて鮒よりはじめて",
+            "gloss": "carp-TOP not.exist-and crucian.carp-from beginning",
+            "words": [
+              {
+                "word": "鯉",
+                "gloss": "carp"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "なく",
+                "gloss": "not.exist.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "鮒",
+                "gloss": "crucian.carp"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              },
+              {
+                "word": "はじめ",
+                "gloss": "begin.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "川のも、海のも、ことものども、",
+            "gloss": "river-GEN also sea-GEN also other.things-PL",
+            "words": [
+              {
+                "word": "川",
+                "gloss": "river"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "こと物",
+                "gloss": "other.things"
+              },
+              {
+                "word": "ども",
+                "gloss": "PL"
+              }
+            ]
+          },
+          {
+            "phrase": "ながびつにになひつづけておこせたり。",
+            "gloss": "long.chest-LOC carry.ADV continue-ADV send-PERF",
+            "words": [
+              {
+                "word": "ながびつ",
+                "gloss": "long.chest"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "になひ",
+                "gloss": "carry.ADV"
+              },
+              {
+                "word": "つづけ",
+                "gloss": "continue.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "おこせ",
+                "gloss": "send.IRR"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "こうしているうちに、『池』という名の場所から、鯉はないが、鮒をはじめ、川の魚や海の魚、その他の食べ物が長櫃に詰められて次々と送られてきた。",
         "translation-en-natural": "Meanwhile, from a place called 'Ike,' there were no carp, but starting with crucian carp, river fish, sea fish, and other foods were packed into a long chest and sent over one after another.",
         "translation-zh-natural": "在这期间，从一户人家名叫“池”的地方，各种事物被装在长箱里不断搬送过来。没有鲤鱼，但有以鲫鱼为首的、河里的、海里的其他食物。"
