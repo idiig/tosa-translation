@@ -4274,13 +4274,13 @@
         "koutei-yamagen": "とかく言ひて、前の守も今のも、諸共におりて、今の主も前のも手取りかはしてゑひごとに心よげなることして出でにけり。",
         "translation-ja": "あれこれと言って、前の国司も今の国司も共に降り、今の主人も前の主人も手を取り交わし、酔った勢いで心地よさそうなことをして、出ていった。",
         "translation-en": "Saying various things, the former governor and the current governor both descended together, and the current master and the former master held hands, doing something cheerful under the influence of drink, and went out.",
-        "translation-zh": "这般那般说着，之前的国守和现在的一起下来，现在的宅主和之前的手相互拉着，因醉意做着欢愉之事后，离开了。",
+        "translation-zh": "咏了这般那般后，前任的国守和现任的一起下来，现在的招待者和之前的相互拉着手，因醉意做着欢愉之事后，离开了。",
         "phrase-gloss": [
           {
             "phrase": "とかくいひて",
             "gloss": "saying various things",
             "gloss-morph": "various say-ADV=SEQ",
-            "gloss-zh": "这般那般 说",
+            "gloss-zh": "咏了这般那般后",
             "gloss-morph-zh": "这般那般 说-ADV=SEQ",
             "words": [
               {
@@ -4294,14 +4294,14 @@
                 "word": "いひ",
                 "gloss": "say.ADV",
                 "gloss-morph": "say-ADV",
-                "gloss-zh": "说",
+                "gloss-zh": "咏",
                 "gloss-morph-zh": "说-ADV"
               },
               {
                 "word": "て",
                 "gloss": "CONJ",
                 "gloss-morph": "=SEQ",
-                "gloss-zh": "SEQ",
+                "gloss-zh": "后",
                 "gloss-morph-zh": "=SEQ"
               }
             ]
@@ -4310,14 +4310,14 @@
             "phrase": "前の守も今のも諸共におりて",
             "gloss": "the former governor and the current governor both descended together",
             "gloss-morph": "the.former=GEN governor=IFO current=GEN.NL=IFO together.ADV descend-ADV=SEQ",
-            "gloss-zh": "前 的 国守 也 现在 的 一起-地 下来",
+            "gloss-zh": "前任的国守和现任的国守一起下来",
             "gloss-morph-zh": "前=GEN 国守=IFO 现在=GEN.NL=IFO 一起.ADV 下来-ADV=SEQ",
             "words": [
               {
                 "word": "前",
                 "gloss": "former",
                 "gloss-morph": "former",
-                "gloss-zh": "前",
+                "gloss-zh": "前任",
                 "gloss-morph-zh": "前"
               },
               {
@@ -4338,14 +4338,14 @@
                 "word": "も",
                 "gloss": "ADD",
                 "gloss-morph": "=IFO",
-                "gloss-zh": "也",
+                "gloss-zh": "和",
                 "gloss-morph-zh": "=IFO"
               },
               {
                 "word": "今",
                 "gloss": "current",
                 "gloss-morph": "current",
-                "gloss-zh": "现在",
+                "gloss-zh": "现任",
                 "gloss-morph-zh": "现在"
               },
               {
@@ -4359,7 +4359,7 @@
                 "word": "も",
                 "gloss": "ADD",
                 "gloss-morph": "=IFO",
-                "gloss-zh": "也",
+                "gloss-zh": "都",
                 "gloss-morph-zh": "=IFO"
               },
               {
@@ -4372,9 +4372,9 @@
               {
                 "word": "に",
                 "gloss": "ADVZ",
-                "gloss-morph": "=ADV",
-                "gloss-zh": "地",
-                "gloss-morph-zh": "=ADV"
+                "gloss-morph": "=SER",
+                "gloss-zh": "",
+                "gloss-morph-zh": "=SER"
               },
               {
                 "word": "おり",
@@ -4387,7 +4387,7 @@
                 "word": "て",
                 "gloss": "CONJ",
                 "gloss-morph": "=SEQ",
-                "gloss-zh": "SEQ",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=SEQ"
               }
             ]
@@ -4396,7 +4396,7 @@
             "phrase": "今のあるじも前のも手取りかはして",
             "gloss": "the current master and the former master held hands",
             "gloss-morph": "current=GEN master=IFO former=GEN.NL=IFO hand take-ADV exchange-ADV=SEQ",
-            "gloss-zh": "现在 的 主人 也 前 的 手 相互拉",
+            "gloss-zh": "现在的宅主和之前的的相互拉着手",
             "gloss-morph-zh": "现在=GEN 主人=IFO 之前=GEN.NL=IFO 手 拉-ADV 交换-ADV=SEQ",
             "words": [
               {
@@ -4417,14 +4417,14 @@
                 "word": "あるじ",
                 "gloss": "master",
                 "gloss-morph": "master",
-                "gloss-zh": "主人",
-                "gloss-morph-zh": "主人"
+                "gloss-zh": "宅主",
+                "gloss-morph-zh": "宅主"
               },
               {
                 "word": "も",
                 "gloss": "ADD",
                 "gloss-morph": "=IFO",
-                "gloss-zh": "也",
+                "gloss-zh": "和",
                 "gloss-morph-zh": "=IFO"
               },
               {
@@ -4445,7 +4445,7 @@
                 "word": "も",
                 "gloss": "ADD",
                 "gloss-morph": "=IFO",
-                "gloss-zh": "也",
+                "gloss-zh": "都",
                 "gloss-morph-zh": "=IFO"
               },
               {
@@ -4466,7 +4466,7 @@
                 "word": "て",
                 "gloss": "CONJ",
                 "gloss-morph": "=SEQ",
-                "gloss-zh": "SEQ",
+                "gloss-zh": "着",
                 "gloss-morph-zh": "=SEQ"
               }
             ]
@@ -4474,16 +4474,16 @@
           {
             "phrase": "ゑひごとに心よげなることして",
             "gloss": "doing something cheerful under the influence of drink",
-            "gloss-morph": "drink-NML+thing=CSL cheerful=ADN thing do-ADV=SEQ",
-            "gloss-zh": "醉酒之事 因 欢愉-的 事 做",
-            "gloss-morph-zh": "醉-NML+事=CSL 欢愉=ADN 事 做-ADV=SEQ",
+            "gloss-morph": "drink-NML=NML=CSL heart+good=ADN thing do-ADV=SEQ",
+            "gloss-zh": "因醉酒做了欢愉之事",
+            "gloss-morph-zh": "醉-NML=NML=CSL 心+好的=ADN 事 做-ADV=SEQ",
             "words": [
               {
                 "word": "ゑひごと",
                 "gloss": "drunkenness",
-                "gloss-morph": "drink-NML+thing",
-                "gloss-zh": "醉酒之事",
-                "gloss-morph-zh": "醉-NML+事"
+                "gloss-morph": "drink-NML=NML",
+                "gloss-zh": "醉酒",
+                "gloss-morph-zh": "醉-NML=NML"
               },
               {
                 "word": "に",
@@ -4495,9 +4495,9 @@
               {
                 "word": "心よげ",
                 "gloss": "cheerful",
-                "gloss-morph": "cheerful",
+                "gloss-morph": "heart+good",
                 "gloss-zh": "欢愉",
-                "gloss-morph-zh": "欢愉"
+                "gloss-morph-zh": "心+好的"
               },
               {
                 "word": "なる",
@@ -4524,7 +4524,7 @@
                 "word": "て",
                 "gloss": "CONJ",
                 "gloss-morph": "=SEQ",
-                "gloss-zh": "SEQ",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=SEQ"
               }
             ]
@@ -4533,14 +4533,14 @@
             "phrase": "出でにけり",
             "gloss": "went out",
             "gloss-morph": "go.out-ADV+MNF-ADV+RET-CCL",
-            "gloss-zh": "出去 了",
+            "gloss-zh": "出发了",
             "gloss-morph-zh": "出去-ADV+MNF-ADV+RET-CCL",
             "words": [
               {
                 "word": "出で",
                 "gloss": "go out",
                 "gloss-morph": "go.out-ADV",
-                "gloss-zh": "出",
+                "gloss-zh": "出发",
                 "gloss-morph-zh": "出-ADV"
               },
               {
@@ -4563,7 +4563,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "あれこれと言って、前の国司も今の国司も一緒に庭に降り、今の主人も前の主人も手を取り交わして、酔った勢いで楽しげにふるまって、出ていった。",
         "translation-en-natural": "They said various things, and the former governor and the current governor both came down together; the current master and the former master joined hands and, under the influence of drink, acted cheerfully, then went out.",
-        "translation-zh-natural": "他们聊者这般那般，前国守和现任国守一起走下庭院，现任宅和前任宅主手拉着手，借着醉意愉快地嬉戏后，离开了宅邸。"
+        "translation-zh-natural": "正咏着这般那般，前任国守和现任国守一起走下庭院，现在宅主和前任宅主手拉着手，借着醉意愉快地嬉戏后，我们离开了宅邸。"
       },
       {
         "date": [
