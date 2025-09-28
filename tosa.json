@@ -6020,105 +6020,174 @@
         "koutei-yamagen": "守の館の人々の中に、この来る人々ぞ、心あるようにはいはれほのめく。",
         "translation-ja": "国司たちの人々の中に、この来る人々こそ、心あるように言われ、ほのめく。",
         "translation-en": "Among the governor's people, these coming people are the very ones who are said to be sincere, and it faintly appears so.",
-        "translation-zh": "在国守邸的人们中，这些来的人们据说是有心的，（这点）也稍微看得出来。",
+        "translation-zh": "在国守邸的人们中，这些来的人们据说、而且看得出来是有心的。",
         "phrase-gloss": [
           {
             "phrase": "守のたちの人々の中に",
             "gloss": "among the people of the governor's group",
+	    "gloss-morph": "governor=GEN house=GEN person+person=GEN inside=DAT",
+	    "gloss-zh": "在国守邸的人里",
+	    "gloss-morph-zh": "国守=GEN 宅邸=GEN 人+人=GEN 里=DAT",
             "words": [
               {
                 "word": "守",
-                "gloss": "governor"
+                "gloss": "governor",
+		"gloss-morph": "governor",
+		"gloss-zh": "国守",
+		"gloss-morph-zh": "国守"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
-              },
-              {
-                "word": "たち",
-                "gloss": "PL"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "",
+		"gloss-morph-zh": "=GEN"
+	      },
+	      {
+		"word": "たち",
+		"gloss": "house",
+		"gloss-morph": "house",
+		"gloss-zh": "邸",
+		"gloss-morph-zh": "宅邸"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-morph-zh": "=GEN"
               },
               {
                 "word": "人々",
-                "gloss": "people"
+                "gloss": "people",
+		"gloss-morph": "person+person",
+		"gloss-zh": "人们",
+		"gloss-morph-zh": "人+人"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "",
+		"gloss-morph-zh": "=GEN"
               },
               {
                 "word": "中",
-                "gloss": "inside"
+                "gloss": "inside",
+		"gloss-morph": "inside",
+		"gloss-zh": "里",
+		"gloss-morph-zh": "里"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "在",
+		"gloss-morph-zh": "=DAT"
               }
             ]
           },
           {
             "phrase": "この來る人々ぞ",
             "gloss": "these people who come indeed",
+	    "gloss-morph": "DEM=GEN come-ADN person+person=FOC",
+	    "gloss-zh": "这些来的人们",
+	    "gloss-morph-zh": "DEM=GEN 来-ADN 人+人=FOC",
             "words": [
               {
                 "word": "この",
-                "gloss": "this"
+                "gloss": "this",
+		"gloss-morph": "DEM=GEN",
+		"gloss-zh": "这",
+		"gloss-morph-zh": "DEM=GEN"
               },
               {
                 "word": "來る",
-                "gloss": "come.ATTR"
+                "gloss": "come.ATTR",
+		"gloss-morph": "come-ADN",
+		"gloss-zh": "来",
+		"gloss-morph-zh": "来-ADN"
               },
               {
                 "word": "人々",
-                "gloss": "people"
+                "gloss": "people",
+		"gloss-morph": "person+person",
+		"gloss-zh": "人们",
+		"gloss-morph-zh": "人+人"
               },
               {
                 "word": "ぞ",
-                "gloss": "FOC"
+                "gloss": "FOC",
+		"gloss-morph": "=FOC",
+		"gloss-zh": "",
+		"gloss-morph-zh": "=FOC"
               }
             ]
           },
           {
             "phrase": "心あるやうには",
             "gloss": "as if (they) had sincerity",
+	    "gloss-morph": "heart exist-ADN manner=SER=TOP",
+	    "gloss-zh": "像有心的样子",
+	    "gloss-morph-zh": "心 有-ADN 样=SER=TOP",
             "words": [
               {
                 "word": "心",
-                "gloss": "heart"
+                "gloss": "heart",
+		"gloss-morph": "heart",
+		"gloss-zh": "心",
+		"gloss-morph-zh": "心"
               },
               {
                 "word": "ある",
-                "gloss": "have.ATTR"
+                "gloss": "have.ATTR",
+		"gloss-morph": "exist-ADN",
+		"gloss-zh": "有的",
+		"gloss-morph-zh": "有-ADN"
               },
               {
                 "word": "やう",
-                "gloss": "manner"
+                "gloss": "manner",
+		"gloss-morph": "manner",
+		"gloss-zh": "样子",
+		"gloss-morph-zh": "样"
               },
               {
                 "word": "に",
-                "gloss": "DAT"
+                "gloss": "DAT",
+		"gloss-morph": "=SER",
+		"gloss-zh": "",
+		"gloss-morph-zh": "=SER"
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "",
+		"gloss-morph-zh": "=TOP"
               }
             ]
           },
           {
             "phrase": "いはれほのめく",
             "gloss": "(they) are said and faintly appear so",
+	    "gloss-morph": "say-THM+PAS-ADV faintly.appear-CCL",
+	    "gloss-zh": "据说而且看得出来",
+	    "gloss-morph-zh": "说-THM+被动-ADV 稍显-CCL",
             "words": [
               {
                 "word": "いはれ",
-                "gloss": "say.PASS.ADV"
+                "gloss": "say.PASS.ADV",
+		"gloss-morph": "say-THM+PAS-ADV",
+		"gloss-zh": "据说",
+		"gloss-morph-zh": "说-THM+被动-ADV"
               },
               {
                 "word": "ほのめく",
-                "gloss": "faintly.appear"
+                "gloss": "faintly.appear",
+		"gloss-morph": "faintly.appear-CCL",
+		"gloss-zh": "看得出来",
+		"gloss-morph-zh": "稍显-CCL"
               }
             ]
           }
@@ -6126,7 +6195,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "国司の人々の中で、この来た人たちこそ、心あるように言われていて、そんなふうにも見える。",
         "translation-en-natural": "Among the people serving the governor, these visitors are the ones considered to have sincerity, and it seems faintly so.",
-        "translation-zh-natural": "在国守的宅邸中的人里，据说这些来的人最有心的，看起来也确实如此。"
+        "translation-zh-natural": "在国守邸的人里面，听说这些特意前来的人是有诚意的，这点确实也看得出来。"
       },
       {
         "date": [
@@ -6144,102 +6213,167 @@
           {
             "phrase": "かく別れ難くいひて",
             "gloss": "saying that parting is hard like this",
+	    "gloss-morph": "like.this parting-ADV+LAB-SER say-ADV=SEQ",
+	    "gloss-zh": "这么说着难以分离",
+	    "gloss-morph-zh": "如此 分离-ADV+LAB-SER 说-ADV=SEQ",
             "words": [
               {
                 "word": "かく",
-                "gloss": "like.this"
+                "gloss": "like.this",
+		"gloss-morph": "like.this",
+		"gloss-zh": "这么",
+		"gloss-morph-zh": "如此"
               },
               {
                 "word": "別れ",
-                "gloss": "parting.ADV"
+                "gloss": "parting.ADV",
+		"gloss-morph": "parting-ADV",
+		"gloss-zh": "分离",
+		"gloss-morph-zh": "分离-ADV"
               },
               {
                 "word": "難く",
-                "gloss": "hard.ADV"
+                "gloss": "hard.ADV",
+		"gloss-morph": "+LAB-SER",
+		"gloss-zh": "难",
+		"gloss-morph-zh": "+LAB-SER"
               },
               {
                 "word": "いひ",
-                "gloss": "say.ADV"
+                "gloss": "say.ADV",
+		"gloss-morph": "say-ADV",
+		"gloss-zh": "说",
+		"gloss-morph-zh": "说-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-morph-zh": "=SEQ"
               }
             ]
           },
           {
             "phrase": "かの人々の口網ももろもちにて",
             "gloss": "with those people carrying the fishing net together",
+	    "gloss-morph": "DEM=GEN person+person=GEN fishing.net=IFO together+hold=SEQ",
+	    "gloss-zh": "那些人像一起背着渔网",
+	    "gloss-morph-zh": "那-DEM=GEN 人+人=GEN 渔网=IFO 一起+持=SEQ",
             "words": [
               {
                 "word": "かの",
-                "gloss": "that.DEM"
+                "gloss": "that.DEM",
+		"gloss-morph": "DEM=GEN",
+		"gloss-zh": "那",
+		"gloss-morph-zh": "DEM=GEN"
               },
               {
                 "word": "人々",
-                "gloss": "people"
+                "gloss": "people",
+		"gloss-morph": "person+person",
+		"gloss-zh": "人们",
+		"gloss-morph-zh": "人+人"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-morph-zh": "=GEN"
               },
               {
                 "word": "口網",
-                "gloss": "mouth.net"
+                "gloss": "mouth.net",
+		"gloss-morph": "fishing.net",
+		"gloss-zh": "渔网",
+		"gloss-morph-zh": "渔网"
               },
               {
                 "word": "も",
-                "gloss": "ADD"
+                "gloss": "ADD",
+		"gloss-morph": "=IFO",
+		"gloss-zh": "",
+		"gloss-morph-zh": "=IFO"
               },
               {
                 "word": "もろもち",
-                "gloss": "together.hold"
+                "gloss": "together.hold",
+		"gloss-morph": "together+hold",
+		"gloss-zh": "一起扛着",
+		"gloss-morph-zh": "一起+持"
               },
               {
-                "word": "に",
-                "gloss": "LOC"
-              },
-              {
-                "word": "て",
-                "gloss": "CONJ"
+                "word": "にて",
+                "gloss": "LOC",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "像",
+		"gloss-morph-zh": "=SEQ"
               }
             ]
           },
           {
             "phrase": "この海邊にて荷ひいだせる歌",
             "gloss": "the poem carried out at this seaside",
+	    "gloss-morph": "this.DEM=GEN sea+side=LOC carry-ADV bring.out-INC+STA-ADN poem",
+	    "gloss-zh": "这海边背出的和歌",
+	    "gloss-morph-zh": "这.DEM=GEN 海+边=LOC 背-ADV 出-INC+STA-ADN 和歌",
             "words": [
               {
                 "word": "この",
-                "gloss": "this.DEM"
+                "gloss": "this.DEM",
+		"gloss-morph": "this.DEM=GEN",
+		"gloss-zh": "这",
+		"gloss-morph-zh": "这.DEM=GEN"
               },
               {
                 "word": "海邊",
-                "gloss": "seaside"
+                "gloss": "seaside",
+		"gloss-morph": "sea+side",
+		"gloss-zh": "海边",
+		"gloss-morph-zh": "海+边"
               },
               {
                 "word": "に",
-                "gloss": "LOC"
+                "gloss": "LOC",
+		"gloss-morph": "=LOC",
+		"gloss-zh": "在",
+		"gloss-morph-zh": "=LOC"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-morph-zh": "=SEQ"
               },
               {
                 "word": "荷ひ",
-                "gloss": "carry.ADV"
+                "gloss": "carry.ADV",
+		"gloss-morph": "carry-ADV",
+		"gloss-zh": "背",
+		"gloss-morph-zh": "背-ADV"
               },
               {
                 "word": "いだせ",
-                "gloss": "bring.out.ADV"
+                "gloss": "bring.out.ADV",
+		"gloss-morph": "bring.out-INC",
+		"gloss-zh": "出",
+		"gloss-morph-zh": "出-INC"
               },
               {
                 "word": "る",
-                "gloss": "PERF.ATTR"
+                "gloss": "PERF.ATTR",
+		"gloss-morph": "+STA-ADN",
+		"gloss-zh": "了的",
+		"gloss-morph-zh": "+STA-ADN"
               },
               {
                 "word": "歌",
-                "gloss": "poem"
+                "gloss": "poem",
+		"gloss-morph": "poem",
+		"gloss-zh": "和歌",
+		"gloss-morph-zh": "和歌"
               }
             ]
           }
@@ -6247,7 +6381,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "こうして別れがたいと言いながら、あの人たちは口網を皆で担いで、この浜辺で歌を詠んだのだった。",
         "translation-en-natural": "As they said it was hard to part, the people carried their fishing net together and composed a poem by the seaside.",
-        "translation-zh-natural": "说着如此难以分离，众人像是一起扛着渔网般，协力在这海边作出一首和歌。"
+        "translation-zh-natural": "就这样，他们说着难以分离，像是一起扛着渔网般，协力在这海边作出一首和歌。"
       },
       {
         "date": [
@@ -6260,13 +6394,13 @@
         "koutei-yamagen": "をしと思ふ/人やとまると/葦鴨の/うち群れてこそ/我は来にけれ",
         "translation-ja": "惜しいと思う人が留まるのかと、葦鴨が群れてこそ、私は来てしまったのだった。",
         "translation-en": "Wondering if someone who thinks me dear would stay, as the wild ducks flock together, I have come.",
-        "translation-zh": "珍惜的/人停留/芦鸭/群聚/我已来",
+        "translation-zh": "感到惜别的/人会停留吗/芦鸭/群聚/我已来",
         "phrase-gloss": [
           {
             "phrase": "をしと思ふ",
             "gloss": "think (someone) dear",
             "gloss-morph": "treasure-CCL=CMP think-ADN",
-            "gloss-zh": "珍惜 QUOT 想",
+            "gloss-zh": "觉得珍惜的",
             "gloss-morph-zh": "珍惜-CCL=CMP 想-ADN",
             "words": [
               {
@@ -6280,14 +6414,14 @@
                 "word": "と",
                 "gloss": "QUOT",
                 "gloss-morph": "=CMP",
-                "gloss-zh": "QUOT",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=CMP"
               },
               {
                 "word": "思ふ",
                 "gloss": "think",
                 "gloss-morph": "think-ADN",
-                "gloss-zh": "想",
+                "gloss-zh": "觉得...的",
                 "gloss-morph-zh": "想-ADN"
               }
             ]
@@ -6296,7 +6430,7 @@
             "phrase": "人やとまると",
             "gloss": "would someone stay",
             "gloss-morph": "person=XCL stay-CCL=CMP",
-            "gloss-zh": "人-啊 停留 QUOT",
+            "gloss-zh": "人会停留吗",
             "gloss-morph-zh": "人=XCL 停留-CCL=CMP",
             "words": [
               {
@@ -6310,7 +6444,7 @@
                 "word": "や",
                 "gloss": "Q",
                 "gloss-morph": "=XCL",
-                "gloss-zh": "啊",
+                "gloss-zh": "吗",
                 "gloss-morph-zh": "=XCL"
               },
               {
@@ -6324,7 +6458,7 @@
                 "word": "と",
                 "gloss": "QUOT",
                 "gloss-morph": "=CMP",
-                "gloss-zh": "QUOT",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=CMP"
               }
             ]
@@ -6332,22 +6466,22 @@
           {
             "phrase": "あし鴨の",
             "gloss": "of the reed ducks",
-            "gloss-morph": "reed.duck=NOM",
-            "gloss-zh": "芦鸭 的",
-            "gloss-morph-zh": "芦鸭=NOM",
+            "gloss-morph": "reed+duck=NOM",
+            "gloss-zh": "芦鸭",
+            "gloss-morph-zh": "芦+鸭=NOM",
             "words": [
               {
                 "word": "あし鴨",
                 "gloss": "reed.duck",
-                "gloss-morph": "reed.duck",
+                "gloss-morph": "reed+duck",
                 "gloss-zh": "芦鸭",
-                "gloss-morph-zh": "芦鸭"
+                "gloss-morph-zh": "芦+鸭"
               },
               {
                 "word": "の",
                 "gloss": "GEN",
                 "gloss-morph": "=NOM",
-                "gloss-zh": "的",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=NOM"
               }
             ]
@@ -6356,28 +6490,28 @@
             "phrase": "うち群れてこそ",
             "gloss": "as they flock together",
             "gloss-morph": "EMP+flock.together-ADV=SEQ=EMP",
-            "gloss-zh": "聚集 EMP",
+            "gloss-zh": "群聚",
             "gloss-morph-zh": "EMP+聚集-ADV=SEQ=EMP",
             "words": [
               {
                 "word": "うち群れ",
                 "gloss": "flock.together.ADV",
                 "gloss-morph": "EMP+flock.together-ADV",
-                "gloss-zh": "聚集",
+                "gloss-zh": "群聚",
                 "gloss-morph-zh": "EMP+聚集-ADV"
               },
               {
                 "word": "て",
                 "gloss": "CONJ",
                 "gloss-morph": "=SEQ",
-                "gloss-zh": "SEQ",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=SEQ"
               },
               {
                 "word": "こそ",
                 "gloss": "EMPH",
                 "gloss-morph": "=EMP",
-                "gloss-zh": "EMP",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=EMP"
               }
             ]
@@ -6386,8 +6520,8 @@
             "phrase": "我はきにけれ",
             "gloss": "I have come",
             "gloss-morph": "1SG=TOP come-ADV+MNF-ADV+RET-INC",
-            "gloss-zh": "我=TOP 来-了-的",
-            "gloss-morph-zh": "1SG=TOP 来-ADV+来-ADV+RET-INC",
+            "gloss-zh": "我已来",
+            "gloss-morph-zh": "1SG=TOP 来-ADV+MNF-ADV+RET-INC",
             "words": [
               {
                 "word": "我",
@@ -6400,7 +6534,7 @@
                 "word": "は",
                 "gloss": "TOP",
                 "gloss-morph": "=TOP",
-                "gloss-zh": "TOP",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=TOP"
               },
               {
@@ -6430,7 +6564,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "私を惜しいと思って留まってくれる人がいるのだろうか。葦鴨が群れるように、私はここまで来てしまったのだ。",
         "translation-en-natural": "I wonder if anyone who cares for me would have stayed behind. Like the wild ducks flocking together, I too have come all the way here.",
-        "translation-zh-natural": "珍惜我的人都留在此地，就像芦鸭聚集在一起一样，我已来到这里了啊。"
+        "translation-zh-natural": "感到惜别的人都留在此地了吗，就像芦鸭聚集在一起一样？我已来到这里了啊。"
       },
       {
         "date": [
