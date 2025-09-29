@@ -8389,7 +8389,7 @@
                 "word": "廿",
                 "gloss": "twentyth.day.plus+",
                 "gloss-morph": "twentith.day.plus+",
-                "gloss-zh": "廿",
+                "gloss-zh": "二十",
                 "gloss-morph-zh": "廿+"
               },
               {
@@ -8405,7 +8405,7 @@
             "phrase": "大湊に",
             "gloss": "at Ominato",
             "gloss-morph": "Ominato.PN=DAT",
-            "gloss-zh": "大湊 在",
+            "gloss-zh": "于大湊",
             "gloss-morph-zh": "大湊=DAT",
             "words": [
               {
@@ -8419,7 +8419,7 @@
                 "word": "に",
                 "gloss": "LOC",
                 "gloss-morph": "=DAT",
-                "gloss-zh": "在",
+                "gloss-zh": "于",
                 "gloss-morph-zh": "=DAT"
               }
             ]
@@ -8428,7 +8428,7 @@
             "phrase": "とまれり",
             "gloss": "stayed (and the state continues)",
             "gloss-morph": "stay-INC+STA-CCL",
-            "gloss-zh": "停泊-了",
+            "gloss-zh": "停泊",
             "gloss-morph-zh": "停泊-INC+STA-CCL",
             "words": [
               {
@@ -8464,7 +8464,7 @@
         "koutei-yamagen": "くす師ふりはへて、屠蘇白散酒加へて持て来たり。",
         "translation-ja": "薬師が、念を入れて、屠蘇、白散、酒を加えて、持って来た。",
         "translation-en": "The apothecary, taking special care, brought toso, hakusan, and sake.",
-        "translation-zh": "药师特意将屠苏、白散入酒，带了过来。",
+        "translation-zh": "药师特意将酒加入屠苏、白散，带了过来。",
         "phrase-gloss": [
           {
             "phrase": "くす師",
@@ -8514,7 +8514,7 @@
                 "word": "て",
                 "gloss": "CONJ",
                 "gloss-morph": "=SEQ",
-                "gloss-zh": "SEQ",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=SEQ"
               }
             ]
@@ -8523,7 +8523,7 @@
             "phrase": "屠蘇白散",
             "gloss": "toso, byakusan",
             "gloss-morph": "toso byakusan",
-            "gloss-zh": "屠苏 白散",
+            "gloss-zh": "屠苏和白散",
             "gloss-morph-zh": "屠苏 白散",
             "words": [
               {
@@ -8546,7 +8546,7 @@
             "phrase": "酒加へて",
             "gloss": "sake adding",
             "gloss-morph": "sake add-ADV=SEQ",
-            "gloss-zh": "酒 加",
+            "gloss-zh": "把酒加入",
             "gloss-morph-zh": "酒 加-ADV=SEQ",
             "words": [
               {
@@ -8560,14 +8560,14 @@
                 "word": "加へ",
                 "gloss": "add.ADV",
                 "gloss-morph": "add-ADV",
-                "gloss-zh": "加",
+                "gloss-zh": "把...加入",
                 "gloss-morph-zh": "加-ADV"
               },
               {
                 "word": "て",
                 "gloss": "CONJ",
                 "gloss-morph": "=SEQ",
-                "gloss-zh": "SEQ",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=SEQ"
               }
             ]
@@ -8576,7 +8576,7 @@
             "phrase": "もて來たり",
             "gloss": "brought",
             "gloss-morph": "take.SEQ+come-ADV+STA-CCL",
-            "gloss-zh": "带+来-了",
+            "gloss-zh": "带了过来",
             "gloss-morph-zh": "带.SEQ+来-ADV+STA-CCL",
             "words": [
               {
@@ -8590,7 +8590,7 @@
                 "word": "て",
                 "gloss": "CONJ",
                 "gloss-morph": ".SEQ",
-                "gloss-zh": "SEQ",
+                "gloss-zh": "",
                 "gloss-morph-zh": ".SEQ"
               },
               {
@@ -8613,7 +8613,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "薬師が気を利かせて、屠蘇や白散に酒を加えて持ってきた。",
         "translation-en-natural": "The apothecary thoughtfully prepared toso and byakusan, adding sake to them , and brought them over.",
-        "translation-zh-natural": "药师特意将用屠苏和白散调制好的酒带给了我们。",
+        "translation-zh-natural": "药师特意将用屠苏和白散入酒带给了我们。",
         "notes-ja": [
           {
             "title": "屠蘇",
@@ -8722,14 +8722,14 @@
             "phrase": "志あるに",
             "gloss": "sincerity exist",
             "gloss-morph": "sincerity exist-ADN.NL=DAT",
-            "gloss-zh": "志 有 于",
+            "gloss-zh": "有诚意",
             "gloss-morph-zh": "志 exist-ADN.NL=DAT",
             "words": [
               {
                 "word": "志",
                 "gloss": "sincerity",
                 "gloss-morph": "sincerity",
-                "gloss-zh": "志",
+                "gloss-zh": "诚意",
                 "gloss-morph-zh": "志"
               },
               {
@@ -8743,7 +8743,7 @@
                 "word": "に",
                 "gloss": "DAT",
                 "gloss-morph": "=DAT",
-                "gloss-zh": "于",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=DAT"
               }
             ]
@@ -8752,21 +8752,21 @@
             "phrase": "似たり",
             "gloss": "seem like",
             "gloss-morph": "seem+STA-CCL",
-            "gloss-zh": "似 了",
+            "gloss-zh": "看似",
             "gloss-morph-zh": "似+STA-CCL",
             "words": [
               {
                 "word": "似",
                 "gloss": "seem.ADV",
                 "gloss-morph": "seem",
-                "gloss-zh": "似",
+                "gloss-zh": "看似",
                 "gloss-morph-zh": "似"
               },
               {
                 "word": "たり",
                 "gloss": "PERF",
                 "gloss-morph": "+STA-CCL",
-                "gloss-zh": "了",
+                "gloss-zh": "",
                 "gloss-morph-zh": "+STA-CCL"
               }
             ]
