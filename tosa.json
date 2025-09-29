@@ -7264,7 +7264,7 @@
             "phrase": "この折に",
             "gloss": "at this time",
             "gloss-morph": "DEM=GEN occasion=DAT",
-            "gloss-zh": "这个时节 在",
+            "gloss-zh": " 在这个时候",
             "gloss-morph-zh": "DEM=GEN 时节=DAT",
             "words": [
               {
@@ -7294,15 +7294,15 @@
             "phrase": "ある人々",
             "gloss": "certain people",
             "gloss-morph": "exist-ADN+person+person",
-            "gloss-zh": "有的 人们",
-            "gloss-morph-zh": "存在-ADN+人+人",
+            "gloss-zh": "有的人",
+            "gloss-morph-zh": "有-ADN+人+人",
             "words": [
               {
                 "word": "ある",
                 "gloss": "certain",
                 "gloss-morph": "exist-ADN+",
                 "gloss-zh": "有的",
-                "gloss-morph-zh": "存在-ADN+"
+                "gloss-morph-zh": "有-ADN+"
               },
               {
                 "word": "人々",
@@ -7317,7 +7317,7 @@
             "phrase": "折節につけて",
             "gloss": "on each occasion",
             "gloss-morph": "occasion=DAT attach-ADV=SEQ",
-            "gloss-zh": "时节 在 趁着",
+            "gloss-zh": "趁着时节",
             "gloss-morph-zh": "时节=DAT 趁-ADV=SEQ",
             "words": [
               {
@@ -7331,14 +7331,14 @@
                 "word": "に",
                 "gloss": "LOC",
                 "gloss-morph": "=DAT",
-                "gloss-zh": "在",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=DAT"
               },
               {
                 "word": "つけ",
                 "gloss": "attach.ADV",
                 "gloss-morph": "attach-ADV",
-                "gloss-zh": "趁着",
+                "gloss-zh": "趁",
                 "gloss-morph-zh": "趁-ADV"
               },
               {
@@ -7354,7 +7354,7 @@
             "phrase": "からうたども",
             "gloss": "Chinese poems.PL",
             "gloss-morph": "Tang.Chinese+poem=PLU",
-            "gloss-zh": "唐诗 们",
+            "gloss-zh": "唐诗们",
             "gloss-morph-zh": "唐+诗=PLU",
             "words": [
               {
@@ -7377,7 +7377,7 @@
             "phrase": "時に似つかはしき",
             "gloss": "befitting the time",
             "gloss-morph": "time=DAT resemble-ADN.NL",
-            "gloss-zh": "时间 DAT 相似-的",
+            "gloss-zh": "与时间相符的",
             "gloss-morph-zh": "时间=DAT 相似-ADN.NL",
             "words": [
               {
@@ -7391,14 +7391,14 @@
                 "word": "に",
                 "gloss": "DAT",
                 "gloss-morph": "=DAT",
-                "gloss-zh": "DAT",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=DAT"
               },
               {
                 "word": "似つかはしき",
                 "gloss": "befitting.ATTR",
                 "gloss-morph": "resemble-ADN.NL",
-                "gloss-zh": "相似-的",
+                "gloss-zh": "相符的",
                 "gloss-morph-zh": "相似-ADN.NL"
               }
             ]
@@ -7407,14 +7407,14 @@
             "phrase": "いふ",
             "gloss": "say",
             "gloss-morph": "say-CCL",
-            "gloss-zh": "说",
+            "gloss-zh": "咏",
             "gloss-morph-zh": "说-CCL",
             "words": [
               {
                 "word": "いふ",
                 "gloss": "say",
                 "gloss-morph": "say-CCL",
-                "gloss-zh": "说",
+                "gloss-zh": "咏",
                 "gloss-morph-zh": "说-CCL"
               }
             ]
@@ -7423,8 +7423,12 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "このとき、ある人たちが、その場その場に応じて、時にふさわしい漢詩を口にした。",
         "translation-en-natural": "At this time, certain people, taking each occasion, recited Chinese poems suitable for the moment.",
-        "translation-zh-natural": "在这个时间，有些人会根据时节吟诵适合当时的情景的唐诗。",
+        "translation-zh-natural": "在这个时间，有些人会根据时节吟诵唐诗，还有其他适合当时的情景的内容。",
         "notes-ja": {
+          "title": "オリジナルのテキスト",
+          "note": "この折にある人々折節につけて、からうたども時に似つかはしき（をイ有）いふ。"
+        },
+	"notes-zh": {
           "title": "オリジナルのテキスト",
           "note": "この折にある人々折節につけて、からうたども時に似つかはしき（をイ有）いふ。"
         }
@@ -7440,28 +7444,28 @@
         "koutei-yamagen": "また、ある人、西国なれど甲斐歌などいふ。",
         "translation-ja": "また、ある人が、西国であるけれども、甲斐の歌などを言う。",
         "translation-en": "Also, a certain person, though from the western provinces, says Kai songs and the like.",
-        "translation-zh": "另外，有人虽是西国（人），却吟甲斐歌等。",
+        "translation-zh": "还有人虽是西国（人），却吟甲斐歌等。",
         "phrase-gloss": [
           {
             "phrase": "またある人",
             "gloss": "also a certain person",
             "gloss-morph": "also exist-ADN+person",
-            "gloss-zh": "另外 有-的 人",
-            "gloss-morph-zh": "另外 存在-ADN+人",
+            "gloss-zh": "还有人",
+            "gloss-morph-zh": "还 有-ADN+人",
             "words": [
               {
                 "word": "また",
                 "gloss": "also",
                 "gloss-morph": "also",
-                "gloss-zh": "另外",
-                "gloss-morph-zh": "另外"
+                "gloss-zh": "还",
+                "gloss-morph-zh": "还"
               },
               {
                 "word": "ある",
                 "gloss": "certain",
                 "gloss-morph": "exist-ADN+",
-                "gloss-zh": "有-的",
-                "gloss-morph-zh": "存在-ADN+"
+                "gloss-zh": "有的",
+                "gloss-morph-zh": "有-ADN+"
               },
               {
                 "word": "人",
@@ -7476,21 +7480,21 @@
             "phrase": "西國なれど",
             "gloss": "though from the western provinces",
             "gloss-morph": "western.provinces COP-INC=XCC",
-            "gloss-zh": "西国 COP 虽",
+            "gloss-zh": "虽是西国（人）",
             "gloss-morph-zh": "西国 COP-INC=XCC",
             "words": [
               {
                 "word": "西國",
                 "gloss": "western.provinces",
                 "gloss-morph": "western.provinces",
-                "gloss-zh": "西国",
+                "gloss-zh": "西国（人）",
                 "gloss-morph-zh": "西国"
               },
               {
                 "word": "なれ",
                 "gloss": "COP.REALIS",
                 "gloss-morph": "COP-INC",
-                "gloss-zh": "COP",
+                "gloss-zh": "",
                 "gloss-morph-zh": "COP-INC"
               },
               {
@@ -7505,16 +7509,16 @@
           {
             "phrase": "甲斐歌などいふ",
             "gloss": "say Kai songs and the like",
-            "gloss-morph": "Kai+song=PLU say-CCL",
-            "gloss-zh": "甲斐 歌 们 说",
-            "gloss-morph-zh": "甲斐+歌=PLU 说-CCL",
+            "gloss-morph": "Kai.PN+song=PLU say-CCL",
+            "gloss-zh": "咏甲斐歌之类",
+            "gloss-morph-zh": "甲斐.PN+歌=PLU 说-CCL",
             "words": [
               {
                 "word": "甲斐",
                 "gloss": "Kai.PN",
-                "gloss-morph": "Kai",
+                "gloss-morph": "Kai.PN",
                 "gloss-zh": "甲斐",
-                "gloss-morph-zh": "甲斐"
+                "gloss-morph-zh": "甲斐.PN"
               },
               {
                 "word": "歌",
@@ -7527,14 +7531,14 @@
                 "word": "など",
                 "gloss": "etc",
                 "gloss-morph": "=PLU",
-                "gloss-zh": "等",
+                "gloss-zh": "之类",
                 "gloss-morph-zh": "=PLU"
               },
               {
                 "word": "いふ",
                 "gloss": "say",
                 "gloss-morph": "say-CCL",
-                "gloss-zh": "说",
+                "gloss-zh": "咏",
                 "gloss-morph-zh": "说-CCL"
               }
             ]
@@ -7543,7 +7547,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "また、ある人は西国の出であるが、甲斐の歌などを口にする。",
         "translation-en-natural": "Another person, though from the western provinces, recited Kai songs and the like.",
-        "translation-zh-natural": "还有一个人，虽然是个西部的人，却吟唱着甲斐的歌。"
+        "translation-zh-natural": "还有一个人，他虽然是个西国人，却咏唱着甲斐这些地区的歌。"
       },
       {
         "date": [
@@ -7556,13 +7560,13 @@
         "koutei-yamagen": "かくうたふに、ふなやかたの塵も散り、空ゆく雲もただよひぬとぞ言ふなる。",
         "translation-ja": "こう歌うと、船屋形の塵も散り、空行く雲もただよったと言うのだそうだ。",
         "translation-en": "When they sang like this, even the dust of the houseboat scattered, and even the clouds going through the sky drifted, it is said.",
-        "translation-zh": "此般吟唱之间，据说船屋之尘散，升空之云也飘荡起来。",
+        "translation-zh": "在这样咏唱的时候，据说船屋之尘散，升空之云也飘荡起来。",
         "phrase-gloss": [
           {
             "phrase": "かくうたふに",
             "gloss": "when singing thus",
             "gloss-morph": "thus sing-CCL=CSL",
-            "gloss-zh": "这样 唱-着",
+            "gloss-zh": "在这么咏唱的时候",
             "gloss-morph-zh": "这样 唱-CCL=CSL",
             "words": [
               {
@@ -7576,14 +7580,14 @@
                 "word": "うたふ",
                 "gloss": "sing.ADV",
                 "gloss-morph": "sing-CCL",
-                "gloss-zh": "唱",
+                "gloss-zh": "咏唱",
                 "gloss-morph-zh": "唱-CCL"
               },
               {
                 "word": "に",
                 "gloss": "CONJ",
                 "gloss-morph": "=CSL",
-                "gloss-zh": "着",
+                "gloss-zh": "的时候",
                 "gloss-morph-zh": "=CSL"
               }
             ]
@@ -7591,16 +7595,16 @@
           {
             "phrase": "ふなやかたの塵も散り",
             "gloss": "even the dust of the houseboat scattered",
-            "gloss-morph": "houseboat=GEN dust=IFO scatter-ADV",
-            "gloss-zh": "船屋 的 尘 也 散",
-            "gloss-morph-zh": "船屋=GEN 尘=IFO 散-ADV",
+            "gloss-morph": "boat+house=GEN dust=IFO scatter-ADV",
+            "gloss-zh": "船屋的尘散了",
+            "gloss-morph-zh": "船+屋=GEN 尘=IFO 散-ADV",
             "words": [
               {
                 "word": "ふなやかた",
                 "gloss": "houseboat",
-                "gloss-morph": "houseboat",
+                "gloss-morph": "boat+house",
                 "gloss-zh": "船屋",
-                "gloss-morph-zh": "船屋"
+                "gloss-morph-zh": "船+屋"
               },
               {
                 "word": "の",
@@ -7620,14 +7624,14 @@
                 "word": "も",
                 "gloss": "also",
                 "gloss-morph": "=IFO",
-                "gloss-zh": "也",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=IFO"
               },
               {
                 "word": "散り",
                 "gloss": "scatter.ADV",
                 "gloss-morph": "scatter-ADV",
-                "gloss-zh": "散",
+                "gloss-zh": "散了",
                 "gloss-morph-zh": "散-ADV"
               }
             ]
@@ -7636,21 +7640,21 @@
             "phrase": "空ゆく雲もたゞよひぬ",
             "gloss": "even the clouds going through the sky drifted",
             "gloss-morph": "sky go-ADN cloud=IFO drift-ADV+MNF-CCL",
-            "gloss-zh": "天空 去-的 云 也 飘-了",
+            "gloss-zh": "去向天空的云飘荡着",
             "gloss-morph-zh": "天空 去-ADN 云=IFO 飘-ADV+MNF-CCL",
             "words": [
               {
                 "word": "空",
                 "gloss": "sky",
                 "gloss-morph": "sky",
-                "gloss-zh": "空",
-                "gloss-morph-zh": "空"
+                "gloss-zh": "天空",
+                "gloss-morph-zh": "天空"
               },
               {
                 "word": "ゆく",
                 "gloss": "go.ATTR",
                 "gloss-morph": "go-ADN",
-                "gloss-zh": "去-的",
+                "gloss-zh": "朝...去的",
                 "gloss-morph-zh": "去-ADN"
               },
               {
@@ -7664,21 +7668,21 @@
                 "word": "も",
                 "gloss": "also",
                 "gloss-morph": "=IFO",
-                "gloss-zh": "也",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=IFO"
               },
               {
                 "word": "たゞよひ",
                 "gloss": "drift.ADV",
                 "gloss-morph": "drift-ADV",
-                "gloss-zh": "飘",
+                "gloss-zh": "飘荡",
                 "gloss-morph-zh": "飘-ADV"
               },
               {
                 "word": "ぬ",
                 "gloss": "PERF",
                 "gloss-morph": "+MNF-CCL",
-                "gloss-zh": "了",
+                "gloss-zh": "着",
                 "gloss-morph-zh": "+MNF-CCL"
               }
             ]
@@ -7686,37 +7690,37 @@
           {
             "phrase": "とぞいふなる",
             "gloss": "it is said",
-            "gloss-morph": "=CMP=EMP say-ADN COP-ADN",
-            "gloss-zh": "QUOT EMP 说-的 HEV",
-            "gloss-morph-zh": "=CMP=EMP 说-ADN COP-ADN",
+            "gloss-morph": "=CMP=FOC say-ADN.NL=COP-ADN",
+            "gloss-zh": "听说是",
+            "gloss-morph-zh": "=CMP=FOC 说-ADN.NL=COP-ADN",
             "words": [
               {
                 "word": "と",
                 "gloss": "QUOT",
                 "gloss-morph": "=CMP",
-                "gloss-zh": "QUOT",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=CMP"
               },
               {
                 "word": "ぞ",
                 "gloss": "EMPH",
-                "gloss-morph": "=EMP",
-                "gloss-zh": "的",
-                "gloss-morph-zh": "=EMP"
+                "gloss-morph": "=FOC",
+                "gloss-zh": "",
+                "gloss-morph-zh": "=FOC"
               },
               {
                 "word": "いふ",
                 "gloss": "say.ATTR",
                 "gloss-morph": "say-ADN",
-                "gloss-zh": "说-的",
+                "gloss-zh": "说的",
                 "gloss-morph-zh": "说-ADN"
               },
               {
                 "word": "なる",
                 "gloss": "REP",
-                "gloss-morph": "COP-ADN",
-                "gloss-zh": "COP",
-                "gloss-morph-zh": "COP-ADN"
+                "gloss-morph": "=COP-ADN",
+                "gloss-zh": "是",
+                "gloss-morph-zh": "=COP-ADN"
               }
             ]
           }
@@ -7724,7 +7728,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "こうして歌うと、屋形船の塵も散り、空を行く雲も漂ったと言うのだそうだ。",
         "translation-en-natural": "They say that when it was sung like this, even the dust on the houseboat scattered and the clouds in the sky drifted.",
-        "translation-zh-natural": "据说他唱着的时侯，船屋中的尘烟四散，升入空中的云也随之飘荡了起来。"
+        "translation-zh-natural": "据说他咏唱的时侯，船屋中的尘烟四散，升入空中的云也随之飘荡了起来。"
       },
       {
         "date": [
@@ -7742,32 +7746,32 @@
           {
             "phrase": "今宵",
             "gloss": "tonight",
-            "gloss-morph": "tonight",
+            "gloss-morph": "today+night",
             "gloss-zh": "今宵",
-            "gloss-morph-zh": "今宵",
+            "gloss-morph-zh": "今+宵",
             "words": [
               {
                 "word": "今宵",
                 "gloss": "tonight",
-                "gloss-morph": "tonight",
+                "gloss-morph": "today+night",
                 "gloss-zh": "今宵",
-                "gloss-morph-zh": "今宵"
+                "gloss-morph-zh": "今+宵"
               }
             ]
           },
           {
             "phrase": "浦戸に",
             "gloss": "at Urado",
-            "gloss-morph": "Urado=DAT",
-            "gloss-zh": "浦户 在",
-            "gloss-morph-zh": "浦户=DAT",
+            "gloss-morph": "Urado.PN=DAT",
+            "gloss-zh": "在浦户",
+            "gloss-morph-zh": "浦户.PN=DAT",
             "words": [
               {
                 "word": "浦戸",
                 "gloss": "Urado.PN",
-                "gloss-morph": "Urado",
+                "gloss-morph": "Urado.PN",
                 "gloss-zh": "浦户",
-                "gloss-morph-zh": "浦户"
+                "gloss-morph-zh": "浦户.PN"
               },
               {
                 "word": "に",
@@ -7817,15 +7821,15 @@
             "phrase": "藤原のとき實",
             "gloss": "Fujiwara no Tokizane",
             "gloss-morph": "Fujiwara.PN=GEN+Tokizane.PN",
-            "gloss-zh": "藤原 时实",
-            "gloss-morph-zh": "藤原=GEN+时实",
+            "gloss-zh": "藤原时实",
+            "gloss-morph-zh": "藤原.PN=GEN+时实.PN",
             "words": [
               {
                 "word": "藤原",
                 "gloss": "Fujiwara.PN",
                 "gloss-morph": "Fujiwara.PN",
                 "gloss-zh": "藤原",
-                "gloss-morph-zh": "藤原"
+                "gloss-morph-zh": "藤原.PN"
               },
               {
                 "word": "の",
@@ -7839,7 +7843,7 @@
                 "gloss": "Tokizane.PN",
                 "gloss-morph": "Tokizane.PN",
                 "gloss-zh": "时实",
-                "gloss-morph-zh": "时实"
+                "gloss-morph-zh": "时实.PN"
               }
             ]
           },
@@ -7847,7 +7851,7 @@
             "phrase": "橘の季衡",
             "gloss": "Tachibana no Suehira",
             "gloss-morph": "Tachibana.PN=GEN+Suehira.PN",
-            "gloss-zh": "橘 季衡",
+            "gloss-zh": "橘季衡",
             "gloss-morph-zh": "橘=GEN+季衡",
             "words": [
               {
@@ -7855,7 +7859,7 @@
                 "gloss": "Tachibana.PN",
                 "gloss-morph": "Tachibana.PN",
                 "gloss-zh": "橘",
-                "gloss-morph-zh": "橘"
+                "gloss-morph-zh": "橘.PN"
               },
               {
                 "word": "の",
@@ -7869,7 +7873,7 @@
                 "gloss": "Suehira.PN",
                 "gloss-morph": "Suehira.PN",
                 "gloss-zh": "季衡",
-                "gloss-morph-zh": "季衡"
+                "gloss-morph-zh": "季衡.PN"
               }
             ]
           },
@@ -7877,7 +7881,7 @@
             "phrase": "こと人々",
             "gloss": "other people",
             "gloss-morph": "other+person+person",
-            "gloss-zh": "其他 人们",
+            "gloss-zh": "其他人",
             "gloss-morph-zh": "其他+人+人",
             "words": [
               {
@@ -7900,7 +7904,7 @@
             "phrase": "追ひきたり",
             "gloss": "followed",
             "gloss-morph": "follow-ADV come-ADV+STA-CCL",
-            "gloss-zh": "追 来-了",
+            "gloss-zh": "追了上来",
             "gloss-morph-zh": "追-ADV 来-ADV+STA-CCL",
             "words": [
               {
