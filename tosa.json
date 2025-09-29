@@ -7954,7 +7954,7 @@
             "gloss": "twenty-eighth day",
             "gloss-morph": "twentith.day.plus+eighth.day",
             "gloss-zh": "二十八日",
-            "gloss-morph-zh": "二十+八日",
+            "gloss-morph-zh": "廿+八日",
             "words": [
               {
                 "word": "廿",
@@ -7976,15 +7976,15 @@
             "phrase": "浦戸より",
             "gloss": "from Urado",
             "gloss-morph": "Urado=ABL",
-            "gloss-zh": "浦户 从",
+            "gloss-zh": "从浦户",
             "gloss-morph-zh": "浦户=ABL",
             "words": [
               {
                 "word": "浦戸",
                 "gloss": "Urado.PN",
-                "gloss-morph": "Urado",
+                "gloss-morph": "Urado.PN",
                 "gloss-zh": "浦户",
-                "gloss-morph-zh": "浦户"
+                "gloss-morph-zh": "浦户.PN"
               },
               {
                 "word": "より",
@@ -7999,15 +7999,15 @@
             "phrase": "漕ぎ出でて",
             "gloss": "rowed out",
             "gloss-morph": "row-ADV go.out-ADV=SEQ",
-            "gloss-zh": "划 出发离开 SEQ",
-            "gloss-morph-zh": "划-ADV 出发离开-ADV=SEQ",
+            "gloss-zh": "驶离",
+            "gloss-morph-zh": "划船-ADV 出发离开-ADV=SEQ",
             "words": [
               {
                 "word": "漕ぎ",
                 "gloss": "row.ADV",
                 "gloss-morph": "row-ADV",
-                "gloss-zh": "划",
-                "gloss-morph-zh": "划-ADV"
+                "gloss-zh": "划船",
+                "gloss-morph-zh": "划船-ADV"
               },
               {
                 "word": "出で",
@@ -8020,7 +8020,7 @@
                 "word": "て",
                 "gloss": "CONJ",
                 "gloss-morph": "=SEQ",
-                "gloss-zh": "SEQ",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=SEQ"
               }
             ]
@@ -8029,26 +8029,28 @@
             "phrase": "大湊を追う",
             "gloss": "pursued Ominato",
             "gloss-morph": "Ominato.PN=ACC pursue-CCL",
+            "gloss-zh": "驶向大湊",
+            "gloss-morph-zh": "大湊.PN=ACC 驶向-CCL",
             "words": [
               {
                 "word": "大湊",
                 "gloss": "Ominato.PN",
                 "gloss-morph": "Ominato.PN",
                 "gloss-zh": "大湊",
-                "gloss-morph-zh": "大湊"
+                "gloss-morph-zh": "大湊.PN"
               },
               {
                 "word": "を",
                 "gloss": "ACC",
                 "gloss-morph": "=ACC",
-                "gloss-zh": "ACC",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=ACC"
               },
               {
                 "word": "追う",
                 "gloss": "pursue",
                 "gloss-morph": "pursue-CCL",
-                "gloss-zh": "追",
+                "gloss-zh": "驶向",
                 "gloss-morph-zh": "追-CCL"
               }
             ]
@@ -8057,7 +8059,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "二十八日、浦戸から漕ぎ出して、大湊へ向かった。",
         "translation-en-natural": "On the twenty-eighth day, we rowed out from Urado and headed toward Ominato.",
-        "translation-zh-natural": "二十八日，我们人从浦户出发，驶向大湊。"
+        "translation-zh-natural": "二十八日，我们从浦户出发，驶向大湊。"
       },
       {
         "date": [
@@ -8070,13 +8072,13 @@
         "koutei-yamagen": "この間に、早くの国の守の子、山口の千岑、酒、よき物ども持て来て、船に入れたり。",
         "translation-ja": "この間に、以前の国の守の子、山口の千岑、酒、よい物を持ってきて、船に入れた。",
         "translation-en": "During this time, the son of the former governor of this country, Chisato Yamaguchi, brought sake and good things and put them on the boat.",
-        "translation-zh": "在此期间，前任的国守之子山口千岑，携酒、好物而来，放进了船。",
+        "translation-zh": "在这期间，早先的国守的儿子山口千岑，携酒、好物而来，放进了船。",
         "phrase-gloss": [
           {
             "phrase": "この間に",
             "gloss": "during this time",
             "gloss-morph": "DEM=GEN interval=DAT",
-            "gloss-zh": "这 期间 在",
+            "gloss-zh": "在这期间",
             "gloss-morph-zh": "DEM=GEN 期间=DAT",
             "words": [
               {
@@ -8106,14 +8108,14 @@
             "phrase": "はやくの國の守の子",
             "gloss": "son of the former governor of this country",
             "gloss-morph": "former-NML=GEN province=GEN governor=GEN child",
-            "gloss-zh": "前 国 的 守 的 子",
+            "gloss-zh": "先前的国守守的儿子",
             "gloss-morph-zh": "前-NML=GEN 国=GEN 守=GEN 子",
             "words": [
               {
                 "word": "はやく",
                 "gloss": "formerly",
                 "gloss-morph": "former-NML",
-                "gloss-zh": "前",
+                "gloss-zh": "先前的",
                 "gloss-morph-zh": "前-NML"
               },
               {
@@ -8134,7 +8136,7 @@
                 "word": "の",
                 "gloss": "GEN",
                 "gloss-morph": "=GEN",
-                "gloss-zh": "的",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=GEN"
               },
               {
@@ -8155,7 +8157,7 @@
                 "word": "子",
                 "gloss": "child",
                 "gloss-morph": "child",
-                "gloss-zh": "子",
+                "gloss-zh": "儿子",
                 "gloss-morph-zh": "子"
               }
             ]
@@ -8165,14 +8167,14 @@
             "gloss": "Chisato Yamaguchi",
             "gloss-morph": "Yamaguchi.PN=GEN+Chisato.PN",
             "gloss-zh": "山口 千岑",
-            "gloss-morph-zh": "山口=GEN+千岑",
+            "gloss-morph-zh": "山口.PN=GEN+千岑.PN",
             "words": [
               {
                 "word": "山口",
                 "gloss": "Yamaguchi.PN",
                 "gloss-morph": "Yamaguchi.PN",
                 "gloss-zh": "山口",
-                "gloss-morph-zh": "山口"
+                "gloss-morph-zh": "山口.PN"
               },
               {
                 "word": "の",
@@ -8186,7 +8188,7 @@
                 "gloss": "Chisato.PN",
                 "gloss-morph": "Chisato.PN",
                 "gloss-zh": "千岑",
-                "gloss-morph-zh": "千岑"
+                "gloss-morph-zh": "千岑.PN"
               }
             ]
           },
@@ -8194,7 +8196,7 @@
             "phrase": "酒、よき物どももてきて",
             "gloss": "brought sake and good things",
             "gloss-morph": "sake good-ADN thing=PLU bring.SEQ come-ADV=SEQ",
-            "gloss-zh": "酒 好-的 物们 带+来 SEQ",
+            "gloss-zh": "带酒与好物而来",
             "gloss-morph-zh": "酒 好-ADN 物=PLU 带.SEQ+来-ADV=SEQ",
             "words": [
               {
@@ -8208,7 +8210,7 @@
                 "word": "よき",
                 "gloss": "good.ATTR",
                 "gloss-morph": "good-ADN",
-                "gloss-zh": "好-的",
+                "gloss-zh": "好的",
                 "gloss-morph-zh": "好-ADN"
               },
               {
@@ -8222,7 +8224,7 @@
                 "word": "ども",
                 "gloss": "PL",
                 "gloss-morph": "=PLU",
-                "gloss-zh": "们",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=PLU"
               },
               {
@@ -8236,7 +8238,7 @@
                 "word": "て",
                 "gloss": "CONJ",
                 "gloss-morph": ".SEQ",
-                "gloss-zh": "SEQ",
+                "gloss-zh": "",
                 "gloss-morph-zh": ".SEQ"
               },
               {
@@ -8250,7 +8252,7 @@
                 "word": "て",
                 "gloss": "CONJ",
                 "gloss-morph": "=SEQ",
-                "gloss-zh": "SEQ",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=SEQ"
               }
             ]
@@ -8259,7 +8261,7 @@
             "phrase": "船に入れたり",
             "gloss": "put them on the boat",
             "gloss-morph": "boat=DAT put.in-ADV+STA-CCL",
-            "gloss-zh": "船 到 放入-了",
+            "gloss-zh": "放入了船中",
             "gloss-morph-zh": "船=DAT 放入-ADV+STA-CCL",
             "words": [
               {
@@ -8273,7 +8275,7 @@
                 "word": "に",
                 "gloss": "LOC",
                 "gloss-morph": "=DAT",
-                "gloss-zh": "到",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=DAT"
               },
               {
@@ -8309,7 +8311,7 @@
         "koutei-yamagen": "ゆくゆく飲み食ふ。",
         "translation-ja": "ゆくゆく飲み食う。",
         "translation-en": "We will eat and drink as we go.",
-        "translation-zh": "一路行进饮食。",
+        "translation-zh": "一路上吃吃喝喝。",
         "phrase-gloss": [
           {
             "phrase": "ゆくゆく",
@@ -8338,21 +8340,21 @@
             "phrase": "飮みくふ",
             "gloss": "eat and drink",
             "gloss-morph": "drink-ADV eat-CCL",
-            "gloss-zh": "饮 食",
+            "gloss-zh": "吃吃喝喝",
             "gloss-morph-zh": "饮-ADV 食-CCL",
             "words": [
               {
                 "word": "飮み",
                 "gloss": "drink.ADV",
                 "gloss-morph": "drink-ADV",
-                "gloss-zh": "饮",
+                "gloss-zh": "喝喝",
                 "gloss-morph-zh": "饮-ADV"
               },
               {
                 "word": "くふ",
                 "gloss": "eat",
                 "gloss-morph": "eat-CCL",
-                "gloss-zh": "食",
+                "gloss-zh": "吃吃",
                 "gloss-morph-zh": "食-CCL"
               }
             ]
