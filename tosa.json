@@ -10228,7 +10228,7 @@
             "gloss": "same place",
 	    "gloss-morph": "same place",
 	    "gloss-zh": "同处",
-	    "gloss-morph-zh": "同处",
+	    "gloss-morph-zh": "同 处",
             "words": [
               {
                 "word": "同じ",
@@ -10249,16 +10249,16 @@
           {
             "phrase": "なり。",
             "gloss": "be",
-	    "gloss-morph": "COP-CCL",
+	    "gloss-morph": "=COP-CCL",
 	    "gloss-zh": "是",
-	    "gloss-morph-zh": "COP-CCL",
+	    "gloss-morph-zh": "=COP-CCL",
             "words": [
               {
                 "word": "なり",
                 "gloss": "COP",
-		"gloss-morph": "COP-CCL",
+		"gloss-morph": "=COP-CCL",
 		"gloss-zh": "是",
-		"gloss-morph-zh": "COP-CCL"
+		"gloss-morph-zh": "=COP-CCL"
               }
             ]
           }
@@ -10266,7 +10266,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "三日、同じ所にいる。",
         "translation-en-natural": "On the third, we are in the same place.",
-        "translation-zh-natural": "第三天，我们仍在同处。"
+        "translation-zh-natural": "三日，我们仍在同处。"
       },
       {
         "date": [
@@ -10279,7 +10279,7 @@
         "koutei-yamagen": "もし風浪のしばしと惜しむ心やあらむ。心もとなし。",
         "translation-ja": "風浪を少しの間惜しむ心があるのだろうか。不安でならない。",
         "translation-en": "Is there a heart that feels reluctant to part with the brief calm amid the wind and waves? I feel uneasy.",
-        "translation-zh": "有没有珍惜风浪的片刻的心吗。不安。",
+        "translation-zh": "有没有可惜风浪片刻的心？不安。",
         "phrase-gloss": [
           {
             "phrase": "もし、",
@@ -10336,8 +10336,8 @@
                 "word": "惜む",
                 "gloss": "begrudge.ATTR",
 		"gloss-morph": "begrudge-ADN",
-		"gloss-zh": "珍惜",
-		"gloss-morph-zh": "珍惜-ADN"
+		"gloss-zh": "为...感到可惜",
+		"gloss-morph-zh": "可惜-ADN"
               },
               {
                 "word": "心",
@@ -10372,7 +10372,7 @@
           {
             "phrase": "心もとなし。",
             "gloss": "feel uneasy.",
-	    "gloss-morph": "heart+root+none-CCL",
+	    "gloss-morph": "heart+root+absent-CCL",
 	    "gloss-zh": "感到不安",
 	    "gloss-morph-zh": "心+根+没有的-CCL",
             "words": [
@@ -10389,7 +10389,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "この風と波を、少しでも惜しむ心があるのだろうか。不安で落ち着かない。",
         "translation-en-natural": "I wonder if there's anyone who still feels attached to the brief calm amid these winds and waves. It makes me feel uneasy.",
-        "translation-zh-natural": "不知是否有人会对这短暂的风浪感到留恋？这让我感到不安。"
+        "translation-zh-natural": "不知是否有人会为这风浪的时间感到可惜？这让我感到不安。"
       },
       {
         "date": [
@@ -10405,7 +10405,7 @@
         "translation-zh": "四日，因风起，不能出发。",
         "phrase-gloss": [
           {
-            "phrase": "四日、",
+            "phrase": "四日",
             "gloss": "on the fourth day,",
 	    "gloss-morph": "fourth.day",
 	    "gloss-zh": "四日",
@@ -10424,7 +10424,7 @@
             "phrase": "風吹けば",
             "gloss": "because the wind blows",
 	    "gloss-morph": "wind blow-INC=XCD",
-	    "gloss-zh": "风吹了起来，因此",
+	    "gloss-zh": "风吹了起来，于是",
 	    "gloss-morph-zh": "风 吹-INC=XCD",
             "words": [
               {
@@ -10445,8 +10445,8 @@
                 "word": "ば",
                 "gloss": "COND",
 		"gloss-morph": "=XCD",
-		"gloss-zh": "因为",
-		"gloss-morph-zh": "因为"
+		"gloss-zh": "于是",
+		"gloss-morph-zh": "=XCD"
               }
             ]
           },
@@ -10468,7 +10468,7 @@
                 "word": "出で",
                 "gloss": "go out.ADV",
 		"gloss-morph": "go.out-ADV",
-		"gloss-zh": "出去",
+		"gloss-zh": "离开",
 		"gloss-morph-zh": "出去-ADV"
               },
               {
@@ -10491,7 +10491,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "四日、風が強く吹いて、港を出ることができない。",
         "translation-en-natural": "On the fourth, we can't set sail because of the strong wind.",
-        "translation-zh-natural": "第四天，由于风大，无法出航。"
+        "translation-zh-natural": "第四天，因为起风了，无法出航。"
       },
       {
         "date": [
@@ -10504,7 +10504,7 @@
         "koutei-yamagen": "昌連、酒、よき物たてまつれり。",
         "translation-ja": "昌連が、酒や良い品を奉る。",
         "translation-en": "Masatsura contributes sake and fine goods.",
-        "translation-zh": "昌连献了酒、好物。",
+        "translation-zh": "昌连供奉了酒、好物。",
         "phrase-gloss": [
           {
             "phrase": "昌連",
@@ -10610,14 +10610,14 @@
         "koutei-yamagen": "このかうやうの物持て来る人に、なほしもえあらでいさざげわざせさすものもなし。",
         "translation-ja": "このような物を持って来た人に、何もしないではいられなくて、わずかなお返しをさせる物もなかった。",
         "translation-en": "To the person bringing such things, I could not just do nothing, but there was not even a thing to let me give as a small offering.",
-        "translation-zh": "对这个带来这些、这样的东西的人，更不能没有（回礼），于是让（人）回些小礼。（用于回礼的）东西都没有。",
+        "translation-zh": "对这个带来这些、那样的东西的人，更不能没有（回礼），于是让（人）回些小礼。（用于回礼的）东西都没有。",
         "phrase-gloss": [
           {
             "phrase": "このかうやうの物",
             "gloss": "this kind of thing",
 	    "gloss-morph": "DEM=GEN such+kind=GEN thing",
 	    "gloss-zh": "这样的东西",
-	    "gloss-morph-zh": "DEM=GEN 这+样=GEN 东西",
+	    "gloss-morph-zh": "DEM=GEN 那+样=GEN 东西",
             "words": [
               {
                 "word": "この",
@@ -10630,8 +10630,8 @@
                 "word": "かうやう",
                 "gloss": "such kind",
 		"gloss-morph": "such+kind",
-		"gloss-zh": "这样",
-		"gloss-morph-zh": "这+样"
+		"gloss-zh": "那样",
+		"gloss-morph-zh": "那+样"
               },
               {
                 "word": "の",
@@ -10704,8 +10704,8 @@
                 "word": "なほ",
                 "gloss": "still",
 		"gloss-morph": "still",
-		"gloss-zh": "仍",
-		"gloss-morph-zh": "仍"
+		"gloss-zh": "更",
+		"gloss-morph-zh": "更"
               },
               {
                 "word": "しも",
@@ -10792,7 +10792,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "このような物を持ってきてくれた人をそのままにしておくことができず、わずかなお返しをする物さえなかった。",
         "translation-en-natural": "I couldn't just leave the person who brought such a gift without doing anything, and I didn't even have anything to offer as a small token.",
-        "translation-zh-natural": "对拿着这样的东西来的人，我们更不能让他空手而回，于是国守让人回一些小礼。结果，我们连用来回点小礼的东西也没有。"
+        "translation-zh-natural": "对拿着这样的东西来的人，我们更不能让他空手而回，于是打算让人回一些小礼。结果我们连用来回点小礼的东西也没有。"
       },
       {
         "date": [
