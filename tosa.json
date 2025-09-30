@@ -302,7 +302,7 @@
               },
               {
                 "word": "かき",
-                "gloss": "write.ADV.F"
+                "gloss": "write.ADV"
               },
               {
                 "word": "つく",
@@ -366,7 +366,7 @@
               },
               {
                 "word": "はて",
-                "gloss": "end.ADV.F"
+                "gloss": "end.ADV"
               },
               {
                 "word": "ゝ",
@@ -396,11 +396,11 @@
               },
               {
                 "word": "し",
-                "gloss": "perform.ADV.F"
+                "gloss": "perform.ADV"
               },
               {
                 "word": "をへ",
-                "gloss": "finish.ADV.F"
+                "gloss": "finish.ADV"
               },
               {
                 "word": "て",
@@ -422,7 +422,7 @@
               },
               {
                 "word": "取り",
-                "gloss": "take.ADV.F"
+                "gloss": "take.ADV"
               },
               {
                 "word": "て",
@@ -430,7 +430,7 @@
               },
               {
                 "word": "住む",
-                "gloss": "reside.ADV.F"
+                "gloss": "reside.ATTR"
               },
               {
                 "word": "たち",
@@ -442,7 +442,7 @@
               },
               {
                 "word": "出で",
-                "gloss": "go.out.ADV.F"
+                "gloss": "go.out.ADV"
               },
               {
                 "word": "ゝ",
@@ -6360,19 +6360,13 @@
             ]
           },
           {
-            "phrase": "なほ",
-            "gloss": "still",
+            "phrase": "なほ大湊に",
+            "gloss": "still at Ominato",
             "words": [
               {
                 "word": "なほ",
                 "gloss": "still"
-              }
-            ]
-          },
-          {
-            "phrase": "大湊に",
-            "gloss": "at Ominato",
-            "words": [
+              },
               {
                 "word": "大湊",
                 "gloss": "Ominato"
@@ -7487,81 +7481,493 @@
         "translation-en-natural": "Meanwhile, from a place called 'Ike,' there were no carp, but starting with crucian carp, river fish, sea fish, and other foods were packed into a long chest and sent over one after another."
       },
       {
-        "date": "20250215,20250217",
+        "date": [
+          20250215,
+          20250217,
+          20250924
+        ],
         "id": 80,
         "text": "わかなこに入れて雉など花につけたり（十七字イ無）。",
         "kana": "わかなこにいれてきじなどはなにつけたり。",
         "koutei-yamagen": "わかなこに入れて雉など花につけたり（この17字文異本には無）。",
         "translation-ja": "若菜籠に入れて、雉などを花につけた。",
         "translation-en": "Placed in a basket for young greens, pheasants and such were added along with flowers.",
-        "translation-ja-natural": "若菜を入れた籠に、雉などを添え、花とともに美しく飾りました。",
-        "translation-en-natural": "They placed young greens in a basket, added pheasants, and beautifully arranged them with flowers."
+        "phrase-gloss": [
+          {
+            "phrase": "わかなこに入れて",
+            "gloss": "young.greens-basket-LOC put.in",
+            "words": [
+              {
+                "word": "わかな",
+                "gloss": "young.greens"
+              },
+              {
+                "word": "こ",
+                "gloss": "basket"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "入れ",
+                "gloss": "put.in.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "雉など花につけたり",
+            "gloss": "pheasant etc. flowers-LOC attach-PERF",
+            "words": [
+              {
+                "word": "雉",
+                "gloss": "pheasant"
+              },
+              {
+                "word": "など",
+                "gloss": "etc."
+              },
+              {
+                "word": "花",
+                "gloss": "flowers"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "つけ",
+                "gloss": "attach.REALIS"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "若菜を籠に入れ、雉などを、花につけた。",
+        "translation-en-natural": "The young greens were placed in a basket, and pheasants and such were attached to the flowers."
       },
       {
-        "date": "20250215",
+        "date": [
+          20250215,
+          20250926
+        ],
         "id": 81,
         "text": "若菜ぞ今日をば知らせたる。",
         "kana": "わかなぞけふをばしらせたる。",
         "koutei-yamagen": "若菜ぞ、今日をば知らせたる。",
         "translation-ja": "若菜が、今日を知らせている。",
         "translation-en": "The young greens are announcing today.",
+        "phrase-gloss": [
+          {
+            "phrase": "若菜ぞ",
+            "gloss": "young.greens-FOC",
+            "words": [
+              {
+                "word": "若菜",
+                "gloss": "young.greens"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "FOC"
+              }
+            ]
+          },
+          {
+            "phrase": "今日をば知らせたる。",
+            "gloss": "today-ACC-TOP inform-PERF",
+            "words": [
+              {
+                "word": "今日",
+                "gloss": "today"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "ば",
+                "gloss": "TOP"
+              },
+              {
+                "word": "知ら",
+                "gloss": "inform.IRR"
+              },
+              {
+                "word": "せ",
+                "gloss": "let.REALIS"
+              },
+              {
+                "word": "たる",
+                "gloss": "PERF.ATTR"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "若菜を見て、今日は七草の日だと気づいた。",
         "translation-en-natural": "Seeing the young greens, I realized that today is the Festival of Seven Herbs."
       },
       {
-        "date": "20250215",
+        "date": [
+          20250215,
+          20250926
+        ],
         "id": 82,
         "text": "歌あり。そのうた、",
         "kana": "うたあり。そのうた、",
         "koutei-yamagen": "歌あり。その歌、",
         "translation-ja": "歌がある。その歌、",
         "translation-en": "There is a song. That song,",
+        "phrase-gloss": [
+          {
+            "phrase": "歌あり。",
+            "gloss": "song exist",
+            "words": [
+              {
+                "word": "歌",
+                "gloss": "song"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist"
+              }
+            ]
+          },
+          {
+            "phrase": "そのうた、",
+            "gloss": "that song",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "うた",
+                "gloss": "song"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "一首の歌が添えられている。その歌は、",
         "translation-en-natural": "A poem has been included. That poem is,"
       },
       {
-        "date": "20250215",
+        "date": [
+          20250215,
+          20250926
+        ],
         "id": 83,
         "poem": "淺茅生の/野邊にしあれば/水もなき/池につみつる/わかななりけり",
         "kana": "あさちふの/のべにしあれば/みづもなき/いけにつみつる/わかななりけり",
         "koutei-yamagen": "浅茅生の野辺にしあれば、水もなき池に積みつる若菜なりけり。",
-        "translation-ja": "浅茅が生い茂る野原にあるので、水もない池で摘んだ若菜であった。",
+        "translation-ja": "浅茅が生い茂る野原にあるので、水もない池にて摘んだ若菜であった。",
         "translation-en": "Since it is in a field where short grasses grow, it was young greens picked from a pond without water.",
-        "translation-ja-natural": "浅茅が生い茂る野原にある『池』ですが、水がないので、鯉（恋）はありません。『鯉（こい）』も『恋（こい）』もない、そんなところで摘んだ若菜（我が名）です。",
-        "translation-en-natural": "This place is called 'Pond,' but with no water, there are no carp and no love. No koi, no koi. In such a place, I picked these greens, and that is my name."
+        "phrase-gloss": [
+          {
+            "phrase": "淺茅生の",
+            "gloss": "short.grasses-grow GEN",
+            "words": [
+              {
+                "word": "淺茅生",
+                "gloss": "short.grasses-grow"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "野邊にしあれば",
+            "gloss": "field-LOC be-REALIS-because",
+            "words": [
+              {
+                "word": "野邊",
+                "gloss": "field"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "し",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "あれ",
+                "gloss": "be.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "because"
+              }
+            ]
+          },
+          {
+            "phrase": "水もなき",
+            "gloss": "water-also not.exist-ATTR",
+            "words": [
+              {
+                "word": "水",
+                "gloss": "water"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "なき",
+                "gloss": "not.exist.ATTR"
+              }
+            ]
+          },
+          {
+            "phrase": "池につみつる",
+            "gloss": "pond-LOC pick-PERF.ATTR",
+            "words": [
+              {
+                "word": "池",
+                "gloss": "pond"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "つみ",
+                "gloss": "pick.ADV"
+              },
+              {
+                "word": "つる",
+                "gloss": "PERF.ATTR"
+              }
+            ]
+          },
+          {
+            "phrase": "わかななりけり",
+            "gloss": "young.greens be-PERF",
+            "words": [
+              {
+                "word": "わかな",
+                "gloss": "young.greens"
+              },
+              {
+                "word": "なり",
+                "gloss": "be.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "浅茅生の野原にある水のない池にて摘んだ若菜であった。",
+        "translation-en-natural": "It was young greens picked from a pond without water in a field where short grasses grow.",
+        "notes-ja": [
+          {
+            "title": "掛詞",
+            "note": "水がないので、鯉（こい）も恋（こい）もない、そんなところで摘んだ若菜（我が名）"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Kakekotoba (Punning Words)",
+            "note": "With no water, there are no koi (carp) and no koi (love). In such a place, I picked these greens, and that is my name (wagana/wakana)."
+          }
+        ]
       },
       {
-        "date": "20250216",
+        "date": [
+          20250216,
+          20250929
+        ],
         "id": 84,
         "text": "いとをかしかし。",
         "kana": "いとをかしかし。",
         "koutei-yamagen": "いとをかしかし。",
         "translation-ja": "とても趣きのあることだ。",
         "translation-en": "It is a very interesting thing.",
-        "translation-ja-natural": "なんと趣のあることでしょう。",
+        "phrase-gloss": [
+          {
+            "phrase": "いとをかしかし。",
+            "gloss": "very interesting",
+            "words": [
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "をかし",
+                "gloss": "interesting"
+              },
+              {
+                "word": "かし",
+                "gloss": "EMPH"
+              }
+            ]
+          }
+        ],
+        "translation-ja-natural": "なんと趣のあることだろう。",
         "translation-en-natural": "What an interesting thing."
       },
       {
-        "date": "20250217",
+        "date": [
+          20250217,
+          20250930
+        ],
         "id": 85,
         "text": "この池といふは所の名なり。",
         "kana": "このいけといふはところのななり。",
         "koutei-yamagen": "この池といふは所の名なり。",
         "translation-ja": "この「池」というのは、この所の名前である。",
         "translation-en": "This 'pond' is the name of this place.",
-        "translation-ja-natural": "この「池」というのは、この地名です。",
+        "phrase-gloss": [
+          {
+            "phrase": "この池といふは",
+            "gloss": "this pond-NOM say-TOP",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "池",
+                "gloss": "pond"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "所の名なり。",
+            "gloss": "place-GEN name be",
+            "words": [
+              {
+                "word": "所",
+                "gloss": "place"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "名",
+                "gloss": "name"
+              },
+              {
+                "word": "なり",
+                "gloss": "be"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "この「池」というのは、この地名である。",
         "translation-en-natural": "This 'pond' is the name of this place."
       },
       {
-        "date": "20250217",
+        "date": [
+          20250217,
+          20251001
+        ],
         "id": 86,
         "text": "よき人の男につきて下りて住みけるなり。",
         "kana": "よきひとのをのにつきておりてすみけるなり。",
         "koutei-yamagen": "良き人の男につきて下りて住みけるなり。",
-        "translation-ja": "よき人が、男に付き従って都から下って、そこに住んでいたのである。",
-        "translation-en": "A fine person followed a man down from the capital and lived there.",
-        "translation-ja-natural": "誰もが好きになりそうな気立てのよい女性が、男と共に都を離れ、そこで暮らすことになりました。",
-        "translation-en-natural": "A woman with a lovely personality, whom anyone would find charming, left the capital with a man and ended up living there."
+        "translation-ja": "よき人が、男に付いて下って、そこに住んでいたのである。",
+        "translation-en": "A fine person followed a man down and lived there.",
+        "phrase-gloss": [
+          {
+            "phrase": "よき人の",
+            "gloss": "good.person-GEN",
+            "words": [
+              {
+                "word": "よき",
+                "gloss": "good"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "男につきて下りて",
+            "gloss": "follow a man-LOC go.down-and",
+            "words": [
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "つき",
+                "gloss": "follow.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "下り",
+                "gloss": "go.down.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "住みけるなり。",
+            "gloss": "live-PERF be",
+            "words": [
+              {
+                "word": "住み",
+                "gloss": "live.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PERF"
+              },
+              {
+                "word": "なり",
+                "gloss": "be"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "気立てのよい女性が、男について都を下り、住んでいたのである。",
+        "translation-en-natural": "A woman of good character had followed a man down from the capital and lived there."
       },
       {
         "date": "20250217",
@@ -10680,7 +11086,7 @@
               },
               {
                 "word": "吹き",
-                "gloss": "blow.ADV.F"
+                "gloss": "blow.ADV"
               }
             ]
           },
@@ -10694,7 +11100,7 @@
               },
               {
                 "word": "あらけれ",
-                "gloss": "rough.ADV.F"
+                "gloss": "rough.ADV"
               },
               {
                 "word": "ば",
@@ -10712,7 +11118,7 @@
               },
               {
                 "word": "いださ",
-                "gloss": "put out.NEG.BASE"
+                "gloss": "put out.IRR"
               },
               {
                 "word": "ず",
@@ -10761,19 +11167,13 @@
             ]
           },
           {
-            "phrase": "かしこく",
-            "gloss": "greatly",
+            "phrase": "かしこく歎く",
+            "gloss": "greatly lament",
             "words": [
               {
                 "word": "かしこく",
                 "gloss": "greatly.ADV"
-              }
-            ]
-          },
-          {
-            "phrase": "歎く",
-            "gloss": "lament",
-            "words": [
+              },
               {
                 "word": "歎く",
                 "gloss": "lament"
@@ -10847,8 +11247,8 @@
             ]
           },
           {
-            "phrase": "「日を望めば都遠し」などいふなる事のさまを",
-            "gloss": "the manner of things such as saying 'When one looks toward the sun, the capital is far away'",
+            "phrase": "「日を望めば都遠し」など",
+            "gloss": "lines like 'When one looks toward the sun, the capital is far away'",
             "words": [
               {
                 "word": "日",
@@ -10860,7 +11260,7 @@
               },
               {
                 "word": "望め",
-                "gloss": "look toward.CONJ"
+                "gloss": "look toward.REALIS"
               },
               {
                 "word": "ば",
@@ -10877,14 +11277,20 @@
               {
                 "word": "など",
                 "gloss": "etc."
-              },
+              }
+            ]
+          },
+          {
+            "phrase": "いふなる事のさまを聞きて",
+            "gloss": "hearing the manner of things said",
+            "words": [
               {
                 "word": "いふ",
-                "gloss": "say"
+                "gloss": "say.ATTR"
               },
               {
                 "word": "なる",
-                "gloss": "COP"
+                "gloss": "COP.ATTR"
               },
               {
                 "word": "事",
@@ -10901,16 +11307,10 @@
               {
                 "word": "を",
                 "gloss": "ACC"
-              }
-            ]
-          },
-          {
-            "phrase": "聞きて",
-            "gloss": "hearing",
-            "words": [
+              },
               {
                 "word": "聞き",
-                "gloss": "hear.CONJ"
+                "gloss": "hear.ADV"
               },
               {
                 "word": "て",
@@ -10936,11 +11336,11 @@
               },
               {
                 "word": "よめ",
-                "gloss": "compose"
+                "gloss": "compose.REALIS"
               },
               {
                 "word": "る",
-                "gloss": "PST"
+                "gloss": "PST.ATTR"
               },
               {
                 "word": "歌",
@@ -10966,7 +11366,9 @@
         ]
       },
       {
-        "date": "20250428",
+        "date": [
+          20250428
+        ],
         "id": 304,
         "poem": "日をだにも/あま雲ちかく/見るものを/都へとおもふ/道のはるけさ",
         "kana": "ひをだにも/あまぐもちかく/みるものを/みやこへとおもふ/みちのはるけさ",
@@ -11108,7 +11510,7 @@
               },
               {
                 "word": "よめ",
-                "gloss": "compose"
+                "gloss": "compose.REALIS"
               },
               {
                 "word": "る",
@@ -11118,7 +11520,7 @@
           }
         ],
         "glossary-abbreviations": null,
-        "translation-ja-natural": "また、ある人が詠みました。",
+        "translation-ja-natural": "また、ある人が詠んだ。",
         "translation-en-natural": "Another person composed."
       },
       {
