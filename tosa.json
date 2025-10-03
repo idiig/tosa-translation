@@ -7970,14 +7970,178 @@
         "translation-en-natural": "A woman of good character had followed a man down from the capital and lived there."
       },
       {
-        "date": "20250217",
+        "date": [
+          20250217,
+          20251002
+        ],
         "id": 87,
         "text": "この長櫃の物は皆人童までにくれたれば、飽き滿ちて舟子どもは腹皷をうちて海をさへおどろかして浪たてつべし。",
         "kana": "このながひつのものはみなひとわらはまでにくれたれば、あきみちてふなこどもははらつづみをうちてうみをさへおどろかしてなみたてつべし。",
         "koutei-yamagen": "この長櫃の物は皆人童までにくれたれば、飽き満ちて舟子どもは腹鼓を打ちて海をさへおどろかして浪たてつべし。",
-        "translation-ja": "この長櫃の物は、すべての人から童に至るまでに与えられたので、満ち足りて、舟子たちは腹鼓を打ち、海までも驚かせて波を立てるに違いない。",
+        "translation-ja": "この長櫃の物は、すべての人から童に至るまでに与えられたので、満ち足りて、舟子たちは腹鼓を打ち、海までも驚かせて波を立てたに違いない。",
         "translation-en": "The items in this long chest were given to everyone, from adults to children, so they were fully satisfied, and the boatmen beat their bellies like drums, even startling the sea and surely raising waves.",
-        "translation-ja-natural": "この長櫃いっぱいの品物は、大人から子供まで皆に惜しげもなく振る舞われ、誰もが満腹になってしまいました。船乗りたちは腹いっぱいに食べて、自分の腹をポンポン叩いて喜び、その音があまりに大きく、海までも驚いて波を立ててしまいました。",
+        "phrase-gloss": [
+          {
+            "phrase": "この長櫃の物は",
+            "gloss": "this long.chest-GEN items-TOP",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "長櫃",
+                "gloss": "long.chest"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "物",
+                "gloss": "items"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "皆人童までにくれたれば、",
+            "gloss": "all people children-to give-because",
+            "words": [
+              {
+                "word": "皆",
+                "gloss": "all"
+              },
+              {
+                "word": "人",
+                "gloss": "people"
+              },
+              {
+                "word": "童",
+                "gloss": "children"
+              },
+              {
+                "word": "まで",
+                "gloss": "too"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "くれ",
+                "gloss": "give.REALIS"
+              },
+              {
+                "word": "たれ",
+                "gloss": "PERF.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "because"
+              }
+            ]
+          },
+          {
+            "phrase": "飽き滿ちて",
+            "gloss": "satisfied-ADV",
+            "words": [
+              {
+                "word": "飽き",
+                "gloss": "satisfied.ADV"
+              },
+              {
+                "word": "滿ち",
+                "gloss": "full.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "舟子どもは腹鼓をうちて",
+            "gloss": "boatmen-PL-TOP belly.drums-ACC beat-and",
+            "words": [
+              {
+                "word": "舟子",
+                "gloss": "boatmen"
+              },
+              {
+                "word": "ども",
+                "gloss": "-PL"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "腹鼓",
+                "gloss": "belly.drums"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "うち",
+                "gloss": "beat.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "海をさへおどろかして浪たてつべし。",
+            "gloss": "sea-ACC even startle-and waves-rise-POT",
+            "words": [
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "さへ",
+                "gloss": "even"
+              },
+              {
+                "word": "おどろかし",
+                "gloss": "startle.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "浪",
+                "gloss": "waves"
+              },
+              {
+                "word": "たて",
+                "gloss": "rise.ADV"
+              },
+              {
+                "word": "つ",
+                "gloss": "PST"
+              },
+              {
+                "word": "べし",
+                "gloss": "POT"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "この長櫃いっぱいの品物は、大人から子供まで皆に惜しげもなく振る舞われ、誰もが満腹になってしまい、船乗りたちは腹いっぱいに食べ、自分の腹をポンポン叩いて喜び、その音があまりに大きく、海までも驚いて波を立ててしまった。",
         "translation-en-natural": "The long chest was packed with goods and generously handed out to everyone, from adults to children, until they were completely full. The sailors, having eaten their fill, joyfully drummed on their bellies with such thunderous noise that even the sea itself seemed to shudder and stir up waves."
       },
       {
