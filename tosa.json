@@ -8145,35 +8145,251 @@
         "translation-en-natural": "The long chest was packed with goods and generously handed out to everyone, from adults to children, until they were completely full. The sailors, having eaten their fill, joyfully drummed on their bellies with such thunderous noise that even the sea itself seemed to shudder and stir up waves."
       },
       {
-        "date": "20250218",
+        "date": [
+          20250218,
+          20251003
+        ],
         "id": 88,
         "text": "かくてこの間に事おほかり。",
         "kana": "かくてこのあひだにことおほかり。",
         "koutei-yamagen": "かくて、この間に事多かり。",
         "translation-ja": "こうして、この間に出来事が多かった。",
         "translation-en": "Thus, during this time, there were many events.",
+        "phrase-gloss": [
+          {
+            "phrase": "かくて",
+            "gloss": "thus",
+            "words": [
+              {
+                "word": "かく",
+                "gloss": "thus"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "この間に",
+            "gloss": "this time-LOC",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "間",
+                "gloss": "time"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "事おほかり。",
+            "gloss": "events many.exist",
+            "words": [
+              {
+                "word": "事",
+                "gloss": "events"
+              },
+              {
+                "word": "おほかり",
+                "gloss": "many.exist.ADV"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "こうしているうちに、さまざまな出来事がありました。",
         "translation-en-natural": "During this time, various things happened."
       },
       {
-        "date": "20250219",
+        "date": [
+          20250219,
+          20251005
+        ],
         "id": 89,
         "text": "けふわりごもたせてきたる人、その名などぞや、今思ひ出でむ。",
         "kana": "けふわりごもたせてきたるひと、そのななどぞや、いまおもひいでむ。",
         "koutei-yamagen": "今日、破子持たせて来たる人、その名などぞや、今思ひ出でむ。",
-        "translation-ja": "今日、破子を持たせて来た人の名などは何だったか、今、思い出すだろう。",
+        "translation-ja": "今日、破子を持たせて来た人、その名などは何だったか、今に思い出すだろう。",
         "translation-en": "Today, the name and such of the person who had someone bring the wrapping cloth, what was it? I shall remember it now.",
+        "phrase-gloss": [
+          {
+            "phrase": "けふわりごもたせてきたる人、",
+            "gloss": "today wrapping.cloth-carry-let-come-PERF person",
+            "words": [
+              {
+                "word": "けふ",
+                "gloss": "today"
+              },
+              {
+                "word": "わりご",
+                "gloss": "wrapping.cloth"
+              },
+              {
+                "word": "もた",
+                "gloss": "carry.IRR"
+              },
+              {
+                "word": "せ",
+                "gloss": "CAUS.REALIS"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "き",
+                "gloss": "come.ADV"
+              },
+              {
+                "word": "たる",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              }
+            ]
+          },
+          {
+            "phrase": "その名などぞや、",
+            "gloss": "that name etc.-FOC-Q",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "名",
+                "gloss": "name"
+              },
+              {
+                "word": "など",
+                "gloss": "etc."
+              },
+              {
+                "word": "ぞ",
+                "gloss": "FOC"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              }
+            ]
+          },
+          {
+            "phrase": "今思ひ出でむ。",
+            "gloss": "now think.of-POT",
+            "words": [
+              {
+                "word": "今",
+                "gloss": "now"
+              },
+              {
+                "word": "思ひ出",
+                "gloss": "think.of.ADV"
+              },
+              {
+                "word": "で",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "む",
+                "gloss": "POT"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "今日、包みを誰かに持たせて届けさせた人の名前は、何だったかな。そのうち思い出すだろう。",
         "translation-en-natural": "What was the name of the person who had someone bring the bundle today? I will remember it eventually."
       },
       {
-        "date": "20250220",
+        "date": [
+          20250220,
+          20251006
+        ],
         "id": 90,
         "text": "この人歌よまむと思ふ心ありてなりけり。",
         "kana": "このひとうたよまむとおもふこころありてなりけり。",
         "koutei-yamagen": "この人、歌よまむと思ふ心ありてなりけり。",
-        "translation-ja": "この人、歌を詠もうと思う心があってのことだった。",
-        "translation-en": "This person, having a heart to compose a poem, that was the reason.",
+        "translation-ja": "この人、歌を詠もうと思う心があってのことだ。",
+        "translation-en": "This person, had a heart that wished to compose a poem.",
+        "phrase-gloss": [
+          {
+            "phrase": "この人、",
+            "gloss": "this person",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              }
+            ]
+          },
+          {
+            "phrase": "歌よまむとおもふ心",
+            "gloss": "poem-compose-POT-QUOT think-heart",
+            "words": [
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "よま",
+                "gloss": "compose.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "INTEND"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "おもふ",
+                "gloss": "think.ATTR"
+              },
+              {
+                "word": "心",
+                "gloss": "heart"
+              }
+            ]
+          },
+          {
+            "phrase": "ありてなりけり。",
+            "gloss": "exist-and be-PERF",
+            "words": [
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "なり",
+                "gloss": "be.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "この人は、歌を詠みたいという思いがあったのだ。",
         "translation-en-natural": "This person had a desire to compose a poem."
       },
