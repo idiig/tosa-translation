@@ -38985,9 +38985,9 @@
           {
             "phrase": "いかゞあらむ",
             "gloss": "(how) will it be?",
-            "gloss-morph": "how COP-THM+CTJ-CCL",
+            "gloss-morph": "how COP-THM+CJT-CCL",
             "gloss-zh": "会如何呢？",
-            "gloss-morph-": "如何 COP-THM+CTJ-CCL",
+            "gloss-morph-": "如何 COP-THM+CJT-CCL",
             "words": [
               {
                 "word": "いかゞ",
@@ -39006,9 +39006,9 @@
               {
                 "word": "む",
                 "gloss": "will",
-                "gloss-morph": "+CTJ-CCL",
+                "gloss-morph": "+CJT-CCL",
                 "gloss-zh": "会",
-                "gloss-morph-zh": "+CTJ-CCL"
+                "gloss-morph-zh": "+CJT-CCL"
               }
             ]
           }
