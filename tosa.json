@@ -20133,7 +20133,7 @@
             "gloss": "and then composed the following poem",
             "gloss-morph": "=CMP say-ADV=SEQ compose-INC+STA-ADN poem",
             "gloss-zh": "QUOT 说-着 咏-了-的 歌",
-            "gloss-morph-zh": "＝CMP 说-ADV=SEQ 咏-INC+STA-ADN 歌",
+            "gloss-morph-zh": "=CMP 说-ADV=SEQ 咏-INC+STA-ADN 歌",
             "words": [
               {
                 "word": "と",
@@ -20678,7 +20678,7 @@
             "note": "Literally 'water gate'; an archaic term referring to port entrances or water passages. In this context, it likely denotes a sea channel or port area in Awa (present-day Tokushima)."
           }
         ],
-        "gloss－notes-zh": [
+        "gloss-notes-zh": [
           {
             "term": "ありき",
             "note": "这是“歩く”（走动）的连用形，在这里起到古典意义上的“走动”的作用。在“夜ありき”（夜晚走动）等表达中，它通常暗示夜间的游荡或活动，并与盗贼或不法分子有关。在这种情况下，它指的是海盗在夜间的移动或袭击。"
@@ -21170,7 +21170,7 @@
             "phrase": "和泉の灘といふ所に至りぬ",
             "gloss": "we arrived at a place called Izumi no Nada",
             "gloss-morph": "Izumi=GEN+coast=CMP say-ADN place=DAT arrive-ADV=MNF-CCL",
-            "gloss-zh": "和泉 的 海岸 QUOT 叫－的 地方 于 抵达-了",
+            "gloss-zh": "和泉 的 海岸 QUOT 叫-的 地方 于 抵达-了",
             "gloss-morph-zh": "和泉=GEN+海岸=CMP 叫-ADN 地方=DAT 抵达-ADV=MNF-CCL",
             "words": [
               {
@@ -21204,7 +21204,7 @@
               {
                 "word": "いふ",
                 "gloss": "say/call",
-                "gloss-morph": "say－ADN",
+                "gloss-morph": "say-ADN",
                 "gloss-zh": "叫-的",
                 "gloss-morph-zh": "叫-ADN"
               },
@@ -22086,7 +22086,7 @@
             "phrase": "昨日の如く",
             "gloss": "just like yesterday",
             "gloss-morph": "yesterday=GEN=SCO.SER",
-            "gloss-zh": "昨日 之 如同－般",
+            "gloss-zh": "昨日 之 如同-般",
             "gloss-morph-zh": "昨日=GEN=SCO",
             "words": [
               {
@@ -22107,7 +22107,7 @@
                 "word": "如く",
                 "gloss": "as/like",
                 "gloss-morph": "=SCO.SER",
-                "gloss-zh": "如同－般",
+                "gloss-zh": "如同...般",
                 "gloss-morph-zh": "=SCO.SER"
               }
             ]
@@ -22115,7 +22115,7 @@
           {
             "phrase": "風浪見えず",
             "gloss": "wind and waves are not visible",
-            "gloss-morph": "wind+waves be.visible－THM=NEG.CCL",
+            "gloss-morph": "wind+waves be.visible-THM=NEG.CCL",
             "gloss-zh": "风浪 看得见 不",
             "gloss-morph-zh": "风+浪 看得见-THM=NEG.CCL",
             "words": [
@@ -22344,7 +22344,7 @@
             "phrase": "磯の浪は雪の如くに、",
             "gloss": "the waves on the shore are like snow,",
             "gloss-morph": "shore=GEN wave=TOP snow=GEN SCO.SER=SER?",
-            "gloss-zh": "海岸 之 浪 是 雪 之 如同－般 地",
+            "gloss-zh": "海岸 之 浪 是 雪 之 如同...般 地",
             "gloss-morph-zh": "海岸=GEN 浪=TOP 雪=GEN SCO.SER=SER?",
             "words": [
               {
@@ -22393,7 +22393,7 @@
                 "word": "如く",
                 "gloss": "like",
                 "gloss-morph": "SCO.SER",
-                "gloss-zh": "如同－般",
+                "gloss-zh": "如同...般",
                 "gloss-morph-zh": "SCO.SER"
               },
               {
@@ -25410,7 +25410,7 @@
               {
                 "word": "寄せ",
                 "gloss": "to wash up",
-                "gloss-morph": "come.to.shore－THM",
+                "gloss-morph": "come.to.shore-THM",
                 "gloss-zh": "涌来",
                 "gloss-morph-zh": "涌来-THM"
               },
@@ -29951,7 +29951,7 @@
                 "gloss": "love (ATTR)",
                 "gloss-morph": "long.for-ADN",
                 "gloss-zh": "怀念-的",
-                "gloss-morph-zh": "怀念－ADN"
+                "gloss-morph-zh": "怀念-ADN"
               },
               {
                 "word": "力",
@@ -32679,7 +32679,7 @@
                 "gloss": "rejoice.ADV.F",
                 "gloss-morph": "rejoice-ADV",
                 "gloss-zh": "为...高兴",
-                "gloss-morph-zh": "为..。高兴-ADV"
+                "gloss-morph-zh": "为...高兴-ADV"
               },
               {
                 "word": "て",
@@ -34179,7 +34179,7 @@
             "gloss": "are bogged down today, oh",
             "gloss-morph": "be.bogged.down-ADN today XCL",
             "gloss-zh": "搁浅的今日哉",
-            "gloss-morph-": "搁浅－ADN 今日 哉",
+            "gloss-morph-": "搁浅-ADN 今日 哉",
             "words": [
               {
                 "word": "なづむ",
@@ -36596,7 +36596,7 @@
                 "gloss": "COP",
                 "gloss-morph": "COP-CCL",
                 "gloss-zh": "是",
-                "gloss-morph-zh": "COP－CCL"
+                "gloss-morph-zh": "COP-CCL"
               }
             ]
           }
