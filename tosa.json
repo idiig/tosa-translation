@@ -34967,9 +34967,9 @@
           {
             "phrase": "ねたき、いはざらましものを",
             "gloss": "'How frustrating! I should not have said it;'",
-            "gloss-morph": "frustrating-ADN say-THM=NEG.VBL-THM+CTF.ADN=CON",
+            "gloss-morph": "frustrating-ADN say-THM=NEG.VBL-THM+CFT.ADN=CON",
             "gloss-zh": "可恶的，明明不说就好了",
-            "gloss-morph-": "可恶的-ADN 说-THM=NEG.VBL-THM+CTF.ADN=CON",
+            "gloss-morph-": "可恶的-ADN 说-THM=NEG.VBL-THM+CFT.ADN=CON",
             "words": [
               {
                 "word": "ねたき",
@@ -34995,9 +34995,9 @@
               {
                 "word": "まし",
                 "gloss": "counterfactual",
-                "gloss-morph": "+CTF.ADN",
+                "gloss-morph": "+CFT.ADN",
                 "gloss-zh": "就好了",
-                "gloss-morph-zh": "+CTF.ADN"
+                "gloss-morph-zh": "+CFT.ADN"
               },
               {
                 "word": "ものを",
