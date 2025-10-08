@@ -32475,7 +32475,7 @@
             "gloss": "their joy was unparalleled",
             "gloss-morph": "rejoice-ADN=NML two NEG.CCL",
             "gloss-zh": "欢喜无双",
-            "gloss-morph-": "欢喜-ADN=NML 二 NEG.CCL",
+            "gloss-morph-zh": "欢喜-ADN=NML 二 NEG.CCL",
             "words": [
               {
                 "word": "喜ぶ",
@@ -32487,9 +32487,9 @@
               {
                 "word": "こと",
                 "gloss": "NMLZ",
-                "gloss-morph": "=NMLZ",
+                "gloss-morph": "=NML",
                 "gloss-zh": "事",
-                "gloss-morph-zh": "=NMLZ"
+                "gloss-morph-zh": "=NML"
               },
               {
                 "word": "二つ",
