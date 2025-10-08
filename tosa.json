@@ -12885,9 +12885,9 @@
           {
             "phrase": "その名などぞや、",
             "gloss": "that name etc.-FOC-Q",
-	    "gloss-morph": "DEM=GEN name=EXE=FOC=XML",
+	    "gloss-morph": "DEM=GEN name=EXE=FOC=XCL",
 	    "gloss-zh": "那个名字什么的",
-	    "gloss-morph-zh": "那个=GEN 名字=EXE=FOC=XML",
+	    "gloss-morph-zh": "那个=GEN 名字=EXE=FOC=XCL",
             "words": [
               {
                 "word": "その",
@@ -12920,9 +12920,9 @@
               {
                 "word": "や",
                 "gloss": "Q",
-		"gloss-morph": "=XML",
+		"gloss-morph": "=XCL",
 		"gloss-zh": "呢",
-		"gloss-morph-zh": "=XML"
+		"gloss-morph-zh": "=XCL"
               }
             ]
           },
