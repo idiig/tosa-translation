@@ -8394,46 +8394,307 @@
         "translation-en-natural": "This person had a desire to compose a poem."
       },
       {
-        "date": "20250220",
+        "date": [
+          20250220,
+          20251007
+        ],
         "id": 91,
         "text": "とかくいひいひて浪の立つなることゝ憂へいひて詠める歌、",
         "kana": "とかくいひいひてなみのたつなることとうへいひてうためるうた、",
         "koutei-yamagen": "とかくいひいひて、浪の立つなることと憂へいひて、詠める歌、",
         "translation-ja": "とかく言い言いして、波が立つということを憂えて言って詠んだ歌、",
         "translation-en": "Saying various things and lamenting that the waves are rising, the poem that was composed.",
+        "phrase-gloss": [
+          {
+            "phrase": "とかくいひいひて",
+            "gloss": "various say-and",
+            "words": [
+              {
+                "word": "とかく",
+                "gloss": "various"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "浪の立つなることと憂へいひて",
+            "gloss": "waves-GEN rise-ATTR thing-QUOT worry-say-and",
+            "words": [
+              {
+                "word": "浪",
+                "gloss": "waves"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "立つ",
+                "gloss": "rise.ATTR"
+              },
+              {
+                "word": "なる",
+                "gloss": "be.ATTR"
+              },
+              {
+                "word": "こと",
+                "gloss": "thing"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "憂へ",
+                "gloss": "worry.ADV"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "詠める歌、",
+            "gloss": "compose-PERF poem",
+            "words": [
+              {
+                "word": "詠め",
+                "gloss": "compose.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "あれこれと言いながら、波が立つことを心配して詠んだ歌。",
         "translation-en-natural": "Talking about various things and worrying about the rising waves, a poem was composed."
       },
       {
-        "date": "20250222",
+        "date": [
+          20250222,
+          20251008
+        ],
         "id": 92,
-        "text": "「ゆくさきにたつ白浪の聲よりもおくれて泣かむわれやまさらむ」",
-        "kana": "ゆくさきにたつしらなみのこゑよりもおくれてなかむわれやまさらむ",
+        "text": "ゆくさきに/たつ白浪の/聲よりも/おくれて泣かむ/われやまさらむ",
+        "kana": "ゆくさきに/たつしらなみの/こゑよりも/おくれてなかむ/われやまさらむ",
         "koutei-yamagen": "ゆく先に立つ白浪の声よりも遅れて泣かむ我やまさらむ。",
-        "translation-ja": "行く先に立つ白波の声よりも、遅れて泣くだろう私の声が勝るのだろうか。",
+        "translation-ja": "行く先に立つ白波の声よりも、遅れて泣くだろう私が勝るだろうか。",
         "translation-en": "Ahead on the path, rising white waves' sound rather than, belatedly shall cry, my voice will surpass?",
+        "phrase-gloss": [
+          {
+            "phrase": "ゆくさきに",
+            "gloss": "going.ahead-LOC",
+            "words": [
+              {
+                "word": "ゆく",
+                "gloss": "go.ATTR"
+              },
+              {
+                "word": "さき",
+                "gloss": "ahead"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "たつ白浪の",
+            "gloss": "rise white.waves-GEN",
+            "words": [
+              {
+                "word": "たつ",
+                "gloss": "rise.ATTR"
+              },
+              {
+                "word": "白浪",
+                "gloss": "white.waves"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "聲よりも",
+            "gloss": "voice than-also",
+            "words": [
+              {
+                "word": "聲",
+                "gloss": "voice"
+              },
+              {
+                "word": "より",
+                "gloss": "than"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              }
+            ]
+          },
+          {
+            "phrase": "おくれて泣かむ",
+            "gloss": "belatedly cry-POT",
+            "words": [
+              {
+                "word": "おくれ",
+                "gloss": "belatedly.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "泣か",
+                "gloss": "cry.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              }
+            ]
+          },
+          {
+            "phrase": "われやまさらむ",
+            "gloss": "I-FOC even.surpass-POT",
+            "words": [
+              {
+                "word": "われ",
+                "gloss": "I"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "まさら",
+                "gloss": "surpass.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "行く先に立つ白波の音よりも、遅れて泣く私の声のほうが大きくなるのだろうか。",
         "translation-en-natural": "Will my belated cries be louder than the sound of the white waves rising ahead on my path?"
       },
       {
-        "date": "20250223",
+        "date": [
+          20250223,
+          20251009
+        ],
         "id": 93,
-        "text": "とぞ（ぞイ無）詠める。",
+        "text": "とぞ詠める。",
         "kana": "とぞよめる。",
         "koutei-yamagen": "とぞ詠める。",
         "translation-ja": "と詠んだ。",
         "translation-en": "And so it was composed.",
-        "translation-ja-natural": "と詠みました。",
-        "translation-en-natural": "And so it was composed."
+        "phrase-gloss": [
+          {
+            "phrase": "とぞ詠める。",
+            "gloss": "QUOT-EMPH compose-PERF",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "詠め",
+                "gloss": "compose.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "と詠んだ。",
+        "translation-en-natural": "And so it was composed.",
+        "notes-ja": [
+          {
+            "title": "オリジナルの表記",
+            "note": "とぞ（ぞイ無）詠める。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Original Notation",
+            "note": "とぞ（ぞイ無）詠める。"
+          }
+        ]
       },
       {
-        "date": "20250223",
+        "date": [
+          20250223,
+          20251010
+        ],
         "id": 94,
         "text": "いと大聲なるべし。",
         "kana": "いとおほごへなるべし。",
         "koutei-yamagen": "いと大声なるべし。",
         "translation-ja": "とても大きな声で詠まれたに違いない。",
         "translation-en": "It was surely composed with a very loud voice.",
+        "phrase-gloss": [
+          {
+            "phrase": "いと大聲なるべし。",
+            "gloss": "very loud.voice be-POT",
+            "words": [
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "大聲",
+                "gloss": "loud.voice"
+              },
+              {
+                "word": "なる",
+                "gloss": "be.ATTR"
+              },
+              {
+                "word": "べし",
+                "gloss": "POT",
+                "note": "Q: Is 'べし' noted as potential form?\nA: Yes, 'べし' is indeed the potential form in classical Japanese, indicating possibility or conjecture.\nQ: Should it be translated as 'must have been' or 'probably was'?\nA: It can be translated as 'must have been' to convey a strong conjecture about the past event."
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "きっとものすごく大きな声だったことだろう。",
         "translation-en-natural": "It must have been an incredibly loud voice."
       },
