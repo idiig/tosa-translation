@@ -9050,15 +9050,81 @@
         "translation-en-natural": "The poet said, 'I'm not leaving yet,' and stood up."
       },
       {
-        "date": "20250225",
+        "date": [
+          20250225,
+          20251014
+        ],
         "id": 99,
         "text": "ある人の子の童なる密にいふ。",
         "kana": "あるひとのこのわらわなるひそかにいふ",
         "koutei-yamagen": "ある人の子の童なる密かに言ふ。",
         "translation-ja": "ある人の子供が、こっそり言う。",
         "translation-en": "A child of a certain person says secretly.",
-        "translation-ja-natural": "ある人の子供が、こっそり言いました。",
-        "translation-en-natural": "A child of a certain person said secretly."
+        "phrase-gloss": [
+          {
+            "phrase": "ある人の子の童なる",
+            "gloss": "certain.person-GEN child-GEN child.be-ATTR",
+            "words": [
+              {
+                "word": "ある",
+                "gloss": "certain"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "子",
+                "gloss": "child"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN.apposition"
+              },
+              {
+                "word": "童",
+                "gloss": "child"
+              },
+              {
+                "word": "なる",
+                "gloss": "be.ATTR"
+              }
+            ]
+          },
+          {
+            "phrase": "密かに言ふ。",
+            "gloss": "secretly say",
+            "words": [
+              {
+                "word": "密かに",
+                "gloss": "secretly.ADV"
+              },
+              {
+                "word": "言ふ",
+                "gloss": "say.END"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "ある人の子供が、こっそり言った。",
+        "translation-en-natural": "A child of a certain person said secretly.",
+        "notes-ja": [
+          {
+            "title": "「の」の同格用法",
+            "note": "「ある人の子の童なる」の「の」は、同格を示す用法です。つまり、「ある人の子である童」という意味。松村明編『古語辞典』：「AのB」構文の一種として「同格属格」を認める。橋本進吉『国文法体系』第5章：「の」は格助詞であり、同格的「の」も属格構文の中の意味的変種。時枝誠記『国語学原論』：助詞の機能は「関係表示」であり、同格は意味的派生。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "'の' as an Appositive Marker",
+            "note": "In the phrase 'ある人の子の童なる', the particle 'の' is used to indicate apposition, meaning 'a child who is the offspring of a certain person.' According to Akira Matsumura's 'Kogo Jiten', this is recognized as a type of the 'AのB' construction known as 'appositive genitive'. In Shinkichi Hashimoto's 'Kokubunpo taikei', chapter 5, 'の' is a case particle, and the appositive 'の' is considered a semantic variant within genitive constructions. Motoki Tokieda's 'Kokugogaku Genron' states that the function of particles is 'indication of relationships', and apposition can be considered as a semantic derivation."
+          }
+        ]
       },
       {
         "date": "20250225",
