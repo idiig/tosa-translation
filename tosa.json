@@ -8699,26 +8699,160 @@
         "translation-en-natural": "It must have been an incredibly loud voice."
       },
       {
-        "date": "20250223",
+        "date": [
+          20250223,
+          20251011
+        ],
         "id": 95,
         "text": "持てきたる物より歌はいかゞあらむ。",
         "kana": "もてきたるものよりうたはいかがあらむ。",
         "koutei-yamagen": "持てきたる物より歌はいかがあらむ。",
         "translation-ja": "持ってきた物と比べて、歌はどうであろうか。",
         "translation-en": "Compared to the things brought, how is the song?",
-        "translation-ja-natural": "持ってきた物に比べて、この歌はどうでしょうか。",
+        "phrase-gloss": [
+          {
+            "phrase": "持てきたる物より",
+            "gloss": "bring-PERF items-than",
+            "words": [
+              {
+                "word": "持て",
+                "gloss": "bring.ADV"
+              },
+              {
+                "word": "き",
+                "gloss": "come.ADV"
+              },
+              {
+                "word": "たる",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "物",
+                "gloss": "items"
+              },
+              {
+                "word": "より",
+                "gloss": "than"
+              }
+            ]
+          },
+          {
+            "phrase": "歌はいかがあらむ。",
+            "gloss": "poem-TOP how be-POT",
+            "words": [
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "いかが",
+                "gloss": "how"
+              },
+              {
+                "word": "あら",
+                "gloss": "be.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "POT"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "持ってきた物に比べて、この歌はどうだろうか。",
         "translation-en-natural": "How does this song compare to the things that were brought?"
       },
       {
-        "date": "20250223",
+        "date": [
+          20250223,
+          20251012
+        ],
         "id": 96,
         "text": "この歌を此彼あはれがれども一人も返しせず。",
         "kana": "このうたをこのかれあはれがれどもひとりもかへしせず。",
         "koutei-yamagen": "この歌を此彼あはれがれども、一人も返しせず。",
-        "translation-ja": "この歌を、あの人もこの人も褒めたが、一人も返歌をしなかった。",
-        "translation-en": "Though both this person and that person praised this song, not one composed a reply.",
-        "translation-ja-natural": "この歌をみんなが褒めはしましたが、誰ひとり返歌をしませんでした。",
-        "translation-en-natural": "Everyone praised the song, but no one composed a reply.",
+        "translation-ja": "この歌を、あの人もこの人も褒めたが、一人も返歌をしない。",
+        "translation-en": "Though both this person and that person praised this song, not one composes a reply.",
+        "phrase-gloss": [
+          {
+            "phrase": "この歌を",
+            "gloss": "this song-ACC",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "歌",
+                "gloss": "song"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              }
+            ]
+          },
+          {
+            "phrase": "此彼あはれがれども、",
+            "gloss": "this.that pity-CONJ",
+            "words": [
+              {
+                "word": "此",
+                "gloss": "this"
+              },
+              {
+                "word": "彼",
+                "gloss": "that"
+              },
+              {
+                "word": "あはれ",
+                "gloss": "pity.VN"
+              },
+              {
+                "word": "がれ",
+                "gloss": "APPR.REALIS"
+              },
+              {
+                "word": "ども",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "一人も返しせず。",
+            "gloss": "one.person even reply-NEG",
+            "words": [
+              {
+                "word": "一人",
+                "gloss": "one.person"
+              },
+              {
+                "word": "も",
+                "gloss": "even"
+              },
+              {
+                "word": "返し",
+                "gloss": "reply.VN"
+              },
+              {
+                "word": "せ",
+                "gloss": "do.REALIS"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "この歌をみんなが褒めはしたが、誰ひとり返歌をしない。",
+        "translation-en-natural": "Everyone praised the song, but no one composes a reply.",
         "notes-ja": {
           "返歌のない和歌のやりとり": "かわいそうな歌のやりとりですね。「すごいすごい」と褒めるだけ褒めておいて、誰も返歌をしないなんて、ちょっと冷たい感じもしますね。形式的に称賛はするものの、実際にはそれほど興味を持たれていなかったのか、あるいは返歌をするのが難しかったのかもしれません。",
           "貫之の観察眼": "歌のやりとりが重視される時代だっただけに、ちょっと寂しい場面です。歌よりも酒や食べ物の方が重要ですね。その皆の反応を貫之が見逃さなかったんですね。貫之はこうした細かい人々の反応をしっかり観察し、記録に残しているのが面白い。",
@@ -8728,24 +8862,190 @@
         }
       },
       {
-        "date": "20250224",
+        "date": [
+          20250224,
+          20251013
+        ],
         "id": 97,
         "text": "しつべき人も交れゝどこれをのみいたがり物をのみくひて夜更けぬ。",
         "kana": "しつべきひともまじれれどこれをのみいたがりものをのみくひてよふけぬ。",
         "koutei-yamagen": "しつべき人も交れれど、これをのみいたがり、物をのみ喰ひて夜更けぬ。",
         "translation-ja": "然るべき人も交じっていたが、その人もこの歌をほめるばかりで、食べ物ばかり食べて、夜が更けてしまった。",
         "translation-en": "Even the appropriate person was present, but that person only praised this song, ate only food, and the night grew late.",
+        "phrase-gloss": [
+          {
+            "phrase": "しつべき人も交れれど、",
+            "gloss": "appropriate.person even mingle-CONJ",
+            "words": [
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "つ",
+                "gloss": "PERF.END"
+              },
+              {
+                "word": "べき",
+                "gloss": "SUP.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "も",
+                "gloss": "even"
+              },
+              {
+                "word": "交れ",
+                "gloss": "mingle.REALIS"
+              },
+              {
+                "word": "れ",
+                "gloss": "PERF.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "これをのみいたがり、",
+            "gloss": "this-ACC only.drink-desire",
+            "words": [
+              {
+                "word": "これ",
+                "gloss": "this"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "のみ",
+                "gloss": "only"
+              },
+              {
+                "word": "いた",
+                "gloss": "desire.VN"
+              },
+              {
+                "word": "がり",
+                "gloss": "APPR.ADV"
+              }
+            ]
+          },
+          {
+            "phrase": "物をのみ喰ひて夜更けぬ。",
+            "gloss": "things-ACC only.eat-and night.late-NEG",
+            "words": [
+              {
+                "word": "物",
+                "gloss": "things"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "のみ",
+                "gloss": "drink.ADV"
+              },
+              {
+                "word": "喰ひ",
+                "gloss": "eat.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "夜更け",
+                "gloss": "night.late.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "当然、返歌をすべき人もいたが、その人もこの歌をただほめるばかりで、食べてばかりいるうちに夜が更けてしまった。",
         "translation-en-natural": "Naturally, there were also those who should have composed a response, but they only kept praising the song, eating all the while, until the night grew late."
       },
       {
-        "date": "20250224",
+        "date": [
+          20250224,
+          20251014
+        ],
         "id": 98,
         "text": "この歌ぬしなむ「またまからず」といひてたちぬ。",
         "kana": "このうたぬしなむまたまからずといひてたちぬ。",
         "koutei-yamagen": "この歌主なむ、「またまからず」と言ひて立ちぬ。",
-        "translation-ja": "この歌の詠み手は、「まだ帰らない」と言って立ちあがった。",
+        "translation-ja": "この歌の主は、「まだ帰らない」と言って立った。",
         "translation-en": "The composer of this poem said, 'I am not going back yet,' and stood up.",
+        "phrase-gloss": [
+          {
+            "phrase": "この歌主なむ、",
+            "gloss": "this poem.composer-FOC",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "歌主",
+                "gloss": "poem.composer"
+              },
+              {
+                "word": "なむ",
+                "gloss": "FOC"
+              }
+            ]
+          },
+          {
+            "phrase": "「まだまからず」と言ひて立ちぬ。",
+            "gloss": "'not.yet leave-NEG' say-and stand-PERF",
+            "words": [
+              {
+                "word": "まだ",
+                "gloss": "not.yet"
+              },
+              {
+                "word": "まから",
+                "gloss": "leave.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "言ひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "立ち",
+                "gloss": "stand.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "歌の詠み手は、「まだ帰らないよ」と言って立ちあがった。",
         "translation-en-natural": "The poet said, 'I'm not leaving yet,' and stood up."
       },
