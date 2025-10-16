@@ -9192,13 +9192,55 @@
         "translation-en-natural": "Maro said, \"I will compose a reply to this song.\""
       },
       {
-        "date": "20250225",
+        "date": [
+          20250225,
+          20251017
+        ],
         "id": 101,
         "text": "驚きて「いとをかしきことかな。",
         "kana": "おどろきて「いとをかしきことかな。",
         "koutei-yamagen": "驚きて、「いとをかしきことかな。",
         "translation-ja": "驚いて、「とても素晴らしいことだな。",
         "translation-en": "Surprised, \"That is a very wonderful thing.'",
+        "phrase-gloss": [
+          {
+            "phrase": "驚きて、",
+            "gloss": "be.surprised-and",
+            "words": [
+              {
+                "word": "驚き",
+                "gloss": "be.surprised.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "「いとをかしきことかな。",
+            "gloss": "'very interesting.ATTR thing Q",
+            "words": [
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "をかしき",
+                "gloss": "interesting.ATTR"
+              },
+              {
+                "word": "こと",
+                "gloss": "thing"
+              },
+              {
+                "word": "かな",
+                "gloss": "Q"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "みんな驚いて、「それはすごい。",
         "translation-en-natural": "Everyone was surprised, \"That's amazing."
       },
