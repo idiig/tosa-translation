@@ -9127,13 +9127,67 @@
         ]
       },
       {
-        "date": "20250225",
+        "date": [
+          20250225,
+          20251016
+        ],
         "id": 100,
         "text": "「まろこの歌の返しせむ」といふ。",
         "kana": "「まろこのうたのかへしせむ」といふ。",
         "koutei-yamagen": "「まろこの歌の返しせむ」と言ふ。",
         "translation-ja": "「まろ、この歌に返歌しよう」と言う。",
         "translation-en": "Maro says, \"I will compose a reply to this song.\"",
+        "phrase-gloss": [
+          {
+            "phrase": "まろこの歌の",
+            "gloss": "Maro-this poem-GEN",
+            "words": [
+              {
+                "word": "まろ",
+                "gloss": "I/myself"
+              },
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "返しせむ」と言ふ。",
+            "gloss": "reply-DO-FUT' say",
+            "words": [
+              {
+                "word": "返し",
+                "gloss": "reply.VN"
+              },
+              {
+                "word": "せ",
+                "gloss": "do.REALIS"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "言ふ",
+                "gloss": "say.END"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "「あたしがこの返歌、しちゃだめ」と言いました。",
         "translation-en-natural": "Maro said, \"I will compose a reply to this song.\""
       },
