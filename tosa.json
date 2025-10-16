@@ -24683,14 +24683,14 @@
         "koutei-yamagen": "四日、楫取「けふ風雲のけしきはなはだあし」といひて船出さずなりぬ。",
         "translation-ja": "四日、楫取が「今日の風、雲の様子ははなはだ悪い」と言って、船を出さないことになった。",
         "translation-en": "On the fourth day, the helmsman said, \"The wind and clouds today are very bad,\" and it was decided not to set sail.",
-        "translation-zh": "四日，船夫说：“今日，风、云的样子甚恶。”决定不出船。",
+        "translation-zh": "四日，船夫说：“今日，风、云的状况甚恶。”决定不出船。",
         "phrase-gloss": [
           {
             "phrase": "四日、",
             "gloss": "on the fourth day,",
-            "gloss-morph": "fourth.day",
+            "gloss-morph": "fourth+day",
             "gloss-zh": "四日",
-            "gloss-morph-zh": "四日",
+            "gloss-morph-zh": "四+日",
             "words": [
               {
                 "word": "四",
@@ -24712,7 +24712,7 @@
             "phrase": "楫取「けふ風雲のけしきはなはだあし」といひて",
             "gloss": "the helmsman said, \"The wind and clouds today are very bad\"",
             "gloss-morph": "helmsman today wind clouds=GEN appearance very bad=CMP say-ADV=SEQ",
-            "gloss-zh": "船夫 今日 风 云 的 样子 很 坏 QUOT 说 SEQ",
+            "gloss-zh": "船夫说：“今天，风和云的情况很差”",
             "gloss-morph-zh": "船夫 今日 风 云=GEN 样子 很 坏=CMP 说-ADV=SEQ",
             "words": [
               {
@@ -24733,7 +24733,7 @@
                 "word": "風雲",
                 "gloss": "wind and clouds",
                 "gloss-morph": "wind clouds",
-                "gloss-zh": "风 云",
+                "gloss-zh": "风和云",
                 "gloss-morph-zh": "风 云"
               },
               {
@@ -24747,14 +24747,14 @@
                 "word": "けしき",
                 "gloss": "appearance",
                 "gloss-morph": "appearance",
-                "gloss-zh": "样子",
+                "gloss-zh": "情况",
                 "gloss-morph-zh": "样子"
               },
               {
                 "word": "はなはだあし",
                 "gloss": "very bad",
                 "gloss-morph": "very bad",
-                "gloss-zh": "很 坏",
+                "gloss-zh": "很差",
                 "gloss-morph-zh": "很 坏"
               },
               {
@@ -24775,7 +24775,7 @@
                 "word": "て",
                 "gloss": "SEQ",
                 "gloss-morph": "=SEQ",
-                "gloss-zh": "SEQ",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=SEQ"
               }
             ]
@@ -24783,9 +24783,9 @@
           {
             "phrase": "船出さずなりぬ。",
             "gloss": "(we) did not set sail.",
-            "gloss-morph": "boat set.out-THM=NEG.CCL HEV-ADV+MNF-CCL",
-            "gloss-zh": "船 出 不 了",
-            "gloss-morph-zh": "船 出-THM=NEG.CCL HEV-ADV+MNF-CCL",
+            "gloss-morph": "boat set.out-THM=NEG.CCL+HEV-ADV+MNF-CCL",
+            "gloss-zh": "听说不出航了",
+            "gloss-morph-zh": "船 出-THM=NEG.CCL+HEV-ADV+MNF-CCL",
             "words": [
               {
                 "word": "船",
@@ -24811,8 +24811,8 @@
               {
                 "word": "なり",
                 "gloss": "to be",
-                "gloss-morph": "HEV-ADV",
-                "gloss-zh": "是",
+                "gloss-morph": "+HEV-ADV",
+                "gloss-zh": "听说",
                 "gloss-morph-zh": "HEV-ADV"
               },
               {
@@ -24828,7 +24828,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "四日、楫取が「今日の風、雲の様子ははなはだ悪い」と言って、船を出さないことになった。",
         "translation-en-natural": "On the fourth day, the helmsman said, \"The wind and clouds today are very bad,\" and it was decided not to set sail.",
-        "translation-zh-natural": "四日，船夫说道今日，风和云的样子非常差，于是决定不出船",
+        "translation-zh-natural": "四日，听说船夫说着“今天风和云的情况非常糟糕”，决定不出航了。",
         "notes-ja": [
           {
             "title": "オリジナルの校訂",
@@ -24861,16 +24861,16 @@
           {
             "phrase": "然れども",
             "gloss": "however",
-            "gloss-morph": "however",
+            "gloss-morph": "thus.VBL-INC=XCC=IFO",
             "gloss-zh": "然而",
-            "gloss-morph-zh": "然而",
+            "gloss-morph-zh": "如此.VBL-INC=XCC=IFO",
             "words": [
               {
                 "word": "然れども",
-                "gloss": "however",
-                "gloss-morph": "however",
-                "gloss-zh": "然而",
-                "gloss-morph-zh": "然而"
+		"gloss": "however",
+		"gloss-morph": "thus.VBL-INC=XCC=IFO",
+		"gloss-zh": "然而",
+		"gloss-morph-zh": "如此.VBL-INC=XCC=IFO"
               }
             ]
           },
@@ -24878,14 +24878,14 @@
             "phrase": "ひねもすに",
             "gloss": "all day long",
             "gloss-morph": "all.day=SER",
-            "gloss-zh": "整日-地",
+            "gloss-zh": "一整天",
             "gloss-morph-zh": "整日=SER",
             "words": [
               {
                 "word": "ひねもすに",
                 "gloss": "all day",
                 "gloss-morph": "all.day=SER",
-                "gloss-zh": "整日",
+                "gloss-zh": "一整天",
                 "gloss-morph-zh": "整日=SER"
               }
             ]
@@ -24894,14 +24894,14 @@
             "phrase": "浪風たゝず。",
             "gloss": "the waves and wind do not rise.",
             "gloss-morph": "waves wind rise-THM=NEG.CCL",
-            "gloss-zh": "浪 风 起 不",
+            "gloss-zh": "不起风浪",
             "gloss-morph-zh": "浪 风 起-THM=NEG.CCL",
             "words": [
               {
                 "word": "浪風",
                 "gloss": "waves and wind",
                 "gloss-morph": "waves wind",
-                "gloss-zh": "浪 风",
+                "gloss-zh": "风和浪",
                 "gloss-morph-zh": "浪 风"
               },
               {
@@ -24924,7 +24924,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "しかし、終日波風は立たなかった。",
         "translation-en-natural": "However, the waves and wind did not rise all day long.",
-        "translation-zh-natural": "然而，一整日都没有起风浪。"
+        "translation-zh-natural": "结果却一整天都没起风浪。"
       },
       {
         "date": "20250511",
@@ -24940,14 +24940,14 @@
             "phrase": "この楫取は",
             "gloss": "this helmsman",
             "gloss-morph": "DEM=GEN helmsman=TOP",
-            "gloss-zh": "此 船夫 TOP",
+            "gloss-zh": "这个船夫",
             "gloss-morph-zh": "DEM=GEN 船夫=TOP",
             "words": [
               {
                 "word": "この",
                 "gloss": "this",
                 "gloss-morph": "DEM=GEN",
-                "gloss-zh": "此",
+                "gloss-zh": "这个",
                 "gloss-morph-zh": "DEM=GEN"
               },
               {
@@ -24961,7 +24961,7 @@
                 "word": "は",
                 "gloss": "TOP",
                 "gloss-morph": "=TOP",
-                "gloss-zh": "TOP",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=TOP"
               }
             ]
@@ -24969,9 +24969,9 @@
           {
             "phrase": "日も得計らぬかたゐなりけり。",
             "gloss": "(he) could not even predict the weather.",
-            "gloss-morph": "weather=IFO (im)possible predict-THM=NEG-ADN fool COP-ADV+RET-CCL",
-            "gloss-zh": "天气 也 （不）能 预测-不-的 愚者 是 了",
-            "gloss-morph-zh": "天气=IFO （不）能 预测-THM=NEG-ADN 愚者 COP-ADV+RET-CCL",
+            "gloss-morph": "weather=IFO POT predict-THM=NEG-ADN fool COP-ADV+RET-CCL",
+            "gloss-zh": "原来是个天气都预测不了的笨蛋",
+            "gloss-morph-zh": "天气=IFO POT 预测-THM=NEG-ADN 愚者 COP-ADV+RET-CCL",
             "words": [
               {
                 "word": "日",
@@ -24984,15 +24984,15 @@
                 "word": "も",
                 "gloss": "also",
                 "gloss-morph": "=IFO",
-                "gloss-zh": "也",
+                "gloss-zh": "都",
                 "gloss-morph-zh": "=IFO"
               },
               {
                 "word": "得",
                 "gloss": "impossible.AUX",
-                "gloss-morph": "(im)possible",
-                "gloss-zh": "(不）能",
-                "gloss-morph-zh": "（不）能"
+                "gloss-morph": "POT",
+                "gloss-zh": "能",
+                "gloss-morph-zh": "POT"
               },
               {
                 "word": "計ら",
@@ -25005,14 +25005,14 @@
                 "word": "ぬ",
                 "gloss": "NEG",
                 "gloss-morph": "=NEG-ADN",
-                "gloss-zh": "不-的",
+                "gloss-zh": "不...的",
                 "gloss-morph-zh": "=NEG-ADN"
               },
               {
                 "word": "かたゐ",
                 "gloss": "fool",
                 "gloss-morph": "fool",
-                "gloss-zh": "愚者",
+                "gloss-zh": "笨蛋",
                 "gloss-morph-zh": "愚者"
               },
               {
@@ -25026,7 +25026,7 @@
                 "word": "けり",
                 "gloss": "PST",
                 "gloss-morph": "+RET-CCL",
-                "gloss-zh": "了",
+                "gloss-zh": "",
                 "gloss-morph-zh": "+RET-CCL"
               }
             ]
@@ -25035,7 +25035,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "この楫取は、天候も予想できない愚か者であった。",
         "translation-en-natural": "This helmsman was a fool who could not even predict the weather.",
-        "translation-zh-natural": "这个船夫真是个连天气都预测不了的愚者。",
+        "translation-zh-natural": "这个船夫原来是个连天气都预测不了的笨蛋。",
         "notes-ja": [
           {
             "title": "オリジナルの校訂",
@@ -25063,27 +25063,27 @@
         "koutei-yamagen": "この泊の濱にはくさぐさの麗しき貝石など多かり。",
         "translation-ja": "この泊の浜には、さまざまのうるわしき貝、石などが多かった。",
         "translation-en": "On the beach of this harbor, there were many beautiful shells and stones.",
-        "translation-zh": "在此港的海滩，（有）许多美丽的贝壳、石头等。",
+        "translation-zh": "在这个泊口的海滩，美丽的贝壳、石头等很多。",
         "phrase-gloss": [
           {
             "phrase": "この泊の濱には",
             "gloss": "on the beach of this harbor",
             "gloss-morph": "DEM=GEN harbor=GEN beach=DAT=TOP",
-            "gloss-zh": "此 港 的 海滩 DAT TOP",
+            "gloss-zh": "这个泊口的海滩",
             "gloss-morph-zh": "DEM=GEN 港=GEN 海滩=DAT=TOP",
             "words": [
               {
                 "word": "この",
                 "gloss": "this",
                 "gloss-morph": "DEM=GEN",
-                "gloss-zh": "此",
+                "gloss-zh": "这个",
                 "gloss-morph-zh": "DEM=GEN"
               },
               {
                 "word": "泊",
                 "gloss": "harbor",
                 "gloss-morph": "harbor",
-                "gloss-zh": "港",
+                "gloss-zh": "泊口",
                 "gloss-morph-zh": "港"
               },
               {
@@ -25111,7 +25111,7 @@
                 "word": "は",
                 "gloss": "TOP",
                 "gloss-morph": "=TOP",
-                "gloss-zh": "TOP",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=TOP"
               }
             ]
@@ -25120,49 +25120,49 @@
             "phrase": "くさぐさの麗しき貝石など多かり。",
             "gloss": "(there were) many beautiful shells and stones.",
             "gloss-morph": "variety=GEN beautiful-ADN shells stones=EXE many-VBL-CCL",
-            "gloss-zh": "各样 的 美丽-的 贝壳 石头 等 多",
+            "gloss-zh": "各式各样美丽的贝壳和石头很多",
             "gloss-morph-zh": "各种=GEN 美丽-ADN 贝 石=EXE 多-VBL-CCL",
             "words": [
               {
                 "word": "くさぐさ",
                 "gloss": "various",
                 "gloss-morph": "variety",
-                "gloss-zh": "各样",
+                "gloss-zh": "各种各样",
                 "gloss-morph-zh": "各种"
               },
               {
                 "word": "の",
                 "gloss": "GEN",
                 "gloss-morph": "=GEN",
-                "gloss-zh": "的",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=GEN"
               },
               {
                 "word": "麗しき",
                 "gloss": "beautiful",
                 "gloss-morph": "beautiful-ADN",
-                "gloss-zh": "美丽-的",
+                "gloss-zh": "美丽的",
                 "gloss-morph-zh": "美丽-ADN"
               },
               {
                 "word": "貝石",
                 "gloss": "shells and stones",
                 "gloss-morph": "shells stones",
-                "gloss-zh": "贝壳 石头",
+                "gloss-zh": "贝壳和石头",
                 "gloss-morph-zh": "贝 石"
               },
               {
                 "word": "など",
                 "gloss": "etc.",
                 "gloss-morph": "=EXE",
-                "gloss-zh": "等",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=EXE"
               },
               {
                 "word": "多かり",
                 "gloss": "many",
                 "gloss-morph": "many-VBL-CCL",
-                "gloss-zh": "多",
+                "gloss-zh": "很多",
                 "gloss-morph-zh": "多-VBL-CCL"
               }
             ]
@@ -25171,7 +25171,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "この泊の浜には、さまざまの美しい貝や石などが多かった。",
         "translation-en-natural": "On the beach of this harbor, there were many beautiful shells and stones.",
-        "translation-zh-natural": "在这个港口的海滩上，有许多美丽的贝壳和石头。"
+        "translation-zh-natural": "在这个泊口的海滩上有许多美丽的贝壳和石头。"
       },
       {
         "date": "20250512",
@@ -25186,22 +25186,22 @@
           {
             "phrase": "かゝれば",
             "gloss": "therefore",
-            "gloss-morph": "Thus-VBL-INC=XCD",
+            "gloss-morph": "thus.VBL-INC=XCD",
             "gloss-zh": "因此",
-            "gloss-morph-zh": "此般-VBL-INC=XCD",
+            "gloss-morph-zh": "此般.VBL-INC=XCD",
             "words": [
               {
                 "word": "かゝれ",
                 "gloss": "therefore",
-                "gloss-morph": "Thus-VBL-INC",
+                "gloss-morph": "Thus.VBL-INC",
                 "gloss-zh": "这样",
-                "gloss-morph-zh": "此般-VBL-INC"
+                "gloss-morph-zh": "此般.VBL-INC"
               },
               {
                 "word": "ば",
                 "gloss": "COND",
                 "gloss-morph": "=XCD",
-                "gloss-zh": "因此",
+                "gloss-zh": "因为",
                 "gloss-morph-zh": "=XCD"
               }
             ]
@@ -25210,7 +25210,7 @@
             "phrase": "唯昔の人をのみ戀ひつゝ",
             "gloss": "only the person of old is longed for",
             "gloss-morph": "only past=GEN person=ACC=ISO be.long.for-ADV=ITR",
-            "gloss-zh": "只 过去 的 人 ACC 仅 怀念 同时",
+            "gloss-zh": "仅仅只是怀念过去之人",
             "gloss-morph-zh": "只 过去=GEN 人=ACC=ISO 怀念-ADV=ITR",
             "words": [
               {
@@ -25231,7 +25231,7 @@
                 "word": "の",
                 "gloss": "GEN",
                 "gloss-morph": "=GEN",
-                "gloss-zh": "的",
+                "gloss-zh": "之",
                 "gloss-morph-zh": "=GEN"
               },
               {
@@ -25245,14 +25245,14 @@
                 "word": "を",
                 "gloss": "ACC",
                 "gloss-morph": "=ACC",
-                "gloss-zh": "ACC",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=ACC"
               },
               {
                 "word": "のみ",
                 "gloss": "only",
                 "gloss-morph": "=ISO",
-                "gloss-zh": "仅",
+                "gloss-zh": "仅仅",
                 "gloss-morph-zh": "=ISO"
               },
               {
@@ -25266,7 +25266,7 @@
                 "word": "つゝ",
                 "gloss": "while",
                 "gloss-morph": "=ITR",
-                "gloss-zh": "同时",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=ITR"
               }
             ]
@@ -25274,23 +25274,23 @@
           {
             "phrase": "船なる人の詠める、",
             "gloss": "the person on the ship composed,",
-            "gloss-morph": "ship COP-ADN person=GEN compose-INC+STA-ADN.NL",
-            "gloss-zh": "船 的 人 所 咏-的",
-            "gloss-morph-zh": "船 COP-ADN 人=GEN 咏-INC+STA-ADN.NL",
+            "gloss-morph": "ship=COP-ADN person=GEN compose-INC+STA-ADN.NL",
+            "gloss-zh": "船中之人所咏",
+            "gloss-morph-zh": "船=COP-ADN 人=GEN 咏-INC+STA-ADN.NL",
             "words": [
               {
                 "word": "船",
                 "gloss": "ship",
                 "gloss-morph": "ship",
-                "gloss-zh": "船",
+                "gloss-zh": "船中",
                 "gloss-morph-zh": "船"
               },
               {
                 "word": "なる",
                 "gloss": "to be",
-                "gloss-morph": "COP-ADN",
-                "gloss-zh": "的",
-                "gloss-morph-zh": "COP-ADN"
+                "gloss-morph": "=COP-ADN",
+                "gloss-zh": "之",
+                "gloss-morph-zh": "=COP-ADN"
               },
               {
                 "word": "人",
@@ -25303,7 +25303,7 @@
                 "word": "の",
                 "gloss": "GEN",
                 "gloss-morph": "=GEN",
-                "gloss-zh": "的",
+                "gloss-zh": "所",
                 "gloss-morph-zh": "=GEN"
               },
               {
@@ -25317,7 +25317,7 @@
                 "word": "る",
                 "gloss": "PST",
                 "gloss-morph": "+STA-ADN.NL",
-                "gloss-zh": "了",
+                "gloss-zh": "的",
                 "gloss-morph-zh": "+STA-ADN.NL"
               }
             ]
@@ -25326,7 +25326,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "だから、ただ昔の人をのみ恋ひつつ、船にいる人が詠んだ歌は、",
         "translation-en-natural": "Therefore, only the person in the past is longed for, the person on the ship who composed this poem,",
-        "translation-zh-natural": "于是，单纯只是怀念着过去之人，船上的那个人吟诵了一首和歌，",
+        "translation-zh-natural": "因为这样单纯只是怀念着过去之人，船上的那个人吟诵了一首和歌：",
         "notes-ja": [
           {
             "title": "昔の人",
@@ -25354,21 +25354,21 @@
         "koutei-yamagen": "よする浪うちも寄せなむわが戀ふる人わすれ貝おりてひろはむ",
         "translation-ja": "寄せる波よ、打ち寄せてくれたらよいな、私が恋い慕う人を忘れさせてくれる忘れ貝を。そうしたら、下りて拾おう。",
         "translation-en": "Waves that come to shore, if you would just wash up the forgetful shell that lets me forget the person I love, then I will get down and pick it up.",
-        "translation-zh": "涌来的波浪/拍打着涌来吧/我所怀念的/人，忘却（他）的贝壳/下去捡起吧",
+        "translation-zh": "涌来的波浪/涌来吧/我所怀念的/人，忘却（他）的贝壳/下去捡起吧",
         "phrase-gloss": [
           {
             "phrase": "よする浪うちも寄せなむ",
             "gloss": "waves that come to shore, if you would just wash up",
             "gloss-morph": "come.to.shore-ADN waves hit-ADV=IFO come.to.shore-THM=DES",
-            "gloss-zh": "涌来-的 浪 打（强调） 也 涌来 希望",
+            "gloss-zh": "涌来的波浪，涌来吧",
             "gloss-morph-zh": "涌来-ADN 浪 打-ADV=IFO 涌来-THM=DES",
             "words": [
               {
                 "word": "よする",
                 "gloss": "to come to shore",
                 "gloss-morph": "come.to.shore-ADN",
-                "gloss-zh": "涌来-的",
-                "gloss-morph-zh": "涌来-ADN"
+                "gloss-zh": "涌来的",
+                "gloss-morph-zh": "靠近-ADN"
               },
               {
                 "word": "浪",
@@ -25388,7 +25388,7 @@
                 "word": "も",
                 "gloss": "also",
                 "gloss-morph": "=IFO",
-                "gloss-zh": "也",
+                "gloss-zh": "",
                 "gloss-morph-zh": "=IFO"
               },
               {
@@ -25396,13 +25396,13 @@
                 "gloss": "to wash up",
                 "gloss-morph": "come.to.shore-THM",
                 "gloss-zh": "涌来",
-                "gloss-morph-zh": "涌来-THM"
+                "gloss-morph-zh": "靠近-THM"
               },
               {
                 "word": "なむ",
                 "gloss": "HORT",
                 "gloss-morph": "=DES",
-                "gloss-zh": "希望",
+                "gloss-zh": "吧",
                 "gloss-morph-zh": "=DES"
               }
             ]
@@ -25410,22 +25410,22 @@
           {
             "phrase": "わが戀ふる人わすれ貝おりてひろはむ",
             "gloss": "(the) forgetful shell that lets me forget the person I love",
-            "gloss-morph": "my=GEN love-ADN person forget-NML+shell get.down-ADV=SEQ pick.up-THM=CJT",
-            "gloss-zh": "我 的 怀念-的 人 忘情贝 下去 捡 吧",
-            "gloss-morph-zh": "我=GEN 怀念-ADN 人 忘-NML+贝 下去-ADV=SEQ 捡起-THM=CJT",
+            "gloss-morph": "my=GEN love-ADN person forget-NML+shell get.down-ADV=SEQ pick.up-THM+CJT-CCL",
+            "gloss-zh": "让我下去捡拾用来忘记我所怀念之人的忘情贝吧",
+            "gloss-morph-zh": "我=GEN 怀念-ADN 人 忘-NML+贝 下去-ADV=SEQ 拾-THM+CJT-CCL",
             "words": [
               {
                 "word": "わが",
                 "gloss": "my",
                 "gloss-morph": "my=GEN",
-                "gloss-zh": "我 的",
+                "gloss-zh": "我所",
                 "gloss-morph-zh": "我=GEN"
               },
               {
                 "word": "戀ふる",
                 "gloss": "I love.ATTR",
                 "gloss-morph": "love-ADN",
-                "gloss-zh": "怀念-的",
+                "gloss-zh": "怀念的",
                 "gloss-morph-zh": "怀念-ADN"
               },
               {
@@ -25453,15 +25453,15 @@
                 "word": "ひろは",
                 "gloss": "to pick up",
                 "gloss-morph": "pick.up-THM",
-                "gloss-zh": "捡起",
-                "gloss-morph-zh": "捡起-THM"
+                "gloss-zh": "捡拾",
+                "gloss-morph-zh": "拾-THM"
               },
               {
                 "word": "む",
                 "gloss": "FUT",
-                "gloss-morph": "=CJT",
+                "gloss-morph": "+CJT-CCL",
                 "gloss-zh": "吧",
-                "gloss-morph-zh": "=CJT"
+                "gloss-morph-zh": "+CJT-CCL"
               }
             ]
           }
@@ -25469,7 +25469,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "寄せてくる波よ、どうか、私が恋い慕うあの人を忘れさせてくれるという忘れ貝を打ち上げておくれ。そしたら、私は船から降りて、それを拾うから。",
         "translation-en-natural": "Waves that come to shore—please, bring me the forgetful shell said to make one forget the person they love. If you do, I'll get off this boat and pick it up myself.",
-        "translation-zh-natural": "涌来的波浪、请拍打着涌来，带来让我忘记怀念之人的忘情贝吧。（这样的话）我就下船去捡起它们。",
+        "translation-zh-natural": "“涌来的波浪啊，请拍打着涌来吧。（那样）我就会下船捡起（你带来的）让我忘记怀念之人的忘情贝。”",
         "notes-ja": [
           {
             "title": "語りかけの対象",
