@@ -9245,26 +9245,143 @@
         "translation-en-natural": "Everyone was surprised, \"That's amazing."
       },
       {
-        "date": "20250225",
+        "date": [
+          20250225,
+          20251018
+        ],
         "id": 102,
         "text": "よみてむやは。",
         "kana": "よみてむやは。",
         "koutei-yamagen": "詠みてむやは。",
-        "translation-ja": "詠んでみようか。",
-        "translation-en": "Will you try reciting?",
-        "translation-ja-natural": "詠んでみようか。",
-        "translation-en-natural": "Will you try reciting?"
+        "translation-ja": "詠むだろうか。",
+        "translation-en": "Will she recite?",
+        "phrase-gloss": [
+          {
+            "phrase": "よみてむやは。",
+            "gloss": "compose CONJ FUT Q TOP",
+            "words": [
+              {
+                "word": "よみ",
+                "gloss": "compose.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "詠めるかな。",
+        "translation-en-natural": "Will she try reciting?",
+        "notes-ja": [
+          {
+            "title": "「やは」の用法",
+            "note": "「やは」は疑問の係助詞「や」と、係助詞「は」が結びついたもので、疑問を強調する働きを持つ。ここでは、「詠みてむやは」は「詠むだろうか」という意味になる。一般的に「やは」「かは」が反語と決めつけられることが多い。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Usage of 'やは'",
+            "note": "'やは' is a combination of the interrogative particle 'や' and the topic particle 'は', which serves to emphasize a question. Here, '詠みてむやは' means 'Will she recite?'. It is often assumed that 'やは' and 'かは' are used for rhetorical questions."
+          }
+        ]
       },
       {
-        "date": "20250225",
+        "date": [
+          20250225,
+          20251020
+        ],
         "id": 103,
-        "text": "詠みつべくばはやいへかし」といふ（にイ有）。",
+        "text": "詠みつべくばはやいへかし」といふ。",
         "kana": "よみつべくばはやいへかし」といふ。",
         "koutei-yamagen": "詠みつべくば、早いへかし」と言ふ。",
-        "translation-ja": "「詠むのなら、早く言いなさい」と言う。",
-        "translation-en": "He says, \"If you are going to recite, say it quickly.\"",
-        "translation-ja-natural": "詠むなら、早く言ってごらん」と促しました。",
-        "translation-en-natural": "He encouraged, \"If you're going to recite, go ahead and say it.\""
+        "translation-ja": "「詠み終えることができるなら」と言う。",
+        "translation-en": "He says, 'If you can really finish composing, then say it quickly.'",
+        "phrase-gloss": [
+          {
+            "phrase": "詠みつべくば、",
+            "gloss": "compose-POT-CONJ",
+            "words": [
+              {
+                "word": "詠み",
+                "gloss": "compose.ADV"
+              },
+              {
+                "word": "つ",
+                "gloss": "PERF.END"
+              },
+              {
+                "word": "べく",
+                "gloss": "SUP.ADV"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "早いへかし」と言ふ。",
+            "gloss": "quickly say-IMP' say",
+            "words": [
+              {
+                "word": "早",
+                "gloss": "quickly"
+              },
+              {
+                "word": "いへ",
+                "gloss": "say.IMPER"
+              },
+              {
+                "word": "かし",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "言ふ",
+                "gloss": "say.END"
+              }
+            ]
+          }
+        ],
+        "translation-ja-natural": "詠んだなら、早く言ってごらん」と囃す。",
+        "translation-en-natural": "He encourages, \"If you've composed it, say it quickly.\"",
+        "notes-ja": [
+          {
+            "title": "オリジナル",
+            "note": "詠みつべくばはやいへかし」といふ（にイ有）。"
+          },
+          {
+            "title": "といふ（にイ有）",
+            "note": "校異「というに」であるから、「というと」の続きが省略もしくは、次の行にそのまま続くことを示している。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Original",
+            "note": "詠みつべくばはやいへかし」といふ（にイ有）。"
+          },
+          {
+            "title": "'といふ（にイ有）'",
+            "note": "The variant reading 'というに' indicates that the continuation of 'というと' is either omitted or continues directly in the next line."
+          }
+        ]
       },
       {
         "date": "20250225",
