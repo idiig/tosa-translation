@@ -13093,46 +13093,281 @@
         "translation-zh-natural": "这个人当时有想要咏歌一曲的心情。"
       },
       {
-        "date": "20250220",
+        "date": [
+          20250220,
+          20251007
+        ],
         "id": 91,
         "text": "とかくいひいひて浪の立つなることゝ憂へいひて詠める歌、",
         "kana": "とかくいひいひてなみのたつなることとうへいひてうためるうた、",
         "koutei-yamagen": "とかくいひいひて、浪の立つなることと憂へいひて、詠める歌、",
         "translation-ja": "とかく言い言いして、波が立つということを憂えて言って詠んだ歌、",
         "translation-en": "Saying various things and lamenting that the waves are rising, the poem that was composed.",
-        "translation-zh": "说着这般那般，（一边）担心说着波浪起伏之事，吟咏的和歌，",
+	"translation-zh": "说着这般那般，（一边）担心说着波浪起伏之事，吟咏的和歌，",
+        "phrase-gloss": [
+          {
+            "phrase": "とかくいひいひて",
+            "gloss": "various say-and",
+            "words": [
+              {
+                "word": "とかく",
+                "gloss": "various"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "浪の立つなることと憂へいひて",
+            "gloss": "waves-GEN rise-ATTR thing-QUOT worry-say-and",
+            "words": [
+              {
+                "word": "浪",
+                "gloss": "waves"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "立つ",
+                "gloss": "rise.ATTR"
+              },
+              {
+                "word": "なる",
+                "gloss": "be.ATTR"
+              },
+              {
+                "word": "こと",
+                "gloss": "thing"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "憂へ",
+                "gloss": "worry.ADV"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "詠める歌、",
+            "gloss": "compose-PERF poem",
+            "words": [
+              {
+                "word": "詠め",
+                "gloss": "compose.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              }
+            ]
+          }
+        ],
+	"glossary-abbreviations": null,
         "translation-ja-natural": "あれこれと言いながら、波が立つことを心配して詠んだ歌。",
         "translation-en-natural": "Talking about various things and worrying about the rising waves, a poem was composed.",
         "translation-zh-natural": "一边说着这般那般，一边担心说着波浪起伏的事，吟咏的和歌，"
       },
       {
-        "date": "20250222",
+        "date": [
+          20250222,
+          20251008
+        ],
         "id": 92,
-        "text": "「ゆくさきにたつ白浪の聲よりもおくれて泣かむわれやまさらむ」",
-        "kana": "ゆくさきにたつしらなみのこゑよりもおくれてなかむわれやまさらむ",
+        "text": "ゆくさきに/たつ白浪の/聲よりも/おくれて泣かむ/われやまさらむ",
+        "kana": "ゆくさきに/たつしらなみの/こゑよりも/おくれてなかむ/われやまさらむ",
         "koutei-yamagen": "ゆく先に立つ白浪の声よりも遅れて泣かむ我やまさらむ。",
-        "translation-ja": "行く先に立つ白波の声よりも、遅れて泣くだろう私の声が勝るのだろうか。",
+        "translation-ja": "行く先に立つ白波の声よりも、遅れて泣くだろう私が勝るだろうか。",
         "translation-en": "Ahead on the path, rising white waves' sound rather than, belatedly shall cry, my voice will surpass?",
-        "translation-zh": "在前方/起伏的白浪的/声音，相比（它）/迟来哭泣的/我的声音更胜一筹吧",
+	"translation-zh": "在前方/起伏的白浪的/声音，相比（它）/迟来哭泣的/我的声音更胜一筹吧",
+        "phrase-gloss": [
+          {
+            "phrase": "ゆくさきに",
+            "gloss": "going.ahead-LOC",
+            "words": [
+              {
+                "word": "ゆく",
+                "gloss": "go.ATTR"
+              },
+              {
+                "word": "さき",
+                "gloss": "ahead"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "たつ白浪の",
+            "gloss": "rise white.waves-GEN",
+            "words": [
+              {
+                "word": "たつ",
+                "gloss": "rise.ATTR"
+              },
+              {
+                "word": "白浪",
+                "gloss": "white.waves"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "聲よりも",
+            "gloss": "voice than-also",
+            "words": [
+              {
+                "word": "聲",
+                "gloss": "voice"
+              },
+              {
+                "word": "より",
+                "gloss": "than"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              }
+            ]
+          },
+          {
+            "phrase": "おくれて泣かむ",
+            "gloss": "belatedly cry-POT",
+            "words": [
+              {
+                "word": "おくれ",
+                "gloss": "belatedly.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "泣か",
+                "gloss": "cry.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              }
+            ]
+          },
+          {
+            "phrase": "われやまさらむ",
+            "gloss": "I-FOC even.surpass-POT",
+            "words": [
+              {
+                "word": "われ",
+                "gloss": "I"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "まさら",
+                "gloss": "surpass.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "行く先に立つ白波の音よりも、遅れて泣く私の声のほうが大きくなるのだろうか。",
         "translation-en-natural": "Will my belated cries be louder than the sound of the white waves rising ahead on my path?",
         "translation-zh-natural": "在前方起伏的白浪的声音之上，我迟来的哭声会更响亮吗？"
       },
       {
-        "date": "20250223",
+        "date": [
+          20250223,
+          20251009
+        ],
         "id": 93,
-        "text": "とぞ（ぞイ無）詠める。",
+        "text": "とぞ詠める。",
         "kana": "とぞよめる。",
         "koutei-yamagen": "とぞ詠める。",
         "translation-ja": "と詠んだ。",
         "translation-en": "And so it was composed.",
-        "translation-zh": "吟咏道。",
-        "translation-ja-natural": "と詠みました。",
+	"translation-zh": "吟咏道。",
+        "phrase-gloss": [
+          {
+            "phrase": "とぞ詠める。",
+            "gloss": "QUOT-EMPH compose-PERF",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "詠め",
+                "gloss": "compose.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "と詠んだ。",
         "translation-en-natural": "And so it was composed.",
-        "translation-zh-natural": "那个人吟咏道。"
+	"translation-zh-natural": "那个人吟咏道。",
+        "notes-ja": [
+          {
+            "title": "オリジナルの表記",
+            "note": "とぞ（ぞイ無）詠める。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Original Notation",
+            "note": "とぞ（ぞイ無）詠める。"
+          }
+        ]
       },
       {
-        "date": "20250223",
+        "date": [
+          20250223,
+          20251010
+        ],
         "id": 94,
         "text": "いと大聲なるべし。",
         "kana": "いとおほごへなるべし。",
@@ -13140,35 +13375,195 @@
         "translation-ja": "とても大きな声で詠まれたに違いない。",
         "translation-en": "It was surely composed with a very loud voice.",
         "translation-zh": "应该是非常大声的。",
+        "phrase-gloss": [
+          {
+            "phrase": "いと大聲なるべし。",
+            "gloss": "very loud.voice be-POT",
+            "words": [
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "大聲",
+                "gloss": "loud.voice"
+              },
+              {
+                "word": "なる",
+                "gloss": "be.ATTR"
+              },
+              {
+                "word": "べし",
+                "gloss": "POT",
+                "note": "Q: Is 'べし' noted as potential form?\nA: Yes, 'べし' is indeed the potential form in classical Japanese, indicating possibility or conjecture.\nQ: Should it be translated as 'must have been' or 'probably was'?\nA: It can be translated as 'must have been' to convey a strong conjecture about the past event."
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "きっとものすごく大きな声だったことだろう。",
         "translation-en-natural": "It must have been an incredibly loud voice.",
         "translation-zh-natural": "当时他应该是非常大声咏唱的。"
       },
       {
-        "date": "20250223",
+        "date": [
+          20250223,
+          20251011
+        ],
         "id": 95,
         "text": "持てきたる物より歌はいかゞあらむ。",
         "kana": "もてきたるものよりうたはいかがあらむ。",
         "koutei-yamagen": "持てきたる物より歌はいかがあらむ。",
         "translation-ja": "持ってきた物と比べて、歌はどうであろうか。",
         "translation-en": "Compared to the things brought, how is the song?",
-        "translation-zh": "比起带来的物品，歌如何呢？",
-        "translation-ja-natural": "持ってきた物に比べて、この歌はどうでしょうか。",
+	"translation-zh": "比起带来的物品，歌如何呢？",
+        "phrase-gloss": [
+          {
+            "phrase": "持てきたる物より",
+            "gloss": "bring-PERF items-than",
+            "words": [
+              {
+                "word": "持て",
+                "gloss": "bring.ADV"
+              },
+              {
+                "word": "き",
+                "gloss": "come.ADV"
+              },
+              {
+                "word": "たる",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "物",
+                "gloss": "items"
+              },
+              {
+                "word": "より",
+                "gloss": "than"
+              }
+            ]
+          },
+          {
+            "phrase": "歌はいかがあらむ。",
+            "gloss": "poem-TOP how be-POT",
+            "words": [
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "いかが",
+                "gloss": "how"
+              },
+              {
+                "word": "あら",
+                "gloss": "be.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "POT"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "持ってきた物に比べて、この歌はどうだろうか。",
         "translation-en-natural": "How does this song compare to the things that were brought?",
         "translation-zh-natural": "与带来的物品相比，这首歌如何呢？"
       },
       {
-        "date": "20250223",
+        "date": [
+          20250223,
+          20251012
+        ],
         "id": 96,
         "text": "この歌を此彼あはれがれども一人も返しせず。",
         "kana": "このうたをこのかれあはれがれどもひとりもかへしせず。",
         "koutei-yamagen": "この歌を此彼あはれがれども、一人も返しせず。",
-        "translation-ja": "この歌を、あの人もこの人も褒めたが、一人も返歌をしなかった。",
-        "translation-en": "Though both this person and that person praised this song, not one composed a reply.",
-        "translation-zh": "这首歌，那个这个都感动，但一个人也没返歌。",
-        "translation-ja-natural": "この歌をみんなが褒めはしましたが、誰ひとり返歌をしませんでした。",
-        "translation-en-natural": "Everyone praised the song, but no one composed a reply.",
-        "translation-zh-natural": "大家都为此歌感动，但一个人也没有回歌。",
+        "translation-ja": "この歌を、あの人もこの人も褒めたが、一人も返歌をしない。",
+        "translation-en": "Though both this person and that person praised this song, not one composes a reply.",
+	"translation-zh": "这首歌，那个这个都感动，但一个人也没返歌。",
+        "phrase-gloss": [
+          {
+            "phrase": "この歌を",
+            "gloss": "this song-ACC",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "歌",
+                "gloss": "song"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              }
+            ]
+          },
+          {
+            "phrase": "此彼あはれがれども、",
+            "gloss": "this.that pity-CONJ",
+            "words": [
+              {
+                "word": "此",
+                "gloss": "this"
+              },
+              {
+                "word": "彼",
+                "gloss": "that"
+              },
+              {
+                "word": "あはれ",
+                "gloss": "pity.VN"
+              },
+              {
+                "word": "がれ",
+                "gloss": "APPR.REALIS"
+              },
+              {
+                "word": "ども",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "一人も返しせず。",
+            "gloss": "one.person even reply-NEG",
+            "words": [
+              {
+                "word": "一人",
+                "gloss": "one.person"
+              },
+              {
+                "word": "も",
+                "gloss": "even"
+              },
+              {
+                "word": "返し",
+                "gloss": "reply.VN"
+              },
+              {
+                "word": "せ",
+                "gloss": "do.REALIS"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "この歌をみんなが褒めはしたが、誰ひとり返歌をしない。",
+        "translation-en-natural": "Everyone praised the song, but no one composes a reply.",
+	"translation-zh-natural": "大家都为此歌感动，但一个人也没有回歌。",
         "notes-ja": {
           "返歌のない和歌のやりとり": "かわいそうな歌のやりとりですね。「すごいすごい」と褒めるだけ褒めておいて、誰も返歌をしないなんて、ちょっと冷たい感じもしますね。形式的に称賛はするものの、実際にはそれほど興味を持たれていなかったのか、あるいは返歌をするのが難しかったのかもしれません。",
           "貫之の観察眼": "歌のやりとりが重視される時代だっただけに、ちょっと寂しい場面です。歌よりも酒や食べ物の方が重要ですね。その皆の反応を貫之が見逃さなかったんですね。貫之はこうした細かい人々の反応をしっかり観察し、記録に残しているのが面白い。",
@@ -13185,95 +13580,540 @@
         }
       },
       {
-        "date": "20250224",
+        "date": [
+          20250224,
+          20251013
+        ],
         "id": 97,
         "text": "しつべき人も交れゝどこれをのみいたがり物をのみくひて夜更けぬ。",
         "kana": "しつべきひともまじれれどこれをのみいたがりものをのみくひてよふけぬ。",
         "koutei-yamagen": "しつべき人も交れれど、これをのみいたがり、物をのみ喰ひて夜更けぬ。",
         "translation-ja": "然るべき人も交じっていたが、その人もこの歌をほめるばかりで、食べ物ばかり食べて、夜が更けてしまった。",
         "translation-en": "Even the appropriate person was present, but that person only praised this song, ate only food, and the night grew late.",
-        "translation-zh": "虽有本已做（返歌）的人在场，但只是大赞此歌，只是饮食着东西，夜已深。",
+	"translation-zh": "虽有本已做（返歌）的人在场，但只是大赞此歌，只是饮食着东西，夜已深。",
+        "phrase-gloss": [
+          {
+            "phrase": "しつべき人も交れれど、",
+            "gloss": "appropriate.person even mingle-CONJ",
+            "words": [
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "つ",
+                "gloss": "PERF.END"
+              },
+              {
+                "word": "べき",
+                "gloss": "SUP.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "も",
+                "gloss": "even"
+              },
+              {
+                "word": "交れ",
+                "gloss": "mingle.REALIS"
+              },
+              {
+                "word": "れ",
+                "gloss": "PERF.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "これをのみいたがり、",
+            "gloss": "this-ACC only.drink-desire",
+            "words": [
+              {
+                "word": "これ",
+                "gloss": "this"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "のみ",
+                "gloss": "only"
+              },
+              {
+                "word": "いた",
+                "gloss": "desire.VN"
+              },
+              {
+                "word": "がり",
+                "gloss": "APPR.ADV"
+              }
+            ]
+          },
+          {
+            "phrase": "物をのみ喰ひて夜更けぬ。",
+            "gloss": "things-ACC only.eat-and night.late-NEG",
+            "words": [
+              {
+                "word": "物",
+                "gloss": "things"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "のみ",
+                "gloss": "drink.ADV"
+              },
+              {
+                "word": "喰ひ",
+                "gloss": "eat.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "夜更け",
+                "gloss": "night.late.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "当然、返歌をすべき人もいたが、その人もこの歌をただほめるばかりで、食べてばかりいるうちに夜が更けてしまった。",
         "translation-en-natural": "Naturally, there were also those who should have composed a response, but they only kept praising the song, eating all the while, until the night grew late.",
         "translation-zh-natural": "虽然也有本已返歌的人在场，但他们只是大赞这首和歌，一边吃喝着东西，直到夜深了。"
       },
       {
-        "date": "20250224",
+        "date": [
+          20250224,
+          20251014
+        ],
         "id": 98,
         "text": "この歌ぬしなむ「またまからず」といひてたちぬ。",
         "kana": "このうたぬしなむまたまからずといひてたちぬ。",
         "koutei-yamagen": "この歌主なむ、「またまからず」と言ひて立ちぬ。",
-        "translation-ja": "この歌の詠み手は、「まだ帰らない」と言って立ちあがった。",
+        "translation-ja": "この歌の主は、「まだ帰らない」と言って立った。",
         "translation-en": "The composer of this poem said, 'I am not going back yet,' and stood up.",
-        "translation-zh": "此歌作者道：“还不回”，站了起来。",
+	"translation-zh": "此歌作者道：“还不回”，站了起来。",
+        "phrase-gloss": [
+          {
+            "phrase": "この歌主なむ、",
+            "gloss": "this poem.composer-FOC",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "歌主",
+                "gloss": "poem.composer"
+              },
+              {
+                "word": "なむ",
+                "gloss": "FOC"
+              }
+            ]
+          },
+          {
+            "phrase": "「まだまからず」と言ひて立ちぬ。",
+            "gloss": "'not.yet leave-NEG' say-and stand-PERF",
+            "words": [
+              {
+                "word": "まだ",
+                "gloss": "not.yet"
+              },
+              {
+                "word": "まから",
+                "gloss": "leave.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "言ひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "立ち",
+                "gloss": "stand.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "歌の詠み手は、「まだ帰らないよ」と言って立ちあがった。",
         "translation-en-natural": "The poet said, 'I'm not leaving yet,' and stood up.",
         "translation-zh-natural": "这首歌的作者说：“还不回去呢”，站了起来。"
       },
       {
-        "date": "20250225",
+        "date": [
+          20250225,
+          20251014
+        ],
         "id": 99,
         "text": "ある人の子の童なる密にいふ。",
         "kana": "あるひとのこのわらわなるひそかにいふ",
         "koutei-yamagen": "ある人の子の童なる密かに言ふ。",
         "translation-ja": "ある人の子供が、こっそり言う。",
         "translation-en": "A child of a certain person says secretly.",
-        "translation-zh": "是某人的孩子。悄悄地说。",
-        "translation-ja-natural": "ある人の子供が、こっそり言いました。",
+	"translation-zh": "是某人的孩子。悄悄地说。",
+        "phrase-gloss": [
+          {
+            "phrase": "ある人の子の童なる",
+            "gloss": "certain.person-GEN child-GEN child.be-ATTR",
+            "words": [
+              {
+                "word": "ある",
+                "gloss": "certain"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "子",
+                "gloss": "child"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN.apposition"
+              },
+              {
+                "word": "童",
+                "gloss": "child"
+              },
+              {
+                "word": "なる",
+                "gloss": "be.ATTR"
+              }
+            ]
+          },
+          {
+            "phrase": "密かに言ふ。",
+            "gloss": "secretly say",
+            "words": [
+              {
+                "word": "密かに",
+                "gloss": "secretly.ADV"
+              },
+              {
+                "word": "言ふ",
+                "gloss": "say.END"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "ある人の子供が、こっそり言った。",
         "translation-en-natural": "A child of a certain person said secretly.",
-        "translation-zh-natural": "某人的孩子悄悄地说。"
+	"translation-zh-natural": "某人的孩子悄悄地说。",
+        "notes-ja": [
+          {
+            "title": "「の」の同格用法",
+            "note": "「ある人の子の童なる」の「の」は、同格を示す用法です。つまり、「ある人の子である童」という意味。松村明編『古語辞典』：「AのB」構文の一種として「同格属格」を認める。橋本進吉『国文法体系』第5章：「の」は格助詞であり、同格的「の」も属格構文の中の意味的変種。時枝誠記『国語学原論』：助詞の機能は「関係表示」であり、同格は意味的派生。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "'の' as an Appositive Marker",
+            "note": "In the phrase 'ある人の子の童なる', the particle 'の' is used to indicate apposition, meaning 'a child who is the offspring of a certain person.' According to Akira Matsumura's 'Kogo Jiten', this is recognized as a type of the 'AのB' construction known as 'appositive genitive'. In Shinkichi Hashimoto's 'Kokubunpo taikei', chapter 5, 'の' is a case particle, and the appositive 'の' is considered a semantic variant within genitive constructions. Motoki Tokieda's 'Kokugogaku Genron' states that the function of particles is 'indication of relationships', and apposition can be considered as a semantic derivation."
+          }
+        ]
       },
       {
-        "date": "20250225",
+        "date": [
+          20250225,
+          20251016
+        ],
         "id": 100,
         "text": "「まろこの歌の返しせむ」といふ。",
         "kana": "「まろこのうたのかへしせむ」といふ。",
         "koutei-yamagen": "「まろこの歌の返しせむ」と言ふ。",
         "translation-ja": "「まろ、この歌に返歌しよう」と言う。",
         "translation-en": "Maro says, \"I will compose a reply to this song.\"",
-        "translation-zh": "说道：“麻吕来做此歌的返歌。”",
+	"translation-zh": "说道：“麻吕来做此歌的返歌。”",
+        "phrase-gloss": [
+          {
+            "phrase": "まろこの歌の",
+            "gloss": "Maro-this poem-GEN",
+            "words": [
+              {
+                "word": "まろ",
+                "gloss": "I/myself"
+              },
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "返しせむ」と言ふ。",
+            "gloss": "reply-DO-FUT' say",
+            "words": [
+              {
+                "word": "返し",
+                "gloss": "reply.VN"
+              },
+              {
+                "word": "せ",
+                "gloss": "do.REALIS"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "言ふ",
+                "gloss": "say.END"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "「あたしがこの返歌、しちゃだめ」と言いました。",
         "translation-en-natural": "Maro said, \"I will compose a reply to this song.\"",
         "translation-zh-natural": "他说道：“麻吕来做这首歌的返歌。”"
       },
       {
-        "date": "20250225",
+        "date": [
+          20250225,
+          20251017
+        ],
         "id": 101,
         "text": "驚きて「いとをかしきことかな。",
         "kana": "おどろきて「いとをかしきことかな。",
         "koutei-yamagen": "驚きて、「いとをかしきことかな。",
         "translation-ja": "驚いて、「とても素晴らしいことだな。",
         "translation-en": "Surprised, \"That is a very wonderful thing.'",
-        "translation-zh": "惊道：“非常有趣之事哉。",
+	"translation-zh": "惊道：“非常有趣之事哉。",
+        "phrase-gloss": [
+          {
+            "phrase": "驚きて、",
+            "gloss": "be.surprised-and",
+            "words": [
+              {
+                "word": "驚き",
+                "gloss": "be.surprised.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "「いとをかしきことかな。",
+            "gloss": "'very interesting.ATTR thing Q",
+            "words": [
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "をかしき",
+                "gloss": "interesting.ATTR"
+              },
+              {
+                "word": "こと",
+                "gloss": "thing"
+              },
+              {
+                "word": "かな",
+                "gloss": "Q"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "みんな驚いて、「それはすごい。",
         "translation-en-natural": "Everyone was surprised, \"That's amazing.",
         "translation-zh-natural": "大家都惊讶地说：“真是太有趣了。”"
       },
       {
-        "date": "20250225",
+        "date": [
+          20250225,
+          20251018
+        ],
         "id": 102,
         "text": "よみてむやは。",
         "kana": "よみてむやは。",
         "koutei-yamagen": "詠みてむやは。",
-        "translation-ja": "詠んでみようか。",
-        "translation-en": "Will you try reciting?",
-        "translation-zh": "吟咏试试如何？",
-        "translation-ja-natural": "詠んでみようか。",
-        "translation-en-natural": "Will you try reciting?",
-        "translation-zh-natural": "你要试着吟咏吗？"
+        "translation-ja": "詠むだろうか。",
+        "translation-en": "Will she recite?",
+	"translation-zh": "吟咏试试如何？",
+        "phrase-gloss": [
+          {
+            "phrase": "よみてむやは。",
+            "gloss": "compose CONJ FUT Q TOP",
+            "words": [
+              {
+                "word": "よみ",
+                "gloss": "compose.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "詠めるかな。",
+        "translation-en-natural": "Will she try reciting?",
+	"translation-zh-natural": "你要试着吟咏吗？",
+        "notes-ja": [
+          {
+            "title": "「やは」の用法",
+            "note": "「やは」は疑問の係助詞「や」と、係助詞「は」が結びついたもので、疑問を強調する働きを持つ。ここでは、「詠みてむやは」は「詠むだろうか」という意味になる。一般的に「やは」「かは」が反語と決めつけられることが多い。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Usage of 'やは'",
+            "note": "'やは' is a combination of the interrogative particle 'や' and the topic particle 'は', which serves to emphasize a question. Here, '詠みてむやは' means 'Will she recite?'. It is often assumed that 'やは' and 'かは' are used for rhetorical questions."
+          }
+        ]
       },
       {
-        "date": "20250225",
+        "date": [
+          20250225,
+          20251020
+        ],
         "id": 103,
-        "text": "詠みつべくばはやいへかし」といふ（にイ有）。",
+        "text": "詠みつべくばはやいへかし」といふ。",
         "kana": "よみつべくばはやいへかし」といふ。",
         "koutei-yamagen": "詠みつべくば、早いへかし」と言ふ。",
-        "translation-ja": "「詠むのなら、早く言いなさい」と言う。",
-        "translation-en": "He says, \"If you are going to recite, say it quickly.\"",
-        "translation-zh": "说道：“如果要吟咏了，快点说吧。”",
-        "translation-ja-natural": "詠むなら、早く言ってごらん」と促しました。",
-        "translation-en-natural": "He encouraged, \"If you're going to recite, go ahead and say it.\"",
-        "translation-zh-natural": "他说：“如果要吟咏的话，就快点说吧。”"
+        "translation-ja": "「詠み終えることができるなら」と言う。",
+        "translation-en": "He says, 'If you can really finish composing, then say it quickly.'",
+	"translation-zh": "说道：“如果要吟咏了，快点说吧。”",
+        "phrase-gloss": [
+          {
+            "phrase": "詠みつべくば、",
+            "gloss": "compose-POT-CONJ",
+            "words": [
+              {
+                "word": "詠み",
+                "gloss": "compose.ADV"
+              },
+              {
+                "word": "つ",
+                "gloss": "PERF.END"
+              },
+              {
+                "word": "べく",
+                "gloss": "SUP.ADV"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "早いへかし」と言ふ。",
+            "gloss": "quickly say-IMP' say",
+            "words": [
+              {
+                "word": "早",
+                "gloss": "quickly"
+              },
+              {
+                "word": "いへ",
+                "gloss": "say.IMPER"
+              },
+              {
+                "word": "かし",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "言ふ",
+                "gloss": "say.END"
+              }
+            ]
+          }
+        ],
+        "translation-ja-natural": "詠んだなら、早く言ってごらん」と囃す。",
+        "translation-en-natural": "He encourages, \"If you've composed it, say it quickly.\"",
+	"translation-zh-natural": "他说：“如果要吟咏的话，就快点说吧。”",
+        "notes-ja": [
+          {
+            "title": "オリジナル",
+            "note": "詠みつべくばはやいへかし」といふ（にイ有）。"
+          },
+          {
+            "title": "といふ（にイ有）",
+            "note": "校異「というに」であるから、「というと」の続きが省略もしくは、次の行にそのまま続くことを示している。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Original",
+            "note": "詠みつべくばはやいへかし」といふ（にイ有）。"
+          },
+          {
+            "title": "'といふ（にイ有）'",
+            "note": "The variant reading 'というに' indicates that the continuation of 'というと' is either omitted or continues directly in the next line."
+          }
+        ]
       },
       {
         "date": "20250225",
