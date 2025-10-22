@@ -9313,7 +9313,7 @@
         "phrase-gloss": [
           {
             "phrase": "詠みつべくば、",
-            "gloss": "compose-POT-CONJ",
+            "gloss": "compose PERF POT CONJ",
             "words": [
               {
                 "word": "詠み",
@@ -9335,7 +9335,7 @@
           },
           {
             "phrase": "早いへかし」と言ふ。",
-            "gloss": "quickly say-IMP' say",
+            "gloss": "quickly say IMP EMPH' QUOT say",
             "words": [
               {
                 "word": "早",
@@ -9384,36 +9384,266 @@
         ]
       },
       {
-        "date": "20250225",
+        "date": [
+          20250225,
+          20251021
+        ],
         "id": 104,
         "text": "「まからずとて立ちぬる人を待ちてよまむ」とて求めけるを、夜更けぬとにやありけむ、やがていにけり。",
-        "kana": "「またまからずとてたちぬるひとをまちてよまむ」とてもとめけるを、よふけぬとにやありけむ、やがていにけり。",
-        "koutei-yamagen": "「またまからずとて立ちぬる人を待ちて詠まむ」とて求めけるを、夜更けぬとにやありけむ、やがていにけり。",
-        "translation-ja": "「『まだ帰らない』と言って立ち上がった人を待ってから詠もうと言い、探したが、夜が更けたのであろうか、そのまま帰ってしまった。」",
-        "translation-en": "The kid said, \"I will wait for the person who said, 'I am not going back yet,' and compose a poem after waiting,\" and searched for him, but perhaps because the night had grown late, he left as he was.",
-        "translation-ja-natural": "「『まだ帰らない』と言って立ち上がった人を待ってから歌を詠もうとしましたが、その人を探しているうちに夜が更けてしまったのでしょうか。そのまま帰ってしまいました。」",
-        "translation-en-natural": "The kid planned to wait and compose a poem for the person who had said, 'I'm not leaving yet,' but as he searched for him, the night grew late, and in the end, he left without seeing him again."
+        "kana": "「まからずとてたちぬるひとをまちてよまむ」とてもとめけるを、よふけぬとにやありけむ、やがていにけり。",
+        "koutei-yamagen": "「まからずとて立ちぬる人を待ちて詠まむ」とて求めけるを、夜更けぬとにやありけむ、やがていにけり。",
+        "translation-ja": "「『まだおいとましません』と言って立ち上がった人を待ってから詠みましょう」と言い、求めたが、夜が更けたのであろうか、やがて帰ってしまった。",
+        "translation-en": "The kid said, \"I will wait for the person who said, 'I am not going back yet,' and compose a poem after the person returns.\" So all looked for that person, but perhaps because the night had grown late, in the end, he left without seeing all again.",
+        "phrase-gloss": [
+          {
+            "phrase": "まからずとて立ちぬる人を待ちて詠まむ」とて求めけるを、",
+            "gloss": "'leave NEG' QUOT CONJ stand PERF person ACC wait and compose FUT' QUOT seek PERF ACC",
+            "words": [
+              {
+                "word": "まから",
+                "gloss": "leave.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "立ち",
+                "gloss": "stand.ADV"
+              },
+              {
+                "word": "ぬる",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "待ち",
+                "gloss": "wait.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "詠ま",
+                "gloss": "compose.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "求め",
+                "gloss": "seek.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              }
+            ]
+          },
+          {
+            "phrase": "夜更けぬとにやありけむ、やがていにけり。",
+            "gloss": "night be.late NEG QUOT COP Q exist PST, immediately leave PST",
+            "words": [
+              {
+                "word": "夜",
+                "gloss": "night"
+              },
+              {
+                "word": "更け",
+                "gloss": "be.late.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "に",
+                "gloss": "COP.ADV"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "けむ",
+                "gloss": "PST.SUP.ATTR"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "やがて",
+                "gloss": "immediately"
+              },
+              {
+                "word": "いに",
+                "gloss": "leave.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "その子は「『まだ帰りませぬ』と言って立ちあがった人を待ってから詠みましょう」と言うので、皆、その人を待っていたが、夜が更けたからか、結局そのままその人は戻ってこなかった。",
+        "translation-en-natural": "The kid said, \"I'll wait for the person who said, 'I'm not leaving yet,' and then compose a poem.\" So everyone waited for that person, but perhaps because the night had grown late, in the end, he never came back."
       },
       {
-        "date": "20250225",
+        "date": [
+          20250225,
+          20251022
+        ],
         "id": 105,
         "text": "「そもそもいかゞ詠んだる」といぶかしがりて問ふ。",
         "kana": "「そもそもいかがよんだる」といふかしがりてとふ。",
         "koutei-yamagen": "「そもそもいかが詠んだる」と言ふかしがりて問ふ。",
-        "translation-ja": "「そもそもどのように詠んだのか」と、いぶかしがって聞く。",
+        "translation-ja": "「そもそもどのように詠んだのか」と、いぶかしがって問う。",
         "translation-en": "They ask in doubt, 'How did you compose it in the first place?'",
-        "translation-ja-natural": "「そもそもどのように詠んだの？」と、みんな不思議そうに聞きました。",
+        "phrase-gloss": [
+          {
+            "phrase": "そもそもいかが詠んだる」と",
+            "gloss": "in.the.first.place how compose PERF' QUOT",
+            "words": [
+              {
+                "word": "そもそも",
+                "gloss": "in.the.first.place"
+              },
+              {
+                "word": "いかが",
+                "gloss": "how"
+              },
+              {
+                "word": "詠ん",
+                "gloss": "compose.ADV"
+              },
+              {
+                "word": "だる",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              }
+            ]
+          },
+          {
+            "phrase": "いぶかしがりて問ふ。",
+            "gloss": "doubt-and ask",
+            "words": [
+              {
+                "word": "いぶかしがり",
+                "gloss": "doubt.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "問ふ",
+                "gloss": "ask.END"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "「そもそもどのように詠んだの？」と、みんな不思議そうに聞いた。",
         "translation-en-natural": "Everyone curiously asked, 'How did you even come up with that?'"
       },
       {
-        "date": "20250225",
+        "date": [
+          20250225,
+          20251023
+        ],
         "id": 106,
         "text": "この童さすがに耻ぢていはず。",
         "kana": "このわらわさすがにはじていはず。",
         "koutei-yamagen": "この童、さすがに恥ぢていはず。",
-        "translation-ja": "この子供は、さすがに恥ずかしがって言わず。",
+        "translation-ja": "この子は、さすがに恥ずかしくて言わない。",
         "translation-en": "This child, as expected, was too embarrassed to say anything.",
-        "translation-ja-natural": "この子供は、さすがに恥ずかしくて言えませんでした。",
+        "phrase-gloss": [
+          {
+            "phrase": "この童、",
+            "gloss": "this child,",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "童",
+                "gloss": "child"
+              }
+            ]
+          },
+          {
+            "phrase": "さすがに恥ぢていはず。",
+            "gloss": "as.expected be.embarrassed and say NEG",
+            "words": [
+              {
+                "word": "さすがに",
+                "gloss": "as.expected.ADV"
+              },
+              {
+                "word": "恥ぢ",
+                "gloss": "be.embarrassed.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "いは",
+                "gloss": "say.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "この子は、さすがに恥ずかしくて言わない。",
         "translation-en-natural": "This kid, as expected, was too embarrassed to say anything."
       },
       {
@@ -14029,11 +14259,11 @@
         "phrase-gloss": [
           {
             "phrase": "おもしろき所に",
-            "gloss": "to an interesting place",
+            "gloss": "interesting place LOC",
             "words": [
               {
                 "word": "おもしろき",
-                "gloss": "interesting (classical aesthetic sense)"
+                "gloss": "interesting.ATTR"
               },
               {
                 "word": "所",
@@ -14063,7 +14293,7 @@
               },
               {
                 "word": "て",
-                "gloss": "CVB"
+                "gloss": "CONJ"
               }
             ]
           },
@@ -14095,11 +14325,11 @@
             "words": [
               {
                 "word": "問ひ",
-                "gloss": "ask"
+                "gloss": "ask.ADV"
               },
               {
                 "word": "けれ",
-                "gloss": "PST"
+                "gloss": "PST.REALIS"
               },
               {
                 "word": "ば",
@@ -14133,11 +14363,11 @@
               },
               {
                 "word": "いひ",
-                "gloss": "say"
+                "gloss": "say.ADV"
               },
               {
                 "word": "ける",
-                "gloss": "PAST.EXC"
+                "gloss": "PST.ATTR"
               }
             ]
           }
