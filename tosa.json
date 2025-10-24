@@ -9647,26 +9647,146 @@
         "translation-en-natural": "This kid, as expected, was too embarrassed to say anything."
       },
       {
-        "date": "20250226",
+        "date": [
+          20250226,
+          20251024
+        ],
         "id": 107,
         "text": "強ひて問へばいへるうた、",
         "kana": "しひてとへばいへるうた、",
         "koutei-yamagen": "強ひて問へば、いへる歌、",
         "translation-ja": "強いて問うと、言った歌は、",
         "translation-en": "When pressed to answer, the poem they recited was...",
+        "phrase-gloss": [
+          {
+            "phrase": "強ひて問へば、",
+            "gloss": "force-and ask.CONJ",
+            "words": [
+              {
+                "word": "強ひ",
+                "gloss": "force.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "問へ",
+                "gloss": "ask.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "いへる歌、",
+            "gloss": "say.PERF poem,",
+            "words": [
+              {
+                "word": "いへ",
+                "gloss": "say.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
         "translation-ja-natural": "いやがるところを無理に聞いて、やっと口にした歌は、...",
         "translation-en-natural": "After pressing the reluctant kid, the poem which was finally recited was..."
       },
       {
-        "date": "20250227",
+        "date": [
+          20250227,
+          20251025
+        ],
         "id": 108,
-        "text": "「ゆく人もとまるも袖のなみだ川みぎはのみこそぬれまさりけれ」",
-        "kana": "ゆくひともとまるもそでのなみだがわみぎはのみこそぬれまさりけれ",
-        "koutei-yamagen": "行く人も止まるも袖の涙川、水際のみこそ濡れまさりけれ",
-        "translation-ja": "行く人も、立ち止まる人も、袖の涙の川、水際ばかりが一層濡れていることだ。",
-        "translation-en": "Both those who go and those who stop, the river of tears from their sleeves, only the water's edge is even more soaked.",
-        "translation-ja-natural": "行く人も、立ち止まる人も、涙が袖を濡らして流れ、岸辺ばかりがますます濡れていきます。",
-        "translation-en-natural": "Whether they go or stay, their tears soak their sleeves and flow, leaving only the water's edge growing even more drenched."
+        "poem": "ゆく人も/とまるも袖の/なみだ川/みぎはのみこそ/ぬれまさりけれ",
+        "kana": "ゆくひとも/とまるもそでの/なみだがわ/みぎはのみこそ/ぬれまさりけれ",
+        "koutei-yamagen": "行く人も/止まるも袖の/涙川/水際のみこそ/濡れまさりけれ",
+        "translation-ja": "行く人も止まる人も袖の涙の川、水際のみが濡れているのだ。",
+        "translation-en": "Whether they go or stay, their sleeves are like rivers of tears; only the water's edge is getting wetter.",
+        "phrase-gloss": [
+          {
+            "phrase": "ゆく人もとまるも袖の涙川、",
+            "gloss": "go person also stay also sleeve-GEN tear river,",
+            "words": [
+              {
+                "word": "ゆく",
+                "gloss": "go.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "とまる",
+                "gloss": "stay.ATTR"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "袖",
+                "gloss": "sleeve"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "涙川",
+                "gloss": "tear river"
+              }
+            ]
+          },
+          {
+            "phrase": "水際のみこそ濡れまさりけれ",
+            "gloss": "water's.edge only-TOP EMPH be.wet increase.PERF.PST",
+            "words": [
+              {
+                "word": "水際",
+                "gloss": "water's.edge"
+              },
+              {
+                "word": "のみ",
+                "gloss": "only"
+              },
+              {
+                "word": "こそ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "濡れ",
+                "gloss": "be.wet.ADV"
+              },
+              {
+                "word": "まさり",
+                "gloss": "increase.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "行く人も、立ち止まる人も、袖を濡らす涙川、水際ばかりがますます濡れていきます。",
+        "translation-en-natural": "Whether they leave or stay, their sleeves are rivers of tears; only the water's edge keeps getting wetter."
       },
       {
         "date": "20250228",
