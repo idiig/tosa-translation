@@ -9568,7 +9568,7 @@
           },
           {
             "phrase": "いぶかしがりて問ふ。",
-            "gloss": "doubt-and ask",
+            "gloss": "doubt and ask",
             "words": [
               {
                 "word": "いぶかしがり",
@@ -9789,14 +9789,42 @@
         "translation-en-natural": "Whether they leave or stay, their sleeves are rivers of tears; only the water's edge keeps getting wetter."
       },
       {
-        "date": "20250228",
+        "date": [
+          20250228,
+          20251027
+        ],
         "id": 109,
         "text": "となむ詠める。",
         "kana": "となむよめる。",
         "koutei-yamagen": "となむ詠める。",
         "translation-ja": "と詠んだ。",
         "translation-en": "And so it was composed.",
-        "translation-ja-natural": "と詠みました。",
+        "phrase-gloss": [
+          {
+            "phrase": "となむ詠める。",
+            "gloss": "QUOT EMPH compose.PERF",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "詠め",
+                "gloss": "compose.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "と詠んだ。",
         "translation-en-natural": "And so it was composed."
       },
       {
