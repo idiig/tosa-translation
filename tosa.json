@@ -14888,49 +14888,79 @@
         "koutei-yamagen": "「そもそもいかが詠んだる」と言ふかしがりて問ふ。",
         "translation-ja": "「そもそもどのように詠んだのか」と、いぶかしがって問う。",
         "translation-en": "They ask in doubt, 'How did you compose it in the first place?'",
-	"translation-zh": "疑惑着问道：“结果怎么吟咏的？”",
+	"translation-zh": "疑惑着问道：“本来如何咏的？”",
         "phrase-gloss": [
           {
-            "phrase": "そもそもいかが詠んだる」と",
+            "phrase": "そもそもいかが詠んだると",
             "gloss": "in.the.first.place how compose PERF' QUOT",
+	    "gloss-morph": "in.the.first.place how compose.ADV+STA-ADN=CMP",
+	    "gloss-zh": "你本打算咏什么呢",
+	    "gloss-morph-zh": "本来 如何 咏.ADV+STA-ADN=CMP",
             "words": [
               {
                 "word": "そもそも",
-                "gloss": "in.the.first.place"
+                "gloss": "in.the.first.place",
+		"gloss-morph": "in.the.first.place",
+		"gloss-zh": "本来",
+		"gloss-morph-zh": "本来"
               },
               {
                 "word": "いかが",
-                "gloss": "how"
+                "gloss": "how",
+		"gloss-morph": "how",
+		"gloss-zh": "如何",
+		"gloss-morph-zh": "如何"
               },
               {
                 "word": "詠ん",
-                "gloss": "compose.ADV"
+                "gloss": "compose.ADV",
+		"gloss-morph": "compose.ADV",
+		"gloss-zh": "咏",
+		"gloss-morph-zh": "咏.ADV"
               },
               {
                 "word": "だる",
-                "gloss": "PERF.ATTR"
+                "gloss": "PERF.ATTR",
+		"gloss-morph": "+STA-ADN",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "と",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-morph": "=CMP",
+		"gloss-zh": "",
+		"gloss-morph-zh": "=CMP"
               }
             ]
           },
           {
             "phrase": "いぶかしがりて問ふ。",
             "gloss": "doubt and ask",
+	    "gloss-morph": "doubt-EMO-ADV=SEQ ask-CCL",
+	    "gloss-zh": "疑惑地问",
+	    "gloss-morph-zh": "令人疑惑的-EMO-ADV=SEQ 问-CCL",
             "words": [
               {
                 "word": "いぶかしがり",
-                "gloss": "doubt.ADV"
+                "gloss": "doubt.ADV",
+		"gloss-morph": "doubt-EMO-ADV",
+		"gloss-zh": "疑惑",
+		"gloss-morph-zh": "令人疑惑的-EMO-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "着",
+		"gloss-morph-zh": "=SEQ"
               },
               {
                 "word": "問ふ",
-                "gloss": "ask.END"
+                "gloss": "ask.END",
+		"gloss-morph": "ask-CCL",
+		"gloss-zh": "问",
+		"gloss-morph-zh": "问-CCL"
               }
             ]
           }
@@ -14938,7 +14968,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "「そもそもどのように詠んだの？」と、みんな不思議そうに聞いた。",
         "translation-en-natural": "Everyone curiously asked, 'How did you even come up with that?'",
-	"translation-zh-natural": "大家好奇地问：“结果你打算怎么吟咏？”"
+	"translation-zh-natural": "大家好奇地问他：“你本来打算咏什么？”"
       },
       {
         "date": [
