@@ -14530,7 +14530,7 @@
         "phrase-gloss": [
           {
             "phrase": "詠みつべくば、",
-            "gloss": "compose-POT-CONJ",
+            "gloss": "compose PERF POT CONJ",
 	    "gloss-morph": "compose-ADV+ATT-CCL+NEC-ADV=HCD",
 	    "gloss-zh": "如果要咏的话",
 	    "gloss-morph-zh": "吟咏-ADV+ATT-CCL+NEC-ADV=HCD",
@@ -14567,7 +14567,7 @@
           },
           {
             "phrase": "早いへかし」と言ふ。",
-            "gloss": "quickly say-IMP' say",
+            "gloss": "quickly say IMP EMPH' QUOT say",
 	    "gloss-morph": "quickly say-IMP=CNF=CMP say-CCL",
 	    "gloss-zh": "快点说吧",
 	    "gloss-morph-zh": "快 说-IMP=CNF=CMP 说-CCL",
@@ -14645,46 +14645,279 @@
 	]
       },
       {
-        "date": "20250225",
+        "date": [
+          20250225,
+          20251021
+        ],
         "id": 104,
         "text": "「まからずとて立ちぬる人を待ちてよまむ」とて求めけるを、夜更けぬとにやありけむ、やがていにけり。",
-        "kana": "「またまからずとてたちぬるひとをまちてよまむ」とてもとめけるを、よふけぬとにやありけむ、やがていにけり。",
-        "koutei-yamagen": "「またまからずとて立ちぬる人を待ちて詠まむ」とて求めけるを、夜更けぬとにやありけむ、やがていにけり。",
-        "translation-ja": "「『まだ帰らない』と言って立ち上がった人を待ってから詠もうと言い、探したが、夜が更けたのであろうか、そのまま帰ってしまった。」",
-        "translation-en": "The kid said, \"I will wait for the person who said, 'I am not going back yet,' and compose a poem after waiting,\" and searched for him, but perhaps because the night had grown late, he left as he was.",
-        "translation-zh": "说着“等说‘还不回去’站起来的人（来后）再吟咏。”去找（那个人），但由于夜已深吧，就这样已经离开了。",
-        "translation-ja-natural": "「『まだ帰らない』と言って立ち上がった人を待ってから歌を詠もうとしましたが、その人を探しているうちに夜が更けてしまったのでしょうか。そのまま帰ってしまいました。」",
-        "translation-en-natural": "The kid planned to wait and compose a poem for the person who had said, 'I'm not leaving yet,' but as he searched for him, the night grew late, and in the end, he left without seeing him again.",
-        "translation-zh-natural": "小孩说着“等说‘还不回去’站起来的人回来后再吟咏。”去找那个人，但也许是因为夜已深的缘故吧，那个人最后就这样已经离开了。"
+        "kana": "「まからずとてたちぬるひとをまちてよまむ」とてもとめけるを、よふけぬとにやありけむ、やがていにけり。",
+        "koutei-yamagen": "「まからずとて立ちぬる人を待ちて詠まむ」とて求めけるを、夜更けぬとにやありけむ、やがていにけり。",
+        "translation-ja": "「『まだおいとましません』と言って立ち上がった人を待ってから詠みましょう」と言い、求めたが、夜が更けたのであろうか、やがて帰ってしまった。",
+        "translation-en": "The kid said, \"I will wait for the person who said, 'I am not going back yet,' and compose a poem after the person returns.\" So all looked for that person, but perhaps because the night had grown late, in the end, he left without seeing all again.",
+	"translation-zh": "说着“等说‘还不回去’站起来的人（来后）再吟咏。”去找（那个人），但由于夜已深吧，就这样已经离开了。",
+        "phrase-gloss": [
+          {
+            "phrase": "まからずとて立ちぬる人を待ちて詠まむ」とて求めけるを、",
+            "gloss": "'leave NEG' QUOT CONJ stand PERF person ACC wait and compose FUT' QUOT seek PERF ACC",
+            "words": [
+              {
+                "word": "まから",
+                "gloss": "leave.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "立ち",
+                "gloss": "stand.ADV"
+              },
+              {
+                "word": "ぬる",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "待ち",
+                "gloss": "wait.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "詠ま",
+                "gloss": "compose.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "求め",
+                "gloss": "seek.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              }
+            ]
+          },
+          {
+            "phrase": "夜更けぬとにやありけむ、やがていにけり。",
+            "gloss": "night be.late NEG QUOT COP Q exist PST, immediately leave PST",
+            "words": [
+              {
+                "word": "夜",
+                "gloss": "night"
+              },
+              {
+                "word": "更け",
+                "gloss": "be.late.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "に",
+                "gloss": "COP.ADV"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "けむ",
+                "gloss": "PST.SUP.ATTR"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "やがて",
+                "gloss": "immediately"
+              },
+              {
+                "word": "いに",
+                "gloss": "leave.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "その子は「『まだ帰りませぬ』と言って立ちあがった人を待ってから詠みましょう」と言うので、皆、その人を待っていたが、夜が更けたからか、結局そのままその人は戻ってこなかった。",
+        "translation-en-natural": "The kid said, \"I'll wait for the person who said, 'I'm not leaving yet,' and then compose a poem.\" So everyone waited for that person, but perhaps because the night had grown late, in the end, he never came back.",
+	"translation-zh-natural": "小孩说着“等说‘还不回去’站起来的人回来后再吟咏。”去找那个人，但也许是因为夜已深的缘故吧，那个人最后就这样已经离开了。"
       },
       {
-        "date": "20250225",
+        "date": [
+          20250225,
+          20251022
+        ],
         "id": 105,
         "text": "「そもそもいかゞ詠んだる」といぶかしがりて問ふ。",
         "kana": "「そもそもいかがよんだる」といふかしがりてとふ。",
         "koutei-yamagen": "「そもそもいかが詠んだる」と言ふかしがりて問ふ。",
-        "translation-ja": "「そもそもどのように詠んだのか」と、いぶかしがって聞く。",
+        "translation-ja": "「そもそもどのように詠んだのか」と、いぶかしがって問う。",
         "translation-en": "They ask in doubt, 'How did you compose it in the first place?'",
-        "translation-zh": "疑惑着问道：“结果怎么吟咏的？”",
-        "translation-ja-natural": "「そもそもどのように詠んだの？」と、みんな不思議そうに聞きました。",
+	"translation-zh": "疑惑着问道：“结果怎么吟咏的？”",
+        "phrase-gloss": [
+          {
+            "phrase": "そもそもいかが詠んだる」と",
+            "gloss": "in.the.first.place how compose PERF' QUOT",
+            "words": [
+              {
+                "word": "そもそも",
+                "gloss": "in.the.first.place"
+              },
+              {
+                "word": "いかが",
+                "gloss": "how"
+              },
+              {
+                "word": "詠ん",
+                "gloss": "compose.ADV"
+              },
+              {
+                "word": "だる",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              }
+            ]
+          },
+          {
+            "phrase": "いぶかしがりて問ふ。",
+            "gloss": "doubt and ask",
+            "words": [
+              {
+                "word": "いぶかしがり",
+                "gloss": "doubt.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "問ふ",
+                "gloss": "ask.END"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "「そもそもどのように詠んだの？」と、みんな不思議そうに聞いた。",
         "translation-en-natural": "Everyone curiously asked, 'How did you even come up with that?'",
-        "translation-zh-natural": "大家好奇地问：“结果你打算怎么吟咏？”"
+	"translation-zh-natural": "大家好奇地问：“结果你打算怎么吟咏？”"
       },
       {
-        "date": "20250225",
+        "date": [
+          20250225,
+          20251023
+        ],
         "id": 106,
         "text": "この童さすがに耻ぢていはず。",
         "kana": "このわらわさすがにはじていはず。",
         "koutei-yamagen": "この童、さすがに恥ぢていはず。",
-        "translation-ja": "この子供は、さすがに恥ずかしがって言わず。",
+        "translation-ja": "この子は、さすがに恥ずかしくて言わない。",
         "translation-en": "This child, as expected, was too embarrassed to say anything.",
-        "translation-zh": "这个孩子，果然害羞没说。",
-        "translation-ja-natural": "この子供は、さすがに恥ずかしくて言えませんでした。",
+	"translation-zh": "这个孩子，果然害羞没说。",
+        "phrase-gloss": [
+          {
+            "phrase": "この童、",
+            "gloss": "this child,",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "童",
+                "gloss": "child"
+              }
+            ]
+          },
+          {
+            "phrase": "さすがに恥ぢていはず。",
+            "gloss": "as.expected be.embarrassed and say NEG",
+            "words": [
+              {
+                "word": "さすがに",
+                "gloss": "as.expected.ADV"
+              },
+              {
+                "word": "恥ぢ",
+                "gloss": "be.embarrassed.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "いは",
+                "gloss": "say.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "この子は、さすがに恥ずかしくて言わない。",
         "translation-en-natural": "This kid, as expected, was too embarrassed to say anything.",
-        "translation-zh-natural": "这个孩子果然害羞没说。"
+	"translation-zh-natural": "这个孩子果然害羞没说。"
       },
       {
-        "date": "20250226",
+        "date": [
+          20250226,
+          20251024
+        ],
         "id": 107,
         "text": "強ひて問へばいへるうた、",
         "kana": "しひてとへばいへるうた、",
@@ -14692,35 +14925,181 @@
         "translation-ja": "強いて問うと、言った歌は、",
         "translation-en": "When pressed to answer, the poem they recited was...",
         "translation-zh": "被强迫问时，说出的和歌，",
+        "phrase-gloss": [
+          {
+            "phrase": "強ひて問へば、",
+            "gloss": "force-and ask.CONJ",
+            "words": [
+              {
+                "word": "強ひ",
+                "gloss": "force.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "問へ",
+                "gloss": "ask.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "いへる歌、",
+            "gloss": "say.PERF poem,",
+            "words": [
+              {
+                "word": "いへ",
+                "gloss": "say.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+>>>>>>> main
         "translation-ja-natural": "いやがるところを無理に聞いて、やっと口にした歌は、...",
         "translation-en-natural": "After pressing the reluctant kid, the poem which was finally recited was...",
         "translation-zh-natural": "被强迫问时，终于说出的和歌是，"
       },
       {
-        "date": "20250227",
+        "date": [
+          20250227,
+          20251025
+        ],
         "id": 108,
-        "text": "「ゆく人もとまるも袖のなみだ川みぎはのみこそぬれまさりけれ」",
-        "kana": "ゆくひともとまるもそでのなみだがわみぎはのみこそぬれまさりけれ",
-        "koutei-yamagen": "行く人も止まるも袖の涙川、水際のみこそ濡れまさりけれ",
-        "translation-ja": "行く人も、立ち止まる人も、袖の涙の川、水際ばかりが一層濡れていることだ。",
-        "translation-en": "Both those who go and those who stop, the river of tears from their sleeves, only the water's edge is even more soaked.",
-        "translation-zh": "去者也/留者也/袖子的泪河/只是近水处/更沾湿",
-        "translation-ja-natural": "行く人も、立ち止まる人も、涙が袖を濡らして流れ、岸辺ばかりがますます濡れていきます。",
-        "translation-en-natural": "Whether they go or stay, their tears soak their sleeves and flow, leaving only the water's edge growing even more drenched.",
-        "translation-zh-natural": "无论是离去的人还是停留的人，袖子上的泪水流淌如河水，只有岸边濡染更胜一筹。"
+        "poem": "ゆく人も/とまるも袖の/なみだ川/みぎはのみこそ/ぬれまさりけれ",
+        "kana": "ゆくひとも/とまるもそでの/なみだがわ/みぎはのみこそ/ぬれまさりけれ",
+        "koutei-yamagen": "行く人も/止まるも袖の/涙川/水際のみこそ/濡れまさりけれ",
+        "translation-ja": "行く人も止まる人も袖の涙の川、水際のみが濡れているのだ。",
+        "translation-en": "Whether they go or stay, their sleeves are like rivers of tears; only the water's edge is getting wetter.",
+	"translation-zh": "去者也/留者也/袖子的泪河/只是近水处/更沾湿",
+        "phrase-gloss": [
+          {
+            "phrase": "ゆく人もとまるも袖の涙川、",
+            "gloss": "go person also stay also sleeve-GEN tear river,",
+            "words": [
+              {
+                "word": "ゆく",
+                "gloss": "go.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "とまる",
+                "gloss": "stay.ATTR"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "袖",
+                "gloss": "sleeve"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "涙川",
+                "gloss": "tear river"
+              }
+            ]
+          },
+          {
+            "phrase": "水際のみこそ濡れまさりけれ",
+            "gloss": "water's.edge only-TOP EMPH be.wet increase.PERF.PST",
+            "words": [
+              {
+                "word": "水際",
+                "gloss": "water's.edge"
+              },
+              {
+                "word": "のみ",
+                "gloss": "only"
+              },
+              {
+                "word": "こそ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "濡れ",
+                "gloss": "be.wet.ADV"
+              },
+              {
+                "word": "まさり",
+                "gloss": "increase.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "行く人も、立ち止まる人も、袖を濡らす涙川、水際ばかりがますます濡れていきます。",
+        "translation-en-natural": "Whether they leave or stay, their sleeves are rivers of tears; only the water's edge keeps getting wetter.",
+	"translation-zh-natural": "无论是离去的人还是停留的人，袖子上的泪水流淌如河水，只有岸边濡染更胜一筹。"
       },
       {
-        "date": "20250228",
+        "date": [
+          20250228,
+          20251027
+        ],
         "id": 109,
         "text": "となむ詠める。",
         "kana": "となむよめる。",
         "koutei-yamagen": "となむ詠める。",
         "translation-ja": "と詠んだ。",
         "translation-en": "And so it was composed.",
-        "translation-zh": "吟咏道。",
-        "translation-ja-natural": "と詠みました。",
+	"translation-zh": "吟咏道。",
+        "phrase-gloss": [
+          {
+            "phrase": "となむ詠める。",
+            "gloss": "QUOT EMPH compose.PERF",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "詠め",
+                "gloss": "compose.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "と詠んだ。",
         "translation-en-natural": "And so it was composed.",
-        "translation-zh-natural": "孩子吟咏道。"
+	"translation-zh-natural": "孩子吟咏道。"
       },
       {
         "date": "20250228",
@@ -20979,14 +21358,14 @@
         "phrase-gloss": [
           {
             "phrase": "おもしろき所に",
-            "gloss": "to an interesting place",
+	    "gloss": "interesting place LOC",
             "gloss-morph": "interesting-ADN place=DAT",
             "gloss-zh": "向别有情趣的地方",
             "gloss-morph-zh": "有风情-ADN 地方=DAT",
             "words": [
               {
                 "word": "おもしろき",
-                "gloss": "interesting (classical aesthetic sense)",
+                "gloss": "interesting.ATTR",
                 "gloss-morph": "interesting-ADN",
                 "gloss-zh": "有风情的",
                 "gloss-morph-zh": "有风情-ADN"
@@ -21037,8 +21416,8 @@
               },
               {
                 "word": "て",
-                "gloss": "CVB",
-                "gloss-morph": "=SEQ",
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
                 "gloss-zh": "",
                 "gloss-morph-zh": "=SEQ"
               }
@@ -21097,7 +21476,7 @@
               },
               {
                 "word": "けれ",
-                "gloss": "PST",
+                "gloss": "PST.REALIS",
                 "gloss-morph": "+RET-INC",
                 "gloss-zh": "了",
                 "gloss-morph-zh": "+RET-INC"
@@ -21155,14 +21534,14 @@
               },
               {
                 "word": "いひ",
-                "gloss": "say",
+                "gloss": "say.ADV",
                 "gloss-morph": "say-ADV",
                 "gloss-zh": "说",
                 "gloss-morph-zh": "说-ADV"
               },
               {
                 "word": "ける",
-                "gloss": "PAST.EXC",
+                "gloss": "PST.ATTR",
                 "gloss-morph": "+RET-ADN",
                 "gloss-zh": "了",
                 "gloss-morph-zh": "+RET-ADN"
