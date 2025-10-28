@@ -1,1032 +1,1032 @@
 [
-  {
-    "title": "土佐日記",
-    "title_kana": "とさにっき",
-    "title_roman": "Tosa Nikki",
-    "author": "紀貫之",
-    "author_kana": "きのつらゆき",
-    "author_roman": "Ki no Tsurayuki",
-    "paragraph": [
-      {
-        "date": [
-          20241026,
-          20241111,
-          20250531,
-          20250718
-        ],
-        "id": 1,
-        "text": "男もすなる日記といふものを、女もしてみむとてするなり。",
-        "kana": "をとこもすなるにきといふものを、をんなもしてみむとてするなり。",
-        "koutei-yamagen": "男もすなる日記といふものを、女もしてみむとてするなり。",
-        "translation-ja": "男手で書くという日記というものを、女手で書いてみようと思って書くのである。",
-        "translation-en": "A diary is something written in the masculine style, but I will try writing it in the feminine style.",
-        "translation-zh": "听说是男性所做的叫日记的东西，但想着女性也做着试试吧，便做了。",
-        "phrase-gloss": [
-          {
-            "phrase": "男もすなる日記",
-            "gloss": "man also do-ATTR diary",
-            "gloss-morph": "man=IFO do-CCL HEV-ADN diary",
-            "gloss-zh": "（传闻）男人写的日记",
-            "gloss-morph-zh": "男人=IFO 做-CCL HEV-ADN 日记",
-            "words": [
-              {
-                "word": "男",
-                "gloss": "man",
-                "gloss-morph": "man",
-                "gloss-zh": "男人",
-                "gloss-morph-zh": "男人"
-              },
-              {
-                "word": "も",
-                "gloss": "also",
-                "gloss-morph": "=IFO",
-                "gloss-zh": "",
-                "gloss-morph-zh": "=IFO"
-              },
-              {
-                "word": "す",
-                "gloss": "do",
-                "gloss-morph": "do-CCL",
-                "gloss-zh": "做",
-                "gloss-morph-zh": "做-CCL"
-              },
-              {
-                "word": "なる",
-                "gloss": "ATTR",
-                "gloss-morph": "HEV-ADN",
-                "gloss-zh": "（传闻）...的",
-                "gloss-morph-zh": "HEV-ADN"
-              },
-              {
-                "word": "日記",
-                "gloss": "diary",
-                "gloss-morph": "diary",
-                "gloss-zh": "日记",
-                "gloss-morph-zh": "日记"
-              }
-            ]
-          },
-          {
-            "phrase": "といふものを",
-            "gloss": "QUOT say thing ACC",
-            "gloss-morph": "=CMP say-ADN=CON",
-            "gloss-zh": "据说...，但",
-            "gloss-morph-zh": "=CMP 说-ADN=CON",
-            "words": [
-              {
-                "word": "と",
-                "gloss": "QUOT",
-                "gloss-morph": "=CMP",
-                "gloss-zh": "（补语）",
-                "gloss-morph-zh": "=CMP"
-              },
-              {
-                "word": "いふ",
-                "gloss": "say",
-                "gloss-morph": "say-ADN",
-                "gloss-zh": "所谓的",
-                "gloss-morph-zh": "说-ADN"
-              },
-              {
-                "word": "もの",
-                "gloss": "thing",
-                "gloss-morph": "thing",
-                "gloss-zh": "东西",
-                "gloss-morph-zh": "东西"
-              },
-              {
-                "word": "を",
-                "gloss": "ACC",
-                "gloss-morph": "=CON",
-                "gloss-zh": "但",
-                "gloss-morph-zh": "=CON"
-              }
-            ]
-          },
-          {
-            "phrase": "女もしてみむとてするなり",
-            "gloss": "woman also do-CONJ try-VOL QUOT do COP",
-            "gloss-morph": "woman=IFO do-ADV=SEQ try-ADV+VOL-CCL=SCM do-ADN=COP-CCL",
-            "gloss-zh": "想着作为女人也试试看吧，遂做",
-            "gloss-morph-zh": "女人=IFO 做-ADV=SEQ 试-ADV+VOL-CCL=SCM 做-ADN=COP-CCL",
-            "words": [
-              {
-                "word": "女",
-                "gloss": "woman",
-                "gloss-morph": "woman",
-                "gloss-zh": "女人",
-                "gloss-morph-zh": "女人"
-              },
-              {
-                "word": "も",
-                "gloss": "also",
-                "gloss-morph": "=IFO",
-                "gloss-zh": "也",
-                "gloss-morph-zh": "=IFO"
-              },
-              {
-                "word": "し",
-                "gloss": "do",
-                "gloss-morph": "do-ADV",
-                "gloss-zh": "做",
-                "gloss-morph-zh": "做-ADV"
-              },
-              {
-                "word": "て",
-                "gloss": "CONJ",
-                "gloss-morph": "=SEQ",
-                "gloss-zh": "着",
-                "gloss-morph-zh": "=SEQ"
-              },
-              {
-                "word": "みむ",
-                "gloss": "try-VOL",
-                "gloss-morph": "try-ADV+CJT",
-                "gloss-zh": "试试看吧",
-                "gloss-morph-zh": "试-ADV+CJT"
-              },
-              {
-                "word": "とて",
-                "gloss": "QUOT",
-                "gloss-morph": "=SCM",
-                "gloss-zh": "SCM",
-                "gloss-morph-zh": "=SCM"
-              },
-              {
-                "word": "する",
-                "gloss": "do",
-                "gloss-morph": "do-ADN",
-                "gloss-zh": "做",
-                "gloss-morph-zh": "做-ADN"
-              },
-              {
-                "word": "なり",
-                "gloss": "COP",
-                "gloss-morph": "=COP-CCL",
-                "gloss-zh": "是",
-                "gloss-morph-zh": "=COP-CCL"
-              }
-            ]
-          }
-        ],
-        "glossary-abbreviations": null,
-        "translation-ja-natural": "男の書き方で書くという日記を、女の書き方で書いてみようと思って書いているのです。",
-        "translation-en-natural": "So, diaries are usually done up in this formal, masculine style... but here I am, giving it a go in a bit more of a feminine touch.",
-        "translation-zh-natural": "虽听闻日记是男人写的，但我想试着作为女人来写写看，便写下了这本日记。",
-        "notes-ja": [
-          {
-            "title": "土佐日記の仮名使用に関する説",
-            "note": "小松英雄説。その他、Wikipediaによると、田辺聖子説、橋本治説がある。"
-          },
-          {
-            "title": "小松英雄の仮名使用の解釈",
-            "note": "小松英雄は、この日記は女性に仮託したものではなく、冒頭の一節は「漢字ではなく、仮名文字で書いてみよう」という表明を、仮名の特性を活かした技法で巧みに表現したものだとしている[小松英雄『古典再入門：『土左日記』を入りぐちにして』笠間書院、2006年][疑問点ノート]。ただしこの説は広く受け入れられるには至っていない。"
-          },
-          {
-            "title": "田辺聖子の仮名使用の解釈",
-            "note": "田辺聖子は、娘を亡くした悲しみを書くにあたって、「男が日記を書く場合、普通は漢文です。しかし漢文では、「泣血（きゅうけつ）」のような固いことばでしか悲しみを表現できません。自分の悲しみ、細やかな心のひだ、そういうものでは書き尽くせない。そう思ったときにおそらく、貫之は仮名で書くことを思いついたのです」という見方である[田辺聖子『古典まんだら』上（新潮社）p.60f]。"
-          },
-          {
-            "title": "橋本治の仮名使用の解釈",
-            "note": "橋本治は仮名文字を使用した理由について、紀貫之が歌人であったことを挙げている[橋本治『これで古典がよくわかる』筑摩書房〈ちくま文庫〉、2001年]。当時の男性の日記は漢文であったが[当時の日記は日々の公務を綴るものであった]、和歌は男女ともに仮名文字を用いていた。そのため和歌の専門家でもある貫之が自分の得意な文字である仮名文字を用いた、というものである。"
-          }
-        ],
-        "notes-en": [
-          {
-            "title": "Interpretation of Kana Usage in Tosa Nikki",
-            "note": "This diary is not a feminine imitation but rather an expression of the author's intention to write in kana rather than kanji, using the unique characteristics of kana. This interpretation is proposed by Hiroshi Komatsu, but it has not been widely accepted."
-          },
-          {
-            "title": "Hiroshi Komatsu's Interpretation",
-            "note": "Komatsu argues that the opening line cleverly expresses the intention to write in kana, emphasizing its stylistic qualities."
-          },
-          {
-            "title": "Seiko Tanabe's Interpretation",
-            "note": "Tanabe suggests that the use of kana allows for a more nuanced expression of grief, which would be limited in classical Chinese."
-          },
-          {
-            "title": "Osamu Hashimoto's Interpretation",
-            "note": "Hashimoto points out that the choice of kana reflects Ki no Tsurayuki's background as a poet, as poetry was traditionally written in kana."
-          }
-        ],
-        "notes-zh": [
-          {
-            "title": "土佐日记假名使用的解释",
-            "note": "小松英雄认为，这篇日记并非女性的模仿，而是作者意图用假名而非汉字书写，巧妙地利用了假名的独特特性。这一解释由小松英雄提出，但尚未被广泛接受。"
-          },
-          {
-            "title": "小松英雄的解释",
-            "note": "小松英雄认为开头的一句话巧妙地表达了用假名书写的意图，强调了其风格特点。"
-          },
-          {
-            "title": "田边圣子的解释",
-            "note": "田边圣子认为，使用假名可以更细腻地表达悲伤，而古典汉语则受限于较为生硬的表达方式。"
-          },
-          {
-            "title": "桥本治的解释",
-            "note": "桥本治指出，纪贯之作为诗人，选择使用假名反映了他作为诗人的背景，因为传统上诗歌是用假名书写的。"
-          }
-        ]
-      },
-      {
-        "date": [
-          20241026,
-          20241112,
-          20250601,
-          20250718
-        ],
-        "id": 2,
-        "text": "それの年のしはすの二十日あまり一日の、戌の時に門出す。",
-        "kana": "それのとしのしはすのはつかあまりついたちの、いぬのときにかどです。",
-        "koutei-yamagen": "それの年のしはすの二十日あまり一日の、戌の時に門出す。",
-        "translation-ja": "その年の師走二十一日の戌の時に出発した。",
-        "translation-en": "On the twenty-first day of the twelfth month of that year, we departed at the hour of the dog (around 8 to 10 PM).",
-        "translation-zh": "在那年的师走的二十余一日的戌时出发。",
-        "phrase-gloss": [
-          {
-            "phrase": "それの年の",
-            "gloss": "that year-GEN",
-            "gloss-morph": "DEM=GEN year=GEN",
-            "gloss-zh": "那年的",
-            "gloss-zh": "DEM=GEN 年=GEN",
-            "words": [
-              {
-                "word": "それ",
-                "gloss": "that",
-                "gloss-morph": "DEM",
-                "gloss-zh": "那",
-                "gloss-morph-zh": "DEM"
-              },
-              {
-                "word": "の",
-                "gloss": "GEN",
-                "gloss-morph": "=GEN",
-                "gloss-zh": "",
-                "gloss-morph-zh": "=GEN"
-              },
-              {
-                "word": "年",
-                "gloss": "year",
-                "gloss-morph": "year",
-                "gloss-zh": "年",
-                "gloss-morph-zh": "年"
-              },
-              {
-                "word": "の",
-                "gloss": "GEN",
-                "gloss-morph": "=GEN",
-                "gloss-zh": "的",
-                "gloss-morph-zh": "=GEN"
-              }
-            ]
-          },
-          {
-            "phrase": "しはすの二十日あまり一日",
-            "gloss": "twelfth.month-GEN twenty-days plus one-day",
-            "gloss-morph": "December=GEN twentith.day+plus one.day",
-            "gloss-zh": "十二月二十一日",
-            "gloss-zh": "师走.PN=GEN 二十日+余 一日",
-            "words": [
-              {
-                "word": "しはす",
-                "gloss": "twelfth.month",
-                "gloss-morph": "December",
-                "gloss-zh": "（阴历）十二月",
-                "gloss-morph-zh": "师走.PN"
-              },
-              {
-                "word": "の",
-                "gloss": "GEN",
-                "gloss-morph": "=GEN",
-                "gloss-zh": "",
-                "gloss-morph-zh": "=GEN"
-              },
-              {
-                "word": "二十日",
-                "gloss": "twenty-days",
-                "gloss-morph": "twentith.day",
-                "gloss-zh": "二十日",
-                "gloss-morph-zh": "二十日"
-              },
-              {
-                "word": "あまり",
-                "gloss": "plus",
-                "gloss-morph": "+plus",
-                "gloss-zh": "",
-                "gloss-morph-zh": "+余"
-              },
-              {
-                "word": "一日",
-                "gloss": "one-day",
-                "gloss-morph": "first.day",
-                "gloss-zh": "一日",
-                "gloss-morph-zh": "一日"
-              }
-            ]
-          },
-          {
-            "phrase": "戌の時に",
-            "gloss": "hour.of.dog-LOC",
-            "gloss-morph": "dog=GEN hour=DAT",
-            "gloss-zh": "戌时",
-            "gloss-morph-zh": "戌=Gen 时=DAT",
-            "words": [
-              {
-                "word": "戌",
-                "gloss": "hour.of.dog",
-                "gloss-morph": "dog",
-                "gloss-zh": "戌",
-                "gloss-morph-zh": "戌"
-              },
-              {
-                "word": "の",
-                "gloss": "GEN",
-                "gloss-morph": "=GEN",
-                "gloss-zh": "",
-                "gloss-morph-zh": "=GEN"
-              },
-              {
-                "word": "時",
-                "gloss": "hour",
-                "gloss-morph": "hour",
-                "gloss-zh": "时",
-                "gloss-morph-zh": "时"
-              },
-              {
-                "word": "に",
-                "gloss": "LOC",
-                "gloss-morph": "=DAT",
-                "gloss-zh": "于",
-                "gloss-morph-zh": "=DAT"
-              }
-            ]
-          },
-          {
-            "phrase": "門出す",
-            "gloss": "departure-do",
-            "gloss-morph": "door+go.out-NML+do-CCL",
-            "gloss-zh": "出发",
-            "gloss-morph-zh": "门+出-NML+做-CCL",
-            "words": [
-              {
-                "word": "門出",
-                "gloss": "departure",
-                "gloss-morph": "door+go.out-NML",
-                "gloss-zh": "出发",
-                "gloss-morph-zh": "门+出-NML"
-              },
-              {
-                "word": "す",
-                "gloss": "do",
-                "gloss-morph": "+do-CCL",
-                "gloss-zh": "",
-                "gloss-morph-zh": "+做-CCL"
-              }
-            ]
-          }
-        ],
-        "gloss-notes-ja": [
-          {
-            "title": "十二支の時刻",
-            "note": "十二支は、古代中国から伝わった十二の動物に基づく周期で、時刻や方角、年などを表す。「戌の刻」は午後7時から午後9時ごろに相当し、日本の古典文学や日記でよく使われる表現である。十二支は古代中国に由来し、1日を12等分して時刻を表した。各時刻は次の通り：子（23-1時）、丑（1-3時）、寅（3-5時）、卯（5-7時）、辰（7-9時）、巳（9-11時）、午（11-13時）、未（13-15時）、申（15-17時）、酉（17-19時）、戌（19-21時）、亥（21-23時）。"
-          }
-        ],
-        "gloss-notes-en": [
-          {
-            "title": "Zodiac Hours Overview",
-            "note": "The twelve zodiac signs (Juu-ni-shi) from ancient China were used to divide time, directions, and years. 'Hour of the Dog' (Inu no koku) refers to the time between roughly 7 PM and 9 PM, a common timekeeping expression in classical Japanese texts. The twelve zodiac signs (Jūnishi) from ancient China divided the day into 12 two-hour periods: Rat (23-1), Ox (1-3), Tiger (3-5), Rabbit (5-7), Dragon (7-9), Snake (9-11), Horse (11-13), Goat (13-15), Monkey (15-17), Rooster (17-19), Dog (19-21), Boar (21-23)."
-          }
-        ],
-        "gloss-notes-zh": [
-          {
-            "title": "十二支的时刻概述",
-            "note": "十二支（Juu-ni-shi）源自古代中国，用于划分时间、方向和年份。'戌时'（Inu no koku）指的是大约晚上7点到9点之间的时间，这是古典日本文本中常用的时间表达方式。十二支将一天分为12个两个小时的周期：子（23-1点）、丑（1-3点）、寅（3-5点）、卯（5-7点）、辰（7-9点）、巳（9-11点）、午（11-13点）、未（13-15点）、申（15-17点）、酉（17-19点）、戌（19-21点）、亥（21-23点）。"
-          }
-        ],
-        "glossary-abbreviations": null,
-        "translation-ja-natural": "その年の12月21日、夜の8時ごろに出発しました。",
-        "translation-en-natural": "On December 21 of that year, we set off around 8 PM.",
-        "translation-zh-natural": "我们在那年十二月二十一日的戌时出发。"
-      },
-      {
-        "date": "20241026,20241111,20250531",
-        "id": 3,
-        "text": "そのよしいさゝかものにかきつく。",
-        "kana": "そのよしいささかものにかきつく。",
-        "koutei-yamagen": "そのよしいさゝかものにかきつく。",
-        "translation-ja": "その由を少し物に書き付けた。",
-        "translation-en": "I wrote down a little of that matter.",
-        "translation-zh": "那原由若干，记下为物",
-        "phrase-gloss": [
-          {
-            "phrase": "そのよしいさゝか",
-            "gloss": "a little of that matter",
-            "gloss-morph": "DEM=GEN matter little",
-            "gloss-zh": "那原由若干",
-            "gloss-morph-zh": "DEM=GEN 原由 若干",
-            "words": [
-              {
-                "word": "その",
-                "gloss": "that",
-                "gloss-morph": "DEM=GEN",
-                "gloss-zh": "那",
-                "gloss-morph-zh": "DEM=GEN"
-              },
-              {
-                "word": "よし",
-                "gloss": "matter / reason",
-                "gloss-morph": "matter / reason",
-                "gloss-zh": "原由",
-                "gloss-morph-zh": "原由"
-              },
-              {
-                "word": "いさゝか",
-                "gloss": "a.little",
-                "gloss-morph": "little",
-                "gloss-zh": "若干",
-                "gloss-morph-zh": "若干"
-              }
-            ]
-          },
-          {
-            "phrase": "ものにかきつく",
-            "gloss": "write down onto the record",
-            "gloss-morph": "thing=DAT write.SER+down-CCL",
-            "gloss-zh": "记录在东西上",
-            "gloss-morph-zh": "物-DAT 写-ADV+下-CCL",
-            "words": [
-              {
-                "word": "もの",
-                "gloss": "thing",
-                "gloss-morph": "thing",
-                "gloss-zh": "东西",
-                "gloss-morph-zh": "物"
-              },
-              {
-                "word": "に",
-                "gloss": "LOC",
-                "gloss-morph": "=DAT",
-                "gloss-zh": "在",
-                "gloss-morph-zh": "=DAT"
-              },
-              {
-                "word": "かき",
-                "gloss": "write.ADV",
-                "gloss-morph": "write-ADV",
-                "gloss-zh": "写+",
-                "gloss-morph-zh": "写-ADV"
-              },
-              {
-                "word": "つく",
-                "gloss": "attach",
-                "gloss-morph": "attach-CCL",
-                "gloss-zh": "下",
-                "gloss-morph-zh": "下-CCL"
-              }
-            ]
-          }
-        ],
-        "gloss-notes-ja": [
-          {
-            "title": "かきつく",
-            "note": "「かきつく」は『書き付く』で、物に書き記す、メモするという意味。日記や記録の表現として用いられる。"
-          }
-        ],
-        "gloss-notes-en": [
-          {
-            "title": "kakitsuku",
-            "note": "'Kakitsuku' means to write down or record something, often used in diary or record-keeping contexts."
-          }
-        ],
-        "gloss-notes-zh": [
-          {
-            "title": "kakitsuku",
-            "note": "'Kakitsuku'（かきつく）意为写下或记录某事，常用于日记或记录的上下文中。"
-          }
-        ],
-        "glossary-abbreviations": null,
-        "translation-ja-natural": "そのことを少し書き記しておいた。",
-        "translation-en-natural": "I jotted down a little about the matter.",
-        "translation-zh-natural": "我在这里写下当时的一些琐事。"
-      },
-      {
-        "date": "20241103,20241110,20241111,20250603",
-        "id": 4,
-        "text": "ある人縣の四年五年はてゝ例のことゞも皆しをへて、解由など取りて住むたちより出でゝ船に乘るべき所へわたる。",
-        "kana": "あるひとあがたのよとせいつとせはててれいのことどもみなしをへて、げゆなどとりてすむたちよりいでてふねにのるべきところへわたる。",
-        "koutei-yamagen": "ある人、縣の四年五年果てて例のことども皆し終えて、解由など取りて住む館より出で船に乗るべき所へ渡る。",
-        "translation-ja": "ある人が国司として四年、五年の任期を終え、儀式などもすべて済ませ、解由状を受け取って、住まいを出て船に乗る場所へ向かった。",
-        "translation-en": "A certain person, having completed his four or five-year term as governor, performed all customary ceremonies, received the geyu document, and left his residence to head to the place where he was to board the ship.",
-        "translation-zh": "某人，县（的任官）的第四、五年结束，做完所有的惯例之事，取得解由等，从居住的宅邸离开，前往乘船的地方。",
-        "phrase-gloss": [
-          {
-            "phrase": "ある人縣の四年五年はてゝ",
-            "gloss": "certain.person governor four.year five.year end.ADV.F",
-            "gloss-morph": "exist-ADN+person governor=GEN four+year five+year end-ADV=SEQ",
-            "gloss-zh": "有一个人，（作为）地方官的第四、五年结束了",
-            "gloss-morph-zh": "有-ADN+人 县=GEN 四 五年 结束-ADV=SEQ",
-            "words": [
-              {
-                "word": "ある",
-                "gloss": "certain",
-                "gloss-morph": "exist-ADN+",
-                "gloss-zh": "某",
-                "gloss-morph-zh": "有-ADN+"
-              },
-              {
-                "word": "人",
-                "gloss": "person",
-                "gloss-morph": "person",
-                "gloss-zh": "人",
-                "gloss-morph-zh": "人"
-              },
-              {
-                "word": "縣",
-                "gloss": "governor",
-                "gloss-morph": "governor",
-                "gloss-zh": "地方官",
-                "gloss-morph-zh": "县（行政单位）"
-              },
-              {
-                "word": "の",
-                "gloss": "GEN",
-                "gloss-morph": "=GEN",
-                "gloss-zh": "的",
-                "gloss-morph-zh": "=GEN"
-              },
-              {
-                "word": "四年",
-                "gloss": "four.year",
-                "gloss-morph": "four+year",
-                "gloss-zh": "第四年",
-                "gloss-morph-zh": "四+年"
-              },
-              {
-                "word": "五年",
-                "gloss": "five.year",
-                "gloss-morph": "five+year",
-                "gloss-zh": "第五年",
-                "gloss-morph-zh": "五+年"
-              },
-              {
-                "word": "はて",
-                "gloss": "end.ADV",
-                "gloss-morph": "end-ADV",
-                "gloss-zh": "结束",
-                "gloss-morph-zh": "结束-ADV"
-              },
-              {
-                "word": "ゝ",
-                "gloss": "CONJ",
-                "gloss-morph": "=SEQ",
-                "gloss-zh": "",
-                "gloss-morph-zh": "=SEQ"
-              }
-            ]
-          },
-          {
-            "phrase": "例のことゞも皆しをへて",
-            "gloss": "usual-GEN matters all perform.ADV.F finish.ADV.F",
-            "gloss-morph": "usual=GEN matters=PLU all do-ADV+finish-ADV=SEQ",
-            "gloss-zh": "惯例的事也都做完了",
-            "gloss-morph-zh": "惯例=GEN 事=PLU 全部 做-ADV+完成-ADV=SEQ",
-            "words": [
-              {
-                "word": "例",
-                "gloss": "usual",
-                "gloss-morph": "usual",
-                "gloss-zh": "惯例",
-                "gloss-morph-zh": "惯例"
-              },
-              {
-                "word": "の",
-                "gloss": "GEN",
-                "gloss-morph": "=GEN",
-                "gloss-zh": "的",
-                "gloss-morph-zh": "=GEN"
-              },
-              {
-                "word": "ことゞも",
-                "gloss": "matters",
-                "gloss-morph": "matter=PLU",
-                "gloss-zh": "事",
-                "gloss-morph-zh": "事=PLU"
-              },
-              {
-                "word": "皆",
-                "gloss": "all",
-                "gloss-morph": "all",
-                "gloss-zh": "全部",
-                "gloss-morph-zh": "全部"
-              },
-              {
-                "word": "し",
-                "gloss": "perform.ADV",
-                "gloss-morph": "do-ADV",
-                "gloss-zh": "做",
-                "gloss-morph-zh": "做-ADV"
-              },
-              {
-                "word": "をへ",
-                "gloss": "finish.ADV",
-                "gloss-morph": "+finish-ADV",
-                "gloss-zh": "完",
-                "gloss-morph-zh": "+完-ADV"
-              },
-              {
-                "word": "て",
-                "gloss": "CONJ",
-                "gloss-morph": "=SEQ",
-                "gloss-zh": "了",
-                "gloss-morph-zh": "=SEQ"
-              }
-            ]
-          },
-          {
-            "phrase": "解由など取りて住むたちより出でゝ",
-            "gloss": "geyu.document etc. take.ADV.F residence leave.ADV.F go.out.ADV.F",
-            "gloss-morph": "geyu.document=EXE take-ADV=SEQ live-ADN residence=ABL leave-ADV=SEQ",
-            "gloss-zh": "取得了解由状等（物），从居住的宅邸离开",
-            "gloss-morph-zh": "解由=EXE 取得-ADV=SEQ 居住-ADN 宅邸=ABL 离开-ADV=SEQ",
-            "words": [
-              {
-                "word": "解由",
-                "gloss": "geyu.document",
-                "gloss-morph": "geyu.document",
-                "gloss-zh": "解由状",
-                "gloss-morph-zh": "解由"
-              },
-              {
-                "word": "など",
-                "gloss": "etc.",
-                "gloss-morph": "=EXE",
-                "gloss-zh": "等（物）",
-                "gloss-morph-zh": "=EXE"
-              },
-              {
-                "word": "取り",
-                "gloss": "take.ADV",
-                "gloss-morph": "take-ADV",
-                "gloss-zh": "取得",
-                "gloss-morph-zh": "取得-ADV"
-              },
-              {
-                "word": "て",
-                "gloss": "CONJ",
-                "gloss-morph": "=SEQ",
-                "gloss-zh": "",
-                "gloss-morph-zh": "=SEQ"
-              },
-              {
-                "word": "住む",
-                "gloss": "reside.ATTR",
-                "gloss-morph": "reside-ADN",
-                "gloss-zh": "居住的",
-                "gloss-morph-zh": "居住-ADN"
-              },
-              {
-                "word": "たち",
-                "gloss": "residence",
-                "gloss-morph": "residence",
-                "gloss-zh": "宅邸",
-                "gloss-morph-zh": "宅邸"
-              },
-              {
-                "word": "より",
-                "gloss": "from",
-                "gloss-morph": "=ABL",
-                "gloss-zh": "从",
-                "gloss-morph-zh": "=ABL"
-              },
-              {
-                "word": "出で",
-                "gloss": "go.out.ADV",
-                "gloss-morph": "go.out-ADV",
-                "gloss-zh": "离开",
-                "gloss-morph-zh": "离开-ADV"
-              },
-              {
-                "word": "ゝ",
-                "gloss": "CONJ",
-                "gloss-morph": "=SEQ",
-                "gloss-zh": "",
-                "gloss-morph-zh": "=SEQ"
-              }
-            ]
-          },
-          {
-            "phrase": "船に乘るべき所へわたる",
-            "gloss": "ship-LOC board.should place-ALL cross",
-            "gloss-morph": "ship=DAT board-CCL=NEC-ADN place=ALL move-CCL",
-            "gloss-zh": "前往规定乘船的地方",
-            "gloss-morph-zh": "船=DAT 乘-CCL=NEC-ADN 地方=ALL 移动-CCL",
-            "words": [
-              {
-                "word": "船",
-                "gloss": "ship",
-                "gloss-morph": "ship",
-                "gloss-zh": "船",
-                "gloss-morph-zh": "船"
-              },
-              {
-                "word": "に",
-                "gloss": "LOC",
-                "gloss-morph": "=DAT",
-                "gloss-zh": "",
-                "gloss-morph-zh": "=DAT"
-              },
-              {
-                "word": "乘る",
-                "gloss": "board",
-                "gloss-morph": "board-CCL",
-                "gloss-zh": "乘",
-                "gloss-morph-zh": "乘-CCL"
-              },
-              {
-                "word": "べき",
-                "gloss": "should.ATTR",
-                "gloss-morph": "=NEC-ADN",
-                "gloss-zh": "规定",
-                "gloss-morph-zh": "=NEC-ADN"
-              },
-              {
-                "word": "所",
-                "gloss": "place",
-                "gloss-morph": "place",
-                "gloss-zh": "地方",
-                "gloss-morph-zh": "地方"
-              },
-              {
-                "word": "へ",
-                "gloss": "ALL",
-                "gloss-morph": "=ALL",
-                "gloss-zh": "",
-                "gloss-morph-zh": "=ALL"
-              },
-              {
-                "word": "わたる",
-                "gloss": "cross",
-                "gloss-morph": "move-CCL",
-                "gloss-zh": "前往",
-                "gloss-morph-zh": "移动-CCL"
-              }
-            ]
-          }
-        ],
-        "gloss-notes-ja": [
-          {
-            "title": "解由",
-            "note": "「解由状」は任国の後任国司から中央政府に提出される、前任国司の任務完了を証明する文書。"
-          }
-        ],
-        "gloss-notes-en": [
-          {
-            "title": "geyu",
-            "note": "'Geyu' is a document submitted by the succeeding provincial governor to the central government, certifying the completion of the predecessor's term and duties."
-          }
-        ],
-        "gloss-notes-zh": [
-          {
-            "title": "解由",
-            "note": "'解由状'是由继任的县官提交给中央政府的文书，用以证明前任县官的任期和职责已完成。"
-          }
-        ],
-        "glossary-abbreviations": null,
-        "translation-ja-natural": "ある人が国司として四、五年の任期を終え、すべての儀式を済ませ、解由状を受け取って、住まいを出て船に乗る場所へ向かった。",
-        "translation-en-natural": "A certain person, having completed his four- or five-year term as governor, finished all the customary ceremonies, received the geyu document, and left his residence to head to the place where he would board the ship.",
-        "translation-zh-natural": "有一个人，他作为地方官的任期的第四、第五年结束了，他做完所有的例行公事，拿到了解由状，于是从住处出发，前往规定乘船的地方。"
-      },
-      {
-        "date": [
-          20241103,
-          20241111,
-          20241112,
-          20250603
-        ],
-        "id": 5,
-        "text": "かれこれ知る知らぬおくりす。",
-        "kana": "かれこれしるしらぬおくりす。",
-        "koutei-yamagen": "かれこれ、知る知らぬ、送りす。",
-        "translation-ja": "かれこれ、知っている人、知らない人が見送りをする。",
-        "translation-en": "People who know him and people who don't know him all see him off.",
-        "translation-zh": "这个那个，认识的不认识的，（为他）送行。",
-        "phrase-gloss": [
-          {
-            "phrase": "かれこれ",
-            "gloss": "various people",
-            "gloss-morph": "DEM.distant+DEM.proximal",
-            "gloss-zh": "大家",
-            "gloss-morph-zh": "DEM.远+DEM.近",
-            "words": [
-              {
-                "word": "かれ",
-                "gloss": "that person",
-                "gloss-morph": "DEM.distant",
-                "gloss-zh": "那",
-                "gloss-zh": "DEM.远"
-              },
-              {
-                "word": "これ",
-                "gloss": "this person",
-                "gloss-morph": "DEM.proximal",
-                "gloss-zh": "这",
-                "gloss-morph-zh": "DEM.近"
-              }
-            ]
-          },
-          {
-            "phrase": "知る知らぬ",
-            "gloss": "know or not know",
-            "gloss-morph": "know-ADN.NL know-THM=NEG-ADN.NL",
-            "gloss-zh": "认识的和不认识的",
-            "gloss-morph-zh": "认识-ADN.NL 认识-THM=NEG-ADN.NL",
-            "words": [
-              {
-                "word": "知る",
-                "gloss": "know",
-                "gloss-morph": "know-ADN.NL",
-                "gloss-zh": "认识的",
-                "gloss-morph-zh": "认识-ADN.NL"
-              },
-              {
-                "word": "知ら",
-                "gloss": "know.NEG.BASE",
-                "gloss-morph": "know-THM",
-                "gloss-zh": "认识",
-                "gloss-morph-zh": "认识-THM"
-              },
-              {
-                "word": "ぬ",
-                "gloss": "NEG",
-                "gloss-morph": "=NEG-ADN.NL",
-                "gloss-zh": "不...的",
-                "gloss-zh": "=NEG-ADN.NL?"
-              }
-            ]
-          },
-          {
-            "phrase": "おくりす",
-            "gloss": "see off",
-            "gloss-morph": "send.off+do-CCL",
-            "gloss-zh": "送行",
-            "gloss-morph-zh": "送行+做-CCL",
-            "words": [
-              {
-                "word": "おくり",
-                "gloss": "send off",
-                "gloss-morph": "send.off",
-                "gloss-zh": "送行",
-                "gloss-morph-zh": "送行"
-              },
-              {
-                "word": "す",
-                "gloss": "do",
-                "gloss-morph": "+do-CCL",
-                "gloss-zh": "",
-                "gloss-morph-zh": "+做-CCL"
-              }
-            ]
-          }
-        ],
-        "glossary-abbreviations": null,
-        "translation-ja-natural": "あの人、この人、知っている人も知らない人も、みんなで見送った。",
-        "translation-en-natural": "Everyone — friends, strangers, all kinds of people — came to see him off.",
-        "translation-zh-natural": "这个人，那个人，认识的，不认识的，都来为他送行。"
-      },
-      {
-        "date": [
-          20241103,
-          20241111,
-          20241112,
-          20250603
-        ],
-        "id": 6,
-        "text": "年ごろよく具しつる人々なむわかれ難く思ひてその日頻にとかくしつゝのゝしるうちに夜更けぬ。",
-        "kana": "としごろよくぐしつるひとびとなむわかれがたくおもひてそのひしきりにとかくしつつののしるうちによふけぬ。",
-        "koutei-yamagen": "年ごろよくくらべつる人々なむ、別れがたく思ひて、日しきりにとかくしつつ、ののしるうちに夜更けぬ。",
-        "translation-ja": "長年親しく付き合ってきた人々が、別れがたいと感じ、その日しきりにあれこれと言いながら賑やかに過ごすうちに夜が更けた。",
-        "translation-en": "The people who had long been close, finding it hard to part, spent that day busily talking back and forth, and before they knew it, night had fallen.",
-        "translation-zh": "长年亲密陪伴的人们，感到难以分离，那日终日这般那般，边忙碌边高声喧闹之间，夜已深。",
-        "phrase-gloss": [
-          {
-            "phrase": "年ごろよく具しつる人々",
-            "gloss": "people long-accompanied",
-            "gloss-morph": "for.long.years good-SER accompany-ADV+ATT-ADN person+person",
-            "gloss-zh": "长年友好相伴至今的人们",
-            "gloss-morph-zh": "长年 好-SER 陪伴-ADV+ATT-ADN 人+人",
-            "words": [
-              {
-                "word": "年ごろ",
-                "gloss": "for-years",
-                "gloss-morph": "for.long.years",
-                "gloss-zh": "长年",
-                "gloss-morph-zh": "长年"
-              },
-              {
-                "word": "よく",
-                "gloss": "well",
-                "gloss-morph": "good-SER",
-                "gloss-zh": "友好地",
-                "gloss-morph-zh": "好-SER"
-              },
-              {
-                "word": "具しつる",
-                "gloss": "accompanied.PST",
-                "gloss-morph": "accompany-ADV+ATT-ADN",
-                "gloss-zh": "相伴至今的",
-                "gloss-morph-zh": "陪伴-ADV+ATT-ADN"
-              },
-              {
-                "word": "人々",
-                "gloss": "people",
-                "gloss-morph": "people+people",
-                "gloss-zh": "人们",
-                "gloss-morph-zh": "人+人"
-              }
-            ]
-          },
-          {
-            "phrase": "なむわかれ難く思ひて",
-            "gloss": "FOC hard-to-part feeling-CONJ",
-            "gloss-morph": "=FOC part-ADV+LAB-SER feel-ADV=SEQ",
-            "gloss-zh": "感到难以分离",
-            "gloss-morph-zh": "=FOC 分离-ADV+LAB-SER 感觉-ADV=SEQ",
-            "words": [
-              {
-                "word": "なむ",
-                "gloss": "FOC",
-                "gloss-morph": "=FOC",
-                "gloss-zh": "",
-                "gloss-morph-zh": "=FOC"
-              },
-              {
-                "word": "わかれ難く",
-                "gloss": "hard-to-part",
-                "gloss-morph": "part-ADV+LAB-SER",
-                "gloss-zh": "难以分离地",
-                "gloss-morph-zh": "分离-ADV+LAB-SER"
-              },
-              {
-                "word": "思ひて",
-                "gloss": "feeling-CONJ",
-                "gloss-morph": "feel-ADV=SEQ",
-                "gloss-zh": "感到",
-                "gloss-morph-zh": "感觉-ADV=SEQ"
-              }
-            ]
-          },
-          {
-            "phrase": "その日頻にとかくしつゝ",
-            "gloss": "that-day frequently this-and-that doing",
-            "gloss-morph": "DEM=GEN whole.day=SER this.and.that do-ADV+ITR",
-            "gloss-zh": "那天整天频繁做着这般那般",
-            "gloss-morph-zh": "DEM=GEN 终日=SER 这般那般地 做-ADV+ITR",
-            "words": [
-              {
-                "word": "その日",
-                "gloss": "that-day",
-                "gloss-morph": "DEM=GEN day",
-                "gloss-zh": "那日",
-                "gloss-morph-zh": "DEM=GEN 日"
-              },
-              {
-                "word": "頻に",
-                "gloss": "frequently",
-                "gloss-morph": "frequent=SER",
-                "gloss-zh": "频繁地",
-                "gloss-morph-zh": "频繁=SER"
-              },
-              {
-                "word": "とかく",
-                "gloss": "this-and-that",
-                "gloss-morph": "this.and.that",
-                "gloss-zh": "这般那般地",
-                "gloss-morph-zh": "这般那般"
-              },
-              {
-                "word": "しつゝ",
-                "gloss": "doing",
-                "gloss-morph": "do-ADV+ITR",
-                "gloss-zh": "做着",
-                "gloss-morph-zh": "做-ADV+ITR"
-              }
-            ]
-          },
-          {
-            "phrase": "のゝしるうちに夜更けぬ",
-            "gloss": "making-noise while night-fell",
-            "gloss-morph": "making.noise-ADN duration-DAT night fall-ADV+MNF-CCL",
-            "gloss-zh": "吵吵闹闹间夜已深",
-            "gloss-morph-zh": "喧闹-ADN 间=DAT 夜 深-ADV+MNF-CCL",
-            "words": [
-              {
-                "word": "のゝしる",
-                "gloss": "making-noise",
-                "gloss-morph": "make.noise-ADN",
-                "gloss-zh": "吵吵闹闹的",
-                "gloss-morph-zh": "喧闹-ADN"
-              },
-              {
+{
+"title": "土佐日記",
+"title_kana": "とさにっき",
+"title_roman": "Tosa Nikki",
+"author": "紀貫之",
+"author_kana": "きのつらゆき",
+"author_roman": "Ki no Tsurayuki",
+"paragraph": [
+{
+"date": [
+20241026,
+20241111,
+20250531,
+20250718
+],
+"id": 1,
+"text": "男もすなる日記といふものを、女もしてみむとてするなり。",
+"kana": "をとこもすなるにきといふものを、をんなもしてみむとてするなり。",
+"koutei-yamagen": "男もすなる日記といふものを、女もしてみむとてするなり。",
+"translation-ja": "男手で書くという日記というものを、女手で書いてみようと思って書くのである。",
+"translation-en": "A diary is something written in the masculine style, but I will try writing it in the feminine style.",
+"translation-zh": "听说是男性所做的叫日记的东西，但想着女性也做着试试吧，便做了。",
+"phrase-gloss": [
+{
+"phrase": "男もすなる日記",
+"gloss": "man also do-ATTR diary",
+"gloss-morph": "man=IFO do-CCL HEV-ADN diary",
+"gloss-zh": "（传闻）男人写的日记",
+"gloss-morph-zh": "男人=IFO 做-CCL HEV-ADN 日记",
+"words": [
+{
+"word": "男",
+"gloss": "man",
+"gloss-morph": "man",
+"gloss-zh": "男人",
+"gloss-morph-zh": "男人"
+},
+{
+"word": "も",
+"gloss": "also",
+"gloss-morph": "=IFO",
+"gloss-zh": "",
+"gloss-morph-zh": "=IFO"
+},
+{
+"word": "す",
+"gloss": "do",
+"gloss-morph": "do-CCL",
+"gloss-zh": "做",
+"gloss-morph-zh": "做-CCL"
+},
+{
+"word": "なる",
+"gloss": "ATTR",
+"gloss-morph": "HEV-ADN",
+"gloss-zh": "（传闻）...的",
+"gloss-morph-zh": "HEV-ADN"
+},
+{
+"word": "日記",
+"gloss": "diary",
+"gloss-morph": "diary",
+"gloss-zh": "日记",
+"gloss-morph-zh": "日记"
+}
+]
+},
+{
+"phrase": "といふものを",
+"gloss": "QUOT say thing ACC",
+"gloss-morph": "=CMP say-ADN=CON",
+"gloss-zh": "据说...，但",
+"gloss-morph-zh": "=CMP 说-ADN=CON",
+"words": [
+{
+"word": "と",
+"gloss": "QUOT",
+"gloss-morph": "=CMP",
+"gloss-zh": "（补语）",
+"gloss-morph-zh": "=CMP"
+},
+{
+"word": "いふ",
+"gloss": "say",
+"gloss-morph": "say-ADN",
+"gloss-zh": "所谓的",
+"gloss-morph-zh": "说-ADN"
+},
+{
+"word": "もの",
+"gloss": "thing",
+"gloss-morph": "thing",
+"gloss-zh": "东西",
+"gloss-morph-zh": "东西"
+},
+{
+"word": "を",
+"gloss": "ACC",
+"gloss-morph": "=CON",
+"gloss-zh": "但",
+"gloss-morph-zh": "=CON"
+}
+]
+},
+{
+"phrase": "女もしてみむとてするなり",
+"gloss": "woman also do-CONJ try-VOL QUOT do COP",
+"gloss-morph": "woman=IFO do-ADV=SEQ try-ADV+VOL-CCL=SCM do-ADN=COP-CCL",
+"gloss-zh": "想着作为女人也试试看吧，遂做",
+"gloss-morph-zh": "女人=IFO 做-ADV=SEQ 试-ADV+VOL-CCL=SCM 做-ADN=COP-CCL",
+"words": [
+{
+"word": "女",
+"gloss": "woman",
+"gloss-morph": "woman",
+"gloss-zh": "女人",
+"gloss-morph-zh": "女人"
+},
+{
+"word": "も",
+"gloss": "also",
+"gloss-morph": "=IFO",
+"gloss-zh": "也",
+"gloss-morph-zh": "=IFO"
+},
+{
+"word": "し",
+"gloss": "do",
+"gloss-morph": "do-ADV",
+"gloss-zh": "做",
+"gloss-morph-zh": "做-ADV"
+},
+{
+"word": "て",
+"gloss": "CONJ",
+"gloss-morph": "=SEQ",
+"gloss-zh": "着",
+"gloss-morph-zh": "=SEQ"
+},
+{
+"word": "みむ",
+"gloss": "try-VOL",
+"gloss-morph": "try-ADV+CJT",
+"gloss-zh": "试试看吧",
+"gloss-morph-zh": "试-ADV+CJT"
+},
+{
+"word": "とて",
+"gloss": "QUOT",
+"gloss-morph": "=SCM",
+"gloss-zh": "SCM",
+"gloss-morph-zh": "=SCM"
+},
+{
+"word": "する",
+"gloss": "do",
+"gloss-morph": "do-ADN",
+"gloss-zh": "做",
+"gloss-morph-zh": "做-ADN"
+},
+{
+"word": "なり",
+"gloss": "COP",
+"gloss-morph": "=COP-CCL",
+"gloss-zh": "是",
+"gloss-morph-zh": "=COP-CCL"
+}
+]
+}
+],
+"glossary-abbreviations": null,
+"translation-ja-natural": "男の書き方で書くという日記を、女の書き方で書いてみようと思って書いているのです。",
+"translation-en-natural": "So, diaries are usually done up in this formal, masculine style... but here I am, giving it a go in a bit more of a feminine touch.",
+"translation-zh-natural": "虽听闻日记是男人写的，但我想试着作为女人来写写看，便写下了这本日记。",
+"notes-ja": [
+{
+"title": "土佐日記の仮名使用に関する説",
+"note": "小松英雄説。その他、Wikipediaによると、田辺聖子説、橋本治説がある。"
+},
+{
+"title": "小松英雄の仮名使用の解釈",
+"note": "小松英雄は、この日記は女性に仮託したものではなく、冒頭の一節は「漢字ではなく、仮名文字で書いてみよう」という表明を、仮名の特性を活かした技法で巧みに表現したものだとしている[小松英雄『古典再入門：『土左日記』を入りぐちにして』笠間書院、2006年][疑問点ノート]。ただしこの説は広く受け入れられるには至っていない。"
+},
+{
+"title": "田辺聖子の仮名使用の解釈",
+"note": "田辺聖子は、娘を亡くした悲しみを書くにあたって、「男が日記を書く場合、普通は漢文です。しかし漢文では、「泣血（きゅうけつ）」のような固いことばでしか悲しみを表現できません。自分の悲しみ、細やかな心のひだ、そういうものでは書き尽くせない。そう思ったときにおそらく、貫之は仮名で書くことを思いついたのです」という見方である[田辺聖子『古典まんだら』上（新潮社）p.60f]。"
+},
+{
+"title": "橋本治の仮名使用の解釈",
+"note": "橋本治は仮名文字を使用した理由について、紀貫之が歌人であったことを挙げている[橋本治『これで古典がよくわかる』筑摩書房〈ちくま文庫〉、2001年]。当時の男性の日記は漢文であったが[当時の日記は日々の公務を綴るものであった]、和歌は男女ともに仮名文字を用いていた。そのため和歌の専門家でもある貫之が自分の得意な文字である仮名文字を用いた、というものである。"
+}
+],
+"notes-en": [
+{
+"title": "Interpretation of Kana Usage in Tosa Nikki",
+"note": "This diary is not a feminine imitation but rather an expression of the author's intention to write in kana rather than kanji, using the unique characteristics of kana. This interpretation is proposed by Hiroshi Komatsu, but it has not been widely accepted."
+},
+{
+"title": "Hiroshi Komatsu's Interpretation",
+"note": "Komatsu argues that the opening line cleverly expresses the intention to write in kana, emphasizing its stylistic qualities."
+},
+{
+"title": "Seiko Tanabe's Interpretation",
+"note": "Tanabe suggests that the use of kana allows for a more nuanced expression of grief, which would be limited in classical Chinese."
+},
+{
+"title": "Osamu Hashimoto's Interpretation",
+"note": "Hashimoto points out that the choice of kana reflects Ki no Tsurayuki's background as a poet, as poetry was traditionally written in kana."
+}
+],
+"notes-zh": [
+{
+"title": "土佐日记假名使用的解释",
+"note": "小松英雄认为，这篇日记并非女性的模仿，而是作者意图用假名而非汉字书写，巧妙地利用了假名的独特特性。这一解释由小松英雄提出，但尚未被广泛接受。"
+},
+{
+"title": "小松英雄的解释",
+"note": "小松英雄认为开头的一句话巧妙地表达了用假名书写的意图，强调了其风格特点。"
+},
+{
+"title": "田边圣子的解释",
+"note": "田边圣子认为，使用假名可以更细腻地表达悲伤，而古典汉语则受限于较为生硬的表达方式。"
+},
+{
+"title": "桥本治的解释",
+"note": "桥本治指出，纪贯之作为诗人，选择使用假名反映了他作为诗人的背景，因为传统上诗歌是用假名书写的。"
+}
+]
+},
+{
+"date": [
+20241026,
+20241112,
+20250601,
+20250718
+],
+"id": 2,
+"text": "それの年のしはすの二十日あまり一日の、戌の時に門出す。",
+"kana": "それのとしのしはすのはつかあまりついたちの、いぬのときにかどです。",
+"koutei-yamagen": "それの年のしはすの二十日あまり一日の、戌の時に門出す。",
+"translation-ja": "その年の師走二十一日の戌の時に出発した。",
+"translation-en": "On the twenty-first day of the twelfth month of that year, we departed at the hour of the dog (around 8 to 10 PM).",
+"translation-zh": "在那年的师走的二十余一日的戌时出发。",
+"phrase-gloss": [
+{
+"phrase": "それの年の",
+"gloss": "that year-GEN",
+"gloss-morph": "DEM=GEN year=GEN",
+"gloss-zh": "那年的",
+"gloss-zh": "DEM=GEN 年=GEN",
+"words": [
+{
+"word": "それ",
+"gloss": "that",
+"gloss-morph": "DEM",
+"gloss-zh": "那",
+"gloss-morph-zh": "DEM"
+},
+{
+"word": "の",
+"gloss": "GEN",
+"gloss-morph": "=GEN",
+"gloss-zh": "",
+"gloss-morph-zh": "=GEN"
+},
+{
+"word": "年",
+"gloss": "year",
+"gloss-morph": "year",
+"gloss-zh": "年",
+"gloss-morph-zh": "年"
+},
+{
+"word": "の",
+"gloss": "GEN",
+"gloss-morph": "=GEN",
+"gloss-zh": "的",
+"gloss-morph-zh": "=GEN"
+}
+]
+},
+{
+"phrase": "しはすの二十日あまり一日",
+"gloss": "twelfth.month-GEN twenty-days plus one-day",
+"gloss-morph": "December=GEN twentith.day+plus one.day",
+"gloss-zh": "十二月二十一日",
+"gloss-zh": "师走.PN=GEN 二十日+余 一日",
+"words": [
+{
+"word": "しはす",
+"gloss": "twelfth.month",
+"gloss-morph": "December",
+"gloss-zh": "（阴历）十二月",
+"gloss-morph-zh": "师走.PN"
+},
+{
+"word": "の",
+"gloss": "GEN",
+"gloss-morph": "=GEN",
+"gloss-zh": "",
+"gloss-morph-zh": "=GEN"
+},
+{
+"word": "二十日",
+"gloss": "twenty-days",
+"gloss-morph": "twentith.day",
+"gloss-zh": "二十日",
+"gloss-morph-zh": "二十日"
+},
+{
+"word": "あまり",
+"gloss": "plus",
+"gloss-morph": "+plus",
+"gloss-zh": "",
+"gloss-morph-zh": "+余"
+},
+{
+"word": "一日",
+"gloss": "one-day",
+"gloss-morph": "first.day",
+"gloss-zh": "一日",
+"gloss-morph-zh": "一日"
+}
+]
+},
+{
+"phrase": "戌の時に",
+"gloss": "hour.of.dog-LOC",
+"gloss-morph": "dog=GEN hour=DAT",
+"gloss-zh": "戌时",
+"gloss-morph-zh": "戌=Gen 时=DAT",
+"words": [
+{
+"word": "戌",
+"gloss": "hour.of.dog",
+"gloss-morph": "dog",
+"gloss-zh": "戌",
+"gloss-morph-zh": "戌"
+},
+{
+"word": "の",
+"gloss": "GEN",
+"gloss-morph": "=GEN",
+"gloss-zh": "",
+"gloss-morph-zh": "=GEN"
+},
+{
+"word": "時",
+"gloss": "hour",
+"gloss-morph": "hour",
+"gloss-zh": "时",
+"gloss-morph-zh": "时"
+},
+{
+"word": "に",
+"gloss": "LOC",
+"gloss-morph": "=DAT",
+"gloss-zh": "于",
+"gloss-morph-zh": "=DAT"
+}
+]
+},
+{
+"phrase": "門出す",
+"gloss": "departure-do",
+"gloss-morph": "door+go.out-NML+do-CCL",
+"gloss-zh": "出发",
+"gloss-morph-zh": "门+出-NML+做-CCL",
+"words": [
+{
+"word": "門出",
+"gloss": "departure",
+"gloss-morph": "door+go.out-NML",
+"gloss-zh": "出发",
+"gloss-morph-zh": "门+出-NML"
+},
+{
+"word": "す",
+"gloss": "do",
+"gloss-morph": "+do-CCL",
+"gloss-zh": "",
+"gloss-morph-zh": "+做-CCL"
+}
+]
+}
+],
+"gloss-notes-ja": [
+{
+"title": "十二支の時刻",
+"note": "十二支は、古代中国から伝わった十二の動物に基づく周期で、時刻や方角、年などを表す。「戌の刻」は午後7時から午後9時ごろに相当し、日本の古典文学や日記でよく使われる表現である。十二支は古代中国に由来し、1日を12等分して時刻を表した。各時刻は次の通り：子（23-1時）、丑（1-3時）、寅（3-5時）、卯（5-7時）、辰（7-9時）、巳（9-11時）、午（11-13時）、未（13-15時）、申（15-17時）、酉（17-19時）、戌（19-21時）、亥（21-23時）。"
+}
+],
+"gloss-notes-en": [
+{
+"title": "Zodiac Hours Overview",
+"note": "The twelve zodiac signs (Juu-ni-shi) from ancient China were used to divide time, directions, and years. 'Hour of the Dog' (Inu no koku) refers to the time between roughly 7 PM and 9 PM, a common timekeeping expression in classical Japanese texts. The twelve zodiac signs (Jūnishi) from ancient China divided the day into 12 two-hour periods: Rat (23-1), Ox (1-3), Tiger (3-5), Rabbit (5-7), Dragon (7-9), Snake (9-11), Horse (11-13), Goat (13-15), Monkey (15-17), Rooster (17-19), Dog (19-21), Boar (21-23)."
+}
+],
+"gloss-notes-zh": [
+{
+"title": "十二支的时刻概述",
+"note": "十二支（Juu-ni-shi）源自古代中国，用于划分时间、方向和年份。'戌时'（Inu no koku）指的是大约晚上7点到9点之间的时间，这是古典日本文本中常用的时间表达方式。十二支将一天分为12个两个小时的周期：子（23-1点）、丑（1-3点）、寅（3-5点）、卯（5-7点）、辰（7-9点）、巳（9-11点）、午（11-13点）、未（13-15点）、申（15-17点）、酉（17-19点）、戌（19-21点）、亥（21-23点）。"
+}
+],
+"glossary-abbreviations": null,
+"translation-ja-natural": "その年の12月21日、夜の8時ごろに出発しました。",
+"translation-en-natural": "On December 21 of that year, we set off around 8 PM.",
+"translation-zh-natural": "我们在那年十二月二十一日的戌时出发。"
+},
+{
+"date": "20241026,20241111,20250531",
+"id": 3,
+"text": "そのよしいさゝかものにかきつく。",
+"kana": "そのよしいささかものにかきつく。",
+"koutei-yamagen": "そのよしいさゝかものにかきつく。",
+"translation-ja": "その由を少し物に書き付けた。",
+"translation-en": "I wrote down a little of that matter.",
+"translation-zh": "那原由若干，记下为物",
+"phrase-gloss": [
+{
+"phrase": "そのよしいさゝか",
+"gloss": "a little of that matter",
+"gloss-morph": "DEM=GEN matter little",
+"gloss-zh": "那原由若干",
+"gloss-morph-zh": "DEM=GEN 原由 若干",
+"words": [
+{
+"word": "その",
+"gloss": "that",
+"gloss-morph": "DEM=GEN",
+"gloss-zh": "那",
+"gloss-morph-zh": "DEM=GEN"
+},
+{
+"word": "よし",
+"gloss": "matter / reason",
+"gloss-morph": "matter / reason",
+"gloss-zh": "原由",
+"gloss-morph-zh": "原由"
+},
+{
+"word": "いさゝか",
+"gloss": "a.little",
+"gloss-morph": "little",
+"gloss-zh": "若干",
+"gloss-morph-zh": "若干"
+}
+]
+},
+{
+"phrase": "ものにかきつく",
+"gloss": "write down onto the record",
+"gloss-morph": "thing=DAT write.SER+down-CCL",
+"gloss-zh": "记录在东西上",
+"gloss-morph-zh": "物-DAT 写-ADV+下-CCL",
+"words": [
+{
+"word": "もの",
+"gloss": "thing",
+"gloss-morph": "thing",
+"gloss-zh": "东西",
+"gloss-morph-zh": "物"
+},
+{
+"word": "に",
+"gloss": "LOC",
+"gloss-morph": "=DAT",
+"gloss-zh": "在",
+"gloss-morph-zh": "=DAT"
+},
+{
+"word": "かき",
+"gloss": "write.ADV",
+"gloss-morph": "write-ADV",
+"gloss-zh": "写+",
+"gloss-morph-zh": "写-ADV"
+},
+{
+"word": "つく",
+"gloss": "attach",
+"gloss-morph": "attach-CCL",
+"gloss-zh": "下",
+"gloss-morph-zh": "下-CCL"
+}
+]
+}
+],
+"gloss-notes-ja": [
+{
+"title": "かきつく",
+"note": "「かきつく」は『書き付く』で、物に書き記す、メモするという意味。日記や記録の表現として用いられる。"
+}
+],
+"gloss-notes-en": [
+{
+"title": "kakitsuku",
+"note": "'Kakitsuku' means to write down or record something, often used in diary or record-keeping contexts."
+}
+],
+"gloss-notes-zh": [
+{
+"title": "kakitsuku",
+"note": "'Kakitsuku'（かきつく）意为写下或记录某事，常用于日记或记录的上下文中。"
+}
+],
+"glossary-abbreviations": null,
+"translation-ja-natural": "そのことを少し書き記しておいた。",
+"translation-en-natural": "I jotted down a little about the matter.",
+"translation-zh-natural": "我在这里写下当时的一些琐事。"
+},
+{
+"date": "20241103,20241110,20241111,20250603",
+"id": 4,
+"text": "ある人縣の四年五年はてゝ例のことゞも皆しをへて、解由など取りて住むたちより出でゝ船に乘るべき所へわたる。",
+"kana": "あるひとあがたのよとせいつとせはててれいのことどもみなしをへて、げゆなどとりてすむたちよりいでてふねにのるべきところへわたる。",
+"koutei-yamagen": "ある人、縣の四年五年果てて例のことども皆し終えて、解由など取りて住む館より出で船に乗るべき所へ渡る。",
+"translation-ja": "ある人が国司として四年、五年の任期を終え、儀式などもすべて済ませ、解由状を受け取って、住まいを出て船に乗る場所へ向かった。",
+"translation-en": "A certain person, having completed his four or five-year term as governor, performed all customary ceremonies, received the geyu document, and left his residence to head to the place where he was to board the ship.",
+"translation-zh": "某人，县（的任官）的第四、五年结束，做完所有的惯例之事，取得解由等，从居住的宅邸离开，前往乘船的地方。",
+"phrase-gloss": [
+{
+"phrase": "ある人縣の四年五年はてゝ",
+"gloss": "certain.person governor four.year five.year end.ADV.F",
+"gloss-morph": "exist-ADN+person governor=GEN four+year five+year end-ADV=SEQ",
+"gloss-zh": "有一个人，（作为）地方官的第四、五年结束了",
+"gloss-morph-zh": "有-ADN+人 县=GEN 四 五年 结束-ADV=SEQ",
+"words": [
+{
+"word": "ある",
+"gloss": "certain",
+"gloss-morph": "exist-ADN+",
+"gloss-zh": "某",
+"gloss-morph-zh": "有-ADN+"
+},
+{
+"word": "人",
+"gloss": "person",
+"gloss-morph": "person",
+"gloss-zh": "人",
+"gloss-morph-zh": "人"
+},
+{
+"word": "縣",
+"gloss": "governor",
+"gloss-morph": "governor",
+"gloss-zh": "地方官",
+"gloss-morph-zh": "县（行政单位）"
+},
+{
+"word": "の",
+"gloss": "GEN",
+"gloss-morph": "=GEN",
+"gloss-zh": "的",
+"gloss-morph-zh": "=GEN"
+},
+{
+"word": "四年",
+"gloss": "four.year",
+"gloss-morph": "four+year",
+"gloss-zh": "第四年",
+"gloss-morph-zh": "四+年"
+},
+{
+"word": "五年",
+"gloss": "five.year",
+"gloss-morph": "five+year",
+"gloss-zh": "第五年",
+"gloss-morph-zh": "五+年"
+},
+{
+"word": "はて",
+"gloss": "end.ADV",
+"gloss-morph": "end-ADV",
+"gloss-zh": "结束",
+"gloss-morph-zh": "结束-ADV"
+},
+{
+"word": "ゝ",
+"gloss": "CONJ",
+"gloss-morph": "=SEQ",
+"gloss-zh": "",
+"gloss-morph-zh": "=SEQ"
+}
+]
+},
+{
+"phrase": "例のことゞも皆しをへて",
+"gloss": "usual-GEN matters all perform.ADV.F finish.ADV.F",
+"gloss-morph": "usual=GEN matters=PLU all do-ADV+finish-ADV=SEQ",
+"gloss-zh": "惯例的事也都做完了",
+"gloss-morph-zh": "惯例=GEN 事=PLU 全部 做-ADV+完成-ADV=SEQ",
+"words": [
+{
+"word": "例",
+"gloss": "usual",
+"gloss-morph": "usual",
+"gloss-zh": "惯例",
+"gloss-morph-zh": "惯例"
+},
+{
+"word": "の",
+"gloss": "GEN",
+"gloss-morph": "=GEN",
+"gloss-zh": "的",
+"gloss-morph-zh": "=GEN"
+},
+{
+"word": "ことゞも",
+"gloss": "matters",
+"gloss-morph": "matter=PLU",
+"gloss-zh": "事",
+"gloss-morph-zh": "事=PLU"
+},
+{
+"word": "皆",
+"gloss": "all",
+"gloss-morph": "all",
+"gloss-zh": "全部",
+"gloss-morph-zh": "全部"
+},
+{
+"word": "し",
+"gloss": "perform.ADV",
+"gloss-morph": "do-ADV",
+"gloss-zh": "做",
+"gloss-morph-zh": "做-ADV"
+},
+{
+"word": "をへ",
+"gloss": "finish.ADV",
+"gloss-morph": "+finish-ADV",
+"gloss-zh": "完",
+"gloss-morph-zh": "+完-ADV"
+},
+{
+"word": "て",
+"gloss": "CONJ",
+"gloss-morph": "=SEQ",
+"gloss-zh": "了",
+"gloss-morph-zh": "=SEQ"
+}
+]
+},
+{
+"phrase": "解由など取りて住むたちより出でゝ",
+"gloss": "geyu.document etc. take.ADV.F residence leave.ADV.F go.out.ADV.F",
+"gloss-morph": "geyu.document=EXE take-ADV=SEQ live-ADN residence=ABL leave-ADV=SEQ",
+"gloss-zh": "取得了解由状等（物），从居住的宅邸离开",
+"gloss-morph-zh": "解由=EXE 取得-ADV=SEQ 居住-ADN 宅邸=ABL 离开-ADV=SEQ",
+"words": [
+{
+"word": "解由",
+"gloss": "geyu.document",
+"gloss-morph": "geyu.document",
+"gloss-zh": "解由状",
+"gloss-morph-zh": "解由"
+},
+{
+"word": "など",
+"gloss": "etc.",
+"gloss-morph": "=EXE",
+"gloss-zh": "等（物）",
+"gloss-morph-zh": "=EXE"
+},
+{
+"word": "取り",
+"gloss": "take.ADV",
+"gloss-morph": "take-ADV",
+"gloss-zh": "取得",
+"gloss-morph-zh": "取得-ADV"
+},
+{
+"word": "て",
+"gloss": "CONJ",
+"gloss-morph": "=SEQ",
+"gloss-zh": "",
+"gloss-morph-zh": "=SEQ"
+},
+{
+"word": "住む",
+"gloss": "reside.ATTR",
+"gloss-morph": "reside-ADN",
+"gloss-zh": "居住的",
+"gloss-morph-zh": "居住-ADN"
+},
+{
+"word": "たち",
+"gloss": "residence",
+"gloss-morph": "residence",
+"gloss-zh": "宅邸",
+"gloss-morph-zh": "宅邸"
+},
+{
+"word": "より",
+"gloss": "from",
+"gloss-morph": "=ABL",
+"gloss-zh": "从",
+"gloss-morph-zh": "=ABL"
+},
+{
+"word": "出で",
+"gloss": "go.out.ADV",
+"gloss-morph": "go.out-ADV",
+"gloss-zh": "离开",
+"gloss-morph-zh": "离开-ADV"
+},
+{
+"word": "ゝ",
+"gloss": "CONJ",
+"gloss-morph": "=SEQ",
+"gloss-zh": "",
+"gloss-morph-zh": "=SEQ"
+}
+]
+},
+{
+"phrase": "船に乘るべき所へわたる",
+"gloss": "ship-LOC board.should place-ALL cross",
+"gloss-morph": "ship=DAT board-CCL=NEC-ADN place=ALL move-CCL",
+"gloss-zh": "前往规定乘船的地方",
+"gloss-morph-zh": "船=DAT 乘-CCL=NEC-ADN 地方=ALL 移动-CCL",
+"words": [
+{
+"word": "船",
+"gloss": "ship",
+"gloss-morph": "ship",
+"gloss-zh": "船",
+"gloss-morph-zh": "船"
+},
+{
+"word": "に",
+"gloss": "LOC",
+"gloss-morph": "=DAT",
+"gloss-zh": "",
+"gloss-morph-zh": "=DAT"
+},
+{
+"word": "乘る",
+"gloss": "board",
+"gloss-morph": "board-CCL",
+"gloss-zh": "乘",
+"gloss-morph-zh": "乘-CCL"
+},
+{
+"word": "べき",
+"gloss": "should.ATTR",
+"gloss-morph": "=NEC-ADN",
+"gloss-zh": "规定",
+"gloss-morph-zh": "=NEC-ADN"
+},
+{
+"word": "所",
+"gloss": "place",
+"gloss-morph": "place",
+"gloss-zh": "地方",
+"gloss-morph-zh": "地方"
+},
+{
+"word": "へ",
+"gloss": "ALL",
+"gloss-morph": "=ALL",
+"gloss-zh": "",
+"gloss-morph-zh": "=ALL"
+},
+{
+"word": "わたる",
+"gloss": "cross",
+"gloss-morph": "move-CCL",
+"gloss-zh": "前往",
+"gloss-morph-zh": "移动-CCL"
+}
+]
+}
+],
+"gloss-notes-ja": [
+{
+"title": "解由",
+"note": "「解由状」は任国の後任国司から中央政府に提出される、前任国司の任務完了を証明する文書。"
+}
+],
+"gloss-notes-en": [
+{
+"title": "geyu",
+"note": "'Geyu' is a document submitted by the succeeding provincial governor to the central government, certifying the completion of the predecessor's term and duties."
+}
+],
+"gloss-notes-zh": [
+{
+"title": "解由",
+"note": "'解由状'是由继任的县官提交给中央政府的文书，用以证明前任县官的任期和职责已完成。"
+}
+],
+"glossary-abbreviations": null,
+"translation-ja-natural": "ある人が国司として四、五年の任期を終え、すべての儀式を済ませ、解由状を受け取って、住まいを出て船に乗る場所へ向かった。",
+"translation-en-natural": "A certain person, having completed his four- or five-year term as governor, finished all the customary ceremonies, received the geyu document, and left his residence to head to the place where he would board the ship.",
+"translation-zh-natural": "有一个人，他作为地方官的任期的第四、第五年结束了，他做完所有的例行公事，拿到了解由状，于是从住处出发，前往规定乘船的地方。"
+},
+{
+"date": [
+20241103,
+20241111,
+20241112,
+20250603
+],
+"id": 5,
+"text": "かれこれ知る知らぬおくりす。",
+"kana": "かれこれしるしらぬおくりす。",
+"koutei-yamagen": "かれこれ、知る知らぬ、送りす。",
+"translation-ja": "かれこれ、知っている人、知らない人が見送りをする。",
+"translation-en": "People who know him and people who don't know him all see him off.",
+"translation-zh": "这个那个，认识的不认识的，（为他）送行。",
+"phrase-gloss": [
+{
+"phrase": "かれこれ",
+"gloss": "various people",
+"gloss-morph": "DEM.distant+DEM.proximal",
+"gloss-zh": "大家",
+"gloss-morph-zh": "DEM.远+DEM.近",
+"words": [
+{
+"word": "かれ",
+"gloss": "that person",
+"gloss-morph": "DEM.distant",
+"gloss-zh": "那",
+"gloss-zh": "DEM.远"
+},
+{
+"word": "これ",
+"gloss": "this person",
+"gloss-morph": "DEM.proximal",
+"gloss-zh": "这",
+"gloss-morph-zh": "DEM.近"
+}
+]
+},
+{
+"phrase": "知る知らぬ",
+"gloss": "know or not know",
+"gloss-morph": "know-ADN.NL know-THM=NEG-ADN.NL",
+"gloss-zh": "认识的和不认识的",
+"gloss-morph-zh": "认识-ADN.NL 认识-THM=NEG-ADN.NL",
+"words": [
+{
+"word": "知る",
+"gloss": "know",
+"gloss-morph": "know-ADN.NL",
+"gloss-zh": "认识的",
+"gloss-morph-zh": "认识-ADN.NL"
+},
+{
+"word": "知ら",
+"gloss": "know.NEG.BASE",
+"gloss-morph": "know-THM",
+"gloss-zh": "认识",
+"gloss-morph-zh": "认识-THM"
+},
+{
+"word": "ぬ",
+"gloss": "NEG",
+"gloss-morph": "=NEG-ADN.NL",
+"gloss-zh": "不...的",
+"gloss-zh": "=NEG-ADN.NL?"
+}
+]
+},
+{
+"phrase": "おくりす",
+"gloss": "see off",
+"gloss-morph": "send.off+do-CCL",
+"gloss-zh": "送行",
+"gloss-morph-zh": "送行+做-CCL",
+"words": [
+{
+"word": "おくり",
+"gloss": "send off",
+"gloss-morph": "send.off",
+"gloss-zh": "送行",
+"gloss-morph-zh": "送行"
+},
+{
+"word": "す",
+"gloss": "do",
+"gloss-morph": "+do-CCL",
+"gloss-zh": "",
+"gloss-morph-zh": "+做-CCL"
+}
+]
+}
+],
+"glossary-abbreviations": null,
+"translation-ja-natural": "あの人、この人、知っている人も知らない人も、みんなで見送った。",
+"translation-en-natural": "Everyone — friends, strangers, all kinds of people — came to see him off.",
+"translation-zh-natural": "这个人，那个人，认识的，不认识的，都来为他送行。"
+},
+{
+"date": [
+20241103,
+20241111,
+20241112,
+20250603
+],
+"id": 6,
+"text": "年ごろよく具しつる人々なむわかれ難く思ひてその日頻にとかくしつゝのゝしるうちに夜更けぬ。",
+"kana": "としごろよくぐしつるひとびとなむわかれがたくおもひてそのひしきりにとかくしつつののしるうちによふけぬ。",
+"koutei-yamagen": "年ごろよくくらべつる人々なむ、別れがたく思ひて、日しきりにとかくしつつ、ののしるうちに夜更けぬ。",
+"translation-ja": "長年親しく付き合ってきた人々が、別れがたいと感じ、その日しきりにあれこれと言いながら賑やかに過ごすうちに夜が更けた。",
+"translation-en": "The people who had long been close, finding it hard to part, spent that day busily talking back and forth, and before they knew it, night had fallen.",
+"translation-zh": "长年亲密陪伴的人们，感到难以分离，那日终日这般那般，边忙碌边高声喧闹之间，夜已深。",
+"phrase-gloss": [
+{
+"phrase": "年ごろよく具しつる人々",
+"gloss": "people long-accompanied",
+"gloss-morph": "for.long.years good-SER accompany-ADV+ATT-ADN person+person",
+"gloss-zh": "长年友好相伴至今的人们",
+"gloss-morph-zh": "长年 好-SER 陪伴-ADV+ATT-ADN 人+人",
+"words": [
+{
+"word": "年ごろ",
+"gloss": "for-years",
+"gloss-morph": "for.long.years",
+"gloss-zh": "长年",
+"gloss-morph-zh": "长年"
+},
+{
+"word": "よく",
+"gloss": "well",
+"gloss-morph": "good-SER",
+"gloss-zh": "友好地",
+"gloss-morph-zh": "好-SER"
+},
+{
+"word": "具しつる",
+"gloss": "accompanied.PST",
+"gloss-morph": "accompany-ADV+ATT-ADN",
+"gloss-zh": "相伴至今的",
+"gloss-morph-zh": "陪伴-ADV+ATT-ADN"
+},
+{
+"word": "人々",
+"gloss": "people",
+"gloss-morph": "people+people",
+"gloss-zh": "人们",
+"gloss-morph-zh": "人+人"
+}
+]
+},
+{
+"phrase": "なむわかれ難く思ひて",
+"gloss": "FOC hard-to-part feeling-CONJ",
+"gloss-morph": "=FOC part-ADV+LAB-SER feel-ADV=SEQ",
+"gloss-zh": "感到难以分离",
+"gloss-morph-zh": "=FOC 分离-ADV+LAB-SER 感觉-ADV=SEQ",
+"words": [
+{
+"word": "なむ",
+"gloss": "FOC",
+"gloss-morph": "=FOC",
+"gloss-zh": "",
+"gloss-morph-zh": "=FOC"
+},
+{
+"word": "わかれ難く",
+"gloss": "hard-to-part",
+"gloss-morph": "part-ADV+LAB-SER",
+"gloss-zh": "难以分离地",
+"gloss-morph-zh": "分离-ADV+LAB-SER"
+},
+{
+"word": "思ひて",
+"gloss": "feeling-CONJ",
+"gloss-morph": "feel-ADV=SEQ",
+"gloss-zh": "感到",
+"gloss-morph-zh": "感觉-ADV=SEQ"
+}
+]
+},
+{
+"phrase": "その日頻にとかくしつゝ",
+"gloss": "that-day frequently this-and-that doing",
+"gloss-morph": "DEM=GEN whole.day=SER this.and.that do-ADV+ITR",
+"gloss-zh": "那天整天频繁做着这般那般",
+"gloss-morph-zh": "DEM=GEN 终日=SER 这般那般地 做-ADV+ITR",
+"words": [
+{
+"word": "その日",
+"gloss": "that-day",
+"gloss-morph": "DEM=GEN day",
+"gloss-zh": "那日",
+"gloss-morph-zh": "DEM=GEN 日"
+},
+{
+"word": "頻に",
+"gloss": "frequently",
+"gloss-morph": "frequent=SER",
+"gloss-zh": "频繁地",
+"gloss-morph-zh": "频繁=SER"
+},
+{
+"word": "とかく",
+"gloss": "this-and-that",
+"gloss-morph": "this.and.that",
+"gloss-zh": "这般那般地",
+"gloss-morph-zh": "这般那般"
+},
+{
+"word": "しつゝ",
+"gloss": "doing",
+"gloss-morph": "do-ADV+ITR",
+"gloss-zh": "做着",
+"gloss-morph-zh": "做-ADV+ITR"
+}
+]
+},
+{
+"phrase": "のゝしるうちに夜更けぬ",
+"gloss": "making-noise while night-fell",
+"gloss-morph": "making.noise-ADN duration-DAT night fall-ADV+MNF-CCL",
+"gloss-zh": "吵吵闹闹间夜已深",
+"gloss-morph-zh": "喧闹-ADN 间=DAT 夜 深-ADV+MNF-CCL",
+"words": [
+{
+"word": "のゝしる",
+"gloss": "making-noise",
+"gloss-morph": "make.noise-ADN",
+"gloss-zh": "吵吵闹闹的",
+"gloss-morph-zh": "喧闹-ADN"
+},
+{
                 "word": "うちに",
                 "gloss": "while",
                 "gloss-morph": "duration-DAT",
@@ -14658,130 +14658,216 @@
 	"translation-zh": "说着“等说‘还不回去’站起来的人（来后）再吟咏。”去找（那个人），但由于夜已深吧，就这样已经离开了。",
         "phrase-gloss": [
           {
-            "phrase": "まからずとて立ちぬる人を待ちて詠まむ」とて求めけるを、",
+            "phrase": "まからずとて立ちぬる人を待ちて詠まむとて求めけるを、",
             "gloss": "'leave NEG' QUOT CONJ stand PERF person ACC wait and compose FUT' QUOT seek PERF ACC",
+	    "gloss-morph": "leave-THM=NEG.CCL=SCM stand-ADV+MNF-ADN person=ACC wait-ADV=SEQ compose-THM+CJT-CCL=SCM search-ADV+RET-ADN.NL=CON",
+	    "gloss-zh": "“等那个说‘还不回去’站了起来的人回来再咏吧。”这么说着去找，但...",
+	    "gloss-morph-zh": "离开-THM=NEG.CCL=SCM 站-ADV+MNF-ADN 人=ACC 等-ADV=SEQ 咏-THM+CJT-CCL=SCM 寻找-ADV+RET-ADN.NL=CON",
             "words": [
               {
                 "word": "まから",
-                "gloss": "leave.IRR"
+                "gloss": "leave.IRR",
+		"gloss-morph": "leave-THM",
+		"gloss-zh": "回去",
+		"gloss-morph-zh": "离开-THM"
               },
               {
                 "word": "ず",
-                "gloss": "NEG"
+                "gloss": "NEG",
+		"gloss-morph": "=NEG.CCL",
+		"gloss-zh": "没",
+		"gloss-morph-zh": "=NEG.CCL"
               },
               {
                 "word": "と",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-morph": "=CMP",
+		"gloss-zh": "",
+		"gloss-morph-zh": "=CMP"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-morph-zh": "=SEQ"
               },
               {
                 "word": "立ち",
-                "gloss": "stand.ADV"
+                "gloss": "stand.ADV",
+		"gloss-morph": "stand-ADV",
+		"gloss-zh": "站",
+		"gloss-morph-zh": "站-ADV"
               },
               {
                 "word": "ぬる",
-                "gloss": "PERF.ATTR"
+                "gloss": "PERF.ATTR",
+		"gloss-morph": "+MNF-ADN",
+		"gloss-zh": "起来的",
+		"gloss-morph-zh": "+MNF-ADN"
               },
               {
                 "word": "人",
-                "gloss": "person"
+                "gloss": "person",
+		"gloss-morph": "person",
+		"gloss-zh": "人",
+		"gloss-morph-zh": "人"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=ACC",
+		"gloss-zh": "",
+		"gloss-morph-zh": "=ACC"
               },
               {
                 "word": "待ち",
-                "gloss": "wait.ADV"
+                "gloss": "wait.ADV",
+		"gloss-morph": "wait-ADV",
+		"gloss-zh": "等",
+		"gloss-morph-zh": "等-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-morph-zh": "=SEQ"
               },
               {
                 "word": "詠ま",
-                "gloss": "compose.IRR"
+                "gloss": "compose.IRR",
+		"gloss-morph": "compose-THM",
+		"gloss-zh": "咏",
+		"gloss-morph-zh": "咏-THM"
               },
               {
                 "word": "む",
-                "gloss": "FUT"
+                "gloss": "FUT",
+		"gloss-morph": "+CJT-CCL",
+		"gloss-zh": "吧",
+		"gloss-morph-zh": "+CJT-CCL"
               },
               {
                 "word": "と",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-morph": "=CMP",
+		"gloss-zh": "",
+		"gloss-morph-zh": "=CMP"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-morph-zh": "=SEQ"
               },
               {
                 "word": "求め",
-                "gloss": "seek.ADV"
+                "gloss": "seek.ADV",
+		"gloss-morph": "search-ADV",
+		"gloss-zh": "找",
+		"gloss-morph-zh": "寻找-ADV"
               },
               {
                 "word": "ける",
-                "gloss": "PST.ATTR"
+                "gloss": "PST.ATTR",
+		"gloss-morph": "+RET-ADN.NL",
+		"gloss-zh": "",
+		"gloss-morph-zh": "+RET-ADN.NL"
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "ACC",
+		"gloss-morph": "=CON",
+		"gloss-zh": "但",
+		"gloss-morph-zh": "=CON"
               }
             ]
           },
           {
             "phrase": "夜更けぬとにやありけむ、やがていにけり。",
             "gloss": "night be.late NEG QUOT COP Q exist PST, immediately leave PST",
+	    "gloss-morph": "night be.late-ADV+MNF-CCL=CMP=DAT=XCL=COP-ADV+RET.CJT-CCL immediately go-ADV+RET-CCL",
+	    "gloss-zh": "因为是想着夜已深了吧，（那个人）早就走了。",
+	    "gloss-morph-zh": "夜 晚-ADV+MNF-CCL=CMP=DAT=XCL=COP-ADV+RET.CJT-CCL 最后 离开-ADV+RET-CCL",
             "words": [
               {
                 "word": "夜",
-                "gloss": "night"
+                "gloss": "night",
+		"gloss-morph": "night",
+		"gloss-zh": "夜",
+		"gloss-morph-zh": "夜"
               },
               {
                 "word": "更け",
-                "gloss": "be.late.ADV"
+                "gloss": "be.late.ADV",
+		"gloss-morph": "be.late-ADV",
+		"gloss-zh": "深",
+		"gloss-morph-zh": "晚-ADV"
               },
               {
                 "word": "ぬ",
-                "gloss": "PERF"
+                "gloss": "PERF",
+		"gloss-morph": "+MNF-CCL",
+		"gloss-zh": "",
+		"gloss-morph-zh": "+MNF-CCL"
               },
               {
                 "word": "と",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-morph": "=CMP",
+		"gloss-zh": "",
+		"gloss-morph-zh": "=CMP"
               },
               {
                 "word": "に",
-                "gloss": "COP.ADV"
+                "gloss": "COP.ADV",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "因为",
+		"gloss-morph-zh": "=DAT"
               },
               {
                 "word": "や",
-                "gloss": "Q"
+                "gloss": "Q",
+		"gloss-morph": "=XCL",
+		"gloss-zh": "吗",
+		"gloss-morph-zh": "=XCL"
               },
               {
                 "word": "あり",
-                "gloss": "exist.ADV"
+                "gloss": "exist.ADV",
+		"gloss-morph": "=COP-ADV",
+		"gloss-zh": "是",
+		"gloss-morph-zh": "=COP-ADV"
               },
               {
                 "word": "けむ",
-                "gloss": "PST.SUP.ATTR"
-              },
-              {
-                "word": "、",
-                "gloss": "PUNCT"
+                "gloss": "PST.SUP.ATTR",
+		"gloss-morph": "+RET.CJT-CCL",
+		"gloss-zh": "了吧",
+		"gloss-morph-zh": "+RET.CJT-CCL"
               },
               {
                 "word": "やがて",
-                "gloss": "immediately"
+                "gloss": "immediately",
+		"gloss-morph": "immediately",
+		"gloss-zh": "早就",
+		"gloss-morph-zh": "最后"
               },
               {
                 "word": "いに",
-                "gloss": "leave.ADV"
+                "gloss": "leave.ADV",
+		"gloss-morph": "go-ADV",
+		"gloss-zh": "走",
+		"gloss-morph-zh": "离开-ADV"
               },
               {
                 "word": "けり",
-                "gloss": "PST"
+                "gloss": "PST",
+		"gloss-morph": "+RET-CCL",
+		"gloss-zh": "了",
+		"gloss-morph-zh": "+RET-CCL"
               }
             ]
           }
@@ -14789,7 +14875,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "その子は「『まだ帰りませぬ』と言って立ちあがった人を待ってから詠みましょう」と言うので、皆、その人を待っていたが、夜が更けたからか、結局そのままその人は戻ってこなかった。",
         "translation-en-natural": "The kid said, \"I'll wait for the person who said, 'I'm not leaving yet,' and then compose a poem.\" So everyone waited for that person, but perhaps because the night had grown late, in the end, he never came back.",
-	"translation-zh-natural": "小孩说着“等说‘还不回去’站起来的人回来后再吟咏。”去找那个人，但也许是因为夜已深的缘故吧，那个人最后就这样已经离开了。"
+	"translation-zh-natural": "“等那个说‘还不回去’站起来的人回来后再让我咏吧。”小孩说这么说道，去找那个人。但也许是因为觉得夜已深的缘故吧，那个人原来早已离开了。"
       },
       {
         "date": [
@@ -14968,7 +15054,6 @@
           }
         ],
         "glossary-abbreviations": null,
->>>>>>> main
         "translation-ja-natural": "いやがるところを無理に聞いて、やっと口にした歌は、...",
         "translation-en-natural": "After pressing the reluctant kid, the poem which was finally recited was...",
         "translation-zh-natural": "被强迫问时，终于说出的和歌是，"
