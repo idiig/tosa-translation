@@ -14986,40 +14986,67 @@
           {
             "phrase": "この童、",
             "gloss": "this child,",
+	    "gloss-morph": "DEM=GEN child",
+	    "gloss-zh": "这个孩子",
+	    "gloss-morph-zh": "DEM=GEN 孩子",
             "words": [
               {
                 "word": "この",
-                "gloss": "this"
+                "gloss": "this",
+		"gloss-morph": "DEM=GEN",
+		"gloss-zh": "这个",
+		"gloss-morph-zh": "DEM=GEN"
               },
               {
                 "word": "童",
-                "gloss": "child"
+                "gloss": "child",
+		"gloss-morph": "child",
+		"gloss-zh": "孩子",
+		"gloss-morph-zh": "孩子"
               }
             ]
           },
           {
             "phrase": "さすがに恥ぢていはず。",
             "gloss": "as.expected be.embarrassed and say NEG",
+	    "gloss-morph": "as.expected=SER be.embarrassed-ADV=SEQ say-THM=NEG.CCL",
+	    "gloss-zh": "果然害羞没说",
+	    "gloss-morph-zh": "果然=SER 害羞-ADV=SEQ 说-THM=NEG.CCL",
             "words": [
               {
                 "word": "さすがに",
-                "gloss": "as.expected.ADV"
+                "gloss": "as.expected.ADV",
+		"gloss-morph": "as.expected=SER",
+		"gloss-zh": "果然",
+		"gloss-morph-zh": "果然=SER"
               },
               {
                 "word": "恥ぢ",
-                "gloss": "be.embarrassed.ADV"
+                "gloss": "be.embarrassed.ADV",
+		"gloss-morph": "be.embarrassed-ADV",
+		"gloss-zh": "害羞",
+		"gloss-morph-zh": "害羞-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "着",
+		"gloss-morph-zh": "=SEQ"
               },
               {
                 "word": "いは",
-                "gloss": "say.IRR"
+                "gloss": "say.IRR",
+		"gloss-morph": "say-THM",
+		"gloss-zh": "说",
+		"gloss-morph-zh": "说-THM"
               },
               {
                 "word": "ず",
-                "gloss": "NEG"
+                "gloss": "NEG",
+		"gloss-morph": "=NEG.CCL",
+		"gloss-zh": "没",
+		"gloss-morph-zh": "=NEG.CCL"
               }
             ]
           }
@@ -15040,45 +15067,72 @@
         "koutei-yamagen": "強ひて問へば、いへる歌、",
         "translation-ja": "強いて問うと、言った歌は、",
         "translation-en": "When pressed to answer, the poem they recited was...",
-        "translation-zh": "被强迫问时，说出的和歌，",
+        "translation-zh": "追着问后咏的和歌，",
         "phrase-gloss": [
           {
             "phrase": "強ひて問へば、",
             "gloss": "force-and ask.CONJ",
+	    "gloss-morph": "force-ADV=SEQ ask-INC=XCD",
+	    "gloss-zh": "硬要问，结果",
+	    "gloss-morph-zh": "强迫-ADV=SEQ 问-INC=XCD",
             "words": [
               {
                 "word": "強ひ",
-                "gloss": "force.ADV"
+                "gloss": "force.ADV",
+		"gloss-morph": "force-ADV",
+		"gloss-zh": "硬要",
+		"gloss-morph-zh": "强迫-ADV"
               },
               {
                 "word": "て",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=SEQ",
+		"gloss-zh": "",
+		"gloss-morph-zh": "=SEQ"
               },
               {
                 "word": "問へ",
-                "gloss": "ask.REALIS"
+                "gloss": "ask.REALIS",
+		"gloss-morph": "ask-INC",
+		"gloss-zh": "问",
+		"gloss-morph-zh": "问-INC"
               },
               {
                 "word": "ば",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "=XCD",
+		"gloss-zh": "结果",
+		"gloss-morph-zh": "=XCD"
               }
             ]
           },
           {
             "phrase": "いへる歌、",
             "gloss": "say.PERF poem,",
+	    "gloss-morph": "say-INC+STA-ADN poem",
+	    "gloss-zh": "咏的和歌",
+	    "gloss-morph-zh": "说-INC+STA-ADN 和歌",
             "words": [
               {
                 "word": "いへ",
-                "gloss": "say.REALIS"
+                "gloss": "say.REALIS",
+		"gloss-morph": "say-INC",
+		"gloss-zh": "咏",
+		"gloss-morph-zh": "说-INC"
               },
               {
                 "word": "る",
-                "gloss": "PERF.ATTR"
+                "gloss": "PERF.ATTR",
+		"gloss-morph": "+STA-ADN",
+		"gloss-zh": "的",
+		"gloss-morph-zh": "+STA-ADN"
               },
               {
                 "word": "歌",
-                "gloss": "poem"
+                "gloss": "poem",
+		"gloss-morph": "poem",
+		"gloss-zh": "和歌",
+		"gloss-morph-zh": "和歌"
               }
             ]
           }
@@ -15086,7 +15140,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "いやがるところを無理に聞いて、やっと口にした歌は、...",
         "translation-en-natural": "After pressing the reluctant kid, the poem which was finally recited was...",
-        "translation-zh-natural": "被强迫问时，终于说出的和歌是，"
+        "translation-zh-natural": "大家硬要问他，他总算咏了这首和歌："
       },
       {
         "date": [
@@ -15102,70 +15156,118 @@
 	"translation-zh": "去者也/留者也/袖子的泪河/只是近水处/更沾湿",
         "phrase-gloss": [
           {
-            "phrase": "ゆく人もとまるも袖の涙川、",
-            "gloss": "go person also stay also sleeve-GEN tear river,",
+            "phrase": "ゆく人もとまるも袖の涙川",
+            "gloss": "go person also stay also sleeve-GEN tear river",
+	    "gloss-morph": "go-ADN person=IFO stay-ADN.NL=IFO sleeve=GEN tear+river",
+	    "gloss-zh": "去者和留者都，袖子（湿成）泪河",
+	    "gloss-morph-zh": "去-ADN 人=IFO 留-ADN.NL=IFO 袖子=GEN 泪+河",
             "words": [
               {
                 "word": "ゆく",
-                "gloss": "go.ATTR"
+                "gloss": "go.ATTR",
+		"gloss-morph": "go-ADN",
+		"gloss-zh": "去的",
+		"gloss-morph-zh": "去-ADN"
               },
               {
                 "word": "人",
-                "gloss": "person"
+                "gloss": "person",
+		"gloss-morph": "person",
+		"gloss-zh": "人",
+		"gloss-morph-zh": "人"
               },
               {
                 "word": "も",
-                "gloss": "also"
+                "gloss": "also",
+		"gloss-morph": "=IFO",
+		"gloss-zh": "也",
+		"gloss-morph-zh": "=IFO"
               },
               {
                 "word": "とまる",
-                "gloss": "stay.ATTR"
+                "gloss": "stay.ATTR",
+		"gloss-morph": "stay-ADN.NL",
+		"gloss-zh": "留的",
+		"gloss-morph-zh": "留-ADN.NL"
               },
               {
                 "word": "も",
-                "gloss": "also"
+                "gloss": "also",
+		"gloss-morph": "=IFO",
+		"gloss-zh": "也",
+		"gloss-morph-zh": "=IFO"
               },
               {
                 "word": "袖",
-                "gloss": "sleeve"
+                "gloss": "sleeve",
+		"gloss-morph": "sleeve",
+		"gloss-zh": "袖子",
+		"gloss-morph-zh": "袖"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-morph-zh": "=GEN"
               },
               {
                 "word": "涙川",
-                "gloss": "tear river"
+                "gloss": "tear river",
+		"gloss-morph": "tear+river",
+		"gloss-zh": "泪河",
+		"gloss-morph-zh": "泪+河"
               }
             ]
           },
           {
             "phrase": "水際のみこそ濡れまさりけれ",
             "gloss": "water's.edge only-TOP EMPH be.wet increase.PERF.PST",
+	    "gloss-morph": "water.edge=ISO=EMP be.wet-ADV increase-ADV+RET-INC",
+	    "gloss-zh": "正如水边，变得越来越湿",
+	    "gloss-morph-zh": "水边=ISO=EMP 湿-ADV 增加-ADV+RET-INC",
             "words": [
               {
                 "word": "水際",
-                "gloss": "water's.edge"
+                "gloss": "water's.edge",
+		"gloss-morph": "water.edge",
+		"gloss-zh": "水边",
+		"gloss-morph-zh": "水边"
               },
               {
                 "word": "のみ",
-                "gloss": "only"
+                "gloss": "only",
+		"gloss-morph": "=ISO",
+		"gloss-zh": "只有",
+		"gloss-morph-zh": "只有"
               },
               {
                 "word": "こそ",
-                "gloss": "EMPH"
+                "gloss": "EMPH",
+		"gloss-morph": "=EMP",
+		"gloss-zh": "才",
+		"gloss-morph-zh": "=EMP"
               },
               {
                 "word": "濡れ",
-                "gloss": "be.wet.ADV"
+                "gloss": "be.wet.ADV",
+		"gloss-morph": "be.wet-ADV",
+		"gloss-zh": "湿",
+		"gloss-morph-zh": "湿-ADV"
               },
               {
                 "word": "まさり",
-                "gloss": "increase.ADV"
+                "gloss": "increase.ADV",
+		"gloss-morph": "increase-ADV",
+		"gloss-zh": "越来越",
+		"gloss-morph-zh": "增加-ADV"
               },
               {
                 "word": "けれ",
-                "gloss": "PST"
+                "gloss": "PST",
+		"gloss-morph": "+RET-INC",
+		"gloss-zh": "",
+		"gloss-morph-zh": "+RET-INC"
               }
             ]
           }
@@ -15173,7 +15275,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "行く人も、立ち止まる人も、袖を濡らす涙川、水際ばかりがますます濡れていきます。",
         "translation-en-natural": "Whether they leave or stay, their sleeves are rivers of tears; only the water's edge keeps getting wetter.",
-	"translation-zh-natural": "无论是离去的人还是停留的人，袖子上的泪水流淌如河水，只有岸边濡染更胜一筹。"
+	"translation-zh-natural": "“无论是离去的人还是停留的人，袖子如同泪河。河水涨，打湿了近水处。泪水落，打湿了袖子。”"
       },
       {
         "date": [
@@ -15186,27 +15288,42 @@
         "koutei-yamagen": "となむ詠める。",
         "translation-ja": "と詠んだ。",
         "translation-en": "And so it was composed.",
-	"translation-zh": "吟咏道。",
+	"translation-zh": "咏道。",
         "phrase-gloss": [
           {
             "phrase": "となむ詠める。",
             "gloss": "QUOT EMPH compose.PERF",
+	    "gloss-morph": "=CMP=FOC compose-INC+STA-ADN",
+	    "gloss-zh": "咏道",
+	    "gloss-morph-zh": "=CMP=FOC 咏-INC+STA-ADN",
             "words": [
               {
                 "word": "と",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-morph": "=CMP",
+		"gloss-zh": "",
+		"gloss-morph-zh": "=CMP"
               },
               {
                 "word": "なむ",
-                "gloss": "EMPH"
+                "gloss": "EMPH",
+		"gloss-morph": "=FOC",
+		"gloss-zh": "",
+		"gloss-morph-zh": "=FOC"
               },
               {
                 "word": "詠め",
-                "gloss": "compose.REALIS"
+                "gloss": "compose.REALIS",
+		"gloss-morph": "compose-INC",
+		"gloss-zh": "咏",
+		"gloss-morph-zh": "咏-INC"
               },
               {
                 "word": "る",
-                "gloss": "PERF"
+                "gloss": "PERF",
+		"gloss-morph": "+STA-ADN",
+		"gloss-zh": "道",
+		"gloss-morph-zh": "+STA-ADN"
               }
             ]
           }
@@ -15214,7 +15331,7 @@
         "glossary-abbreviations": null,
         "translation-ja-natural": "と詠んだ。",
         "translation-en-natural": "And so it was composed.",
-	"translation-zh-natural": "孩子吟咏道。"
+	"translation-zh-natural": "孩子这么咏道。"
       },
       {
         "date": "20250228",
