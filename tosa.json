@@ -107,7 +107,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ATTR": "attributive (連体形)",
+          "QUOT": "quotative (引用)",
+          "ACC": "accusative (目的格)",
+          "CONJ": "conjunctive (接続形)",
+          "VOL": "volitional (意志形)",
+          "COP": "copula (断定)"
+        },
         "translation-ja-natural": "男の書き方で書くという日記を、女の書き方で書いてみようと思って書いているのです。",
         "translation-en-natural": "So, diaries are usually done up in this formal, masculine style... but here I am, giving it a go in a bit more of a feminine touch.",
         "notes-ja": [
@@ -257,7 +264,14 @@
             "note": "The twelve zodiac signs (Juu-ni-shi) from ancient China were used to divide time, directions, and years. 'Hour of the Dog' (Inu no koku) refers to the time between roughly 7 PM and 9 PM, a common timekeeping expression in classical Japanese texts. The twelve zodiac signs (Jūnishi) from ancient China divided the day into 12 two-hour periods: Rat (23-1), Ox (1-3), Tiger (3-5), Rabbit (5-7), Dragon (7-9), Snake (9-11), Horse (11-13), Goat (13-15), Monkey (15-17), Rooster (17-19), Dog (19-21), Boar (21-23)."
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（属格）",
+          "LOC": "locative（場所格）",
+          "PST": "past（過去）",
+          "NMLZ": "nominalizer（名詞化）",
+          "COND": "conditional（条件）",
+          "CONJ": "conjunctive（接続）"
+        },
         "translation-ja-natural": "その年の12月21日、夜の8時ごろに出発しました。",
         "translation-en-natural": "On December 21 of that year, we set off around 8 PM."
       },
@@ -323,7 +337,11 @@
             "note": "'Kakitsuku' means to write down or record something, often used in diary or record-keeping contexts."
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV": "adverbial form (連用形)",
+          "GEN": "genitive（属格）",
+          "LOC": "locative（場所格）"
+        },
         "translation-ja-natural": "そのことを少し書き記しておいた。",
         "translation-en-natural": "I jotted down a little about the matter."
       },
@@ -497,7 +515,15 @@
             "note": "'Geyu' is a document submitted by the succeeding provincial governor to the central government, certifying the completion of the predecessor's term and duties."
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（属格）",
+          "ADV.F": "adverbial form（連用形）",
+          "CONJ": "conjunctive（接続）",
+          "LOC": "locative（場所格）",
+          "ALL": "allative（方向・到達格）",
+          "FOC": "focus（焦点）",
+          "ATTR": "attributive（連体形）"
+        },
         "translation-ja-natural": "ある人が国司として四、五年の任期を終え、すべての儀式を済ませ、解由状を受け取って、住まいを出て船に乗る場所へ向かった。",
         "translation-en-natural": "A certain person, having completed his four- or five-year term as governor, finished all the customary ceremonies, received the geyu document, and left his residence to head to the place where he would board the ship."
       },
@@ -562,7 +588,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative (場所格)",
+          "NEG": "negation (否定)"
+        },
         "translation-ja-natural": "あの人、この人、知っている人も知らない人も、みんなで見送った。",
         "translation-en-natural": "Everyone — friends, strangers, all kinds of people — came to see him off."
       },
@@ -661,7 +690,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "FOC": "focus particle（係助詞『なむ』による強調）",
+          "PST": "past tense（過去形）",
+          "CONJ": "conjunctive（接続助詞：〜て）",
+          "PFV": "perfective（完了：〜ぬ）"
+        },
         "translation-ja-natural": "長年親しくしてきた人たちは、別れるのがつらくて、その日もしきりにあれこれ話しながら賑やかに過ごしているうちに、夜が更けてしまった。",
         "translation-en-natural": "Those who had been close for years found it hard to say goodbye, and as they chatted and bustled about that day, night quietly crept up on them."
       },
@@ -749,7 +783,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "PN": "proper noun（固有名詞）",
+          "GEN": "genitive particle（の）",
+          "QUOT": "quotative particle（と）",
+          "ADV": "adverbial ending（に）",
+          "ADV.F": "adverbial (conjunctive) form（連用形）",
+          "PST": "past tense（過去形）"
+        },
         "translation-ja-natural": "二十二日、和泉の国まで無事に行けるようにと祈願した。",
         "translation-en-natural": "On the twenty-second day, I prayed for a safe journey as far as Izumi Province.",
         "notes-ja": [
@@ -838,7 +879,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive particle（〜の）",
+          "COP.REALIS.F": "copula, realis form（断定助動詞『なり』の已然形）",
+          "COND.F": "conditional form（〜ど：逆接）"
+        },
         "translation-ja-natural": "藤原の言實が、船の旅なのに、馬の餞別を贈った。",
         "translation-en-natural": "Fujiwara no Tokizane sent off a farewell gift called 'Uma no Hanamuke' (horse nose heading)—even though it was a sea voyage. Go figure."
       },
@@ -954,7 +999,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV.F": "adverbial form（連用形：〜て、〜に など）",
+          "CONJ": "conjunctive particle（接続助詞：〜て、〜ば）",
+          "GEN": "genitive particle（〜の）",
+          "LOC": "locative particle（〜にて、〜に）",
+          "PERF": "perfective（完了：〜ぬ、〜たり）",
+          "COP.REALIS.F": "copula, realis form（断定助動詞『なり』の已然形）",
+          "COND.F": "conditional form（〜ば、〜ど：条件・逆接）"
+        },
         "translation-ja-natural": "身分の上下を問わず、皆が酔いつぶれて、潮の香る浜辺でふざけ合っていた。",
         "translation-en-natural": "People of all ranks got drunk and were playfully fooling around by the salty seaside."
       },
@@ -1021,7 +1074,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive particle（〜の）",
+          "QUOT": "quotative particle（〜と）",
+          "ATTR": "attributive form（連体形）"
+        },
         "translation-ja-natural": "二十三日、八木の康教という人物がいた。",
         "translation-en-natural": "On the 23rd, there was a man named Yasunori from Yagi."
       },
@@ -1120,7 +1177,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative particle（〜に）",
+          "DAT": "dative particle（〜に）",
+          "FOC": "focus particle（〜も）",
+          "NEG.ATTR": "negative, attributive form（〜ざる）",
+          "COP.EXP": "copula, explanatory form（断定・説明『なり』）"
+        },
         "translation-ja-natural": "この人物は、地方では特に重用されるような者ではなかった。",
         "translation-en-natural": "This fellow was not someone who held an important position in the province."
       },
@@ -1199,7 +1262,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "FOC": "focus particle（〜こそ、〜ぞ）",
+          "ATTR": "attributive form（連体形）",
+          "LOC": "locative particle（場所格：〜にて）",
+          "CONJ": "conjunctive particle（〜て）",
+          "GEN": "genitive particle（〜の）",
+          "PERF.ATTR": "perfective, attributive form（完了助動詞『たり』の連体形）"
+        },
         "translation-ja-natural": "これこそ、きちんとした形で馬の餞別をした人だった。",
         "translation-en-natural": "This, indeed, was someone who properly offered a farewell gift of a horse."
       },
@@ -1358,7 +1428,22 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative particle（〜に）",
+          "FOC": "focus particle（〜や、〜は）",
+          "SUP": "suppositional（〜む：推量）",
+          "GEN": "genitive particle（〜の）",
+          "COP.ADJ.F": "copula, adverbial form（〜と）",
+          "CONJ": "conjunctive particle（〜して）",
+          "QUOT": "quotative particle（〜とて）",
+          "NEG": "negation（〜ず）",
+          "EXP.NMLZ": "explanatory nominalizer（〜なる）",
+          "ACC": "accusative particle（〜を）",
+          "ATTR": "attributive form（連体形）",
+          "TOP": "topic particle（〜は）",
+          "EMPH": "emphatic particle（〜なむ）",
+          "PST.REP": "past, hearsay（〜ける）"
+        },
         "translation-ja-natural": "これは守の人柄ゆえなのだろうか。地方の人の常として、今さら会うこともあるまいと思って姿を見せないが、心ある人は気兼ねせずに、なんとかしてやって来てくれたのだった。",
         "translation-en-natural": "Could it be due to the governor's character? The locals, as is often the case, assumed there was no more need to visit, but those with sincere hearts came despite that, without hesitation."
       },
@@ -1437,7 +1522,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "TOP": "topic particle（〜は）",
+          "LOC": "locative particle（〜に）",
+          "CONJ": "conjunctive particle（〜て）",
+          "ATTR": "attributive form（連体形）",
+          "EMPH": "emphatic particle（〜しも）",
+          "NEG": "negation（〜ず、〜あらず）"
+        },
         "translation-ja-natural": "これは、物をもらったからといって褒めるようなことではない。",
         "translation-en-natural": "This is not something to praise merely because of a gift."
       },
@@ -1504,7 +1596,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive particle（〜の）",
+          "LOC": "locative particle（場所格：〜に）",
+          "POL": "polite auxiliary（丁寧助動詞）",
+          "PERF": "perfective auxiliary（完了助動詞）"
+        },
         "translation-ja-natural": "二十四日、講師が馬の餞別のためにお越しになった。",
         "translation-en-natural": "On the 24th, the lecturer came to present a farewell gift involving a horse."
       },
@@ -1641,7 +1738,16 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ACC": "accusative particle（〜を）",
+          "CONJ": "conjunctive form（〜て）",
+          "even": "emphatic particle for minimal degree（〜すら、〜だに）",
+          "FOC": "focus particle（係助詞：〜ぞ）",
+          "GEN": "genitive or connective particle（〜とある）",
+          "LOC": "locative particle（〜に）",
+          "NEG": "negative auxiliary（〜ぬ）",
+          "TOP": "topic particle（〜は・〜が）"
+        },
         "translation-ja-natural": "身分の上下を問わず、子供までもが酔いしれて、一文字すら読めないような者が、十文字を踏んで遊んでいた。",
         "translation-en-natural": "Everyone, regardless of rank—even children—were completely drunk, and even those who couldn’t recognize the simplest character were dancing and playing, stamping in the shape of a cross."
       },
@@ -1726,7 +1832,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive particle（〜の）",
+          "REALIS.F": "realis form（已然形）",
+          "PURPOSE": "purpose particle（〜に：動作目的）",
+          "PERF": "perfective auxiliary（完了助動詞『り』）"
+        },
         "translation-ja-natural": "二十五日、守の館から、呼びに人が来て、手紙を持ってきた。",
         "translation-en-natural": "On the 25th, someone arrived from the governor's mansion, bringing a letter to invite us."
       },
@@ -1831,7 +1942,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "CONJ": "conjunctive form（〜て、〜にて）",
+          "PERF": "perfective auxiliary（完了助動詞『ぬ』）",
+          "PASS.ADV.F": "passive, adverbial form（受身の連用形）",
+          "PST.REP": "past, hearsay（過去伝聞：〜けり）"
+        },
         "translation-ja-natural": "呼ばれて出かけ、一日一夜のあいだ、いろいろと遊びながら夜が明けた。",
         "translation-en-natural": "He was invited and went, and after a whole day and night of various amusements, dawn came."
       },
@@ -1942,7 +2058,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive particle（〜の）",
+          "LOC": "locative particle（〜に・〜にて）",
+          "CONJ": "conjunctive form（〜て）",
+          "PL": "plural suffix or interpretation（複数形：〜ら）",
+          "PERF": "perfective auxiliary（完了助動詞『たり』）"
+        },
         "translation-ja-natural": "二十六日、また守の館で酒宴が催され、騒ぎもあって、男たちにまで贈り物が配られた。",
         "translation-en-natural": "On the 26th, there was yet another banquet at the governor's residence, with lively revelry, and even the men received gifts."
       },
@@ -2001,7 +2123,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "CONJ": "conjunctive particle（〜て：動作や状態の接続）",
+          "PST.REP": "past tense, hearsay/reportative（〜けり：伝聞・過去）"
+        },
         "translation-ja-natural": "みんな声を張り上げて、漢詩を唱えた。",
         "translation-en-natural": "They all raised their voices and recited a Chinese poem."
       },
@@ -2088,7 +2213,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADD": "additive particle（〜も：〜もまた）",
+          "PL": "plural marker（複数形）",
+          "PERF": "perfect aspect（完了：〜り）",
+          "PST.REP": "past tense, reportative（伝聞・過去：〜けり）"
+        },
         "translation-ja-natural": "主人も客人も、そして他の人たちも、みんなで和歌を詠み交わした。",
         "translation-en-natural": "Everyone—the host, the guests, and others—took turns reciting Japanese poems together."
       },
@@ -2152,7 +2282,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "NEG.BASE": "negative base form (未然形)",
+          "TOP": "topic particle（〜は）",
+          "LOC": "locative particle（〜に）",
+          "POT.NEG": "potential negation（〜できない）",
+          "NEG": "negation（〜ず）"
+        },
         "translation-ja-natural": "漢詩は、ここには書けません。",
         "translation-en-natural": "I cannot write Chinese poetry here."
       },
@@ -2229,7 +2365,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive particle（〜の）",
+          "EVID": "evidential auxiliary（〜り）",
+          "PST": "past auxiliary（〜ける）"
+        },
         "translation-ja-natural": "この和歌は、主人である新任の国司が詠んだもので、",
         "translation-en-natural": "This poem, a waka, was composed by the host—the new governor—and ...",
         "notes-ja": [
@@ -2380,7 +2520,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "DAT": "dative case marker",
+          "QUOT": "quotative particle",
+          "INTENT": "intentional auxiliary verb",
+          "PERF": "perfective auxiliary verb",
+          "NEG": "negation",
+          "EXCL": "exclamatory particle",
+          "CONJ": "conjunction"
+        },
         "translation-ja-natural": "都を離れ、あなたに会おうと思って来たのに、その甲斐もなく、こうして別れてしまったのですね。",
         "translation-en-natural": "I left the capital hoping to see you, but though I came all this way, in the end we have parted like this."
       },
@@ -2473,7 +2621,16 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "QUOT": "quotative particle",
+          "EMPH": "emphatic particle",
+          "REALIS": "realis (已然形)",
+          "PST": "past (過去形)",
+          "COND": "conditional",
+          "GEN": "genitive",
+          "PERF": "perfective aspect",
+          "ATTR": "attributive (連体形)"
+        },
         "translation-ja-natural": "そういうわけで、帰京する前の国司が詠んだのは、",
         "translation-en-natural": "That's why the governor, before returning to the capital, sang the following song:"
       },
@@ -2578,7 +2735,19 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive",
+          "ACC": "accusative",
+          "DAT": "dative",
+          "ADV": "adverbial form",
+          "ATTR": "attributive form",
+          "TOP": "topic marker",
+          "COP": "copula",
+          "IRR": "irrealis (non-real, subjunctive)",
+          "NEG": "negative",
+          "CONJ": "conjunctive particle",
+          "EXCLAM": "exclamatory particle"
+        },
         "translation-ja-natural": "白い布のように波が広がる海を遠く行き交っても、私に似るのは結局誰でもなく、あなただった。",
         "translation-en-natural": "Even as I traveled far across the sea of white cloth-like waves, in the end, the one who truly resembles me was no one else but you."
       },
@@ -2663,7 +2832,16 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive particle",
+          "ADD": "additive particle",
+          "ADV": "adverbial form",
+          "ATTR": "attributive form",
+          "PST": "past auxiliary",
+          "REALIS": "realis form",
+          "CONJ": "conjunctive particle",
+          "SUP": "suppositional auxiliary"
+        },
         "translation-ja-natural": "他の人たちの作品もあったが、特に優れたものはなかったようだ。",
         "translation-en-natural": "There were also works by other people, but none of them seemed particularly outstanding."
       },
@@ -2846,7 +3024,16 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（〜の）",
+          "ADD": "additive particle（〜も）",
+          "CONJ": "conjunctive particle（接続助詞）",
+          "ADV": "adverbial form（連用形）",
+          "ADVZ": "adverbializer（副詞化の助詞）",
+          "ATTR": "attributive form（連体形）",
+          "PERF": "perfective auxiliary（完了助動詞）",
+          "PST": "past tense auxiliary（過去助動詞）"
+        },
         "translation-ja-natural": "あれこれと言って、前の国司も今の国司も一緒に庭に降り、今の主人も前の主人も手を取り交わして、酔った勢いで楽しげにふるまって、出ていった。",
         "translation-en-natural": "They said various things, and the former governor and the current governor both came down together; the current master and the former master joined hands and, under the influence of drink, acted cheerfully, then went out."
       },
@@ -2927,7 +3114,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ABL": "ablative（起点・〜から）",
+          "ACC": "accusative（〜を）",
+          "ADV": "adverbial form（連用形）",
+          "CONJ": "conjunctive particle（接続助詞）"
+        },
         "translation-ja-natural": "二十七日、大津を出て浦戸をめざして漕ぎ出す。",
         "translation-en-natural": "On the twenty-seventh day, we set out rowing from Otsu aiming for Urado."
       },
@@ -3090,7 +3282,22 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "CONJ": "conjunctive particle（接続助詞）",
+          "CONJ.ANT": "conjunctive particle, adversative（逆接の接続助詞）",
+          "LOC": "locative（場所・〜で）",
+          "GEN": "genitive（〜の）",
+          "ACC": "accusative（〜を）",
+          "ADV": "adverbial form（連用形）",
+          "IRR": "irrealis form（未然形）",
+          "REALIS": "realis form（已然形）",
+          "ATTR": "attributive form（連体形）",
+          "PERF": "perfective auxiliary（完了助動詞）",
+          "PERF.ADV": "perfective auxiliary adverbial form（完了助動詞連用形）",
+          "PST": "past tense auxiliary（過去助動詞）",
+          "PST.REALIS": "past tense auxiliary realis form（過去助動詞已然形）",
+          "ADD": "additive particle（〜も）"
+        },
         "translation-ja-natural": "このようなことが続く中、京で生まれた女の子がここで突然亡くなり、この頃の出立の準備を見ても、何も言えない。",
         "translation-en-natural": "In the midst of all this, a girl born in Kyoto suddenly passes away here, and seeing the preparations for departure at this time, no one can say anything.",
         "notes-ja": [
@@ -3175,7 +3382,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ALL": "allative (direction marker, e.g., 'to')",
+          "DAT": "dative (temporal or case marker, e.g., 'when')",
+          "GEN": "genitive ('of')",
+          "ADV": "adverbial form (連用形)",
+          "ATTR": "attributive form (連体形)",
+          "FOC": "focus particle ('ぞ', emphasis marker)"
+        },
         "translation-ja-natural": "京へ帰るとき、女の子がいないことだけが、悲しみと切なさを感じさせる。",
         "translation-en-natural": "As I return to Kyoto, it is only the girl's absence that brings sadness and longing."
       },
@@ -3228,7 +3442,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ATTR": "attributive form（連体形）",
+          "ADD": "additive particle（〜も）",
+          "IRR": "irrealis（未然形）",
+          "POT.NEG": "potential negative auxiliary（不可能の助詞）",
+          "NEG": "negation（打消）"
+        },
         "translation-ja-natural": "他の人々も耐えきれなかった。",
         "translation-en-natural": "Others, too, couldn’t endure it."
       },
@@ -3461,7 +3681,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "DAT": "dative（〜に）",
+          "TOP": "topic marker（主題）"
+        },
         "translation-ja-natural": "また、ある時には、",
         "translation-en-natural": "Also, at times,"
       },
@@ -3568,7 +3791,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "QUOT": "quotative particle（引用）",
+          "CONJ.PROG": "progressive conjunction（動作の継続）",
+          "ATTR": "attributive form（連体形）",
+          "ACC": "accusative（目的格）",
+          "EMPH": "emphatic particle（強調）",
+          "PRED": "predicate adjective（述語形容詞）",
+          "PST.MOD": "past modal（詠嘆を含む過去）"
+        },
         "translation-ja-natural": "いると思い、忘れかけても、いない人に「どこにいるの？」と尋ねてしまう、そのことが、何よりも悲しかった。",
         "translation-en-natural": "Even as I forget and think she's still here, I find myself asking, 'Where is she?'—and that is what breaks my heart."
       },
@@ -3767,7 +3998,16 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "QUOT": "quotative particle",
+          "PST": "past tense auxiliary",
+          "LOC": "locative",
+          "GEN": "genitive",
+          "ATTR": "attributive",
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive",
+          "ACC": "accusative"
+        },
         "translation-ja-natural": "そうこう言っているうちに、鹿児の崎というところで、守の兄弟や、それに他の人たちもあれこれ、酒などを持って追いかけてきて、磯に降りて腰を下ろし、別れがつらいということを語るのだった。",
         "translation-en-natural": "While they were still speaking, at a place called Kago no Saki, the governor's brothers and some others came after them with sake and such, sat down on the shore, and spoke of how hard it was to part."
       },
@@ -3884,7 +4124,16 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（〜の）",
+          "PL": "plural suffix（複数形）",
+          "LOC": "locative（〜に）",
+          "ATTR": "attributive form（連体形）",
+          "FOC": "focus particle（係助詞）",
+          "ADV": "adverbial form（連用形）",
+          "TOP": "topic particle（係助詞）",
+          "PASS": "passive form（受身）"
+        },
         "translation-ja-natural": "国司の人々の中で、この来た人たちこそ、心あるように言われていて、そんなふうにも見える。",
         "translation-en-natural": "Among the people serving the governor, these visitors are the ones considered to have sincerity, and it seems faintly so."
       },
@@ -4003,7 +4252,16 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV": "adverbial form（連用形）",
+          "ATTR": "attributive form（連体形）",
+          "CONJ": "conjunctive particle（接続助詞）",
+          "DEM": "demonstrative（指示詞）",
+          "GEN": "genitive（〜の）",
+          "LOC": "locative（場所を示す格）",
+          "PERF": "perfective auxiliary（完了助動詞）",
+          "ADD": "additive particle（〜も）"
+        },
         "translation-ja-natural": "こうして別れがたいと言いながら、あの人たちは口網を皆で担いで、この浜辺で歌を詠んだのだった。",
         "translation-en-natural": "As they said it was hard to part, the people carried their fishing net together and composed a poem by the seaside."
       },
@@ -4118,7 +4376,16 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "QUOT": "quotative particle",
+          "Q": "interrogative particle",
+          "GEN": "genitive",
+          "CONJ": "conjunctive",
+          "EMPH.KOSO": "emphatic particle (koso)",
+          "TOP": "topic marker",
+          "PERF": "perfective",
+          "PST.EMPH": "past emphatic"
+        },
         "translation-ja-natural": "私を惜しいと思って留まってくれる人がいるのだろうか。葦鴨が群れるように、私はここまで来てしまったのだ。",
         "translation-en-natural": "I wonder if anyone who cares for me would have stayed behind. Like the wild ducks flocking together, I too have come all the way here."
       },
@@ -4217,7 +4484,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "QUOT": "quotative particle",
+          "CONJ": "conjunctive",
+          "PST.MOD": "past modal",
+          "COND": "conditional",
+          "ATTR": "attributive",
+          "GEN": "genitive",
+          "SUP": "suppositional"
+        },
         "translation-ja-natural": "そう言っていたので、大いに褒めながら立ち去る人が詠んだのは、",
         "translation-en-natural": "Because it was said, the person, praising it greatly, composed a poem as they left."
       },
@@ -4328,7 +4603,17 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "REALLY": "realis form",
+          "ALTHOUGH": "concessive connector",
+          "ADD": "additive particle",
+          "IRR": "irrealis form",
+          "GEN": "genitive",
+          "ATTR": "attributive",
+          "ACC": "accusative",
+          "LOC": "locative",
+          "EXCL": "exclamatory particle"
+        },
         "translation-ja-natural": "棹をさしてもなお、底すら知れない海のような、あなたの深い心を見たのです。",
         "translation-en-natural": "Even though I try to probe, I see in you a deep heart like the sea, whose bottom I cannot know."
       },
@@ -4542,7 +4827,23 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "QUOT": "quotative particle",
+          "ATTR": "attributive",
+          "LOC": "locative",
+          "ADD": "additive particle",
+          "NEG": "negation",
+          "NEG.CVB": "negative converb",
+          "ACC": "accusative",
+          "EMPH": "emphatic particle",
+          "PERF.REALIS": "perfective realis form",
+          "COND": "conditional",
+          "VOL": "volitional",
+          "QUOT.CVB": "quotative converb",
+          "PERF": "perfective",
+          "CERT": "certain conjecture",
+          "REALIS": "realis form"
+        },
         "translation-ja-natural": "そう言っている間に、楫取は物の哀れも知らず、自分の酒を飲み終えてしまったので、早く行こうとして、「潮が満ちた。風もきっと吹くだろう」と騒ぎ立てるので、船に乗ろうとする。",
         "translation-en-natural": "While they were talking, the kajitori, unaware of the pathos of the moment, finished his own sake, and, wanting to leave quickly, shouted, 'The tide has risen. The wind will surely blow,' making a commotion as they prepared to board the boat."
       },
@@ -4655,7 +4956,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative",
+          "PL": "plural marker",
+          "DAT": "dative",
+          "ATTR": "attributive",
+          "CVB": "converb"
+        },
         "translation-ja-natural": "このとき、ある人たちが、その場その場に応じて、時にふさわしい漢詩を口にした。",
         "translation-en-natural": "At this time, certain people, taking each occasion, recited Chinese poems suitable for the moment.",
         "notes-ja": {
@@ -4734,7 +5041,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "COP.REALIS": "copula realis form",
+          "CONC": "concessive particle",
+          "PN": "proper noun"
+        },
         "translation-ja-natural": "また、ある人は西国の出であるが、甲斐の歌などを口にする。",
         "translation-en-natural": "Another person, though from the western provinces, recited Kai songs and the like."
       },
@@ -4847,7 +5158,16 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "CONJ": "conjunctive",
+          "GEN": "genitive",
+          "ADD": "additive particle",
+          "ATTR": "attributive",
+          "REP": "reportative",
+          "PERF": "perfective",
+          "QUOT": "quotative particle",
+          "EMPH": "emphatic particle"
+        },
         "translation-ja-natural": "こうして歌うと、屋形船の塵も散り、空を行く雲も漂ったと言うのだそうだ。",
         "translation-en-natural": "They say that when it was sung like this, even the dust on the houseboat scattered and the clouds in the sky drifted."
       },
@@ -4898,7 +5218,9 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative"
+        },
         "translation-ja-natural": "今夜は、浦戸に泊まる。",
         "translation-en-natural": "Tonight, we will stay at Urado."
       },
@@ -4983,7 +5305,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "PN": "proper noun",
+          "GEN": "genitive",
+          "ADV": "adverbial",
+          "PERF": "perfective"
+        },
         "translation-ja-natural": "藤原の時実、橘の季衡、その他の人々が追いかけてきた。",
         "translation-en-natural": "Fujiwara no Tokizane, Tachibana no Suehira, and others followed."
       },
@@ -5064,7 +5391,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "PN": "proper noun",
+          "ABL": "ablative case (indicating origin) (from) (より)",
+          "ADV": "adverbial",
+          "CONJ": "conjunctive",
+          "ACC": "accusative"
+        },
         "translation-ja-natural": "二十八日、浦戸から漕ぎ出して、大湊へ向かった。",
         "translation-en-natural": "On the twenty-eighth day, we rowed out from Urado and headed toward Ominato."
       },
@@ -5215,7 +5548,16 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative case (in, at, to)",
+          "GEN": "genitive case (of)",
+          "PN": "proper noun",
+          "PUNCT": "punctuation",
+          "PL": "plural suffix",
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive",
+          "PERF": "perfective aspect"
+        },
         "translation-ja-natural": "この間に、先のこの国の国司の子、山口の千岑が、酒やけっこな品々を持ってきて、船に差し入れをした。",
         "translation-en-natural": "During this time, the son of the former governor of this country, Chisato Yamaguchi, brought sake and other good things and put them on the boat."
       },
@@ -5260,7 +5602,9 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV": "adverbial"
+        },
         "translation-ja-natural": "道中で飲んだり食べたりする。",
         "translation-en-natural": "We will eat and drink along the way."
       },
@@ -5319,7 +5663,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative",
+          "PN": "proper noun",
+          "REALIS": "realis form",
+          "PERF": "perfective aspect marker"
+        },
         "translation-ja-natural": "二十九日、大湊に泊まっている。",
         "translation-en-natural": "On the twenty-ninth day, we are staying at Ominato."
       },
@@ -5422,7 +5771,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "CONJ": "conjunctive",
+          "ADV": "adverbial",
+          "PERF": "perfective aspect marker"
+        },
         "translation-ja-natural": "薬師が気を利かせて、屠蘇や白散に酒を加えて持ってきた。",
         "translation-en-natural": "The apothecary thoughtfully prepared toso and byakusan, adding sake to them , and brought them over.",
         "notes-ja": [
@@ -5531,7 +5884,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ATTR": "attributive",
+          "PERF": "perfective aspect marker",
+          "DAT": "dative case marker"
+        },
         "translation-ja-natural": "誠意があるように思える。",
         "translation-en-natural": "It seems like there is genuine sincerity."
       },
@@ -5592,7 +5949,9 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "COP": "copula"
+        },
         "translation-ja-natural": "元日も、まだ同じ場所に停泊している。",
         "translation-en-natural": "On New Year's Day, we are still staying in the same place."
       },
@@ -5775,7 +6134,20 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "POT": "potential mood (indicating ability or possibility)",
+          "IRR": "irrealis mood (indicating hypothetical or non-factual situations)",
+          "COND": "conditional",
+          "CAUS": "causative",
+          "PST": "past tense",
+          "QUOT": "quotative",
+          "OBJ": "object marker",
+          "GEN": "genitive",
+          "AUX": "auxiliary verb",
+          "CONJ": "conjunctive",
+          "NEG": "negative",
+          "PERF": "perfective aspect marker"
+        },
         "translation-ja-natural": "白散を持っていた人が、夜のあいだ船の屋形に挟んでいたところ、風に吹かれてがたがた揺れ、海に落ちてしまい、結局飲めなくなった。",
         "translation-en-natural": "Someone who had byakusan had wedged it into the boathouse overnight, but the wind rattled it until it fell into the sea, and in the end, they could not drink it."
       },
@@ -5838,7 +6210,9 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "—": "no abbreviations needed in this sentence"
+        },
         "translation-ja-natural": "芋も、海藻の荒目も、祝いの歯固めも、何一つなかった。",
         "translation-en-natural": "Neither potatoes, nor arame seaweed, nor even the hagatame offerings for the New Year were to be found.",
         "notes-ja": [
@@ -5929,7 +6303,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive/attributive marker",
+          "ATTR": "attributive form",
+          "COP": "copula"
+        },
         "translation-ja-natural": "こんなものもないところだ。",
         "translation-en-natural": "Here is a place without such things."
       },
@@ -5974,7 +6352,9 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "NEG": "negative marker"
+        },
         "translation-ja-natural": "求めて用意することもしなかった。",
         "translation-en-natural": "They did not even bother to prepare for it by requesting it."
       },
@@ -6041,7 +6421,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive case particle",
+          "ACC": "accusative case particle",
+          "EMPH": "emphatic particle"
+        },
         "translation-ja-natural": "ただ、押鮎の口をしゃぶっているだけだった。",
         "translation-en-natural": "Just sucking the mouth of the pressed sweetfish."
       },
@@ -6132,7 +6516,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive case particle",
+          "ACC": "accusative case particle",
+          "ADD": "additive particle (also, even)",
+          "EMPH": "emphatic particle",
+          "IRR": "irrealis",
+          "CONJ": "conjunctive particle",
+          "Q": "question particle"
+        },
         "translation-ja-natural": "この人々に口を吸われている押年魚（鮎）の方も、いったいどう思っているのだろうか。いや、おそらく『口惜しい鮎』（くちをしあゆ）とでも思っているのだろうか。",
         "translation-en-natural": "What might the pressed sweetfish, being sucked by these people's mouths, be thinking? Perhaps they are lamenting as 'kuchi-oshi ayu,' the regretful sweetfish.",
         "notes-ja": [
@@ -6219,7 +6611,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "TOP": "topic marker",
+          "EMPH": "emphatic particle",
+          "SPONT": "spontaneous/subjective passive (spontaneity)",
+          "ATTR": "attributive",
+          "ADV": "adverbial form",
+          "IRR": "irrealis mood (indicating hypothetical or non-factual situations)"
+        },
         "translation-ja-natural": "今日は都のことばかりが思いやられる。",
         "translation-en-natural": "Today, I can't help but worry about the capital."
       },
@@ -6392,7 +6791,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "REALIS": "realis mood (indicating factual situations)",
+          "LOC": "locative particle",
+          "ADV": "adverbial form",
+          "PERF": "perfective auxiliary"
+        },
         "translation-ja-natural": "二日目も、まだ大湊に泊まっている。",
         "translation-en-natural": "On the second day, we are still staying at Ominato."
       },
@@ -6451,7 +6855,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "REALIS": "realis mood (indicating factual situations)",
+          "PERF": "perfective aspect"
+        },
         "translation-ja-natural": "講師が、食べ物やお酒などを差し入れてくれた。",
         "translation-en-natural": "The official kindly brought over some food and sake."
       },
@@ -6502,7 +6909,9 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "COP": "copula"
+        },
         "translation-ja-natural": "三日、同じ所にいる。",
         "translation-en-natural": "On the third, we are in the same place."
       },
@@ -6581,7 +6990,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "SUPP": "suppositional",
+          "ATTR": "attributive form",
+          "IRR": "irrealis",
+          "GEN": "genitive",
+          "QUOT": "quotative particle",
+          "Q": "question particle"
+        },
         "translation-ja-natural": "この風と波を、少しでも惜しむ心があるのだろうか。不安で落ち着かない。",
         "translation-en-natural": "I wonder if there's anyone who still feels attached to the brief calm amid these winds and waves. It makes me feel uneasy."
       },
@@ -6648,7 +7064,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "REALIS": "realis mood (indicating factual situations)",
+          "NEG.POT": "negative potential auxiliary",
+          "IRR": "irrealis",
+          "COND": "conditional particle",
+          "NEG": "negation"
+        },
         "translation-ja-natural": "四日、風が強く吹いて、港を出ることができない。",
         "translation-en-natural": "On the fourth, we can't set sail because of the strong wind."
       },
@@ -6707,7 +7129,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "PN": "proper noun",
+          "ADV": "adverbial form",
+          "REALIS": "realis form",
+          "HON": "honorific auxiliary",
+          "PERF": "perfective aspect"
+        },
         "translation-ja-natural": "昌連が、航海の無事を祈って、酒や結構な品物をお供えしてくれた。",
         "translation-en-natural": "Masatsura contributed sake and fine goods as an offering to pray for a safe voyage.",
         "notes-ja": {
@@ -6838,7 +7266,18 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "ATTR": "attributive form",
+          "GEN": "genitive",
+          "DAT": "dative",
+          "EMPH": "emphatic particle",
+          "POT": "potential",
+          "NEG.CONJ": "negative conjunctive",
+          "CAUS": "causative",
+          "FOC": "focus particle"
+        },
         "translation-ja-natural": "このような物を持ってきてくれた人をそのままにしておくことができず、わずかなお返しをする物さえなかった。",
         "translation-en-natural": "I couldn't just leave the person who brought such a gift without doing anything, and I didn't even have anything to offer as a small token."
       },
@@ -6909,7 +7348,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "IRR": "irrealis",
+          "NEG.REALIS.COND": "negative realis conditional",
+          "LOC": "locative particle"
+        },
         "translation-ja-natural": "賑やかなようだが、負ける気がする。",
         "translation-en-natural": "It seems lively, but it feels like losing.",
         "notes-ja": [
@@ -6988,7 +7431,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative particle",
+          "NEG.STEM": "negative stem form"
+        },
         "translation-ja-natural": "五日、風も波もおさまらず、まだ同じ場所にとどまっている。",
         "translation-en-natural": "On the fifth, with the wind and waves still raging, we’re stuck in the same place."
       },
@@ -7028,7 +7474,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "DAT": "dative particle"
+        },
         "translation-ja-natural": "人々がひっきりなしに訪ねてくる。",
         "translation-en-natural": "People keep coming to visit without a break."
       },
@@ -7073,7 +7522,9 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive"
+        },
         "translation-ja-natural": "六日、昨日と同じようです。",
         "translation-en-natural": "On the sixth, it was like yesterday."
       },
@@ -7118,7 +7569,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "DAT": "dative particle",
+          "ADV": "adverbial form",
+          "PERF": "perfective aspect"
+        },
         "translation-ja-natural": "七日になった。",
         "translation-en-natural": "It's the seventh."
       },
@@ -7160,7 +7615,9 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative particle"
+        },
         "translation-ja-natural": "同じ港にいる。",
         "translation-en-natural": "We are in the same port."
       },
@@ -7223,7 +7680,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "TOP": "topic particle",
+          "ACC": "accusative particle",
+          "REALIS": "realis mood",
+          "although": "concessive particle"
+        },
         "translation-ja-natural": "今日は白馬の節会の日。でも、白馬の節会のことを思い出しても、ここにいるんじゃ意味がない。",
         "translation-en-natural": "Today is the day of the White Horse Festival. But thinking about the festival while stuck here feels pointless.",
         "notes-ja": {
@@ -7284,7 +7746,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive",
+          "ATTR": "attributive form",
+          "FOC": "focus particle",
+          "POT": "potential"
+        },
         "translation-ja-natural": "ただ、白く泡立つ波が見えるだけだった。",
         "translation-en-natural": "All I can see are the white, foaming waves."
       },
@@ -7476,7 +7943,20 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "NOM": "nominative particle",
+          "GEN": "genitive",
+          "TOP": "topic particle",
+          "ATTR": "attributive form",
+          "from": "ablative particle",
+          "not.exist.ADV": "adverbial form of 'not exist'",
+          "CONJ": "conjunctive particle",
+          "PL": "plural marker",
+          "LOC": "locative particle",
+          "ADV": "adverbial form",
+          "IRR": "irrealis",
+          "PERF": "perfective aspect"
+        },
         "translation-ja-natural": "こうしているうちに、『池』という名の場所から、鯉はないが、鮒をはじめ、川の魚や海の魚、その他の食べ物が長櫃に詰められて次々と送られてきた。",
         "translation-en-natural": "Meanwhile, from a place called 'Ike,' there were no carp, but starting with crucian carp, river fish, sea fish, and other foods were packed into a long chest and sent over one after another."
       },
@@ -7550,7 +8030,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative particle",
+          "ADV": "adverbial form",
+          "REALIS": "realis form",
+          "CONJ": "conjunctive particle",
+          "PERF": "perfective aspect"
+        },
         "translation-ja-natural": "若菜を籠に入れ、雉などを、花につけた。",
         "translation-en-natural": "The young greens were placed in a basket, and pheasants and such were attached to the flowers."
       },
@@ -7611,7 +8097,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ATTR": "attributive form",
+          "FOC": "focus particle",
+          "ACC": "accusative particle",
+          "TOP": "topic particle",
+          "REALIS": "realis form",
+          "PERF": "perfective aspect"
+        },
         "translation-ja-natural": "若菜を見て、今日は七草の日だと気づいた。",
         "translation-en-natural": "Seeing the young greens, I realized that today is the Festival of Seven Herbs."
       },
@@ -7656,7 +8149,7 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {},
         "translation-ja-natural": "一首の歌が添えられている。その歌は、",
         "translation-en-natural": "A poem has been included. That poem is,"
       },
@@ -7771,7 +8264,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive",
+          "LOC": "locative particle",
+          "ATTR": "attributive form",
+          "REALIS": "realis form",
+          "IRR": "irrealis",
+          "ADV": "adverbial form",
+          "PERF": "perfective aspect"
+        },
         "translation-ja-natural": "浅茅生の野原にある水のない池にて摘んだ若菜であった。",
         "translation-en-natural": "It was young greens picked from a pond without water in a field where short grasses grow.",
         "notes-ja": [
@@ -7882,7 +8383,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "QUOT": "quotative particle",
+          "TOP": "topic particle",
+          "GEN": "genitive",
+          "ADV": "adverbial form"
+        },
         "translation-ja-natural": "この「池」というのは、この地名である。",
         "translation-en-natural": "This 'pond' is the name of this place."
       },
@@ -7965,7 +8471,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive",
+          "LOC": "locative particle",
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "PERF": "perfective aspect"
+        },
         "translation-ja-natural": "気立てのよい女性が、男について都を下り、住んでいたのである。",
         "translation-en-natural": "A woman of good character had followed a man down from the capital and lived there."
       },
@@ -8140,7 +8652,20 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive",
+          "TOP": "topic particle",
+          "DAT": "dative particle",
+          "ACC": "accusative particle",
+          "PL": "plural marker",
+          "ADV": "adverbial form",
+          "IRR": "irrealis",
+          "PST": "past tense",
+          "REALIS": "realis form",
+          "PERF": "perfective aspect",
+          "CONJ": "conjunctive particle",
+          "POT": "potential form"
+        },
         "translation-ja-natural": "この長櫃いっぱいの品物は、大人から子供まで皆に惜しげもなく振る舞われ、誰もが満腹になってしまい、船乗りたちは腹いっぱいに食べ、自分の腹をポンポン叩いて喜び、その音があまりに大きく、海までも驚いて波を立ててしまった。",
         "translation-en-natural": "The long chest was packed with goods and generously handed out to everyone, from adults to children, until they were completely full. The sailors, having eaten their fill, joyfully drummed on their bellies with such thunderous noise that even the sea itself seemed to shudder and stir up waves."
       },
@@ -8203,7 +8728,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative particle",
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle"
+        },
         "translation-ja-natural": "こうしているうちに、さまざまな出来事がありました。",
         "translation-en-natural": "During this time, various things happened."
       },
@@ -8306,7 +8835,16 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "PERF": "perfective aspect",
+          "ATTR": "attributive form",
+          "REALIS": "realis form",
+          "CONJ": "conjunctive particle",
+          "FOC": "focus particle",
+          "Q": "question particle",
+          "ADV": "adverbial form",
+          "POT": "potential form"
+        },
         "translation-ja-natural": "今日、包みを誰かに持たせて届けさせた人の名前は、何だったかな。そのうち思い出すだろう。",
         "translation-en-natural": "What was the name of the person who had someone bring the bundle today? I will remember it eventually."
       },
@@ -8389,7 +8927,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "INTEND": "intendive auxiliary",
+          "QUOT": "quotative particle",
+          "IRR": "irrealis",
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "PERF": "perfective aspect"
+        },
         "translation-ja-natural": "この人は、歌を詠みたいという思いがあったのだ。",
         "translation-en-natural": "This person had a desire to compose a poem."
       },
@@ -8488,7 +9033,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive",
+          "ATTR": "attributive form",
+          "QUOT": "quotative particle",
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "PERF": "perfective aspect",
+          "REALIS": "realis form"
+        },
         "translation-ja-natural": "あれこれと言いながら、波が立つことを心配して詠んだ歌。",
         "translation-en-natural": "Talking about various things and worrying about the rising waves, a poem was composed."
       },
@@ -8603,7 +9156,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative particle",
+          "GEN": "genitive",
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "IRR": "irrealis",
+          "FUT": "future tense",
+          "FOC": "focus particle"
+        },
         "translation-ja-natural": "行く先に立つ白波の音よりも、遅れて泣く私の声のほうが大きくなるのだろうか。",
         "translation-en-natural": "Will my belated cries be louder than the sound of the white waves rising ahead on my path?"
       },
@@ -8642,7 +9203,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "QUOT": "quotative particle",
+          "EMPH": "emphatic particle",
+          "PERF": "perfective aspect",
+          "REALIS": "realis form",
+          "ATTR": "attributive form"
+        },
         "translation-ja-natural": "と詠んだ。",
         "translation-en-natural": "And so it was composed.",
         "notes-ja": [
@@ -8694,7 +9261,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ATTR": "attributive form",
+          "POT": "potential form"
+        },
         "translation-ja-natural": "きっとものすごく大きな声だったことだろう。",
         "translation-en-natural": "It must have been an incredibly loud voice."
       },
@@ -8763,7 +9333,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "PERF": "perfective aspect",
+          "ATTR": "attributive form",
+          "IRR": "irrealis",
+          "ADV": "adverbial form",
+          "TOP": "topic particle",
+          "POT": "potential auxiliary"
+        },
         "translation-ja-natural": "持ってきた物に比べて、この歌はどうだろうか。",
         "translation-en-natural": "How does this song compare to the things that were brought?"
       },
@@ -8850,7 +9427,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "VN": "verbal noun",
+          "ACC": "accusative particle",
+          "CONJ": "conjunctive particle",
+          "PL": "plural marker",
+          "ADV": "adverbial form",
+          "NEG": "negation auxiliary",
+          "REALIS": "realis form"
+        },
         "translation-ja-natural": "この歌をみんなが褒めはしたが、誰ひとり返歌をしない。",
         "translation-en-natural": "Everyone praised the song, but no one composes a reply.",
         "notes-ja": {
@@ -8972,7 +9557,19 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "PERF": "perfective aspect",
+          "END": "sentence-ending particle",
+          "SUP": "suppositional auxiliary",
+          "REALIS": "realis form",
+          "APPR": "approximative auxiliary",
+          "IRR": "irrealis",
+          "ACC": "accusative particle",
+          "CONJ": "conjunctive particle",
+          "ADV": "adverbial form",
+          "NEG": "negation auxiliary",
+          "VN": "verbal noun"
+        },
         "translation-ja-natural": "当然、返歌をすべき人もいたが、その人もこの歌をただほめるばかりで、食べてばかりいるうちに夜が更けてしまった。",
         "translation-en-natural": "Naturally, there were also those who should have composed a response, but they only kept praising the song, eating all the while, until the night grew late."
       },
@@ -9045,7 +9642,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "FOC": "focus particle",
+          "IRR": "irrealis",
+          "NEG": "negation auxiliary",
+          "QUOT": "quotative particle",
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "PERF": "perfective aspect"
+        },
         "translation-ja-natural": "歌の詠み手は、「まだ帰らないよ」と言って立ちあがった。",
         "translation-en-natural": "The poet said, 'I'm not leaving yet,' and stood up."
       },
@@ -9110,7 +9715,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN.apposition": "genitive for apposition",
+          "END": "sentence-ending particle",
+          "GEN": "genitive",
+          "ATTR": "attributive form",
+          "ADV": "adverbial form"
+        },
         "translation-ja-natural": "ある人の子供が、こっそり言った。",
         "translation-en-natural": "A child of a certain person said secretly.",
         "notes-ja": [
@@ -9187,7 +9798,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive",
+          "VN": "verbal noun",
+          "REALIS": "realis form",
+          "FUT": "future tense",
+          "QUOT": "quotative particle",
+          "END": "sentence-ending particle"
+        },
         "translation-ja-natural": "「あたしがこの返歌、しちゃだめ」と言いました。",
         "translation-en-natural": "Maro said, \"I will compose a reply to this song.\""
       },
@@ -9240,7 +9858,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ATTR": "attributive form",
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "Q": "question particle"
+        },
         "translation-ja-natural": "みんな驚いて、「それはすごい。",
         "translation-en-natural": "Everyone was surprised, \"That's amazing."
       },
@@ -9283,7 +9906,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "VOL": "volitional auxiliary",
+          "Q": "question particle",
+          "TOP": "topic particle"
+        },
         "translation-ja-natural": "詠めるかな。",
         "translation-en-natural": "Will she try reciting?",
         "notes-ja": [
@@ -9524,7 +10153,24 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "IRR": "irrealis",
+          "COP": "copula",
+          "PST": "past tense",
+          "NEG": "negation auxiliary",
+          "PERF": "perfective aspect",
+          "QUOT": "quotative particle",
+          "ATTR": "attributive form",
+          "ACC": "accusative particle",
+          "VOL": "volitional auxiliary",
+          "FUT": "future tense",
+          "CONJ": "conjunctive particle",
+          "MOD": "modality auxiliary",
+          "Q": "question particle",
+          "TOP": "topic particle",
+          "PUNCT": "punctuation",
+          "ADV": "adverbial form"
+        },
         "translation-ja-natural": "その子は「『まだ帰りませぬ』と言って立ちあがった人を待ってから詠みましょう」と言うので、皆、その人を待っていたが、夜が更けたからか、結局そのままその人は戻ってこなかった。",
         "translation-en-natural": "The kid said, \"I'll wait for the person who said, 'I'm not leaving yet,' and then compose a poem.\" So everyone waited for that person, but perhaps because the night had grown late, in the end, he never came back."
       },
@@ -9585,7 +10231,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "PERF": "perfective aspect",
+          "ATTR": "attributive form",
+          "QUOT": "quotative particle",
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "END": "sentence-ending particle"
+        },
         "translation-ja-natural": "「そもそもどのように詠んだの？」と、みんな不思議そうに聞いた。",
         "translation-en-natural": "Everyone curiously asked, 'How did you even come up with that?'"
       },
@@ -9642,7 +10295,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "IRR": "irrealis",
+          "NEG": "negation particle"
+        },
         "translation-ja-natural": "この子は、さすがに恥ずかしくて言わない。",
         "translation-en-natural": "This kid, as expected, was too embarrassed to say anything."
       },
@@ -9699,7 +10357,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "REALIS": "realis form",
+          "PERF": "perfective aspect",
+          "ATTR": "attributive form"
+        },
         "translation-ja-natural": "いやがるところを無理に聞いて、やっと口にした歌は、...",
         "translation-en-natural": "After pressing the reluctant kid, the poem which was finally recited was..."
       },
@@ -9784,7 +10448,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ATTR": "attributive form",
+          "GEN": "genitive",
+          "EMPH": "emphatic particle",
+          "ADV": "adverbial form",
+          "PST": "past tense"
+        },
         "translation-ja-natural": "行く人も、立ち止まる人も、袖を濡らす涙川、水際ばかりがますます濡れていきます。",
         "translation-en-natural": "Whether they leave or stay, their sleeves are rivers of tears; only the water's edge keeps getting wetter."
       },
@@ -9823,31 +10493,292 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "QUOT": "quotative particle",
+          "EMPH": "emphatic particle",
+          "PERF": "perfective aspect"
+        },
         "translation-ja-natural": "と詠んだ。",
         "translation-en-natural": "And so it was composed."
       },
       {
-        "date": "20250228",
+        "date": [
+          20250228,
+          20251028
+        ],
         "id": 110,
         "text": "かくはいふものか、うつくしければにやあらむ、いと思はずなり。",
         "kana": "かくはいふものか、うつくしければにやあらむ、いとおもはずなり。",
         "koutei-yamagen": "かくは言ふものか、美しければにやあらむ、いと思はずなり。",
-        "translation-ja": "このように言うものなのだろうか。かわいらしいからなのだろうか。たいへんこう思ってはいなかった。",
-        "translation-en": "Is this how one is supposed to say it? Perhaps because the child is adorable? I had not thought so at all.",
+        "translation-ja": "このように言うものか。うつくしいからなのだろうか。とても思いはしてなかった。",
+        "translation-en": "Is this really how one is supposed to compose a poem? Perhaps it's because the kid is adorable. It was something I never expected.",
+        "phrase-gloss": [
+          {
+            "phrase": "かくは言ふものか、",
+            "gloss": "thus TOP say thing Q,",
+            "words": [
+              {
+                "word": "かく",
+                "gloss": "thus"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "言ふ",
+                "gloss": "say.ATTR"
+              },
+              {
+                "word": "もの",
+                "gloss": "thing"
+              },
+              {
+                "word": "か",
+                "gloss": "Q"
+              }
+            ]
+          },
+          {
+            "phrase": "美しければにやあらむ、",
+            "gloss": "beautiful.CAUS.CONJ COP Q EMPH",
+            "words": [
+              {
+                "word": "美しけれ",
+                "gloss": "beautiful.IRR"
+              },
+              {
+                "word": "ば",
+                "gloss": "CAUS"
+              },
+              {
+                "word": "に",
+                "gloss": "COP.ADV"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "あら",
+                "gloss": "COP.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "EMPH"
+              }
+            ]
+          },
+          {
+            "phrase": "いと思はずなり。",
+            "gloss": "very think.NEG become",
+            "words": [
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "思は",
+                "gloss": "think.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "なり",
+                "gloss": "become.END"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ATTR": "attributive form",
+          "COP": "copula",
+          "IRR": "irrealis",
+          "CONJ": "conjunctive particle",
+          "TOP": "topic particle",
+          "END": "sentence-ending particle",
+          "Q": "question particle",
+          "ADV": "adverbial form",
+          "CAUS": "causal auxiliary",
+          "REALIS": "realis form",
+          "EMPH": "emphatic particle",
+          "NEG": "negation particle"
+        },
         "translation-ja-natural": "こういうふうに歌を詠むものなのでしょうか。かわいらしいからでしょうか。まったくこのように上手く詠むとは思ってもみませんでした。",
         "translation-en-natural": "Is this really how one is supposed to compose a poem? Maybe it's just because the kid is adorable. I never expected them to compose so skillfully."
       },
       {
-        "date": "20250301",
+        "date": [
+          20250301,
+          20251029
+        ],
         "id": 111,
         "text": "童ごとにては何かはせむ、女翁にをしつべし、悪しくもあれいかにもあれ、たよりあらば遣らむとておかれぬめり。",
         "kana": "わらわごとにてはなにかはせむ、をむなをきなにをしつべし、あしくもあれいかにもあれ、たよりあらばやからむとておかれぬめり。",
         "koutei-yamagen": "童言にては何かはせむ、嫗、翁にをしつべし、悪しくもあれいかにもあれ、たよりあらば遣らむとておかれぬめり。",
-        "translation-ja": "子どもたちだけでは何ができようか。おばあさんかおじいさんに押させるのがよいだろう。悪くても、どうであっても、機会があれば送るつもりで、置かれたようだ。",
-        "translation-en": "What could children alone possibly do? It would be best to have an old woman or an old man press it. Whether it is bad or however it may be, it seems to have been placed with the intention of sending it if an opportunity arises.",
-        "translation-ja-natural": "子どもの詠んだ歌ではちょっと失礼になってしまうかもしれないので、おばあさんかおじいさんに頼んで、印を押してもらうのがよいでしょう。そんな嘘がよくないことはわかっていますが、どうせ本人はいないのだから、どうであろうと構わないでしょうし、もし機会があれば、あるいは相手から便りがあれば、この返歌を送ってさしあげましょうと思い、保管しておいたようです。",
-        "translation-en-natural": "A child's poem alone might be a bit inappropriate, so it would be best to ask an old woman or an old man to stamp a seal on it. I do understand that such a falsehood is not right, but since the original author is no longer around, it does not really matter. If an opportunity arises, or if a letter arrives from the other party, I thought I should send this reply and kept it for that purpose.",
+        "translation-ja": "子どもことでは何ができようか。おばあさんかおじいさんに押させるのがよいだろう。悪くあっても、どうであっても、便りやろうとて、置かれたようだ。",
+        "translation-en": "What could be done with a child's poem? It would be best to have an old woman or an old man stamp it. Whether it's bad or whatever, if there's an opportunity, I thought I would send it, and it seems to have been left as is.",
+        "phrase-gloss": [
+          {
+            "phrase": "童言にては何かはせむ、",
+            "gloss": "child speak CONJ what TOP do FUT,",
+            "words": [
+              {
+                "word": "童言",
+                "gloss": "child speak"
+              },
+              {
+                "word": "にて",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "何か",
+                "gloss": "what"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "せ",
+                "gloss": "do.REALIS"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              }
+            ]
+          },
+          {
+            "phrase": "嫗、翁にをしつべし、",
+            "gloss": "old.woman, old.man DAT stamp SUP",
+            "words": [
+              {
+                "word": "嫗",
+                "gloss": "old.woman"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "翁",
+                "gloss": "old.man"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "をし",
+                "gloss": "stamp.ADV"
+              },
+              {
+                "word": "つ",
+                "gloss": "PERF"
+              },
+              {
+                "word": "べし",
+                "gloss": "SUP"
+              }
+            ]
+          },
+          {
+            "phrase": "悪しくもあれいかにもあれ、",
+            "gloss": "badly also be Q EMPH also be Q EMPH,",
+            "words": [
+              {
+                "word": "悪しく",
+                "gloss": "badly.ADV"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "あれ",
+                "gloss": "be.REALIS"
+              },
+              {
+                "word": "いかに",
+                "gloss": "also"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "あれ",
+                "gloss": "be.REALIS"
+              }
+            ]
+          },
+          {
+            "phrase": "たよりあらば遣らむとておかれぬめり。",
+            "gloss": "letter exist.IF send.FUT QUOT put.PST.SUP",
+            "words": [
+              {
+                "word": "たより",
+                "gloss": "letter"
+              },
+              {
+                "word": "あら",
+                "gloss": "exist.IRR"
+              },
+              {
+                "word": "ば",
+                "gloss": "IF"
+              },
+              {
+                "word": "遣ら",
+                "gloss": "send.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              },
+              {
+                "word": "とて",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "おかれ",
+                "gloss": "put.REALIS"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "めり",
+                "gloss": "SUP"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "CONJ": "conjunctive particle",
+          "TOP": "topic particle",
+          "FUT": "future tense",
+          "DAT": "dative particle",
+          "SUP": "suppositional auxiliary",
+          "ADV": "adverbial form",
+          "PUNCT": "punctuation",
+          "IRR": "irrealis",
+          "REALIS": "realis form",
+          "PERF": "perfective aspect",
+          "IF": "conditional auxiliary",
+          "QUOT": "quotative particle",
+          "PST": "past tense"
+        },
+        "translation-ja-natural": "子どもの詠んだ歌で何ができるというのだ。おばあさんかおじいさんに頼んで、印を押してもらうのがよいでしょう。そんな嘘がよくないことはわかっていますが、どうせ本人はいないのだから、どうであろうと構わないでしょうし、もし、便りがあれば、この返歌を送ってさしあげましょうと思い、保管しておいたようです。",
+        "translation-en-natural": "A child's poem can't really do much, can it? It would be best to have an old woman or an old man stamp it. I know that such a falsehood isn't good, but since the person themselves isn't here anyway, it probably doesn't matter how it turns out. If there happens to be an opportunity or if a letter comes, I thought I would send this reply poem, so it seems to have been kept on hand.",
         "notes-ja": {
           "返歌の形式と文化的背景": "この返歌は、受け取るべき相手がすでにいないにもかかわらず、あえて作成され、形式的に送られることとなった。場にいた人々は、その事情をすべて理解していたにもかかわらず、老夫婦の名を借り、子どもの詠んだ歌を正式なものとして整えることで、受け取る側が後にこれを立派な歌としてありがたがる様子を想像していたと考えられる。これは単なる儀礼ではなく、和歌の価値が誰の作であるかによって決まるという、当時の文化的前提を皮肉る知的な遊びの側面を持つ。こうした和歌のやり取りは、単なる個人的な感情表現ではなく、形式を重んじる貴族社会の「ゲーム」として機能しており、送り手側はその意識のもとで、あえてこの返歌を整えた可能性が高い。",
           "逐語訳と意訳の比較": "逐語訳（私たちの訳）は、原文の意味を忠実に再現するための厳密な翻訳。文法や構造をそのまま活かしているため、学術的な検討に適している。読者が自分で解釈できるよう、余計な情報を加えない。菊地訳は、現代語として読みやすくするために、解釈を加えた訳。原文にない要素（署名捺印・ついで・手元に残る）を含め、話し言葉に近づけている。意訳としてはスムーズだが、学術的に使う場合は注意が必要。原文に即した分析をするなら、私たちの逐語訳の方が適切である。菊地訳は、一般向けの解釈としては良いが、原文の意味を正確に伝えるものではない。",
@@ -9857,13 +10788,76 @@
         }
       },
       {
-        "date": "20250302",
+        "date": [
+          20250302,
+          20251030
+        ],
         "id": 112,
         "text": "八日、さはる事ありて猶同じ所なり。",
         "kana": "ようか、さはることありてなほおなじところなり。",
         "koutei-yamagen": "八日、さはる事ありて、猶同じ所なり。",
         "translation-ja": "八日、いろいろあって、まだ同じ場所にいる。",
         "translation-en": "On the eighth day, various things happened, and I am still in the same place.",
+        "phrase-gloss": [
+          {
+            "phrase": "八日、",
+            "gloss": "eighth.day,",
+            "words": [
+              {
+                "word": "八日",
+                "gloss": "eighth.day"
+              }
+            ]
+          },
+          {
+            "phrase": "さはる事ありて、",
+            "gloss": "various things exist.CONJ,",
+            "words": [
+              {
+                "word": "さはる",
+                "gloss": "various"
+              },
+              {
+                "word": "事",
+                "gloss": ".things"
+              },
+              {
+                "word": "あり",
+                "gloss": "be.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "猶同じ所なり。",
+            "gloss": "still same place be",
+            "words": [
+              {
+                "word": "猶",
+                "gloss": "still"
+              },
+              {
+                "word": "同じ",
+                "gloss": "same"
+              },
+              {
+                "word": "所",
+                "gloss": "place"
+              },
+              {
+                "word": "なり",
+                "gloss": "be"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "CONJ": "conjunctive particle",
+          "ADV": "adverbial form"
+        },
         "translation-ja-natural": "八日。まあ、いろいろあって、まだここにいる。",
         "translation-en-natural": "The eighth day. Well, for one reason or another, I'm still here.",
         "notes-ja": {
@@ -9891,14 +10885,70 @@
         }
       },
       {
-        "date": "20250303",
+        "date": [
+          20250303,
+          20251031
+        ],
         "id": 113,
         "text": "今宵の月は海にぞ入る。",
         "kana": "こよいのつきはうみにそいる。",
         "koutei-yamagen": "今宵の月は、海にぞ入る。",
         "translation-ja": "今宵の月は、海に入った。",
         "translation-en": "Tonight, the moon has entered the sea.",
-        "translation-ja-natural": "今夜の月は、海に沈んでいきました。",
+        "phrase-gloss": [
+          {
+            "phrase": "今宵の月は、",
+            "gloss": "tonight-GEN moon TOP,",
+            "words": [
+              {
+                "word": "今宵",
+                "gloss": "tonight"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "月",
+                "gloss": "moon"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "海にぞ入る。",
+            "gloss": "sea DAT EMPH enter.PRES",
+            "words": [
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "入る",
+                "gloss": "enter.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive",
+          "TOP": "topic particle",
+          "DAT": "dative particle",
+          "EMPH": "emphatic particle",
+          "ATTR": "attributive form"
+        },
+        "translation-ja-natural": "今夜の月は、海に沈んでいった。",
         "translation-en-natural": "Tonight's moon has set into the sea."
       },
       {
@@ -12725,7 +13775,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV": "adverbial form (副詞)",
+          "CONJ": "conjunctive form (連用形または已然形)",
+          "NEG": "negative auxiliary (打消しの助動詞)",
+          "IRR": "irrealis form (未然形)",
+          "COND": "conditional (接続助詞)"
+        },
         "translation-ja-natural": "二十七日、風が強く、波が荒れたので、船を出さなかった。",
         "translation-en-natural": "On the 27th, the wind was strong and the waves were rough, so we did not set out the boat.",
         "notes-ja": [
@@ -12779,7 +13835,9 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV": "adverbial form (副詞)"
+        },
         "translation-ja-natural": "あの人もこの人も、ひどく嘆く。",
         "translation-en-natural": "Everyone, both here and there, laments.",
         "notes-ja": [
@@ -12947,7 +14005,21 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV": "adverbial form (副詞)",
+          "REALIS": "realis form (連用形)",
+          "ATTR": "attributive (連体形)",
+          "QUOT": "quotative particle (引用の助詞)",
+          "GEN": "genitive (属格)",
+          "NMLZ": "nominalizer (動作・状態の名詞化)",
+          "PURP": "purposive (目的)",
+          "LOC": "locative (場所)",
+          "ACC": "accusative (対象)",
+          "CONJ": "conjunctive form (連用形、已然形)",
+          "COND": "conditional (条件)",
+          "COP": "copula (断定)",
+          "PTCP": "participle (連体形)"
+        },
         "translation-ja-natural": "男たちの心を慰めようと、唐の詩で「日を望めば都遠し」などと言うありさまを聞いて、ある女が詠んだ歌は、",
         "translation-en-natural": "To comfort the men's hearts, upon hearing a scene where lines like 'When one looks toward the sun, the capital is far away' are recited in Chinese poetry, a certain woman composed a song:",
         "notes-ja": [
@@ -13061,7 +14133,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ACC": "accusative (対象)",
+          "ADV": "adverb (副詞)",
+          "ALL": "allative (到達方向)",
+          "QUOT": "quotative (引用・意識対象)",
+          "GEN": "genitive (属格)"
+        },
         "translation-ja-natural": "あの太陽さえ、天の雲の近くに見えるというのに、都へ続く道の、なんと遠いことか。",
         "translation-en-natural": "Even the sun can be seen near the heavenly clouds, and yet how distant is the road leading to the capital.",
         "notes-ja": [
@@ -13117,7 +14195,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "REALIS": "realis form (已然形)",
+          "PST": "past tense (過去形)",
+          "GEN": "genitive (属格)",
+          "PTCP": "participle (連体形)"
+        },
         "translation-ja-natural": "また、ある人が詠んだ。",
         "translation-en-natural": "Another person composed."
       },
@@ -13221,7 +14304,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive (属格)",
+          "NEG": "negation (否定)",
+          "ATTR": "attributive (連体形)",
+          "COND": "conditional (条件)",
+          "TOP": "topic marker (主題)",
+          "PAST.EXCL": "past exclamative (過去詠嘆)"
+        },
         "translation-ja-natural": "吹きすさぶ風が止まないかぎり、寄せる波はあとを絶たず、波路はますます遠くなっていくのだった。",
         "translation-en-natural": "As long as the relentless wind keeps blowing, the waves continue to rise and approach, making the path across the sea seem ever more distant."
       },
@@ -13271,7 +14361,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "TOP": "topic marker (主題)",
+          "NEG": "negation (否定)"
+        },
         "translation-ja-natural": "毎日毎日、風が吹き止むことがない。",
         "translation-en-natural": "The wind keeps blowing, day after day."
       },
@@ -13317,7 +14410,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "finger": "finger",
+          "plucking": "plucking (striking lightly with fingers)",
+          "do.GER": "do, gerundive form (連用形、動作接続)",
+          "sleep": "sleep",
+          "PFV": "perfective aspect (完了)"
+        },
         "translation-ja-natural": "指をはじいて、寝てしまった。",
         "translation-en-natural": "Flicking their fingers, they lay down to sleep.",
         "notes-ja": [
@@ -13385,7 +14484,9 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "NEG": "negation (否定)"
+        },
         "translation-ja-natural": "二十八日、夜通し雨がやまない。",
         "translation-en-natural": "On the 28th, the rain does not cease all night.",
         "notes-ja": [
@@ -13482,7 +14583,9 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "do.GER": "do, gerundive form (連用形、動作接続)"
+        },
         "translation-ja-natural": "二十九日、船出して行く。",
         "translation-en-natural": "On the 29th, set sail and go."
       },
@@ -13538,7 +14641,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV": "adverbial particle",
+          "CVB": "converb (sequential connective form)"
+        },
         "translation-ja-natural": "のどかに陽が照り、船を漕ぎ進んでいく。",
         "translation-en-natural": "With the sun shining gently, I row onward.",
         "notes-ja": [
@@ -13696,7 +14802,18 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive (possessive)",
+          "ACC": "accusative (object case)",
+          "CVB": "converb (connective form)",
+          "COND": "conditional (if, when)",
+          "COP": "copula (be)",
+          "PFV": "perfective aspect",
+          "PFV.PTCP": "perfective participle",
+          "PFV.EXCL": "perfective with exclamatory nuance",
+          "NEG": "negation",
+          "TOP": "topic marker"
+        },
         "translation-ja-natural": "爪がとても長くなっているのを見て、日を数えると、今日は子の日なので切らない。",
         "translation-en-natural": "Seeing that my nails have grown very long, I count the days and find that today is the day of the rat, so I do not cut them.",
         "notes-ja": [
@@ -13846,7 +14963,16 @@
             "note": "Sentence-final particle indicating exclamation, affirmation, or reflection. It adds emotional coloring or rhetorical emphasis to the preceding statement."
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "PFV": "perfective (完了)",
+          "CVB": "converb (連用形・接続形)",
+          "GEN": "genitive (所属・連体修飾)",
+          "QUOT": "quotative (引用・発話表示)",
+          "COND": "conditional (条件)",
+          "COP.PST": "copula, past (過去の断定・存在)",
+          "IPFV": "imperfective (未完了・進行性)",
+          "EXCL": "exclamation (詠嘆・念押し)"
+        },
         "translation-ja-natural": "正月になると、京の子の日のことが思い出されて、「小松があればいいのに」とつい口にするけれど、いまは海のまん中。どうしようもないのです。",
         "translation-en-natural": "As the New Year comes around, I find myself remembering the Day of the Rat in the capital and murmuring, 'If only I had a little pine tree.' But here I am, out in the middle of the sea — there's just nothing I can do.",
         "notes-ja": [
@@ -13914,7 +15040,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": [
+          {
+            "term": "出だせる",
+            "note": "動詞「出だす（いだす）」の已然形「出だせ」に、完了の助動詞「り」の連体形「る」が接続した形。全体として「出してしまった（完了）」の意味を持ち、後の「歌」を修飾している。"
+          }
+        ],
         "translation-ja-natural": "ある女の人が書いて出した歌は、",
         "translation-en-natural": "A poem that a woman wrote and presented is as the following:"
       },
@@ -14042,7 +15173,21 @@
             "note": "A sentence-final particle expressing exclamation and mild adversative nuance. It conveys a sense of emotional regret or unfulfilled possibility, similar to 'though...' or 'if only...'."
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "TOP": "topic (主題を示す助詞)",
+          "Q": "question particle (疑問の助詞)",
+          "GEN": "genitive (所属・連体修飾)",
+          "ACC": "accusative (目的格)",
+          "CVB": "converb (連用接続助詞)",
+          "IRR": "irrealis (未実現の事態)",
+          "COP.IRR": "copula, irrealis (仮定の断定)",
+          "COND": "conditional (条件)",
+          "AUX": "auxiliary (助動的要素)",
+          "PRF": "perfect (完了)",
+          "REL": "relativizer (連体修飾)",
+          "IRR.WISH": "irrealis + wish (反実仮想の願望)",
+          "EXCL.ADVERS": "exclamation + adversative nuance (詠嘆＋逆接の語感)"
+        },
         "translation-ja-natural": "ああ、はっきりしない...今日は子の日なのだろうか。私が海女だったら、せめて海松くらいは引いてみようものを。",
         "translation-en-natural": "Ah, it's all so uncertain... Is today really the Day of the Rat? If I were a diver, I might have at least pulled up some sea pine.",
         "notes-ja": [
@@ -14084,7 +15229,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "QUOT": "quotative (引用・発話表示)",
+          "EXCL": "exclamation (詠嘆・念押し)",
+          "PRF.REL": "perfective + relativizer (完了の連体修飾)"
+        },
         "translation-ja-natural": "と言う。",
         "translation-en-natural": "So she says."
       },
@@ -14162,7 +15311,13 @@
             "note": "格助詞「に」に接続助詞「て」が付いた文語表現で、場所・手段・状況などを示す。現代語の「で」に相当するが、古典語ではやや硬い書き言葉として用いられる。文法的には動詞の連用形ではなく、助詞であるため、glossでは CVB ではなく LOC（場所格）とする。"
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative (場所格)",
+          "GEN": "genitive (連体格)",
+          "INS": "instrumental (手段格)",
+          "TOP": "topic (主題)",
+          "IRR": "irrealis (非現実・推量・意志)"
+        },
         "translation-ja-natural": "海の上で、子の日の歌なんて、どうなのかしらね。",
         "translation-en-natural": "Out here at sea, a poem for the Day of the Rat—does that even make sense?"
       },
@@ -14222,7 +15377,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive (連体格)",
+          "PFV": "perfective (完了)",
+          "PTCP": "participle (連体形・準体法的用法)"
+        },
         "translation-ja-natural": "そしてまた、ある人が詠んだ歌がこちら。",
         "translation-en-natural": "And now, here's a poem composed by someone else."
       },
@@ -14334,7 +15493,18 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": [
+          {
+            "COP.PST": "copula, past（であった）",
+            "COND": "conditional（仮定）",
+            "ADD": "additive（〜も）",
+            "NEG": "negation（打消）",
+            "GEN": "genitive（連体格）",
+            "1SG": "first person singular（私）",
+            "PTCP": "participle（連体形）",
+            "LOC": "locative（場所格）"
+          }
+        ],
         "translation-ja-natural": "今日は子の日なのに、若菜を摘むこともできない。私が漕ぎ渡っているこの春日野の浦には、若菜がないのだから。",
         "translation-en-natural": "It's the Day of the Rat today, and yet I can't even pick young greens—there are no young greens in the Kasugano bay I'm rowing across.",
         "notes-ja": [
@@ -14392,7 +15562,9 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "CVB": "converb（動作の並行・接続助詞『つつ』）"
+        },
         "translation-ja-natural": "そんなことを言いながら、船を漕ぎ進んでいく。",
         "translation-en-natural": "Saying things like that, we kept rowing on."
       },
@@ -14520,7 +15692,20 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": [
+          {
+            "LOC": "locative（場所格）",
+            "ACC": "accusative（対格）",
+            "CVB": "converb（接続形／連用形）",
+            "Q": "question particle／marker（疑問）",
+            "QUOT": "quotative（引用）",
+            "PST": "past（過去）",
+            "COND": "conditional（仮定）",
+            "GEN": "genitive（連体格）",
+            "FOC": "focus（強調）",
+            "PAST.EXC": "past exclamative（詠嘆の過去）"
+          }
+        ],
         "translation-ja-natural": "趣のある場所に船を寄せて、「ここはどこですか」とたずねたところ、「土佐の港です」と答えた。",
         "translation-en-natural": "We pulled our boat into a scenic spot and asked, 'Where are we?' They answered, 'This is the harbor of Tosa.'"
       },
@@ -14616,7 +15801,19 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative（場所格）",
+          "ACC": "accusative（対格）",
+          "CVB": "converb（接続形／連用形）",
+          "Q": "question（疑問）",
+          "QUOT": "quotative（引用）",
+          "PST": "past（過去）",
+          "COND": "conditional（仮定）",
+          "GEN": "genitive（連体格）",
+          "FOC": "focus（強調）",
+          "PAST.EXC": "past exclamative（詠嘆の過去）",
+          "IZ": "realis / izenkei（已然形）"
+        },
         "translation-ja-natural": "昔、土佐というところに住んでいた女が、この船に乗り合わせていた。",
         "translation-en-natural": "Once upon a time, a woman who had lived in a place called Tosa happened to be on board this boat."
       },
@@ -14746,7 +15943,17 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（連体格）",
+          "RETRO.QUOT": "retrospective quotative（過去伝聞の名詞化）",
+          "REL": "relativizer（連体化）",
+          "DAT": "dative（与格）",
+          "FOC": "focus（係助詞による焦点）",
+          "COP": "copula（断定）",
+          "QUOT": "quotative（引用）",
+          "CONJ": "conjunctive（接続）",
+          "PTCP": "participle（連体形）"
+        },
         "translation-ja-natural": "その人はこう言った――「昔、しばらく過ごしたあの場所と同じような名前なんだなあ。しみじみとするよ」と言って、詠んだ歌は、",
         "translation-en-natural": "That person said, 'It bears the same kind of name as the place I once stayed for a while... how moving,' and then composed a poem..."
       },
@@ -14870,7 +16077,16 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ACC": "accusative（対格）",
+          "PTCP.PST": "past participle（過去分詞・連体形）",
+          "GEN": "genitive（連体格）",
+          "DAT": "dative（与格）",
+          "FOC": "focus（強調）",
+          "COND": "conditional（仮定）",
+          "ADD": "additive（添加・〜も）",
+          "QUOT": "quotative（引用）"
+        },
         "translation-ja-natural": "何年も住んでいた場所の名を今も背負っているから、寄せてくる波さえも、しみじみと感じられる。",
         "translation-en-natural": "Because this place still carries the name of where I once lived for years, even the waves that wash ashore move me deeply."
       },
@@ -14912,7 +16128,9 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "NEG": "negation（打消）"
+        },
         "translation-ja-natural": "三十日、雨も風も吹かない。",
         "translation-en-natural": "On the thirtieth, neither rain nor wind blows."
       },
@@ -15064,7 +16282,16 @@
             "note": "Literally 'water gate'; an archaic term referring to port entrances or water passages. In this context, it likely denotes a sea channel or port area in Awa (present-day Tokushima)."
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "TOP": "topic（主題）",
+          "NEG": "negation（打消）",
+          "COP": "copula（断定）",
+          "QUOT": "quotative（引用）",
+          "CVB": "converb（接続形）",
+          "LOC": "locative（場所格）",
+          "ACC": "accusative（対格）",
+          "GEN": "genitive（連体格）"
+        },
         "translation-ja-natural": "海賊は夜には出歩かないと聞いていたので、私たちは夜中に船を出して、阿波の水門をこっそりと渡った。",
         "translation-en-natural": "We had heard that pirates don't go out at night, so we set sail around midnight and quietly passed through the water gate of Awa."
       },
@@ -15198,7 +16425,15 @@
             "note": "A perfective auxiliary verb indicating the completion of an action. In 'watari-nu' (渡りぬ), it marks the successful crossing, often carrying a nuance of relief or achievement."
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "COP.CONJ": "copula (conjunctive)（連用形の断定助動詞）",
+          "COND": "conditional（仮定）",
+          "ADD": "additive（添加）",
+          "NEG": "negation（否定）",
+          "ACC": "accusative（対格）",
+          "CVB": "converb（接続形）",
+          "PFV": "perfective（完了）"
+        },
         "translation-ja-natural": "夜中だったので、東も西も見えず、男も女も、不安の中で神仏にすがりながら、この水門を渡った。",
         "translation-en-natural": "In the middle of the night, unable to see east or west, both men and women clung to prayer as they passed through the water gate in fear."
       },
@@ -15334,7 +16569,13 @@
             "note": "Exact location unknown. Possibly refers to a river or waterway along the Kii Peninsula coastline. Due to variation in place name orthography during the Heian period, exact identification is uncertain."
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（連体格）",
+          "LOC": "locative（場所格）",
+          "QUOT": "quotative（引用）",
+          "ACC": "accusative（対格）",
+          "CVB": "converb（接続形）"
+        },
         "translation-ja-natural": "寅の刻から卯の刻にかけて、ぬ島という島を通り過ぎ、たな川という川を渡った。",
         "translation-en-natural": "Sometime between the Tiger and Rabbit hours, we passed by the island called Nushima and crossed a river called Tanakawa."
       },
@@ -15428,7 +16669,13 @@
             "note": "'Izumi' refers to an old province in the southern part of present-day Osaka Prefecture. 'Nada' signifies a rough coastal sea area, suggesting that this part of the journey was particularly treacherous to navigate."
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "CVB": "converb（接続形）",
+          "GEN": "genitive（連体格）",
+          "QUOT": "quotative（引用）",
+          "LOC": "locative（場所格）",
+          "PFV": "perfective（完了）"
+        },
         "translation-ja-natural": "なんとか急いで進み、ようやく和泉の灘という難所にたどり着いた。",
         "translation-en-natural": "We pushed forward with all our might and finally reached the treacherous waters known as Izumi no Nada."
       },
@@ -15486,7 +16733,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative（場所格）",
+          "DAT": "dative（与格）",
+          "NEG.exist": "negation of existence（存在の否定）"
+        },
         "translation-ja-natural": "今日は、海に波らしい波は見られない。",
         "translation-en-natural": "Today, there isn't a single wave on the sea that even resembles a proper one."
       },
@@ -15536,7 +16787,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（連体格）",
+          "DAT": "dative（与格）"
+        },
         "translation-ja-natural": "まるで神仏の恵みを受けたかのように思われた。",
         "translation-en-natural": "It felt just like receiving the blessings of the gods and Buddhas."
       },
@@ -15644,7 +16898,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative（場所格）",
+          "PTCP": "participle（連体形）",
+          "ABL": "ablative（起点格）",
+          "COND": "conditional（条件）",
+          "DAT": "dative（到達格）",
+          "PFV": "perfective（完了）",
+          "PAST.EXCL": "past + exclamatory（過去・詠嘆）"
+        },
         "translation-ja-natural": "今日、船に乗った日から数えてみると、もう三十九日にもなってしまった。",
         "translation-en-natural": "Today, counting from the day I boarded the boat, it’s already been thirty-nine days."
       },
@@ -15734,7 +16996,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "TOP": "topic（主題）",
+          "GEN": "genitive（連体格）",
+          "DAT": "dative（到達格）",
+          "PFV": "perfective（完了）",
+          "COND": "conditional（条件）",
+          "NEG": "negation（打消）"
+        },
         "translation-ja-natural": "今は和泉の国まで来たから、もう海賊の心配はない。",
         "translation-en-natural": "Now that we've arrived in the province of Izumi, there's no more danger from pirates."
       },
@@ -15794,7 +17063,9 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（連体格）"
+        },
         "translation-ja-natural": "二月一日、朝のうち、雨が降る。",
         "translation-en-natural": "The first day of the second month. Rain is falling in the morning."
       },
@@ -15914,7 +17185,16 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（連体格）",
+          "approx": "approximate（おおよそ）",
+          "DAT": "dative（時点・到達格）",
+          "PFV": "perfective（完了）",
+          "COND": "conditional（条件）",
+          "QUOT": "quotative（引用）",
+          "ABL": "ablative（起点格）",
+          "CVB": "converb（連用形接続）"
+        },
         "translation-ja-natural": "正午ごろに雨がやんだので、「和泉の灘」という場所から出て、船を漕ぎ出した。",
         "translation-en-natural": "Around noon, the rain let up, so we set out from a place called Izumi no Nada and began rowing."
       },
@@ -15982,7 +17262,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（連体格）",
+          "NEG": "negation（打消）"
+        },
         "translation-ja-natural": "海の上は、昨日と同じように、風も波も見えなかった。",
         "translation-en-natural": "Just like yesterday, the sea was calm—no wind or waves in sight."
       },
@@ -16032,7 +17315,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（連体格）",
+          "ACC": "accusative（対格）"
+        },
         "translation-ja-natural": "黒崎の松原を抜けて進んでいく。",
         "translation-en-natural": "We make our way through the pine grove of Kurosaki.",
         "notes-ja": [
@@ -16238,7 +17524,16 @@
             "note": "In classical Japanese, 'blue' (ao) often included shades of green and symbolized youth and vitality, especially for evergreen trees like pines. While 'evergreen' captures this cultural nuance, translating it as 'blue' in English can be misleading, as it suggests an unnatural color for pines."
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（連体格：〜の）",
+          "TOP": "topic（主題：〜は）",
+          "ADV": "adverb（副詞）",
+          "DAT": "dative（方向・対象：〜に）",
+          "LOC.means": "locative/instrumental（場所・手段：〜にて）",
+          "ALL": "allative（到達点・目的地：〜に）",
+          "EXCL": "exclamatory（係り結びの強調：〜ぞ）",
+          "NEG": "negation（打消：〜ず）"
+        },
         "translation-ja-natural": "この場所の名は黒、松の色は青、磯の波は雪のように白く、貝の色は蘇芳。五色に、今ひといろ足りない。",
         "translation-en-natural": "The place is called 'Black', the color of the pines is blue, the waves on the shore are white like snow, and the color of the shells is suou. To make five colors, one color is now missing.",
         "notes-ja": [
@@ -16388,7 +17683,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative（場所：〜に）",
+          "TOP": "topic（主題：〜は）",
+          "QUOT": "quotative（引用・名称：〜と）",
+          "ABL": "ablative（起点：〜より）",
+          "CONJ": "conjunctive（接続助詞：〜て）",
+          "INS": "instrumental（手段：〜で）"
+        },
         "translation-ja-natural": "さて、この間に、今日は箱の浦というところから、綱で船を引いて行く。",
         "translation-en-natural": "Now then, during this time, today we pull the boat along by rope from a place called Hako no Ura.",
         "notes-ja": [
@@ -16412,7 +17714,11 @@
         "koutei-yamagen": "かく行くあひだにある人の詠める歌、",
         "translation-ja": "こうして行くあいだに、ある人が詠んだ歌、",
         "translation-en": "As we go along, a song composed by someone,",
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（連体格：〜の）",
+          "DAT": "dative（方向・対象：〜に）",
+          "PRF": "perfective（完了：〜た、〜ている）"
+        },
         "translation-ja-natural": "こうして進んでいく途中で、ある人が詠んだ歌、",
         "translation-en-natural": "As we traveled on, someone composed the following poem,"
       },
@@ -16534,7 +17840,15 @@
             "note": "\"Tama-kushige\" is a makurakotoba (pillow word) that modifies the word \"hako\" (box). Literally evoking 'a jewel-comb box,' it is used here to ornament the place name \"Hako no Ura.\" While it does not contribute semantically, it enhances the classical poetic tone and rhythm of the waka."
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（連体格：〜の）",
+          "NEG": "negation（打消：〜ない）",
+          "TOP": "topic（主題：〜は）",
+          "ACC": "accusative（目的格：〜を）",
+          "QUOT": "quotative（引用：〜と）",
+          "Q": "interrogative（疑問：〜か）",
+          "MOD.FUT": "modal/future（推量・未来：〜む）"
+        },
         "translation-ja-natural": "波ひとつ立たない穏やかな日に、箱の浦の海を鏡と思わぬ人がいるでしょうか。",
         "translation-en-natural": "On a calm day with not a wave in sight, who could look at the sea of Hako no Ura and not see a mirror?"
       },
@@ -16700,7 +18014,20 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（連体格）",
+          "QUOT": "quotative（引用）",
+          "ALL": "allative（到達格）",
+          "PFV.ATTR": "perfective + attributive（完了 + 連体形）",
+          "NMLZ": "nominalizer（名詞化）",
+          "CVB": "converb（接続形、連用接続）",
+          "DAT": "dative（与格）",
+          "NEG": "negation（否定）",
+          "ADD": "additive（添加：〜も）",
+          "COMP": "complementizer（補文標識）",
+          "PURP": "purposive（目的）",
+          "ATTR": "attributive（連体形）"
+        },
         "translation-ja-natural": "また、船君が言うには、「とうとう今月まで来てしまった」と、嘆き、苦しみに耐えきれずに、人もそうするものだと、気を紛らわせるように詠んだ歌は、",
         "translation-en-natural": "Again, the ship's lord said, 'At last, it has come to this month,' and, lamenting, unable to endure the pain, he thought, 'This is something people do,' and composed a poem to ease his mind."
       },
@@ -16816,7 +18143,16 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（連体格：「〜の」）",
+          "ATTR": "attributive（連体形）",
+          "ACC": "accusative（対格：「〜を」）",
+          "ALL": "allative（到達格：「〜まで」）",
+          "1SG": "first person singular（1人称単数：われ）",
+          "TOP": "topic（主題：「〜は」）",
+          "PFV": "perfective（完了：に）",
+          "PAST.EXCL": "past + exclamatory（過去＋詠嘆：けり）"
+        },
         "translation-ja-natural": "舟を引く綱のように、どこまでも長く感じられる春の日々を、四十日、五十日と、私は過ごしてしまったのだなあ。",
         "translation-en-natural": "Like the long towrope of a boat being pulled, the days of spring stretched on and on—and I, too, have passed through forty, even fifty days of them.",
         "notes-ja": [
@@ -16924,7 +18260,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（の：所有・連体修飾）",
+          "PFV": "perfective（完了：動作の完了）",
+          "COP": "copula（断定：〜である）",
+          "QUOT": "quotative（引用：〜と）"
+        },
         "translation-ja-natural": "聞く人の反応を見ていると、「どうしてこんな、ただのことを詠んだ歌なんだろう」と、心の中でそっと思っているのかもしれない。",
         "translation-en-natural": "Judging from the listener's reaction, they may be quietly thinking to themselves, 'Why would someone write a poem about something so ordinary?'",
         "notes-ja": [
@@ -17065,7 +18406,20 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（所有・連体格：〜の）",
+          "CVB": "converb（連用形：〜し、〜して）",
+          "SEQ": "sequential（順接の接続：〜して）",
+          "QUOT": "quotative（引用：〜と）",
+          "IZN": "realis / izen-form（已然形：〜ば、〜どもなどに対応）",
+          "AUX.RTN": "auxiliary, attributive form（補助動詞「り」連体形）",
+          "ACC": "accusative（対格：〜を）",
+          "NEG.POT": "negative potential（〜できない）",
+          "PRO": "pronominal（代名詞的要素）",
+          "ADD": "additive（添加・強調：〜も）",
+          "EMPH": "emphatic（強調助詞：〜こそ）",
+          "PFV": "perfective（完了：〜ぬ）"
+        },
         "translation-ja-natural": "船君が苦労してひねり出し、自分ではよいと思っていることなのに、それについてどうして口にできようか。そう思って、慎んで黙ってしまったのだ。",
         "translation-en-natural": "The ship's lord had struggled to come up with it, believing it to be good—and yet, how could anyone possibly speak of it? Thinking so, they chose to hold back and said nothing."
       },
@@ -17119,7 +18473,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "suddenly": "副詞（予期しない変化を示す）",
+          "COND": "conditional（条件：〜ば）",
+          "PFV": "perfective（完了：〜ぬ）",
+          "ADJ.IZN": "adjective, izen-form（形容詞・已然形：〜けれ）"
+        },
         "translation-ja-natural": "急に風と波が高くなったので、同じ港に留まった。",
         "translation-en-natural": "The wind and waves suddenly grew high, so we stayed at the same port."
       },
@@ -17165,7 +18524,9 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "NEG": "negation（否定：〜ない）"
+        },
         "translation-ja-natural": "二日、雨と風は止まなかった。",
         "translation-en-natural": "On the second day, the rain and wind did not cease."
       },
@@ -17233,7 +18594,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ACC": "accusative（対格：〜を）",
+          "ADD": "additive（添加：〜も）"
+        },
         "translation-ja-natural": "一日中、一晩中、神仏に祈りを捧げる。",
         "translation-en-natural": "Day after day, night after night, I pray to the gods and Buddhas."
       },
@@ -17319,7 +18683,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（連体格：〜の）",
+          "COP.PST": "copula, past（断定の助動詞「なり」の已然形）",
+          "COND": "conditional（接続助詞「ば」：〜ので、〜ならば）",
+          "NEG": "negation（打消の助動詞「ず」）"
+        },
         "translation-ja-natural": "三日目も、海の様子が昨日と同じだったので、船は出さなかった。",
         "translation-en-natural": "On the third day as well, the sea looked just like it had the day before, so we didn’t set sail."
       },
@@ -17389,7 +18758,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（連体格：〜の）",
+          "COND": "conditional（接続助詞「ば」：〜ので、〜ならば）",
+          "NEG": "negation（打消の助動詞「ず」）"
+        },
         "translation-ja-natural": "風が吹くことがやまないので、岸の波が立ち返る。",
         "translation-en-natural": "As the wind does not cease, the waves on the shore rise and fall."
       },
@@ -17443,7 +18816,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative（場所：〜に）",
+          "SEQ": "sequential（順接の接続：〜して）",
+          "PST": "past（過去：〜た）"
+        },
         "translation-ja-natural": "これについて詠んだ歌は、",
         "translation-en-natural": "The poem I composed in connection with this is,"
       },
@@ -17559,7 +18936,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ACC": "accusative（対格：〜を）",
+          "SEQ": "sequential（順接の接続：〜して）",
+          "TOP": "topic（主題：〜は）",
+          "NEG": "negation（否定：〜ない）",
+          "PAST": "past（過去：〜た）"
+        },
         "translation-ja-natural": "糸をより合わせても、無駄なものは、落ちつもる涙の玉を貫くことができないからだ。",
         "translation-en-natural": "Even if you twist the thread together, it is of no use; the tears that fall and accumulate cannot be pierced through."
       },
@@ -17609,7 +18992,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "SEQ": "sequential（順接の接続：〜して）",
+          "TOP": "topic（主題：〜は）",
+          "PFV": "perfective（完了：動作の完了）"
+        },
         "translation-ja-natural": "このようにして、今日は暮れた。",
         "translation-en-natural": "Thus, today has come to an end."
       },
@@ -17705,7 +19092,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（連体格：〜の）",
+          "QUOT": "quotative（引用：〜と）",
+          "SEQ": "sequential（順接の接続：〜して）",
+          "NEG": "negation（否定：〜ない）",
+          "PFV": "perfective（完了：動作の完了）"
+        },
         "translation-ja-natural": "四日、楫取が「今日の風、雲の様子ははなはだ悪い」と言って、船を出さないことになった。",
         "translation-en-natural": "On the fourth day, the helmsman said, \"The wind and clouds today are very bad,\" and it was decided not to set sail.",
         "notes-ja": [
@@ -17769,7 +19162,9 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "NEG": "negation（否定：〜ない）"
+        },
         "translation-ja-natural": "しかし、終日波風は立たなかった。",
         "translation-en-natural": "However, the waves and wind did not rise all day long."
       },
@@ -17839,7 +19234,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "TOP": "topic（主題：〜は）",
+          "AUX": "auxiliary verb（助動詞）",
+          "NEG": "negation（否定：〜ない）",
+          "PST": "past（過去：〜た）"
+        },
         "translation-ja-natural": "この楫取は、天候も予想できない愚か者であった。",
         "translation-en-natural": "This helmsman was a fool who could not even predict the weather.",
         "notes-ja": [
@@ -17925,7 +19325,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative（場所：〜に）",
+          "TOP": "topic（主題：〜は）",
+          "GEN": "genitive（連体格：〜の）"
+        },
         "translation-ja-natural": "この泊の浜には、さまざまの美しい貝や石などが多かった。",
         "translation-en-natural": "On the beach of this harbor, there were many beautiful shells and stones."
       },
@@ -18021,7 +19425,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "COND": "conditional（接続助詞「ば」：〜ので、〜ならば）",
+          "GEN": "genitive（連体格：〜の）",
+          "ACC": "accusative（対格：〜を）",
+          "PST": "past（過去：〜た）"
+        },
         "translation-ja-natural": "だから、ただ昔の人をのみ恋ひつつ、船にいる人が詠んだ歌は、",
         "translation-en-natural": "Therefore, only the person in the past is longed for, the person on the ship who composed this poem,",
         "notes-ja": [
@@ -18111,7 +19520,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "EMPH": "emphasis（強調：〜も）",
+          "HORT": "hortative（勧誘：〜しよう）",
+          "ATTR": "attributive（連体形：〜する）",
+          "FUT": "future（未来：〜するつもり）"
+        },
         "translation-ja-natural": "寄せてくる波よ、どうか、私が恋い慕うあの人を忘れさせてくれるという忘れ貝を打ち上げておくれ。そしたら、私は船から降りて、それを拾うから。",
         "translation-en-natural": "Waves that come to shore—please, bring me the forgetful shell said to make one forget the person they love. If you do, I'll get off this boat and pick it up myself.",
         "notes-ja": [
@@ -18241,7 +19655,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "QUOT": "quotative（引用：〜と）",
+          "COND": "conditional（接続助詞「ば」：〜ので、〜ならば）",
+          "ATTR": "attributive（連体形：〜する）",
+          "NEG": "negation（否定：〜ない）",
+          "DAT": "dative（与格：〜に）",
+          "PRF": "perfective（完了：動作の完了）",
+          "ADN": "adnominal（連体形：〜する）"
+        },
         "translation-ja-natural": "そう言われると、ある人がこらえきれず、船の上で気を紛らすように詠んだ歌がこちら。",
         "translation-en-natural": "When that was said, someone couldn't hold back and composed this poem as a way to ease their heart aboard the boat."
       },
@@ -18349,7 +19771,16 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "EMPH": "emphasis（強調：〜も）",
+          "ACC": "accusative（対格：〜を）",
+          "NMLZ": "nominalizer（名詞化：〜すること）",
+          "ATTR": "attributive（連体形：〜する）",
+          "ADD": "addition（追加：〜も）",
+          "QUOT": "quotative（引用：〜と）",
+          "SUPP": "suppositional（仮定：〜するつもり）",
+          "NEG.SUPP": "negation and suppositional（否定と仮定：〜しないつもり）"
+        },
         "translation-ja-natural": "忘れ貝なんて、もう拾わない。せめて白玉を恋しく思うことだけでも、形見と思おう。",
         "translation-en-natural": "I won’t pick up the forgetful shell anymore. But even just longing for the white jewel—I'll treasure that feeling as a keepsake.",
         "notes-ja": [
@@ -18405,7 +19836,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "QUOT": "quotative（引用：〜と）",
+          "EMPH": "emphasis（強調：〜も）",
+          "PST": "past（過去：〜た）"
+        },
         "translation-ja-natural": "と詠んでいる。",
         "translation-en-natural": "So it is said."
       },
@@ -18489,7 +19924,14 @@
             "note": "The adverbial form of the adjective 'osanashi' (幼し), meaning 'childlike' or 'immature.' While it can refer to literal age, in this context it implies emotional vulnerability or a loss of rational control. It suggests that the parent, overwhelmed by love for the daughter, regresses emotionally or becomes irrational."
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（連体格：〜の）",
+          "DAT": "dative（与格：〜に）",
+          "TOP": "topic（主題：〜は）",
+          "ADV": "adverbial（副詞的：〜に）",
+          "PERF": "perfective（完了：動作の完了）",
+          "SUPP": "suppositional（推測：〜だろう）"
+        },
         "translation-ja-natural": "娘のこととなると、親は子どものようになってしまうものだ。",
         "translation-en-natural": "When it comes to their daughter, a parent can’t help but become like a child."
       },
@@ -18573,7 +20015,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "COP": "copula（コピュラ：〜だ）",
+          "NEG": "negation（否定：〜ない）",
+          "ADD": "addition（追加：〜も）",
+          "ACC": "accusative（対格：〜を）",
+          "QUOT": "quotative（引用：〜と）",
+          "SUPP": "suppositional（仮定：〜するつもり）",
+          "RHET.Q": "rhetorical question（反語疑問：〜か）"
+        },
         "translation-ja-natural": "あの子が宝石のようでなかった時があるなんて、誰が言えるだろうか。",
         "translation-en-natural": "Who could ever say there was a time when she wasn’t like a jewel?"
       },
@@ -18659,7 +20109,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "CVB": "converb（連用形）",
+          "PST": "past（過去）",
+          "PST-ATTR": "past attributive（過去・連体形）",
+          "ADV": "adverbial（連用形）",
+          "QUOT": "quotative（引用：〜と）",
+          "ADD": "additive（追加：〜も）"
+        },
         "translation-ja-natural": "それでも、「死にし子は顔のよき子であった」と言うような声もある。",
         "translation-en-natural": "Even so, there are those who say, 'The child who passed away had a fine face.'"
       },
@@ -18892,7 +20349,19 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ACC": "accusative（対格：〜を）",
+          "CONJ": "conjunctive（接続：〜て）",
+          "ADD": "addition（追加：〜も）",
+          "NEG.ATTR": "negation attributive（否定・連体形：〜しない）",
+          "LOC": "locative（場所：〜に）",
+          "EMPH": "emphasis（強調：〜ぞ）",
+          "QUOT": "quotative（引用：〜と）",
+          "TOP": "topic（主題：〜は）",
+          "ADV.FIN": "adverbial finitive（副詞的終止形：〜に）",
+          "PERF": "perfective（完了：動作の完了）",
+          "PST.ATTR": "past attributive（過去・連体形：〜た）"
+        },
         "translation-ja-natural": "手を差し入れて、冷たさも忘れる泉で、水を汲むわけでもなく、いつしか日々が過ぎていた。",
         "translation-en-natural": "With my hands in the water, forgetting even the cold, not really trying to draw any, I've let the days quietly pass."
       },
@@ -18986,7 +20455,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（連体格：〜の）",
+          "ABL": "ablative（起点：〜より）",
+          "ACC": "accusative（対格：〜を）",
+          "ADV": "adverbial（連用形）",
+          "do": "light verb（補助動詞：〜し）",
+          "CONJ": "conjunctive（接続助詞：〜て）"
+        },
         "translation-ja-natural": "五日。今日、ようやくの思いで、和泉の灘を発ち、小津の泊へ向かった。",
         "translation-en-natural": "On the fifth day—today—I just barely managed to leave the coast of Izumi and head toward the harbor of Ozu."
       },
@@ -19032,7 +20508,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "COP": "copula（コピュラ：〜だ）",
+          "ADD": "addition（追加：〜も）"
+        },
         "translation-ja-natural": "松原の眺めまでも、果てしなく続いているように見える。",
         "translation-en-natural": "Even the view of the pine grove seems to stretch endlessly into the distance."
       },
@@ -19082,7 +20561,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "COND": "conditional（条件：〜ば）",
+          "CONJ": "conjunctive（接続：〜ければ）",
+          "PST-ATTR": "past attributive（過去・連体形：〜た）"
+        },
         "translation-ja-natural": "いろいろとつらかったので、詠んだ歌は、",
         "translation-en-natural": "Since it was such a hard time in so many ways, the poem composed is:",
         "notes-ja": [
@@ -19204,7 +20687,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "POT/AUT": "potential/automatic（可能・自動：〜できる）",
+          "NEG.ATTR": "negation attributive（否定・連体形：〜しない）",
+          "TOP": "topic（主題：〜は）",
+          "GEN": "genitive（連体格：〜の）",
+          "CONJ": "conjunctive（接続：〜て）",
+          "ATTR": "attributive（連体形：〜する）"
+        },
         "translation-ja-natural": "行っても行っても、まだ続いているんですね、小津の浦の岸の松原が。",
         "translation-en-natural": "No matter how far I go, the pine grove along the shore of Ozu just keeps going on and on.",
         "notes-ja": [
@@ -19372,7 +20862,16 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "PROG": "progressive（進行形：〜している）",
+          "IMP": "imperative（命令形：〜せよ）",
+          "COND": "conditional（条件：〜ば）",
+          "ABL": "ablative（起点：〜より）",
+          "HON": "honorific（尊敬語：〜なさる）",
+          "COP": "copula（コピュラ：〜だ）",
+          "DAT": "dative（与格：〜に）",
+          "PL": "plural（複数形：〜たち）"
+        },
         "translation-ja-natural": "こう言いながらやって来るうちに、「船を早く漕げ、天候がいいんだから」と催促すると、楫取が水夫たちに言う、「船君が仰せになったぞ。",
         "translation-en-natural": "As I was saying this, the boatman urged, 'Row the boat quickly, for the weather is fine,' and the steersman said to the crew, 'The captain has given his orders.'",
         "notes-ja": [
@@ -19460,7 +20959,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（連体格：〜の）",
+          "NEG.ATTR": "negation attributive（否定・連体形：〜しない）",
+          "LOC/TEMP": "locative/temporal（場所・時間：〜に）",
+          "IMP": "imperative（命令形：〜せよ）",
+          "QUOT": "quotative（引用：〜と）"
+        },
         "translation-ja-natural": "朝の北風が出てこないうちに、早く綱手を引け」と言う。",
         "translation-en-natural": "They say, 'Before the morning north wind comes up, quickly pull the rope.'"
       },
@@ -19554,7 +21059,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（連体格：〜の）",
+          "ATTR": "attributive（連体形：〜なる）",
+          "TOP": "topic（主題：〜は）",
+          "COP": "copula（断定：〜なり）"
+        },
         "translation-ja-natural": "この言葉がまるで歌のように響くのは、それが楫取の思わず口をついた言葉だからである。",
         "translation-en-natural": "The reason this line sounds like a poem is that it was something the steersman uttered without even meaning to.",
         "notes-ja": [
@@ -19668,7 +21178,17 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "TOP": "topic marker（〜は）",
+          "DAT": "dative（〜に）",
+          "ADV": "adverbial（副詞的機能）",
+          "GEN": "genitive（〜の）",
+          "ATTR": "attributive form（連体形）",
+          "QUOT": "quotative（引用：〜と）",
+          "ADD": "additive（〜も）",
+          "NEG": "negation（打消）",
+          "1SG": "first person singular（私／おれ）"
+        },
         "translation-ja-natural": "楫取が「おれ、歌みたいなこと言ったぜ」なんて、はっきり言ったわけじゃないんですよ。",
         "translation-en-natural": "It's not like Kajitori actually came out and said, 'I said something kinda poetic,' you know?",
         "notes-ja": [
@@ -19824,7 +21344,16 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（〜の）",
+          "QUOT": "quotative（引用：〜と）",
+          "CONJ": "conjunctive（〜て／接続）",
+          "ADD": "additive（〜も）",
+          "PST": "past（過去）",
+          "EXCL": "exclamatory（詠嘆）",
+          "COND": "conditional（仮定）",
+          "COP": "copula（断定：〜である）"
+        },
         "translation-ja-natural": "それを聞いた人が「妙に歌みたいだったなあ。まさか歌を詠んだつもりだったのか？」なんて言うから、書き出してみたら、ほんとに三十文字あまりだったのである。",
         "translation-en-natural": "The person who heard it said, 'That sounded oddly poetic—was he trying to compose a poem?' So I wrote it down, and sure enough, it was a little over thirty characters long.",
         "notes-ja": [
@@ -19948,7 +21477,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "EPHEM": "ephemeral（儚い：〜な）",
+          "PROH": "prohibitive（禁止：〜するな）",
+          "LOC": "locative（場所：〜に）",
+          "CONJ": "conjunctive（接続：〜て）",
+          "NEG.STEM": "negative stem（否定語幹：〜しない）",
+          "NEG": "negation（否定：〜ない）"
+        },
         "translation-ja-natural": "「今日は波が立ちませんように」と人々が一日中祈ったところ、その願いが通じたのか、風も波も穏やかだったのです。",
         "translation-en-natural": "People spent the whole day praying, 'Please, let the waves stay calm today,' and their prayers seemed to work—the sea remained still, with no wind or waves."
       },
@@ -20101,7 +21637,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（連体格：〜の）",
+          "DAT": "dative（与格：〜に）",
+          "ATTR": "attributive（連体形：〜なる）"
+        },
         "translation-ja-natural": "京が近づいてくるのがうれしくて、ある子どもが詠んだ歌です。",
         "translation-en-natural": "Filled with joy as they neared Kyoto, a child composed this poem."
       },
@@ -20205,7 +21745,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "QUOT": "quotative（引用：と）",
+          "CONJ": "conjunctive（接続助詞：〜を）",
+          "ADV": "adverbial（副詞的用法：〜に）",
+          "EMPH": "emphatic（強調：〜さえ／〜だに）",
+          "SUP.POS": "suppositional, present（現在推量：〜らむ）"
+        },
         "translation-ja-natural": "風が吹かないようにと祈ってきて、今こそ風の止んだ時だと思うのに、なんとも不思議なことに、鴎でさえ風にあおられて立つ波のように見えてしまう。",
         "translation-en-natural": "I've been praying for the wind to calm, and I thought this must be the still moment I've been waiting for—yet strangely, even the gulls look like wind-blown waves."
       },
@@ -20313,7 +21859,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "QUOT": "quotative（引用：と）",
+          "CONJ": "conjunctive（接続助詞：〜て）",
+          "LOC": "locative（場所格：〜に）",
+          "GEN": "genitive（連体格：〜の）"
+        },
         "translation-ja-natural": "そう言って歩いているうちに、石津という場所にある松原がなんとも美しくて、浜辺がはるか遠くに感じられた。",
         "translation-en-natural": "As I continued on, I came to a pine grove at a place called Ishizu—it was so beautiful, and the beach stretched far into the distance."
       },
@@ -20373,7 +21924,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（連体格：〜の）",
+          "ACC": "accusative（対格：〜を）"
+        },
         "translation-ja-natural": "また、住吉のあたりを船で漕ぎ進んでいく。",
         "translation-en-natural": "Again, we rowed on through the waters near Sumiyoshi."
       },
@@ -20423,7 +21977,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（連体格：〜の）",
+          "PST.ATTR": "past attributive（過去連体形：〜たる）"
+        },
         "translation-ja-natural": "ある人が詠んだ歌は、",
         "translation-en-natural": "A poem composed by someone is,"
       },
@@ -20539,7 +22096,18 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "CONJ": "conjunctive（接続：〜て）",
+          "EMPH": "emphatic particle（係助詞：ぞ、ば）",
+          "ACC.EMPH": "accusative emphatic（強調された対格：をば）",
+          "PFV.ATTR": "perfective, attributive（完了・連体形：〜ぬる）",
+          "GEN": "genitive（連体格：〜の）",
+          "ABL": "ablative（起点格：〜より）",
+          "LOC": "locative（場所・時：〜に）",
+          "TOP": "topic（主題：〜は）",
+          "PFV": "perfective（完了：〜に）",
+          "EXCL": "exclamatory（詠嘆：〜けり）"
+        },
         "translation-ja-natural": "今こうして目の当たりにして、自分というものを初めて知った。住の江の松よりも先に、私はもう通り過ぎてしまっていたのだ。",
         "translation-en-natural": "Now that I’ve seen it for myself, I finally understand who I am. Before even reaching the pines of Sumi no E, I had already gone past."
       },
@@ -20643,7 +22211,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative（場所：〜に）",
+          "PFV.ATTR": "perfective, attributive（完了・連体形：〜た）",
+          "GEN": "genitive（連体格：〜の）",
+          "FOC": "focus/emphasis（係助詞：〜も）",
+          "NEG": "negation（打消：〜ず）",
+          "COND": "conditional（順接の仮定：〜ば）"
+        },
         "translation-ja-natural": "ここに、かつていた人の母が、ひとときも忘れることなく思い続けて、歌を詠んだ。",
         "translation-en-natural": "Here, the mother of someone long gone composed a poem, unable to forget them even for a single moment.",
         "notes-ja": [
@@ -20787,7 +22362,14 @@
             "note": "'Beku' is a conjunctive form of the auxiliary 'beshi', used here to express purpose or intent: 'in order to pick (it)'."
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative（場所格：〜に）",
+          "IMP": "imperative（命令形：〜よ）",
+          "Q": "interrogative（疑問：〜や）",
+          "QUOT": "quotative（引用：〜と）",
+          "CONJ": "conjunctive（接続助詞：〜て）",
+          "PURP": "purposive（目的・意志：〜べく）"
+        },
         "translation-ja-natural": "住のゑに船を寄せて、忘れ草にご利益があるかどうか、摘んで行こう。",
         "translation-en-natural": "Let's bring the boat to Sumi no E and pick some forgetting grass, to see if it might help us forget.",
         "notes-ja": [
@@ -20827,7 +22409,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "QUOT": "quotative（引用：と）",
+          "EMPH": "emphatic particle（係助詞：なむ）"
+        },
         "translation-ja-natural": "そう言う。",
         "translation-en-natural": "So it is.",
         "notes-ja": [
@@ -20963,7 +22548,18 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "DESID": "desiderative (〜たい・〜なむ)",
+          "QUOT": "quotative (〜と)",
+          "DAT": "dative (〜に)",
+          "TOP": "topic particle (〜は)",
+          "NEG.CONJ": "negative conjunctive (〜で)",
+          "ADD": "additive (〜も)",
+          "ATTR": "attributive form (連体形)",
+          "INTEN": "intentional/volitional (〜む)",
+          "MODAL.SUPP": "suppositional/modal (〜べし)",
+          "CONJ": "conjunctive (〜て)"
+        },
         "translation-ja-natural": "うっかり忘れるつもりなんかじゃなくて、恋しい気持ちを少し休ませて、それをまた恋する力にしようとしているのだと思います。",
         "translation-en-natural": "It’s not that I’m trying to forget it carelessly—I just want to rest my heart for a bit and turn that feeling into strength to love again."
       },
@@ -21113,7 +22709,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "CONJ": "conjunctive (〜て)",
+          "LOC": "locative (〜に)",
+          "CONCESS": "concessive (〜ども)",
+          "ADV": "adverbial (〜に)",
+          "PERF": "perfective aspect (〜つ)",
+          "MODAL.SUPP": "modal/suppositional (〜べし)"
+        },
         "translation-ja-natural": "こう言って海を眺めているうちに、思いがけず風が吹いてきて、いくら漕いでも漕いでも、どんどん後ろへ押し戻され、もう少しで岸に打ち上げられそうになったのです。",
         "translation-en-natural": "As I was saying that and gazing at the sea, an unexpected wind blew, and no matter how much I tried to row, I kept getting pushed backward, almost washed ashore."
       },
@@ -21145,7 +22748,9 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive (〜の)"
+        },
         "translation-ja-natural": "楫取が言うには、",
         "translation-en-natural": "The oarsman says,"
       },
@@ -21257,7 +22862,17 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive (〜の)",
+          "TOP": "topic particle (〜は)",
+          "EMPH": "emphatic particle (〜ぞ)",
+          "EXCL": "exclamatory particle (〜かし)",
+          "ATTR": "attributive form (連体形)",
+          "HON": "honorific verb (尊敬語)",
+          "MODAL.PRES": "modal, present conjecture (〜らむ)",
+          "QUOT": "quotative (〜と)",
+          "Q": "question particle (〜か)"
+        },
         "translation-ja-natural": "「この住の江の明神さまは、いつもの神さまだよ。なにか欲しいものでもおありなんだろうね」と言うのは、ちょっと今風を気取った言い方じゃないかしら。",
         "translation-en-natural": "\"This Suminoe deity is the usual one—maybe he desires something\"—isn't that a rather modern-sounding notion?"
       },
@@ -21337,7 +22952,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ACC": "accusative (〜を)",
+          "DAT": "dative (〜に)",
+          "QUOT": "quotative (〜と)",
+          "CONJ": "conjunctive (〜て)",
+          "HUM": "humble form (謙譲語)",
+          "HON.IMP": "honorific imperative (〜なさい)"
+        },
         "translation-ja-natural": "そこで、『幣をお捧げなさい』とおっしゃるので、それに従って幣を神にお供えしました。",
         "translation-en-natural": "So, when told 'Please offer the sacred cloth,' I followed the instruction and presented the offering to the deity."
       },
@@ -21522,7 +23144,21 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "HUM": "humble form (謙譲語)",
+          "PST.ALTHOUGH": "past tense, concessive (〜れども)",
+          "CONCESS": "concessive (〜ども)",
+          "NEG.CONJ": "negative conjunctive (〜で)",
+          "ADV": "adverbial (〜に)",
+          "GEN": "genitive (〜の)",
+          "CAUSAL": "causal conjunction (〜ば)",
+          "QUOT.KANBUN": "kanbun-style quotative (〜いはく)",
+          "DAT": "dative (〜に)",
+          "TOP": "topic particle (〜は)",
+          "ADD": "additive (〜も)",
+          "NEG": "negation (〜ぬ / 〜ね)",
+          "COP": "copula (〜なり)"
+        },
         "translation-ja-natural": "こうして幣を奉ったけれども、風はまったくやまず、ますます吹きすさび、波も高くなって危険なほどになった。すると舵取りがまたこう言った——「幣では神の御心に届かぬので、船も進まぬのです。",
         "translation-en-natural": "Even after offering the cloth, the wind wouldn’t stop—it just blew harder and the waves grew rougher. Then the helmsman said again, 'The sacred offering hasn't reached the god’s heart, so the boat won't move.'"
       },
@@ -21598,7 +23234,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "QUOT": "quotative (〜と)",
+          "HON": "honorific (尊敬語)",
+          "HUM": "humble (謙譲語)",
+          "HON.IMP": "honorific imperative (〜たべ)"
+        },
         "translation-ja-natural": "「もっと神様がお喜びになるようなものをお供えしなさい」と言った。",
         "translation-en-natural": "\"Offer something that would truly please the deity,\" he said."
       },
@@ -21700,7 +23341,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "DAT": "dative (〜に)",
+          "MODAL.IRR": "modal, irrealis (〜む)",
+          "QUOT": "quotative (〜と)",
+          "CONJ": "conjunctive (〜て)",
+          "ADD": "additive (〜も)",
+          "EMPH+REV": "emphatic + concessive reversal (〜こそ ... あれ)",
+          "PRES.CONC": "present tense, concessive conclusion (〜あれ)"
+        },
         "translation-ja-natural": "再びそう言われたので、「もうどうしようもない」と言って、「でも目は二つあるじゃないか」と答えた。",
         "translation-en-natural": "So, when he said that again, I replied, 'There's nothing I can do,' and added, 'Well, at least I have two eyes.'"
       },
@@ -21798,7 +23447,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ACC": "accusative (〜を)",
+          "QUOT": "quotative (〜と)",
+          "CONJ": "conjunctive (〜て)",
+          "LOC": "locative (〜に)",
+          "PERF": "perfective (〜つ)",
+          "CAUSAL": "causal conjunction (〜ば)",
+          "HUM": "humble form (謙譲語)"
+        },
         "translation-ja-natural": "「たった一つの鏡をお供えなさい」と言われて、それを海に投げ入れたとき、本当に残念でたまらなかった。",
         "translation-en-natural": "When I was told to offer the only mirror I had, I threw it into the sea—and I truly regretted it."
       },
@@ -21890,7 +23547,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "TOP": "topic particle (〜は)",
+          "GEN": "genitive (〜の)",
+          "CAUSAL": "causal conjunction (〜ば)",
+          "PERF": "perfective (〜つ)",
+          "PST": "past tense (〜た)",
+          "REALIS.F": "realis, feminine (〜よめる)"
+        },
         "translation-ja-natural": "それで、思いがけず海が鏡のように静まり返ったので、ある人が詠んだ歌は、",
         "translation-en-natural": "Then, quite unexpectedly, the sea became still like a mirror, and a poem someone composed is:"
       },
@@ -21998,7 +23662,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ACC": "accusative particle (〜を)",
+          "CONJ": "conjunctive particle (接続助詞・て)",
+          "EXCL": "exclamatory particle (詠嘆)",
+          "GEN": "genitive particle (〜の)",
+          "LOC": "locative particle (〜に)",
+          "PST.ATTR": "past attributive (連体形の過去助動詞)",
+          "ATTR": "attributive form (連体形)"
+        },
         "translation-ja-natural": "激しい神の心が宿る荒れる海に鏡を入れて、また見たのだなあ。",
         "translation-en-natural": "I placed a mirror into the raging sea where the mighty god’s spirit dwells, and then saw it."
       },
@@ -22118,7 +23790,16 @@
             "note": "詠嘆または念押しの終助詞で、話者の感情や主張を込める。"
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV.F": "adverbial form (連用形)",
+          "GEN": "genitive (〜の)",
+          "DAT": "dative (〜に)",
+          "TOP": "topic particle (〜は)",
+          "ATTR": "attributive form (連体形)",
+          "NEG": "negation (否定)",
+          "EXCL": "exclamatory particle (詠嘆)",
+          "PUNCT": "punctuation (読点・区切り)"
+        },
         "translation-ja-natural": "この神さまは、住の江の忘れ草や岸の姫松といった雅な神とは違うんだなあ。",
         "translation-en-natural": "This is clearly not one of those refined deities like the Wasuregusa of Suminoe or the Princess Pine by the shore."
       },
@@ -22238,7 +23919,17 @@
             "note": "This construction emphasizes the action of seeing, with 'こそ' and 'は' serving to highlight the certainty and emotional impact of the experience."
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "FOC.PRT": "focus particle (〜も)",
+          "LOC": "locative (〜に)",
+          "GEN": "genitive (〜の)",
+          "ACC": "accusative (〜を)",
+          "EMPH": "emphatic particle (〜こそ)",
+          "TOP": "topic particle (〜は)",
+          "ADV.F": "adverbial form (連用形)",
+          "COMP.ATTR": "completive attributive (完了の連体形)",
+          "PST": "past (過去)"
+        },
         "translation-ja-natural": "この目でたしかに、鏡に神の心を見たのです！",
         "translation-en-natural": "With my very eyes, I truly saw the heart of the god in that mirror!"
       },
@@ -22316,7 +24007,12 @@
             "note": "『みこころ』は神や天皇に対する敬意を込めた語で、ここでは神の意志やご加護を象徴的に示す。"
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive (〜の)",
+          "TOP": "topic particle (〜は)",
+          "COP": "copula (〜なり)",
+          "PAST.EXCL": "past with exclamation (詠嘆のけり)"
+        },
         "translation-ja-natural": "舵取りの心は、まさに神の心だったのだ。",
         "translation-en-natural": "The helmsman's heart was truly the will of the god."
       },
@@ -22416,7 +24112,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive (〜の)",
+          "ABL": "ablative (〜より)",
+          "ADV.F": "adverbial form (連用形)",
+          "CONJ": "conjunctive particle (〜て)",
+          "LOC": "locative (〜に)",
+          "PRS": "present tense (終止形)"
+        },
         "translation-ja-natural": "六日、澪標のあたりから出発して、難波に着き、河の河口へと入っていく。",
         "translation-en-natural": "On the sixth day, I set off from around the Miozuku and, after reaching Naniwa, entered the river mouth."
       },
@@ -22520,7 +24223,14 @@
             "note": "身体的な接触を通して喜びを分かち合う様子。額に手を置くのは祝福や感謝のしるしとして儀礼的意味合いがあると解釈できる。"
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV.F": "adverbial form (連用形)",
+          "ATTR": "attributive form (連体形)",
+          "NMLZ": "nominalizer (〜こと)",
+          "LOC": "locative (〜に)",
+          "ACC": "accusative (〜を)",
+          "NEG.exist": "negation of existence (〜なし)"
+        },
         "translation-ja-natural": "みんなが、女も翁も、額に手を当てて、本当にこの上なく喜び合った。",
         "translation-en-natural": "Everyone—women and old men alike—touched foreheads and rejoiced with unmatched happiness."
       },
@@ -22666,7 +24376,18 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive (〜の)",
+          "ADV.F": "adverbial form (連用形)",
+          "ATTR": "attributive form (連体形)",
+          "ACC": "accusative (〜を)",
+          "CONJ": "conjunctive particle (〜て)",
+          "ABL": "ablative (〜より)",
+          "QUOT": "quotative (〜と)",
+          "COMP.PRF": "completive perfect (完了助動詞ぬ)",
+          "EMPH": "emphatic particle (〜ぞ)",
+          "PRF.ATTR": "perfective attributive (〜いへる)"
+        },
         "translation-ja-natural": "船酔いしていた、あの淡路の島の老女が、都が近くなったと聞いて、船底から頭をあげてこう言ったのです。",
         "translation-en-natural": "The elderly woman from Awaji Island, who had been seasick, happily lifted her head from the bottom of the boat upon hearing that the capital was near, and said this."
       },
@@ -22782,7 +24503,17 @@
             "note": "The adjective 'ibuseshi' (to feel uneasy) is in the perfective form, indicating a completed state of feeling anxious or stifled."
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "HOPE": "hopeful expectation（〜いつしか）",
+          "QUOT": "quotative (〜と)",
+          "ATTR": "attributive form (連体形)",
+          "PRF.ATTR": "perfective attributive (完了連体形)",
+          "ADV.F": "adverbial form (連用形)",
+          "CONJ": "conjunctive particle (〜て)",
+          "PST": "past tense (〜き)",
+          "COMP": "completive auxiliary (〜に)",
+          "PAST.EXCL": "past with exclamation (詠嘆のけり)"
+        },
         "translation-ja-natural": "待ち遠しく思っていた難波潟を、蘆を漕ぎ分けながら、御船がついにやって来たのだった。",
         "translation-en-natural": "Longing for the moment, through the reeds at Naniwa Bay, the honored ship finally arrived."
       },
@@ -22852,7 +24583,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive (〜の)",
+          "ATTR": "attributive form (連体形)",
+          "REALIS.F": "realis form (已然形)",
+          "CONJ.CAUSAL": "causal conjunction (〜ば)"
+        },
         "translation-ja-natural": "まったく予想もしなかった人が言ったので、人々は驚いた。",
         "translation-en-natural": "Since someone completely unexpected said it, everyone was surprised."
       },
@@ -22990,7 +24726,20 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive (〜の)",
+          "LOC": "locative (〜に)",
+          "TOP": "topic particle (〜は)",
+          "ADV.F": "adverbial form (連用形)",
+          "CONJ": "conjunctive particle (〜て)",
+          "ATTR": "attributive form (連体形)",
+          "PRF": "perfective (完了助動詞)",
+          "HON.ALR": "honorific auxiliary verb (〜たうべりし)",
+          "NEG.BASE": "negative base form (未然形)",
+          "NEG": "negation (〜ず)",
+          "FOC": "focalizer (〜も)",
+          "EXCL": "exclamatory particle (かな)"
+        },
         "translation-ja-natural": "心を悩ませていた船君が、しみじみ感動して、『船酔いしていたはずの顔とはまるで違うものだなあ』と言ったのである。",
         "translation-en-natural": "The ship lord, though troubled in spirit, was deeply moved and said, 'It surely doesn't resemble the face of someone who must have been seasick!'"
       },
@@ -23104,7 +24853,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "TOP": "topic (〜は)",
+          "LOC": "locative (〜に)",
+          "GEN": "genitive (〜の)",
+          "ADV.F": "adverbial form (連用形)",
+          "CONJ": "conjunctive (〜て)",
+          "CONJ.TEMP": "temporal conjunction (〜に)"
+        },
         "translation-ja-natural": "七日、今日は川尻から船を出して上流に漕ぎ出したが、水が引いて難儀した。",
         "translation-en-natural": "On the seventh day, we launched the boat at the river mouth and rowed upstream, but the water had receded and we ran into trouble."
       },
@@ -23154,7 +24910,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive (〜の)",
+          "ATTR": "attributive (連体形)",
+          "NMLZ": "nominalizer (名詞化：〜こと)"
+        },
         "translation-ja-natural": "船が上るのは本当に大変だ。",
         "translation-en-natural": "It's really hard for the boat to make its way upstream."
       },
@@ -23260,7 +25020,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive (〜の)",
+          "LOC": "locative (〜に)",
+          "COP.ADJ": "copula adjective (〜にて)",
+          "ADV.F": "adverbial form (連用形)",
+          "NEG.BASE": "negative base form (未然形)",
+          "NEG.ADV.F": "negative adverbial form (否定の助動詞連用形)",
+          "PST.EXCL": "past exclamatory particle (詠嘆のけり)"
+        },
         "translation-ja-natural": "そんなことをしている間、船君は病人で、もともと無趣味な人だったので、そういうことには全然気づかなかったのです。",
         "translation-en-natural": "While all this was happening, the ship captain, being a sickly and rather unrefined man, had no awareness of such things at all."
       },
@@ -23398,7 +25166,16 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive (〜の)",
+          "DAT": "dative (〜に)",
+          "CONJ": "conjunctive particle (〜て)",
+          "ATTR": "attributive form (連体形)",
+          "ADV.F": "adverbial form (連用形)",
+          "PERF": "perfective (完了の助動詞)",
+          "FUT": "future tense (〜む)",
+          "INTERROG": "interrogative particle (〜や)"
+        },
         "translation-ja-natural": "それでも淡路島の老女の歌に感心し、都が近づいてきたせいもあるのか、なんとか不思議な歌をひねり出したのです。",
         "translation-en-natural": "Even so, moved by the old woman's song from Awaji Island, perhaps because we were nearing the capital, they somehow managed to come up with a strange song."
       },
@@ -23430,7 +25207,9 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "TOP": "topic particle (〜は)"
+        },
         "translation-ja-natural": "その歌は、",
         "translation-en-natural": "The song was,"
       },
@@ -23558,7 +25337,16 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "TOP": "topic particle (〜は)",
+          "GEN": "genitive (〜の)",
+          "ACC": "accusative (〜を)",
+          "ADV.F": "adverbial form (連用形)",
+          "CONJ": "conjunctive particle (〜て)",
+          "SUF.REASON": "suffix of reason (〜み)",
+          "FOC": "focalizer (〜も)",
+          "EXCL": "exclamatory particle (かな)"
+        },
         "translation-ja-natural": "やっとの思いでたどり着いたが、川の堀江の水が浅いため、船も私自身も進まず、もたつく今日だなあ。",
         "translation-en-natural": "Having finally arrived, the river's channel is so shallow that both the boat and I are stuck, struggling through the day."
       },
@@ -23636,7 +25424,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "TOP": "topic particle (〜は)",
+          "ACC": "accusative (〜を)",
+          "COND": "conditional (〜ば)",
+          "REALIS.F": "realis form (已然形)",
+          "PERF": "perfective (完了の助動詞)",
+          "ATTR": "attributive form (連体形)"
+        },
         "translation-ja-natural": "これは、病気をしたから詠んだものなのだろう。",
         "translation-en-natural": "This was probably composed because of the illness."
       },
@@ -23708,7 +25503,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative (〜に)",
+          "GEN": "genitive (〜の)",
+          "NEG.BASE": "negative base form (未然形)",
+          "NEG.REALIS.F": "negative realis form (已然形)",
+          "REASON": "reason (〜ば)"
+        },
         "translation-ja-natural": "一首では物足りなかったので、もう一首詠んだのだろう。",
         "translation-en-natural": "Since one poem wasn't enough, they composed another."
       },
@@ -23820,7 +25621,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "QUOT": "quotative particle (〜と)",
+          "TOP": "topic particle (〜は)",
+          "GEN": "genitive (〜の)",
+          "DAT": "dative (〜に)",
+          "ADV.F": "adverbial form (連用形)",
+          "PST.EXCL": "past exclamatory particle (詠嘆のけり)"
+        },
         "translation-ja-natural": "早くと思って、船を悩ませているのは、私のせいで、水の状態が浅いからだったのだ。",
         "translation-en-natural": "I think 'quickly'; what troubles the boat is because of me, for the water's nature is shallow.",
         "notes-ja": [
@@ -23966,7 +25774,16 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "TOP": "topic particle (〜は)",
+          "GEN": "genitive (〜の)",
+          "DAT": "dative (〜に)",
+          "ADV.F": "adverbial form (連用形)",
+          "PERF": "perfective (完了の助動詞)",
+          "NEG.BASE": "negative base form (未然形)",
+          "NEG": "negative (否定の助動詞)",
+          "CONJ": "conjunctive particle (〜して)"
+        },
         "translation-ja-natural": "この歌は、都が近くなった嬉しさを抑えきれずに詠んだものなのだろう。",
         "translation-en-natural": "This poem was probably composed out of the uncontrollable joy of nearing the capital."
       },
@@ -24030,7 +25847,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive (〜の)",
+          "DAT": "dative (〜に)",
+          "HON": "honorific (御)",
+          "REALIS.F": "realis form (已然形)",
+          "PERF": "perfective (完了の助動詞)"
+        },
         "translation-ja-natural": "淡路の老女の歌に負けている。",
         "translation-en-natural": "It falls short compared to the song of the old woman from Awaji."
       },
@@ -24126,7 +25949,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "QUOT": "quotative particle (〜と)",
+          "NEG.BASE": "negative base form (未然形)",
+          "NEG.NEG.BASE": "negative negative base form (未然形の否定)",
+          "COUNTERFACTUAL": "counterfactual mood (〜まし)",
+          "LOC": "locative (〜に)",
+          "CONJ": "conjunctive particle (〜て)",
+          "PST.EXCL": "past exclamatory particle (詠嘆のけり)"
+        },
         "translation-ja-natural": "「悔しい、言わなければよかったのに」と悔しがっているうちに、夜になり、寝てしまった。",
         "translation-en-natural": "'How frustrating! I shouldn't have said that,' I kept lamenting, and before I knew it, night fell and I went to sleep."
       },
@@ -24222,7 +26053,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive (〜の)",
+          "LOC": "locative (〜に)",
+          "ADV.F": "adverbial form (連用形)",
+          "CONJ": "conjunctive particle (〜て)",
+          "QUOT": "quotative particle (〜と)"
+        },
         "translation-ja-natural": "八日。やはり川岸で苦労し、鳥飼の御牧というあたりに泊まった。",
         "translation-en-natural": "On the eighth day, still struggling by the riverbank, we stayed at a place called Tori-kai no Mimaki.",
         "notes-ja": [
@@ -24308,7 +26145,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive (〜の)",
+          "ADV.F": "adverbial form (連用形)",
+          "CONJ": "conjunctive particle (〜て)"
+        },
         "translation-ja-natural": "今夜、船君は例の持病が起きて、ひどく苦しんでいる。",
         "translation-en-natural": "Tonight, the boat master is severely suffering from his usual illness.",
         "notes-ja": [
@@ -24441,7 +26282,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "CONJ": "conjunctive particle (〜して)",
+          "ADV.F": "adverbial form (連用形)"
+        },
         "translation-ja-natural": "米を以って、返礼する。",
         "translation-en-natural": "I will reciprocate with rice."
       },
@@ -24514,7 +26358,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "REPORTED": "reported speech (〜なり)",
+          "CONJ": "conjunctive particle (〜て)",
+          "REALIS.F": "realis form (已然形)",
+          "PERF": "perfective (完了の助動詞)",
+          "QUOT": "quotative particle (〜と)",
+          "QUESTION": "question marker (〜や)"
+        },
         "translation-ja-natural": "男たちは、ひそひそと言い合った。「結局、干し飯で返礼しただけだな。」",
         "translation-en-natural": "The men whispered among themselves, 'In the end, he just gave back some dried rice.'",
         "notes-ja": [
@@ -24756,7 +26607,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "NEG.BASE": "negative base form (未然形)",
+          "ATTR": "attributive form (連体形)",
+          "ADV.F": "adverbial form (連用形)",
+          "REALIS.F": "realis form (已然形)",
+          "GEN": "genitive (〜の)",
+          "PERF": "perfective (完了の助動詞)"
+        },
         "translation-ja-natural": "九日、心細さから夜明け前に船を引いて進もうとしたが、川に水がなく、ずりずり進むことすらできなかった。",
         "translation-en-natural": "On the ninth day, anxious, we tried to drag the boat forward before dawn, but the river was dry, and we couldn’t even inch forward."
       },
@@ -24844,7 +26702,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative（場所格：〜に）",
+          "GEN": "genitive（所有格：〜の）",
+          "QUOT": "quotative（引用：と）"
+        },
         "translation-ja-natural": "このあいだに、和田の泊まりに「あかれのところ」という場所がある。",
         "translation-en-natural": "At that moment, at Wada's harbor, there's a place called Akare no Tokoro."
       },
@@ -24904,7 +26766,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ACC": "accusative（対格：〜を）",
+          "PERF": "perfective（完了：〜た）"
+        },
         "translation-ja-natural": "米や魚などを乞われたので、施しをした。",
         "translation-en-natural": "Since they begged for rice and fish, we gave them as charity."
       },
@@ -24998,7 +26863,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "CONJ": "conjunctive particle (〜て)",
+          "DAT": "dative (与格：〜に)",
+          "ATTR": "attributive form (連体形)",
+          "QUOT": "quotative particle (〜と)",
+          "ACC": "accusative (対格：〜を)"
+        },
         "translation-ja-natural": "こうして船を引き上げながら、渚の院という場所を眺めつつ進んでいく。",
         "translation-en-natural": "Thus, while pulling up the boat, we continue on, gazing at the place called Nagisa no In."
       },
@@ -25088,7 +26959,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ACC": "accusative（対格：〜を）",
+          "CONJ": "conjunctive（接続助詞・接続形）",
+          "REALIS": "realis（已然形）",
+          "ATTR": "attributive（連体形）",
+          "COP": "copula（断定：〜なり）"
+        },
         "translation-ja-natural": "その院は、昔をしのんで見ると、なんとも趣のある場所だった。",
         "translation-en-natural": "That estate, when I gazed at it thinking of the past, was truly a charming place."
       },
@@ -25166,7 +27043,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ATTR": "attributive（連体形）",
+          "LOC": "locative（場所格：〜に）",
+          "TOP": "topic（主題：〜は）",
+          "GEN": "genitive（所有格：〜の）",
+          "PL": "plural（複数：〜ども）"
+        },
         "translation-ja-natural": "後ろの方にある岡には、松の木々が生えていた。",
         "translation-en-natural": "On the hill at the back, there were clusters of pine trees."
       },
@@ -25238,7 +27121,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative（場所格：〜に）",
+          "TOP": "topic（主題：〜は）",
+          "GEN": "genitive（所有格：〜の）",
+          "REALIS": "realis（已然形）",
+          "PST.EXCL": "past exclamatory（過去詠嘆：〜けり）"
+        },
         "translation-ja-natural": "中の庭には、梅の花が咲いていた。",
         "translation-en-natural": "In the inner garden, the plum blossoms were indeed blooming."
       },
@@ -25318,7 +27207,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative（場所格：〜に）",
+          "GEN": "genitive（所有格：〜の）",
+          "QUOT": "quotative（引用：と）",
+          "ADV.F": "adverbial form (連用形)",
+          "PERF.ATTR": "perfective attributive (完了の連体形)",
+          "COP": "copula（断定：〜なり）"
+        },
         "translation-ja-natural": "ここは昔、有名だったところだ。",
         "translation-en-natural": "This was a famous place in the past."
       },
@@ -25402,7 +27298,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（所有格：〜の）",
+          "DAT": "dative（〜に）"
+        },
         "translation-ja-natural": "故惟喬親王にお供していた、故在原業平の中将が、",
         "translation-en-natural": "The late Narihira no Chujo who accompanied the late Prince Koretaka,"
       },
@@ -25500,7 +27399,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative（場所格：〜に）",
+          "GEN": "genitive（所有格：〜の）",
+          "NEG.BASE": "negative base form (未然形)",
+          "CONJ": "conjunctive (接続助詞・接続形)",
+          "TOP": "topic (主題：〜は)",
+          "HYPOTH": "hypothetical (仮定形)",
+          "CONTRARY.PAST.HYPOTH": "contrary to past fact (過去の事実に反する仮定形)"
+        },
         "translation-ja-natural": "もし世の中に桜が咲かなかったなら、春の心はきっとのどかだったろうに。",
         "translation-en-natural": "If cherry blossoms had not bloomed in this world, spring's heart would surely have been calm."
       },
@@ -25570,7 +27477,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "QUOT": "quotative（引用：と）",
+          "PERF.ATTR": "perfective attributive (完了の連体形)",
+          "COP": "copula（断定：〜なり）",
+          "PST.EXCL": "past exclamatory (過去詠嘆：〜けり)"
+        },
         "translation-ja-natural": "つまり、この歌を詠んだ場所だったのだ。",
         "translation-en-natural": "In other words, this was the place where that poem had been composed."
       },
@@ -25652,7 +27564,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "DAT": "dative（与格：〜に）",
+          "ATTR": "attributive（連体形）",
+          "ADV.F": "adverbial form (連用形)",
+          "PERF.ATTR": "perfective attributive (完了の連体形)",
+          "PERF": "perfective（完了：〜た）"
+        },
         "translation-ja-natural": "最近、趣のある人が、この場所にちなんだ歌を詠んだ。",
         "translation-en-natural": "Recently, a person of refined taste composed a poem inspired by this place."
       },
@@ -25764,7 +27682,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "PERF.ATTR": "perfective attributive (完了の連体形)",
+          "LOC": "locative (場所格：〜に)",
+          "TOP": "topic (主題：〜は)",
+          "GEN": "genitive (所有格：〜の)",
+          "REALIS.F": "realis form (已然形)",
+          "NEG.PERF": "negative perfective (否定完了：〜ざる)",
+          "PST.EXCL": "past exclamatory (過去詠嘆：〜けり)"
+        },
         "translation-ja-natural": "千年を経た松は今もあるが、昔の声の寒さだけは変わらなかった。",
         "translation-en-natural": "Though the pine trees have stood for a thousand years, the chill of ancient voices has remained unchanged."
       },
@@ -25927,7 +27853,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "CONJ": "conjunctive（接続形：〜て）",
+          "ACC": "accusative（対格：〜を）",
+          "ATTR": "attributive（連体形）",
+          "GEN": "genitive（所有格：〜の）",
+          "LOC": "locative（場所格：〜に）",
+          "EMPH": "emphatic（強調：ぞ）",
+          "PERF.PST.EXCL": "perfective past exclamatory（完了過去詠嘆：〜ける）"
+        },
         "translation-ja-natural": "君を恋い慕い、長い年月を過ごした宿の梅の花は、昔の香りを今なお放っている。",
         "translation-en-natural": "Longing for you, the plum blossoms at the old inn still give off the same fragrance of the past."
       },
@@ -26003,7 +27937,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "CONJ": "conjunctive（接続形：〜て）",
+          "EMPH": "emphatic（強調：ぞ）",
+          "GEN": "genitive（所有格：〜の）",
+          "ACC": "accusative（対格：〜を）",
+          "ADV.F": "adverbial form (連用形)",
+          "ATTR": "attributive（連体形）"
+        },
         "translation-ja-natural": "そう言いながら、都が近づくのを喜び、登っていく。",
         "translation-en-natural": "Saying this, they climb on, rejoicing as they near the capital."
       },
@@ -26099,7 +28040,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ATTR": "attributive（連体形）",
+          "GEN": "genitive（所有格：〜の）",
+          "LOC": "locative（場所格：〜に）",
+          "ABL": "ablative（出格：〜より）",
+          "ADV.F": "adverbial form (連用形)",
+          "NEG.BASE": "negative base form (未然形)",
+          "PST": "past (過去：〜た)"
+        },
         "translation-ja-natural": "こうして上っる人々の中には、京から下ってきた頃、みんなまだ子どもはいなかったが、",
         "translation-en-natural": "Among those who ascended in this way, when they had descended from the capital, none of them had children yet, but..."
       },
@@ -26193,7 +28142,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "PERF.ADV.F": "perfective adverbial form (完了の連用形)",
+          "EMPH.ATTR": "emphatic attributive (強調の連体形)",
+          "LOC": "locative（場所格：〜に）",
+          "EMPH": "emphatic（強調：ぞ）",
+          "REALIS.F": "realis form (已然形)",
+          "PL": "plural (複数形)"
+        },
         "translation-ja-natural": "たどり着いた国で、子どもを産んだ人たちがいた。",
         "translation-en-natural": "In the land they had arrived at, there were people who had given birth to children."
       },
@@ -26287,7 +28243,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（属格：〜の）",
+          "ATTR": "attributive（連体形）",
+          "LOC": "locative（場所格：〜に）",
+          "ACC": "accusative（対格：〜を）",
+          "CONC": "concurrent action（同時動作：〜しつつ）"
+        },
         "translation-ja-natural": "みんなは船が止まる場所で、子どもを抱きながら降りたり乗ったりしていた。",
         "translation-en-natural": "Everyone was getting on and off the boat while holding their children at the place where it stopped."
       },
@@ -26379,7 +28341,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ACC": "accusative（対格：〜を）",
+          "DAT": "dative（与格：〜に）",
+          "ATTR": "attributive（連体形）",
+          "NEG.BASE": "negative base form (未然形)",
+          "NEG.ADV.F": "negative adverbial form (否定の連用形)",
+          "CONJ": "conjunctive（接続形：〜て）"
+        },
         "translation-ja-natural": "これを見て、昔の子の母は悲しみに堪えきれず、",
         "translation-en-natural": "Seeing this, the mother of her child from long ago could not endure the sorrow,"
       },
@@ -26495,7 +28464,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ATTR": "attributive (連体形)",
+          "CONC": "concurrent action (同時動作：〜しつつ)",
+          "ACC": "accusative (対格：〜を)",
+          "FOC": "focus (焦点化：〜も)",
+          "NOM": "nominative (主格：〜が)",
+          "ADV.F": "adverbial form (連用形)"
+        },
         "translation-ja-natural": "いなかった子が生れていっしょに帰る人もいれば、いたのにいなくなって帰る人もいて、それが悲しい。",
         "translation-en-natural": "Some return with a child who was not there before, while others return having lost the child they once had — and that is heartbreaking."
       },
@@ -26545,7 +28521,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "QUOT": "quotation (引用：〜と)",
+          "CONJ": "conjunctive (接続形：〜て)",
+          "EMPH": "emphatic (強調：ぞ)",
+          "PERF.PST.EXCL": "perfective past exclamatory (完了過去詠嘆：〜ける)"
+        },
         "translation-ja-natural": "そう言って、泣いた。",
         "translation-en-natural": "Saying this, she cried."
       },
@@ -26607,7 +28588,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV.F": "adverbial form (連用形)",
+          "ACC": "accusative（対格：〜を）",
+          "CONJ": "conjunctive（接続形：〜て）",
+          "NEG.BASE": "negative base form (未然形)"
+        },
         "translation-ja-natural": "父もこれを聞いて、どんな思いでいるのだろうか。",
         "translation-en-natural": "The father too, hearing this, must be wondering how he feels."
       },
@@ -26695,7 +28681,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "NEG.BASE": "negative base form（未然形：〜ない）",
+          "GEN": "genitive（属格：〜の）",
+          "FOC": "focus particle（係助詞：〜も）",
+          "QUOT": "quotative（引用：〜と）",
+          "CONJ": "conjunctive（接続：〜て）",
+          "COP": "copula（断定の助動詞：〜に）",
+          "NEG": "negative（否定：〜ず、〜ざる）"
+        },
         "translation-ja-natural": "こういうことは、いくら歌が好きだと言ったところで、あるはずがないだろう。",
         "translation-en-natural": "Such things, no matter how much they claim to love songs, should not exist.",
         "notes-ja": [
@@ -26811,7 +28805,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "DAT": "dative (〜に)",
+          "NEG": "negative (〜ない)",
+          "GEN": "genitive (〜の)",
+          "QUOT": "quotative(〜と)",
+          "QUESTION": "question (〜か)"
+        },
         "translation-ja-natural": "もろこしでもここでも、耐えきれない思いを抱えたとき、人は同じように抑えきれない衝動に駆られるのだろうか。",
         "translation-en-natural": "Whether in morokoshi or here, is it that when people can no longer bear their feelings, they are all driven by the same uncontrollable impulse?",
         "notes-ja": [
@@ -26883,7 +28883,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "PN": "proper noun (固有名詞：人名・地名など)",
+          "QUOT": "quotative (〜と)",
+          "DAT": "dative (〜に)"
+        },
         "translation-ja-natural": "今夜は宇土野という場所に泊まることになった。",
         "translation-en-natural": "Tonight, we stayed at a place called Udono."
       },
@@ -26943,7 +28947,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "CONJ": "conjunctive (〜て)",
+          "NEG": "negative (〜ない)"
+        },
         "translation-ja-natural": "十日、いろいろあって、船は上らない。",
         "translation-en-natural": "On the tenth day, for various reasons, the boat still did not move on."
       },
@@ -27003,7 +29010,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV.F": "adverbial form (連用形)",
+          "CONJ": "conjunctive (〜て)",
+          "PERF": "perfective (〜ぬ)"
+        },
         "translation-ja-natural": "十一日、雨が少し降って、やんだ。",
         "translation-en-natural": "On the eleventh day, it rained a little and then stopped.."
       },
@@ -27135,7 +29146,16 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "REALIS.F": "realis form (已然形：〜る)",
+          "CONJ": "conjunctive（接続：〜て）",
+          "GEN": "genitive（属格：〜の）",
+          "LOC": "locative（場所格：〜に）",
+          "ACC": "accusative（対格：〜を）",
+          "COND": "conditional（条件：〜ば）",
+          "DAT": "dative（与格：〜に）",
+          "QUOT": "quotative（引用：〜と）"
+        },
         "translation-ja-natural": "こうして上っていくと、東の方に山の脇を流れるものが見えたので、人に尋ねると「八幡の宮だ」と教えてくれた。",
         "translation-en-natural": "As we climbed, we saw something flowing along the side of the mountain to the east, and when we asked someone, they told us, 'That’s the Hachiman Shrine.'"
       },
@@ -27203,7 +29223,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV.F": "adverbial form（連用形：〜て）",
+          "HON": "honorific (尊敬：〜奉る)",
+          "ACC": "accusative（対格：〜を）",
+          "CONJ": "conjunctive（接続：〜て）"
+        },
         "translation-ja-natural": "これを聞いて人々は喜び、神様を拝み奉った。",
         "translation-en-natural": "Hearing this, the people rejoiced and worshiped the deity."
       },
@@ -27245,7 +29270,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（属格：〜の）",
+          "POT": "potential（可能：〜できる）"
+        },
         "translation-ja-natural": "山崎の橋が見えている。",
         "translation-en-natural": "I can see the bridge at Yamazaki."
       },
@@ -27287,7 +29315,9 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "NEG": "negative existence (打消：〜ない)"
+        },
         "translation-ja-natural": "喜びは限りがない。",
         "translation-en-natural": "The joy knows no bounds."
       },
@@ -27385,7 +29415,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ATTR": "attributive form (連体形：〜る)",
+          "ADV.F": "adverbial form (連用形：〜て)",
+          "LOC": "locative（場所格：〜に）",
+          "GEN": "genitive（属格：〜の）",
+          "ACC": "accusative（対格：〜を）",
+          "CONJ": "conjunctive（接続：〜て）"
+        },
         "translation-ja-natural": "ここ、相応寺のほとりで、しばらく船を止めて、いろいろなことを決めた。",
         "translation-en-natural": "Here by the edge of Sōōji Temple, they stopped the boat for a while to settle various matters."
       },
@@ -27451,7 +29488,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（属格：〜の）",
+          "LOC": "locative（場所格：〜に）"
+        },
         "translation-ja-natural": "この寺の岸辺には柳がたくさんある。",
         "translation-en-natural": "There are many willows along the shore of this temple."
       },
@@ -27565,7 +29605,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "PERF.ATTR": "perfective attributive (完了連体形：〜る)",
+          "ADV.F": "adverbial form (連用形：〜て)",
+          "GEN": "genitive（属格：〜の）",
+          "LOC": "locative（場所格：〜に）",
+          "ACC": "accusative（対格：〜を）",
+          "CONJ": "conjunctive（接続：〜て）"
+        },
         "translation-ja-natural": "ある人が、この柳の影が川の底に映っているのを見て詠んだ歌。",
         "translation-en-natural": "A poem written by someone who saw the shadow of this willow reflected on the riverbed."
       },
@@ -27671,7 +29718,16 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "Q": "question (疑問：〜か)",
+          "TOP": "topic (話題：〜をば)",
+          "GEN": "genitive (属格：〜の)",
+          "CONJ": "conjunctive (接続：〜て)",
+          "ACC": "accusative (対格：〜を)",
+          "POT": "potential (可能：〜できる)",
+          "QUOT": "quotative (引用：〜と)",
+          "EMPH": "emphatic particle（強調：〜ぞ）"
+        },
         "translation-ja-natural": "さざ波が寄せる模様を、青柳の影の糸で織っているのかと見える。",
         "translation-en-natural": "It looks as if the patterns made by the rippling waves are being woven with the threads of the blue willow's shadow."
       },
@@ -27727,7 +29783,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "LOC": "locative（場所格：〜に）",
+          "REALIS": "realis（已然形）",
+          "PERF.FIN": "perfective finite（完了終止形）"
+        },
         "translation-ja-natural": "十二日、山崎に泊まった。",
         "translation-en-natural": "On the twelfth day, they stayed at Yamazaki."
       },
@@ -27773,7 +29833,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "PN": "proper noun（固有名詞：人名・地名など）",
+          "LOC": "locative（場所格：〜に）"
+        },
         "translation-ja-natural": "十三日、まだ山崎にいる。",
         "translation-en-natural": "On the thirteenth day, they were still at Yamazaki."
       },
@@ -27874,7 +29937,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ALL": "allative（方向格：〜へ）",
+          "PURP": "purposive（目的：〜に）"
+        },
         "translation-ja-natural": "今日、車を取りに京都へ人をやった。",
         "translation-en-natural": "Today, someone was sent to Kyoto to fetch the carriage."
       },
@@ -27942,7 +30008,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "CONJ": "conjunctive（接続形：〜て）",
+          "PERF.REALIS": "perfective realis（完了已然形）",
+          "PERF.FIN": "perfective finite（完了終止形）"
+        },
         "translation-ja-natural": "十五日、今日、車を率いて来た。",
         "translation-en-natural": "On the fifteenth day, someone brought the carriage here today."
       },
@@ -28018,7 +30088,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（属格：〜の）",
+          "DAT/CAUSE": "dative/cause（原因・理由：〜に）",
+          "ABL": "ablative（起点：〜より）",
+          "ALL": "allative（方向格：〜に）"
+        },
         "translation-ja-natural": "船が難儀なので、船から人の家に移った。",
         "translation-en-natural": "Because the boat was difficult to endure, we moved from the boat to someone's house."
       },
@@ -28090,7 +30165,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（属格：〜の）",
+          "ATTR": "attributive（連体形）",
+          "PERF.FIN": "perfective finite（完了終止形）"
+        },
         "translation-ja-natural": "この人の家は嬉しそうに、主人役を務めてくれた。",
         "translation-en-natural": "The people of this house happily served as hosts."
       },
@@ -28170,7 +30249,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（属格：〜の）",
+          "ACC": "accusative（対格：〜を）",
+          "TEMP": "temporal（時間格：〜に）"
+        },
         "translation-ja-natural": "この家の主人、そしてそのまた主人の良さを見ると、なんだか言いようのない気持ちになる。",
         "translation-en-natural": "Seeing the goodness of this host and the host behind him stirs an indescribable, uneasy feeling within me."
       },
@@ -28212,7 +30295,9 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV": "adverbial（副詞化：〜に）"
+        },
         "translation-ja-natural": "いろいろと返礼をする。",
         "translation-en-natural": "They return various courtesies."
       },
@@ -28294,7 +30379,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV.F": "adverbial form (連用形：〜て)",
+          "NEG.BASE": "negative base (否定基本形：〜ず)",
+          "GEN": "genitive（属格：〜の）",
+          "NEG": "negative（否定：〜ず）"
+        },
         "translation-ja-natural": "家の人たちの出入りは軽々しいものではなく、控えめで落ち着いている。",
         "translation-en-natural": "The household members do not move about carelessly; they are composed and somewhat reserved."
       },
@@ -28446,7 +30536,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "PN": "proper noun（固有名詞：人名・地名など）",
+          "ALL": "allative（方向格：〜へ）",
+          "REALIS.F": "realis finite（已然形：〜る）",
+          "GEN": "genitive（属格：〜の）",
+          "ADV": "adverbial（副詞化：〜に）",
+          "NEG": "negative（否定：〜ざり）",
+          "PAST.EXCL": "past exclamatory（過去詠嘆：〜けり）"
+        },
         "translation-ja-natural": "十六日、今日の夕方、京へ上る途中、ふと見てみると、山崎の小櫃の絵も曲がりくねった大路の形も、何も変わっていなかった。",
         "translation-en-natural": "On the sixteenth day, in the evening, as I ascended to the capital, I happened to look, and I saw that neither the painting of the small shrine at Yamazaki nor the shape of the winding main road had changed at all."
       },
@@ -28520,7 +30618,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ATTR": "attributive（連体形：〜る）",
+          "NEG.BASE": "negative base（否定基本形：〜ぬ）",
+          "GEN": "genitive（属格：〜の）",
+          "ACC": "accusative（対格：〜を）",
+          "EMPH": "emphatic（強調：〜ぞ）",
+          "QUOT": "quotative（引用：〜と）",
+          "NEG": "negative（否定：〜ぬ）"
+        },
         "translation-ja-natural": "『売る人の気持ちはわからないものだ』と言うのだそうだ。",
         "translation-en-natural": "They say, 'One cannot know the heart of the seller.'"
       },
@@ -28606,7 +30712,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "PN": "proper noun（固有名詞：人名・地名など）",
+          "CONJ": "conjunctive（接続：〜て）",
+          "PERF": "perfective（完了：〜たり）"
+        },
         "translation-ja-natural": "こうして京へ向かう途中、島坂で人々がもてなしてくれた。",
         "translation-en-natural": "Thus, while heading toward the capital, people offered hospitality at Shimazaka."
       },
@@ -28662,7 +30772,7 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {},
         "translation-ja-natural": "必ずしも禁じられるほどのことではない。",
         "translation-en-natural": "It is not necessarily something that deserves to be forbidden."
       },
@@ -28754,7 +30864,14 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV.F": "adverbial form（連用形：〜て）",
+          "CONJ": "conjunctive（接続：〜て）",
+          "PAST.ATTR": "past attributive（過去連体形：〜し）",
+          "TOP": "topic（主題：〜は）",
+          "EMPH": "emphatic（強調：〜ぞ）",
+          "PAST.EXCL": "past exclamatory（過去詠嘆：〜ける）"
+        },
         "translation-ja-natural": "出発した時よりも、帰ってきた時には、人はさまざまなことがあったのだ。",
         "translation-en-natural": "Compared to when they left, by the time they returned, people had gone through many things."
       },
@@ -28800,7 +30917,9 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "DAT": "dative（与格：〜に）"
+        },
         "translation-ja-natural": "これにもお礼をする。",
         "translation-en-natural": "We also offer thanks (or return courtesies) for this."
       },
@@ -28926,7 +31045,16 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV.F": "adverbial form（連用形：〜て）",
+          "CONJ": "conjunctive（接続：〜て）",
+          "NEG.BASE": "negative base（否定基本形：〜ぬ）",
+          "TIME": "temporal（時間格：〜に）",
+          "VOL": "volitional（意志：〜む）",
+          "QUOT": "quotative（引用：〜と）",
+          "NEG": "negative（否定：〜ぬ）",
+          "PERF": "perfective（完了：〜ぬ）"
+        },
         "translation-ja-natural": "夜になって京に入ろうと思っていると、急ぐわけでもないうちに月がもう出てしまった。",
         "translation-en-natural": "While thinking I would enter the capital at night, before I was even in a hurry, the moon had already risen."
       },
@@ -28982,7 +31110,9 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "EMPH": "emphatic（強調：〜ぞ）"
+        },
         "translation-ja-natural": "月の明るい桂川を渡っていく。",
         "translation-en-natural": "Crossing the Katsura River under the bright moonlight."
       },
@@ -29116,7 +31246,17 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "PN": "proper noun（固有名詞：人名・地名など）",
+          "PERF": "perfective（完了：〜る）",
+          "REALIS.F": "realis finite（已然形：〜る）",
+          "GEN": "genitive（属格：〜の）",
+          "COP": "copula（断定：〜に）",
+          "NEG": "negative（否定：〜ず、〜ざり）",
+          "PAST.EXCL": "past exclamatory（過去詠嘆：〜けり）",
+          "QUOT": "quotative（引用：〜と）",
+          "CONJ": "conjunctive（接続：〜て）"
+        },
         "translation-ja-natural": "人々は『この川は飛鳥川ではないので、淵や瀬はまったく変わらなかった』と言い、それを受けてある人が詠んだ歌、",
         "translation-en-natural": "People said, 'Since this river is not the Asuka River, its depths and shallows have not changed at all,' and a certain person composed a poem about this."
       },
@@ -29212,7 +31352,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "PN": "proper noun（固有名詞：人名・地名など）",
+          "PERF": "perfective（完了：〜る）",
+          "NEG": "negative（否定：〜ざり）",
+          "PAST.EXCL": "past exclamatory（過去詠嘆：〜けり）"
+        },
         "translation-ja-natural": "久遠の月に照らされる桂川、その川底に映る影さえも変わらなかったのだ。",
         "translation-en-natural": "The Katsura River, bathed in the eternal moonlight, even the shadow at its bottom had not changed."
       },
@@ -29262,7 +31407,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "REALIS.F": "realis finite（已然形：〜る）",
+          "PERF": "perfective（完了：〜る）",
+          "GEN": "genitive（属格：〜の）"
+        },
         "translation-ja-natural": "また、ある人が言うには、",
         "translation-en-natural": "Another person said,"
       },
@@ -29358,7 +31507,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "PN": "proper noun（固有名詞：人名・地名など）",
+          "ADV.F": "adverbial form（連用形：〜て）",
+          "GEN": "genitive（属格：〜の）",
+          "PAST.PERF": "past perfective（完了過去：〜つる）",
+          "ACC": "accusative（対格：〜を）",
+          "PERF": "perfective（完了：〜ぬる）",
+          "EXCL": "exclamatory（詠嘆：〜かな）"
+        },
         "translation-ja-natural": "天の雲が遥かにかかっていた桂川を、袖を濡らしながらも渡ってしまったのだなあ。",
         "translation-en-natural": "The Katsura River, stretching far under the heavenly clouds — I ended up crossing it even with wet sleeves."
       },
@@ -29404,7 +31561,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "REALIS.F": "realis finite（已然形：〜る）",
+          "PERF": "perfective（完了：〜る）"
+        },
         "translation-ja-natural": "また、ある人が詠んだ歌は、",
         "translation-en-natural": "Another person composed the following poem:"
       },
@@ -29504,7 +31664,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "PN": "proper noun（固有名詞：人名・地名など）",
+          "ATTR": "attributive（連体形：〜る）",
+          "NEG.BASE": "negative base（否定基本形：〜ね）",
+          "NEG": "negative（否定：〜ね）",
+          "TOP": "topic（主題：〜は）"
+        },
         "translation-ja-natural": "桂川は私の心に通じるわけではないけれど、その深さは同じように流れているようだ。",
         "translation-en-natural": "The Katsura River may not flow through my heart, yet it seems to flow with the same depth."
       },
@@ -29570,7 +31736,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（属格：〜の）",
+          "EMPH": "emphatic（強調：〜ぞ）"
+        },
         "translation-ja-natural": "都のうれしさのあまり、歌もたくさん詠まれてしまうのだ。",
         "translation-en-natural": "Because of the overwhelming joy in the capital, people end up composing many, many poems."
       },
@@ -29632,7 +31801,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV.F": "adverbial form（連用形：〜て）",
+          "REALIS.F": "realis finite（已然形：〜る）",
+          "CONJ": "conjunctive（接続：〜て）",
+          "NEG": "negative（否定：〜ず）"
+        },
         "translation-ja-natural": "夜が更けてくると、あちこちも見えなくなってしまう。",
         "translation-en-natural": "As the night deepens, even the surroundings fade from view."
       },
@@ -29688,7 +31862,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV.F": "adverbial form（連用形：〜て）",
+          "CONJ": "conjunctive（接続：〜て）"
+        },
         "translation-ja-natural": "京に入って、立ってみると、うれしい気持ちになる。",
         "translation-en-natural": "Having entered the capital and stood there, I feel joy."
       },
@@ -29786,7 +31963,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV.F": "adverbial form（連用形：〜て）",
+          "REALIS.F": "realis finite（已然形：〜る）",
+          "LOC": "locative（場所格：〜に）",
+          "CONJ": "conjunctive（接続助詞：〜て、〜に）",
+          "COND": "conditional（条件：〜ば）"
+        },
         "translation-ja-natural": "家に着いて門をくぐると、月明かりのおかげで家の様子がはっきりと見えます。",
         "translation-en-natural": "When I arrive home and step through the gate, the moonlight lets me clearly see how the house looks."
       },
@@ -29866,7 +32049,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ATTR": "attributive（連体形：〜する）",
+          "EMPH": "emphatic（強調：ぞ）",
+          "STAT": "stative（状態を表す：〜たる）"
+        },
         "translation-ja-natural": "聞いていたよりも、さらにひどく言葉も出ないほど、崩れ壊れていた。",
         "translation-en-natural": "It was even worse than I had heard, so ruined and tattered that I was left speechless."
       },
@@ -29950,7 +32137,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ACC": "accusative（対格：〜を）",
+          "PERF": "perfective（完了：〜たり）",
+          "PAST": "past（過去：〜つる）",
+          "GEN": "genitive（属格：〜の）",
+          "STAT": "stative（状態を表す：〜たる）",
+          "COP": "copula（断定：〜なり）",
+          "PAST.EXCL": "past exclamatory（詠嘆の過去：〜けり）"
+        },
         "translation-ja-natural": "家を預かってくれていた人の心も、すさんでしまっていたのだなあ。",
         "translation-en-natural": "Even the heart of the person I had left the house with had fallen into disarray."
       },
@@ -30038,7 +32233,17 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "REALIS.F": "realis finite（已然形：〜る）",
+          "ADV.F": "adverbial form（連用形：〜て）",
+          "EMPH": "emphatic（強調：こそ）",
+          "GEN": "genitive（属格：〜の）",
+          "COP": "copula（断定：〜なり）",
+          "COND": "conditional（条件：〜ば）",
+          "CONJ": "conjunctive（接続助詞：〜て）",
+          "PERF": "perfective（完了：〜れ）",
+          "ATTR": "attributive（連体形：〜る）"
+        },
         "translation-ja-natural": "中垣はあるものの、ひとつの家のような作りなので、安心して預けていたのだ。",
         "translation-en-natural": "Even though there was a partition, the houses felt like one, so I had felt safe entrusting it."
       },
@@ -30118,7 +32323,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "TOP": "topic（主題：〜は）",
+          "LOC": "locative（場所格・場合：〜に）",
+          "CAUS": "causative（使役：〜させ）",
+          "PERF": "perfective（完了：〜たり）"
+        },
         "translation-ja-natural": "そうして頼りにしていたので、物も途切れずに与え続けてきたのだ。",
         "translation-en-natural": "Because I had been relying on him, I kept providing things without interruption."
       },
@@ -30244,7 +32454,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "CAUS.NEG.BASE": "causative negative base（使役否定基本形：〜せず）",
+          "REALIS.F": "realis finite（已然形：〜る）",
+          "QUOT": "quotative（引用：〜と）",
+          "NEG": "negative（否定：〜ず）",
+          "ACC": "accusative（対格：〜を）",
+          "EMPH": "emphatic（強調：〜ば）",
+          "INTEND": "intention（意志：〜むとす）"
+        },
         "translation-ja-natural": "今夜は、こんなことだと大声で言わせるわけにはいかないが、とてもつらそうに見える。それでも、心を決めようと思う。",
         "translation-en-natural": "Tonight, I can’t let him loudly voice such things, but even though it looks truly painful, I will try to set my determination."
       },
@@ -30308,7 +32526,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV.F": "adverbial form（連用形：〜て）",
+          "CONJ": "conjunctive（接続助詞：〜て）"
+        },
         "translation-ja-natural": "さて、池のようにくぼんで水がたまっている場所があった。",
         "translation-en-natural": "Now, there was a place that had sunk like a pond, filled with water."
       },
@@ -30364,7 +32585,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV.F": "adverbial form（連用形：〜て）",
+          "LOC": "locative（場所格：〜に）",
+          "PAST": "past（過去：〜き）"
+        },
         "translation-ja-natural": "ほとりには松も生えていた。",
         "translation-en-natural": "There were also pine trees standing by the edge."
       },
@@ -30456,7 +32681,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（属格：〜の）",
+          "LOC": "locative（場所格・範囲：〜に）",
+          "Q": "question marker（疑問：〜や）",
+          "PERF": "perfective（完了：〜に）",
+          "CONJECT": "conjectural（推量：〜けむ）",
+          "TOP": "topic（主題：〜は）",
+          "PAST.EXCL": "past exclamatory（詠嘆の過去：〜けり）"
+        },
         "translation-ja-natural": "たった五、六年のうちに、まるで千年も過ぎたのだろうか。片方の枝はすっかりなくなってしまった。",
         "translation-en-natural": "In just five or six years, has it been as if a thousand years had passed? One of the branches has completely disappeared."
       },
@@ -30506,7 +32739,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "PERF": "perfective（完了：〜たる）",
+          "EMPH": "emphatic（強調：〜ぞ）",
+          "REALIS.F": "realis finite（已然形：〜る）"
+        },
         "translation-ja-natural": "今生えてきたものも混じっているのだ。",
         "translation-en-natural": "Even the newly grown parts are mixed in now."
       },
@@ -30580,7 +32817,13 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "GEN": "genitive（属格：〜の）",
+          "PERF": "perfective（完了：〜にたれ）",
+          "COND": "conditional（条件：〜ば）",
+          "QUOT": "quotative（引用：〜と）",
+          "EMPH": "emphatic（強調：〜ぞ）"
+        },
         "translation-ja-natural": "ほとんどすべてが荒れ果ててしまったので、人々は「ああ、なんてもの悲しい」と言う。",
         "translation-en-natural": "Since almost everything has fallen into ruin, people say, 'Ah, how sad.'"
       },
@@ -30710,7 +32953,15 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "NEG.ATTR": "negative attributive（否定連体形：〜ぬ）",
+          "ADV.F": "adverbial form（連用形：〜て）",
+          "NEG": "negative（否定：〜ぬ、〜なく、〜ね）",
+          "GEN": "genitive（属格：〜が、〜の）",
+          "LOC": "locative（場所格：〜に、〜にて）",
+          "ATTR": "attributive（連体形：〜し）",
+          "COND": "conditional（条件：〜ば）"
+        },
         "translation-ja-natural": "思い出さないことは一つもなく、恋しくてたまらないのに、この家で生まれた娘と一緒に帰らないのは、どれほど悲しいことだろう。",
         "translation-en-natural": "There is nothing I don't remember, and I long for it deeply, but how heartbreaking it is not to return together with the daughter born in this house."
       },
@@ -30770,7 +33021,10 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "ADV.F": "adverbial form（連用形：〜て）",
+          "CONJ": "conjunctive（接続助詞：〜て）"
+        },
         "translation-ja-natural": "船の人たちもみんな、子供に抱きつかれて、わいわいと騒いでいる。",
         "translation-en-natural": "The people on the boat are all surrounded by children, making a lively commotion."
       },
@@ -30878,7 +33132,18 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "DAT": "dative（対象格：〜に）",
+          "POT.F": "potential finite（可能形：〜知れ）",
+          "POT.ATTR": "potential attributive（可能連体形：〜知れる）",
+          "LOC": "locative（場所・時間：〜に）",
+          "NEG": "negative（否定：〜ず）",
+          "CONJ": "conjunctive（接続：〜して）",
+          "ATTR": "attributive（連体形：〜れる）",
+          "QUOT": "quotative（引用：〜と）",
+          "PERF": "perfective（完了：〜り）",
+          "PAST": "past（過去：〜ける）"
+        },
         "translation-ja-natural": "こんな状況の中、なおも悲しみに耐えられず、密かに心を通わせていた人に向けて詠んだとされる歌がある。",
         "translation-en-natural": "Amidst all this, unable to endure the sadness any longer, there is a poem said to have been composed for someone with whom one shared a secret understanding."
       },
@@ -30982,7 +33247,17 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "PAST.ATTR": "past attributive（過去連体形：〜し）",
+          "NEG.ATTR": "negative attributive（否定連体形：〜ぬ）",
+          "ADV.F": "adverbial form（連用形：〜て）",
+          "ATTR": "attributive（連体形：〜し、〜ある）",
+          "NEG": "negative（否定：〜ぬ）",
+          "ACC": "accusative（対格：〜を）",
+          "GEN": "genitive（属格：〜が、〜の）",
+          "LOC": "locative（場所格：〜に）",
+          "NOM": "nominative（主格：〜が）"
+        },
         "translation-ja-natural": "生まれたのにもう帰らないあの子を思い、私の家にある小松を見ると、なんとも悲しい。",
         "translation-en-natural": "Thinking of the one who was born but will never return, seeing the small pine tree at my home fills me with sorrow."
       },
@@ -31018,7 +33293,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "QUOT": "quotative（引用：〜と）",
+          "EMPH": "emphatic（強調：〜ぞ）",
+          "PERF": "perfective（完了：〜る）"
+        },
         "translation-ja-natural": "と、言う。",
         "translation-en-natural": "And so it is said."
       },
@@ -31076,7 +33355,11 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "Q": "question marker（疑問：〜や）",
+          "CONJECT": "conjectural（推量：〜む）",
+          "QUOT-EMPH": "quotative-emphatic（強調：〜なむ）"
+        },
         "translation-ja-natural": "まだ満ち足りないのだろうか、またこうなるのか、",
         "translation-en-natural": "Am I still left unsatisfied, or will it happen like this again?"
       },
@@ -31188,7 +33471,17 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "PAST.ATTR": "past attributive（過去連体形：〜し）",
+          "ADV.F": "adverbial form（連用形：〜て）",
+          "CNTFCT.AUX": "counterfactual auxiliary（仮定法：〜まし）",
+          "PAST": "past（過去：〜し）",
+          "GEN": "genitive（属格：〜の）",
+          "LOC": "locative（場所・時：〜に）",
+          "COND": "conditional（条件：〜ば）",
+          "AUX": "auxiliary（補助動詞：〜まし）",
+          "Q": "question marker（疑問：〜や）"
+        },
         "translation-ja-natural": "かつて会ったあの人の松が千年も生き続けていたなら、こんな遠く悲しい別れはあっただろうか。",
         "translation-en-natural": "If the pine connected to the one I once saw lived for a thousand years, would such a distant and sorrowful parting have happened?"
       },
@@ -31256,7 +33549,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "POT": "potential（可能：〜え）",
+          "ATTR": "attributive（連体形：〜しき）",
+          "REALIS.F": "realis finite（已然形：〜れど）",
+          "NEG": "negative（否定：〜ず）"
+        },
         "translation-ja-natural": "忘れがたく、口惜しいことはたくさんあるけれども、とても言い尽くせない。",
         "translation-en-natural": "There are so many things that are hard to forget and deeply regrettable, but I simply cannot put them all into words."
       },
@@ -31306,7 +33604,12 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
+        "abbreviations": {
+          "VOL": "意志・推量（volitional）：助動詞『む』が表す、意志・推測・勧誘・適当の意味。",
+          "ADV.F": "adverbial form（連用形：〜て）",
+          "CONJ": "conjunctive（接続助詞：〜て）",
+          "intend": "intention or volition（意志・推量：〜む）"
+        },
         "translation-ja-natural": "とにかく、早く片づけてしまおう。",
         "translation-en-natural": "Anyway, let me just get this over with quickly."
       }
