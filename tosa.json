@@ -10891,7 +10891,7 @@
         ],
         "id": 113,
         "text": "今宵の月は海にぞ入る。",
-        "kana": "こよいのつきはうみにそいる。",
+        "kana": "こよいのつきはうみにぞいる。",
         "koutei-yamagen": "今宵の月は、海にぞ入る。",
         "translation-ja": "今宵の月は、海に入った。",
         "translation-en": "Tonight, the moon has entered the sea.",
@@ -10952,25 +10952,260 @@
         "translation-en-natural": "Tonight's moon has set into the sea."
       },
       {
-        "date": "20250303",
+        "date": [
+          20250303,
+          20251103
+        ],
         "id": 114,
         "text": "これを見て業平の君の「山のはにげて入れずもあらなむ」といふ歌なむおもほゆる。",
         "kana": "これをみてなりひらのきみのやまのはにげていれずもあらなむ」といふうたなむおもほゆる。",
         "koutei-yamagen": "これを見て、業平の君の「山の端げて入れずもあらなむ」と言ふ歌なむ思ほゆる。",
         "translation-ja": "これを見て、業平の君の「山の端に逃げて入らないでほしい」という歌が思い出される。",
         "translation-en": "Seeing this, I am reminded of Lord Narihira's poem, 'Even if the mountain's edge flees, may it not dissappear.'",
-        "translation-ja-natural": "これを見て、業平の君の「山の端に逃げて、沈まずにいてほしい」という歌が思い出されました。",
+        "phrase-gloss": [
+          {
+            "phrase": "これを見て、",
+            "gloss": "this ACC see CONJ,",
+            "words": [
+              {
+                "word": "これ",
+                "gloss": "this"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "見",
+                "gloss": "see.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "業平の君の、",
+            "gloss": "Narihira GEN lord GEN,",
+            "words": [
+              {
+                "word": "業平",
+                "gloss": "Narihira"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "君",
+                "gloss": "lord"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "「山の端逃げて入れずもあらなむ」と言ふ歌なむ思ほゆる。",
+            "gloss": "'mountain GEN edge flee CONJ enter NEG also be EMPH' QUOT say poem EMPH think",
+            "words": [
+              {
+                "word": "山",
+                "gloss": "mountain"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "端",
+                "gloss": "edge"
+              },
+              {
+                "word": "逃げ",
+                "gloss": "flee.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "入れ",
+                "gloss": "enter.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "あら",
+                "gloss": "be.IRR"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "言ふ",
+                "gloss": "say.ATTR"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "思ほゆる",
+                "gloss": "think.SPONT.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive",
+          "NEG": "negation particle",
+          "Q": "question particle",
+          "EMPH": "emphatic particle",
+          "IRR": "irrealis",
+          "SPONT": "spontaneous action",
+          "QUOT": "quotative particle",
+          "ATTR": "attributive form"
+        },
+        "translation-ja-natural": "これを見て、業平の君の「山の端に逃げて、沈まずにいてほしい」という歌が思い出された。",
         "translation-en-natural": "Seeing this, I was reminded of Lord Narihira's poem, 'May the moon flee to the mountain's edge and not dissappear.'"
       },
       {
-        "date": "20250304",
+        "date": [
+          20250304,
+          20251104
+        ],
         "id": 115,
         "text": "もし海邊にてよまゝしかば「浪たちさへて入れずもあらなむ」と詠みてましや。",
         "kana": "もしうみべにてよまましかば「なみたちさへていれずもあらなむ」とよみてましや。",
         "koutei-yamagen": "もし海辺にて詠まましかば、「浪立ちさへて入れずもあらなむ」と詠みてましや。",
         "translation-ja": "もし海辺で詠んだならば、「波が立ちさえして、入らないでほしい」と詠んだだろうか。",
         "translation-en": "If I had composed a poem by the seaside, would I have composed, 'If only the waves rose and kept everything out'?",
-        "translation-ja-natural": "もし海辺で詠んだなら、「波が高く立って、何も入らないでほしい」と詠んだでしょうか。",
+        "phrase-gloss": [
+          {
+            "phrase": "もし海辺にて詠まましかば、",
+            "gloss": "if seaside LOC compose.NEG.FUT.IF,",
+            "words": [
+              {
+                "word": "もし",
+                "gloss": "if"
+              },
+              {
+                "word": "海辺",
+                "gloss": "seaside"
+              },
+              {
+                "word": "にて",
+                "gloss": "LOC"
+              },
+              {
+                "word": "詠ま",
+                "gloss": "compose.IRR"
+              },
+              {
+                "word": "ましか",
+                "gloss": "FUT.IRR"
+              },
+              {
+                "word": "ば",
+                "gloss": "IF"
+              }
+            ]
+          },
+          {
+            "phrase": "「波立ちさへて入れずもあらなむ」と詠みてましや。",
+            "gloss": "'waves rise even CONJ enter NEG also be EMPH' QUOT compose.PRES FUT Q",
+            "words": [
+              {
+                "word": "波",
+                "gloss": "waves"
+              },
+              {
+                "word": "立ち",
+                "gloss": "rise.ADV"
+              },
+              {
+                "word": "さへ",
+                "gloss": "even"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "入れ",
+                "gloss": "enter.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "あら",
+                "gloss": "be.IRR"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "詠み",
+                "gloss": "compose.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "まし",
+                "gloss": "FUT"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "LOC": "locative particle",
+          "NEG": "negation particle",
+          "FUT": "future tense",
+          "IF": "conditional auxiliary",
+          "CONJ": "conjunctive particle",
+          "IRR": "irrealis",
+          "EMPH": "emphatic particle",
+          "Q": "question particle",
+          "QUOT": "quotative particle"
+        },
+        "translation-ja-natural": "もし海辺で詠んだなら、「波が高く立って、何も入らないでほしい」と詠んだだろうか。",
         "translation-en-natural": "If I had composed a poem by the seaside, would I have written, 'May the waves rise high and keep everything away'?"
       },
       {
