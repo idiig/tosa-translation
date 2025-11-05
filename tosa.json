@@ -11209,26 +11209,214 @@
         "translation-en-natural": "If I had composed a poem by the seaside, would I have written, 'May the waves rise high and keep everything away'?"
       },
       {
-        "date": "20250304",
+        "date": [
+          20250304,
+          20251105
+        ],
         "id": 116,
         "text": "今この歌を思ひ出でゝある人のよめりける、",
         "kana": "いまこのうたをおもいいでてあるひとのよめりける、",
         "koutei-yamagen": "今、この歌を思ひ出でて、ある人の詠めりける、",
-        "translation-ja": "今、この歌を思い出して、ある人が詠んだらしい歌は、",
-        "translation-en": "Now, recalling this poem, a poem which a certain person seems to have composed is...",
+        "translation-ja": "今、この歌を思い出して、ある人が詠んだ歌は、",
+        "translation-en": "Now, recalling this poem, a poem which a certain person has composed is...",
+        "phrase-gloss": [
+          {
+            "phrase": "今、",
+            "gloss": "now,",
+            "words": [
+              {
+                "word": "今",
+                "gloss": "now"
+              }
+            ]
+          },
+          {
+            "phrase": "この歌を思ひ出でて、",
+            "gloss": "this poem ACC recall CONJ,",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "思ひ出で",
+                "gloss": "recall.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "ある人の詠めりける、",
+            "gloss": "certain person GEN compose PERF PST,",
+            "words": [
+              {
+                "word": "ある",
+                "gloss": "certain"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "詠め",
+                "gloss": "compose.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive",
+          "PST": "past tense",
+          "PERF": "perfective aspect",
+          "REALIS": "realis form"
+        },
         "translation-ja-natural": "今、この歌を思い出して、ある人が詠んだ歌は、",
         "translation-en-natural": "Now, recalling this poem, a poem that a certain person has composed is..."
       },
       {
-        "date": "20250305",
+        "date": [
+          20250305,
+          20251106
+        ],
         "id": 117,
         "poem": "てる月の/ながるゝ見れば/あまの川/いづるみなとは/海にざ（ぞあイ）りける",
         "kana": "てるつきの/ながるるみれば/あまのがは/いづるみなとは/うみにざりける",
         "koutei-yamagen": "照る月の流るる見れば、天の川出づる港は、海にざりける",
-        "translation-ja": "照る月が流れるのを見ると、天の川が出る港は、海にあった。",
+        "translation-ja": "照る月が流れるのを見ると、天の川が出る港は、海にあったのだ。",
         "translation-en": "Seeing the shining moon flow, the harbor where the Milky Way emerges was in the sea.",
-        "translation-ja-natural": "照る月が流れていくのを見ていると、天の川が生まれる港は、海にあったのですね。",
-        "translation-en-natural": "Watching the shining moon drift along, I realize that the harbor where the Milky Way begins was in the sea."
+        "phrase-gloss": [
+          {
+            "phrase": "照る月の流るる見れば、",
+            "gloss": "shining moon GEN flow.REALIS see.IF,",
+            "words": [
+              {
+                "word": "照る",
+                "gloss": "shining.ATTR"
+              },
+              {
+                "word": "月",
+                "gloss": "moon"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "流るる",
+                "gloss": "flow.ATTR"
+              },
+              {
+                "word": "見れ",
+                "gloss": "see.IRR"
+              },
+              {
+                "word": "ば",
+                "gloss": "IF"
+              }
+            ]
+          },
+          {
+            "phrase": "天の川出づる港は、",
+            "gloss": "Milky.Way emerge.ATTR harbor TOP,",
+            "words": [
+              {
+                "word": "天",
+                "gloss": "heaven"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "川",
+                "gloss": "river"
+              },
+              {
+                "word": "出づる",
+                "gloss": "emerge.ATTR"
+              },
+              {
+                "word": "港",
+                "gloss": "harbor"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "海にざりける",
+            "gloss": "sea ??",
+            "words": [
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "に",
+                "gloss": "COP.ADV"
+              },
+              {
+                "word": "ざり",
+                "gloss": "EMPH.exist.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive",
+          "COP": "copula",
+          "IF": "conditional auxiliary",
+          "TOP": "topic particle",
+          "ATTR": "attributive form",
+          "DAT": "dative particle",
+          "EMPH": "emphatic particle",
+          "PST": "past tense"
+        },
+        "translation-ja-natural": "照る月が流れていくのを見ていると、天の川が生まれる港は、海にあったのだなあ。",
+        "translation-en-natural": "Watching the shining moon drift along, I realize that the harbor where the Milky Way begins was in the sea.",
+        "notes-ja": [
+          {
+            "title": "「にざりける」",
+            "note": "「に」は断定助動詞「なり」の連用形であるため gloss は COP.ADV（copula adverbial form）。「ざり」は「ぞあり」から生じた融合形ですが、形態的には同じく断定＋補助動詞の連用形なので、同じく EMPH.exist.ADV としてまとめてよい。gloss 全体の 'sea COP.ADV.EMPH.exist.ADV.PST.ATTR' は構造を単純化しており、「海にぞありける」の意味を「the sea (which) was there」として自然に再現。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "ni zari keru",
+            "note": "The particle 'ni' is the adverbial form of the copula auxiliary verb 'nari', hence glossed as COP.ADV (copula adverbial form). 'zari' is a fused form derived from 'zo ari'. Morphologically, it can be individually analyzed as the emphasis particle 'zo' plus the adverbial form of the auxiliary verb 'ari' (existence), so it is glossed as EMPH.exist.ADV. The overall gloss 'sea COP.ADV EMPH.exist.ADV PST.ATTR' simplifies the structure, naturally rendering the meaning of 'umi ni zo arikeri' as 'the sea (which) was there'."
+          }
+        ]
       },
       {
         "date": "20250306",
