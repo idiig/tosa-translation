@@ -11419,14 +11419,37 @@
         ]
       },
       {
-        "date": "20250306",
+        "date": [
+          20250306,
+          20251107
+        ],
         "id": 118,
         "text": "とや。",
         "kana": "とや。",
         "koutei-yamagen": "とや。",
         "translation-ja": "ということである。",
         "translation-en": "That is what it means.",
-        "translation-ja-natural": "というわけです。",
+        "phrase-gloss": [
+          {
+            "phrase": "とや。",
+            "gloss": "QUOT Q.",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "QUOT": "quotative particle",
+          "Q": "question particle"
+        },
+        "translation-ja-natural": "というわけだ。",
         "translation-en-natural": "So, that's how it is."
       },
       {
