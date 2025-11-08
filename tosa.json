@@ -1959,7 +1959,7 @@
         "id": 19,
         "text": "廿六日、なほ守のたちにてあるじしのゝしりてをのこらまでに物かづけたり。",
         "kana": "はつかあまりむいか、なほかみのたちにてあるじしののしりてをのこらまでにものかづけたり。",
-        "koutei-yamagen": "二十六日、なお守の館にて主人の知りてを残らまでに物かづけたり。",
+        "koutei-yamagen": "二十六日、なお守の館にて主人しののしりてを残らまでに物かづけたり。",
         "translation-ja": "二十六日、やはり守の館で饗応し、騒ぎ立てて、男たちにまで物を与えた。",
         "translation-en": "On the twenty-sixth, again at the governor’s residence, he hosted a feast, made a commotion, and bestowed gifts even upon the men.",
         "phrase-gloss": [
@@ -2013,7 +2013,7 @@
               },
               {
                 "word": "のゝしり",
-                "gloss": "make.noise.ADV.F"
+                "gloss": "make.noise.ADV"
               },
               {
                 "word": "て",
@@ -11453,15 +11453,111 @@
         "translation-en-natural": "So, that's how it is."
       },
       {
-        "date": "20250306",
+        "date": [
+          20250306,
+          20251108
+        ],
         "id": 119,
         "text": "九日、つとめて大湊より那波の泊をおはむとて漕ぎ出でにけり。",
         "kana": "ここのか、つとめておおみなとよりなばのとまりをおはむとてこぎいでにけり。",
         "koutei-yamagen": "九日、つとめて大湊より那波の泊をおはむとて漕ぎ出でにけり。",
         "translation-ja": "九日の朝早く、大湊から那波の泊へ着こうとして、漕ぎ出した。",
-        "translation-en": "On the ninth day, early in the morning, they rowed out from Ominato, intending to arrive at Naba Anchorage.",
-        "translation-ja-natural": "九日の朝早く、大湊を出発して、那波の泊を目指して船を漕ぎ出しました。",
-        "translation-en-natural": "Early in the morning on the ninth day, they set sail from Ominato, heading toward Naba Anchorage."
+        "translation-en": "On the ninth day, early in the morning, we rowed out from Ominato, intending to arrive at Naba Anchorage.",
+        "phrase-gloss": [
+          {
+            "phrase": "九日、つとめて",
+            "gloss": "ninth.day, early.morning",
+            "words": [
+              {
+                "word": "九日",
+                "gloss": "ninth.day"
+              },
+              {
+                "word": "、",
+                "gloss": ","
+              },
+              {
+                "word": "つとめて",
+                "gloss": "early.morning"
+              }
+            ]
+          },
+          {
+            "phrase": "大湊より那波の泊をおはむとて",
+            "gloss": "Ominato from Naba GEN anchorage ACC arrive.INTEND CONJ",
+            "words": [
+              {
+                "word": "大湊",
+                "gloss": "Ominato"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              },
+              {
+                "word": "那波",
+                "gloss": "Naba"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "泊",
+                "gloss": "anchorage"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "おは",
+                "gloss": "arrive.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "漕ぎ出でにけり。",
+            "gloss": "row.out PERF PST",
+            "words": [
+              {
+                "word": "漕ぎ出で",
+                "gloss": "row.out.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF,ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "GEN": "genitive",
+          "FUT": "future tense",
+          "CONJ": "conjunctive particle",
+          "PERF": "perfective aspect",
+          "PST": "past tense",
+          "ATTR": "attributive form"
+        },
+        "translation-ja-natural": "九日の朝早く、大湊を出発して、那波の泊を目指して船を漕ぎ出した。",
+        "translation-en-natural": "Early in the morning on the ninth day, we set sail from Ominato, heading toward Naba Anchorage."
       },
       {
         "date": "20250307",
@@ -15746,7 +15842,7 @@
               },
               {
                 "word": "む",
-                "gloss": "IRR"
+                "gloss": "FUT"
               }
             ]
           }
@@ -15762,7 +15858,7 @@
           "GEN": "genitive (連体格)",
           "INS": "instrumental (手段格)",
           "TOP": "topic (主題)",
-          "IRR": "irrealis (非現実・推量・意志)"
+          "FUT": "future (推量・意志)"
         },
         "translation-ja-natural": "海の上で、子の日の歌なんて、どうなのかしらね。",
         "translation-en-natural": "Out here at sea, a poem for the Day of the Rat—does that even make sense?"
@@ -18269,7 +18365,7 @@
               },
               {
                 "word": "む",
-                "gloss": "MOD.FUT"
+                "gloss": "FUT"
               }
             ]
           }
@@ -18293,7 +18389,7 @@
           "ACC": "accusative（目的格：〜を）",
           "QUOT": "quotative（引用：〜と）",
           "Q": "interrogative（疑問：〜か）",
-          "MOD.FUT": "modal/future（推量・未来：〜む）"
+          "FUT": "future（推量・未来：〜む）"
         },
         "translation-ja-natural": "波ひとつ立たない穏やかな日に、箱の浦の海を鏡と思わぬ人がいるでしょうか。",
         "translation-en-natural": "On a calm day with not a wave in sight, who could look at the sea of Hako no Ura and not see a mirror?"
@@ -20154,7 +20250,7 @@
               },
               {
                 "word": "じ",
-                "gloss": "NEG.SUPP"
+                "gloss": "NEG.FUT"
               }
             ]
           },
@@ -20212,7 +20308,7 @@
               },
               {
                 "word": "む",
-                "gloss": "SUPP"
+                "gloss": "FUT"
               }
             ]
           }
@@ -20224,8 +20320,8 @@
           "ATTR": "attributive（連体形：〜する）",
           "ADD": "addition（追加：〜も）",
           "QUOT": "quotative（引用：〜と）",
-          "SUPP": "suppositional（仮定：〜するつもり）",
-          "NEG.SUPP": "negation and suppositional（否定と仮定：〜しないつもり）"
+          "FUT": "future（未来：〜するつもり）",
+          "NEG": "negation（否定：〜ない）"
         },
         "translation-ja-natural": "忘れ貝なんて、もう拾わない。せめて白玉を恋しく思うことだけでも、形見と思おう。",
         "translation-en-natural": "I won’t pick up the forgetful shell anymore. But even just longing for the white jewel—I'll treasure that feeling as a keepsake.",
