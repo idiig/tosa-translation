@@ -11560,16 +11560,228 @@
         "translation-en-natural": "Early in the morning on the ninth day, we set sail from Ominato, heading toward Naba Anchorage."
       },
       {
-        "date": "20250307",
+        "date": [
+          20250307,
+          20251109
+        ],
         "id": 120,
         "text": "これかれ互に國の境の内はとて見おくりにくる人數多が中に藤原のときざね、橘の季衡、長谷部の行政等なむみたちより出でたうびし日より此所彼所におひくる。",
         "kana": "これかれたがひにくにのさかひのうちはとてみおくりにくるひとあまたがなかにふぢはらのときざね、たちばなのすゑひら、はせべのゆきまさらなむみたちよりいでたうびしひよりここかしこにおひくる。",
         "koutei-yamagen": "これかれ互ひに国の境の内はとて見送りにくる人、数多が中に、藤原のときざね、橘の季衡、長谷部の行政等なむ御館より出で給びし日より此所彼所に追ひくる。",
         "translation-ja": "この人あの人互いに、国の境の内はと言って見送りに来る人、その多くの人々の中には、藤原のときざね、橘の季衡、長谷部の行政らがいたが、彼らは国司の館を出発した日からあちらこちらへと追ってくる。",
         "translation-en": "These people, saying that as long as it was within the borders of the province, came to see them off. Among the many people, there were Fujiwara no Tokizane, Tachibana no Suehira, and Hasebe no Yukinari, who had been following them from place to place since the day they departed from the provincial governor's residence.",
-        "translation-ja-natural": "あの人もこの人も、かわるがわる、国の境の内にいるうちはと言って見送りに来る多くの人の中でも、藤原のときざね、橘の季衡、長谷部の行政らは、国司の館を出発した日以来、ずっとあちらこちらへと追いかけてきています。",
-        "translation-en-natural": "One person after another came to see them off, saying that as long as they were still within the provincial borders, they would do so. Among the many people who came to see them off, Fujiwara no Tokizane, Tachibana no Suehira, and Hasebe no Yukinari had been following them from place to place ever since they departed from the provincial governor's residence.",
-        "notes-ja": "藤原のときざね、橘のすえひら、長谷部のゆきまさの漢字表記は不確定であるが、一般的にはそれぞれ「時実」「季衡」「行政」と推定されることが多い。"
+        "phrase-gloss": [
+          {
+            "phrase": "これかれ互ひに国の境の内はとて見送りにくる人、数多が中に、",
+            "gloss": "this person and that person mutually PROV GEN border GEN inside TOP say see.off come.PRES person, many GEN among LOC,",
+            "words": [
+              {
+                "word": "これ",
+                "gloss": "this"
+              },
+              {
+                "word": "かれ",
+                "gloss": "that"
+              },
+              {
+                "word": "互ひに",
+                "gloss": "mutually"
+              },
+              {
+                "word": "国",
+                "gloss": "province"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "境",
+                "gloss": "border"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "内",
+                "gloss": "inside"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "とて",
+                "gloss": "say"
+              },
+              {
+                "word": "見送り",
+                "gloss": "see.off.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "ALL"
+              },
+              {
+                "word": "くる",
+                "gloss": "come"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "、",
+                "gloss": ","
+              },
+              {
+                "word": "数多",
+                "gloss": "many"
+              },
+              {
+                "word": "が",
+                "gloss": "GEN"
+              },
+              {
+                "word": "中",
+                "gloss": "among"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "藤原のときざね、橘の季衡、長谷部の行政等なむ御館より出で給びし日より此所彼所に追ひくる。",
+            "gloss": "Fujiwara GEN Tokizane, Tachibana GEN Suehira, Hasebe GEN Yukinari etc EMPH provincial.governor.GEN residence from depart.HON PST day from here.there LOC chase.PRES",
+            "words": [
+              {
+                "word": "藤原",
+                "gloss": "Fujiwara.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ときざね",
+                "gloss": "Tokizane.PN"
+              },
+              {
+                "word": "、",
+                "gloss": ","
+              },
+              {
+                "word": "橘",
+                "gloss": "Tachibana.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "季衡",
+                "gloss": "Suehira.PN"
+              },
+              {
+                "word": "、",
+                "gloss": ","
+              },
+              {
+                "word": "長谷部",
+                "gloss": "Hasebe.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "行政",
+                "gloss": "Yukinari.PN"
+              },
+              {
+                "word": "等",
+                "gloss": "etc"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "御館",
+                "gloss": "residence"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              },
+              {
+                "word": "出で",
+                "gloss": "depart.ADV"
+              },
+              {
+                "word": "給び",
+                "gloss": "HON.ADV"
+              },
+              {
+                "word": "し",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "日",
+                "gloss": "day"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              },
+              {
+                "word": "此所",
+                "gloss": "here"
+              },
+              {
+                "word": "彼所",
+                "gloss": "there"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "追ひくる",
+                "gloss": "chase"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PN": "proper noun",
+          "GEN": "genitive",
+          "PROV": "provisional particle",
+          "TOP": "topic particle",
+          "PST": "past tense",
+          "LOC": "locative particle",
+          "EMPH": "emphatic particle",
+          "HON": "honorific",
+          "ATTR": "attributive form",
+          "ALL": "allative particle"
+        },
+        "translation-ja-natural": "あの人もこの人も、かわるがわる、国の境の内にいるうちはと言って見送りに来る多くの人の中でも、藤原のときざね、橘の季衡、長谷部の行政らは、国司の館を出発した日以来、ずっとあちらこちらへと追いかけてくる。",
+        "translation-en-natural": "One person after another came to see us off, saying that as long as we were still within the provincial borders, they would do so. Among the many people who came to see them off, Fujiwara no Tokizane, Tachibana no Suehira, and Hasebe no Yukinari had been following us from place to place ever since we departed from the provincial governor's residence.",
+        "notes-ja": [
+          {
+            "title": "ときざね、すえひら、ゆきまさの漢字表記について",
+            "note": "藤原のときざね、橘のすえひら、長谷部のゆきまさの漢字表記は不確定であるが、一般的にはそれぞれ「時実」「季衡」「行政」と推定されることが多い。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Regarding the kanji representation of Tokizane, Suehira, and Yukimasa",
+            "note": "The kanji representation of Fujiwara no Tokizane, Tachibana no Suehira, and Hasebe no Yukimasa is uncertain, but they are commonly presumed to be 'Tokizane' (時実), 'Suehira' (季衡), and 'Yukinari' (行政) respectively."
+          }
+        ]
       },
       {
         "date": "20250308",
