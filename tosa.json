@@ -11844,13 +11844,86 @@
         "translation-en-natural": "These people were truly sincere and devoted."
       },
       {
-        "date": "20250308",
+        "date": [
+          20250308,
+          20251111
+        ],
         "id": 122,
         "text": "この人々の深き志はこの海には劣らざるべし。",
         "kana": "このひとびとのふかきこころざしはこのうみにはおとらざるべし。",
         "koutei-yamagen": "この人々の深き志はこの海には劣らざるべし。",
         "translation-ja": "この人々の深い志は、この海にも劣らないだろう。",
         "translation-en": "The deep devotion of these people should be no less than the depth of this sea.",
+        "phrase-gloss": [
+          {
+            "phrase": "この人々の深き志はこの海には劣らざるべし。",
+            "gloss": "these people GEN deep devotion TOP this sea DAT not.less.FUT",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "these"
+              },
+              {
+                "word": "人々",
+                "gloss": "people"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "深き",
+                "gloss": "deep.ATTR"
+              },
+              {
+                "word": "志",
+                "gloss": "devotion"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "劣ら",
+                "gloss": "inferior.IRR"
+              },
+              {
+                "word": "ざる",
+                "gloss": "NEG.ATTR"
+              },
+              {
+                "word": "べし",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive",
+          "TOP": "topic particle",
+          "DAT": "dative particle",
+          "IRR": "irrealis",
+          "NEG": "negation particle",
+          "FUT": "future tense",
+          "ATTR": "attributive form",
+          "ADV": "adverbial form"
+        },
         "translation-ja-natural": "この人々の深い信念は、この海の深さにも劣らないでしょう。",
         "translation-en-natural": "The deep devotion of these people is no less than the depth of the sea.",
         "notes-ja": {
