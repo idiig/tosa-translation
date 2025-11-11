@@ -11784,14 +11784,63 @@
         ]
       },
       {
-        "date": "20250308",
+        "date": [
+          20250308,
+          20251110
+        ],
         "id": 121,
         "text": "この人々ぞ志ある人なりける。",
         "kana": "このひとびとそころひあるひとなりける。",
         "koutei-yamagen": "この人々ぞ志ある人なりける。",
         "translation-ja": "この人々は志のある人であった。",
         "translation-en": "These were people of true devotion.",
-        "translation-ja-natural": "この人たちは、本当に心のこもった人々でした。",
+        "phrase-gloss": [
+          {
+            "phrase": "この人々ぞ志ある人なりける。",
+            "gloss": "these people EMPH devotion exist.PST.ATTR",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "these"
+              },
+              {
+                "word": "人々",
+                "gloss": "people"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "志",
+                "gloss": "devotion"
+              },
+              {
+                "word": "ある",
+                "gloss": "exist.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "なり",
+                "gloss": "be.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "EMPH": "emphatic particle",
+          "PST": "past tense",
+          "ATTR": "attributive form",
+          "IRR": "irrealis"
+        },
+        "translation-ja-natural": "この人たちは、本当に心のこもった人々だった。",
         "translation-en-natural": "These people were truly sincere and devoted."
       },
       {
