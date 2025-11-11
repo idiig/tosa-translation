@@ -11926,15 +11926,66 @@
         },
         "translation-ja-natural": "この人々の深い信念は、この海の深さにも劣らないでしょう。",
         "translation-en-natural": "The deep devotion of these people is no less than the depth of the sea.",
-        "notes-ja": {
-          "「志」の意味": "「志」は、人が持つ信念や意志、目標を指す。この文脈では、人々が持つ強い信念や意志を表している。",
-          "「海」の比喩": "「この海」は、人々の志の深さを表す比喩として用いられている。海は広大で深いものとして知られており、その深さは人々の志の深さに喩えられている。",
-          "「劣らざるべし」の意味": "「劣らざるべし」は、古語で「劣らないだろう」という意味。この文脈では、人々の志の深さが海の深さに劣らないことを強調している。",
-          "見送りが形式ではなく「宴会の口実」になっていること": "何度も宴会が繰り返されている点を見逃している。貢ぎ物とセットになっている点を軽視している。",
-          "見送りの本来の目的が、実は「貫之への忠誠」ではなかったこと": "「志」を「忠誠心」として解釈するのが一般的だが、実際には「宴会をしたい信念」だった。「何回も追いかけてくることの不自然さ」に注目していない。",
-          "「海の深さにも劣らぬ信念」が皮肉であること": "これまでの解釈では「純粋な称賛」として説明されることが多い。しかし、文脈的に見ると「もういい加減にしてくれ！」という貫之の心情が透けて見える。",
-          "宴会のために追いかける人々と、うんざりする貫之": "『土佐日記』の見送りの場面は、ただの別れの儀式ではない。見送りに来る人々は、貫之一行に貢ぎ物を持ってくるが、ついでに舟の上で宴会を開き、それを楽しんで帰っていく。これは一度だけのことではなく、何度も繰り返される。特に藤原の時実と橘の季衡は、すでに見送りに来たにもかかわらず、また陸路で追いかけてきた。長谷部の行政も新たに加わり、まるで「見送り」という名目で宴会に参加するために駆けつけているかのようだ。貫之はホストとして彼らを迎え、笑顔で「また会えましたね」と言うが、心の中では「何回見送るんだよ！」とうんざりしている。だからこそ、貫之は「この人々の深き志はこの海には劣らざるべし」と書いたのだ。これは単なる称賛ではなく、宴会への執念に対する皮肉だったのではないか。見送りという口実で宴会を開き、それを最後までやり遂げようとする彼らの「信念」は、確かに深い。しかし、それは貫之への忠誠心ではなく、「国の境に行けば、また宴会ができる！」という強い願望に基づくものだったのではないか。宴会が終わったと思えば、また次の宴会が始まる。貫之は、そんな終わらない宴会地獄に巻き込まれていたのかもしれない。"
-        }
+        "notes-ja": [
+          {
+            "title": "「志」の意味",
+            "note": "「志」は、人が持つ信念や意志、目標を指す。この文脈では、人々が持つ強い信念や意志を表している。"
+          },
+          {
+            "title": "「海」の比喩",
+            "note": "「この海」は、人々の志の深さを表す比喩として用いられている。海は広大で深いものとして知られており、その深さは人々の志の深さに喩えられている。"
+          },
+          {
+            "title": "「劣らざるべし」の解釈",
+            "note": "「劣らざるべし」は、古語で「劣らないだろう」という意味。この文脈では、人々の志の深さが海の深さに劣らないことを強調している。"
+          },
+          {
+            "title": "見送りが形式ではなく「宴会の口実」になっていること",
+            "note": "何度も宴会が繰り返されている点を見逃している。貢ぎ物とセットになっている点を軽視している。"
+          },
+          {
+            "title": "見送りの本来の目的が、実は「貫之への忠誠」ではなかったこと",
+            "note": "「志」を「忠誠心」として解釈するのが一般的だが、実際には「宴会をしたい信念」だった。「何回も追いかけてくることの不自然さ」に注目していない。"
+          },
+          {
+            "title": "「海の深さにも劣らぬ信念」が皮肉であること",
+            "note": "これまでの解釈では「純粋な称賛」として説明されることが多い。しかし、文脈的に見ると「もういい加減にしてくれ！」という貫之の心情が透けて見える。"
+          },
+          {
+            "title": "宴会のために追いかける人々と、うんざりする貫之",
+            "note": "『土佐日記』の見送りの場面は、ただの別れの儀式ではない。見送りに来る人々は、貫之一行に貢ぎ物を持ってくるが、ついでに舟の上で宴会を開き、それを楽しんで帰っていく。これは一度だけのことではなく、何度も繰り返される。特に藤原の時実と橘の季衡は、すでに見送りに来たにもかかわらず、また陸路で追いかけてきた。長谷部の行政も新たに加わり、まるで「見送り」という名目で宴会に参加するために駆けつけているかのようだ。貫之はホストとして彼らを迎え、笑顔で「また会えましたね」と言うが、心の中では「何回見送るんだよ！」とうんざりしている。だからこそ、貫之は「この人々の深き志はこの海には劣らざるべし」と書いたのだ。これは単なる称賛ではなく、宴会への執念に対する皮肉だったのではないか。見送りという口実で宴会を開き、それを最後までやり遂げようとする彼らの「信念」は、確かに深い。しかし、それは貫之への忠誠心ではなく、「国の境に行けば、また宴会ができる！」という強い願望に基づくものだったのではないか。宴会が終わったと思えば、また次の宴会が始まる。貫之は、そんな終わらない宴会地獄に巻き込まれていたのかもしれない。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Meaning of '志' (kokorozashi)",
+            "note": "'志' refers to a person's beliefs, will, or goals. In this context, it represents the strong convictions or intentions held by the people."
+          },
+          {
+            "title": "Metaphor of '海' (umi)",
+            "note": "'この海' (this sea) is used as a metaphor to represent the depth of people's convictions. The sea is known for its vastness and depth, which is likened to the depth of people's devotion."
+          },
+          {
+            "title": "Interpretation of '劣らざるべし' (otorazaru beshi)",
+            "note": "'劣らざるべし' is an archaic expression meaning 'should not be inferior.' In this context, it emphasizes that the depth of people's convictions is not inferior to the depth of the sea."
+          },
+          {
+            "title": "The fact that the farewell is not just a formality but a 'pretext for banquets'",
+            "note": "The repeated banquets are overlooked. The point that they are paired with offerings is underestimated."
+          },
+          {
+            "title": "The original purpose of the farewell was not actually 'loyalty to Tsurayuki'",
+            "note": "It is common to interpret '志' as 'loyalty,' but in reality, it was 'the belief in wanting to have banquets.' The unnaturalness of 'chasing after multiple times' is not focused on."
+          },
+          {
+            "title": "The irony of 'a belief no less than the depth of the sea'",
+            "note": "In previous interpretations, it is often explained as 'pure praise.' However, looking at the context, one can see Kanenari's feelings of 'Enough already!' shining through."
+          },
+          {
+            "title": "People chasing after for banquets and the exasperated Tsurayuki",
+            "note": "The farewell scene in 'Tosa Nikki' is not just a ritual of parting. The people who come to see off Tsurayuki's party bring offerings, but they also hold banquets on the boat and enjoy themselves before returning. This is not a one-time occurrence but is repeated multiple times. Especially Fujiwara no Tokizane and Tachibana no Suehira, who had already come to see them off, chased after them again by land. Hasebe no Yukinari also joined anew, as if they were rushing to participate in the banquet under the pretext of 'farewell.' Kanenari welcomes them as a host, saying with a smile, 'We meet again,' but in his heart, he is exasperated, thinking, 'How many times are we going to say goodbye!' That's why Tsurayuki wrote, 'The deep devotion of these people should be no less than the depth of this sea.' This was not mere praise but irony towards their obsession with banquets. Their 'belief,' which aimed to hold banquets under the pretext of farewell and see it through to the end, was indeed deep. However, it was not loyalty to Tsurayuki but rather based on a strong desire of 'If we reach the provincial border, we can have another banquet!' After one banquet ends, another begins. Tsurayuki might have been caught up in such an endless banquet hell."
+          }
+        ]
       },
       {
         "date": "20250309",
