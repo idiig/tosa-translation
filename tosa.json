@@ -11988,14 +11988,66 @@
         ]
       },
       {
-        "date": "20250309",
+        "date": [
+          20250309,
+          20251112
+        ],
         "id": 123,
         "text": "これより今は漕ぎ離れて往く。",
         "kana": "これよりいまはこぎはなれてゆく。",
         "koutei-yamagen": "これより今は漕ぎ離れて往く。",
         "translation-ja": "ここから、今、漕ぎ離れて行く。",
         "translation-en": "From here, now, row away and go.",
-        "translation-ja-natural": "ここから今、船を漕ぎ出して陸から離れていきます。",
+        "phrase-gloss": [
+          {
+            "phrase": "これより、今は漕ぎ離れて行く。",
+            "gloss": "this from now TOP row.leave.ADV go",
+            "words": [
+              {
+                "word": "これ",
+                "gloss": "this"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              },
+              {
+                "word": "、",
+                "gloss": ","
+              },
+              {
+                "word": "今",
+                "gloss": "now"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "漕ぎ",
+                "gloss": "row.ADV"
+              },
+              {
+                "word": "離れ",
+                "gloss": "leave.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "行く",
+                "gloss": "go"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "CONJ": "conjunctive particle",
+          "TOP": "topic particle",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "ここから今、船を漕ぎ出して陸から離れていく。",
         "translation-en-natural": "Now, they row away from here and leave the shore."
       },
       {
