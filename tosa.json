@@ -12146,14 +12146,100 @@
         "translation-en-natural": "Wishing to see them off, the people hurried after them."
       },
       {
-        "date": "20250311",
+        "date": [
+          20250311,
+          20251114
+        ],
         "id": 125,
         "text": "かくて漕ぎ行くまにまに海の邊にとまれる人も遠くなりぬ。",
         "kana": "かくてこぎゆくまにまにうみのほとりにとまれるひともとほくなりぬ。",
         "koutei-yamagen": "かくて漕ぎ行くまにまに、海の辺に泊まれる人も遠くなりぬ。",
         "translation-ja": "こうして漕ぎ行くうちに、海辺に泊まっていた人も遠くなった。",
         "translation-en": "Thus, while rowing, even those who had stayed by the sea became distant.",
-        "translation-ja-natural": "こうして船を漕ぎ進むうちに、海辺にとどまっていた人たちの姿も次第に遠ざかってしまいました。",
+        "phrase-gloss": [
+          {
+            "phrase": "かくて漕ぎ行くまにまに、",
+            "gloss": "thus row.go.ADV while,",
+            "words": [
+              {
+                "word": "かくて",
+                "gloss": "thus"
+              },
+              {
+                "word": "漕ぎ",
+                "gloss": "row.ADV"
+              },
+              {
+                "word": "行く",
+                "gloss": "go.ATTR"
+              },
+              {
+                "word": "まにまに",
+                "gloss": "while"
+              }
+            ]
+          },
+          {
+            "phrase": "海のほとりにとまれる人も遠くなりぬ。",
+            "gloss": "sea GEN shore DAT stay.POT person also distant become.PST",
+            "words": [
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ほとり",
+                "gloss": "shore"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "とまれ",
+                "gloss": "stay.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "遠く",
+                "gloss": "distant.ADV"
+              },
+              {
+                "word": "なり",
+                "gloss": "become.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PERF": "perfective",
+          "ATTR": "attributive form",
+          "GEN": "genitive",
+          "DAT": "dative particle",
+          "POT": "potential form",
+          "PST": "past tense",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "こうして船を漕ぎ進むうちに、海辺にとどまっていた人たちの姿も次第に遠ざかってしまった。",
         "translation-en-natural": "As the boat moved forward, the people who had remained by the shore gradually disappeared from sight."
       },
       {
