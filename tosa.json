@@ -12051,14 +12051,98 @@
         "translation-en-natural": "Now, they row away from here and leave the shore."
       },
       {
-        "date": "20250310",
+        "date": [
+          20250310,
+          20251113
+        ],
         "id": 124,
         "text": "これを見送らむとてぞこの人どもは追ひきける。",
         "kana": "これをみおくらむとてそこのひとどもはおひきける。",
         "koutei-yamagen": "これを見送らむとてぞ、この人どもは追いきける。",
         "translation-ja": "これを見送ろうとして、この人どもは追ってきたのだ。",
         "translation-en": "Intending to see this off, these people chased after.",
-        "translation-ja-natural": "これを見送ろうとして、人々はあとを追いかけてきました。",
+        "phrase-gloss": [
+          {
+            "phrase": "これを見送らむとてぞ、",
+            "gloss": "this ACC see.off.INTEND CONJ EMPH,",
+            "words": [
+              {
+                "word": "これ",
+                "gloss": "this"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "見送ら",
+                "gloss": "see.off.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              }
+            ]
+          },
+          {
+            "phrase": "この人どもは追い来ける。",
+            "gloss": "these people TOP chase.PRES come.PST",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "these"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "ども",
+                "gloss": "PL.HUM"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "追い",
+                "gloss": "chase.ADV"
+              },
+              {
+                "word": "来",
+                "gloss": "come.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PL.HUM": "plural humble",
+          "ACC": "accusative particle",
+          "IRR": "irrealis",
+          "FUT": "future tense",
+          "CONJ": "conjunctive particle",
+          "EMPH": "emphatic particle",
+          "PST": "past tense",
+          "TOP": "topic particle",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "これを見送ろうとして、人々はあとを追いかけてきた。",
         "translation-en-natural": "Wishing to see them off, the people hurried after them."
       },
       {
