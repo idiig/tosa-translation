@@ -12243,14 +12243,64 @@
         "translation-en-natural": "As the boat moved forward, the people who had remained by the shore gradually disappeared from sight."
       },
       {
-        "date": "20250311",
+        "date": [
+          20250311,
+          20251115
+        ],
         "id": 126,
         "text": "船の人も見えずなりぬ。",
         "kana": "ふねのひともみえずなりぬ。",
         "koutei-yamagen": "船の人も見えずなりぬ。",
         "translation-ja": "船の人も見えなくなってしまった。",
         "translation-en": "The people on the boat also disappeared from view.",
-        "translation-ja-natural": "船の人々も見えなくなってしまいました。",
+        "phrase-gloss": [
+          {
+            "phrase": "船の人も見えずなりぬ。",
+            "gloss": "boat GEN person also see.NEG become.PERF",
+            "words": [
+              {
+                "word": "船",
+                "gloss": "boat"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "見え",
+                "gloss": "see.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG.ADV"
+              },
+              {
+                "word": "なり",
+                "gloss": "become.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PERF": "perfective",
+          "IRR": "irrealis",
+          "GEN": "genitive",
+          "NEG": "negation particle",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "船の人々も見えなくなってしまった。",
         "translation-en-natural": "The people on the boat were no longer visible."
       },
       {
