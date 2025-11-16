@@ -7649,7 +7649,7 @@
           },
           {
             "phrase": "白馬を思へど",
-            "gloss": "white.horse-ACC think-although",
+            "gloss": "white.horse-ACC think.BUT",
             "words": [
               {
                 "word": "白馬",
@@ -7665,7 +7665,7 @@
               },
               {
                 "word": "ど",
-                "gloss": "although"
+                "gloss": "BUT"
               }
             ]
           },
@@ -7684,7 +7684,7 @@
           "TOP": "topic particle",
           "ACC": "accusative particle",
           "REALIS": "realis mood",
-          "although": "concessive particle"
+          "BUT": "concessive particle"
         },
         "translation-ja-natural": "今日は白馬の節会の日。でも、白馬の節会のことを思い出しても、ここにいるんじゃ意味がない。",
         "translation-en-natural": "Today is the day of the White Horse Festival. But thinking about the festival while stuck here feels pointless.",
@@ -12304,14 +12304,103 @@
         "translation-en-natural": "The people on the boat were no longer visible."
       },
       {
-        "date": "20250312",
+        "date": [
+          20250312,
+          20251116
+        ],
         "id": 127,
         "text": "岸にもいふ事あるべし、船にも思ふことあれどかひなし。",
         "kana": "きしにもいふことあるべし、ふねにもおもふことあれどかひなし。",
         "koutei-yamagen": "岸にも言ふ事あるべし、船にも思ふことあれどかひなし。",
-        "translation-ja": "岸にも言うことがあるだろうし、船にも思うことはあるけれど、無駄である。",
+        "translation-ja": "岸にも言うことがあるだろうし、船にも思うことはあるけれど、甲斐がない。",
         "translation-en": "There may be things to say on the shore, and things to think on the boat, though it is in vain.",
-        "translation-ja-natural": "岸にいる人たちにも言いたいことはあるだろうし、船にいる人たちにも思うことはあるけれど、どうにもなりません。",
+        "phrase-gloss": [
+          {
+            "phrase": "岸にも言ふ事あるべし、",
+            "gloss": "shore also say thing exist.FUT,",
+            "words": [
+              {
+                "word": "岸",
+                "gloss": "shore"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "言ふ",
+                "gloss": "say.ATTR"
+              },
+              {
+                "word": "事",
+                "gloss": "thing"
+              },
+              {
+                "word": "ある",
+                "gloss": "exist.ATTR"
+              },
+              {
+                "word": "べし",
+                "gloss": "FUT"
+              }
+            ]
+          },
+          {
+            "phrase": "船にも思ふことあれどかひなし。",
+            "gloss": "boat also think thing exist.BUT worth.NEG",
+            "words": [
+              {
+                "word": "船",
+                "gloss": "boat"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "思ふ",
+                "gloss": "think.ATTR"
+              },
+              {
+                "word": "こと",
+                "gloss": "thing"
+              },
+              {
+                "word": "あれ",
+                "gloss": "exist.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "BUT"
+              },
+              {
+                "word": "かひ",
+                "gloss": "worth"
+              },
+              {
+                "word": "なし",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "DAT": "dative particle",
+          "REALIS": "realis",
+          "FUT": "future tense",
+          "ATTR": "attributive form",
+          "BUT": "concessive particle",
+          "NEG": "negation particle"
+        },
+        "translation-ja-natural": "岸にいる人たちにも言いたいことはあるだろうし、船にいる人たちにも思うことはあるけれど、どうにもならない。",
         "translation-en-natural": "Those on the shore may have things to say, and those on the boat may have thoughts of their own, but nothing can be done."
       },
       {
