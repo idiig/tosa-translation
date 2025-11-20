@@ -12404,14 +12404,77 @@
         "translation-en-natural": "Those on the shore may have things to say, and those on the boat may have thoughts of their own, but nothing can be done."
       },
       {
-        "date": "20250313",
+        "date": [
+          20250313,
+          20251119
+        ],
         "id": 128,
         "text": "かゝれどこの歌を獨言にしてやみぬ。",
         "kana": "かかれどこのうたをひとりごとにしてやみぬ。",
         "koutei-yamagen": "かかれど、この歌を独言にしてやみぬ。",
         "translation-ja": "こうあっても、この歌を独り言にして、終わった。",
         "translation-en": "Even so, regarding this song as a soliloquy, it ended.",
-        "translation-ja-natural": "それでも、この歌、誰に贈るでもない独り言を最後に、海辺のことば、船の思いは、止んでいきました。",
+        "phrase-gloss": [
+          {
+            "phrase": "かかれど、",
+            "gloss": "however, ",
+            "words": [
+              {
+                "word": "かかれど",
+                "gloss": "however"
+              }
+            ]
+          },
+          {
+            "phrase": "この歌を独言にして、やみぬ。",
+            "gloss": "this song ACC soliloquy DAT do.ADV end PERF",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "歌",
+                "gloss": "song"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "独言",
+                "gloss": "soliloquy"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "やみ",
+                "gloss": "end.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "DAT": "dative particle",
+          "PERF": "perfective",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "それでも、この歌、誰に贈るでもない独り言を最後に、海辺のことば、船の思いは、止んでいった。",
         "translation-en-natural": "Even so, with this song, a soliloquy meant for no one, as its last, the words from the shore and the thoughts on the boat gradually faded away with the waves and the wind.",
         "notes-ja": {
           "山元の解釈": "和歌が波風の立つ海上のことばの最後になり、そしてことばも思いも、両者を共有する波風とともに止んだ、のだというのが私の解釈で「やみぬ」を他動詞に変えてはいけない。",
@@ -12419,7 +12482,7 @@
           "本来の意味": "「やみぬ」は、和歌が波風の立つ海上における最後のことばとなり、その後、ことばも思いも、波風とともに静かに消えていく様子を示している。これは、何かを意図的にやめたのではなく、環境の流れの中で自然と終息したことを強調する表現である。そのため、「やみぬ」を他動詞に変えることは、原文の持つ余韻や自然な終わりの感覚を損ねることにつながる。",
           "適切な英訳": "この点を考慮し、英訳においても「it ended」「came to an end」などの自動詞を用いることで、原文のニュアンスを正しく伝えることが求められる。さらに、「faded away with the waves and the wind」などとすることで、「波風とともに止んでいった」という情景を忠実に再現できる。",
           "貫之の表向きの表現": "貫之は「それぞれの思いは、貫之の和歌で、止んでいった」と表現している。つまり、自分の和歌が場を締めくくり、すべてを終わらせたかのようにまとめている。この表現には、和歌の力によってすべてを収めたという、少し格好つけた要素がある。",
-          "岸の人々の本音": "岸の人々にとっては、『これで宴会は本当に終わったなぁ……残念だ』という気持ちがあったと考えられる。船が去り、もう追いかけることもできず、旅立ちの現実を受け入れざるを得ない。一方で、送る側としての役目を終えた安堵もあったかもしれない。",
+          "岸の人々の本音": "岸の人々にとっては、『これで宴会は本当に終わったなぁ...残念だ』という気持ちがあったと考えられる。船が去り、もう追いかけることもできず、旅立ちの現実を受け入れざるを得ない。一方で、送る側としての役目を終えた安堵もあったかもしれない。",
           "船の側の本音": "船に乗る側としては、『もうこれで、追いかけてくることはないだろう。飲みに来る人はいいかもしれないが、迎える側としては、宴会を準備し、朝まで眠いのにつき合わなければならなかった。やっと楽になる』という安堵感があったと考えられる。",
           "貫之の表現の巧妙さ": "貫之は、この『名残惜しい気持ち』と『ようやく解放される気持ち』の両方を、和歌がすべてを収めたかのようにまとめている。しかし実際には、それぞれの気持ちは別々の方向に動いていた可能性がある。この表現により、貫之は文学的に場を締めくくりながらも、読者に多面的な解釈の余地を残している。",
           "純文学としての表現": "貫之は『それぞれの思いは、和歌で静まり、波風とともに止んだ』と表現している。これは『言葉の力で、場を整え、静かな終息をもたらした』という、いかにも純文学的な美しい締めくくりの表現である。",
@@ -12430,13 +12493,112 @@
         }
       },
       {
-        "date": "20250313",
+        "date": [
+          20250313,
+          20251120
+        ],
         "id": 129,
         "poem": "おもひやる/心は海を/渡れども/ふみしなければ/知らずやあるらむ。",
         "kana": "おもひやる/こころはうみを/わたれども/ふみしなければ/しらずやあるらむ。",
         "koutei-yamagen": "思ひやる心は海を渡れども、ふみしなければ知らずやあるらむ。",
         "translation-ja": "思いやる心は、海を渡るけれども、文がないので、知らないことがあるのだろうか。",
         "translation-en": "The heart that sends thoughts afar crosses the sea, but since there is no letter, is there something they do not know?",
+        "phrase-gloss": [
+          {
+            "phrase": "思ひやる心は海を渡れども、",
+            "gloss": "think.send.ADV heart TOP sea ACC cross.CONJ",
+            "words": [
+              {
+                "word": "思ひ",
+                "gloss": "think.ADV"
+              },
+              {
+                "word": "やる",
+                "gloss": "send.ATTR"
+              },
+              {
+                "word": "心",
+                "gloss": "heart"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "渡れ",
+                "gloss": "cross.REALIS"
+              },
+              {
+                "word": "ども",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "ふみしなければ知らずやあるらむ。",
+            "gloss": "letter EMPH if.not exist.NEG know.Q EMPH exist.FUT",
+            "words": [
+              {
+                "word": "ふみ",
+                "gloss": "letter"
+              },
+              {
+                "word": "し",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "なけれ",
+                "gloss": "no.exist.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              },
+              {
+                "word": "知ら",
+                "gloss": "know.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "ある",
+                "gloss": "exist.ATTR"
+              },
+              {
+                "word": "らむ",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "TOP": "topic particle",
+          "ACC": "accusative particle",
+          "CONJ": "conjunctive particle",
+          "IRR": "irrealis form",
+          "REALIS": "realis form",
+          "ADV": "adverbial form",
+          "NEG": "negation particle",
+          "COND": "conditional particle",
+          "Q": "question particle",
+          "EMPH": "emphatic particle",
+          "FUT": "future tense",
+          "ATTR": "attributive form"
+        },
         "translation-ja-natural": "思いやる心は海を渡るけれども、手紙ではないからといって、お互いの心がわからないということがあるのでしょうか。",
         "translation-en-natural": "The heart that longs for another may cross the sea, but just because it is not a letter, does it mean they cannot understand each other's hearts?",
         "notes-ja": {
