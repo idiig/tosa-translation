@@ -12616,29 +12616,141 @@
         }
       },
       {
-        "date": "20250314",
+        "date": [
+          20250314,
+          20251121
+        ],
         "id": 130,
         "text": "かくて宇多の松原を行き過ぐ。",
         "kana": "かくてうたのまつばらをゆきすぐ。",
         "koutei-yamagen": "かくて宇多の松原を行き過ぐ。",
         "translation-ja": "こうして、宇多の松原を行き過ぎる。",
         "translation-en": "Thus, they go past the pine grove of Uda.",
+        "phrase-gloss": [
+          {
+            "phrase": "かくて宇多の松原を行き過ぐ。",
+            "gloss": "thus Uda GEN pine.grove ACC go.past",
+            "words": [
+              {
+                "word": "かくて",
+                "gloss": "thus"
+              },
+              {
+                "word": "宇多",
+                "gloss": "Uda.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "松原",
+                "gloss": "pine.grove"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "行き",
+                "gloss": "go.ADV"
+              },
+              {
+                "word": "過ぐ",
+                "gloss": "past.END"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive",
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "END": "ending form"
+        },
         "translation-ja-natural": "こうして、宇多の松原を通り過ぎる。",
         "translation-en-natural": "And so, we pass by the pine grove of Uda."
       },
       {
-        "date": "20250314",
+        "date": [
+          20250314,
+          20251122
+        ],
         "id": 131,
         "text": "松の數幾そばく、幾千年へたりと知らず。",
         "kana": "まつのかずいくそばく、いくせんねんへたりとしらず。",
         "koutei-yamagen": "松の数幾そばく、幾千年へたりと知らず。",
         "translation-ja": "松の本数はどれほどか、幾千年を経たのかわからない。",
         "translation-en": "The number of pines, how great it is, and how many thousands of years they have endured, I do not know.",
-        "translation-ja-natural": "松の本数がどれほど多いのか、何千年が経ったのか、私には分からない。",
+        "phrase-gloss": [
+          {
+            "phrase": "松の数幾そばく、",
+            "gloss": "pine GEN number how.much",
+            "words": [
+              {
+                "word": "松",
+                "gloss": "pine"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "数",
+                "gloss": "number"
+              },
+              {
+                "word": "幾そばく",
+                "gloss": "how.much"
+              }
+            ]
+          },
+          {
+            "phrase": "幾千年へたりと知らず。",
+            "gloss": "many.thousands.year pass PERF know.NEG",
+            "words": [
+              {
+                "word": "幾千年",
+                "gloss": "many.thousands.year"
+              },
+              {
+                "word": "へ",
+                "gloss": "pass.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "知ら",
+                "gloss": "know.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive",
+          "CONJ": "conjunctive particle",
+          "NEG": "negation particle",
+          "IRR": "irrealis form",
+          "QUOT": "quotative particle"
+        },
+        "translation-ja-natural": "松の本数がどれほど多いのか、何千年が経ったのか、わからない。",
         "translation-en-natural": "I do not know how great the number of pine trees is, nor how many thousands of years have passed."
       },
       {
-        "date": "20250314",
+        "date": [
+          20250314,
+          20251122
+        ],
         "id": 132,
         "text": "もとごとに浪うちよせ枝ごとに鶴ぞ飛びかふ。",
         "kana": "もとごとになみうちよせえごとにつるぞとびかふ。",
@@ -12649,13 +12761,90 @@
         "translation-en-natural": "Waves lap against the base of the pines, and cranes flutter among the branches."
       },
       {
-        "date": "20250314",
+        "date": [
+          20250314,
+          20251123
+        ],
         "id": 133,
         "text": "おもしろしと見るに堪へずして船人のよめる歌、",
         "kana": "おもしろしとみるにたへずしてふなびとのよめるうた、",
         "koutei-yamagen": "おもしろしと見るに堪へずして船人のよめる歌、",
         "translation-ja": "趣深いと見るに堪えきれず、船人が詠んだ歌は、",
         "translation-en": "Finding it too captivating to bear, a poem that a passenger composed...",
+        "phrase-gloss": [
+          {
+            "phrase": "おもしろしと見るに堪へずして、",
+            "gloss": "interesting QUOT see DAT bear.NEG CONJ",
+            "words": [
+              {
+                "word": "おもしろし",
+                "gloss": "interesting"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "見る",
+                "gloss": "see.ATTR"
+              },
+              {
+                "word": "に",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "堪へ",
+                "gloss": "bear.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "して",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "船人のよめる歌、",
+            "gloss": "boat.person GEN compose PERF poem",
+            "words": [
+              {
+                "word": "船人",
+                "gloss": "boat.person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "よめ",
+                "gloss": "compose.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ATTR": "attributive form",
+          "PERF": "perfective",
+          "IRR": "irrealis form",
+          "REALIS": "realis form",
+          "QUOT": "quotative particle",
+          "DAT": "dative particle",
+          "NEG": "negation particle",
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive",
+          "ADV": "adverbial form"
+        },
         "translation-ja-natural": "あまりにも趣深く、見ているうちに胸がいっぱいになり、船人が詠んだ歌は、",
         "translation-en-natural": "Overwhelmed by its beauty, a passenger composed the following poem..."
       },
