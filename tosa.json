@@ -12849,15 +12849,126 @@
         "translation-en-natural": "Overwhelmed by its beauty, a passenger composed the following poem..."
       },
       {
-        "date": "20250314",
+        "date": [
+          20250314,
+          20251124
+        ],
         "id": 134,
         "poem": "見渡せば/松のうれごとに/すむ鶴は/千代のどちとぞ/思ふべらなる",
         "kana": "みわたせば/まつのうれごとに/すむつるは/ちよのどちとぞ/おもふべらなる",
         "koutei-yamagen": "見渡せば松のうれごとに住む鶴は千代のどちとぞ思ふべらなる",
         "translation-ja": "見渡すと、松の梢ごとに棲む鶴は、千代の友であると思っているようだ。",
         "translation-en": "Looking out, the cranes, dwelling on each pine treetop, seem to think of themselves as friends of a thousand generations.",
+        "phrase-gloss": [
+          {
+            "phrase": "見渡せば松のうれごとに住む鶴は",
+            "gloss": "look.out.IF pine GEN treetop DAT live crane TOP",
+            "words": [
+              {
+                "word": "見渡せ",
+                "gloss": "look.out.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              },
+              {
+                "word": "松",
+                "gloss": "pine"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "うれごと",
+                "gloss": "treetop"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "住む",
+                "gloss": "live.ATTR"
+              },
+              {
+                "word": "鶴",
+                "gloss": "crane"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "千代のどちとぞ思ふべらなる",
+            "gloss": "thousand.generations GEN friend QUOT think FUT COP",
+            "words": [
+              {
+                "word": "千代",
+                "gloss": "thousand.generations"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "どち",
+                "gloss": "friend"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "思ふ",
+                "gloss": "think"
+              },
+              {
+                "word": "べら",
+                "gloss": "FUT.IRR"
+              },
+              {
+                "word": "なる",
+                "gloss": "COP.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ATTR": "attributive form",
+          "COP": "copula",
+          "IRR": "irrealis form",
+          "REALIS": "realis form",
+          "COND": "conditional particle",
+          "GEN": "genitive",
+          "DAT": "dative particle",
+          "ADV": "adverbial form",
+          "TOP": "topic particle",
+          "QUOT": "quotative particle",
+          "EMPH": "emphatic particle",
+          "FUT": "future tense"
+        },
         "translation-ja-natural": "見渡すと、松の梢にとまる鶴たちは、松を千年の時を超える友と思っているようですね。",
-        "translation-en-natural": "Looking out, the cranes perched on the pine treetops seem to think of the pines as their lifelong friends across a thousand years."
+        "translation-en-natural": "Looking out, the cranes perched on the pine treetops seem to think of the pines as their lifelong friends across a thousand years.",
+        "notes-ja": [
+          {
+            "title": "べらなるの解釈",
+            "content": "「べらなる」は「べら（推量の助動詞『べし』の未然形）＋なる（断定の助動詞『なり』の連体形）」で「べら」は推量を表し、「なる」は断定を表すため、全体として「～する様子だ（かもしれない）」という意味になる。したがって、「思ふべらなる」は「思っているようだ」と訳すのが適切である。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Interpretation of 'beranaru'",
+            "content": "'beranaru' consists of 'bera' (the irrealis form of the auxiliary verb 'beshi', indicating conjecture) and 'naru' (the attributive form of the auxiliary verb 'nari', indicating assertion). 'Bera' expresses conjecture, while 'naru' asserts, so together they convey the meaning of 'it seems that...' or 'it appears that...'. Therefore, translating 'omou beranaru' as 'it seems to think' is appropriate."
+          }
+        ]
       },
       {
         "date": "20250314",
@@ -16608,7 +16719,8 @@
           "GEN": "genitive (所属・連体修飾)",
           "QUOT": "quotative (引用・発話表示)",
           "COND": "conditional (条件)",
-          "COP.PST": "copula, past (過去の断定・存在)",
+          "COP": "copula (断定)",
+          "PST": "past (過去)",
           "IPFV": "imperfective (未完了・進行性)",
           "EXCL": "exclamation (詠嘆・念押し)"
         },
@@ -16779,7 +16891,7 @@
               },
               {
                 "word": "まし",
-                "gloss": "IRR.WISH"
+                "gloss": "wish.ATTR"
               },
               {
                 "word": "もの",
@@ -16787,7 +16899,7 @@
               },
               {
                 "word": "を",
-                "gloss": "EXCL.ADVERS"
+                "gloss": "EXCL"
               }
             ]
           }
@@ -16818,14 +16930,13 @@
           "GEN": "genitive (所属・連体修飾)",
           "ACC": "accusative (目的格)",
           "CVB": "converb (連用接続助詞)",
-          "IRR": "irrealis (未実現の事態)",
-          "COP.IRR": "copula, irrealis (仮定の断定)",
+          "IRR": "irrealis (未然形)",
+          "COP": "copula (断定)",
           "COND": "conditional (条件)",
           "AUX": "auxiliary (助動的要素)",
           "PRF": "perfect (完了)",
           "REL": "relativizer (連体修飾)",
-          "IRR.WISH": "irrealis + wish (反実仮想の願望)",
-          "EXCL.ADVERS": "exclamation + adversative nuance (詠嘆＋逆接の語感)"
+          "EXCL": "exclamation (詠嘆)"
         },
         "translation-ja-natural": "ああ、はっきりしない...今日は子の日なのだろうか。私が海女だったら、せめて海松くらいは引いてみようものを。",
         "translation-en-natural": "Ah, it's all so uncertain... Is today really the Day of the Rat? If I were a diver, I might have at least pulled up some sea pine.",
