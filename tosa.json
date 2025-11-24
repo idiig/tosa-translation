@@ -12971,14 +12971,33 @@
         ]
       },
       {
-        "date": "20250314",
+        "date": [
+          20250314,
+          20251124
+        ],
         "id": 135,
         "text": "とや。",
         "kana": "とや。",
         "koutei-yamagen": "とや。",
-        "translation-ja": "と。",
+        "translation-ja": "とか。",
         "translation-en": ".",
-        "translation-ja-natural": "と。",
+        "phrase-gloss": [
+          {
+            "phrase": "とや。",
+            "gloss": "QUOT EMPH",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              }
+            ]
+          }
+        ],
+        "translation-ja-natural": "とか。",
         "translation-en-natural": "."
       },
       {
