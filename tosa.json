@@ -13261,14 +13261,59 @@
         ]
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251126
+        ],
         "id": 138,
         "text": "男もならはねば（二字ぬはイ）いとも心細し。",
         "kana": "をとこもならはねばいともこころぼしし。",
         "koutei-yamagen": "男もならはねばいとも心細し。",
         "translation-ja": "男も慣れていないので、とても心細い。",
         "translation-en": "Since the men are not accustomed to it, they feel very uneasy.",
-        "translation-ja-natural": "男たちもまだ船旅に慣れておらず、とても心細く感じていました。",
+        "phrase-gloss": [
+          {
+            "phrase": "男もならはねばいとも心細し。",
+            "gloss": "man also accustomed NEG because very uneasy",
+            "words": [
+              {
+                "word": "男",
+                "gloss": "man "
+              },
+              {
+                "word": "も",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "ならは",
+                "gloss": "accustomed.IRR"
+              },
+              {
+                "word": "ね",
+                "gloss": "NEG.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              },
+              {
+                "word": "いとも",
+                "gloss": "very"
+              },
+              {
+                "word": "心細し",
+                "gloss": "uneasy"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "REALIS": "realis form",
+          "COND": "conditional particle",
+          "NEG": "negation particle",
+          "IRR": "irrealis form"
+        },
+        "translation-ja-natural": "男も船旅に慣れておらず、とても心細い。",
         "translation-en-natural": "Even the men were still unaccustomed to the voyage and felt very uneasy."
       },
       {
