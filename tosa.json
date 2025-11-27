@@ -13001,29 +13001,264 @@
         "translation-en-natural": "."
       },
       {
-        "date": "20250314",
+        "date": [
+          20250314,
+          20251125
+        ],
         "id": 136,
         "text": "この歌は所を見るにえまさらず。",
         "kana": "このうたはところをみるにえまさらず。",
         "koutei-yamagen": "この歌は、ところを見るにえまさらず。",
         "translation-ja": "この歌は、所を見るに、優らない。",
         "translation-en": "This poem cannot surpass the view when looking at the place.",
+        "phrase-gloss": [
+          {
+            "phrase": "この歌は、ところを見るにえまさらず。",
+            "gloss": "this poem TOP place ACC see DAT cannot.surpass",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "ところ",
+                "gloss": "place"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "見る",
+                "gloss": "see.ATTR"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "え",
+                "gloss": "POT^1"
+              },
+              {
+                "word": "まさら",
+                "gloss": "surpass.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG^2"
+              }
+            ],
+            "note": "POT^1 + NEG^2: 'え...ず' is a classical paired construction where 'え' signals a potential action that is explicitly denied by 'ず'. Together they express impossibility."
+          }
+        ],
+        "abbreviations": {
+          "POT": "potential form",
+          "NEG": "negation particle",
+          "TOP": "topic particle",
+          "ACC": "accusative particle",
+          "DAT": "dative particle",
+          "ATTR": "attributive form",
+          "IRR": "irrealis form"
+        },
         "translation-ja-natural": "この歌は、実際の場所を見ると、そのすばらしさにはかなわない。",
         "translation-en-natural": "This poem, when seeing the actual place, cannot quite rival its beauty."
       },
       {
-        "date": "20250314",
+        "date": [
+          20250314,
+          20251125
+        ],
         "id": 137,
         "text": "かくあるを見つゝ漕ぎ行くまにまに、山も海もみなくれ、夜更けて、西ひんがしも見えずして、てけのこと楫取の心にまかせつ。",
         "kana": "かくあるをみつつこぎゆくまにまに、やまもうみもみなくれ、よふけて、にしひんがしもみえずして、てけのことかぢとりのこころにまかせつ。",
         "koutei-yamagen": "かくあるを見つつ漕ぎ行くまにまに、山も海もみなくれ、夜更けて、西東も見えずして、天気のこと楫取の心にまかせつ。",
         "translation-ja": "このようにあるものを見ながら漕いでいくうちに、山も海もすべて暮れ、夜が更け、西も東も見えなくなり、天気のことは楫取の心に任せてしまった。",
         "translation-en": "As the boat was rowed while looking at things as they were, the mountains and the sea all darkened, night fell, and neither west nor east was visible, and the weather was left to the oarsman's judgment.",
-        "translation-ja-natural": "こうして船を漕ぎ進めるうちに、山も海もすっかり暮れて、夜が更けて、西も東も見えなくなり、天気のことは船頭に委ねるほかありませんでした。",
+        "phrase-gloss": [
+          {
+            "phrase": "かくあるを見つつ漕ぎ行くまにまに、",
+            "gloss": "thus exist.ACC see.ADV row.go.ADV while",
+            "words": [
+              {
+                "word": "かく",
+                "gloss": "thus"
+              },
+              {
+                "word": "ある",
+                "gloss": "exist.ATTR"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "見",
+                "gloss": "see.ADV"
+              },
+              {
+                "word": "つつ",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "漕ぎ",
+                "gloss": "row.ADV"
+              },
+              {
+                "word": "行く",
+                "gloss": "go.ATTR"
+              },
+              {
+                "word": "まにまに",
+                "gloss": "while"
+              }
+            ]
+          },
+          {
+            "phrase": "山も海もみなくれ、",
+            "gloss": "mountain EMPH sea EMPH all darken.ADV",
+            "words": [
+              {
+                "word": "山",
+                "gloss": "mountain"
+              },
+              {
+                "word": "も",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "も",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "みな",
+                "gloss": "all"
+              },
+              {
+                "word": "くれ",
+                "gloss": "darken.ADV"
+              }
+            ]
+          },
+          {
+            "phrase": "夜更けて、西東も見えずして、",
+            "gloss": "night deepen.ADV west.east EMPH see.NEG CONJ",
+            "words": [
+              {
+                "word": "夜",
+                "gloss": "night"
+              },
+              {
+                "word": "更け",
+                "gloss": "deepen.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "西東",
+                "gloss": "west.east"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "見え",
+                "gloss": "see.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "して",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "天気のこと楫取の心にまかせつ。",
+            "gloss": "weather GEN matter oarsman GEN heart DAT entrust.PERF",
+            "words": [
+              {
+                "word": "天気",
+                "gloss": "weather"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "こと",
+                "gloss": "matter"
+              },
+              {
+                "word": "楫取",
+                "gloss": "oarsman"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "心",
+                "gloss": "heart"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "まかせ",
+                "gloss": "entrust.IRR"
+              },
+              {
+                "word": "つ",
+                "gloss": "PERF.END"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ATTR": "attributive form",
+          "PERF": "perfective",
+          "IRR": "irrealis form",
+          "CONJ": "conjunctive particle",
+          "NEG": "negation particle",
+          "DAT": "dative particle",
+          "GEN": "genitive",
+          "EMP": "emphatic particle",
+          "ADV": "adverbial form",
+          "ACC": "accusative particle"
+        },
+        "translation-ja-natural": "こうして船を漕ぎ進めるうちに、山も海もすっかり暮れて、夜が更けて、西も東も見えなくなり、天気のことは船頭に委ねるほかなかった。",
         "translation-en-natural": "As the boat moved forward, the mountains and sea faded into darkness, night deepened, and both west and east disappeared from view, leaving the weather in the hands of the oarsman.",
-        "notes-ja": {
-          "オリジナルの校訂": "かくあるを見つゝ漕ぎ行くまにまに、山も海もみなくれ、夜更けて、西ひんがしも見えずして、てけのこと※(「楫＋戈」、第3水準1-86-21)取の心にまかせつ。"
-        }
+        "notes-ja": [
+          {
+            "title": "オリジナルの校訂",
+            "note": "かくあるを見つゝ漕ぎ行くまにまに、山も海もみなくれ、夜更けて、西ひんがしも見えずして、てけのこと※(「楫＋戈」、第3水準1-86-21)取の心にまかせつ。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Original Text Note",
+            "note": "かくあるを見つゝ漕ぎ行くまにまに、山も海もみなくれ、夜更けて、西ひんがしも見えずして、てけのこと※(「楫＋戈」、第3水準1-86-21)取の心にまかせつ。"
+          }
+        ]
       },
       {
         "date": "20250315",
