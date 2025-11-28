@@ -3720,7 +3720,7 @@
           },
           {
             "phrase": "忘れつつ",
-            "gloss": "forgetting (continually)",
+            "gloss": "forgetting",
             "words": [
               {
                 "word": "忘れ",
@@ -3728,7 +3728,7 @@
               },
               {
                 "word": "つつ",
-                "gloss": "CONJ.PROG"
+                "gloss": "CONJ"
               }
             ]
           },
@@ -13317,14 +13317,95 @@
         "translation-en-natural": "Even the men were still unaccustomed to the voyage and felt very uneasy."
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251126
+        ],
         "id": 139,
         "text": "まして女は船底に頭をつきあてゝねをのみぞなく。",
-        "kana": "ましてをんなはふなぞこにかしらをつきあててねをのみそなく。",
-        "koutei-yamagen": "まして女は船底に頭をつきあててねをのみそなく。",
+        "kana": "ましてをんなはふなぞこにかしらをつきあててねをのみぞなく。",
+        "koutei-yamagen": "まして女は船底に頭をつきあててねをのみぞなく。",
         "translation-ja": "まして女は、船底に頭を突き当てて、ただ泣くばかりだ。",
         "translation-en": "Moreover, the women, with their heads pressed against the bottom of the boat, do nothing but cry.",
-        "translation-ja-natural": "まして女たちは船底に頭をつけて、ただ泣くばかりでした。",
+        "phrase-gloss": [
+          {
+            "phrase": "まして女は船底に頭をつきあてて",
+            "gloss": "moreover woman TOP boat.bottom DAT head ACC press.ADV",
+            "words": [
+              {
+                "word": "まして",
+                "gloss": "moreover"
+              },
+              {
+                "word": "女",
+                "gloss": "woman"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "船底",
+                "gloss": "boat.bottom"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "頭",
+                "gloss": "head"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "つきあて",
+                "gloss": "press.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "ねをのみぞなく。",
+            "gloss": "sound ACC only EMPH cry",
+            "words": [
+              {
+                "word": "ね",
+                "gloss": "sound"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "のみ",
+                "gloss": "only"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "なく",
+                "gloss": "cry.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "TOP": "topic particle",
+          "DAT": "dative particle",
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "END": "ending form",
+          "EMPH": "emphatic particle"
+        },
+        "translation-ja-natural": "まして女たちは船底に頭をつけて、ただ泣くばかりだ。",
         "translation-en-natural": "Moreover, the women, with their heads against the bottom of the boat, did nothing but cry."
       },
       {
