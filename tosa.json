@@ -13525,13 +13525,44 @@
         ]
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251128
+        ],
         "id": 141,
         "text": "そのうたふうたは、",
         "kana": "そのうたふうたは、",
         "koutei-yamagen": "そのうたふ歌は、",
         "translation-ja": "その歌う歌は、",
         "translation-en": "The song they sing is...",
+        "phrase-gloss": [
+          {
+            "phrase": "そのうたふ歌は、",
+            "gloss": "that sing.ATTR poem TOP",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "うたふ",
+                "gloss": "sing.ATTR"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ATTR": "attributive form",
+          "TOP": "topic particle"
+        },
         "translation-ja-natural": "船人が歌う歌は、",
         "translation-en-natural": "The song they sing is..."
       },
@@ -35607,11 +35638,11 @@
             "words": [
               {
                 "word": "見",
-                "gloss": "see.ADV.F"
+                "gloss": "see.ADV"
               },
               {
                 "word": "し",
-                "gloss": "PAST.ATTR"
+                "gloss": "PST.ATTR"
               },
               {
                 "word": "人",
@@ -35683,7 +35714,7 @@
             "words": [
               {
                 "word": "わかれ",
-                "gloss": "part.NEG.BASE"
+                "gloss": "part.ADV"
               },
               {
                 "word": "せ",
@@ -35751,7 +35782,7 @@
               },
               {
                 "word": "おほかれ",
-                "gloss": "many.REALIS.F"
+                "gloss": "many.REALIS"
               },
               {
                 "word": "ど",
@@ -35761,19 +35792,19 @@
           },
           {
             "phrase": "えつくさず",
-            "gloss": "cannot fully-express-NEG",
+            "gloss": "POT fully-express NEG",
             "words": [
               {
                 "word": "え",
-                "gloss": "NEG.POT"
+                "gloss": "POT^1"
               },
               {
                 "word": "つくさ",
-                "gloss": "fully-express.NEG.BASE"
+                "gloss": "fully-express.IRR"
               },
               {
                 "word": "ず",
-                "gloss": "NEG"
+                "gloss": "NEG^2"
               }
             ]
           }
