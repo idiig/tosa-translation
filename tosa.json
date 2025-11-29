@@ -13409,14 +13409,113 @@
         "translation-en-natural": "Moreover, the women, with their heads against the bottom of the boat, did nothing but cry."
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251127
+        ],
         "id": 140,
         "text": "かく思へば舟子楫取は船歌うたひて何とも思へらず。",
         "kana": "かくおもへばふなこかぢとりはふなうたうたひてなにともおもへらず。",
         "koutei-yamagen": "かく思えば舟子、楫取は船歌うたいて何とも思へらず。",
         "translation-ja": "こう思うに、水夫や船頭は船歌を歌い、何とも思わない。",
         "translation-en": "Thinking thus, the boatmen and the helmsman sing boat songs and think nothing of it.",
-        "translation-ja-natural": "こう思っていると、水夫や船頭はのんびりと船歌を口ずさみ、まるで気にも留めていないようです。",
+        "phrase-gloss": [
+          {
+            "phrase": "かく思えば舟子、楫取は",
+            "gloss": "thus think.IF boatman oarsman TOP",
+            "words": [
+              {
+                "word": "かく",
+                "gloss": "thus"
+              },
+              {
+                "word": "思え",
+                "gloss": "think.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              },
+              {
+                "word": "舟子",
+                "gloss": "boatman"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNC"
+              },
+              {
+                "word": "楫取",
+                "gloss": "oarsman"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "船歌うたひて",
+            "gloss": "boat.song sing.ADV",
+            "words": [
+              {
+                "word": "船歌",
+                "gloss": "boat.song"
+              },
+              {
+                "word": "うたひ",
+                "gloss": "sing.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "何とも思へらず。",
+            "gloss": "what QUOT also think PERF NEG",
+            "words": [
+              {
+                "word": "何",
+                "gloss": "what"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "思へ",
+                "gloss": "think.REALIS"
+              },
+              {
+                "word": "ら",
+                "gloss": "PERF.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "NEG": "negation particle",
+          "IRR": "irrealis form",
+          "REALIS": "realis form",
+          "COND": "conditional particle",
+          "PERF": "perfective",
+          "EMPH": "emphatic particle",
+          "TOP": "topic particle",
+          "CONJ": "conjunctive particle",
+          "PUNC": "punctuation"
+        },
+        "translation-ja-natural": "こう思っていると、水夫や船頭はのんびりと船歌を口ずさみ、まるで気にも留めていないようだ。",
         "translation-en-natural": "As I ponder this, the boatmen and the helmsman leisurely hum a tune, seeming completely unbothered.",
         "notes-ja": [
           {
