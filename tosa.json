@@ -13567,24 +13567,97 @@
         "translation-en-natural": "The song they sing is..."
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251129
+        ],
         "id": 142,
         "poem": "春の野にてぞ",
         "kana": "はるののにて",
         "koutei-yamagen": "春の野にてぞ",
         "translation-ja": "春の野でさ",
         "translation-en": "In the spring fields...",
+        "phrase-gloss": [
+          {
+            "phrase": "春の野にてぞ",
+            "gloss": "spring GEN field DAT EMPH",
+            "words": [
+              {
+                "word": "春",
+                "gloss": "spring"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "野",
+                "gloss": "field"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive",
+          "DAT": "dative particle",
+          "EMPH": "emphatic particle"
+        },
         "translation-ja-natural": "春の野でさ",
         "translation-en-natural": "In the spring fields..."
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251130
+        ],
         "id": 143,
         "poem": "音をばなく",
         "kana": "ねをばなく",
         "koutei-yamagen": "音をばなく",
         "translation-ja": "声を出して泣く",
         "translation-en": "Crying out loud...",
+        "phrase-gloss": [
+          {
+            "phrase": "音をばなく",
+            "gloss": "sound ACC EMPH cry",
+            "words": [
+              {
+                "word": "音",
+                "gloss": "sound"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "ば",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "なく",
+                "gloss": "cry.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "EMPH": "emphatic particle",
+          "ATTR": "attributive form"
+        },
         "translation-ja-natural": "声を出して泣く",
         "translation-en-natural": "Crying out loud..."
       },
