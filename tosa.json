@@ -13662,13 +13662,37 @@
         "translation-en-natural": "Crying out loud..."
       },
       {
-        "date": "20250315",
+        "date": "[0250315, 20251130]",
         "id": 144,
         "poem": "わが薄にて",
         "kana": "わがすすきにて",
         "koutei-yamagen": "with my young silver grasses",
         "translation-ja": "若薄にさ",
         "translation-en": "with young silver grasses",
+        "phrase-gloss": [
+          {
+            "phrase": "わが薄にて",
+            "gloss": "my silver.grass DAT CONJ",
+            "words": [
+              {
+                "word": "わが",
+                "gloss": "my"
+              },
+              {
+                "word": "薄",
+                "gloss": "silver.grass"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          }
+        ],
         "translation-ja-natural": "若薄にさ",
         "translation-en-natural": "with young silver grasses"
       },
