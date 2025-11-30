@@ -13662,7 +13662,10 @@
         "translation-en-natural": "Crying out loud..."
       },
       {
-        "date": "[0250315, 20251130]",
+        "date": [
+          20250315,
+          20251130
+        ],
         "id": 144,
         "poem": "わが薄にて",
         "kana": "わがすすきにて",
@@ -13697,24 +13700,83 @@
         "translation-en-natural": "with young silver grasses"
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251201
+        ],
         "id": 145,
         "poem": "手切る切る",
         "kana": "てきるきる",
         "koutei-yamagen": "手切る切る",
-        "translation-ja": "手を切り切りして",
+        "translation-ja": "手を切り切り",
         "translation-en": "cutting and cutting hands",
-        "translation-ja-natural": "手を切り切りして",
+        "phrase-gloss": [
+          {
+            "phrase": "手切る切る",
+            "gloss": "hand cut cut",
+            "words": [
+              {
+                "word": "手",
+                "gloss": "hand"
+              },
+              {
+                "word": "切る",
+                "gloss": "cut.END"
+              },
+              {
+                "word": "切る",
+                "gloss": "cut.END"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "END": "ending form"
+        },
+        "translation-ja-natural": "手を切り切り",
         "translation-en-natural": "cutting and cutting hands"
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251201
+        ],
         "id": 146,
         "poem": "つんだる菜を",
         "kana": "つんだるなを",
         "koutei-yamagen": "摘んだる菜を",
         "translation-ja": "摘んだ菜を",
         "translation-en": "the picked vegetables",
+        "phrase-gloss": [
+          {
+            "phrase": "摘んだる菜を",
+            "gloss": "picked.VOL vegetable ACC",
+            "words": [
+              {
+                "word": "摘ん",
+                "gloss": "picked.ADV"
+              },
+              {
+                "word": "だる",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "菜",
+                "gloss": "vegetable"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "PERF": "perfective",
+          "ATTR": "attributive form",
+          "ACC": "accusative particle"
+        },
         "translation-ja-natural": "摘んだ菜を",
         "translation-en-natural": "the picked vegetables"
       },
