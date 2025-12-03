@@ -13781,57 +13781,204 @@
         "translation-en-natural": "the picked vegetables"
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251202
+        ],
         "id": 147,
         "poem": "親やまぼるらむ",
         "kana": "おややまぼるらむ",
         "koutei-yamagen": "親やまぼるらむ",
         "translation-ja": "親が食べるのか",
         "translation-en": "Do the parents eat?",
+        "phrase-gloss": [
+          {
+            "phrase": "親やまぼるらむ",
+            "gloss": "parent Q gluttonize FUT",
+            "words": [
+              {
+                "word": "親",
+                "gloss": "parent"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "まぼる",
+                "gloss": "gluttonize.END"
+              },
+              {
+                "word": "らむ",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "CONJ": "conjunctive form",
+          "END": "ending form",
+          "FUT": "future tense",
+          "Q": "question particle"
+        },
         "translation-ja-natural": "親が食べるのか",
         "translation-en-natural": "Do the parents eat?"
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251202
+        ],
         "id": 148,
         "poem": "姑や食ふらむ",
         "kana": "しゅうとめやくふらむ",
         "koutei-yamagen": "姑や食ふらむ",
         "translation-ja": "姑が食べるのか",
         "translation-en": "Does the mother-in-law eat?",
+        "phrase-gloss": [
+          {
+            "phrase": "姑や食ふらむ",
+            "gloss": "mother.in.law Q eat FUT",
+            "words": [
+              {
+                "word": "姑",
+                "gloss": "mother.in.law"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "食ふ",
+                "gloss": "eat.END"
+              },
+              {
+                "word": "らむ",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "END": "ending form",
+          "FUT": "future tense",
+          "Q": "question particle"
+        },
         "translation-ja-natural": "姑が食べるのか",
         "translation-en-natural": "Does the mother-in-law eat?"
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251202
+        ],
         "id": 149,
         "poem": "かへらや",
         "kana": "かへらや",
         "koutei-yamagen": "かへらや",
         "translation-ja": "帰るのか",
         "translation-en": "Shall we go back?",
+        "phrase-gloss": [
+          {
+            "phrase": "かへらや",
+            "gloss": "return Q",
+            "words": [
+              {
+                "word": "かへら",
+                "gloss": "return.IRR"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "IRR": "irrealis form",
+          "Q": "question particle"
+        },
         "translation-ja-natural": "帰るのか",
         "translation-en-natural": "Shall we go back?"
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251202
+        ],
         "id": 150,
         "poem": "よんべのうなゐもがな",
         "kana": "よんべのうなゐもがな",
-        "koutei-yamagen": "夜べのうなゐもがな",
-        "translation-ja": "夜べの幼子も来ないかな",
-        "translation-en": "I wonder if a small kid will come tonight.",
-        "translation-ja-natural": "夜のちっちゃな子は来ないかな",
-        "translation-en-natural": "I wonder if a small child will come tonight."
+        "koutei-yamagen": "よんべのうなゐもがな",
+        "translation-ja": "ゆうべの幼子も来ないかな",
+        "translation-en": "I wonder if the child from last night will come.",
+        "phrase-gloss": [
+          {
+            "phrase": "よんべのうなゐもがな",
+            "gloss": "last night GEN bobbed.hair wish",
+            "words": [
+              {
+                "word": "よんべ",
+                "gloss": "last night"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "うなゐ",
+                "gloss": "bobbed.hair"
+              },
+              {
+                "word": "もがな",
+                "gloss": "desire"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive",
+          "EMPH": "emphatic particle",
+          "DESID": "desiderative particle"
+        },
+        "translation-ja-natural": "昨夜のおかっぱの子は来ないかな",
+        "translation-en-natural": "I wonder if the bobbed child from last night will come."
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251204
+        ],
         "id": 151,
         "poem": "ぜにこはむ",
         "kana": "ぜにこはむ",
         "koutei-yamagen": "銭乞はむ",
         "translation-ja": "お金を乞う",
         "translation-en": "Begging for money",
+        "phrase-gloss": [
+          {
+            "phrase": "銭乞はむ",
+            "gloss": "money beg FUT",
+            "words": [
+              {
+                "word": "銭",
+                "gloss": "money"
+              },
+              {
+                "word": "乞は",
+                "gloss": "beg.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "IRR": "irrealis form",
+          "FUT": "future tense"
+        },
         "translation-ja-natural": "お金をもらおう",
         "translation-en-natural": "Begging for money"
       },
