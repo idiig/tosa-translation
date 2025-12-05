@@ -13983,13 +13983,45 @@
         "translation-en-natural": "Begging for money"
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251205
+        ],
         "id": 152,
         "poem": "そらごとをして",
         "kana": "そらごとをして",
         "koutei-yamagen": "そらごとをして",
         "translation-ja": "嘘をついて",
         "translation-en": "Telling lies",
+        "phrase-gloss": [
+          {
+            "phrase": "そらごとをして",
+            "gloss": "lie ACC do.ADV",
+            "words": [
+              {
+                "word": "そらごと",
+                "gloss": "lie"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle"
+        },
         "translation-ja-natural": "嘘をついて",
         "translation-en-natural": "Telling lies"
       },
