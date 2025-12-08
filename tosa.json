@@ -14026,15 +14026,59 @@
         "translation-en-natural": "Telling lies"
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251208
+        ],
         "id": 153,
         "poem": "おぎのりわざをして",
         "kana": "おぎのりわざをして",
         "koutei-yamagen": "おぎのりわざをして",
         "translation-ja": "掛買いにして",
         "translation-en": "Buying on credit",
+        "phrase-gloss": [
+          {
+            "phrase": "おぎのりわざをして",
+            "gloss": "credit.purchase ACC do.ADV",
+            "words": [
+              {
+                "word": "おぎのりわざ",
+                "gloss": "credit.purchase"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle"
+        },
         "translation-ja-natural": "掛け買いにして",
-        "translation-en-natural": "Buying on credit"
+        "translation-en-natural": "Buying on credit",
+        "notes-ja": [
+          {
+            "title": "おぎのりわざについて",
+            "note": "「おぎのりわざ」は「掛け買い」の意味で、物を先に受け取り、後で代金を支払う取引方法を指します。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "About 'おぎのりわざ'",
+            "note": "'おぎのりわざ' refers to 'buying on credit,' a transaction method where goods are received first and payment is made later."
+          }
+        ]
       },
       {
         "date": "20250315",
