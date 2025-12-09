@@ -14081,24 +14081,96 @@
         ]
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251209
+        ],
         "id": 154,
         "poem": "銭も持て来ず",
         "kana": "ぜにももてきず",
         "koutei-yamagen": "銭も持て来ず",
         "translation-ja": "お金も持ってこない",
         "translation-en": "Without bringing money",
+        "phrase-gloss": [
+          {
+            "phrase": "銭も持て来ず",
+            "gloss": "money also hold come.NEG",
+            "words": [
+              {
+                "word": "銭",
+                "gloss": "money"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "持",
+                "gloss": "hold.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "来",
+                "gloss": "come.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "IRR": "irrealis form",
+          "NEG": "negation particle"
+        },
         "translation-ja-natural": "お金も持ってこない",
         "translation-en-natural": "Without bringing money"
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251210
+        ],
         "id": 155,
         "poem": "おのれだに来ず",
         "kana": "おのれだにこず",
         "koutei-yamagen": "おのれだに来ず",
         "translation-ja": "自分自身も来ない",
         "translation-en": "Even oneself does not come",
+        "phrase-gloss": [
+          {
+            "phrase": "おのれだに来ず",
+            "gloss": "oneself even come.NEG",
+            "words": [
+              {
+                "word": "おのれ",
+                "gloss": "oneself"
+              },
+              {
+                "word": "だに",
+                "gloss": "even"
+              },
+              {
+                "word": "来",
+                "gloss": "come.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "IRR": "irrealis form",
+          "NEG": "negation particle"
+        },
         "translation-ja-natural": "自分自身も来ない",
         "translation-en-natural": "Even oneself does not come",
         "notes-ja": {
@@ -17822,12 +17894,12 @@
           "GEN": "genitive (所属・連体修飾)",
           "ACC": "accusative (目的格)",
           "CVB": "converb (連用接続助詞)",
-          "IRR": "irrealis (未然形)",
           "COP": "copula (断定)",
           "COND": "conditional (条件)",
           "AUX": "auxiliary (助動的要素)",
           "PRF": "perfect (完了)",
           "REL": "relativizer (連体修飾)",
+          "IRR": "irrealis (未然形)",
           "EXCL": "exclamation (詠嘆)"
         },
         "translation-ja-natural": "ああ、はっきりしない...今日は子の日なのだろうか。私が海女だったら、せめて海松くらいは引いてみようものを。",
