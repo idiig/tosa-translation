@@ -16065,78 +16065,132 @@
           {
             "phrase": "かくは言ふものか、",
             "gloss": "thus TOP say thing Q,",
+	    "gloss-morph": "thus=TOP say-ADN thing=XCL",
+	    "gloss-zh": "这么说的吗",
+	    "gloss-morph-zh": "如此=TOP 说-ADN 东西=XCL",
             "words": [
               {
                 "word": "かく",
-                "gloss": "thus"
+                "gloss": "thus",
+		"gloss-zh": "",
+		"gloss-morph": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-zh": "",
+		"gloss-morph": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "言ふ",
-                "gloss": "say.ATTR"
+                "gloss": "say.ATTR",
+		"gloss-zh": "",
+		"gloss-morph": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "もの",
-                "gloss": "thing"
+                "gloss": "thing",
+		"gloss-zh": "",
+		"gloss-morph": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "か",
-                "gloss": "Q"
+                "gloss": "Q",
+		"gloss-zh": "",
+		"gloss-morph": "",
+		"gloss-morph-zh": ""
               }
             ]
           },
           {
             "phrase": "美しければにやあらむ、",
             "gloss": "beautiful.CAUS.CONJ COP Q EMPH",
+	    "gloss-zh": "",
+	    "gloss-morph": "",
+	    "gloss-morph-zh": ""
             "words": [
               {
                 "word": "美しけれ",
-                "gloss": "beautiful.IRR"
+                "gloss": "beautiful.IRR",
+		"gloss-zh": "",
+		"gloss-morph": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "ば",
-                "gloss": "CAUS"
+                "gloss": "CAUS",
+		"gloss-zh": "",
+		"gloss-morph": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "に",
-                "gloss": "COP.ADV"
+                "gloss": "COP.ADV",
+		"gloss-zh": "",
+		"gloss-morph": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "や",
-                "gloss": "Q"
+                "gloss": "Q",
+		"gloss-zh": "",
+		"gloss-morph": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "あら",
-                "gloss": "COP.IRR"
+                "gloss": "COP.IRR",
+		"gloss-zh": "",
+		"gloss-morph": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "む",
-                "gloss": "EMPH"
+                "gloss": "EMPH",
+		"gloss-zh": "",
+		"gloss-morph": "",
+		"gloss-morph-zh": ""
               }
             ]
           },
           {
             "phrase": "いと思はずなり。",
             "gloss": "very think.NEG become",
+	    "gloss-zh": "",
+	    "gloss-morph": "",
+	    "gloss-morph-zh": ""
             "words": [
               {
                 "word": "いと",
-                "gloss": "very"
+                "gloss": "very",
+		"gloss-zh": "",
+		"gloss-morph": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "思は",
-                "gloss": "think.IRR"
+                "gloss": "think.IRR",
+		"gloss-zh": "",
+		"gloss-morph": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "ず",
-                "gloss": "NEG"
+                "gloss": "NEG",
+		"gloss-zh": "",
+		"gloss-morph": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "なり",
-                "gloss": "become.END"
+                "gloss": "become.END",
+		"gloss-zh": "",
+		"gloss-morph": "",
+		"gloss-morph-zh": ""
               }
             ]
           }
@@ -16213,10 +16267,6 @@
               {
                 "word": "嫗",
                 "gloss": "old.woman"
-              },
-              {
-                "word": "、",
-                "gloss": "PUNCT"
               },
               {
                 "word": "翁",
@@ -16372,7 +16422,7 @@
               },
               {
                 "word": "事",
-                "gloss": ".things"
+                "gloss": "things"
               },
               {
                 "word": "あり",
@@ -17431,58 +17481,100 @@
           {
             "phrase": "この人々の深き志はこの海には劣らざるべし。",
             "gloss": "these people GEN deep devotion TOP this sea DAT not.less.FUT",
+	    "gloss-morph": "DEM=GEN person+person=GEN deep-ADN devotion=TOP DEM=GEN sea=DAT=TOP inferior-THM=NEG.VBL-ADN+NEC-CCL",
+	    "gloss-zh": "这些人深深的信念，应该不亚于这片海。",
+	    "gloss-morph-zh": "DEM=GEN 人+人=GEN 深-ADN 志=TOP DEM=GEN 海=DAT=TOP 不如-THM=NEG.VBL-ADN+NEC-CCL",
             "words": [
               {
                 "word": "この",
-                "gloss": "these"
+                "gloss": "these",
+		"gloss-morph": "DEM=GEN",
+		"gloss-zh": "这些",
+		"gloss-morph-zh": "DEM=GEN"
               },
               {
                 "word": "人々",
-                "gloss": "people"
+                "gloss": "people",
+		"gloss-morph": "person+person",
+		"gloss-zh": "人们",
+		"gloss-morph-zh": "人+人"
               },
               {
                 "word": "の",
-                "gloss": "GEN"
+                "gloss": "GEN",
+		"gloss-morph": "=GEN",
+		"gloss-zh": "的",
+		"gloss-morph-zh": "=GEN"
               },
               {
                 "word": "深き",
-                "gloss": "deep.ATTR"
+                "gloss": "deep.ATTR",
+		"gloss-morph": "deep-ADN",
+		"gloss-zh": "深深的",
+		"gloss-morph-zh": "深-ADN"
               },
               {
                 "word": "志",
-                "gloss": "devotion"
+                "gloss": "devotion",
+		"gloss-morph": "devotion",
+		"gloss-zh": "信念",
+		"gloss-morph-zh": "信念"
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "是",
+		"gloss-morph-zh": "=TOP"
               },
               {
                 "word": "この",
-                "gloss": "this"
+		"gloss": "this",
+		"gloss-morph": "DEM=GEN",
+		"gloss-zh": "这",
+		"gloss-morph-zh": "DEM=GEN"
               },
               {
                 "word": "海",
-                "gloss": "sea"
+                "gloss": "sea",
+		"gloss-morph": "sea",
+		"gloss-zh": "海",
+		"gloss-morph-zh": "海"
               },
               {
                 "word": "に",
-                "gloss": "DAT"
+                "gloss": "DAT",
+		"gloss-morph": "=DAT",
+		"gloss-zh": "",
+		"gloss-morph-zh": "=DAT"
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "是",
+		"gloss-morph-zh": "=TOP"
               },
               {
                 "word": "劣ら",
-                "gloss": "inferior.IRR"
+                "gloss": "inferior.IRR",
+		"gloss-morph": "inferior-THM",
+		"gloss-zh": "不如",
+		"gloss-morph-zh": "不如-THM",
               },
               {
                 "word": "ざる",
-                "gloss": "NEG.ATTR"
+                "gloss": "NEG.ATTR",
+		"gloss-morph": "=NEG.VBL-AND",
+		"gloss-zh": "不",
+		"gloss-morph-zh": "=NEG.VBL-ADN",
               },
               {
                 "word": "べし",
-                "gloss": "FUT"
+                "gloss": "FUT",
+		"gloss-morph": "+NEC-CCL",
+		"gloss-zh": "应该", 
+		"gloss-morph-zh": "+NEC-CCL"
               }
             ]
           }
@@ -17602,31 +17694,42 @@
         "koutei-yamagen": "これより今は漕ぎ離れて往く。",
         "translation-ja": "ここから、今、漕ぎ離れて行く。",
         "translation-en": "From here, now, row away and go.",
-	"translation-zh": "自此，现在驶船离开前往。",
+	"translation-zh": "自此，现在驶船离去。",
         "phrase-gloss": [
           {
             "phrase": "これより、今は漕ぎ離れて行く。",
             "gloss": "this from now TOP row.leave.ADV go",
+	    "gloss-morph": "DEM=ABL now=TOP row-ADV leave-ADV=SEQ go-CCL",
+	    "gloss-zh": "从这里，现在驶船离去",
+	    "gloss-morph-zh": "DEM=ABL 现在=TOP 驶船-ADV 离开-ADV=SEQ 去-CCL",
             "words": [
               {
                 "word": "これ",
-                "gloss": "this"
+                "gloss": "this",
+		"gloss-morph": "DEM",
+		"gloss-zh": "这里",
+		"gloss-morph-zh": "DEM"
               },
               {
                 "word": "より",
-                "gloss": "from"
-              },
-              {
-                "word": "、",
-                "gloss": ","
+                "gloss": "from",
+		"gloss-morph": "=ABL",
+		"gloss-zh": "从",
+		"gloss-morph-zh": "=ABL"
               },
               {
                 "word": "今",
-                "gloss": "now"
+                "gloss": "now",
+		"gloss-morph": "now",
+		"gloss-zh": "现在",
+		"gloss-morph-zh": "现在"
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "=TOP",
+		"gloss-zh": "",
+		"gloss-morph-zh": "=TOP"
               },
               {
                 "word": "漕ぎ",
