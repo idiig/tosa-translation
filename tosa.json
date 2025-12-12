@@ -3081,8 +3081,8 @@
         "id": 19,
         "text": "廿六日、なほ守のたちにてあるじしのゝしりてをのこらまでに物かづけたり。",
         "kana": "はつかあまりむいか、なほかみのたちにてあるじしののしりてをのこらまでにものかづけたり。",
-        "koutei-yamagen": "二十六日、なお守の館にて主人し罵りて男らまでに物かづけたり。",
-        "translation-ja": "二十六日、やはり守の館で饗応し、騒ぎ立てて、男たちにまで物を与えた。",
+	"koutei-yamagen": "二十六日、なお守の館にて主人し罵りて男らまでに物かづけたり。",
+	"translation-ja": "二十六日、やはり守の館で饗応し、騒ぎ立てて、男たちにまで物を与えた。",
         "translation-en": "On the twenty-sixth, again at the governor’s residence, he hosted a feast, made a commotion, and bestowed gifts even upon the men.",
         "translation-zh": "廿六日，还是在国守邸，（宅主）招待了（我们），吵闹着，连男人们都送了东西。",
         "phrase-gloss": [
@@ -3176,8 +3176,8 @@
               },
               {
                 "word": "のゝしり",
-                "gloss": "make.noise.ADV.F",
-                "gloss-morph": "make.noise-ADV",
+                "gloss": "make.noise.ADV",
+		"gloss-morph": "make.noise-ADV",
                 "gloss-zh": "喧闹",
                 "gloss-morph-zh": "喧闹-ADV"
               },
@@ -5775,8 +5775,8 @@
           },
           {
             "phrase": "忘れつつ",
-            "gloss": "forgetting (continually)",
-            "gloss-morph": "forget-ADV+ITR",
+            "gloss": "forgetting",
+	    "gloss-morph": "forget-ADV+ITR",
             "gloss-zh": "忘记了又",
             "gloss-morph-zh": "忘记-ADV+ITR",
             "words": [
@@ -5789,7 +5789,7 @@
               },
               {
                 "word": "つつ",
-                "gloss": "CONJ.PROG",
+		"gloss": "CONJ",
                 "gloss-morph": "+ITR",
                 "gloss-zh": "",
                 "gloss-morph-zh": "+ITR"
@@ -11706,6 +11706,7 @@
           },
           {
             "phrase": "白馬を思へど",
+	    "gloss": "white.horse-ACC think.BUT",
             "gloss": "white.horse-ACC think-although",
 	    "gloss-morph": "white+horse=ACC think-INC=XCC",
 	    "gloss-zh": "虽想着白马，但",
@@ -11734,7 +11735,7 @@
               },
               {
                 "word": "ど",
-                "gloss": "although",
+                "gloss": "BUT",
 		"gloss-morph": "=XCC",
 		"gloss-zh": "虽然...但",
 		"gloss-morph-zh": "=XCC"
@@ -11762,7 +11763,7 @@
           "TOP": "topic particle",
           "ACC": "accusative particle",
           "REALIS": "realis mood",
-          "although": "concessive particle"
+          "BUT": "concessive particle"
         },
         "translation-ja-natural": "今日は白馬の節会の日。でも、白馬の節会のことを思い出しても、ここにいるんじゃ意味がない。",
         "translation-en-natural": "Today is the day of the White Horse Festival. But thinking about the festival while stuck here feels pointless.",
@@ -16982,7 +16983,10 @@
         ]
       },
       {
-        "date": "20250306",
+        "date": [
+          20250306,
+          20251107
+        ],
         "id": 118,
         "text": "とや。",
         "kana": "とや。",
@@ -16990,25 +16994,144 @@
         "translation-ja": "ということである。",
         "translation-en": "That is what it means.",
         "translation-zh": "所谓。",
-        "translation-ja-natural": "というわけです。",
+        "phrase-gloss": [
+          {
+            "phrase": "とや。",
+            "gloss": "QUOT Q.",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "QUOT": "quotative particle",
+          "Q": "question particle"
+        },
+        "translation-ja-natural": "というわけだ。",
         "translation-en-natural": "So, that's how it is.",
-        "translation-zh-natural": "就是这样。"
+	"translation-zh-natural": "就是这样。"
       },
       {
-        "date": "20250306",
+        "date": [
+          20250306,
+          20251108
+        ],
         "id": 119,
         "text": "九日、つとめて大湊より那波の泊をおはむとて漕ぎ出でにけり。",
         "kana": "ここのか、つとめておおみなとよりなばのとまりをおはむとてこぎいでにけり。",
         "koutei-yamagen": "九日、つとめて大湊より那波の泊をおはむとて漕ぎ出でにけり。",
         "translation-ja": "九日の朝早く、大湊から那波の泊へ着こうとして、漕ぎ出した。",
-        "translation-en": "On the ninth day, early in the morning, they rowed out from Ominato, intending to arrive at Naba Anchorage.",
-        "translation-zh": "九日一早，欲自大湊抵达那波的泊地，使船出发了。",
-        "translation-ja-natural": "九日の朝早く、大湊を出発して、那波の泊を目指して船を漕ぎ出しました。",
-        "translation-en-natural": "Early in the morning on the ninth day, they set sail from Ominato, heading toward Naba Anchorage.",
-        "translation-zh-natural": "九日一早，他们从大湊出发，划船前往那波的泊地。"
+        "translation-en": "On the ninth day, early in the morning, we rowed out from Ominato, intending to arrive at Naba Anchorage.",
+	"translation-zh": "九日一早，欲自大湊抵达那波的泊地，使船出发了。",
+        "phrase-gloss": [
+          {
+            "phrase": "九日、つとめて",
+            "gloss": "ninth.day, early.morning",
+            "words": [
+              {
+                "word": "九日",
+                "gloss": "ninth.day"
+              },
+              {
+                "word": "、",
+                "gloss": ","
+              },
+              {
+                "word": "つとめて",
+                "gloss": "early.morning"
+              }
+            ]
+          },
+          {
+            "phrase": "大湊より那波の泊をおはむとて",
+            "gloss": "Ominato from Naba GEN anchorage ACC arrive.INTEND CONJ",
+            "words": [
+              {
+                "word": "大湊",
+                "gloss": "Ominato"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              },
+              {
+                "word": "那波",
+                "gloss": "Naba"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "泊",
+                "gloss": "anchorage"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "おは",
+                "gloss": "arrive.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "漕ぎ出でにけり。",
+            "gloss": "row.out PERF PST",
+            "words": [
+              {
+                "word": "漕ぎ出で",
+                "gloss": "row.out.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF,ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "GEN": "genitive",
+          "FUT": "future tense",
+          "CONJ": "conjunctive particle",
+          "PERF": "perfective aspect",
+          "PST": "past tense",
+          "ATTR": "attributive form"
+        },
+        "translation-ja-natural": "九日の朝早く、大湊を出発して、那波の泊を目指して船を漕ぎ出した。",
+        "translation-en-natural": "Early in the morning on the ninth day, we set sail from Ominato, heading toward Naba Anchorage.",
+	"translation-zh-natural": "九日一早，他们从大湊出发，划船前往那波的泊地。"
       },
       {
-        "date": "20250307",
+        "date": [
+          20250307,
+          20251109
+        ],
         "id": 120,
         "text": "これかれ互に國の境の内はとて見おくりにくる人數多が中に藤原のときざね、橘の季衡、長谷部の行政等なむみたちより出でたうびし日より此所彼所におひくる。",
         "kana": "これかれたがひにくにのさかひのうちはとてみおくりにくるひとあまたがなかにふぢはらのときざね、たちばなのすゑひら、はせべのゆきまさらなむみたちよりいでたうびしひよりここかしこにおひくる。",
@@ -17016,26 +17139,287 @@
         "translation-ja": "この人あの人互いに、国の境の内はと言って見送りに来る人、その多くの人々の中には、藤原のときざね、橘の季衡、長谷部の行政らがいたが、彼らは国司の館を出発した日からあちらこちらへと追ってくる。",
         "translation-en": "These people, saying that as long as it was within the borders of the province, came to see them off. Among the many people, there were Fujiwara no Tokizane, Tachibana no Suehira, and Hasebe no Yukinari, who had been following them from place to place since the day they departed from the provincial governor's residence.",
         "translation-zh": "这个那个，一个个想着“在国境内的话”，前来送行之人，在众多之中，藤原时实、橘季衡、长谷部行政等，从宅邸出发的日子开始，跟随到这里那里。",
-        "translation-ja-natural": "あの人もこの人も、かわるがわる、国の境の内にいるうちはと言って見送りに来る多くの人の中でも、藤原のときざね、橘の季衡、長谷部の行政らは、国司の館を出発した日以来、ずっとあちらこちらへと追いかけてきています。",
-        "translation-en-natural": "One person after another came to see them off, saying that as long as they were still within the provincial borders, they would do so. Among the many people who came to see them off, Fujiwara no Tokizane, Tachibana no Suehira, and Hasebe no Yukinari had been following them from place to place ever since they departed from the provincial governor's residence.",
+        "phrase-gloss": [
+          {
+            "phrase": "これかれ互ひに国の境の内はとて見送りにくる人、数多が中に、",
+            "gloss": "this person and that person mutually PROV GEN border GEN inside TOP say see.off come.PRES person, many GEN among LOC,",
+            "words": [
+              {
+                "word": "これ",
+                "gloss": "this"
+              },
+              {
+                "word": "かれ",
+                "gloss": "that"
+              },
+              {
+                "word": "互ひに",
+                "gloss": "mutually"
+              },
+              {
+                "word": "国",
+                "gloss": "province"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "境",
+                "gloss": "border"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "内",
+                "gloss": "inside"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "とて",
+                "gloss": "say"
+              },
+              {
+                "word": "見送り",
+                "gloss": "see.off.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "ALL"
+              },
+              {
+                "word": "くる",
+                "gloss": "come"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "、",
+                "gloss": ","
+              },
+              {
+                "word": "数多",
+                "gloss": "many"
+              },
+              {
+                "word": "が",
+                "gloss": "GEN"
+              },
+              {
+                "word": "中",
+                "gloss": "among"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "藤原のときざね、橘の季衡、長谷部の行政等なむ御館より出で給びし日より此所彼所に追ひくる。",
+            "gloss": "Fujiwara GEN Tokizane, Tachibana GEN Suehira, Hasebe GEN Yukinari etc EMPH provincial.governor.GEN residence from depart.HON PST day from here.there LOC chase.PRES",
+            "words": [
+              {
+                "word": "藤原",
+                "gloss": "Fujiwara.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ときざね",
+                "gloss": "Tokizane.PN"
+              },
+              {
+                "word": "、",
+                "gloss": ","
+              },
+              {
+                "word": "橘",
+                "gloss": "Tachibana.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "季衡",
+                "gloss": "Suehira.PN"
+              },
+              {
+                "word": "、",
+                "gloss": ","
+              },
+              {
+                "word": "長谷部",
+                "gloss": "Hasebe.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "行政",
+                "gloss": "Yukinari.PN"
+              },
+              {
+                "word": "等",
+                "gloss": "etc"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "御館",
+                "gloss": "residence"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              },
+              {
+                "word": "出で",
+                "gloss": "depart.ADV"
+              },
+              {
+                "word": "給び",
+                "gloss": "HON.ADV"
+              },
+              {
+                "word": "し",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "日",
+                "gloss": "day"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              },
+              {
+                "word": "此所",
+                "gloss": "here"
+              },
+              {
+                "word": "彼所",
+                "gloss": "there"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "追ひくる",
+                "gloss": "chase"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PN": "proper noun",
+          "GEN": "genitive",
+          "PROV": "provisional particle",
+          "TOP": "topic particle",
+          "PST": "past tense",
+          "LOC": "locative particle",
+          "EMPH": "emphatic particle",
+          "HON": "honorific",
+          "ATTR": "attributive form",
+          "ALL": "allative particle"
+        },
+        "translation-ja-natural": "あの人もこの人も、かわるがわる、国の境の内にいるうちはと言って見送りに来る多くの人の中でも、藤原のときざね、橘の季衡、長谷部の行政らは、国司の館を出発した日以来、ずっとあちらこちらへと追いかけてくる。",
+        "translation-en-natural": "One person after another came to see us off, saying that as long as we were still within the provincial borders, they would do so. Among the many people who came to see them off, Fujiwara no Tokizane, Tachibana no Suehira, and Hasebe no Yukinari had been following us from place to place ever since we departed from the provincial governor's residence.",
         "translation-zh-natural": "大家一个个都是想着“既然是在国境内的话”前来为国守送行的人。在这众多送行的人当中，藤原时实、橘季衡、长谷部行政等仍，自从从国守从宅邸出发以来，一直跟随着他们来到这里那里。",
-        "notes-ja": "藤原のときざね、橘のすえひら、長谷部のゆきまさの漢字表記は不確定であるが、一般的にはそれぞれ「時実」「季衡」「行政」と推定されることが多い。"
+        "notes-ja": [
+          {
+            "title": "ときざね、すえひら、ゆきまさの漢字表記について",
+            "note": "藤原のときざね、橘のすえひら、長谷部のゆきまさの漢字表記は不確定であるが、一般的にはそれぞれ「時実」「季衡」「行政」と推定されることが多い。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Regarding the kanji representation of Tokizane, Suehira, and Yukimasa",
+            "note": "The kanji representation of Fujiwara no Tokizane, Tachibana no Suehira, and Hasebe no Yukimasa is uncertain, but they are commonly presumed to be 'Tokizane' (時実), 'Suehira' (季衡), and 'Yukinari' (行政) respectively."
+          }
+        ]
       },
       {
-        "date": "20250308",
+        "date": [
+          20250308,
+          20251110
+        ],
         "id": 121,
         "text": "この人々ぞ志ある人なりける。",
         "kana": "このひとびとそころひあるひとなりける。",
         "koutei-yamagen": "この人々ぞ志ある人なりける。",
         "translation-ja": "この人々は志のある人であった。",
         "translation-en": "These were people of true devotion.",
-        "translation-zh": "这些人们啊，是有志之士了。",
-        "translation-ja-natural": "この人たちは、本当に心のこもった人々でした。",
+	"translation-zh": "这些人们啊，是有志之士了。",
+        "phrase-gloss": [
+          {
+            "phrase": "この人々ぞ志ある人なりける。",
+            "gloss": "these people EMPH devotion exist.PST.ATTR",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "these"
+              },
+              {
+                "word": "人々",
+                "gloss": "people"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "志",
+                "gloss": "devotion"
+              },
+              {
+                "word": "ある",
+                "gloss": "exist.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "なり",
+                "gloss": "be.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "EMPH": "emphatic particle",
+          "PST": "past tense",
+          "ATTR": "attributive form",
+          "IRR": "irrealis"
+        },
+        "translation-ja-natural": "この人たちは、本当に心のこもった人々だった。",
         "translation-en-natural": "These people were truly sincere and devoted.",
         "translation-zh-natural": "这些人真是有心之人。"
       },
       {
-        "date": "20250308",
+        "date": [
+          20250308,
+          20251111
+        ],
         "id": 122,
         "text": "この人々の深き志はこの海には劣らざるべし。",
         "kana": "このひとびとのふかきこころざしはこのうみにはおとらざるべし。",
@@ -17043,103 +17427,669 @@
         "translation-ja": "この人々の深い志は、この海にも劣らないだろう。",
         "translation-en": "The deep devotion of these people should be no less than the depth of this sea.",
         "translation-zh": "这些人们的深深的信念，应该不亚于这片海。",
+        "phrase-gloss": [
+          {
+            "phrase": "この人々の深き志はこの海には劣らざるべし。",
+            "gloss": "these people GEN deep devotion TOP this sea DAT not.less.FUT",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "these"
+              },
+              {
+                "word": "人々",
+                "gloss": "people"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "深き",
+                "gloss": "deep.ATTR"
+              },
+              {
+                "word": "志",
+                "gloss": "devotion"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "劣ら",
+                "gloss": "inferior.IRR"
+              },
+              {
+                "word": "ざる",
+                "gloss": "NEG.ATTR"
+              },
+              {
+                "word": "べし",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive",
+          "TOP": "topic particle",
+          "DAT": "dative particle",
+          "IRR": "irrealis",
+          "NEG": "negation particle",
+          "FUT": "future tense",
+          "ATTR": "attributive form",
+          "ADV": "adverbial form"
+        },
         "translation-ja-natural": "この人々の深い信念は、この海の深さにも劣らないでしょう。",
         "translation-en-natural": "The deep devotion of these people is no less than the depth of the sea.",
-        "translation-zh-natural": "这些人们对国守的信念，应该不亚于这片海的深度。",
-        "notes-ja": {
-          "「志」の意味": "「志」は、人が持つ信念や意志、目標を指す。この文脈では、人々が持つ強い信念や意志を表している。",
-          "「海」の比喩": "「この海」は、人々の志の深さを表す比喩として用いられている。海は広大で深いものとして知られており、その深さは人々の志の深さに喩えられている。",
-          "「劣らざるべし」の意味": "「劣らざるべし」は、古語で「劣らないだろう」という意味。この文脈では、人々の志の深さが海の深さに劣らないことを強調している。",
-          "見送りが形式ではなく「宴会の口実」になっていること": "何度も宴会が繰り返されている点を見逃している。貢ぎ物とセットになっている点を軽視している。",
-          "見送りの本来の目的が、実は「貫之への忠誠」ではなかったこと": "「志」を「忠誠心」として解釈するのが一般的だが、実際には「宴会をしたい信念」だった。「何回も追いかけてくることの不自然さ」に注目していない。",
-          "「海の深さにも劣らぬ信念」が皮肉であること": "これまでの解釈では「純粋な称賛」として説明されることが多い。しかし、文脈的に見ると「もういい加減にしてくれ！」という貫之の心情が透けて見える。",
-          "宴会のために追いかける人々と、うんざりする貫之": "『土佐日記』の見送りの場面は、ただの別れの儀式ではない。見送りに来る人々は、貫之一行に貢ぎ物を持ってくるが、ついでに舟の上で宴会を開き、それを楽しんで帰っていく。これは一度だけのことではなく、何度も繰り返される。特に藤原の時実と橘の季衡は、すでに見送りに来たにもかかわらず、また陸路で追いかけてきた。長谷部の行政も新たに加わり、まるで「見送り」という名目で宴会に参加するために駆けつけているかのようだ。貫之はホストとして彼らを迎え、笑顔で「また会えましたね」と言うが、心の中では「何回見送るんだよ！」とうんざりしている。だからこそ、貫之は「この人々の深き志はこの海には劣らざるべし」と書いたのだ。これは単なる称賛ではなく、宴会への執念に対する皮肉だったのではないか。見送りという口実で宴会を開き、それを最後までやり遂げようとする彼らの「信念」は、確かに深い。しかし、それは貫之への忠誠心ではなく、「国の境に行けば、また宴会ができる！」という強い願望に基づくものだったのではないか。宴会が終わったと思えば、また次の宴会が始まる。貫之は、そんな終わらない宴会地獄に巻き込まれていたのかもしれない。"
-        },
-        "notes-zh": {
-          "【志】的意思": "【志】是指人们所持有的信念、意志和目标。在这个语境中，指的是人们所持有的强烈信念和意志。",
-          "【海】的比喻": "【海】作为比喻，用来表示人们志向的深度。海被认为是广阔而深邃的，因此其深度被用来比喻人们的志向之深。",
-          "「劣らざるべし」的意思": "「劣らざるべし」是古语，意为「不会逊色」。在这个语境中，强调人们的志向之深不亚于海的深度。",
-          "见送并非形式，而是宴会的借口": "多次宴会的举行被忽视了。贡品与宴会结合的点被轻视了。",
-          "见送的真正目的并非对贯之的忠诚": "将“志”解读为“忠诚心”是常见的，但实际上是“想要举办宴会的信念”。没有注意到“多次追赶的不自然性”。",
-          "“不亚于海的深度的信念”是讽刺": "以往的解读多将其视为“纯粹的赞美”。然而，从语境来看，贯之的心情透出“够了！”的感受。",
-          "为了宴会而追赶的人们和厌烦的贯之": "`土佐日记`中的见送场景并非只是告别仪式。来送行的人们带着贡品，但顺便在船上举行宴会，享受之后才离开。这并非一次性的事情，而是多次重复发生。特别是藤原时实和橘季衡，已经来过送行，却又陆路追赶而来。长谷部行政也新加入，仿佛是为了参加宴会而赶来。贯之作为主人迎接他们，笑着说“又见面了”，但内心却在想“到底要送多少次啊！”因此，贯之写下了“この人々の深き志はこの海には劣らざるべし”。这并非单纯的赞美，而是对宴会执念的讽刺。见送作为借口举行宴会，并试图一直进行下去，他们的“信念”确实很深。然而，这并非对贯之的忠诚，而是基于“只要到国境，就能再次举行宴会！”的强烈愿望。宴会结束后，又开始下一场宴会。贯之可能被卷入了这种永无止境的宴会地狱。"
-        }
+	"translation-zh-natural": "这些人们对国守的信念，应该不亚于这片海的深度。",
+        "notes-ja": [
+          {
+            "title": "「志」の意味",
+            "note": "「志」は、人が持つ信念や意志、目標を指す。この文脈では、人々が持つ強い信念や意志を表している。"
+          },
+          {
+            "title": "「海」の比喩",
+            "note": "「この海」は、人々の志の深さを表す比喩として用いられている。海は広大で深いものとして知られており、その深さは人々の志の深さに喩えられている。"
+          },
+          {
+            "title": "「劣らざるべし」の解釈",
+            "note": "「劣らざるべし」は、古語で「劣らないだろう」という意味。この文脈では、人々の志の深さが海の深さに劣らないことを強調している。"
+          },
+          {
+            "title": "見送りが形式ではなく「宴会の口実」になっていること",
+            "note": "何度も宴会が繰り返されている点を見逃している。貢ぎ物とセットになっている点を軽視している。"
+          },
+          {
+            "title": "見送りの本来の目的が、実は「貫之への忠誠」ではなかったこと",
+            "note": "「志」を「忠誠心」として解釈するのが一般的だが、実際には「宴会をしたい信念」だった。「何回も追いかけてくることの不自然さ」に注目していない。"
+          },
+          {
+            "title": "「海の深さにも劣らぬ信念」が皮肉であること",
+            "note": "これまでの解釈では「純粋な称賛」として説明されることが多い。しかし、文脈的に見ると「もういい加減にしてくれ！」という貫之の心情が透けて見える。"
+          },
+          {
+            "title": "宴会のために追いかける人々と、うんざりする貫之",
+            "note": "『土佐日記』の見送りの場面は、ただの別れの儀式ではない。見送りに来る人々は、貫之一行に貢ぎ物を持ってくるが、ついでに舟の上で宴会を開き、それを楽しんで帰っていく。これは一度だけのことではなく、何度も繰り返される。特に藤原の時実と橘の季衡は、すでに見送りに来たにもかかわらず、また陸路で追いかけてきた。長谷部の行政も新たに加わり、まるで「見送り」という名目で宴会に参加するために駆けつけているかのようだ。貫之はホストとして彼らを迎え、笑顔で「また会えましたね」と言うが、心の中では「何回見送るんだよ！」とうんざりしている。だからこそ、貫之は「この人々の深き志はこの海には劣らざるべし」と書いたのだ。これは単なる称賛ではなく、宴会への執念に対する皮肉だったのではないか。見送りという口実で宴会を開き、それを最後までやり遂げようとする彼らの「信念」は、確かに深い。しかし、それは貫之への忠誠心ではなく、「国の境に行けば、また宴会ができる！」という強い願望に基づくものだったのではないか。宴会が終わったと思えば、また次の宴会が始まる。貫之は、そんな終わらない宴会地獄に巻き込まれていたのかもしれない。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Meaning of '志' (kokorozashi)",
+            "note": "'志' refers to a person's beliefs, will, or goals. In this context, it represents the strong convictions or intentions held by the people."
+          },
+          {
+            "title": "Metaphor of '海' (umi)",
+            "note": "'この海' (this sea) is used as a metaphor to represent the depth of people's convictions. The sea is known for its vastness and depth, which is likened to the depth of people's devotion."
+          },
+          {
+            "title": "Interpretation of '劣らざるべし' (otorazaru beshi)",
+            "note": "'劣らざるべし' is an archaic expression meaning 'should not be inferior.' In this context, it emphasizes that the depth of people's convictions is not inferior to the depth of the sea."
+          },
+          {
+            "title": "The fact that the farewell is not just a formality but a 'pretext for banquets'",
+            "note": "The repeated banquets are overlooked. The point that they are paired with offerings is underestimated."
+          },
+          {
+            "title": "The original purpose of the farewell was not actually 'loyalty to Tsurayuki'",
+            "note": "It is common to interpret '志' as 'loyalty,' but in reality, it was 'the belief in wanting to have banquets.' The unnaturalness of 'chasing after multiple times' is not focused on."
+          },
+          {
+            "title": "The irony of 'a belief no less than the depth of the sea'",
+            "note": "In previous interpretations, it is often explained as 'pure praise.' However, looking at the context, one can see Kanenari's feelings of 'Enough already!' shining through."
+          },
+          {
+            "title": "People chasing after for banquets and the exasperated Tsurayuki",
+            "note": "The farewell scene in 'Tosa Nikki' is not just a ritual of parting. The people who come to see off Tsurayuki's party bring offerings, but they also hold banquets on the boat and enjoy themselves before returning. This is not a one-time occurrence but is repeated multiple times. Especially Fujiwara no Tokizane and Tachibana no Suehira, who had already come to see them off, chased after them again by land. Hasebe no Yukinari also joined anew, as if they were rushing to participate in the banquet under the pretext of 'farewell.' Kanenari welcomes them as a host, saying with a smile, 'We meet again,' but in his heart, he is exasperated, thinking, 'How many times are we going to say goodbye!' That's why Tsurayuki wrote, 'The deep devotion of these people should be no less than the depth of this sea.' This was not mere praise but irony towards their obsession with banquets. Their 'belief,' which aimed to hold banquets under the pretext of farewell and see it through to the end, was indeed deep. However, it was not loyalty to Tsurayuki but rather based on a strong desire of 'If we reach the provincial border, we can have another banquet!' After one banquet ends, another begins. Tsurayuki might have been caught up in such an endless banquet hell."
+          }
+        ],
+	"notes-zh": [
+	  {
+	    "title": "「志」的含义",
+	    "note": "「志」指的是一个人所持有的信念、意志或目标。在这个语境中，它代表了人们所持有的强烈信念或意图。"
+	  },
+	  {
+	    "title": "「海」的比喻",
+	    "note": "「この海」（这片海）被用作比喻，代表人们信念的深度。海以其广阔和深邃而闻名，这被比作人们信念的深度。"
+	  },
+	  {
+	    "title": "「劣らざるべし」的解释",
+	    "note": "「劣らざるべし」是一个古老的表达，意思是“不应逊色”。在这个语境中，它强调了人们信念的深度不逊于海的深度。"
+	  },
+	  {
+	    "title": "送行不仅仅是形式，而是“宴会的借口”这一事实",
+	    "note": "忽略了反复举行宴会的情况。低估了它们与贡品配套出现的事实。"
+	  },
+	  {
+	    "title": "送行的真正目的实际上并非“对贯之的忠诚”",
+	    "note": "通常将“志”解释为“忠诚”，但实际上，它是“想要举行宴会的信念”。没有关注到“多次追赶”的不自然之处。"
+	  },
+	  {
+	    "title": "“不逊色于海洋深度的信念”的讽刺意味",
+	    "note": "在以往的解释中，它常被解释为“纯粹的赞美”。然而，观察上下文，可以看到贯之内心中的“够了！”情绪。"
+	  },
+	  {
+	    "title": "为了宴会而追赶的人们与感到厌烦的贯之",
+	    "note": "《土佐日记》中的送行场景不仅仅是一个告别仪式。前来送行的人们带来了贡品，但他们还在船上举行宴会，享受自己，然后返回。这不是一次性的事件，而是多次重复发生。特别是藤原时实和橘季衡，他们已经来送行了，却又通过陆路再次追赶他们。长谷部行政也新加入了，就好像他们是在“送行”的名义下赶来参加宴会一样。贯之作为主人欢迎他们，微笑着说：“我们又见面了”，但在他心里，他感到厌烦，想着：“我们要说多少次再见！”这就是为什么贯之写道：“这些人们的深深的信念，应该不亚于这片海。”这不仅仅是赞美，而是对他们对宴会的执着的讽刺。他们以送行为借口举行宴会并坚持到底的“信念”确实很深。然而，这并不是对贯之的忠诚，而是基于一种强烈的愿望：“如果我们到达省界，我们就可以再举行一次宴会！”一场宴会结束后，另一场又开始了。贯之可能已经陷入了这样一个无尽的宴会地狱中。"
+	  }
+	]
       },
       {
-        "date": "20250309",
+        "date": [
+          20250309,
+          20251112
+        ],
         "id": 123,
         "text": "これより今は漕ぎ離れて往く。",
         "kana": "これよりいまはこぎはなれてゆく。",
         "koutei-yamagen": "これより今は漕ぎ離れて往く。",
         "translation-ja": "ここから、今、漕ぎ離れて行く。",
         "translation-en": "From here, now, row away and go.",
-        "translation-zh": "自此，现在驶船离开前往。",
-        "translation-ja-natural": "ここから今、船を漕ぎ出して陸から離れていきます。",
+	"translation-zh": "自此，现在驶船离开前往。",
+        "phrase-gloss": [
+          {
+            "phrase": "これより、今は漕ぎ離れて行く。",
+            "gloss": "this from now TOP row.leave.ADV go",
+            "words": [
+              {
+                "word": "これ",
+                "gloss": "this"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              },
+              {
+                "word": "、",
+                "gloss": ","
+              },
+              {
+                "word": "今",
+                "gloss": "now"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "漕ぎ",
+                "gloss": "row.ADV"
+              },
+              {
+                "word": "離れ",
+                "gloss": "leave.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "行く",
+                "gloss": "go"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "CONJ": "conjunctive particle",
+          "TOP": "topic particle",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "ここから今、船を漕ぎ出して陸から離れていく。",
         "translation-en-natural": "Now, they row away from here and leave the shore.",
-        "translation-zh-natural": "从这里开始，现在驶船离开岸边，前往远方。"
+	"translation-zh-natural": "从这里开始，现在驶船离开岸边，前往远方。"
       },
       {
-        "date": "20250310",
+        "date": [
+          20250310,
+          20251113
+        ],
         "id": 124,
         "text": "これを見送らむとてぞこの人どもは追ひきける。",
         "kana": "これをみおくらむとてそこのひとどもはおひきける。",
         "koutei-yamagen": "これを見送らむとてぞ、この人どもは追いきける。",
         "translation-ja": "これを見送ろうとして、この人どもは追ってきたのだ。",
         "translation-en": "Intending to see this off, these people chased after.",
-        "translation-zh": "想着送行，这些人们跟随而来了。",
-        "translation-ja-natural": "これを見送ろうとして、人々はあとを追いかけてきました。",
+	"translation-zh": "想着送行，这些人们跟随而来了。",
+	"phrase-gloss": [
+          {
+            "phrase": "これを見送らむとてぞ、",
+            "gloss": "this ACC see.off.INTEND CONJ EMPH,",
+            "words": [
+              {
+                "word": "これ",
+                "gloss": "this"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "見送ら",
+                "gloss": "see.off.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              }
+            ]
+          },
+          {
+            "phrase": "この人どもは追い来ける。",
+            "gloss": "these people TOP chase.PRES come.PST",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "these"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "ども",
+                "gloss": "PL.HUM"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "追い",
+                "gloss": "chase.ADV"
+              },
+              {
+                "word": "来",
+                "gloss": "come.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PL.HUM": "plural humble",
+          "ACC": "accusative particle",
+          "IRR": "irrealis",
+          "FUT": "future tense",
+          "CONJ": "conjunctive particle",
+          "EMPH": "emphatic particle",
+          "PST": "past tense",
+          "TOP": "topic particle",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "これを見送ろうとして、人々はあとを追いかけてきた。",
         "translation-en-natural": "Wishing to see them off, the people hurried after them.",
-        "translation-zh-natural": "为了送行，这些人们追了上来。"
+	"translation-zh-natural": "为了送行，这些人们追了上来。"
       },
       {
-        "date": "20250311",
+        "date": [
+          20250311,
+          20251114
+        ],
         "id": 125,
         "text": "かくて漕ぎ行くまにまに海の邊にとまれる人も遠くなりぬ。",
         "kana": "かくてこぎゆくまにまにうみのほとりにとまれるひともとほくなりぬ。",
         "koutei-yamagen": "かくて漕ぎ行くまにまに、海の辺に泊まれる人も遠くなりぬ。",
         "translation-ja": "こうして漕ぎ行くうちに、海辺に泊まっていた人も遠くなった。",
         "translation-en": "Thus, while rowing, even those who had stayed by the sea became distant.",
-        "translation-zh": "此般，驶船而去的过程中，停留在海边的人们也变远了。",
-        "translation-ja-natural": "こうして船を漕ぎ進むうちに、海辺にとどまっていた人たちの姿も次第に遠ざかってしまいました。",
+	"translation-zh": "此般，驶船而去的过程中，停留在海边的人们也变远了。",
+        "phrase-gloss": [
+          {
+            "phrase": "かくて漕ぎ行くまにまに、",
+            "gloss": "thus row.go.ADV while,",
+            "words": [
+              {
+                "word": "かくて",
+                "gloss": "thus"
+              },
+              {
+                "word": "漕ぎ",
+                "gloss": "row.ADV"
+              },
+              {
+                "word": "行く",
+                "gloss": "go.ATTR"
+              },
+              {
+                "word": "まにまに",
+                "gloss": "while"
+              }
+            ]
+          },
+          {
+            "phrase": "海のほとりにとまれる人も遠くなりぬ。",
+            "gloss": "sea GEN shore DAT stay.POT person also distant become.PST",
+            "words": [
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ほとり",
+                "gloss": "shore"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "とまれ",
+                "gloss": "stay.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "遠く",
+                "gloss": "distant.ADV"
+              },
+              {
+                "word": "なり",
+                "gloss": "become.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PERF": "perfective",
+          "ATTR": "attributive form",
+          "GEN": "genitive",
+          "DAT": "dative particle",
+          "POT": "potential form",
+          "PST": "past tense",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "こうして船を漕ぎ進むうちに、海辺にとどまっていた人たちの姿も次第に遠ざかってしまった。",
         "translation-en-natural": "As the boat moved forward, the people who had remained by the shore gradually disappeared from sight.",
-        "translation-zh-natural": "就这样，随着船的前行，停留在海边的人们也渐渐变得遥远了。"
+	"translation-zh-natural": "就这样，随着船的前行，停留在海边的人们也渐渐变得遥远了。"
       },
       {
-        "date": "20250311",
+        "date": [
+          20250311,
+          20251115
+        ],
         "id": 126,
         "text": "船の人も見えずなりぬ。",
         "kana": "ふねのひともみえずなりぬ。",
         "koutei-yamagen": "船の人も見えずなりぬ。",
         "translation-ja": "船の人も見えなくなってしまった。",
         "translation-en": "The people on the boat also disappeared from view.",
-        "translation-zh": "船上的人也看不见了。",
-        "translation-ja-natural": "船の人々も見えなくなってしまいました。",
+	"translation-zh": "船上的人也看不见了。",
+	"phrase-gloss": [
+          {
+            "phrase": "船の人も見えずなりぬ。",
+            "gloss": "boat GEN person also see.NEG become.PERF",
+            "words": [
+              {
+                "word": "船",
+                "gloss": "boat"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "見え",
+                "gloss": "see.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG.ADV"
+              },
+              {
+                "word": "なり",
+                "gloss": "become.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PERF": "perfective",
+          "IRR": "irrealis",
+          "GEN": "genitive",
+          "NEG": "negation particle",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "船の人々も見えなくなってしまった。",
         "translation-en-natural": "The people on the boat were no longer visible.",
-        "translation-zh-natural": "船上的人也看不见了"
+	"translation-zh-natural": "船上的人也看不见了"
       },
       {
-        "date": "20250312",
+        "date": [
+          20250312,
+          20251116
+        ],
         "id": 127,
         "text": "岸にもいふ事あるべし、船にも思ふことあれどかひなし。",
         "kana": "きしにもいふことあるべし、ふねにもおもふことあれどかひなし。",
         "koutei-yamagen": "岸にも言ふ事あるべし、船にも思ふことあれどかひなし。",
-        "translation-ja": "岸にも言うことがあるだろうし、船にも思うことはあるけれど、無駄である。",
+        "translation-ja": "岸にも言うことがあるだろうし、船にも思うことはあるけれど、甲斐がない。",
         "translation-en": "There may be things to say on the shore, and things to think on the boat, though it is in vain.",
         "translation-zh": "岸可能也有要说的话，船可能也有所想之事，但没有意义。",
-        "translation-ja-natural": "岸にいる人たちにも言いたいことはあるだろうし、船にいる人たちにも思うことはあるけれど、どうにもなりません。",
+        "phrase-gloss": [
+          {
+            "phrase": "岸にも言ふ事あるべし、",
+            "gloss": "shore also say thing exist.FUT,",
+            "words": [
+              {
+                "word": "岸",
+                "gloss": "shore"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "言ふ",
+                "gloss": "say.ATTR"
+              },
+              {
+                "word": "事",
+                "gloss": "thing"
+              },
+              {
+                "word": "ある",
+                "gloss": "exist.ATTR"
+              },
+              {
+                "word": "べし",
+                "gloss": "FUT"
+              }
+            ]
+          },
+          {
+            "phrase": "船にも思ふことあれどかひなし。",
+            "gloss": "boat also think thing exist.BUT worth.NEG",
+            "words": [
+              {
+                "word": "船",
+                "gloss": "boat"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "思ふ",
+                "gloss": "think.ATTR"
+              },
+              {
+                "word": "こと",
+                "gloss": "thing"
+              },
+              {
+                "word": "あれ",
+                "gloss": "exist.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "BUT"
+              },
+              {
+                "word": "かひ",
+                "gloss": "worth"
+              },
+              {
+                "word": "なし",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "DAT": "dative particle",
+          "REALIS": "realis",
+          "FUT": "future tense",
+          "ATTR": "attributive form",
+          "BUT": "concessive particle",
+          "NEG": "negation particle"
+        },
+        "translation-ja-natural": "岸にいる人たちにも言いたいことはあるだろうし、船にいる人たちにも思うことはあるけれど、どうにもならない。",
         "translation-en-natural": "Those on the shore may have things to say, and those on the boat may have thoughts of their own, but nothing can be done.",
-        "translation-zh-natural": "岸上的人可能有话要说，船上的人也有自己的想法，但一切都是徒劳的。"
+	"translation-zh-natural": "岸上的人可能有话要说，船上的人也有自己的想法，但一切都是徒劳的。"
       },
       {
-        "date": "20250313",
+        "date": [
+          20250313,
+          20251119
+        ],
         "id": 128,
         "text": "かゝれどこの歌を獨言にしてやみぬ。",
         "kana": "かかれどこのうたをひとりごとにしてやみぬ。",
         "koutei-yamagen": "かかれど、この歌を独言にしてやみぬ。",
         "translation-ja": "こうあっても、この歌を独り言にして、終わった。",
         "translation-en": "Even so, regarding this song as a soliloquy, it ended.",
-        "translation-zh": "虽然这样，以此歌为独白，结束了。",
-        "translation-ja-natural": "それでも、この歌、誰に贈るでもない独り言を最後に、海辺のことば、船の思いは、止んでいきました。",
+	"translation-zh": "虽然这样，以此歌为独白，结束了。",
+        "phrase-gloss": [
+          {
+            "phrase": "かかれど、",
+            "gloss": "however, ",
+            "words": [
+              {
+                "word": "かかれど",
+                "gloss": "however"
+              }
+            ]
+          },
+          {
+            "phrase": "この歌を独言にして、やみぬ。",
+            "gloss": "this song ACC soliloquy DAT do.ADV end PERF",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "歌",
+                "gloss": "song"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "独言",
+                "gloss": "soliloquy"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "やみ",
+                "gloss": "end.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "DAT": "dative particle",
+          "PERF": "perfective",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "それでも、この歌、誰に贈るでもない独り言を最後に、海辺のことば、船の思いは、止んでいった。",
         "translation-en-natural": "Even so, with this song, a soliloquy meant for no one, as its last, the words from the shore and the thoughts on the boat gradually faded away with the waves and the wind.",
         "translation-zh-natural": "即便如此，把这首歌作为自言自语，送行、宴会、语言、思绪，和海上的风浪都停下了",
         "notes-ja": {
@@ -17148,7 +18098,7 @@
           "本来の意味": "「やみぬ」は、和歌が波風の立つ海上における最後のことばとなり、その後、ことばも思いも、波風とともに静かに消えていく様子を示している。これは、何かを意図的にやめたのではなく、環境の流れの中で自然と終息したことを強調する表現である。そのため、「やみぬ」を他動詞に変えることは、原文の持つ余韻や自然な終わりの感覚を損ねることにつながる。",
           "適切な英訳": "この点を考慮し、英訳においても「it ended」「came to an end」などの自動詞を用いることで、原文のニュアンスを正しく伝えることが求められる。さらに、「faded away with the waves and the wind」などとすることで、「波風とともに止んでいった」という情景を忠実に再現できる。",
           "貫之の表向きの表現": "貫之は「それぞれの思いは、貫之の和歌で、止んでいった」と表現している。つまり、自分の和歌が場を締めくくり、すべてを終わらせたかのようにまとめている。この表現には、和歌の力によってすべてを収めたという、少し格好つけた要素がある。",
-          "岸の人々の本音": "岸の人々にとっては、『これで宴会は本当に終わったなぁ……残念だ』という気持ちがあったと考えられる。船が去り、もう追いかけることもできず、旅立ちの現実を受け入れざるを得ない。一方で、送る側としての役目を終えた安堵もあったかもしれない。",
+          "岸の人々の本音": "岸の人々にとっては、『これで宴会は本当に終わったなぁ...残念だ』という気持ちがあったと考えられる。船が去り、もう追いかけることもできず、旅立ちの現実を受け入れざるを得ない。一方で、送る側としての役目を終えた安堵もあったかもしれない。",
           "船の側の本音": "船に乗る側としては、『もうこれで、追いかけてくることはないだろう。飲みに来る人はいいかもしれないが、迎える側としては、宴会を準備し、朝まで眠いのにつき合わなければならなかった。やっと楽になる』という安堵感があったと考えられる。",
           "貫之の表現の巧妙さ": "貫之は、この『名残惜しい気持ち』と『ようやく解放される気持ち』の両方を、和歌がすべてを収めたかのようにまとめている。しかし実際には、それぞれの気持ちは別々の方向に動いていた可能性がある。この表現により、貫之は文学的に場を締めくくりながらも、読者に多面的な解釈の余地を残している。",
           "純文学としての表現": "貫之は『それぞれの思いは、和歌で静まり、波風とともに止んだ』と表現している。これは『言葉の力で、場を整え、静かな終息をもたらした』という、いかにも純文学的な美しい締めくくりの表現である。",
@@ -17174,14 +18124,113 @@
         }
       },
       {
-        "date": "20250313",
+        "date": [
+          20250313,
+          20251120
+        ],
         "id": 129,
         "poem": "おもひやる/心は海を/渡れども/ふみしなければ/知らずやあるらむ。",
         "kana": "おもひやる/こころはうみを/わたれども/ふみしなければ/しらずやあるらむ。",
         "koutei-yamagen": "思ひやる心は海を渡れども、ふみしなければ知らずやあるらむ。",
         "translation-ja": "思いやる心は、海を渡るけれども、文がないので、知らないことがあるのだろうか。",
         "translation-en": "The heart that sends thoughts afar crosses the sea, but since there is no letter, is there something they do not know?",
-        "translation-zh": "思念关切的/心，海/虽能跨越/因为没有书信/会有不知（之事)吗",
+	"translation-zh": "思念关切的/心，海/虽能跨越/因为没有书信/会有不知（之事)吗",
+        "phrase-gloss": [
+          {
+            "phrase": "思ひやる心は海を渡れども、",
+            "gloss": "think.send.ADV heart TOP sea ACC cross.CONJ",
+            "words": [
+              {
+                "word": "思ひ",
+                "gloss": "think.ADV"
+              },
+              {
+                "word": "やる",
+                "gloss": "send.ATTR"
+              },
+              {
+                "word": "心",
+                "gloss": "heart"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "渡れ",
+                "gloss": "cross.REALIS"
+              },
+              {
+                "word": "ども",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "ふみしなければ知らずやあるらむ。",
+            "gloss": "letter EMPH if.not exist.NEG know.Q EMPH exist.FUT",
+            "words": [
+              {
+                "word": "ふみ",
+                "gloss": "letter"
+              },
+              {
+                "word": "し",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "なけれ",
+                "gloss": "no.exist.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              },
+              {
+                "word": "知ら",
+                "gloss": "know.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "ある",
+                "gloss": "exist.ATTR"
+              },
+              {
+                "word": "らむ",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "TOP": "topic particle",
+          "ACC": "accusative particle",
+          "CONJ": "conjunctive particle",
+          "IRR": "irrealis form",
+          "REALIS": "realis form",
+          "ADV": "adverbial form",
+          "NEG": "negation particle",
+          "COND": "conditional particle",
+          "Q": "question particle",
+          "EMPH": "emphatic particle",
+          "FUT": "future tense",
+          "ATTR": "attributive form"
+        },
         "translation-ja-natural": "思いやる心は海を渡るけれども、手紙ではないからといって、お互いの心がわからないということがあるのでしょうか。",
         "translation-en-natural": "The heart that longs for another may cross the sea, but just because it is not a letter, does it mean they cannot understand each other's hearts?",
         "translation-zh-natural": "思念与关切的心虽然能跨越海洋，但因为没有书信就会有无法传达的东西吗？",
@@ -17213,20 +18262,68 @@
         }
       },
       {
-        "date": "20250314",
+        "date": [
+          20250314,
+          20251121
+        ],
         "id": 130,
         "text": "かくて宇多の松原を行き過ぐ。",
         "kana": "かくてうたのまつばらをゆきすぐ。",
         "koutei-yamagen": "かくて宇多の松原を行き過ぐ。",
         "translation-ja": "こうして、宇多の松原を行き過ぎる。",
         "translation-en": "Thus, they go past the pine grove of Uda.",
-        "translation-zh": "此般，经过宇多的松原。",
+	"translation-zh": "此般，经过宇多的松原。",
+        "phrase-gloss": [
+          {
+            "phrase": "かくて宇多の松原を行き過ぐ。",
+            "gloss": "thus Uda GEN pine.grove ACC go.past",
+            "words": [
+              {
+                "word": "かくて",
+                "gloss": "thus"
+              },
+              {
+                "word": "宇多",
+                "gloss": "Uda.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "松原",
+                "gloss": "pine.grove"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "行き",
+                "gloss": "go.ADV"
+              },
+              {
+                "word": "過ぐ",
+                "gloss": "past.END"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive",
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "END": "ending form"
+        },
         "translation-ja-natural": "こうして、宇多の松原を通り過ぎる。",
         "translation-en-natural": "And so, we pass by the pine grove of Uda.",
         "translation-zh-natural": "就这样，我们经过了宇多的松原。"
       },
       {
-        "date": "20250314",
+        "date": [
+          20250314,
+          20251122
+        ],
         "id": 131,
         "text": "松の數幾そばく、幾千年へたりと知らず。",
         "kana": "まつのかずいくそばく、いくせんねんへたりとしらず。",
@@ -17234,12 +18331,76 @@
         "translation-ja": "松の本数はどれほどか、幾千年を経たのかわからない。",
         "translation-en": "The number of pines, how great it is, and how many thousands of years they have endured, I do not know.",
         "translation-zh": "不知道，松树的数量多少，经历了几千年。",
-        "translation-ja-natural": "松の本数がどれほど多いのか、何千年が経ったのか、私には分からない。",
+        "phrase-gloss": [
+          {
+            "phrase": "松の数幾そばく、",
+            "gloss": "pine GEN number how.much",
+            "words": [
+              {
+                "word": "松",
+                "gloss": "pine"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "数",
+                "gloss": "number"
+              },
+              {
+                "word": "幾そばく",
+                "gloss": "how.much"
+              }
+            ]
+          },
+          {
+            "phrase": "幾千年へたりと知らず。",
+            "gloss": "many.thousands.year pass PERF know.NEG",
+            "words": [
+              {
+                "word": "幾千年",
+                "gloss": "many.thousands.year"
+              },
+              {
+                "word": "へ",
+                "gloss": "pass.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "知ら",
+                "gloss": "know.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive",
+          "CONJ": "conjunctive particle",
+          "NEG": "negation particle",
+          "IRR": "irrealis form",
+          "QUOT": "quotative particle"
+        },
+        "translation-ja-natural": "松の本数がどれほど多いのか、何千年が経ったのか、わからない。",
         "translation-en-natural": "I do not know how great the number of pine trees is, nor how many thousands of years have passed.",
-        "translation-zh-natural": "我不知道这里松树的数量有多少，也不知道它们经历了多少千年。"
+	"translation-zh-natural": "我不知道这里松树的数量有多少，也不知道它们经历了多少千年。"
       },
       {
-        "date": "20250314",
+        "date": [
+          20250314,
+          20251122
+        ],
         "id": 132,
         "text": "もとごとに浪うちよせ枝ごとに鶴ぞ飛びかふ。",
         "kana": "もとごとになみうちよせえごとにつるぞとびかふ。",
@@ -17252,20 +18413,100 @@
         "translation-zh-natural": "波浪拍打着松树的根部，鹤在枝头间飞舞。"
       },
       {
-        "date": "20250314",
+        "date": [
+          20250314,
+          20251123
+        ],
         "id": 133,
         "text": "おもしろしと見るに堪へずして船人のよめる歌、",
         "kana": "おもしろしとみるにたへずしてふなびとのよめるうた、",
         "koutei-yamagen": "おもしろしと見るに堪へずして船人のよめる歌、",
         "translation-ja": "趣深いと見るに堪えきれず、船人が詠んだ歌は、",
         "translation-en": "Finding it too captivating to bear, a poem that a passenger composed...",
-        "translation-zh": "有趣以至于不忍去看，于是船人所作的诗：",
+	"translation-zh": "有趣以至于不忍去看，于是船人所作的诗：",
+        "phrase-gloss": [
+          {
+            "phrase": "おもしろしと見るに堪へずして、",
+            "gloss": "interesting QUOT see DAT bear.NEG CONJ",
+            "words": [
+              {
+                "word": "おもしろし",
+                "gloss": "interesting"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "見る",
+                "gloss": "see.ATTR"
+              },
+              {
+                "word": "に",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "堪へ",
+                "gloss": "bear.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "して",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "船人のよめる歌、",
+            "gloss": "boat.person GEN compose PERF poem",
+            "words": [
+              {
+                "word": "船人",
+                "gloss": "boat.person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "よめ",
+                "gloss": "compose.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ATTR": "attributive form",
+          "PERF": "perfective",
+          "IRR": "irrealis form",
+          "REALIS": "realis form",
+          "QUOT": "quotative particle",
+          "DAT": "dative particle",
+          "NEG": "negation particle",
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive",
+          "ADV": "adverbial form"
+        },
         "translation-ja-natural": "あまりにも趣深く、見ているうちに胸がいっぱいになり、船人が詠んだ歌は、",
         "translation-en-natural": "Overwhelmed by its beauty, a passenger composed the following poem...",
         "translation-zh-natural": "有趣到不忍直视，船上的人吟诵了这样一首诗："
       },
       {
-        "date": "20250314",
+        "date": [
+          20250314,
+          20251124
+        ],
         "id": 134,
         "poem": "見渡せば/松のうれごとに/すむ鶴は/千代のどちとぞ/思ふべらなる",
         "kana": "みわたせば/まつのうれごとに/すむつるは/ちよのどちとぞ/おもふべらなる",
@@ -17273,78 +18514,569 @@
         "translation-ja": "見渡すと、松の梢ごとに棲む鶴は、千代の友であると思っているようだ。",
         "translation-en": "Looking out, the cranes, dwelling on each pine treetop, seem to think of themselves as friends of a thousand generations.",
         "translation-zh": "环顾远眺/在松的树梢/栖息的鹤/千岁之友/似乎想着",
+        "phrase-gloss": [
+          {
+            "phrase": "見渡せば松のうれごとに住む鶴は",
+            "gloss": "look.out.IF pine GEN treetop DAT live crane TOP",
+            "words": [
+              {
+                "word": "見渡せ",
+                "gloss": "look.out.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              },
+              {
+                "word": "松",
+                "gloss": "pine"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "うれごと",
+                "gloss": "treetop"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "住む",
+                "gloss": "live.ATTR"
+              },
+              {
+                "word": "鶴",
+                "gloss": "crane"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "千代のどちとぞ思ふべらなる",
+            "gloss": "thousand.generations GEN friend QUOT think FUT COP",
+            "words": [
+              {
+                "word": "千代",
+                "gloss": "thousand.generations"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "どち",
+                "gloss": "friend"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "思ふ",
+                "gloss": "think"
+              },
+              {
+                "word": "べら",
+                "gloss": "FUT.IRR"
+              },
+              {
+                "word": "なる",
+                "gloss": "COP.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ATTR": "attributive form",
+          "COP": "copula",
+          "IRR": "irrealis form",
+          "REALIS": "realis form",
+          "COND": "conditional particle",
+          "GEN": "genitive",
+          "DAT": "dative particle",
+          "ADV": "adverbial form",
+          "TOP": "topic particle",
+          "QUOT": "quotative particle",
+          "EMPH": "emphatic particle",
+          "FUT": "future tense"
+        },
         "translation-ja-natural": "見渡すと、松の梢にとまる鶴たちは、松を千年の時を超える友と思っているようですね。",
         "translation-en-natural": "Looking out, the cranes perched on the pine treetops seem to think of the pines as their lifelong friends across a thousand years.",
-        "translation-zh-natural": "环顾四周，松树梢上栖息的鹤，似乎把松树当作千年之友。"
+	"translation-zh-natural": "环顾四周，松树梢上栖息的鹤，似乎把松树当作千年之友。",
+        "notes-ja": [
+          {
+            "title": "べらなるの解釈",
+            "content": "「べらなる」は「べら（推量の助動詞『べし』の未然形）＋なる（断定の助動詞『なり』の連体形）」で「べら」は推量を表し、「なる」は断定を表すため、全体として「～する様子だ（かもしれない）」という意味になる。したがって、「思ふべらなる」は「思っているようだ」と訳すのが適切である。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Interpretation of 'beranaru'",
+            "content": "'beranaru' consists of 'bera' (the irrealis form of the auxiliary verb 'beshi', indicating conjecture) and 'naru' (the attributive form of the auxiliary verb 'nari', indicating assertion). 'Bera' expresses conjecture, while 'naru' asserts, so together they convey the meaning of 'it seems that...' or 'it appears that...'. Therefore, translating 'omou beranaru' as 'it seems to think' is appropriate."
+          }
+        ]
       },
       {
-        "date": "20250314",
+        "date": [
+          20250314,
+          20251124
+        ],
         "id": 135,
         "text": "とや。",
         "kana": "とや。",
         "koutei-yamagen": "とや。",
-        "translation-ja": "と。",
+        "translation-ja": "とか。",
         "translation-en": ".",
         "translation-zh": "。",
-        "translation-ja-natural": "と。",
+        "phrase-gloss": [
+          {
+            "phrase": "とや。",
+            "gloss": "QUOT EMPH",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              }
+            ]
+          }
+        ],
+        "translation-ja-natural": "とか。",
         "translation-en-natural": ".",
-        "translation-zh-natural": "。"
+	"translation-zh-natural": "。"
       },
       {
-        "date": "20250314",
+        "date": [
+          20250314,
+          20251125
+        ],
         "id": 136,
         "text": "この歌は所を見るにえまさらず。",
         "kana": "このうたはところをみるにえまさらず。",
         "koutei-yamagen": "この歌は、ところを見るにえまさらず。",
         "translation-ja": "この歌は、所を見るに、優らない。",
         "translation-en": "This poem cannot surpass the view when looking at the place.",
-        "translation-zh": "此歌，比不过看（此）地。",
+	"translation-zh": "此歌，比不过看（此）地。",
+        "phrase-gloss": [
+          {
+            "phrase": "この歌は、ところを見るにえまさらず。",
+            "gloss": "this poem TOP place ACC see DAT cannot.surpass",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "ところ",
+                "gloss": "place"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "見る",
+                "gloss": "see.ATTR"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "え",
+                "gloss": "POT^1"
+              },
+              {
+                "word": "まさら",
+                "gloss": "surpass.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG^2"
+              }
+            ],
+            "note": "POT^1 + NEG^2: 'え...ず' is a classical paired construction where 'え' signals a potential action that is explicitly denied by 'ず'. Together they express impossibility."
+          }
+        ],
+        "abbreviations": {
+          "POT": "potential form",
+          "NEG": "negation particle",
+          "TOP": "topic particle",
+          "ACC": "accusative particle",
+          "DAT": "dative particle",
+          "ATTR": "attributive form",
+          "IRR": "irrealis form"
+        },
         "translation-ja-natural": "この歌は、実際の場所を見ると、そのすばらしさにはかなわない。",
         "translation-en-natural": "This poem, when seeing the actual place, cannot quite rival its beauty.",
         "translation-zh-natural": "这首诗无法胜过看当地实景。"
       },
       {
-        "date": "20250314",
+        "date": [
+          20250314,
+          20251125
+        ],
         "id": 137,
         "text": "かくあるを見つゝ漕ぎ行くまにまに、山も海もみなくれ、夜更けて、西ひんがしも見えずして、てけのこと楫取の心にまかせつ。",
         "kana": "かくあるをみつつこぎゆくまにまに、やまもうみもみなくれ、よふけて、にしひんがしもみえずして、てけのことかぢとりのこころにまかせつ。",
         "koutei-yamagen": "かくあるを見つつ漕ぎ行くまにまに、山も海もみなくれ、夜更けて、西東も見えずして、天気のこと楫取の心にまかせつ。",
         "translation-ja": "このようにあるものを見ながら漕いでいくうちに、山も海もすべて暮れ、夜が更け、西も東も見えなくなり、天気のことは楫取の心に任せてしまった。",
         "translation-en": "As the boat was rowed while looking at things as they were, the mountains and the sea all darkened, night fell, and neither west nor east was visible, and the weather was left to the oarsman's judgment.",
-        "translation-ja-natural": "こうして船を漕ぎ進めるうちに、山も海もすっかり暮れて、夜が更けて、西も東も見えなくなり、天気のことは船頭に委ねるほかありませんでした。",
+        "phrase-gloss": [
+          {
+            "phrase": "かくあるを見つつ漕ぎ行くまにまに、",
+            "gloss": "thus exist.ACC see.ADV row.go.ADV while",
+            "words": [
+              {
+                "word": "かく",
+                "gloss": "thus"
+              },
+              {
+                "word": "ある",
+                "gloss": "exist.ATTR"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "見",
+                "gloss": "see.ADV"
+              },
+              {
+                "word": "つつ",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "漕ぎ",
+                "gloss": "row.ADV"
+              },
+              {
+                "word": "行く",
+                "gloss": "go.ATTR"
+              },
+              {
+                "word": "まにまに",
+                "gloss": "while"
+              }
+            ]
+          },
+          {
+            "phrase": "山も海もみなくれ、",
+            "gloss": "mountain EMPH sea EMPH all darken.ADV",
+            "words": [
+              {
+                "word": "山",
+                "gloss": "mountain"
+              },
+              {
+                "word": "も",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "も",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "みな",
+                "gloss": "all"
+              },
+              {
+                "word": "くれ",
+                "gloss": "darken.ADV"
+              }
+            ]
+          },
+          {
+            "phrase": "夜更けて、西東も見えずして、",
+            "gloss": "night deepen.ADV west.east EMPH see.NEG CONJ",
+            "words": [
+              {
+                "word": "夜",
+                "gloss": "night"
+              },
+              {
+                "word": "更け",
+                "gloss": "deepen.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "西東",
+                "gloss": "west.east"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "見え",
+                "gloss": "see.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "して",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "天気のこと楫取の心にまかせつ。",
+            "gloss": "weather GEN matter oarsman GEN heart DAT entrust.PERF",
+            "words": [
+              {
+                "word": "天気",
+                "gloss": "weather"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "こと",
+                "gloss": "matter"
+              },
+              {
+                "word": "楫取",
+                "gloss": "oarsman"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "心",
+                "gloss": "heart"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "まかせ",
+                "gloss": "entrust.IRR"
+              },
+              {
+                "word": "つ",
+                "gloss": "PERF.END"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ATTR": "attributive form",
+          "PERF": "perfective",
+          "IRR": "irrealis form",
+          "CONJ": "conjunctive particle",
+          "NEG": "negation particle",
+          "DAT": "dative particle",
+          "GEN": "genitive",
+          "EMP": "emphatic particle",
+          "ADV": "adverbial form",
+          "ACC": "accusative particle"
+        },
+        "translation-ja-natural": "こうして船を漕ぎ進めるうちに、山も海もすっかり暮れて、夜が更けて、西も東も見えなくなり、天気のことは船頭に委ねるほかなかった。",
         "translation-en-natural": "As the boat moved forward, the mountains and sea faded into darkness, night deepened, and both west and east disappeared from view, leaving the weather in the hands of the oarsman.",
-        "notes-ja": {
-          "オリジナルの校訂": "かくあるを見つゝ漕ぎ行くまにまに、山も海もみなくれ、夜更けて、西ひんがしも見えずして、てけのこと※(「楫＋戈」、第3水準1-86-21)取の心にまかせつ。"
-        }
+        "notes-ja": [
+          {
+            "title": "オリジナルの校訂",
+            "note": "かくあるを見つゝ漕ぎ行くまにまに、山も海もみなくれ、夜更けて、西ひんがしも見えずして、てけのこと※(「楫＋戈」、第3水準1-86-21)取の心にまかせつ。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Original Text Note",
+            "note": "かくあるを見つゝ漕ぎ行くまにまに、山も海もみなくれ、夜更けて、西ひんがしも見えずして、てけのこと※(「楫＋戈」、第3水準1-86-21)取の心にまかせつ。"
+          }
+        ]
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251126
+        ],
         "id": 138,
         "text": "男もならはねば（二字ぬはイ）いとも心細し。",
         "kana": "をとこもならはねばいともこころぼしし。",
         "koutei-yamagen": "男もならはねばいとも心細し。",
         "translation-ja": "男も慣れていないので、とても心細い。",
         "translation-en": "Since the men are not accustomed to it, they feel very uneasy.",
-        "translation-zh": "男人们也不习惯，因此非常不安。",
-        "translation-ja-natural": "男たちもまだ船旅に慣れておらず、とても心細く感じていました。",
+	"translation-zh": "男人们也不习惯，因此非常不安。",
+        "phrase-gloss": [
+          {
+            "phrase": "男もならはねばいとも心細し。",
+            "gloss": "man also accustomed NEG because very uneasy",
+            "words": [
+              {
+                "word": "男",
+                "gloss": "man "
+              },
+              {
+                "word": "も",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "ならは",
+                "gloss": "accustomed.IRR"
+              },
+              {
+                "word": "ね",
+                "gloss": "NEG.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              },
+              {
+                "word": "いとも",
+                "gloss": "very"
+              },
+              {
+                "word": "心細し",
+                "gloss": "uneasy"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "REALIS": "realis form",
+          "COND": "conditional particle",
+          "NEG": "negation particle",
+          "IRR": "irrealis form"
+        },
+        "translation-ja-natural": "男も船旅に慣れておらず、とても心細い。",
         "translation-en-natural": "Even the men were still unaccustomed to the voyage and felt very uneasy.",
-        "translation-zh-natural": "男人们也还不习惯这次航行，因此感到非常不安。"
+	"translation-zh-natural": "男人们也还不习惯这次航行，因此感到非常不安。"
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251126
+        ],
         "id": 139,
         "text": "まして女は船底に頭をつきあてゝねをのみぞなく。",
-        "kana": "ましてをんなはふなぞこにかしらをつきあててねをのみそなく。",
-        "koutei-yamagen": "まして女は船底に頭をつきあててねをのみそなく。",
+        "kana": "ましてをんなはふなぞこにかしらをつきあててねをのみぞなく。",
+        "koutei-yamagen": "まして女は船底に頭をつきあててねをのみぞなく。",
         "translation-ja": "まして女は、船底に頭を突き当てて、ただ泣くばかりだ。",
         "translation-en": "Moreover, the women, with their heads pressed against the bottom of the boat, do nothing but cry.",
-        "translation-zh": "更何况女人，头撞到船底，只是哭泣。",
-        "translation-ja-natural": "まして女たちは船底に頭をつけて、ただ泣くばかりでした。",
+	"translation-zh": "更何况女人，头撞到船底，只是哭泣。",
+        "phrase-gloss": [
+          {
+            "phrase": "まして女は船底に頭をつきあてて",
+            "gloss": "moreover woman TOP boat.bottom DAT head ACC press.ADV",
+            "words": [
+              {
+                "word": "まして",
+                "gloss": "moreover"
+              },
+              {
+                "word": "女",
+                "gloss": "woman"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "船底",
+                "gloss": "boat.bottom"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "頭",
+                "gloss": "head"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "つきあて",
+                "gloss": "press.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "ねをのみぞなく。",
+            "gloss": "sound ACC only EMPH cry",
+            "words": [
+              {
+                "word": "ね",
+                "gloss": "sound"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "のみ",
+                "gloss": "only"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "なく",
+                "gloss": "cry.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "TOP": "topic particle",
+          "DAT": "dative particle",
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "END": "ending form",
+          "EMPH": "emphatic particle"
+        },
+        "translation-ja-natural": "まして女たちは船底に頭をつけて、ただ泣くばかりだ。",
         "translation-en-natural": "Moreover, the women, with their heads against the bottom of the boat, did nothing but cry.",
-        "translation-zh-natural": "更何况女人们，她们把头撞到船底，只是发出哭声。"
+	"translation-zh-natural": "更何况女人们，她们把头撞到船底，只是发出哭声。"
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251127
+        ],
         "id": 140,
         "text": "かく思へば舟子楫取は船歌うたひて何とも思へらず。",
         "kana": "かくおもへばふなこかぢとりはふなうたうたひてなにともおもへらず。",
@@ -17352,7 +19084,103 @@
         "translation-ja": "こう思うに、水夫や船頭は船歌を歌い、何とも思わない。",
         "translation-en": "Thinking thus, the boatmen and the helmsman sing boat songs and think nothing of it.",
         "translation-zh": "想着此般，船夫、划桨人唱着船歌，似乎什么也没感觉。",
-        "translation-ja-natural": "こう思っていると、水夫や船頭はのんびりと船歌を口ずさみ、まるで気にも留めていないようです。",
+        "phrase-gloss": [
+          {
+            "phrase": "かく思えば舟子、楫取は",
+            "gloss": "thus think.IF boatman oarsman TOP",
+            "words": [
+              {
+                "word": "かく",
+                "gloss": "thus"
+              },
+              {
+                "word": "思え",
+                "gloss": "think.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              },
+              {
+                "word": "舟子",
+                "gloss": "boatman"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNC"
+              },
+              {
+                "word": "楫取",
+                "gloss": "oarsman"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "船歌うたひて",
+            "gloss": "boat.song sing.ADV",
+            "words": [
+              {
+                "word": "船歌",
+                "gloss": "boat.song"
+              },
+              {
+                "word": "うたひ",
+                "gloss": "sing.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "何とも思へらず。",
+            "gloss": "what QUOT also think PERF NEG",
+            "words": [
+              {
+                "word": "何",
+                "gloss": "what"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "思へ",
+                "gloss": "think.REALIS"
+              },
+              {
+                "word": "ら",
+                "gloss": "PERF.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "NEG": "negation particle",
+          "IRR": "irrealis form",
+          "REALIS": "realis form",
+          "COND": "conditional particle",
+          "PERF": "perfective",
+          "EMPH": "emphatic particle",
+          "TOP": "topic particle",
+          "CONJ": "conjunctive particle",
+          "PUNC": "punctuation"
+        },
+        "translation-ja-natural": "こう思っていると、水夫や船頭はのんびりと船歌を口ずさみ、まるで気にも留めていないようだ。",
         "translation-en-natural": "As I ponder this, the boatmen and the helmsman leisurely hum a tune, seeming completely unbothered.",
         "translation-zh-natural": "这样想来，船夫和划桨人倒是哼着船歌，似乎完全不在意。",
         "notes-ja": [
@@ -17363,46 +19191,153 @@
         ]
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251128
+        ],
         "id": 141,
         "text": "そのうたふうたは、",
         "kana": "そのうたふうたは、",
         "koutei-yamagen": "そのうたふ歌は、",
         "translation-ja": "その歌う歌は、",
         "translation-en": "The song they sing is...",
-        "translation-zh": "那唱的歌是",
+	"translation-zh": "那唱的歌是",
+        "phrase-gloss": [
+          {
+            "phrase": "そのうたふ歌は、",
+            "gloss": "that sing.ATTR poem TOP",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "うたふ",
+                "gloss": "sing.ATTR"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ATTR": "attributive form",
+          "TOP": "topic particle"
+        },
         "translation-ja-natural": "船人が歌う歌は、",
         "translation-en-natural": "The song they sing is...",
         "translation-zh-natural": "船夫们唱的歌是"
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251129
+        ],
         "id": 142,
         "poem": "春の野にてぞ",
         "kana": "はるののにて",
         "koutei-yamagen": "春の野にてぞ",
         "translation-ja": "春の野でさ",
         "translation-en": "In the spring fields...",
-        "translation-zh": "在春天的野外",
+	"translation-zh": "在春天的野外",
+        "phrase-gloss": [
+          {
+            "phrase": "春の野にてぞ",
+            "gloss": "spring GEN field DAT EMPH",
+            "words": [
+              {
+                "word": "春",
+                "gloss": "spring"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "野",
+                "gloss": "field"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive",
+          "DAT": "dative particle",
+          "EMPH": "emphatic particle"
+        },
         "translation-ja-natural": "春の野でさ",
         "translation-en-natural": "In the spring fields...",
         "translation-zh-natural": "在春天的野外"
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251130
+        ],
         "id": 143,
         "poem": "音をばなく",
         "kana": "ねをばなく",
         "koutei-yamagen": "音をばなく",
         "translation-ja": "声を出して泣く",
         "translation-en": "Crying out loud...",
-        "translation-zh": "发出声音",
+	"translation-zh": "发出声音",
+        "phrase-gloss": [
+          {
+            "phrase": "音をばなく",
+            "gloss": "sound ACC EMPH cry",
+            "words": [
+              {
+                "word": "音",
+                "gloss": "sound"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "ば",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "なく",
+                "gloss": "cry.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "EMPH": "emphatic particle",
+          "ATTR": "attributive form"
+        },
         "translation-ja-natural": "声を出して泣く",
         "translation-en-natural": "Crying out loud...",
         "translation-zh-natural": "大声哭泣"
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251130
+        ],
         "id": 144,
         "poem": "わが薄にて",
         "kana": "わがすすきにて",
@@ -17410,51 +19345,170 @@
         "translation-ja": "若薄にさ",
         "translation-en": "with young silver grasses",
         "translation-zh": "在薄草",
+        "phrase-gloss": [
+          {
+            "phrase": "わが薄にて",
+            "gloss": "my silver.grass DAT CONJ",
+            "words": [
+              {
+                "word": "わが",
+                "gloss": "my"
+              },
+              {
+                "word": "薄",
+                "gloss": "silver.grass"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          }
+        ],
         "translation-ja-natural": "若薄にさ",
         "translation-en-natural": "with young silver grasses",
         "translation-zh-natural": "在我的/年轻的薄草上"
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251201
+        ],
         "id": 145,
         "poem": "手切る切る",
         "kana": "てきるきる",
         "koutei-yamagen": "手切る切る",
-        "translation-ja": "手を切り切りして",
+        "translation-ja": "手を切り切り",
         "translation-en": "cutting and cutting hands",
         "translation-zh": "切切手",
-        "translation-ja-natural": "手を切り切りして",
+        "phrase-gloss": [
+          {
+            "phrase": "手切る切る",
+            "gloss": "hand cut cut",
+            "words": [
+              {
+                "word": "手",
+                "gloss": "hand"
+              },
+              {
+                "word": "切る",
+                "gloss": "cut.END"
+              },
+              {
+                "word": "切る",
+                "gloss": "cut.END"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "END": "ending form"
+        },
+        "translation-ja-natural": "手を切り切り",
         "translation-en-natural": "cutting and cutting hands",
-        "translation-zh-natural": "切割着手"
+	"translation-zh-natural": "切割着手"
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251201
+        ],
         "id": 146,
         "poem": "つんだる菜を",
         "kana": "つんだるなを",
         "koutei-yamagen": "摘んだる菜を",
         "translation-ja": "摘んだ菜を",
         "translation-en": "the picked vegetables",
-        "translation-zh": "摘下的菜",
+	"translation-zh": "摘下的菜",
+        "phrase-gloss": [
+          {
+            "phrase": "摘んだる菜を",
+            "gloss": "picked.VOL vegetable ACC",
+            "words": [
+              {
+                "word": "摘ん",
+                "gloss": "picked.ADV"
+              },
+              {
+                "word": "だる",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "菜",
+                "gloss": "vegetable"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "PERF": "perfective",
+          "ATTR": "attributive form",
+          "ACC": "accusative particle"
+        },
         "translation-ja-natural": "摘んだ菜を",
         "translation-en-natural": "the picked vegetables",
         "translation-zh-natural": "摘下的菜"
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251202
+        ],
         "id": 147,
         "poem": "親やまぼるらむ",
         "kana": "おややまぼるらむ",
         "koutei-yamagen": "親やまぼるらむ",
         "translation-ja": "親が食べるのか",
         "translation-en": "Do the parents eat?",
-        "translation-zh": "父母会不会吃啊？",
+	"translation-zh": "父母会不会吃啊？",
+        "phrase-gloss": [
+          {
+            "phrase": "親やまぼるらむ",
+            "gloss": "parent Q gluttonize FUT",
+            "words": [
+              {
+                "word": "親",
+                "gloss": "parent"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "まぼる",
+                "gloss": "gluttonize.END"
+              },
+              {
+                "word": "らむ",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "CONJ": "conjunctive form",
+          "END": "ending form",
+          "FUT": "future tense",
+          "Q": "question particle"
+        },
         "translation-ja-natural": "親が食べるのか",
         "translation-en-natural": "Do the parents eat?",
         "translation-zh-natural": "父母会吃吗？"
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251202
+        ],
         "id": 148,
         "poem": "姑や食ふらむ",
         "kana": "しゅうとめやくふらむ",
@@ -17462,97 +19516,356 @@
         "translation-ja": "姑が食べるのか",
         "translation-en": "Does the mother-in-law eat?",
         "translation-zh": "婆婆会不会吃？",
+        "phrase-gloss": [
+          {
+            "phrase": "姑や食ふらむ",
+            "gloss": "mother.in.law Q eat FUT",
+            "words": [
+              {
+                "word": "姑",
+                "gloss": "mother.in.law"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "食ふ",
+                "gloss": "eat.END"
+              },
+              {
+                "word": "らむ",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "END": "ending form",
+          "FUT": "future tense",
+          "Q": "question particle"
+        },
         "translation-ja-natural": "姑が食べるのか",
         "translation-en-natural": "Does the mother-in-law eat?",
         "translation-zh-natural": "婆婆会吃吗？"
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251202
+        ],
         "id": 149,
         "poem": "かへらや",
         "kana": "かへらや",
         "koutei-yamagen": "かへらや",
         "translation-ja": "帰るのか",
         "translation-en": "Shall we go back?",
-        "translation-zh": "要回去吗？",
+	"translation-zh": "要回去吗？",
+        "phrase-gloss": [
+          {
+            "phrase": "かへらや",
+            "gloss": "return Q",
+            "words": [
+              {
+                "word": "かへら",
+                "gloss": "return.IRR"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "IRR": "irrealis form",
+          "Q": "question particle"
+        },
         "translation-ja-natural": "帰るのか",
         "translation-en-natural": "Shall we go back?",
         "translation-zh-natural": "要回去吗？"
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251202
+        ],
         "id": 150,
         "poem": "よんべのうなゐもがな",
         "kana": "よんべのうなゐもがな",
-        "koutei-yamagen": "夜べのうなゐもがな",
-        "translation-ja": "夜べの幼子も来ないかな",
-        "translation-en": "I wonder if a small kid will come tonight.",
-        "translation-zh": "夜晚的孩子会不会来？",
-        "translation-ja-natural": "夜のちっちゃな子は来ないかな",
-        "translation-en-natural": "I wonder if a small child will come tonight.",
-        "translation-zh-natural": "今晚会有孩子来吗？"
+        "koutei-yamagen": "よんべのうなゐもがな",
+        "translation-ja": "ゆうべの幼子も来ないかな",
+        "translation-en": "I wonder if the child from last night will come.",
+	"translation-zh": "夜晚的孩子会不会来？",
+        "phrase-gloss": [
+          {
+            "phrase": "よんべのうなゐもがな",
+            "gloss": "last night GEN bobbed.hair wish",
+            "words": [
+              {
+                "word": "よんべ",
+                "gloss": "last night"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "うなゐ",
+                "gloss": "bobbed.hair"
+              },
+              {
+                "word": "もがな",
+                "gloss": "desire"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive",
+          "EMPH": "emphatic particle",
+          "DESID": "desiderative particle"
+        },
+        "translation-ja-natural": "昨夜のおかっぱの子は来ないかな",
+        "translation-en-natural": "I wonder if the bobbed child from last night will come.",
+	"translation-zh-natural": "今晚会有孩子来吗？"
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251204
+        ],
         "id": 151,
         "poem": "ぜにこはむ",
         "kana": "ぜにこはむ",
         "koutei-yamagen": "銭乞はむ",
         "translation-ja": "お金を乞う",
         "translation-en": "Begging for money",
-        "translation-zh": "会不会乞讨钱财？",
+	"translation-zh": "会不会乞讨钱财？",
+        "phrase-gloss": [
+          {
+            "phrase": "銭乞はむ",
+            "gloss": "money beg FUT",
+            "words": [
+              {
+                "word": "銭",
+                "gloss": "money"
+              },
+              {
+                "word": "乞は",
+                "gloss": "beg.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "IRR": "irrealis form",
+          "FUT": "future tense"
+        },
         "translation-ja-natural": "お金をもらおう",
         "translation-en-natural": "Begging for money",
         "translation-zh-natural": "回来讨钱吗？"
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251205
+        ],
         "id": 152,
         "poem": "そらごとをして",
         "kana": "そらごとをして",
         "koutei-yamagen": "そらごとをして",
         "translation-ja": "嘘をついて",
         "translation-en": "Telling lies",
-        "translation-zh": "说着谎",
+	"translation-zh": "说着谎",
+        "phrase-gloss": [
+          {
+            "phrase": "そらごとをして",
+            "gloss": "lie ACC do.ADV",
+            "words": [
+              {
+                "word": "そらごと",
+                "gloss": "lie"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle"
+        },
         "translation-ja-natural": "嘘をついて",
         "translation-en-natural": "Telling lies",
         "translation-zh-natural": "说着谎话"
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251208
+        ],
         "id": 153,
         "poem": "おぎのりわざをして",
         "kana": "おぎのりわざをして",
         "koutei-yamagen": "おぎのりわざをして",
         "translation-ja": "掛買いにして",
         "translation-en": "Buying on credit",
-        "translation-zh": "赊着账",
+	"translation-zh": "赊着账",
+        "phrase-gloss": [
+          {
+            "phrase": "おぎのりわざをして",
+            "gloss": "credit.purchase ACC do.ADV",
+            "words": [
+              {
+                "word": "おぎのりわざ",
+                "gloss": "credit.purchase"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle"
+        },
         "translation-ja-natural": "掛け買いにして",
         "translation-en-natural": "Buying on credit",
-        "translation-zh-natural": "赊账买着东西"
+	"translation-zh-natural": "赊账买着东西",
+        "notes-ja": [
+          {
+            "title": "おぎのりわざについて",
+            "note": "「おぎのりわざ」は「掛け買い」の意味で、物を先に受け取り、後で代金を支払う取引方法を指します。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "About 'おぎのりわざ'",
+            "note": "'おぎのりわざ' refers to 'buying on credit,' a transaction method where goods are received first and payment is made later."
+          }
+        ]
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251209
+        ],
         "id": 154,
         "poem": "銭も持て来ず",
         "kana": "ぜにももてきず",
         "koutei-yamagen": "銭も持て来ず",
         "translation-ja": "お金も持ってこない",
         "translation-en": "Without bringing money",
-        "translation-zh": "钱也没带来",
+	"translation-zh": "钱也没带来",
+        "phrase-gloss": [
+          {
+            "phrase": "銭も持て来ず",
+            "gloss": "money also hold come.NEG",
+            "words": [
+              {
+                "word": "銭",
+                "gloss": "money"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "持",
+                "gloss": "hold.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "来",
+                "gloss": "come.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "IRR": "irrealis form",
+          "NEG": "negation particle"
+        },
         "translation-ja-natural": "お金も持ってこない",
         "translation-en-natural": "Without bringing money",
         "translation-zh-natural": "连钱也没带来"
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251210
+        ],
         "id": 155,
         "poem": "おのれだに来ず",
         "kana": "おのれだにこず",
         "koutei-yamagen": "おのれだに来ず",
         "translation-ja": "自分自身も来ない",
         "translation-en": "Even oneself does not come",
-        "translation-zh": "自己都不来",
+	"translation-zh": "自己都不来",
+        "phrase-gloss": [
+          {
+            "phrase": "おのれだに来ず",
+            "gloss": "oneself even come.NEG",
+            "words": [
+              {
+                "word": "おのれ",
+                "gloss": "oneself"
+              },
+              {
+                "word": "だに",
+                "gloss": "even"
+              },
+              {
+                "word": "来",
+                "gloss": "come.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "IRR": "irrealis form",
+          "NEG": "negation particle"
+        },
         "translation-ja-natural": "自分自身も来ない",
         "translation-en-natural": "Even oneself does not come",
         "translation-zh-natural": "连自己都不来",
@@ -22310,7 +24623,8 @@
           "GEN": "genitive (所属・連体修飾)",
           "QUOT": "quotative (引用・発話表示)",
           "COND": "conditional (条件)",
-          "COP.PST": "copula, past (過去の断定・存在)",
+          "COP": "copula (断定)",
+          "PST": "past (過去)",
           "IPFV": "imperfective (未完了・進行性)",
           "EXCL": "exclamation (詠嘆・念押し)"
         },
@@ -22568,15 +24882,22 @@
               },
               {
                 "word": "まし",
-                "gloss": "IRR.WISH",
+                "gloss": "wish.ATTR",
                 "gloss-morph": "=CFT.ADN",
                 "gloss-zh": "希望",
                 "gloss-morph-zh": "=CFT.ADN"
               },
               {
-                "word": "ものを",
+                "word": "もの",
                 "gloss": "thing",
-                "gloss-morph": "=CON",
+		"gloss-morph": "thing",
+                "gloss-zh": "东西",
+                "gloss-morph-zh": "东西"
+              },
+              {
+                "word": "を",
+                "gloss": "EXCL",
+		"gloss-morph": "=CON",
                 "gloss-zh": "明明...但是",
                 "gloss-morph-zh": "=CON"
               }
@@ -22619,14 +24940,13 @@
           "GEN": "genitive (所属・連体修飾)",
           "ACC": "accusative (目的格)",
           "CVB": "converb (連用接続助詞)",
-          "IRR": "irrealis (未実現の事態)",
-          "COP.IRR": "copula, irrealis (仮定の断定)",
+          "COP": "copula (断定)",
           "COND": "conditional (条件)",
           "AUX": "auxiliary (助動的要素)",
           "PRF": "perfect (完了)",
           "REL": "relativizer (連体修飾)",
-          "IRR.WISH": "irrealis + wish (反実仮想の願望)",
-          "EXCL.ADVERS": "exclamation + adversative nuance (詠嘆＋逆接の語感)"
+          "IRR": "irrealis (未然形)",
+          "EXCL": "exclamation (詠嘆)"
         },
         "translation-ja-natural": "ああ、はっきりしない...今日は子の日なのだろうか。私が海女だったら、せめて海松くらいは引いてみようものを。",
         "translation-en-natural": "Ah, it's all so uncertain... Is today really the Day of the Rat? If I were a diver, I might have at least pulled up some sea pine.",
@@ -22801,7 +25121,7 @@
               },
               {
                 "word": "む",
-                "gloss": "IRR",
+                "gloss": "FUT"，
                 "gloss-morph": "=CJT-CCL",
                 "gloss-zh": "吗",
                 "gloss-morph-zh": "=CJT-CCL"
@@ -22832,7 +25152,7 @@
           "GEN": "genitive (連体格)",
           "INS": "instrumental (手段格)",
           "TOP": "topic (主題)",
-          "IRR": "irrealis (非現実・推量・意志)"
+          "FUT": "future (推量・意志)"
         },
         "translation-ja-natural": "海の上で、子の日の歌なんて、どうなのかしらね。",
         "translation-en-natural": "Out here at sea, a poem for the Day of the Rat—does that even make sense?",
@@ -26715,7 +29035,7 @@
               },
               {
                 "word": "む",
-                "gloss": "MOD.FUT",
+                "gloss": "FUT",
                 "gloss-morph": "+CJT-CCL",
                 "gloss-zh": "吧",
                 "gloss-morph-zh": "+CJT-CCL"
@@ -26748,7 +29068,7 @@
           "ACC": "accusative（目的格：〜を）",
           "QUOT": "quotative（引用：〜と）",
           "Q": "interrogative（疑問：〜か）",
-          "MOD.FUT": "modal/future（推量・未来：〜む）"
+          "FUT": "future（推量・未来：〜む）"
         },
         "translation-ja-natural": "波ひとつ立たない穏やかな日に、箱の浦の海を鏡と思わぬ人がいるでしょうか。",
         "translation-en-natural": "On a calm day with not a wave in sight, who could look at the sea of Hako no Ura and not see a mirror?",
@@ -29604,7 +31924,7 @@
               },
               {
                 "word": "じ",
-                "gloss": "NEG.SUPP",
+                "gloss": "NEG.FUT",
                 "gloss-morph": "=NEG.CJT",
                 "gloss-zh": "不-吧",
                 "gloss-morph-zh": "=NEG.CJT"
@@ -29701,7 +32021,7 @@
               },
               {
                 "word": "む",
-                "gloss": "SUPP",
+                "gloss": "FUT",
                 "gloss-morph": "=CJT",
                 "gloss-zh": "吧",
                 "gloss-morph-zh": "=CJT"
@@ -29716,8 +32036,8 @@
           "ATTR": "attributive（連体形：〜する）",
           "ADD": "addition（追加：〜も）",
           "QUOT": "quotative（引用：〜と）",
-          "SUPP": "suppositional（仮定：〜するつもり）",
-          "NEG.SUPP": "negation and suppositional（否定と仮定：〜しないつもり）"
+          "FUT": "future（未来：〜するつもり）",
+          "NEG": "negation（否定：〜ない）"
         },
         "translation-ja-natural": "忘れ貝なんて、もう拾わない。せめて白玉を恋しく思うことだけでも、形見と思おう。",
         "translation-en-natural": "I won’t pick up the forgetful shell anymore. But even just longing for the white jewel—I'll treasure that feeling as a keepsake.",
@@ -50789,7 +53109,7 @@
             "words": [
               {
                 "word": "見",
-                "gloss": "see.ADV.F",
+                "gloss": "see.ADV",
                 "gloss-morph": "see-THM",
                 "gloss-zh": "见",
                 "gloss-morph-zh": "看-THM"
@@ -50916,7 +53236,7 @@
             "words": [
               {
                 "word": "わかれ",
-                "gloss": "part.NEG.BASE",
+                "gloss": "part.ADV",
                 "gloss-morph": "part-NML",
                 "gloss-zh": "别离",
                 "gloss-morph-zh": "分离-NML"
@@ -51016,7 +53336,7 @@
               },
               {
                 "word": "おほかれ",
-                "gloss": "many.REALIS.F",
+                "gloss": "many.REALIS",
                 "gloss-morph": "many-VBL-INC",
                 "gloss-zh": "多",
                 "gloss-morph-zh": "多-VBL-INC"
@@ -51032,28 +53352,28 @@
           },
           {
             "phrase": "えつくさず",
-            "gloss": "cannot fully-express-NEG",
+            "gloss": "POT fully-express NEG",
             "gloss-morph": "POT fully.express-THM=NEG.CCL",
             "gloss-zh": "无法穷尽",
-            "gloss-morph-": "POT 穷尽-THM=NEG.CCL",
+            "gloss-morph-zh": "POT 穷尽-THM=NEG.CCL",
             "words": [
               {
                 "word": "え",
-                "gloss": "NEG.POT",
+                "gloss": "POT^1",
                 "gloss-morph": "POT",
                 "gloss-zh": "无法",
                 "gloss-morph-zh": "POT"
               },
               {
                 "word": "つくさ",
-                "gloss": "fully-express.NEG.BASE",
+                "gloss": "fully-express.IRR",
                 "gloss-morph": "fully.express-THM",
                 "gloss-zh": "穷尽",
                 "gloss-morph-zh": "穷尽-THM"
               },
               {
                 "word": "ず",
-                "gloss": "NEG",
+                "gloss": "NEG^2",
                 "gloss-morph": "=NEG.CCL",
                 "gloss-zh": "不",
                 "gloss-morph-zh": "=NEG.CCL"
