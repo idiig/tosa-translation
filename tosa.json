@@ -16072,102 +16072,102 @@
               {
                 "word": "かく",
                 "gloss": "thus",
-		"gloss-zh": "",
 		"gloss-morph": "",
+		"gloss-zh": "",
 		"gloss-morph-zh": ""
               },
               {
                 "word": "は",
                 "gloss": "TOP",
+		"gloss-morph": "=TOP",
 		"gloss-zh": "",
-		"gloss-morph": "",
-		"gloss-morph-zh": ""
+		"gloss-morph-zh": "=TOP"
               },
               {
                 "word": "言ふ",
                 "gloss": "say.ATTR",
-		"gloss-zh": "",
-		"gloss-morph": "",
-		"gloss-morph-zh": ""
+		"gloss-morph": "say-ADN",
+		"gloss-zh": "说",
+		"gloss-morph-zh": "说-ADN"
               },
               {
                 "word": "もの",
                 "gloss": "thing",
-		"gloss-zh": "",
-		"gloss-morph": "",
-		"gloss-morph-zh": ""
+		"gloss-morph": "thing",
+		"gloss-zh": "东西",
+		"gloss-morph-zh": "东西"
               },
               {
                 "word": "か",
                 "gloss": "Q",
-		"gloss-zh": "",
-		"gloss-morph": "",
-		"gloss-morph-zh": ""
+		"gloss-morph": "=XCL",
+		"gloss-zh": "吗",
+		"gloss-morph-zh": "=XCL"
               }
             ]
           },
           {
             "phrase": "美しければにやあらむ、",
             "gloss": "beautiful.CAUS.CONJ COP Q EMPH",
-	    "gloss-zh": "",
-	    "gloss-morph": "",
-	    "gloss-morph-zh": ""
+	    "gloss-morph": "beautiful-INC=XCD=DAT=XCL+COP-THM+CJT-CCL",
+	    "gloss-zh": "是因为美吗",
+	    "gloss-morph-zh": "美-INC=XCD=DAT=XCL+COP-THM+CJT-CCL",
             "words": [
               {
                 "word": "美しけれ",
                 "gloss": "beautiful.IRR",
-		"gloss-zh": "",
-		"gloss-morph": "",
-		"gloss-morph-zh": ""
+		"gloss-morph": "beautiful-INC",
+		"gloss-zh": "美",
+		"gloss-morph-zh": "美-INC"
               },
               {
                 "word": "ば",
                 "gloss": "CAUS",
-		"gloss-zh": "",
-		"gloss-morph": "",
-		"gloss-morph-zh": ""
+		"gloss-morph": "=XCD",
+		"gloss-zh": "因为",
+		"gloss-morph-zh": "=XCD"
               },
               {
                 "word": "に",
                 "gloss": "COP.ADV",
+		"gloss-morph": "=DAT",
 		"gloss-zh": "",
-		"gloss-morph": "",
-		"gloss-morph-zh": ""
+		"gloss-morph-zh": "=DAT"
               },
               {
                 "word": "や",
                 "gloss": "Q",
-		"gloss-zh": "",
-		"gloss-morph": "",
-		"gloss-morph-zh": ""
+		"gloss-morph": "=XCL",
+		"gloss-zh": "吗",
+		"gloss-morph-zh": "=XCL"
               },
               {
                 "word": "あら",
                 "gloss": "COP.IRR",
+		"gloss-morph": "+COP-THM",
 		"gloss-zh": "",
-		"gloss-morph": "",
-		"gloss-morph-zh": ""
+		"gloss-morph-zh": "+COP-THM"
               },
               {
                 "word": "む",
                 "gloss": "EMPH",
-		"gloss-zh": "",
-		"gloss-morph": "",
-		"gloss-morph-zh": ""
+		"gloss-morph": "+CJT-CCL",
+		"gloss-zh": "吧",
+		"gloss-morph-zh": "+CJT-CCL"
               }
             ]
           },
           {
             "phrase": "いと思はずなり。",
             "gloss": "very think.NEG become",
-	    "gloss-zh": "",
-	    "gloss-morph": "",
-	    "gloss-morph-zh": ""
+	    "gloss-morph": "very think-THM=NEG.CCL=COP-CCL",
+	    "gloss-zh": "完全没想到",
+	    "gloss-morph-zh": "非常 想-THM=NEG.CCL=COP-CCL",
             "words": [
               {
                 "word": "いと",
                 "gloss": "very",
-		"gloss-zh": "",
+		"gloss-zh": "很",
 		"gloss-morph": "",
 		"gloss-morph-zh": ""
               },
@@ -16181,15 +16181,15 @@
               {
                 "word": "ず",
                 "gloss": "NEG",
-		"gloss-zh": "",
 		"gloss-morph": "",
+		"gloss-zh": "",
 		"gloss-morph-zh": ""
               },
               {
                 "word": "なり",
                 "gloss": "become.END",
-		"gloss-zh": "",
 		"gloss-morph": "",
+		"gloss-zh": "",
 		"gloss-morph-zh": ""
               }
             ]
@@ -16229,136 +16229,232 @@
           {
             "phrase": "童言にては何かはせむ、",
             "gloss": "child speak CONJ what TOP do FUT,",
+	    "gloss-morph": "",
+	    "gloss-zh": "",
+	    "gloss-morph-zh": "",
             "words": [
               {
                 "word": "童言",
-                "gloss": "child speak"
+                "gloss": "child speak",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "にて",
-                "gloss": "CONJ"
+                "gloss": "CONJ",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "何か",
-                "gloss": "what"
+                "gloss": "what",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "は",
-                "gloss": "TOP"
+                "gloss": "TOP",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "せ",
-                "gloss": "do.REALIS"
+                "gloss": "do.REALIS",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "む",
-                "gloss": "FUT"
+                "gloss": "FUT",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               }
             ]
           },
           {
             "phrase": "嫗、翁にをしつべし、",
             "gloss": "old.woman, old.man DAT stamp SUP",
+	    "gloss-morph": "",
+	    "gloss-zh": "",
+	    "gloss-morph-zh": "",
             "words": [
               {
                 "word": "嫗",
-                "gloss": "old.woman"
+                "gloss": "old.woman",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "翁",
-                "gloss": "old.man"
+                "gloss": "old.man",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "に",
-                "gloss": "DAT"
+                "gloss": "DAT",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "をし",
-                "gloss": "stamp.ADV"
+                "gloss": "stamp.ADV",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "つ",
-                "gloss": "PERF"
+                "gloss": "PERF",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "べし",
-                "gloss": "SUP"
+                "gloss": "SUP",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               }
             ]
           },
           {
             "phrase": "悪しくもあれいかにもあれ、",
             "gloss": "badly also be Q EMPH also be Q EMPH,",
+	    "gloss-morph": "",
+	    "gloss-zh": "",
+	    "gloss-morph-zh": "",
             "words": [
               {
                 "word": "悪しく",
-                "gloss": "badly.ADV"
+                "gloss": "badly.ADV",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "も",
-                "gloss": "also"
+                "gloss": "also",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "あれ",
-                "gloss": "be.REALIS"
+                "gloss": "be.REALIS",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "いかに",
-                "gloss": "also"
+                "gloss": "also",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "も",
-                "gloss": "also"
+                "gloss": "also",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "あれ",
-                "gloss": "be.REALIS"
+                "gloss": "be.REALIS",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               }
             ]
           },
           {
             "phrase": "たよりあらば遣らむとておかれぬめり。",
             "gloss": "letter exist.IF send.FUT QUOT put.PST.SUP",
+	    "gloss-morph": "",
+	    "gloss-zh": "",
+	    "gloss-morph-zh": "",
             "words": [
               {
                 "word": "たより",
-                "gloss": "letter"
+                "gloss": "letter",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "あら",
-                "gloss": "exist.IRR"
+                "gloss": "exist.IRR",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "ば",
-                "gloss": "IF"
+                "gloss": "IF",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "遣ら",
-                "gloss": "send.IRR"
+                "gloss": "send.IRR",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "む",
-                "gloss": "FUT"
+                "gloss": "FUT",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "とて",
-                "gloss": "QUOT"
+                "gloss": "QUOT",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "おかれ",
-                "gloss": "put.REALIS"
+                "gloss": "put.REALIS",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "ぬ",
-                "gloss": "PERF.ATTR"
+                "gloss": "PERF.ATTR",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               },
               {
                 "word": "めり",
-                "gloss": "SUP"
+                "gloss": "SUP",
+		"gloss-morph": "",
+		"gloss-zh": "",
+		"gloss-morph-zh": ""
               }
             ]
           }
